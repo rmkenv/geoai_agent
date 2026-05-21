@@ -25,7 +25,7 @@ OLLAMA_TOKEN   = os.environ.get("OLLAMA_TOKEN",   "").strip()
 
 FEED_PATH      = Path(__file__).parent.parent / "data" / "feed.json"
 MAX_ITEMS      = 60
-MAX_NEW_TODAY  = 10
+MAX_NEW_TODAY  = 15
 LOOKBACK_DAYS  = 30
 
 # Single OR-joined arXiv query — one request instead of 10
@@ -37,7 +37,7 @@ ARXIV_QUERY = (
     "+OR+NDVI+crop+yield"
     "+OR+LiDAR+point+cloud+classification"
 )
-ARXIV_MAX_RESULTS = 40  # pull more in one shot
+ARXIV_MAX_RESULTS = 60  # pull more in one shot
 
 WEB_QUERIES = [
     "GeoAI geospatial AI news 2025",
@@ -343,8 +343,16 @@ def main():
 
     existing      = load_feed()
     existing_real = [i for i in existing if not str(i.get("uid", "")).startswith("seed-")]
-    existing_uids = {i["uid"] for i in existing_real}
-    print(f"[agent] {len(existing_uids)} existing UIDs to skip")
+
+    # expire items older than LOOKBACK_DAYS so they don't permanently block re-discovery
+    cutoff        = (datetime.date.today() - datetime.timedelta(days=LOOKBACK_DAYS)).isoformat()
+    existing_live = [i for i in existing_real if i.get("curated_at", "9999") >= cutoff]
+    expired_count = len(existing_real) - len(existing_live)
+    if expired_count:
+        print(f"[agent] expired {expired_count} items older than {LOOKBACK_DAYS} days")
+
+    existing_uids = {i["uid"] for i in existing_live}
+    print(f"[agent] {len(existing_live)} live items, {len(existing_uids)} UIDs to skip")
 
     candidates = collect_candidates()
     new_items  = [c for c in candidates if c["uid"] not in existing_uids]
@@ -352,7 +360,7 @@ def main():
 
     if not new_items:
         print("[agent] nothing new — feed unchanged")
-        save_feed(existing_real)
+        save_feed(existing_live)
         return
 
     enriched = []
@@ -367,7 +375,7 @@ def main():
             print(f"  ✗ failed")
         time.sleep(2)
 
-    combined = (enriched + existing_real)[:MAX_ITEMS]
+    combined = (enriched + existing_live)[:MAX_ITEMS]
     arxiv_n  = sum(1 for e in enriched if e["source"] == "arxiv")
     web_n    = sum(1 for e in enriched if e["source"] == "web")
     print(f"\n[agent] added={len(enriched)} (arxiv={arxiv_n} web={web_n}) total={len(combined)}")
