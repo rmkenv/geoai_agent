@@ -1,6 +1,3 @@
 {
-  "buildCommand": "cd site && npm install && npm run build",
-  "outputDirectory": "site/out",
-  "installCommand": "echo skip",
   "framework": "nextjs"
 }

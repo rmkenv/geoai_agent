@@ -1,63 +1,78 @@
 # GeoAI Intelligence Feed
 
-An autonomous AI agent that researches, summarizes, and publishes daily GeoAI content to a public-facing website. Built for [IQSpatial](https://iqspatial.com).
+An autonomous AI agent that researches, summarizes, and publishes daily GeoAI content. Built for [IQSpatial](https://iqspatial.com).
 
-## How it works
-
-1. **Nightly GitHub Actions** job runs `agent/run.py` at 02:00 UTC
-2. The agent fetches recent papers from **arXiv** across 6 GeoAI topic queries
-3. Each paper is sent to **Ollama Cloud** for editorial enrichment (headline, TL;DR, significance, tags)
-4. Results are written to `data/feed.json` and committed back to the repo
-5. The commit triggers **Vercel** to rebuild and deploy the **Next.js** static site
+## Repo structure
 
 ```
 geoai-agent/
 ├── agent/
-│   └── run.py              # AI agent orchestrator
+│   └── run.py              # AI agent — arXiv fetch + Ollama enrichment
 ├── data/
-│   └── feed.json           # Flat-file data store (committed to repo)
-├── site/                   # Next.js frontend
-│   └── src/
-│       ├── app/            # Pages + global CSS
-│       ├── components/     # FeedClient (search, filter, sort)
-│       └── lib/            # feed.ts data utility
+│   └── feed.json           # Flat-file data store (auto-committed nightly)
+├── src/                    # Next.js app (at repo root)
+│   ├── app/
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   └── globals.css
+│   ├── components/
+│   │   └── FeedClient.tsx  # Search, filter, sort UI
+│   └── lib/
+│       └── feed.ts         # Reads data/feed.json at build time
 ├── .github/workflows/
-│   └── nightly.yml         # Cron + commit workflow
-└── vercel.json             # Vercel build config
+│   └── nightly.yml         # Cron job + git commit
+├── next.config.js
+├── package.json
+├── tsconfig.json
+└── vercel.json
 ```
+
+## How it works
+
+1. **Nightly GitHub Actions** runs `agent/run.py` at 02:00 UTC
+2. Agent fetches new papers from **arXiv** across GeoAI topic queries
+3. Each paper is sent to **Ollama Cloud** for editorial enrichment (headline, TL;DR, tags, difficulty)
+4. Results committed to `data/feed.json` → triggers **Vercel** rebuild
+5. Next.js reads `data/feed.json` at build time and renders the static site
 
 ## Setup
 
-### 1. Clone and push to GitHub
+### 1. Push to GitHub
 
 ```bash
-git clone <this-repo>
-cd geoai-agent
-git remote set-url origin https://github.com/YOUR_ORG/geoai-agent.git
+git init && git add .
+git commit -m "init: GeoAI agent + feed site"
+git remote add origin https://github.com/rmkenv/geoai_agent.git
 git push -u origin main
 ```
 
-### 2. Set GitHub Secrets
+### 2. Add GitHub Secrets
 
-Go to **Settings → Secrets → Actions** and add:
+Go to **repo → Settings → Secrets and variables → Actions → New repository secret**:
 
 | Secret | Value |
 |---|---|
 | `OLLAMA_API_URL` | `https://ollama.com/api/chat` |
-| `OLLAMA_MODEL`   | Your model name (e.g. `gpt-oss:20b`, `llama3`, `mistral`) |
-| `OLLAMA_TOKEN`   | Your Ollama Cloud Bearer token |
+| `OLLAMA_MODEL` | your model name (e.g. `gpt-oss:20b`, `llama3`) |
+| `OLLAMA_TOKEN` | your Ollama Cloud Bearer token |
 
-### 3. Deploy to Vercel
+The **Actions tab** appears automatically once `.github/workflows/nightly.yml` is pushed.
 
-1. Import the repo in [vercel.com/new](https://vercel.com/new)
-2. Vercel auto-detects `vercel.json` — no additional config needed
-3. Set **Auto-deploy on push** — each nightly commit triggers a rebuild
+### 3. Deploy on Vercel
 
-### 4. Trigger the first run
+1. Go to [vercel.com/new](https://vercel.com/new) → Import `rmkenv/geoai_agent`
+2. **Root Directory**: leave as `/` (package.json is at repo root)
+3. **Framework**: Next.js (auto-detected)
+4. Deploy — done
 
+Each nightly commit triggers an automatic redeploy.
+
+### 4. Trigger first run manually
+
+In GitHub: **Actions tab → "GeoAI Agent — nightly run" → Run workflow**
+
+Or locally:
 ```bash
-# Via GitHub UI: Actions → "GeoAI Agent — nightly run" → Run workflow
-# Or locally for testing:
 OLLAMA_API_URL=https://ollama.com/api/chat \
 OLLAMA_MODEL=llama3 \
 OLLAMA_TOKEN=your_token \
@@ -66,39 +81,18 @@ python agent/run.py
 
 ## Customising
 
-### Change arXiv topics
-Edit `ARXIV_TOPICS` in `agent/run.py` — any free-text query works.
+**Topics**: edit `ARXIV_TOPICS` in `agent/run.py`  
+**Tags**: edit `TAGS_VOCAB` — the LLM only uses tags from this list  
+**Volume**: `MAX_NEW_TODAY` (articles per run), `MAX_ITEMS` (rolling window)  
+**Sources**: add new fetch functions alongside `fetch_arxiv()` in `collect_candidates()`
 
-### Change the tag vocabulary
-Edit `TAGS_VOCAB` in `agent/run.py`. The LLM is instructed to only use tags from this list.
-
-### Adjust volume
-- `MAX_NEW_TODAY` — articles enriched per nightly run (default 8)
-- `MAX_ITEMS` — rolling window size in `feed.json` (default 40)
-
-### Add more sources
-Implement a new fetch function alongside `fetch_arxiv()` (e.g. RSS feeds, Semantic Scholar API) and call it in `collect_candidates()`.
-
-## Local development
+## Local dev
 
 ```bash
-# Run the agent (dry run without pushing)
+# Agent
 python agent/run.py
 
-# Run the site
-cd site
+# Site
 npm install
-npm run dev      # http://localhost:3000
+npm run dev   # http://localhost:3000
 ```
-
-## Tech stack
-
-| Layer | Tool |
-|---|---|
-| Agent language | Python 3.11 (stdlib only, no pip deps) |
-| LLM | Ollama Cloud (configurable model) |
-| Research source | arXiv API |
-| Data store | Flat JSON file in repo |
-| CI/CD | GitHub Actions |
-| Frontend | Next.js 14 (static export) |
-| Hosting | Vercel |
