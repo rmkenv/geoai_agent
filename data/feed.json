@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "seed-001",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2401.00001",
+    "arxiv_id": "2401.00001",
+    "title": "Foundation Models for Geospatial Intelligence: A Survey",
+    "authors": ["Agent, GeoAI"],
+    "published": "2024-01-01",
+    "curated_at": "2024-01-01",
+    "headline": "Comprehensive survey maps the geospatial foundation model landscape",
+    "tldr": "This survey systematically reviews large-scale pre-trained models adapted for satellite imagery, LiDAR, and geospatial vector data. The authors benchmark 30+ models across detection, segmentation, and change-detection tasks.",
+    "significance": "Gives practitioners a unified framework for selecting and fine-tuning geospatial foundation models for downstream Earth observation tasks.",
+    "tags": ["foundation-models", "remote-sensing", "benchmark"],
+    "readtime": 4,
+    "difficulty": "intermediate"
+  }
+]
