@@ -1,1 +1,188 @@
-[]
+[
+  {
+    "uid": "d4446b2d5754997795eb525cfaead966",
+    "source": "web",
+    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
+    "arxiv_id": "",
+    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "2025 GeoAI Breakthroughs: Predictive Insights, Automation, and Climate Solutions for Urban Resilience",
+    "tldr": "The 2025 GeoAI landscape showcases breakthroughs in predictive modeling, real-time automation, and climate resilience. These advances empower cities, agriculture, and disaster response with actionable insights.",
+    "significance": "These trends position GeoAI as a pivotal tool for addressing global challenges and unlocking economic growth.",
+    "tags": [
+      "remote-sensing",
+      "urban-AI",
+      "flood-detection",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
+    "arxiv_id": "",
+    "title": "Towards the next generation of Geospatial Artificial Intelligence",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "Charting the Future of Geospatial AI: From Foundations to Real-Time Insights",
+    "tldr": "GeoAI merges geospatial science with AI, rapidly evolving as a leading research frontier. Understanding recent advances is essential to anticipate its future trajectory.",
+    "significance": "Advancing GeoAI will unlock unprecedented capabilities for spatial analysis, enabling smarter decision-making across diverse domains.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "521e2d519339833a0f9d45e892a52090",
+    "source": "web",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000691",
+    "arxiv_id": "",
+    "title": "Artificial Intelligence in Earth Science: A GeoAI Perspective",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "GeoAI Revolutionizes Earth Science: From Remote Sensing to Predictive Decision-Making",
+    "tldr": "GeoAI blends geospatial data with AI to improve environmental monitoring and predictive modeling. The 2024 AGU lecture highlights its growing impact on addressing climate and ecosystem challenges.",
+    "significance": "GeoAI offers a transformative framework that enhances Earth science research and policy decisions by integrating vast spatial datasets with advanced AI techniques.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "70b6d71bfb6fedc7d17008d57bb00d1c",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/sponsored/geoai-and-the-next-generation-of-geospatial-insights",
+    "arxiv_id": "",
+    "title": "GeoAI and the Next Generation of Geospatial Insights",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "GeoAI Revolutionizes Geospatial Insights: From Satellite Imagery to Real-Time Urban Planning",
+    "tldr": "GeoAI blends geospatial data, sensing tech, and AI to deliver unprecedented insights across sectors. This convergence enables faster, more accurate mapping, monitoring, and decision-making worldwide.",
+    "significance": "By integrating AI with geospatial data, GeoAI transforms raw satellite imagery into actionable intelligence, accelerating innovation in environmental monitoring, urban development, and disaster response.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "urban-AI",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c372756dc3050e8979c1ab5331fba6b3",
+    "source": "web",
+    "url": "https://github.com/topics/remote-sensing",
+    "arxiv_id": "",
+    "title": "remote-sensing · GitHub Topics · GitHub",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "Open-Source Deep Learning Framework Accelerates Satellite Image Analysis for Rapid Insight",
+    "tldr": "This library provides modular tools for training and deploying deep learning models on satellite and aerial imagery. It supports tasks like segmentation, object detection, and change detection, enabling researchers and developers to build custom pipelines quickly.",
+    "significance": "By democratizing access to advanced deep learning for remote sensing, it speeds up environmental monitoring and decision-making worldwide.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
+    "source": "web",
+    "url": "https://opengeoai.org/",
+    "arxiv_id": "",
+    "title": "GeoAI: Artificial Intelligence for Geospatial Data",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "GeoAI: Bridging AI and Geospatial Data for Smarter Earth Analysis",
+    "tldr": "GeoAI is a Python package that integrates machine learning with geographic data, enabling researchers to apply AI techniques to spatial datasets. Its intuitive tools streamline tasks such as segmentation, object detection, and time‑series analysis across diverse geospatial modalities.",
+    "significance": "By simplifying AI workflows for geospatial data, GeoAI accelerates insights in fields ranging from urban planning to environmental monitoring.",
+    "tags": [
+      "open-source",
+      "remote-sensing",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1785692639303012acc70ffb83d999f5",
+    "source": "web",
+    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
+    "arxiv_id": "",
+    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Integrated Earth Observation",
+    "tldr": "NASA has released Galileo, an open-source multimodal foundation model that processes satellite imagery, time series, and tabular data in a unified architecture. Its tokenization pipeline splits inputs into spatial patches, timesteps, and logical channel groups, enabling versatile Earth observation tasks.",
+    "significance": "Galileo democratizes advanced Earth observation by providing a single, adaptable model that can handle diverse data types, accelerating research and operational applications.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "47a9a41832d1ffd0ac4d5ddeb6229b55",
+    "source": "web",
+    "url": "https://pypi.org/project/geoai-py/",
+    "arxiv_id": "",
+    "title": "geoai-py · PyPI",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "GeoAI: Python Package Bridging AI and Geospatial Data Analysis for Researchers",
+    "tldr": "GeoAI is a Python library that integrates AI techniques with geospatial data workflows. It offers intuitive tools for machine learning on geographic datasets, enabling researchers to analyze and visualize spatial information efficiently.",
+    "significance": "GeoAI empowers geospatial scientists to apply state‑of‑the‑art AI models directly to geographic data, accelerating insights and decision‑making.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "segmentation"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "0a000f935aceec4a908e71d0fce3c7f0",
+    "source": "web",
+    "url": "https://www.grsg.org.uk/open-source-software",
+    "arxiv_id": "",
+    "title": "Open Source Software - The Geological Remote Sensing Group (GRSG)",
+    "authors": [],
+    "published": "2026-05-21",
+    "curated_at": "2026-05-21",
+    "headline": "GRSG Unites Free Geospatial Tools for Advanced Remote Sensing Analysis",
+    "tldr": "The Geological Remote Sensing Group aggregates open-source software and libraries for processing optical, multispectral, SAR, and hyperspectral imagery. These resources empower researchers and professionals to conduct sophisticated image analysis without cost barriers.",
+    "significance": "By consolidating free tools, GRSG democratizes access to advanced remote sensing capabilities, accelerating scientific discovery and practical applications.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "SAR"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  }
+]
