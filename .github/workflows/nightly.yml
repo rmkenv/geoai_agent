@@ -1,0 +1,39 @@
+name: GeoAI Agent — nightly run
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 02:00 UTC every day
+  workflow_dispatch:        # manual trigger from Actions tab
+
+permissions:
+  contents: write           # allows committing data/feed.json
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run GeoAI agent
+        env:
+          OLLAMA_API_URL: ${{ secrets.OLLAMA_API_URL }}
+          OLLAMA_MODEL:   ${{ secrets.OLLAMA_MODEL }}
+          OLLAMA_TOKEN:   ${{ secrets.OLLAMA_TOKEN }}
+        run: python agent/run.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name  "GeoAI Agent"
+          git config user.email "agent@iqspatial.com"
+          git add data/feed.json
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore(agent): nightly GeoAI feed update $(date -u +%Y-%m-%d)"
+          git push
