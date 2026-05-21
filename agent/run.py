@@ -1,7 +1,7 @@
 """
 GeoAI Content Agent — nightly runner
 Sources:
-  1. arXiv API       — recent academic papers
+  1. arXiv API (single batched query) — rate-limit safe
   2. DuckDuckGo HTML — blog posts, GitHub releases, industry news
 Summarizes via Ollama Cloud, writes to data/feed.json.
 """
@@ -25,28 +25,24 @@ OLLAMA_TOKEN   = os.environ.get("OLLAMA_TOKEN",   "").strip()
 
 FEED_PATH      = Path(__file__).parent.parent / "data" / "feed.json"
 MAX_ITEMS      = 60
-MAX_NEW_TODAY  = 12
-LOOKBACK_DAYS  = 30   # widened to 30 days
+MAX_NEW_TODAY  = 10
+LOOKBACK_DAYS  = 30
 
-ARXIV_TOPICS = [
-    "geospatial artificial intelligence",
-    "remote sensing deep learning",
-    "satellite image segmentation",
-    "spatial machine learning",
-    "large language model geospatial",
-    "SAR flood detection",
-    "NDVI crop prediction",
-    "urban heat island satellite",
-    "change detection multispectral",
-    "point cloud lidar deep learning",
-]
+# Single OR-joined arXiv query — one request instead of 10
+ARXIV_QUERY = (
+    "geospatial+AI+OR+remote+sensing+deep+learning"
+    "+OR+satellite+image+foundation+model"
+    "+OR+spatial+machine+learning"
+    "+OR+SAR+flood+detection"
+    "+OR+NDVI+crop+yield"
+    "+OR+LiDAR+point+cloud+classification"
+)
+ARXIV_MAX_RESULTS = 40  # pull more in one shot
 
 WEB_QUERIES = [
-    "GeoAI geospatial AI 2025",
-    "remote sensing AI open source 2025",
-    "satellite imagery machine learning release 2025",
-    "geospatial foundation model 2025",
-    "planetary computer earth observation AI 2025",
+    "GeoAI geospatial AI news 2025",
+    "remote sensing AI open source tool 2025",
+    "satellite imagery machine learning 2025",
 ]
 
 SKIP_DOMAINS = {
@@ -83,33 +79,34 @@ def validate_config():
         missing.append("OLLAMA_MODEL")
     if missing:
         print(f"[agent] ERROR: missing env vars: {', '.join(missing)}")
-        print("[agent] Repo → Settings → Secrets and variables → Actions → New repository secret")
         sys.exit(1)
-    print(f"[agent] config ok — model={OLLAMA_MODEL} url={OLLAMA_API_URL}")
+    print(f"[agent] config ok — model={OLLAMA_MODEL}")
 
 
-# ── ArXiv ─────────────────────────────────────────────────────────────────────
+# ── ArXiv — single batched request ───────────────────────────────────────────
 
-def fetch_arxiv(query: str, max_results: int = 10) -> list[dict]:
-    q = urllib.parse.quote(query)
+def fetch_arxiv_batch() -> list[dict]:
+    """One request with an OR query — avoids 429s from rapid sequential calls."""
     url = (
         f"http://export.arxiv.org/api/query"
-        f"?search_query=all:{q}&sortBy=submittedDate&sortOrder=descending"
-        f"&max_results={max_results}"
+        f"?search_query=all:{ARXIV_QUERY}"
+        f"&sortBy=submittedDate&sortOrder=descending"
+        f"&max_results={ARXIV_MAX_RESULTS}"
     )
+    print(f"[arxiv] single batch request, max_results={ARXIV_MAX_RESULTS}")
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "GeoAI-Agent/1.0"})
-        with urllib.request.urlopen(req, timeout=20) as resp:
+        req = urllib.request.Request(url, headers={"User-Agent": "GeoAI-Agent/1.0 (research bot)"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
             xml = resp.read().decode()
     except Exception as e:
-        print(f"  [arxiv] ERROR fetching '{query}': {e}")
+        print(f"[arxiv] ERROR: {e}")
         return []
 
-    cutoff  = (datetime.date.today() - datetime.timedelta(days=LOOKBACK_DAYS)).isoformat()
-    entries = []
-    raw_count = len(xml.split("<entry>")) - 1
-    print(f"  [arxiv] raw XML entries: {raw_count}, cutoff: {cutoff}")
+    cutoff     = (datetime.date.today() - datetime.timedelta(days=LOOKBACK_DAYS)).isoformat()
+    raw_count  = len(xml.split("<entry>")) - 1
+    print(f"[arxiv] got {raw_count} raw entries, cutoff={cutoff}")
 
+    entries = []
     for entry_xml in xml.split("<entry>")[1:]:
         def tag(t):
             s = entry_xml.find(f"<{t}>")
@@ -122,7 +119,6 @@ def fetch_arxiv(query: str, max_results: int = 10) -> list[dict]:
         published = tag("published")[:10]
 
         if published < cutoff:
-            print(f"  [arxiv] skip (old {published}): {title[:50]}")
             continue
 
         authors = []
@@ -136,23 +132,20 @@ def fetch_arxiv(query: str, max_results: int = 10) -> list[dict]:
             entries.append({
                 "id":        arxiv_id,
                 "title":     title,
-                "snippet":   summary[:600],
+                "snippet":   summary[:800],
                 "authors":   authors[:3],
                 "published": published,
                 "url":       f"https://arxiv.org/abs/{arxiv_id}",
                 "source":    "arxiv",
             })
 
+    print(f"[arxiv] {len(entries)} entries within {LOOKBACK_DAYS} days")
     return entries
 
 
 # ── DuckDuckGo HTML scrape ────────────────────────────────────────────────────
 
 def fetch_ddg(query: str, max_results: int = 6) -> list[dict]:
-    """
-    Scrapes DDG HTML results page — no API key, no vqd token needed.
-    Parses result links and snippets directly from the HTML.
-    """
     params = urllib.parse.urlencode({"q": query, "kl": "us-en"})
     url    = f"https://html.duckduckgo.com/html/?{params}"
     req    = urllib.request.Request(url, headers=BROWSER_HEADERS)
@@ -164,34 +157,27 @@ def fetch_ddg(query: str, max_results: int = 6) -> list[dict]:
         print(f"  [ddg] ERROR fetching '{query}': {e}")
         return []
 
-    results = []
-
-    # DDG HTML results have this structure:
-    # <a class="result__a" href="...">title</a>
-    # <a class="result__snippet">snippet</a>
     result_blocks = re.findall(
         r'class="result__a"[^>]*href="([^"]+)"[^>]*>(.*?)</a>.*?class="result__snippet"[^>]*>(.*?)</a>',
         html, re.DOTALL
     )
+    print(f"  [ddg] '{query[:45]}' → {len(result_blocks)} raw blocks")
 
-    print(f"  [ddg] raw blocks found: {len(result_blocks)} for '{query[:40]}'")
-
+    results = []
     for href, title_html, snippet_html in result_blocks[:max_results]:
-        # DDG wraps real URLs in a redirect — extract the uddg param
-        m = re.search(r'uddg=([^&"]+)', href)
+        m        = re.search(r'uddg=([^&"]+)', href)
         real_url = urllib.parse.unquote(m.group(1)) if m else href
-
-        title   = re.sub(r'<[^>]+>', '', title_html).strip()
-        snippet = re.sub(r'<[^>]+>', '', snippet_html).strip()
+        title    = re.sub(r'<[^>]+>', '', title_html).strip()
+        # decode HTML entities
+        title    = title.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&#39;", "'").replace("&quot;", '"')
+        snippet  = re.sub(r'<[^>]+>', '', snippet_html).strip()
 
         if not real_url.startswith("http") or not title:
             continue
-
         try:
             domain = urllib.parse.urlparse(real_url).netloc.lstrip("www.")
         except Exception:
             continue
-
         if domain in SKIP_DOMAINS or "arxiv.org" in real_url:
             continue
 
@@ -204,7 +190,6 @@ def fetch_ddg(query: str, max_results: int = 6) -> list[dict]:
             "url":       real_url,
             "source":    "web",
         })
-
     return results
 
 
@@ -213,24 +198,17 @@ def fetch_ddg(query: str, max_results: int = 6) -> list[dict]:
 def collect_candidates() -> list[dict]:
     seen, candidates = set(), []
 
-    print("\n[agent] ── arXiv ──────────────────────────────────")
-    for topic in ARXIV_TOPICS:
-        print(f"[arxiv] querying: '{topic}'")
-        results = fetch_arxiv(topic, max_results=10)
-        added = 0
-        for paper in results:
-            uid = hashlib.md5(paper["id"].encode()).hexdigest()
-            if uid not in seen:
-                seen.add(uid)
-                paper["uid"] = uid
-                candidates.append(paper)
-                added += 1
-        print(f"  → {len(results)} within {LOOKBACK_DAYS} days, {added} unique new")
-        time.sleep(3)
+    # arXiv — one request
+    for paper in fetch_arxiv_batch():
+        uid = hashlib.md5(paper["id"].encode()).hexdigest()
+        if uid not in seen:
+            seen.add(uid)
+            paper["uid"] = uid
+            candidates.append(paper)
 
-    print(f"\n[agent] ── DuckDuckGo ─────────────────────────────")
+    # DDG — a few queries with polite gaps
+    print(f"\n[agent] ── DuckDuckGo ──")
     for query in WEB_QUERIES:
-        print(f"[ddg] querying: '{query}'")
         results = fetch_ddg(query, max_results=6)
         added = 0
         for item in results:
@@ -240,8 +218,8 @@ def collect_candidates() -> list[dict]:
                 item["uid"] = uid
                 candidates.append(item)
                 added += 1
-        print(f"  → {len(results)} results, {added} unique new")
-        time.sleep(2)
+        print(f"  → {len(results)} results, {added} new unique")
+        time.sleep(3)
 
     print(f"\n[agent] total candidates: {len(candidates)}")
     return candidates
@@ -249,12 +227,12 @@ def collect_candidates() -> list[dict]:
 
 # ── Ollama ────────────────────────────────────────────────────────────────────
 
-def ollama_chat(messages: list[dict], max_tokens: int = 600) -> str:
+def ollama_chat(messages: list[dict], max_tokens: int = 800) -> str:
     payload = json.dumps({
         "model":    OLLAMA_MODEL,
         "messages": messages,
         "stream":   False,
-        "options":  {"num_predict": max_tokens},
+        "options":  {"num_predict": max_tokens, "temperature": 0.3},
     }).encode()
 
     headers = {"Content-Type": "application/json"}
@@ -263,7 +241,7 @@ def ollama_chat(messages: list[dict], max_tokens: int = 600) -> str:
 
     req = urllib.request.Request(OLLAMA_API_URL, data=payload, headers=headers, method="POST")
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=90) as resp:
             data = json.loads(resp.read())
         return data.get("message", {}).get("content", "").strip()
     except Exception as e:
@@ -271,47 +249,53 @@ def ollama_chat(messages: list[dict], max_tokens: int = 600) -> str:
         return ""
 
 
-SYSTEM_PROMPT = """You are the GeoAI Content Agent for IQSpatial.
-Your job: read a paper abstract or web article snippet and produce structured editorial
-content for a professional GeoAI intelligence feed. Be precise, technically accurate,
-and concise. Audience: geospatial data scientists, remote sensing engineers, climate-tech
-practitioners."""
+# Keep the prompt short so the model has room to complete the JSON
+SYSTEM_PROMPT = (
+    "You are a GeoAI content editor. "
+    "Always respond with a single valid JSON object and nothing else. "
+    "No markdown, no explanation, no trailing text."
+)
+
+ENRICH_TMPL = """\
+Title: {title}
+Snippet: {snippet}
+
+Return this JSON object with all fields filled in:
+{{"headline":"<10-15 word headline>","tldr":"<2 sentences>","significance":"<1 sentence>","tags":[<2-4 from {tags}>],"readtime":<1-5>,"difficulty":"<introductory|intermediate|advanced>"}}"""
 
 
 def enrich_item(item: dict) -> dict | None:
-    authors_line = f"Authors: {', '.join(item['authors'])}\n" if item["authors"] else ""
-    source_label = "academic paper abstract" if item["source"] == "arxiv" else "web article snippet"
-
-    prompt = f"""Title: {item['title']}
-{authors_line}Published: {item['published']}
-Source: {item['url']}
-{source_label.capitalize()}: {item['snippet']}
-
-Produce JSON ONLY (no markdown fences) with these exact fields:
-- headline: string — punchy 10-15 word headline for a GeoAI feed
-- tldr: string — 2-sentence plain-English summary
-- significance: string — 1 sentence on why this matters for geospatial practitioners
-- tags: array of 2-4 strings ONLY from: {json.dumps(TAGS_VOCAB)}
-- readtime: integer — estimated read time 1-5 minutes
-- difficulty: string — "introductory", "intermediate", or "advanced"
-
-Return only the JSON object, nothing else."""
+    prompt = ENRICH_TMPL.format(
+        title   = item["title"][:200],
+        snippet = item["snippet"][:400],   # keep input short
+        tags    = json.dumps(TAGS_VOCAB),
+    )
 
     raw = ollama_chat(
         [{"role": "system", "content": SYSTEM_PROMPT},
          {"role": "user",   "content": prompt}],
-        max_tokens=400,
+        max_tokens=800,  # plenty of room to finish
     )
     if not raw:
         return None
 
-    raw = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+    # strip any accidental fences
+    raw = re.sub(r'^```[a-z]*\n?', '', raw.strip())
+    raw = re.sub(r'\n?```$',       '', raw.strip())
+    raw = raw.strip()
+
+    # extract first { ... } block in case model adds preamble
+    m = re.search(r'\{.*\}', raw, re.DOTALL)
+    if not m:
+        print(f"  [enrich] no JSON object found in response")
+        print(f"  [enrich] raw: {raw[:200]}")
+        return None
 
     try:
-        enriched = json.loads(raw)
-    except json.JSONDecodeError:
-        print(f"  [enrich] JSON parse failed: {item['title'][:60]}")
-        print(f"  [enrich] raw response: {raw[:200]}")
+        enriched = json.loads(m.group(0))
+    except json.JSONDecodeError as ex:
+        print(f"  [enrich] JSON parse failed: {ex}")
+        print(f"  [enrich] raw: {raw[:200]}")
         return None
 
     return {
@@ -327,7 +311,7 @@ Return only the JSON object, nothing else."""
         "tldr":         enriched.get("tldr", ""),
         "significance": enriched.get("significance", ""),
         "tags":         enriched.get("tags", []),
-        "readtime":     enriched.get("readtime", 3),
+        "readtime":     int(enriched.get("readtime", 3)),
         "difficulty":   enriched.get("difficulty", "intermediate"),
     }
 
@@ -335,64 +319,58 @@ Return only the JSON object, nothing else."""
 # ── Feed I/O ──────────────────────────────────────────────────────────────────
 
 def load_feed() -> list[dict]:
-    print(f"[feed] loading from: {FEED_PATH}")
+    print(f"[feed] loading from {FEED_PATH}")
     if FEED_PATH.exists():
         data = json.loads(FEED_PATH.read_text())
-        print(f"[feed] loaded {len(data)} existing items")
+        print(f"[feed] {len(data)} existing items")
         return data
-    print("[feed] no existing feed found — starting fresh")
+    print("[feed] no existing feed — starting fresh")
     return []
 
 
 def save_feed(items: list[dict]) -> None:
     FEED_PATH.parent.mkdir(parents=True, exist_ok=True)
     FEED_PATH.write_text(json.dumps(items, indent=2, ensure_ascii=False))
-    print(f"[feed] saved {len(items)} items → {FEED_PATH}")
-    # sanity check
     verify = json.loads(FEED_PATH.read_text())
-    print(f"[feed] verified: {len(verify)} items on disk")
+    print(f"[feed] saved & verified: {len(verify)} items on disk")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    print(f"[agent] ── GeoAI Agent starting {datetime.date.today()} ──")
+    print(f"[agent] ── GeoAI Agent {datetime.date.today()} ──")
     validate_config()
 
     existing      = load_feed()
-    existing_real = [i for i in existing if not str(i.get("uid","")).startswith("seed-")]
-    existing_uids = {item["uid"] for item in existing_real}
-    print(f"[agent] {len(existing_real)} real existing items, {len(existing_uids)} UIDs to skip")
+    existing_real = [i for i in existing if not str(i.get("uid", "")).startswith("seed-")]
+    existing_uids = {i["uid"] for i in existing_real}
+    print(f"[agent] {len(existing_uids)} existing UIDs to skip")
 
     candidates = collect_candidates()
     new_items  = [c for c in candidates if c["uid"] not in existing_uids]
-    print(f"[agent] {len(new_items)} new items to enrich (capped at {MAX_NEW_TODAY})")
+    print(f"[agent] {len(new_items)} new to enrich (cap={MAX_NEW_TODAY})")
 
     if not new_items:
-        print("[agent] nothing new found — feed unchanged")
-        # still save so the commit step sees no diff and exits cleanly
+        print("[agent] nothing new — feed unchanged")
         save_feed(existing_real)
         return
 
     enriched = []
     for item in new_items[:MAX_NEW_TODAY]:
         src = item["source"].upper()
-        print(f"\n[{src}] enriching: {item['title'][:70]}")
+        print(f"\n[{src}] {item['title'][:70]}")
         result = enrich_item(item)
         if result:
             enriched.append(result)
-            print(f"  ✓ headline: {result['headline'][:60]}")
+            print(f"  ✓ {result['headline'][:65]}")
         else:
-            print(f"  ✗ enrichment failed — skipping")
+            print(f"  ✗ failed")
         time.sleep(2)
 
-    combined = enriched + existing_real
-    combined = combined[:MAX_ITEMS]
-
-    arxiv_n = sum(1 for e in enriched if e["source"] == "arxiv")
-    web_n   = sum(1 for e in enriched if e["source"] == "web")
-    print(f"\n[agent] ── done ──")
-    print(f"[agent] added={len(enriched)} (arxiv={arxiv_n}, web={web_n}), total={len(combined)}")
+    combined = (enriched + existing_real)[:MAX_ITEMS]
+    arxiv_n  = sum(1 for e in enriched if e["source"] == "arxiv")
+    web_n    = sum(1 for e in enriched if e["source"] == "web")
+    print(f"\n[agent] added={len(enriched)} (arxiv={arxiv_n} web={web_n}) total={len(combined)}")
     save_feed(combined)
 
 
