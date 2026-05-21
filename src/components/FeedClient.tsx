@@ -112,7 +112,7 @@ export default function FeedClient({ items }: { items: FeedItem[] }) {
       <header>
         <div className="header-inner">
           <div className="brand">
-            <span className="brand-name">IQSpatial</span>
+            
             <h1 className="feed-title">GeoAI Intelligence Feed</h1>
           </div>
           <div className="header-meta">
@@ -174,7 +174,7 @@ export default function FeedClient({ items }: { items: FeedItem[] }) {
       </div>
 
       <footer>
-        <span>GeoAI Intelligence Feed · <a href="https://iqspatial.com" target="_blank">IQSpatial</a></span>
+        <span>GeoAI Intelligence Feed</span>
         <span>Sources: arXiv · DuckDuckGo · Powered by Ollama Cloud · Nightly via GitHub Actions</span>
       </footer>
     </div>
