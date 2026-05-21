@@ -26,35 +26,32 @@ OLLAMA_TOKEN   = os.environ.get("OLLAMA_TOKEN",   "").strip()
 FEED_PATH      = Path(__file__).parent.parent / "data" / "feed.json"
 MAX_ITEMS      = 60
 MAX_NEW_TODAY  = 12
-LOOKBACK_DAYS  = 14
+LOOKBACK_DAYS  = 30   # widened to 30 days
 
 ARXIV_TOPICS = [
     "geospatial artificial intelligence",
-    "remote sensing deep learning segmentation",
-    "satellite image foundation model",
-    "spatial machine learning geographic",
+    "remote sensing deep learning",
+    "satellite image segmentation",
+    "spatial machine learning",
     "large language model geospatial",
-    "SAR flood mapping neural network",
-    "NDVI crop yield prediction",
-    "urban heat island detection satellite",
+    "SAR flood detection",
+    "NDVI crop prediction",
+    "urban heat island satellite",
     "change detection multispectral",
-    "point cloud lidar classification",
+    "point cloud lidar deep learning",
 ]
 
 WEB_QUERIES = [
-    "GeoAI geospatial AI news",
-    "remote sensing AI open source release",
-    "satellite imagery machine learning tool",
-    "geospatial foundation model release",
-    "ESRI NASA ESA AI geospatial announcement",
+    "GeoAI geospatial AI 2025",
+    "remote sensing AI open source 2025",
+    "satellite imagery machine learning release 2025",
+    "geospatial foundation model 2025",
+    "planetary computer earth observation AI 2025",
 ]
 
-# domains to skip — paywalls, social, noise
 SKIP_DOMAINS = {
     "twitter.com", "x.com", "facebook.com", "linkedin.com",
-    "reddit.com", "youtube.com", "instagram.com",
-    "researchgate.net",   # just paper stubs
-    "semanticscholar.org",
+    "reddit.com", "youtube.com", "instagram.com", "researchgate.net",
 }
 
 TAGS_VOCAB = [
@@ -64,6 +61,16 @@ TAGS_VOCAB = [
     "spatial-reasoning", "LLM", "diffusion-models", "vector-tiles",
     "open-source", "benchmark", "real-time",
 ]
+
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+}
 
 
 # ── Validate secrets ──────────────────────────────────────────────────────────
@@ -76,9 +83,9 @@ def validate_config():
         missing.append("OLLAMA_MODEL")
     if missing:
         print(f"[agent] ERROR: missing env vars: {', '.join(missing)}")
-        print("[agent] Add them under repo → Settings → Secrets and variables → Actions")
+        print("[agent] Repo → Settings → Secrets and variables → Actions → New repository secret")
         sys.exit(1)
-    print(f"[agent] config ok — model={OLLAMA_MODEL}")
+    print(f"[agent] config ok — model={OLLAMA_MODEL} url={OLLAMA_API_URL}")
 
 
 # ── ArXiv ─────────────────────────────────────────────────────────────────────
@@ -91,14 +98,17 @@ def fetch_arxiv(query: str, max_results: int = 10) -> list[dict]:
         f"&max_results={max_results}"
     )
     try:
-        with urllib.request.urlopen(url, timeout=20) as resp:
+        req = urllib.request.Request(url, headers={"User-Agent": "GeoAI-Agent/1.0"})
+        with urllib.request.urlopen(req, timeout=20) as resp:
             xml = resp.read().decode()
     except Exception as e:
-        print(f"[arxiv] error for '{query}': {e}")
+        print(f"  [arxiv] ERROR fetching '{query}': {e}")
         return []
 
     cutoff  = (datetime.date.today() - datetime.timedelta(days=LOOKBACK_DAYS)).isoformat()
     entries = []
+    raw_count = len(xml.split("<entry>")) - 1
+    print(f"  [arxiv] raw XML entries: {raw_count}, cutoff: {cutoff}")
 
     for entry_xml in xml.split("<entry>")[1:]:
         def tag(t):
@@ -112,6 +122,7 @@ def fetch_arxiv(query: str, max_results: int = 10) -> list[dict]:
         published = tag("published")[:10]
 
         if published < cutoff:
+            print(f"  [arxiv] skip (old {published}): {title[:50]}")
             continue
 
         authors = []
@@ -131,103 +142,66 @@ def fetch_arxiv(query: str, max_results: int = 10) -> list[dict]:
                 "url":       f"https://arxiv.org/abs/{arxiv_id}",
                 "source":    "arxiv",
             })
+
     return entries
 
 
-# ── DuckDuckGo web search ─────────────────────────────────────────────────────
+# ── DuckDuckGo HTML scrape ────────────────────────────────────────────────────
 
-DDG_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
+def fetch_ddg(query: str, max_results: int = 6) -> list[dict]:
+    """
+    Scrapes DDG HTML results page — no API key, no vqd token needed.
+    Parses result links and snippets directly from the HTML.
+    """
+    params = urllib.parse.urlencode({"q": query, "kl": "us-en"})
+    url    = f"https://html.duckduckgo.com/html/?{params}"
+    req    = urllib.request.Request(url, headers=BROWSER_HEADERS)
 
-def _ddg_get_vqd(query: str) -> str:
-    """Fetch the vqd token DDG requires for its JSON search endpoint."""
-    url  = "https://duckduckgo.com/?" + urllib.parse.urlencode({"q": query})
-    req  = urllib.request.Request(url, headers=DDG_HEADERS)
     try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.urlopen(req, timeout=20) as resp:
             html = resp.read().decode(errors="ignore")
     except Exception as e:
-        print(f"[ddg] vqd fetch error: {e}")
-        return ""
-    m = re.search(r'vqd=(["\'])([^"\']+)\1', html)
-    return m.group(2) if m else ""
-
-
-def fetch_ddg(query: str, max_results: int = 8) -> list[dict]:
-    """
-    Uses DDG's internal /d.js endpoint (unofficial but stable).
-    Returns list of {title, url, snippet, source, published}.
-    """
-    vqd = _ddg_get_vqd(query)
-    if not vqd:
-        print(f"[ddg] could not get vqd for '{query}' — skipping")
-        return []
-
-    params = urllib.parse.urlencode({
-        "q":   query,
-        "vqd": vqd,
-        "df":  "w",        # past week
-        "kl":  "us-en",
-        "o":   "json",
-    })
-    url = "https://links.duckduckgo.com/d.js?" + params
-    req = urllib.request.Request(url, headers=DDG_HEADERS)
-
-    try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            raw = resp.read().decode(errors="ignore")
-    except Exception as e:
-        print(f"[ddg] search error for '{query}': {e}")
-        return []
-
-    # DDG wraps JSON in a JS callback — extract the array
-    m = re.search(r'\[.*\]', raw, re.DOTALL)
-    if not m:
-        print(f"[ddg] no results parsed for '{query}'")
-        return []
-
-    try:
-        items = json.loads(m.group(0))
-    except json.JSONDecodeError:
-        print(f"[ddg] JSON parse error for '{query}'")
+        print(f"  [ddg] ERROR fetching '{query}': {e}")
         return []
 
     results = []
-    for item in items[:max_results]:
-        if not isinstance(item, dict):
-            continue
-        url_val = item.get("u") or item.get("url", "")
-        title   = item.get("t") or item.get("title", "")
-        snippet = item.get("a") or item.get("snippet", "")
 
-        if not url_val or not title:
+    # DDG HTML results have this structure:
+    # <a class="result__a" href="...">title</a>
+    # <a class="result__snippet">snippet</a>
+    result_blocks = re.findall(
+        r'class="result__a"[^>]*href="([^"]+)"[^>]*>(.*?)</a>.*?class="result__snippet"[^>]*>(.*?)</a>',
+        html, re.DOTALL
+    )
+
+    print(f"  [ddg] raw blocks found: {len(result_blocks)} for '{query[:40]}'")
+
+    for href, title_html, snippet_html in result_blocks[:max_results]:
+        # DDG wraps real URLs in a redirect — extract the uddg param
+        m = re.search(r'uddg=([^&"]+)', href)
+        real_url = urllib.parse.unquote(m.group(1)) if m else href
+
+        title   = re.sub(r'<[^>]+>', '', title_html).strip()
+        snippet = re.sub(r'<[^>]+>', '', snippet_html).strip()
+
+        if not real_url.startswith("http") or not title:
             continue
 
-        # filter unwanted domains
         try:
-            domain = urllib.parse.urlparse(url_val).netloc.lstrip("www.")
+            domain = urllib.parse.urlparse(real_url).netloc.lstrip("www.")
         except Exception:
             continue
-        if domain in SKIP_DOMAINS:
-            continue
 
-        # dedupe with arxiv by skipping arxiv URLs
-        if "arxiv.org" in url_val:
+        if domain in SKIP_DOMAINS or "arxiv.org" in real_url:
             continue
 
         results.append({
-            "id":        hashlib.md5(url_val.encode()).hexdigest()[:12],
+            "id":        hashlib.md5(real_url.encode()).hexdigest()[:12],
             "title":     title,
             "snippet":   snippet[:600],
             "authors":   [],
             "published": datetime.date.today().isoformat(),
-            "url":       url_val,
+            "url":       real_url,
             "source":    "web",
         })
 
@@ -239,11 +213,11 @@ def fetch_ddg(query: str, max_results: int = 8) -> list[dict]:
 def collect_candidates() -> list[dict]:
     seen, candidates = set(), []
 
-    # 1. arXiv
-    print("[agent] --- arXiv ---")
+    print("\n[agent] ── arXiv ──────────────────────────────────")
     for topic in ARXIV_TOPICS:
+        print(f"[arxiv] querying: '{topic}'")
         results = fetch_arxiv(topic, max_results=10)
-        added   = 0
+        added = 0
         for paper in results:
             uid = hashlib.md5(paper["id"].encode()).hexdigest()
             if uid not in seen:
@@ -251,14 +225,14 @@ def collect_candidates() -> list[dict]:
                 paper["uid"] = uid
                 candidates.append(paper)
                 added += 1
-        print(f"[arxiv]  '{topic[:45]}' → {len(results)} results, {added} new")
+        print(f"  → {len(results)} within {LOOKBACK_DAYS} days, {added} unique new")
         time.sleep(3)
 
-    # 2. DuckDuckGo web
-    print("[agent] --- DuckDuckGo ---")
+    print(f"\n[agent] ── DuckDuckGo ─────────────────────────────")
     for query in WEB_QUERIES:
-        results = fetch_ddg(query, max_results=8)
-        added   = 0
+        print(f"[ddg] querying: '{query}'")
+        results = fetch_ddg(query, max_results=6)
+        added = 0
         for item in results:
             uid = hashlib.md5(item["url"].encode()).hexdigest()
             if uid not in seen:
@@ -266,9 +240,10 @@ def collect_candidates() -> list[dict]:
                 item["uid"] = uid
                 candidates.append(item)
                 added += 1
-        print(f"[ddg]    '{query[:45]}' → {len(results)} results, {added} new")
+        print(f"  → {len(results)} results, {added} unique new")
         time.sleep(2)
 
+    print(f"\n[agent] total candidates: {len(candidates)}")
     return candidates
 
 
@@ -292,7 +267,7 @@ def ollama_chat(messages: list[dict], max_tokens: int = 600) -> str:
             data = json.loads(resp.read())
         return data.get("message", {}).get("content", "").strip()
     except Exception as e:
-        print(f"[ollama] error: {e}")
+        print(f"  [ollama] ERROR: {e}")
         return ""
 
 
@@ -304,21 +279,21 @@ practitioners."""
 
 
 def enrich_item(item: dict) -> dict | None:
-    source_label = "academic paper abstract" if item["source"] == "arxiv" else "web article snippet"
     authors_line = f"Authors: {', '.join(item['authors'])}\n" if item["authors"] else ""
+    source_label = "academic paper abstract" if item["source"] == "arxiv" else "web article snippet"
 
     prompt = f"""Title: {item['title']}
 {authors_line}Published: {item['published']}
 Source: {item['url']}
 {source_label.capitalize()}: {item['snippet']}
 
-Produce JSON ONLY (no markdown fences) with these fields:
+Produce JSON ONLY (no markdown fences) with these exact fields:
 - headline: string — punchy 10-15 word headline for a GeoAI feed
-- tldr: string — 2-sentence plain-English summary of the key contribution or finding
+- tldr: string — 2-sentence plain-English summary
 - significance: string — 1 sentence on why this matters for geospatial practitioners
-- tags: array of 2-4 strings chosen ONLY from: {json.dumps(TAGS_VOCAB)}
-- readtime: integer — estimated read time in minutes (1-5)
-- difficulty: string — one of "introductory", "intermediate", "advanced"
+- tags: array of 2-4 strings ONLY from: {json.dumps(TAGS_VOCAB)}
+- readtime: integer — estimated read time 1-5 minutes
+- difficulty: string — "introductory", "intermediate", or "advanced"
 
 Return only the JSON object, nothing else."""
 
@@ -335,7 +310,8 @@ Return only the JSON object, nothing else."""
     try:
         enriched = json.loads(raw)
     except json.JSONDecodeError:
-        print(f"[enrich] JSON parse failed: {item['title'][:60]}")
+        print(f"  [enrich] JSON parse failed: {item['title'][:60]}")
+        print(f"  [enrich] raw response: {raw[:200]}")
         return None
 
     return {
@@ -359,8 +335,12 @@ Return only the JSON object, nothing else."""
 # ── Feed I/O ──────────────────────────────────────────────────────────────────
 
 def load_feed() -> list[dict]:
+    print(f"[feed] loading from: {FEED_PATH}")
     if FEED_PATH.exists():
-        return json.loads(FEED_PATH.read_text())
+        data = json.loads(FEED_PATH.read_text())
+        print(f"[feed] loaded {len(data)} existing items")
+        return data
+    print("[feed] no existing feed found — starting fresh")
     return []
 
 
@@ -368,37 +348,52 @@ def save_feed(items: list[dict]) -> None:
     FEED_PATH.parent.mkdir(parents=True, exist_ok=True)
     FEED_PATH.write_text(json.dumps(items, indent=2, ensure_ascii=False))
     print(f"[feed] saved {len(items)} items → {FEED_PATH}")
+    # sanity check
+    verify = json.loads(FEED_PATH.read_text())
+    print(f"[feed] verified: {len(verify)} items on disk")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
+    print(f"[agent] ── GeoAI Agent starting {datetime.date.today()} ──")
     validate_config()
 
     existing      = load_feed()
-    existing_real = [i for i in existing if not i["uid"].startswith("seed-")]
+    existing_real = [i for i in existing if not str(i.get("uid","")).startswith("seed-")]
     existing_uids = {item["uid"] for item in existing_real}
+    print(f"[agent] {len(existing_real)} real existing items, {len(existing_uids)} UIDs to skip")
 
     candidates = collect_candidates()
-    new_items   = [c for c in candidates if c["uid"] not in existing_uids]
-    print(f"\n[agent] {len(candidates)} total candidates, {len(new_items)} new → enriching up to {MAX_NEW_TODAY}")
+    new_items  = [c for c in candidates if c["uid"] not in existing_uids]
+    print(f"[agent] {len(new_items)} new items to enrich (capped at {MAX_NEW_TODAY})")
+
+    if not new_items:
+        print("[agent] nothing new found — feed unchanged")
+        # still save so the commit step sees no diff and exits cleanly
+        save_feed(existing_real)
+        return
 
     enriched = []
     for item in new_items[:MAX_NEW_TODAY]:
-        label = "arxiv" if item["source"] == "arxiv" else "web  "
-        print(f"[{label}] enriching: {item['title'][:65]}")
+        src = item["source"].upper()
+        print(f"\n[{src}] enriching: {item['title'][:70]}")
         result = enrich_item(item)
         if result:
             enriched.append(result)
+            print(f"  ✓ headline: {result['headline'][:60]}")
+        else:
+            print(f"  ✗ enrichment failed — skipping")
         time.sleep(2)
 
     combined = enriched + existing_real
     combined = combined[:MAX_ITEMS]
-    save_feed(combined)
 
-    arxiv_count = sum(1 for e in enriched if e["source"] == "arxiv")
-    web_count   = sum(1 for e in enriched if e["source"] == "web")
-    print(f"[agent] done. added={len(enriched)} (arxiv={arxiv_count}, web={web_count}), total={len(combined)}")
+    arxiv_n = sum(1 for e in enriched if e["source"] == "arxiv")
+    web_n   = sum(1 for e in enriched if e["source"] == "web")
+    print(f"\n[agent] ── done ──")
+    print(f"[agent] added={len(enriched)} (arxiv={arxiv_n}, web={web_n}), total={len(combined)}")
+    save_feed(combined)
 
 
 if __name__ == "__main__":
