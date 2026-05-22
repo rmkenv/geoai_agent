@@ -1,5 +1,26 @@
 [
   {
+    "uid": "c372756dc3050e8979c1ab5331fba6b3",
+    "source": "web",
+    "url": "https://github.com/topics/remote-sensing",
+    "arxiv_id": "",
+    "title": "remote-sensing · GitHub Topics · GitHub",
+    "authors": [],
+    "published": "2026-05-22",
+    "curated_at": "2026-05-22",
+    "headline": "Open-Source Deep Learning Library for Satellite and Aerial Imagery Analysis",
+    "tldr": "This library provides a modular framework for training and deploying deep learning models on satellite and aerial imagery. It supports common tasks such as segmentation, object detection, and change detection with easy integration of open-source datasets.",
+    "significance": "It democratizes access to advanced remote sensing analytics, enabling researchers and developers to build sophisticated models without extensive infrastructure.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d4446b2d5754997795eb525cfaead966",
     "source": "web",
     "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
