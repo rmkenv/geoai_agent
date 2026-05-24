@@ -1,5 +1,47 @@
 [
   {
+    "uid": "38b0df577620986c0b2962871ea2492a",
+    "source": "web",
+    "url": "https://iuk-business-connect.org.uk/news/geoai-festival-unleash-innovation-at-the-intersection-of-artificial-intelligence-and-geospatial-satellite-data/",
+    "arxiv_id": "",
+    "title": "GeoAI Festival: Unleash Innovation at the Intersection of Artificial ...",
+    "authors": [],
+    "published": "2026-05-24",
+    "curated_at": "2026-05-24",
+    "headline": "GeoAI Festival Launches Six-Month Sprint for Earth Observation Innovation Across Industry and Research",
+    "tldr": "Innovate UK has announced the GeoAI Festival, a six-month program to accelerate geospatial AI solutions. The initiative will bring together developers, businesses, and researchers to tackle real-world challenges using satellite imagery and Earth observation data.",
+    "significance": "This festival will fast-track commercial applications of geospatial AI, driving economic growth and societal impact.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "9418fea744733600686a0e46d0ebd6ea",
+    "source": "web",
+    "url": "https://mbzuai-oryx.github.io/ThinkGeo/",
+    "arxiv_id": "",
+    "title": "ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks",
+    "authors": [],
+    "published": "2026-05-24",
+    "curated_at": "2026-05-24",
+    "headline": "ThinkGeo: Benchmarking Tool-Augmented LLMs on Complex Remote Sensing Tasks for Disaster Response",
+    "tldr": "ThinkGeo introduces a benchmark that evaluates language model agents on remote sensing queries requiring structured tool use and step-by-step reasoning. It covers real-world domains like disaster response, urban planning, and environmental monitoring, using a ReAct-style interaction loop.",
+    "significance": "It provides a rigorous testbed for assessing how LLMs can integrate domain-specific tools to solve complex geospatial problems.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "c372756dc3050e8979c1ab5331fba6b3",
     "source": "web",
     "url": "https://github.com/topics/remote-sensing",
