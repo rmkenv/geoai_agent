@@ -1,5 +1,109 @@
 [
   {
+    "uid": "163224ebd78671640f3e29e390ee5f75",
+    "source": "web",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2543038",
+    "arxiv_id": "",
+    "title": "Full article: GeoFM: how will geo-foundation models reshape spatial ...",
+    "authors": [],
+    "published": "2026-05-25",
+    "curated_at": "2026-05-25",
+    "headline": "GeoFM: Geo-Foundation Models Set to Transform Spatial Intelligence for Data Science",
+    "tldr": "Geo-Foundation Models (GeoFM) promise to elevate GeoAI by providing unified, scalable, and interpretable frameworks for spatial data. They enable cross-domain tasks—from remote sensing to urban planning—through advanced LLMs and diffusion models, reshaping how geospatial insights are derived and applied.",
+    "significance": "GeoFM will democratize advanced spatial analytics, accelerating innovation across environmental monitoring, urban development, and disaster response.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "remote-sensing",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5e019900f7edc3cec8c1bc9709ef1c1e",
+    "source": "web",
+    "url": "https://geoawesome.com/maps-as-infrastructure-navigation-as-interface-key-takeaways-from-mapbox-at-the-next-geo-2026/",
+    "arxiv_id": "",
+    "title": "Maps as Infrastructure, Navigation as Interface: Key Takeaways from ...",
+    "authors": [],
+    "published": "2026-05-25",
+    "curated_at": "2026-05-25",
+    "headline": "AI Drives New Era of Mapping and Navigation: Insights from The Next Geo Event",
+    "tldr": "The Next Geo event highlighted AI’s pivotal role in transforming mapping and navigation. Spatial intelligence is emerging as the next frontier, reshaping geospatial systems.",
+    "significance": "AI’s integration into geospatial workflows promises faster, smarter decision-making across industries.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bacaed5cc71b7291d754acce61327aa2",
+    "source": "web",
+    "url": "https://unhabitat.org/sites/default/files/2025/12/ai_for_spatial_mapping_and_analysis.pdf",
+    "arxiv_id": "",
+    "title": "PDF AI for Spatial Mapping and Analysis GeoAI Toolkit for Urban Planners",
+    "authors": [],
+    "published": "2026-05-25",
+    "curated_at": "2026-05-25",
+    "headline": "AI-Powered PDF Toolkit for Spatial Mapping and Urban Planning Insights",
+    "tldr": "This toolkit uses AI to analyze PDF geospatial data, enabling urban planners to map and assess spatial challenges quickly. It integrates remote sensing, segmentation, and spatial reasoning for actionable insights.",
+    "significance": "By combining AI with PDF geospatial analytics, planners can rapidly identify and address urban issues, improving decision-making and resource allocation.",
+    "tags": [
+      "urban-AI",
+      "remote-sensing",
+      "segmentation",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e6f8f70e0bf5f096e78b3bb20014f81b",
+    "source": "web",
+    "url": "https://www.esri.com/about/newsroom/arcnews",
+    "arxiv_id": "",
+    "title": "ArcNews | GIS News, Product Updates, & User Stories - Esri",
+    "authors": [],
+    "published": "2026-05-25",
+    "curated_at": "2026-05-25",
+    "headline": "ArcNews Highlights Global GIS Innovations, User Success Stories, and Latest Product Updates",
+    "tldr": "ArcNews delivers the latest GIS product updates and showcases how users worldwide apply GIS to solve real-world problems. The newsletter covers new features, case studies, and industry trends.",
+    "significance": "It keeps GIS professionals informed and inspired to leverage cutting-edge tools for impactful solutions.",
+    "tags": [
+      "open-source",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "7552b12f31b674cbeff5b9e5449247e6",
+    "source": "web",
+    "url": "https://gebeta.net/free-gis-remote-sensing-toolkit/",
+    "arxiv_id": "",
+    "title": "Free GIS & Remote‑Sensing Toolkit | Gebeta Media",
+    "authors": [],
+    "published": "2026-05-25",
+    "curated_at": "2026-05-25",
+    "headline": "Explore Free GIS & Remote‑Sensing Tools: Desktop, Cloud, Data, and ML Libraries",
+    "tldr": "This guide lists free and open‑source GIS and remote‑sensing software, cloud services, data sources, and machine‑learning libraries. It serves as a quick reference for beginners to start building spatial analysis workflows without cost.",
+    "significance": "Providing a consolidated, cost‑free toolkit empowers researchers and practitioners to conduct advanced spatial analysis and remote‑sensing projects without financial barriers.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "satellite-imagery",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "38b0df577620986c0b2962871ea2492a",
     "source": "web",
     "url": "https://iuk-business-connect.org.uk/news/geoai-festival-unleash-innovation-at-the-intersection-of-artificial-intelligence-and-geospatial-satellite-data/",
