@@ -1,5 +1,25 @@
 [
   {
+    "uid": "521e2d519339833a0f9d45e892a52090",
+    "source": "web",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000691",
+    "arxiv_id": "",
+    "title": "Artificial Intelligence in Earth Science: A GeoAI Perspective",
+    "authors": [],
+    "published": "2026-05-29",
+    "curated_at": "2026-05-29",
+    "headline": "GeoAI Revolutionizes Earth Science: From Remote Sensing to Real-Time Decision Making",
+    "tldr": "GeoAI blends geospatial data with AI to improve environmental monitoring and predictive modeling. The 2024 AGU lecture highlights its growing impact on decision-making across Earth science disciplines.",
+    "significance": "GeoAI is reshaping how scientists detect, analyze, and respond to environmental changes, enabling faster, data-driven decisions.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "f198614210c979ebe6f38a5044e4a3a1",
     "source": "web",
     "url": "https://dida.do/blog/geographer-an-open-source-python-library-for-building-object-centric-machine-learning-datasets-from-remote-sensing-data",
