@@ -1,5 +1,369 @@
 [
   {
+    "uid": "8f33556ce43235d5ddf467f76604fa9b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30353v1",
+    "arxiv_id": "2605.30353v1",
+    "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+    "authors": [
+      "Nhat-Minh Nguyen"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "Physicist Supervises AI Agent to Build Differentiable Perturbation Theory Module",
+    "tldr": "A physicist guided an AI coding agent over 12 days and 57 sessions to develop CLAX-PT, a differentiable one-loop perturbation theory module in JAX. The study documented 15 supervision events, showing the agent resolved ten tasks autonomously.",
+    "significance": "This case study demonstrates the feasibility of physicist-supervised AI coding for complex scientific software development.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b8ee3e4ddb8fbb77967102bd6dca6c24",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30352v1",
+    "arxiv_id": "2605.30352v1",
+    "title": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
+    "authors": [
+      "Junyu Xie",
+      "Tengda Han",
+      "Weidi Xie"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
+    "tldr": "GMOS introduces a 3D-aware framework for moving object segmentation that eliminates reliance on 2D optical flow and treats motion as an instantaneous attribute. By integrating depth cues and spatial reasoning, it improves accuracy and robustness in dynamic scenes.",
+    "significance": "This work bridges the gap between 2D motion cues and 3D geometry, enabling more precise segmentation of independently moving objects in real-world environments.",
+    "tags": [
+      "segmentation",
+      "time-series",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9723e5ed5dbb7515616b8ad657d67462",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30351v1",
+    "arxiv_id": "2605.30351v1",
+    "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+    "authors": [
+      "Hidir Yesiltepe",
+      "Jiazhen Hu",
+      "Tuna Han Salih Meral"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "VideoMLA: Low-Rank Latent KV Cache Boosts Minute-Scale Autoregressive Video Diffusion",
+    "tldr": "VideoMLA introduces a low-rank latent key-value cache that reduces memory and latency for long‑rollout causal video diffusion. By re‑engineering the per‑head KV layout, the method enables real‑time, minute‑scale video generation with minimal computational overhead.",
+    "significance": "It enables efficient, real‑time video diffusion at minute scales, addressing a major bottleneck in streaming memory and latency.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "time-series",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c8a31ca5fa358c0bf64291b05f0b982f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30350v1",
+    "arxiv_id": "2605.30350v1",
+    "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+    "authors": [
+      "Jusuk Lee",
+      "Seungjae Lee",
+      "Jonghun Shin"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "DynaFLIP: Dynamics-Aware Multimodal Pre-Training for Real-Time Robot Perception",
+    "tldr": "DynaFLIP introduces a dynamics-aware multimodal pre-training framework that enhances robot perception by embedding motion understanding directly into the representation. By leveraging action-relevant motion cues, it enables downstream policies to operate more efficiently and accurately in real-time manipulation tasks.",
+    "significance": "This approach bridges the gap between static vision models and dynamic robotic tasks, improving perception for safer and more effective robot manipulation.",
+    "tags": [
+      "foundation-models",
+      "object-detection",
+      "real-time",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a0bb13b75ef2f2575bd2514be5c038f2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30348v1",
+    "arxiv_id": "2605.30348v1",
+    "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+    "authors": [
+      "Yaxin Luo",
+      "Jiacheng Cui",
+      "Xiaohan Zhao"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "LLMSurgeon: Uncovering the Hidden Data Mix of Large Language Models",
+    "tldr": "LLMSurgeon introduces Data Mixture Surgery (DMS), a method to infer the domain-level composition of an LLM’s training data using only its generated text. This approach enables post-hoc auditing of model provenance and failure modes without requiring access to proprietary training corpora.",
+    "significance": "It provides a practical tool for transparency and accountability in foundation model development.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5d53f05b8310e1de62efaa34c09d472a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30349v1",
+    "arxiv_id": "2605.30349v1",
+    "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
+    "authors": [
+      "Yusuf Dalva",
+      "Pinar Yanardag"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "AdaState: Self‑Evolving Anchors for Seamless Streaming Video Generation in Real‑Time Applications",
+    "tldr": "AdaState introduces a dynamic anchor mechanism that updates the reference frame during streaming video generation, reducing drift and improving visual consistency. The method outperforms static‑anchor baselines while maintaining real‑time performance, enabling more robust autoregressive diffusion models.",
+    "significance": "By allowing anchors to evolve, AdaState enhances the stability of streaming video diffusion, paving the way for higher‑quality, real‑time content creation.",
+    "tags": [
+      "diffusion-models",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2dd58cafccfef01eb932703ede8f509b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30347v1",
+    "arxiv_id": "2605.30347v1",
+    "title": "NeuROK: Generative 4D Neural Object Kinematics",
+    "authors": [
+      "Chen Geng",
+      "Guangzhao He",
+      "Yue Gao"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "NeuROK: Generative 4D Neural Object Kinematics for Realistic Dynamic 3D Reconstruction",
+    "tldr": "NeuROK introduces a generative neural framework that predicts realistic temporal deformations of static 3D objects under varied physical conditions, enabling 4D dynamic reconstruction. By learning physics-informed kinematics, it outperforms prior ad hoc methods and opens avenues for comprehensive 3D world modeling.",
+    "significance": "It bridges the gap between static 3D reconstruction and dynamic simulation, providing a scalable, data-driven approach to model realistic object motion.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "point-cloud",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3e500efdb45991d4f7a5ead83cce5925",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30346v1",
+    "arxiv_id": "2605.30346v1",
+    "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
+    "authors": [
+      "You-Zhe Xie",
+      "Yu-Hsuan Li",
+      "Jie-Ying Lee"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "YoCausal Benchmark Tests Video Diffusion Models for Real-World Causality in Practice",
+    "tldr": "YoCausal introduces a two-level benchmark that evaluates video diffusion models on causality using the Violation of Expectation paradigm. It moves beyond synthetic data, addressing the sim-to-real gap and probing whether models truly understand temporal causal relationships.",
+    "significance": "By challenging video diffusion models with real-world causal reasoning tasks, YoCausal highlights the limitations of current world model claims and guides future research toward more robust, causally-aware generative systems.",
+    "tags": [
+      "diffusion-models",
+      "benchmark",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "49aae8931a9ff69c1e6c4035aeb23c37",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30345v1",
+    "arxiv_id": "2605.30345v1",
+    "title": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
+    "authors": [
+      "Qinpei Luo",
+      "Ruichun Ma",
+      "Xinyu Zhang"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "AI Generates PCB Schematics from Natural Language Using Semantic Code Representations",
+    "tldr": "SchGen is the first large language model that can produce editable PCB schematics directly from natural-language requests. It leverages semantic-grounded code representations to bridge the gap between human intent and electronic design.",
+    "significance": "This work automates a traditionally manual, expertise-intensive step in hardware design, accelerating prototyping and lowering entry barriers.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "01addb34ff0525867a2729015141eb60",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30344v1",
+    "arxiv_id": "2605.30344v1",
+    "title": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
+    "authors": [
+      "Xiaona Zhou",
+      "Muntasir Wahed",
+      "Tianjiao Yu"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "Tiny but Trusted: Vision‑Language Models for Efficient Time‑Series Anomaly Detection",
+    "tldr": "This study demonstrates that compact vision‑language models can effectively identify anomalous patterns in sequential data, outperforming larger multimodal counterparts. By leveraging interval‑annotated benchmarks and generating natural‑language rationales, the approach enables fine‑tuning and real‑time anomaly detection.",
+    "significance": "It bridges the gap between large multimodal models and practical anomaly detection, enabling efficient deployment in real‑time systems.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c3dbb39e712cd2e35e3081c1ee73cdd2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30343v1",
+    "arxiv_id": "2605.30343v1",
+    "title": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+    "authors": [
+      "Lukas Aichberger",
+      "Sepp Hochreiter"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "Harnessing Working Memory in LLMs for Enhanced Latent Reasoning without Autoregressive Overhead",
+    "tldr": "This study introduces a method to decouple reasoning from token generation by leveraging an internal working memory in large language models. The approach reduces test‑time compute and improves reasoning accuracy, demonstrating that LLMs can manipulate latent information without producing intermediate tokens.",
+    "significance": "It shows that internal memory mechanisms can make LLM reasoning more efficient and accurate, paving the way for real‑time, low‑compute applications.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "270e593c22fd6181b4bb502b3850e110",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30342v1",
+    "arxiv_id": "2605.30342v1",
+    "title": "Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field",
+    "authors": [
+      "Shangjie Xue",
+      "Jesse Dill",
+      "Dhruv Ahuja"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "Uncertainty-Driven 3D Gaussian Splatting for Active Mapping via Anisotropic Visibility Field",
+    "tldr": "We introduce GAVIS, a framework that quantifies visibility in 3D Gaussian Splatting to identify unseen regions and improve active mapping. By modeling anisotropic visibility, the method reduces prediction uncertainty and guides efficient data acquisition.",
+    "significance": "This approach enhances the reliability of 3D reconstructions in robotics and mapping by systematically addressing unseen areas.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c6e72832da33adca4238c91ffd922d50",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30341v1",
+    "arxiv_id": "2605.30341v1",
+    "title": "GPIC: A Giant Permissive Image Corpus for Visual Generation",
+    "authors": [
+      "Keshigeyan Chandrasegaran",
+      "Kyle Sargent",
+      "Suchir Agarwal"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "GPIC: 28 Trillion-Pixel Permissive Image Corpus for Open-Source Visual Generation",
+    "tldr": "GPIC introduces a 28 trillion‑pixel dataset with 100M training, 200K validation, and 1M test images, all permissively licensed and captioned by a state‑of‑the‑art vision‑language model. It enables scalable research in visual generative modeling and serves as a benchmark for diffusion and foundation models.",
+    "significance": "GPIC provides the largest openly licensed image corpus to date, accelerating the development and evaluation of generative AI models.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "f80b61a350ce69452eabc8263a215b69",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30339v1",
+    "arxiv_id": "2605.30339v1",
+    "title": "Benchmarking Single-Factor Physical Video-to-Audio Generation",
+    "authors": [
+      "Tingle Li",
+      "Siddharth Gururani",
+      "Kevin J. Shih"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "Assessing Physical Fidelity of Video‑to‑Audio Models with FlatSounds",
+    "tldr": "The paper introduces FlatSounds, a benchmark that tests whether video‑to‑audio models capture physical sound generation through controlled interventions. It evaluates models’ physical reasoning rather than just perceptual realism.",
+    "significance": "It provides a systematic way to audit V2A models for physical correctness, guiding future improvements.",
+    "tags": [
+      "benchmark",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "516351d72ee4f66c84e9684ce43cb66d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30338v1",
+    "arxiv_id": "2605.30338v1",
+    "title": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+    "authors": [
+      "Xiaoxuan Ma",
+      "Jiashun Wang",
+      "Nicolas Ugrinovic"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-30",
+    "headline": "Single-Image 3D Reconstruction Achieves Physically Stable Scenes for Simulation and Content Creation",
+    "tldr": "This paper introduces REST3D, a method that reconstructs physically stable 3D scenes from a single RGB image, enabling conversion of casual photos into simulation-ready digital assets. By enforcing physical constraints during reconstruction, REST3D produces geometrically plausible models that are also physically consistent, improving applications in immersive interaction and content creation.",
+    "significance": "REST3D bridges the gap between visual realism and physical plausibility, enabling realistic simulation-ready assets from everyday images.",
+    "tags": [
+      "point-cloud",
+      "segmentation",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "521e2d519339833a0f9d45e892a52090",
     "source": "web",
     "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000691",
