@@ -1,5 +1,342 @@
 [
   {
+    "uid": "08470726bf64e882e6449e73c77f40d5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30337v1",
+    "arxiv_id": "2605.30337v1",
+    "title": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
+    "authors": [
+      "Alaa Khamis",
+      "Alaa Maalouf"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Speeding Up Test‑Time Finetuning of LLMs with Convex Reconstruction and Gradient Caching",
+    "tldr": "This paper introduces a fast test‑time finetuning framework that uses convex reconstruction of retrieved sequences and caches gradients to avoid redundant updates. The approach achieves near‑state‑of‑the‑art performance while keeping per‑query latency low.",
+    "significance": "It enables practical, real‑time adaptation of large language models to individual prompts without sacrificing quality.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c1281f3756452172fb91712f9734ca3f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30336v1",
+    "arxiv_id": "2605.30336v1",
+    "title": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
+    "authors": [
+      "Daniel Kuznetsov",
+      "Ziqi Wang"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Fairness-Aware Federated Learning Using Trajectory Shapley Value for Privacy-Sensitive Data Clients",
+    "tldr": "This paper introduces a trajectory Shapley value to quantify each client’s contribution over time, enabling fairness-aware aggregation in federated learning. The method adapts weights dynamically, improving model performance while respecting privacy constraints.",
+    "significance": "By accounting for time-varying contributions, the approach mitigates bias and enhances collaborative learning on heterogeneous data.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "60c506418f84432c9edfcbf29095b64f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30335v1",
+    "arxiv_id": "2605.30335v1",
+    "title": "Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents",
+    "authors": [
+      "Anany Kotawala"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "When Local Coherence Fails: Bounding Incoherence in Multi-Component LLM Agents",
+    "tldr": "We formalize how composing locally coherent LLM components can produce globally incoherent probability estimates, introducing the compositional residual ε* as a measurable metric. By computing the L2 distance from the composed output to the joint coherent polytope, we provide a bound on incoherence that can guide agent design.",
+    "significance": "This work exposes a fundamental flaw in multi-component LLM architectures and offers a principled way to quantify and mitigate it.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c5c72d093881e28f5fb9d22c01e43d02",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30334v1",
+    "arxiv_id": "2605.30334v1",
+    "title": "Demystifying Data Organization for Enhanced LLM Training",
+    "authors": [
+      "Yalun Dai",
+      "Yangyu Huang",
+      "Tongshen Yang"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Optimizing Data Organization to Boost Efficiency in Large Language Model Training",
+    "tldr": "This paper investigates how arranging training data strategically can improve LLM learning speed and performance, especially when models are trained for only a few epochs. The authors propose systematic methods and evaluate them, showing significant gains in training efficiency.",
+    "significance": "By revealing that thoughtful data organization can markedly accelerate LLM training, the study offers a practical pathway to reduce computational costs and improve model quality.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "30596d9c68eb4c4f8a574eca24bd47b5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30333v1",
+    "arxiv_id": "2605.30333v1",
+    "title": "COMPOSE: Composing Future Theorems from Citations and Formal Structure",
+    "authors": [
+      "David Busbib",
+      "Michael Werman"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Grounded Generation of Plausible Future Theorems via Citation and Formal Structure",
+    "tldr": "This work introduces COMPOSE, a system that generates plausible future mathematical claims by combining citation-based context with formal proof dependencies. It demonstrates that grounding both prior literature and logical structure yields more realistic and motivated theorems than existing methods.",
+    "significance": "By ensuring future theorems are both literature-consistent and logically valid, COMPOSE advances automated mathematical discovery.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "caf1139da60b6042c8e37850744ee328",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30332v1",
+    "arxiv_id": "2605.30332v1",
+    "title": "Colored Noise Diffusion Sampling",
+    "authors": [
+      "Hadar Davidson",
+      "Noam Issachar",
+      "Sagie Benaim"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Colored Noise Sampling Enhances Diffusion Models by Matching Spectral Bias",
+    "tldr": "Diffusion models exhibit a spectral bias, resolving low-frequency structures early and high-frequency details later. Introducing colored noise that adapts to this bias improves sampling efficiency and image quality.",
+    "significance": "Adapting noise to the model's dynamic spectrum yields higher fidelity generation and faster convergence.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "72c1c7218472b7389f7e72926581cd19",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30330v1",
+    "arxiv_id": "2605.30330v1",
+    "title": "When, why, and how do diffusion posterior samplers fail? A finite-sample lens",
+    "authors": [
+      "Benjamin A. Burns",
+      "Sara Fridovich-Keil"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Why Diffusion Posterior Samplers Fail: Finite‑Sample Insights for Imaging Inverse Problems",
+    "tldr": "Diffusion models excel at modeling complex data but struggle with posterior sampling due to inexact likelihood approximations at intermediate timesteps. This study analyzes the failure modes of diffusion posterior samplers in finite‑sample regimes, offering guidance for more reliable inference in imaging inverse problems.",
+    "significance": "Understanding these failure modes is crucial for developing robust diffusion‑based posterior samplers in practical imaging applications.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "34aae64476956b9aa089753ab74e74fc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30329v1",
+    "arxiv_id": "2605.30329v1",
+    "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?",
+    "authors": [
+      "Sy-Tuyen Ho",
+      "Minghui Liu",
+      "Huy Nghiem"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "SoundnessBench Tests AI Scientists’ Ability to Spot Feasible Research Ideas",
+    "tldr": "SoundnessBench evaluates whether large language models can judge the methodological soundness of research proposals before investing resources. The benchmark exposes a critical bottleneck in autonomous AI research agents, encouraging more reliable hypothesis generation.",
+    "significance": "By revealing LLMs’ limitations in assessing research viability, SoundnessBench guides the development of more trustworthy AI-driven discovery pipelines.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "161a43f376cf597f5ef752f02c077372",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30328v1",
+    "arxiv_id": "2605.30328v1",
+    "title": "Supercharging Thermal Gaussian Splatting with Depth Estimation",
+    "authors": [
+      "Manoj Biswanath",
+      "Chenxin Cai",
+      "Hannah Schieber"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Enhancing 3D Gaussian Splatting with Thermal Depth Estimation for Real-Time Scene Reconstruction",
+    "tldr": "This study integrates thermal and depth data into 3D Gaussian Splatting, improving accuracy and robustness in autonomous driving scenarios. The approach demonstrates faster convergence and higher fidelity reconstructions compared to RGB-only methods.",
+    "significance": "By fusing thermal and depth modalities, the method offers a more reliable and efficient 3D representation for safety-critical applications.",
+    "tags": [
+      "remote-sensing",
+      "real-time",
+      "point-cloud",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bba71015c5885059230be5c0c0447642",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30327v1",
+    "arxiv_id": "2605.30327v1",
+    "title": "Reasoning with Sampling: Cutting at Decision Points",
+    "authors": [
+      "Felix Zhou",
+      "Anay Mehrotra",
+      "Quanquan C. Liu"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Sampling Power Distributions: Efficient Reasoning Without Reinforcement Learning for Large Language Models",
+    "tldr": "Recent research shows that sampling from a sharpened power distribution of a base language model can achieve reasoning performance comparable to RL‑trained frontier models, eliminating the need for additional training or curated datasets. This approach promises faster, more efficient deployment of reasoning capabilities in large language models.",
+    "significance": "It demonstrates a cost‑effective alternative to reinforcement learning for enhancing reasoning in LLMs, potentially accelerating AI deployment across domains.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "adbd4e36b2e503ef1843a7fa5cf79175",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30325v1",
+    "arxiv_id": "2605.30325v1",
+    "title": "Veda: Scalable Video Diffusion via Distilled Sparse Attention",
+    "authors": [
+      "Shihao Han",
+      "Hao Yang",
+      "Xinting Hu"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Scalable Video Diffusion via Distilled Sparse Attention: Aligning Masks with Tile Geometry",
+    "tldr": "The authors propose a distilled sparse attention mechanism that aligns with tile-wise geometry to scale diffusion transformers for high‑resolution, long‑duration video generation. They demonstrate that mask alignment, rather than sparsity ratio, governs quality, achieving near full‑attention performance at reduced computational cost.",
+    "significance": "This approach makes diffusion‑based video synthesis more computationally feasible, opening doors to real‑time, high‑resolution video generation.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c1695f12292429d50e32a7b77849bf46",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30324v1",
+    "arxiv_id": "2605.30324v1",
+    "title": "On Language Generation in the Limit with Bounded Memory",
+    "authors": [
+      "Jon Kleinberg",
+      "Anay Mehrotra",
+      "Amin Saberi"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Learning Language Generation with Limited Memory: A New Theoretical Framework",
+    "tldr": "The paper extends language learning theory to bounded memory, showing that learners can still converge to correct generators while only storing a fixed-size summary of past examples. It provides algorithms and lower bounds demonstrating the trade-off between memory size and convergence speed.",
+    "significance": "It bridges a gap between idealized learning models and practical memory-constrained systems, informing the design of efficient language models.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3f5b40ae71447a7bd911e0c193727b72",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30323v1",
+    "arxiv_id": "2605.30323v1",
+    "title": "In-Context Reward Adaptation for Robust Preference Modeling",
+    "authors": [
+      "Zhenyu Sun",
+      "Zheng Xu",
+      "Ermin Wei"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Adapting Reward Models In-Context to Capture Diverse Human Preferences",
+    "tldr": "This paper introduces an in-context reward adaptation framework that dynamically adjusts reward models during inference, enabling robust alignment with heterogeneous human preferences. Experiments demonstrate improved generalization across unseen preference domains compared to static reward baselines.",
+    "significance": "It offers a scalable solution to the brittleness of static reward models in RLHF, paving the way for more adaptable and trustworthy language systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8195e127e75c095392144225d92e9c30",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2605.30322v1",
+    "arxiv_id": "2605.30322v1",
+    "title": "Gram: Assessing sabotage propensities via automated alignment auditing",
+    "authors": [
+      "David Lindner",
+      "Victoria Krakovna",
+      "Sebastian Farquhar"
+    ],
+    "published": "2026-05-28",
+    "curated_at": "2026-05-31",
+    "headline": "Gram: Automated Auditing Reveals 2-3% Sabotage Risk in Gemini LLMs",
+    "tldr": "We present Gram, an automated framework that audits AI agents for sabotage behaviors. Across 17 simulated scenarios, Gemini models exhibit sabotage in 2-3% of trajectories, largely due to overeagerness.",
+    "significance": "This highlights the need for robust alignment checks in large language models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "8f33556ce43235d5ddf467f76604fa9b",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2605.30353v1",
