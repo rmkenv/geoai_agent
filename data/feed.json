@@ -1,5 +1,267 @@
 [
   {
+    "uid": "fc1f4cf9a1a9df5edd6fa2fe0db9b5cd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02580v1",
+    "arxiv_id": "2606.02580v1",
+    "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+    "authors": [
+      "Guangzhao He",
+      "Rundong Luo",
+      "Wei-Chiu Ma"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "Vision‑Language Models Translate Single Images into Editable Blender Scripts for 3D Reconstruction",
+    "tldr": "This paper shows that pretrained vision‑language models can generate Blender code from a single image, enabling executable inverse graphics without explicit 3D supervision. The resulting scripts allow direct rendering, relighting, and manipulation of the reconstructed scene.",
+    "significance": "It demonstrates a new pathway to bridge 2D imagery and editable 3D scenes using foundation models, potentially accelerating content creation and interactive graphics.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ff374531c2e9339f8d9141edea650e20",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02579v1",
+    "arxiv_id": "2606.02579v1",
+    "title": "New Windows on Heavy Dark Matter: Mineral Melt Modelling and X-Ray Readout for Muscovite Mica",
+    "authors": [
+      "Yilda Boukhtouchen",
+      "Joseph Bramante",
+      "Andrew Buchanan"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "Muscovite Mica Reveals Heavy Dark Matter via Melt Tracks and X‑Ray Imaging",
+    "tldr": "Scientists model melt track formation in muscovite mica and use X‑ray readout to detect heavy composite dark matter. This method leverages mica’s long‑term track retention to probe rare particle interactions.",
+    "significance": "This approach provides a novel paleodetector for heavy dark matter, extending sensitivity beyond current experiments.",
+    "tags": [
+      "change-detection",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c0eb510201cb156752ff93aff8c896f3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02578v1",
+    "arxiv_id": "2606.02578v1",
+    "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+    "authors": [
+      "Seojeong Park",
+      "Jiho Choi",
+      "Junyong Kang"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "Reducing Perceptual Bias in Multimodal LLM Judges with Perturbation and Reward Modeling",
+    "tldr": "Multimodal LLM judges often favor plausible narratives over perceptually correct answers when visual and textual cues conflict. This study introduces perceptual perturbation and reward modeling to mitigate this bias, improving evaluation reliability.",
+    "significance": "By addressing perceptual judgment bias, the work enhances the trustworthiness of automated multimodal evaluation systems, crucial for high-stakes decision-making.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ed450bff5c36c038f3c03ae582c6ab1f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02577v1",
+    "arxiv_id": "2606.02577v1",
+    "title": "RoboDream: Compositional World Models for Scalable Robot Data Synthesis",
+    "authors": [
+      "Junjie Ye",
+      "Rong Xue",
+      "Basile Van Hoorick"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "RoboDream: Using Diffusion Models to Generate Realistic Robot Demonstrations at Scale",
+    "tldr": "RoboDream introduces compositional world models that synthesize diverse, physically plausible robot demonstrations using diffusion-based generative techniques. This approach scales data collection, overcoming the cost and limitations of teleoperation while mitigating embodiment hallucinations.",
+    "significance": "It enables large-scale, high-fidelity robot training data without costly real-world collection, accelerating robot learning.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "129419edb12f8c14c8e77ed23da5b1d6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02575v1",
+    "arxiv_id": "2606.02575v1",
+    "title": "From Zero to Hero: Training-Free Custom Concept Spawning in World Models",
+    "authors": [
+      "Kiymet Akdemir",
+      "Pinar Yanardag"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "Training-Free Custom Concept Spawning for Interactive Video Generation in Autoregressive World Models",
+    "tldr": "This work introduces a method to spawn new concepts in autoregressive world models without additional training, enabling users to explore beyond the initial reference frame. By leveraging prompt-based conditioning and on-the-fly concept generation, the approach maintains coherence while expanding the navigable environment.",
+    "significance": "It removes the need for costly fine-tuning, democratizing interactive video generation for diverse applications.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c0fd0b5b75153894bb9c984573053ad2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02574v1",
+    "arxiv_id": "2606.02574v1",
+    "title": "Quantum Simulation of Nucleon-Antinucleon Interaction in Large-$N$ QCD$_2$ on an IBM Quantum Nighthawk Processor",
+    "authors": [
+      "Cameron V. Cogburn",
+      "Sebastian Grieninger",
+      "Dmitri E. Kharzeev"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "Quantum Simulation of Nucleon‑Antinucleon Interaction in Large‑N QCD₂ on IBM Nighthawk",
+    "tldr": "We demonstrate a quantum simulation of nucleon–antinucleon interactions in large‑N two‑dimensional QCD using IBM's Nighthawk processor. The study showcases a bosonized topological soliton framework, providing a nonperturbative benchmark for future quantum‑chromodynamics research.",
+    "significance": "This work establishes a scalable, nonperturbative quantum‑chromodynamics benchmark, bridging theoretical physics and quantum hardware.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fdb2818bc0b31bcab1f8ee1f8a223e41",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02573v1",
+    "arxiv_id": "2606.02573v1",
+    "title": "HumanNOVA: Photorealistic, Universal and Rapid 3D Human Avatar Modeling from a Single Image",
+    "authors": [
+      "Hezhen Hu",
+      "Wangbo Zhao",
+      "Lanqing Guo"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "HumanNOVA: Rapid, Photorealistic 3D Human Avatars from a Single Image",
+    "tldr": "HumanNOVA introduces a scalable pipeline that generates photorealistic, universal 3D human avatars from a single RGB image. By leveraging rigged models and diffusion-based synthesis, it achieves rapid, high-quality avatar creation with limited training data.",
+    "significance": "This work enables realistic, real-time avatar generation for applications in virtual reality, gaming, and telepresence, overcoming data scarcity challenges.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "09b6bc1156e5c185062187dcda0f7bd7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02571v1",
+    "arxiv_id": "2606.02571v1",
+    "title": "Multilayer Babinet metamaterial to initiate nonreciprocal topological phenomena and generalized Faraday rotation",
+    "authors": [
+      "Balázs Bánhelyi",
+      "Miklós Waldhauser",
+      "Virág Szünstein"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "Babinet Metamaterials Enable Nonreciprocal Faraday Rotation via Coupled Plasmonic Nanoresonators",
+    "tldr": "Multilayer Babinet structures of plasmonic nanoresonators were engineered to produce generalized Faraday rotation, achieving nonreciprocal rotation and asymmetric transmission. The effect arises from symmetry breaking through coupled localized modes and Brillouin zone folding.",
+    "significance": "This work demonstrates a new route to control light‑matter interactions for topological photonics, enabling compact, tunable nonreciprocal devices.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "69ae1341ab7cbb419a0875f342fa3e1e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02570v1",
+    "arxiv_id": "2606.02570v1",
+    "title": "Stochastic completeness for landmark space",
+    "authors": [
+      "Karen Habermann",
+      "Stefan Sommer"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "Extending Stochastic Completeness to Multi-Landmark Riemannian Shape Spaces in High-Dimensional Domains",
+    "tldr": "We generalize a stochastic completeness theorem from two to any number of landmarks in shape spaces. This connects geodesic completeness with probabilistic properties of the induced Riemannian metrics.",
+    "significance": "The result provides a rigorous foundation for probabilistic shape analysis in high-dimensional landmark models.",
+    "tags": [
+      "spatial-reasoning",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9c3d473e7778d20cc77ecba17cecbe7c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02568v1",
+    "arxiv_id": "2606.02568v1",
+    "title": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
+    "authors": [
+      "Yuxing Lu",
+      "Yushuhong Lin",
+      "Wenqi Shi"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "ClinEnv: A Real-Time, Multi-Stage EHR Benchmark for Evaluating LLMs in Clinical Practice",
+    "tldr": "ClinEnv is an interactive, long-horizon electronic health record environment that simulates real-world clinical decision making. It allows large language models to gather heterogeneous patient data incrementally and make irreversible treatment choices, providing a realistic benchmark for medical AI.",
+    "significance": "ClinEnv bridges the gap between static benchmarks and existing interactive medical tests, offering a realistic, open-source platform to assess LLMs' clinical reasoning under uncertainty.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "eecf6aacb0458cd67195d7b4938eddcf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.02567v1",
+    "arxiv_id": "2606.02567v1",
+    "title": "Strong Polarization and Entropy",
+    "authors": [
+      "Daniel Galicer",
+      "Oscar Ortega-Moreno",
+      "Damián Pinasco"
+    ],
+    "published": "2026-06-01",
+    "curated_at": "2026-06-02",
+    "headline": "Weighted Strong Polarization Inequality for Unit Vectors in Real Hilbert Spaces",
+    "tldr": "We prove that for any set of unit vectors and positive weights summing to one, there exists a unit vector such that a weighted sum of squared reciprocals of inner products is bounded by one. This generalizes the strong polarization inequality and has implications for entropy bounds.",
+    "significance": "This result provides a new tool for bounding entropy and polarization in high-dimensional spaces.",
+    "tags": [
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "08470726bf64e882e6449e73c77f40d5",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2605.30337v1",
@@ -1113,26 +1375,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-05-21",
-    "curated_at": "2026-05-21",
-    "headline": "Raster Vision: Open-Source Deep Learning for GIS and Remote Sensing",
-    "tldr": "Raster Vision is an open-source framework that unifies GIS and deep learning. It supports chip classification, semantic segmentation, and object detection on satellite imagery.",
-    "significance": "It empowers researchers to build scalable computer vision pipelines for Earth observation without reinventing core components.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "segmentation",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
   }
 ]
