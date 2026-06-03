@@ -1,5 +1,32 @@
 [
   {
+    "uid": "57bbba71b7a72c67542b239374b0f3de",
+    "source": "web",
+    "url": "https://rastervision.io/",
+    "arxiv_id": "",
+    "title": "Raster Vision: An open-source machine learning library for deep ...",
+    "authors": [],
+    "published": "2026-06-03",
+    "curated_at": "2026-06-03",
+    "headline": "Raster Vision: Bridging Open‑Source Deep Learning and GIS",
+    "tldr": "",
+    "significance": "Raster Vision democratizes advanced computer vision for geospatial analysis, enabling practitioners to build, benchmark, and deploy models on satellite and aerial imagery with minimal friction.",
+    "tags": [
+      "open-source",
+      "deep-learning",
+      "computer-vision",
+      "GIS",
+      "satellite-imagery",
+      "remote-sensing",
+      "semantic-segmentation",
+      "object-detection",
+      "image-classification",
+      "geospatial-analysis"
+    ],
+    "readtime": 3,
+    "difficulty": "5"
+  },
+  {
     "uid": "fc1f4cf9a1a9df5edd6fa2fe0db9b5cd",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.02580v1",
@@ -1354,26 +1381,6 @@
       "benchmark"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0a000f935aceec4a908e71d0fce3c7f0",
-    "source": "web",
-    "url": "https://www.grsg.org.uk/open-source-software",
-    "arxiv_id": "",
-    "title": "Open Source Software - The Geological Remote Sensing Group (GRSG)",
-    "authors": [],
-    "published": "2026-05-21",
-    "curated_at": "2026-05-21",
-    "headline": "GRSG Unites Open-Source Tools for Advanced Optical, SAR, and Hyperspectral Remote Sensing",
-    "tldr": "The Geological Remote Sensing Group (GRSG) aggregates free, powerful geospatial software and libraries for comprehensive remote sensing. These tools enable advanced image processing across optical, multispectral, SAR, and hyperspectral datasets for professionals and researchers.",
-    "significance": "GRSG democratizes access to sophisticated remote sensing capabilities, fostering innovation in environmental monitoring and research.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "SAR"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
