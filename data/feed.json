@@ -1,5 +1,90 @@
 [
   {
+    "uid": "e7812bd25adc836bc8ce26452537ab88",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/journal/remote-sensing-of-environment",
+    "arxiv_id": "",
+    "title": "Remote Sensing of Environment | Journal - ScienceDirect",
+    "authors": [],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-04",
+    "headline": "Remote Sensing of Environment Calls for Special Issue Proposals on Emerging Remote Sensing Technologies",
+    "tldr": "The journal Remote Sensing of Environment is inviting researchers to submit special issue proposals focusing on new remote sensing missions and systems. Detailed submission guidelines can be found in the Journal Specific Information section of the Guide for Authors.",
+    "significance": "This call encourages the advancement of remote sensing research by fostering focused thematic issues that highlight cutting‑edge missions and technologies.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "change-detection",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "f2ee7fbdaf560a1debf0cc4728aff3ed",
+    "source": "web",
+    "url": "https://www.isprs.org/",
+    "arxiv_id": "",
+    "title": "International Society for Photogrammetry and Remote Sensing",
+    "authors": [],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-04",
+    "headline": "International Society for Photogrammetry and Remote Sensing Drives Global Collaboration in Imaging Science",
+    "tldr": "The International Society for Photogrammetry and Remote Sensing (ISPRS) is a non‑governmental organization that promotes international cooperation in the fields of photogrammetry and remote sensing. It supports research, education, and application development to advance imaging technologies worldwide.",
+    "significance": "ISPRS plays a pivotal role in setting global standards and fostering innovation in imaging science, benefiting sectors from urban planning to environmental monitoring.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "point-cloud",
+      "LiDAR"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "3b68678633a3e0daa01dd6da69a59866",
+    "source": "web",
+    "url": "https://iclr.cc/virtual/2026/papers.html",
+    "arxiv_id": "",
+    "title": "ICLR 2026 Papers",
+    "authors": [],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-04",
+    "headline": "Satellite Data Reveals Rapid Urban Expansion in Global Cities today",
+    "tldr": "",
+    "significance": "This study demonstrates the power of high-resolution satellite imagery to track and quantify urban growth patterns, providing critical insights for sustainable city planning and climate change mitigation.",
+    "tags": [
+      "satellite-imagery",
+      "urban-growth",
+      "climate-change",
+      "remote-sensing",
+      "city-planning"
+    ],
+    "readtime": 3,
+    "difficulty": "Intermediate"
+  },
+  {
+    "uid": "6b4efe5a2bdc772ae42192d74a5ae125",
+    "source": "web",
+    "url": "https://www.geowgs84.ai/post/top-10-geospatial-analysis-software-in-2025",
+    "arxiv_id": "",
+    "title": "Top 10 Geospatial Analysis Software in 2025 - geowgs84.ai",
+    "authors": [],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-04",
+    "headline": "Top 10 Geospatial Analysis Software of 2025: AI, Remote Sensing, and Scalable Analytics",
+    "tldr": "The 2025 landscape of geospatial analysis software showcases cutting‑edge AI, remote sensing, and scalable analytics tools tailored for urban planning, defense, environmental management, and automation. This list highlights open‑source and commercial solutions that excel in satellite imagery, LiDAR, SAR, and real‑time vector tile processing.",
+    "significance": "These tools empower decision‑makers to leverage high‑resolution data and AI‑driven insights for rapid, data‑driven planning and risk mitigation.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "urban-AI",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "57bbba71b7a72c67542b239374b0f3de",
     "source": "web",
     "url": "https://rastervision.io/",
@@ -1299,88 +1384,6 @@
       "real-time"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
-    "source": "web",
-    "url": "https://opengeoai.org/",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data",
-    "authors": [],
-    "published": "2026-05-21",
-    "curated_at": "2026-05-21",
-    "headline": "GeoAI: Bridging AI and Geospatial Data with an Open-Source Python Toolkit",
-    "tldr": "GeoAI is an open-source Python package that simplifies applying machine learning to geographic data. It offers intuitive tools for remote sensing, satellite imagery analysis, and segmentation tasks.",
-    "significance": "GeoAI democratizes advanced AI techniques for geospatial analysis, enabling researchers to quickly prototype and deploy models on real-world data.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "554a7ca87df89efb6159aaa019db25b8",
-    "source": "web",
-    "url": "https://github.com/giolotar/geoAI",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GitHub",
-    "authors": [],
-    "published": "2026-05-21",
-    "curated_at": "2026-05-21",
-    "headline": "GeoAI: Python Package Uniting AI with Geospatial Data Analysis and Visualization",
-    "tldr": "GeoAI is a Python library that seamlessly integrates advanced machine learning techniques into geospatial data workflows. It offers tools for processing, analyzing, and visualizing satellite imagery, remote sensing data, and other spatial datasets.",
-    "significance": "By bridging AI and geospatial analysis, GeoAI empowers researchers and developers to extract deeper insights from spatial data, accelerating innovation across environmental monitoring, urban planning, and more.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "satellite-imagery"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "47a9a41832d1ffd0ac4d5ddeb6229b55",
-    "source": "web",
-    "url": "https://pypi.org/project/geoai-py/",
-    "arxiv_id": "",
-    "title": "geoai-py · PyPI",
-    "authors": [],
-    "published": "2026-05-21",
-    "curated_at": "2026-05-21",
-    "headline": "GeoAI: Bridging AI and Geospatial Analysis with Python Tools for Researchers",
-    "tldr": "GeoAI is a Python package that integrates AI techniques with geospatial data analysis. It offers intuitive tools for researchers to apply machine learning to geographic datasets.",
-    "significance": "It empowers geospatial professionals to harness AI for faster, more accurate spatial insights.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "1785692639303012acc70ffb83d999f5",
-    "source": "web",
-    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
-    "arxiv_id": "",
-    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
-    "authors": [],
-    "published": "2026-05-21",
-    "curated_at": "2026-05-21",
-    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Earth Observation Across Data Streams",
-    "tldr": "NASA's new open-source model Galileo integrates optical, radar, elevation, climate, and map data to enable large-scale Earth observation analysis. Built by a consortium of universities and NASA Harvest Ai2, it offers advanced multimodal capabilities for tasks like segmentation, change detection, and real-time monitoring.",
-    "significance": "Galileo democratizes access to sophisticated multimodal Earth observation tools, accelerating research and operational decision-making worldwide.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "satellite-imagery",
-      "benchmark"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
