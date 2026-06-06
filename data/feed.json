@@ -1,5 +1,286 @@
 [
   {
+    "uid": "4152434caf826198829bbfd0eb0b1c31",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06494v1",
+    "arxiv_id": "2606.06494v1",
+    "title": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
+    "authors": [
+      "Marius Dragoi",
+      "Ioana Pintilie",
+      "Alexandra Dragomir"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "TailLoR: Low-Rank Updates to Protect Principal Components in Continual Learning",
+    "tldr": "TailLoR uses the singular bases of pre-trained weights as a fixed reference to learn low-rank updates applied to the singular value matrix. A soft spectral penalty discourages updates aligned with dominant singular directions, preserving principal components during continual learning.",
+    "significance": "By safeguarding dominant singular directions, TailLoR enables more stable and efficient parameter updates for continual learning of large foundation models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9a5602714b796216a5b2e6465172b33a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06493v1",
+    "arxiv_id": "2606.06493v1",
+    "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+    "authors": [
+      "Lizhi Yang",
+      "Junheng Li",
+      "Nehar Poddar"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Compact Command Interface for Humanoid Whole-Body Control via Distilled Teachers",
+    "tldr": "We propose a compact, explicit command interface that bridges task planning and whole-body control for humanoid robots. Using distilled complementary teachers, the system reduces the need for dense kinematic references, enabling intuitive, modular control in real-time.",
+    "significance": "This approach simplifies humanoid robot deployment by providing an intuitive, modular command space that eliminates the burden of dense kinematic references.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "27446a876544586a399a70fb956ebc83",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06492v1",
+    "arxiv_id": "2606.06492v1",
+    "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+    "authors": [
+      "Liliana Hotsko",
+      "Yinxi Li",
+      "Yuntian Deng"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Code2LoRA: Hypernetwork-Generated Adapters for Scalable Code Language Models Across Evolving Repositories",
+    "tldr": "Code2LoRA introduces a hypernetwork that generates repository‑specific adapters, enabling code language models to incorporate local context without costly fine‑tuning. This approach scales to thousands of repositories and adapts to evolving codebases, improving import resolution and API understanding.",
+    "significance": "By eliminating per‑repo fine‑tuning, Code2LoRA offers a practical, scalable solution for real‑world code understanding tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "39c04e8556f0bc1d33cb42bbbc8a6a69",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06489v1",
+    "arxiv_id": "2606.06489v1",
+    "title": "The Missing Central Limit Theorems for Local Functionals of Berry's Random Wave Model",
+    "authors": [
+      "Francesco Grotto"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Completing the CLT Landscape: Berry’s Random Wave Model Integrals in 2D and 3D",
+    "tldr": "Researchers have established central limit theorems for integrals of third-degree Hermite polynomials of Berry's random wave model over expanding domains in two and three dimensions. This resolves the last missing pieces in the Wiener chaos framework for monochromatic random waves.",
+    "significance": "The result finalizes the theoretical understanding of statistical fluctuations in monochromatic wave fields, enabling precise predictions for physical and engineering applications.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "94bdc7aed7473422abfa1fc0e988414a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06485v1",
+    "arxiv_id": "2606.06485v1",
+    "title": "PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding",
+    "authors": [
+      "Shaohui Dai",
+      "Yansong Qu",
+      "You Shen"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "PAR3D: Unified 3D-MLLM with Part-Aware Representation Enhances Scene Understanding for Interaction",
+    "tldr": "PAR3D introduces a part-aware representation into 3D multimodal large language models, enabling fine-grained understanding of scene geometry and object parts. This allows more accurate visual question answering, captioning, and referring segmentation, improving embodied interaction in 3D environments.",
+    "significance": "By modeling part-level details, PAR3D bridges the gap between object-centric 3D-MLLMs and the nuanced requirements of real-world interaction, setting a new benchmark for scene understanding.",
+    "tags": [
+      "LLM",
+      "point-cloud",
+      "segmentation",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "31965fd210c57958660e5a3de096cda5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06484v1",
+    "arxiv_id": "2606.06484v1",
+    "title": "Phenomenology of Inflaton-Driven Early QCD Confinement and Solution to Axion Isocurvature Problem",
+    "authors": [
+      "Evangelos I. Sfakianakis",
+      "Barmak Shams Es Haghi",
+      "Katherine Freese"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Inflaton-Driven QCD Confinement During Inflation Solves Axion Isocurvature Problem in the Early Universe",
+    "tldr": "We show that coupling the inflaton to gluons raises the QCD confinement scale during inflation, making the axion heavy enough to suppress isocurvature perturbations. As inflation ends, the confinement scale drops, restoring a light axion consistent with cosmological constraints.",
+    "significance": "This mechanism provides a natural solution to the axion isocurvature problem without fine-tuning the inflationary scale.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c7ec7885ebdab7fddd071a73b32d28a2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06483v1",
+    "arxiv_id": "2606.06483v1",
+    "title": "Statistically and Computationally Optimal Estimation and Inference of Common Subspaces",
+    "authors": [
+      "Joshua Agterberg"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Optimal Estimation of Shared Subspaces in Noisy Low-Rank Matrices",
+    "tldr": "We analyze the fundamental statistical and computational limits for estimating a common subspace shared by multiple symmetric low-rank matrices corrupted by noise. The results delineate when accurate recovery is possible and when it is computationally hard, providing sharp thresholds for both regimes.",
+    "significance": "This work establishes the precise boundaries between feasible and infeasible regimes for common subspace estimation, guiding both theory and practice in high-dimensional data analysis.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "94012cefaf7460659ba7b37b750934f2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06481v1",
+    "arxiv_id": "2606.06481v1",
+    "title": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+    "authors": [
+      "Sondos Mahmoud Bsharat",
+      "Jiacheng Liu",
+      "Xiaohan Zhao"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Benchmarking Progressive Human‑AI Co‑Editing for AI‑Text Detection",
+    "tldr": "This study introduces a new benchmark that tracks how AI authorship signals evolve during iterative human‑AI editing. It reveals gaps in current detection methods that only analyze final documents.",
+    "significance": "It provides the first systematic framework to understand and detect AI influence in collaboratively edited texts.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b42e907a4bdac4af3069599ae458d2e2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06480v1",
+    "arxiv_id": "2606.06480v1",
+    "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+    "authors": [
+      "Qintong Xie",
+      "Edward Koh",
+      "Xavier Cadet"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "DNQ: Deep Nash Q-Network Solves Multi-Player Bidding with Partial Observability",
+    "tldr": "The paper introduces DNQ, a Deep Nash Q-Network that learns equilibrium strategies in partially observable, multi-player bidding games. By integrating a solver into the training loop, DNQ efficiently learns policies that approximate Nash equilibria in complex, simultaneous-bidding scenarios.",
+    "significance": "DNQ advances multi-agent reinforcement learning by providing a scalable method to approximate Nash equilibria in realistic, partially observable competitive settings.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d279465b44124fcb5db69462d82502c5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06479v1",
+    "arxiv_id": "2606.06479v1",
+    "title": "Pretraining Recurrent Networks without Recurrence",
+    "authors": [
+      "Akarsh Kumar",
+      "Phillip Isola"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Supervised Memory Training Enables Efficient RNN Training Without Backpropagation Through Time",
+    "tldr": "We introduce Supervised Memory Training (SMT), a novel approach that trains recurrent neural networks without relying on backpropagation through time. SMT eliminates sequential time dependencies, allows parallel computation, and mitigates vanishing/exploding gradients, enabling the learning of long-range dependencies.",
+    "significance": "SMT offers a scalable, parallelizable alternative to BPTT, potentially transforming sequence modeling across domains.",
+    "tags": [
+      "foundation-models",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "adadf1bc30b972a6a89d12eaff090a84",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06477v1",
+    "arxiv_id": "2606.06477v1",
+    "title": "Complexity-Balanced Diffusion Splitting",
+    "authors": [
+      "Noam Issachar",
+      "Dani Lischinski",
+      "Raanan Fattal"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Balancing Complexity in Diffusion Models: Introducing Complexity-Balanced Splitting for Efficient Generative Modeling",
+    "tldr": "Standard diffusion models use a single large network across all timesteps, which is inefficient. CBS splits the model into complexity-balanced sub-networks, allocating capacity where needed and improving efficiency without sacrificing performance.",
+    "significance": "CBS enables more efficient deployment of diffusion models by dynamically allocating computational resources, potentially reducing inference cost and enabling real-time applications.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "833b8c3ddce8b93466c8a662987090b9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06476v1",
+    "arxiv_id": "2606.06476v1",
+    "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
+    "authors": [
+      "Chenming Zhu",
+      "Jingli Lin",
+      "Yilin Long"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-06",
+    "headline": "Agentic Visual Spatial Reasoning: Using World Simulators to Infer Unobserved Layouts",
+    "tldr": "Vision-language models excel at visual reasoning but struggle with spatial inference beyond observed views. This paper introduces agentic reasoning via world simulators to generate imagined layouts, ensuring cross-view consistency and robust reasoning from limited egocentric data.",
+    "significance": "By enabling models to imagine unseen spatial configurations, the work advances AI's ability to reason about complex environments with sparse observations.",
+    "tags": [
+      "spatial-reasoning",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "1785692639303012acc70ffb83d999f5",
     "source": "web",
     "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
@@ -1130,261 +1411,5 @@
     ],
     "readtime": 2,
     "difficulty": "introductory"
-  },
-  {
-    "uid": "f80b61a350ce69452eabc8263a215b69",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30339v1",
-    "arxiv_id": "2605.30339v1",
-    "title": "Benchmarking Single-Factor Physical Video-to-Audio Generation",
-    "authors": [
-      "Tingle Li",
-      "Siddharth Gururani",
-      "Kevin J. Shih"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "Assessing Physical Fidelity of Video‑to‑Audio Models with FlatSounds",
-    "tldr": "The paper introduces FlatSounds, a benchmark that tests whether video‑to‑audio models capture physical sound generation through controlled interventions. It evaluates models’ physical reasoning rather than just perceptual realism.",
-    "significance": "It provides a systematic way to audit V2A models for physical correctness, guiding future improvements.",
-    "tags": [
-      "benchmark",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "516351d72ee4f66c84e9684ce43cb66d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30338v1",
-    "arxiv_id": "2605.30338v1",
-    "title": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
-    "authors": [
-      "Xiaoxuan Ma",
-      "Jiashun Wang",
-      "Nicolas Ugrinovic"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "Single-Image 3D Reconstruction Achieves Physically Stable Scenes for Simulation and Content Creation",
-    "tldr": "This paper introduces REST3D, a method that reconstructs physically stable 3D scenes from a single RGB image, enabling conversion of casual photos into simulation-ready digital assets. By enforcing physical constraints during reconstruction, REST3D produces geometrically plausible models that are also physically consistent, improving applications in immersive interaction and content creation.",
-    "significance": "REST3D bridges the gap between visual realism and physical plausibility, enabling realistic simulation-ready assets from everyday images.",
-    "tags": [
-      "point-cloud",
-      "segmentation",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "521e2d519339833a0f9d45e892a52090",
-    "source": "web",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000691",
-    "arxiv_id": "",
-    "title": "Artificial Intelligence in Earth Science: A GeoAI Perspective",
-    "authors": [],
-    "published": "2026-05-29",
-    "curated_at": "2026-05-29",
-    "headline": "GeoAI Revolutionizes Earth Science: From Remote Sensing to Real-Time Decision Making",
-    "tldr": "GeoAI blends geospatial data with AI to improve environmental monitoring and predictive modeling. The 2024 AGU lecture highlights its growing impact on decision-making across Earth science disciplines.",
-    "significance": "GeoAI is reshaping how scientists detect, analyze, and respond to environmental changes, enabling faster, data-driven decisions.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f198614210c979ebe6f38a5044e4a3a1",
-    "source": "web",
-    "url": "https://dida.do/blog/geographer-an-open-source-python-library-for-building-object-centric-machine-learning-datasets-from-remote-sensing-data",
-    "arxiv_id": "",
-    "title": "GeoGrapher: A python library for building object-centric remote sensing ...",
-    "authors": [],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-28",
-    "headline": "GeoGrapher: Open-Source Python Library Simplifies Object-Centric Remote Sensing Dataset Creation",
-    "tldr": "GeoGrapher is an open-source Python library that streamlines building object-centric machine learning datasets from remote sensing data. It addresses common challenges faced by remote sensing specialists and ML engineers, enabling easier creation of well-structured, ML-ready datasets.",
-    "significance": "By automating dataset construction, GeoGrapher accelerates research and deployment of AI models in remote sensing applications.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "object-detection",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "163224ebd78671640f3e29e390ee5f75",
-    "source": "web",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2543038",
-    "arxiv_id": "",
-    "title": "Full article: GeoFM: how will geo-foundation models reshape spatial ...",
-    "authors": [],
-    "published": "2026-05-25",
-    "curated_at": "2026-05-25",
-    "headline": "GeoFM: Geo-Foundation Models Set to Transform Spatial Intelligence for Data Science",
-    "tldr": "Geo-Foundation Models (GeoFM) promise to elevate GeoAI by providing unified, scalable, and interpretable frameworks for spatial data. They enable cross-domain tasks—from remote sensing to urban planning—through advanced LLMs and diffusion models, reshaping how geospatial insights are derived and applied.",
-    "significance": "GeoFM will democratize advanced spatial analytics, accelerating innovation across environmental monitoring, urban development, and disaster response.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "remote-sensing",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5e019900f7edc3cec8c1bc9709ef1c1e",
-    "source": "web",
-    "url": "https://geoawesome.com/maps-as-infrastructure-navigation-as-interface-key-takeaways-from-mapbox-at-the-next-geo-2026/",
-    "arxiv_id": "",
-    "title": "Maps as Infrastructure, Navigation as Interface: Key Takeaways from ...",
-    "authors": [],
-    "published": "2026-05-25",
-    "curated_at": "2026-05-25",
-    "headline": "AI Drives New Era of Mapping and Navigation: Insights from The Next Geo Event",
-    "tldr": "The Next Geo event highlighted AI’s pivotal role in transforming mapping and navigation. Spatial intelligence is emerging as the next frontier, reshaping geospatial systems.",
-    "significance": "AI’s integration into geospatial workflows promises faster, smarter decision-making across industries.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bacaed5cc71b7291d754acce61327aa2",
-    "source": "web",
-    "url": "https://unhabitat.org/sites/default/files/2025/12/ai_for_spatial_mapping_and_analysis.pdf",
-    "arxiv_id": "",
-    "title": "PDF AI for Spatial Mapping and Analysis GeoAI Toolkit for Urban Planners",
-    "authors": [],
-    "published": "2026-05-25",
-    "curated_at": "2026-05-25",
-    "headline": "AI-Powered PDF Toolkit for Spatial Mapping and Urban Planning Insights",
-    "tldr": "This toolkit uses AI to analyze PDF geospatial data, enabling urban planners to map and assess spatial challenges quickly. It integrates remote sensing, segmentation, and spatial reasoning for actionable insights.",
-    "significance": "By combining AI with PDF geospatial analytics, planners can rapidly identify and address urban issues, improving decision-making and resource allocation.",
-    "tags": [
-      "urban-AI",
-      "remote-sensing",
-      "segmentation",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e6f8f70e0bf5f096e78b3bb20014f81b",
-    "source": "web",
-    "url": "https://www.esri.com/about/newsroom/arcnews",
-    "arxiv_id": "",
-    "title": "ArcNews | GIS News, Product Updates, & User Stories - Esri",
-    "authors": [],
-    "published": "2026-05-25",
-    "curated_at": "2026-05-25",
-    "headline": "ArcNews Highlights Global GIS Innovations, User Success Stories, and Latest Product Updates",
-    "tldr": "ArcNews delivers the latest GIS product updates and showcases how users worldwide apply GIS to solve real-world problems. The newsletter covers new features, case studies, and industry trends.",
-    "significance": "It keeps GIS professionals informed and inspired to leverage cutting-edge tools for impactful solutions.",
-    "tags": [
-      "open-source",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "7552b12f31b674cbeff5b9e5449247e6",
-    "source": "web",
-    "url": "https://gebeta.net/free-gis-remote-sensing-toolkit/",
-    "arxiv_id": "",
-    "title": "Free GIS & Remote‑Sensing Toolkit | Gebeta Media",
-    "authors": [],
-    "published": "2026-05-25",
-    "curated_at": "2026-05-25",
-    "headline": "Explore Free GIS & Remote‑Sensing Tools: Desktop, Cloud, Data, and ML Libraries",
-    "tldr": "This guide lists free and open‑source GIS and remote‑sensing software, cloud services, data sources, and machine‑learning libraries. It serves as a quick reference for beginners to start building spatial analysis workflows without cost.",
-    "significance": "Providing a consolidated, cost‑free toolkit empowers researchers and practitioners to conduct advanced spatial analysis and remote‑sensing projects without financial barriers.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "satellite-imagery",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "38b0df577620986c0b2962871ea2492a",
-    "source": "web",
-    "url": "https://iuk-business-connect.org.uk/news/geoai-festival-unleash-innovation-at-the-intersection-of-artificial-intelligence-and-geospatial-satellite-data/",
-    "arxiv_id": "",
-    "title": "GeoAI Festival: Unleash Innovation at the Intersection of Artificial ...",
-    "authors": [],
-    "published": "2026-05-24",
-    "curated_at": "2026-05-24",
-    "headline": "GeoAI Festival Launches Six-Month Sprint for Earth Observation Innovation Across Industry and Research",
-    "tldr": "Innovate UK has announced the GeoAI Festival, a six-month program to accelerate geospatial AI solutions. The initiative will bring together developers, businesses, and researchers to tackle real-world challenges using satellite imagery and Earth observation data.",
-    "significance": "This festival will fast-track commercial applications of geospatial AI, driving economic growth and societal impact.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "9418fea744733600686a0e46d0ebd6ea",
-    "source": "web",
-    "url": "https://mbzuai-oryx.github.io/ThinkGeo/",
-    "arxiv_id": "",
-    "title": "ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks",
-    "authors": [],
-    "published": "2026-05-24",
-    "curated_at": "2026-05-24",
-    "headline": "ThinkGeo: Benchmarking Tool-Augmented LLMs on Complex Remote Sensing Tasks for Disaster Response",
-    "tldr": "ThinkGeo introduces a benchmark that evaluates language model agents on remote sensing queries requiring structured tool use and step-by-step reasoning. It covers real-world domains like disaster response, urban planning, and environmental monitoring, using a ReAct-style interaction loop.",
-    "significance": "It provides a rigorous testbed for assessing how LLMs can integrate domain-specific tools to solve complex geospatial problems.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c372756dc3050e8979c1ab5331fba6b3",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-05-22",
-    "curated_at": "2026-05-22",
-    "headline": "Open-Source Deep Learning Library for Satellite and Aerial Imagery Analysis",
-    "tldr": "This library provides a modular framework for training and deploying deep learning models on satellite and aerial imagery. It supports common tasks such as segmentation, object detection, and change detection with easy integration of open-source datasets.",
-    "significance": "It democratizes access to advanced remote sensing analytics, enabling researchers and developers to build sophisticated models without extensive infrastructure.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
