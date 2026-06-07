@@ -1,5 +1,290 @@
 [
   {
+    "uid": "bc91b2516c2cbbffb29a94872f061346",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06486v1",
+    "arxiv_id": "2606.06486v1",
+    "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
+    "authors": [
+      "Mingyang Liu",
+      "Asuman Ozdaglar",
+      "Tiancheng Yu"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Adaptive Opponents Challenge Traditional Regret Metrics in Repeated Game Learning",
+    "tldr": "We propose Repeated Policy Regret (RP-Regret) to measure regret against adaptive opponents in repeated games. This metric captures counterfactual reasoning and overcomes limitations of external regret.",
+    "significance": "RP-Regret provides a more accurate performance measure for online learning algorithms interacting with strategic, history-aware adversaries.",
+    "tags": [
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ae1eb2c242f6953e27b845f16a6b226a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06475v1",
+    "arxiv_id": "2606.06475v1",
+    "title": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
+    "authors": [
+      "Mykyta Ielanskyi",
+      "Kajetan Schweighofer",
+      "Lukas Aichberger"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "RREDCoT: Segment-Level Reward Redistribution Enhances Chain-of-Thought Reasoning in Large Language Models via Reinforcement Learning",
+    "tldr": "RREDCoT introduces a segment-level reward redistribution technique that addresses delayed reward issues in chain-of-thought generation. By redistributing rewards across intermediate reasoning steps, the method improves model accuracy and training efficiency.",
+    "significance": "This approach enables more effective RL fine-tuning of reasoning models, potentially boosting performance across a range of complex NLP tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fd3a5a372c9aa5b97459b701b7d66c5e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06474v1",
+    "arxiv_id": "2606.06474v1",
+    "title": "Self-Augmenting Retrieval for Diffusion Language Models",
+    "authors": [
+      "Paul Jünger",
+      "Justin Lovelace",
+      "Linxi Zhao"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Self‑Augmenting Retrieval Boosts Diffusion Language Models",
+    "tldr": "Discrete diffusion language models iteratively denoise entire responses, discarding low‑confidence tokens. These discarded tokens serve as a lookahead signal for retrieval‑augmented generation, improving output quality.",
+    "significance": "It demonstrates a novel way to leverage diffusion model uncertainty for efficient retrieval‑augmented generation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4991372489a18b80f98aee305dc76329",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06473v1",
+    "arxiv_id": "2606.06473v1",
+    "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+    "authors": [
+      "Shangheng Du",
+      "Xiangchao Yan",
+      "Jinxin Shi"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "MLEvolve: Self-Evolving Framework for Automated Machine Learning Discovery Leveraging LLM Agents for Long-Horizon Optimization",
+    "tldr": "MLEvolve introduces a self-evolving framework that enables LLM agents to autonomously discover and optimize machine learning algorithms over long horizons. By addressing inter-branch isolation, memoryless search, and hierarchical control gaps, it enhances sustained optimization in MLE tasks.",
+    "significance": "This framework pushes the frontier of automated ML by enabling continuous, hierarchical self-optimization, potentially accelerating scientific discovery and engineering.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9e01b59d412d70e778a3134c93fffc2b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06472v1",
+    "arxiv_id": "2606.06472v1",
+    "title": "When positive and negative pairs differ in femtoscopy: residual Coulomb and isospin effects",
+    "authors": [
+      "Yevheniia Khyzhniak",
+      "Michael Annan Lisa"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Charge-Dependent Femtoscopic Correlations Reveal Residual Coulomb and Isospin Dynamics in Heavy-Ion Collisions",
+    "tldr": "We analyze identical-pion and kaon femtoscopic correlations, showing how the residual Coulomb field and isospin effects modify the correlation functions. The study uses a modified blast-wave model to propagate particles with opposite charges, revealing distinct charge-dependent signatures.",
+    "significance": "This work clarifies how electromagnetic and isospin interactions shape femtoscopic observables, improving the interpretation of particle source sizes in high-energy collisions.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3d59339c2d565cad75dd38b370994797",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06470v1",
+    "arxiv_id": "2606.06470v1",
+    "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
+    "authors": [
+      "Senmiao Wang",
+      "Tiantian Fang",
+      "Haoran Zhang"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Polynomial Weight Preconditioning Enhances LLM Training Stability",
+    "tldr": "We introduce a PC layer that reshapes weight matrices via low-degree polynomial preconditioning, improving conditioning during LLM training. After training, the weights can be merged back, incurring no inference overhead.",
+    "significance": "It offers a simple, inference-free method to stabilize LLM training.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c0f257da62de513485deca2407ab2468",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06469v1",
+    "arxiv_id": "2606.06469v1",
+    "title": "How abundant are good interpolators?",
+    "authors": [
+      "August Y. Chen",
+      "Ahmed El Alaoui"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Exploring the Prevalence of Effective Interpolating Linear Classifiers in High-Dimensional Data",
+    "tldr": "This study quantifies how many unit‑norm linear separators perfectly fit labeled data under Gaussian mixture and logistic Gaussian feature models. It shows that even with negative margins, a surprisingly large fraction of interpolators achieve good generalization.",
+    "significance": "Understanding the abundance of good interpolators informs why over‑parameterized models can still generalize well.",
+    "tags": [
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5df71ef5d0f89d50fa3b08dcc233738a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06468v1",
+    "arxiv_id": "2606.06468v1",
+    "title": "Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement",
+    "authors": [
+      "Jui-Hui Chung",
+      "Ziyang Cai",
+      "Zihao Li"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Goedel-Architect: Automating Lean 4 Theorem Proving via Blueprint Generation for Researchers",
+    "tldr": "Goedel-Architect is an agentic framework that automates the creation and refinement of dependency graphs—blueprints—of definitions and lemmas in Lean 4. By leveraging large language models, it guides formal theorem proving, enabling rapid construction and iterative improvement of proofs.",
+    "significance": "It demonstrates how foundation models can accelerate formal verification, reducing human effort in constructing rigorous proofs.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0cca40ce8282e65ea1aa4f9defe02283",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06467v1",
+    "arxiv_id": "2606.06467v1",
+    "title": "You Only Index Once: Cross-Layer Sparse Attention with Shared Routing",
+    "authors": [
+      "Yutao Sun",
+      "Yanqi Zhang",
+      "Li Dong"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Efficient Long-Context LLMs: Cross-Layer Sparse Attention with Shared Routing for Reasoning",
+    "tldr": "This paper introduces a cross-layer sparse attention mechanism that shares routing decisions across layers, reducing decoding overhead for long-context LLMs. Experiments show comparable quality to dense attention while achieving significant speedups in reasoning-heavy inference.",
+    "significance": "It enables scalable, high-quality inference for large language models without sacrificing accuracy.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5a8bed386e7dc27e14f14fb6b8642b82",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06464v1",
+    "arxiv_id": "2606.06464v1",
+    "title": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
+    "authors": [
+      "Mandana Samiei",
+      "Eunice Yiu",
+      "Anthony GX-Chen"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Humans vs. LLMs: Active Exploration Boosts Conjunctive Causal Discovery",
+    "tldr": "Adults struggle with conjunctive causal rules, while LLMs can improve through active exploration. The study compares human and LLM performance in causal learning tasks.",
+    "significance": "Demonstrates that active exploration can mitigate human limitations in causal reasoning, informing AI-human collaboration.",
+    "tags": [
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "263bf37b6ed341093df02de8e0e20cf7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06462v1",
+    "arxiv_id": "2606.06462v1",
+    "title": "Benchmark Everything Everywhere All at Once",
+    "authors": [
+      "Shiyun Xiong",
+      "Dongming Wu",
+      "Peiwen Sun"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Revolutionizing Benchmarking: Sustainable, Scalable, and Reusable for LLMs and MLLMs",
+    "tldr": "Benchmarks are essential for measuring LLM and MLLM performance but are costly to build and quickly become obsolete. This work proposes a framework for creating reusable, scalable benchmarks that maintain discriminative power over time.",
+    "significance": "This framework addresses the sustainability and scalability bottlenecks in benchmark creation, enabling continuous progress in large language and multimodal models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "4e87bf7a513fb8bb68a0f4c2eaeedec3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.06461v1",
+    "arxiv_id": "2606.06461v1",
+    "title": "Flow-based Policy Adaptation without Policy Updates",
+    "authors": [
+      "Luzhe Sun",
+      "Jingtian Ji",
+      "Haoran Chen"
+    ],
+    "published": "2026-06-04",
+    "curated_at": "2026-06-07",
+    "headline": "Flow-Based Policy Adaptation: Correcting Non-Expert Actions Without Updating Policies for Robotic Agents",
+    "tldr": "We introduce GLOVES, a flow-based framework that transports suboptimal actions from pretrained policies or humans into expert-like behavior without retraining the underlying policy. This approach leverages existing knowledge while ensuring task-specific alignment and real-time applicability.",
+    "significance": "GLOVES enables efficient deployment of pretrained agents by correcting noisy outputs on-the-fly, reducing the need for costly policy retraining.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "4152434caf826198829bbfd0eb0b1c31",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.06494v1",
@@ -1118,298 +1403,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "b8ee3e4ddb8fbb77967102bd6dca6c24",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30352v1",
-    "arxiv_id": "2605.30352v1",
-    "title": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
-    "authors": [
-      "Junyu Xie",
-      "Tengda Han",
-      "Weidi Xie"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
-    "tldr": "GMOS introduces a 3D-aware framework for moving object segmentation that eliminates reliance on 2D optical flow and treats motion as an instantaneous attribute. By integrating depth cues and spatial reasoning, it improves accuracy and robustness in dynamic scenes.",
-    "significance": "This work bridges the gap between 2D motion cues and 3D geometry, enabling more precise segmentation of independently moving objects in real-world environments.",
-    "tags": [
-      "segmentation",
-      "time-series",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9723e5ed5dbb7515616b8ad657d67462",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30351v1",
-    "arxiv_id": "2605.30351v1",
-    "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
-    "authors": [
-      "Hidir Yesiltepe",
-      "Jiazhen Hu",
-      "Tuna Han Salih Meral"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "VideoMLA: Low-Rank Latent KV Cache Boosts Minute-Scale Autoregressive Video Diffusion",
-    "tldr": "VideoMLA introduces a low-rank latent key-value cache that reduces memory and latency for long‑rollout causal video diffusion. By re‑engineering the per‑head KV layout, the method enables real‑time, minute‑scale video generation with minimal computational overhead.",
-    "significance": "It enables efficient, real‑time video diffusion at minute scales, addressing a major bottleneck in streaming memory and latency.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "time-series",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c8a31ca5fa358c0bf64291b05f0b982f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30350v1",
-    "arxiv_id": "2605.30350v1",
-    "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
-    "authors": [
-      "Jusuk Lee",
-      "Seungjae Lee",
-      "Jonghun Shin"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "DynaFLIP: Dynamics-Aware Multimodal Pre-Training for Real-Time Robot Perception",
-    "tldr": "DynaFLIP introduces a dynamics-aware multimodal pre-training framework that enhances robot perception by embedding motion understanding directly into the representation. By leveraging action-relevant motion cues, it enables downstream policies to operate more efficiently and accurately in real-time manipulation tasks.",
-    "significance": "This approach bridges the gap between static vision models and dynamic robotic tasks, improving perception for safer and more effective robot manipulation.",
-    "tags": [
-      "foundation-models",
-      "object-detection",
-      "real-time",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a0bb13b75ef2f2575bd2514be5c038f2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30348v1",
-    "arxiv_id": "2605.30348v1",
-    "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
-    "authors": [
-      "Yaxin Luo",
-      "Jiacheng Cui",
-      "Xiaohan Zhao"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "LLMSurgeon: Uncovering the Hidden Data Mix of Large Language Models",
-    "tldr": "LLMSurgeon introduces Data Mixture Surgery (DMS), a method to infer the domain-level composition of an LLM’s training data using only its generated text. This approach enables post-hoc auditing of model provenance and failure modes without requiring access to proprietary training corpora.",
-    "significance": "It provides a practical tool for transparency and accountability in foundation model development.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5d53f05b8310e1de62efaa34c09d472a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30349v1",
-    "arxiv_id": "2605.30349v1",
-    "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
-    "authors": [
-      "Yusuf Dalva",
-      "Pinar Yanardag"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "AdaState: Self‑Evolving Anchors for Seamless Streaming Video Generation in Real‑Time Applications",
-    "tldr": "AdaState introduces a dynamic anchor mechanism that updates the reference frame during streaming video generation, reducing drift and improving visual consistency. The method outperforms static‑anchor baselines while maintaining real‑time performance, enabling more robust autoregressive diffusion models.",
-    "significance": "By allowing anchors to evolve, AdaState enhances the stability of streaming video diffusion, paving the way for higher‑quality, real‑time content creation.",
-    "tags": [
-      "diffusion-models",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2dd58cafccfef01eb932703ede8f509b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30347v1",
-    "arxiv_id": "2605.30347v1",
-    "title": "NeuROK: Generative 4D Neural Object Kinematics",
-    "authors": [
-      "Chen Geng",
-      "Guangzhao He",
-      "Yue Gao"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "NeuROK: Generative 4D Neural Object Kinematics for Realistic Dynamic 3D Reconstruction",
-    "tldr": "NeuROK introduces a generative neural framework that predicts realistic temporal deformations of static 3D objects under varied physical conditions, enabling 4D dynamic reconstruction. By learning physics-informed kinematics, it outperforms prior ad hoc methods and opens avenues for comprehensive 3D world modeling.",
-    "significance": "It bridges the gap between static 3D reconstruction and dynamic simulation, providing a scalable, data-driven approach to model realistic object motion.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "point-cloud",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3e500efdb45991d4f7a5ead83cce5925",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30346v1",
-    "arxiv_id": "2605.30346v1",
-    "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
-    "authors": [
-      "You-Zhe Xie",
-      "Yu-Hsuan Li",
-      "Jie-Ying Lee"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "YoCausal Benchmark Tests Video Diffusion Models for Real-World Causality in Practice",
-    "tldr": "YoCausal introduces a two-level benchmark that evaluates video diffusion models on causality using the Violation of Expectation paradigm. It moves beyond synthetic data, addressing the sim-to-real gap and probing whether models truly understand temporal causal relationships.",
-    "significance": "By challenging video diffusion models with real-world causal reasoning tasks, YoCausal highlights the limitations of current world model claims and guides future research toward more robust, causally-aware generative systems.",
-    "tags": [
-      "diffusion-models",
-      "benchmark",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "49aae8931a9ff69c1e6c4035aeb23c37",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30345v1",
-    "arxiv_id": "2605.30345v1",
-    "title": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
-    "authors": [
-      "Qinpei Luo",
-      "Ruichun Ma",
-      "Xinyu Zhang"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "AI Generates PCB Schematics from Natural Language Using Semantic Code Representations",
-    "tldr": "SchGen is the first large language model that can produce editable PCB schematics directly from natural-language requests. It leverages semantic-grounded code representations to bridge the gap between human intent and electronic design.",
-    "significance": "This work automates a traditionally manual, expertise-intensive step in hardware design, accelerating prototyping and lowering entry barriers.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "01addb34ff0525867a2729015141eb60",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30344v1",
-    "arxiv_id": "2605.30344v1",
-    "title": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
-    "authors": [
-      "Xiaona Zhou",
-      "Muntasir Wahed",
-      "Tianjiao Yu"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "Tiny but Trusted: Vision‑Language Models for Efficient Time‑Series Anomaly Detection",
-    "tldr": "This study demonstrates that compact vision‑language models can effectively identify anomalous patterns in sequential data, outperforming larger multimodal counterparts. By leveraging interval‑annotated benchmarks and generating natural‑language rationales, the approach enables fine‑tuning and real‑time anomaly detection.",
-    "significance": "It bridges the gap between large multimodal models and practical anomaly detection, enabling efficient deployment in real‑time systems.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c3dbb39e712cd2e35e3081c1ee73cdd2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30343v1",
-    "arxiv_id": "2605.30343v1",
-    "title": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
-    "authors": [
-      "Lukas Aichberger",
-      "Sepp Hochreiter"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "Harnessing Working Memory in LLMs for Enhanced Latent Reasoning without Autoregressive Overhead",
-    "tldr": "This study introduces a method to decouple reasoning from token generation by leveraging an internal working memory in large language models. The approach reduces test‑time compute and improves reasoning accuracy, demonstrating that LLMs can manipulate latent information without producing intermediate tokens.",
-    "significance": "It shows that internal memory mechanisms can make LLM reasoning more efficient and accurate, paving the way for real‑time, low‑compute applications.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "270e593c22fd6181b4bb502b3850e110",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30342v1",
-    "arxiv_id": "2605.30342v1",
-    "title": "Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field",
-    "authors": [
-      "Shangjie Xue",
-      "Jesse Dill",
-      "Dhruv Ahuja"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "Uncertainty-Driven 3D Gaussian Splatting for Active Mapping via Anisotropic Visibility Field",
-    "tldr": "We introduce GAVIS, a framework that quantifies visibility in 3D Gaussian Splatting to identify unseen regions and improve active mapping. By modeling anisotropic visibility, the method reduces prediction uncertainty and guides efficient data acquisition.",
-    "significance": "This approach enhances the reliability of 3D reconstructions in robotics and mapping by systematically addressing unseen areas.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c6e72832da33adca4238c91ffd922d50",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30341v1",
-    "arxiv_id": "2605.30341v1",
-    "title": "GPIC: A Giant Permissive Image Corpus for Visual Generation",
-    "authors": [
-      "Keshigeyan Chandrasegaran",
-      "Kyle Sargent",
-      "Suchir Agarwal"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "GPIC: 28 Trillion-Pixel Permissive Image Corpus for Open-Source Visual Generation",
-    "tldr": "GPIC introduces a 28 trillion‑pixel dataset with 100M training, 200K validation, and 1M test images, all permissively licensed and captioned by a state‑of‑the‑art vision‑language model. It enables scalable research in visual generative modeling and serves as a benchmark for diffusion and foundation models.",
-    "significance": "GPIC provides the largest openly licensed image corpus to date, accelerating the development and evaluation of generative AI models.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
   }
 ]
