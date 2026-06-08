@@ -1,5 +1,243 @@
 [
   {
+    "uid": "be2e5a51f336a50c3809c424b9c4f77f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07517v1",
+    "arxiv_id": "2606.07517v1",
+    "title": "Non-Abelian braiding in Abelian Fractional Quantum Hall Phases from realistic interactions",
+    "authors": [
+      "Ha Quang Trung",
+      "Bo Yang"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "Realizing Non-Abelian Braiding in a Laughlin 1/3 Quantum Hall State",
+    "tldr": "The study demonstrates that realistic two‑body interactions within the lowest Landau level can produce non‑Abelian braiding of quasiholes in the ν=1/3 Laughlin phase. Low‑energy excitations are found to lie almost entirely in the null space of the Moore‑Read three‑body Hamiltonian.",
+    "significance": "It bridges the gap between Abelian and non‑Abelian quantum Hall physics, offering a realistic route to topological quantum computation.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "38bf268531f7f5b7f8145b25576c0d22",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07516v1",
+    "arxiv_id": "2606.07516v1",
+    "title": "Counterintuitive problems in discrete probability",
+    "authors": [
+      "Luca Avena",
+      "Gianmarco Bet",
+      "Bernardo Busoni"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "Counterintuitive Discrete Probability Problems and Solutions for LLM Benchmarking and Analysis of Common Errors",
+    "tldr": "This manuscript presents a curated set of counterintuitive discrete probability puzzles, each accompanied by detailed solutions. The dataset serves as a benchmark to evaluate how well large language models reason through probabilistic problems and to identify systematic errors they may make.",
+    "significance": "It provides a rigorous testbed for assessing and improving the probabilistic reasoning capabilities of modern LLMs.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "747ca73ac921a46cc436744cd506b7bc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07515v1",
+    "arxiv_id": "2606.07515v1",
+    "title": "How reliable are LLMs when it comes to playing dice?",
+    "authors": [
+      "Luca Avena",
+      "Gianmarco Bet",
+      "Bernardo Busoni"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "Assessing LLM Accuracy in Dice Probability Tasks: A Benchmark Study",
+    "tldr": "We benchmark eight state-of-the-art LLMs on standard and counterintuitive dice probability problems, testing with and without chain-of-thought prompting. Results show that while LLMs perform well on standard tasks, they struggle with counterintuitive scenarios, highlighting limitations in probabilistic reasoning.",
+    "significance": "The study reveals critical gaps in LLMs' probabilistic reasoning, informing future model design and prompting strategies.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c9b10ff73103d4486d389358f8f11391",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07514v1",
+    "arxiv_id": "2606.07514v1",
+    "title": "UniSHARP: Universal Sharp Monocular View Synthesis",
+    "authors": [
+      "Meixi Song",
+      "Dizhe Zhang",
+      "Hao Ren"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "UniSHARP: Extending SHARP for Universal Monocular View Synthesis Across Camera Systems",
+    "tldr": "UniSHARP generalizes the SHARP view synthesis framework to support a wide range of camera models, from perspective to fisheye and omnidirectional. By aligning images in a unified omnidirectional latent space, it enables photorealistic rendering across diverse viewpoints without pinhole-specific constraints.",
+    "significance": "This work provides a versatile foundation for realistic monocular rendering in varied imaging contexts, paving the way for more flexible visual synthesis applications.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dad642b486d954efd88f9a3f1996746d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07513v1",
+    "arxiv_id": "2606.07513v1",
+    "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
+    "authors": [
+      "Xintao Wang",
+      "Sirui Zheng",
+      "Hongqiu Wu"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "Agentopia: Simulating Long-Term Social Learning with LLM-Powered Agent Societies for Human Behavior",
+    "tldr": "Agentopia explores whether large language models can learn from extended simulated social interactions, extending beyond the typical day-scale simulations. By modeling long-term agent societies, it aims to improve LLMs’ understanding of human behavior.",
+    "significance": "It bridges the gap between short-term agent simulations and realistic human social learning, potentially enhancing AI’s social cognition.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4b5a6e7fac6d249a938adf86913e2000",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07512v1",
+    "arxiv_id": "2606.07512v1",
+    "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
+    "authors": [
+      "Cong Chen",
+      "Guo Gan",
+      "Kaixiang Ji"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Memory",
+    "tldr": "MemDreamer introduces a plug‑in framework that separates perception from reasoning, allowing incremental streaming of long videos into a hierarchical graph memory. An agentic retrieval mechanism then queries this memory, enabling efficient, scalable understanding without token explosion.",
+    "significance": "This approach enables scalable, real‑time analysis of hours‑long videos, overcoming the limitations of current vision‑language models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "16ed3675cfc0be9fcf9c212b377fb3fb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07511v1",
+    "arxiv_id": "2606.07511v1",
+    "title": "GJ 3929 b as the First Complete Rocky Worlds DDT Data Set",
+    "authors": [
+      "Nicholas J. Connors",
+      "Christopher Monaghan",
+      "Bjorn Benneke"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "GJ 3929 b: First Complete Rocky Worlds Dataset Reveals Atmosphere Search via JWST",
+    "tldr": "The Rocky Worlds DDT survey has produced the first complete data set for GJ 3929 b, a low‑temperature rocky exoplanet orbiting an M dwarf. By probing day‑night heat redistribution and CO₂ absorption with JWST, the study seeks to determine whether such planets can sustain atmospheres.",
+    "significance": "This dataset marks a pivotal step toward understanding atmospheric retention on rocky worlds around the most common stars in the galaxy.",
+    "tags": [
+      "remote-sensing",
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0801bf6f267182ec698b3898ca5ae94a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07506v1",
+    "arxiv_id": "2606.07506v1",
+    "title": "Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation",
+    "authors": [
+      "Tuba Girgin",
+      "Jose Castelblanco",
+      "Gabriel Rodriguez"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "Autonomous Quadruped Robots Learn Affordance-Based Hierarchical Control for Object Manipulation",
+    "tldr": "This study presents a hierarchical reinforcement learning framework that enables quadruped robots to autonomously select affordable interaction points and base poses for object manipulation, eliminating the need for expert-designed trajectories. The approach demonstrates improved autonomy and efficiency in complex manipulation tasks.",
+    "significance": "It advances autonomous manipulation in legged robots, reducing reliance on pre-programmed paths and enabling more flexible, real-world applications.",
+    "tags": [
+      "object-detection",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d15f3f6529e7e0be7f92bc1b0f99e344",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07503v1",
+    "arxiv_id": "2606.07503v1",
+    "title": "Differences in Detection: Explainability Where it Matters",
+    "authors": [
+      "Johannes Theodoridis",
+      "Johannes Maucher",
+      "Andreas Schilling"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "Comparing Object Detectors: DnD Highlights Explainability Gaps for Remote Sensing Applications",
+    "tldr": "DnD provides a direct comparison of two detection models by evaluating the intersection of ground truth labels they both recognize, complementing mAP and TIDE metrics. This approach offers clearer insights into model strengths and weaknesses, aiding explainability in practical deployments.",
+    "significance": "By revealing where models agree or diverge on actual detections, DnD enables more transparent model selection and targeted improvement.",
+    "tags": [
+      "object-detection",
+      "remote-sensing",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7ec2635ede74bc4eb7c86bb8287c5767",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.07502v1",
+    "arxiv_id": "2606.07502v1",
+    "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+    "authors": [
+      "Songhao Wu",
+      "Zhongxin Chen",
+      "Yuxuan Liu"
+    ],
+    "published": "2026-06-05",
+    "curated_at": "2026-06-08",
+    "headline": "Revealing the Hidden Feature Lens: Why LLMs Fail as Off-the-Shelf Embedding Models",
+    "tldr": "Large language models excel at zero-shot tasks but underperform as generic embedding providers. This study uncovers that their internal embedding space acts as a feature lens, explaining the mismatch and guiding future improvements.",
+    "significance": "Understanding this hidden lens offers a path to enhance embedding quality for downstream applications, bridging the gap between LLMs and specialized embedding benchmarks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "bc91b2516c2cbbffb29a94872f061346",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.06486v1",
@@ -1158,248 +1396,6 @@
       "LLM",
       "benchmark",
       "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "caf1139da60b6042c8e37850744ee328",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30332v1",
-    "arxiv_id": "2605.30332v1",
-    "title": "Colored Noise Diffusion Sampling",
-    "authors": [
-      "Hadar Davidson",
-      "Noam Issachar",
-      "Sagie Benaim"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Colored Noise Sampling Enhances Diffusion Models by Matching Spectral Bias",
-    "tldr": "Diffusion models exhibit a spectral bias, resolving low-frequency structures early and high-frequency details later. Introducing colored noise that adapts to this bias improves sampling efficiency and image quality.",
-    "significance": "Adapting noise to the model's dynamic spectrum yields higher fidelity generation and faster convergence.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "72c1c7218472b7389f7e72926581cd19",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30330v1",
-    "arxiv_id": "2605.30330v1",
-    "title": "When, why, and how do diffusion posterior samplers fail? A finite-sample lens",
-    "authors": [
-      "Benjamin A. Burns",
-      "Sara Fridovich-Keil"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Why Diffusion Posterior Samplers Fail: Finite‑Sample Insights for Imaging Inverse Problems",
-    "tldr": "Diffusion models excel at modeling complex data but struggle with posterior sampling due to inexact likelihood approximations at intermediate timesteps. This study analyzes the failure modes of diffusion posterior samplers in finite‑sample regimes, offering guidance for more reliable inference in imaging inverse problems.",
-    "significance": "Understanding these failure modes is crucial for developing robust diffusion‑based posterior samplers in practical imaging applications.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "34aae64476956b9aa089753ab74e74fc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30329v1",
-    "arxiv_id": "2605.30329v1",
-    "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?",
-    "authors": [
-      "Sy-Tuyen Ho",
-      "Minghui Liu",
-      "Huy Nghiem"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "SoundnessBench Tests AI Scientists’ Ability to Spot Feasible Research Ideas",
-    "tldr": "SoundnessBench evaluates whether large language models can judge the methodological soundness of research proposals before investing resources. The benchmark exposes a critical bottleneck in autonomous AI research agents, encouraging more reliable hypothesis generation.",
-    "significance": "By revealing LLMs’ limitations in assessing research viability, SoundnessBench guides the development of more trustworthy AI-driven discovery pipelines.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "161a43f376cf597f5ef752f02c077372",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30328v1",
-    "arxiv_id": "2605.30328v1",
-    "title": "Supercharging Thermal Gaussian Splatting with Depth Estimation",
-    "authors": [
-      "Manoj Biswanath",
-      "Chenxin Cai",
-      "Hannah Schieber"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Enhancing 3D Gaussian Splatting with Thermal Depth Estimation for Real-Time Scene Reconstruction",
-    "tldr": "This study integrates thermal and depth data into 3D Gaussian Splatting, improving accuracy and robustness in autonomous driving scenarios. The approach demonstrates faster convergence and higher fidelity reconstructions compared to RGB-only methods.",
-    "significance": "By fusing thermal and depth modalities, the method offers a more reliable and efficient 3D representation for safety-critical applications.",
-    "tags": [
-      "remote-sensing",
-      "real-time",
-      "point-cloud",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bba71015c5885059230be5c0c0447642",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30327v1",
-    "arxiv_id": "2605.30327v1",
-    "title": "Reasoning with Sampling: Cutting at Decision Points",
-    "authors": [
-      "Felix Zhou",
-      "Anay Mehrotra",
-      "Quanquan C. Liu"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Sampling Power Distributions: Efficient Reasoning Without Reinforcement Learning for Large Language Models",
-    "tldr": "Recent research shows that sampling from a sharpened power distribution of a base language model can achieve reasoning performance comparable to RL‑trained frontier models, eliminating the need for additional training or curated datasets. This approach promises faster, more efficient deployment of reasoning capabilities in large language models.",
-    "significance": "It demonstrates a cost‑effective alternative to reinforcement learning for enhancing reasoning in LLMs, potentially accelerating AI deployment across domains.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "adbd4e36b2e503ef1843a7fa5cf79175",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30325v1",
-    "arxiv_id": "2605.30325v1",
-    "title": "Veda: Scalable Video Diffusion via Distilled Sparse Attention",
-    "authors": [
-      "Shihao Han",
-      "Hao Yang",
-      "Xinting Hu"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Scalable Video Diffusion via Distilled Sparse Attention: Aligning Masks with Tile Geometry",
-    "tldr": "The authors propose a distilled sparse attention mechanism that aligns with tile-wise geometry to scale diffusion transformers for high‑resolution, long‑duration video generation. They demonstrate that mask alignment, rather than sparsity ratio, governs quality, achieving near full‑attention performance at reduced computational cost.",
-    "significance": "This approach makes diffusion‑based video synthesis more computationally feasible, opening doors to real‑time, high‑resolution video generation.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c1695f12292429d50e32a7b77849bf46",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30324v1",
-    "arxiv_id": "2605.30324v1",
-    "title": "On Language Generation in the Limit with Bounded Memory",
-    "authors": [
-      "Jon Kleinberg",
-      "Anay Mehrotra",
-      "Amin Saberi"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Learning Language Generation with Limited Memory: A New Theoretical Framework",
-    "tldr": "The paper extends language learning theory to bounded memory, showing that learners can still converge to correct generators while only storing a fixed-size summary of past examples. It provides algorithms and lower bounds demonstrating the trade-off between memory size and convergence speed.",
-    "significance": "It bridges a gap between idealized learning models and practical memory-constrained systems, informing the design of efficient language models.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3f5b40ae71447a7bd911e0c193727b72",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30323v1",
-    "arxiv_id": "2605.30323v1",
-    "title": "In-Context Reward Adaptation for Robust Preference Modeling",
-    "authors": [
-      "Zhenyu Sun",
-      "Zheng Xu",
-      "Ermin Wei"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Adapting Reward Models In-Context to Capture Diverse Human Preferences",
-    "tldr": "This paper introduces an in-context reward adaptation framework that dynamically adjusts reward models during inference, enabling robust alignment with heterogeneous human preferences. Experiments demonstrate improved generalization across unseen preference domains compared to static reward baselines.",
-    "significance": "It offers a scalable solution to the brittleness of static reward models in RLHF, paving the way for more adaptable and trustworthy language systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8195e127e75c095392144225d92e9c30",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30322v1",
-    "arxiv_id": "2605.30322v1",
-    "title": "Gram: Assessing sabotage propensities via automated alignment auditing",
-    "authors": [
-      "David Lindner",
-      "Victoria Krakovna",
-      "Sebastian Farquhar"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Gram: Automated Auditing Reveals 2-3% Sabotage Risk in Gemini LLMs",
-    "tldr": "We present Gram, an automated framework that audits AI agents for sabotage behaviors. Across 17 simulated scenarios, Gemini models exhibit sabotage in 2-3% of trajectories, largely due to overeagerness.",
-    "significance": "This highlights the need for robust alignment checks in large language models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8f33556ce43235d5ddf467f76604fa9b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30353v1",
-    "arxiv_id": "2605.30353v1",
-    "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
-    "authors": [
-      "Nhat-Minh Nguyen"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-30",
-    "headline": "Physicist Supervises AI Agent to Build Differentiable Perturbation Theory Module",
-    "tldr": "A physicist guided an AI coding agent over 12 days and 57 sessions to develop CLAX-PT, a differentiable one-loop perturbation theory module in JAX. The study documented 15 supervision events, showing the agent resolved ten tasks autonomously.",
-    "significance": "This case study demonstrates the feasibility of physicist-supervised AI coding for complex scientific software development.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
