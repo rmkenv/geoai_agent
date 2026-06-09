@@ -1,5 +1,221 @@
 [
   {
+    "uid": "007ab2fa54d8351bc2b8919e67ffa8c3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09828v1",
+    "arxiv_id": "2606.09828v1",
+    "title": "Latent Spatial Memory for Video World Models",
+    "authors": [
+      "Weijie Wang",
+      "Haoyu Zhao",
+      "Yifan Yang"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "Efficient Latent Spatial Memory Enhances 3D Consistency in Video World Models",
+    "tldr": "This paper proposes a latent spatial memory that replaces explicit RGB point clouds, reducing computational cost and preserving richer latent features. The approach maintains 3D spatial consistency across generated frames without repeated rendering or VAE encoding.",
+    "significance": "By eliminating costly rendering loops, the method enables scalable, high-fidelity video generation with robust 3D coherence.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bbbbd9096c3b7251b4c1ea7c9b3ac49e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09826v1",
+    "arxiv_id": "2606.09826v1",
+    "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+    "authors": [
+      "Mingxian Lin",
+      "Shengju Qian",
+      "Yuqi Liu"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "OmniGameArena: Unified Benchmark for Vision‑Language Game Agents with Dynamic Evaluation",
+    "tldr": "OmniGameArena introduces a single protocol that evaluates commercial, open‑weight, and specialized VLM agents across multiple games. It reports progressive improvement metrics instead of single‑attempt scores, enabling fair comparison of heterogeneous agent classes.",
+    "significance": "This benchmark standardizes evaluation, enabling researchers to compare diverse VLM agents on equal footing and track learning progress in interactive game environments.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "510109340bc5a2cfa5a6e27034c80e82",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09824v1",
+    "arxiv_id": "2606.09824v1",
+    "title": "TSseek: Regular Expression-Based Similarity Search for Distributed Time Series Datasets",
+    "authors": [
+      "Xiaoshuai Li",
+      "Khalid Alnuaim",
+      "Mohamed Y. Eltabakh"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "TSseek: Regex-Based Pattern Search for Distributed Time Series Data in Big Data",
+    "tldr": "TSseek introduces a regex-based similarity search engine that allows users to query distributed time series datasets using flexible pattern expressions instead of full sequences. The system supports scalable, distributed processing and demonstrates significant speedups over traditional exact-match methods.",
+    "significance": "By enabling pattern-based queries, TSseek expands the applicability of time series analysis to real-world scenarios where precise sequences are unavailable.",
+    "tags": [
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "76634c6b425eee495c795e4b82db1ad3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09822v1",
+    "arxiv_id": "2606.09822v1",
+    "title": "Causally Evaluating the Learnability of Formal Language Tasks",
+    "authors": [
+      "Vésteinn Snæbjarnarson",
+      "Anej Svete",
+      "Josef Valvoda"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "Measuring How Much Data Language Models Need to Master Formal Tasks",
+    "tldr": "This study introduces a causal framework to quantify the amount of task-specific data required for language models to learn formal language tasks. By using controlled experiments, it demonstrates that data frequency strongly predicts learnability, offering a benchmark for future multi-task learning research.",
+    "significance": "It provides a rigorous, data-driven benchmark for assessing and improving the efficiency of large language models across diverse tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b5448358c66ebde3ad3be3e4cb3fcf9f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09821v1",
+    "arxiv_id": "2606.09821v1",
+    "title": "Rethinking the Divergence Regularization in LLM RL",
+    "authors": [
+      "Jiarui Yao",
+      "Xiangxin Zhou",
+      "Penghui Qi"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "Rethinking Divergence Regularization for Stable RL in Large Language Models",
+    "tldr": "This paper revisits divergence regularization in RL for LLMs, highlighting issues with ratio-clipping in PPO and GRPO. It proposes a more principled trust-region approach that improves stability and performance.",
+    "significance": "It offers a new perspective on stabilizing off-policy RL for LLMs, potentially enhancing alignment and safety.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b3b50e25b2aaaa689dd6f74920bfcbde",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09819v1",
+    "arxiv_id": "2606.09819v1",
+    "title": "Linear Ricci-Trace Deformations and Operational Equivalence in Rastall-Type Gravity",
+    "authors": [
+      "José A. C. Nogales",
+      "Karen-Luz Burgoa Rosso",
+      "Marcelo H. Alavarenga"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "Exploring Linear Ricci-Trace Deformations in Rastall-Type Gravity: Structural Classification and Parameter Mapping",
+    "tldr": "We classify linear Ricci–trace deformations of Einstein’s equations, revealing a family of Rastall-type models with modified Ricci-to-scalar coupling. The analysis provides a parameter dictionary linking these deformations to observable gravitational dynamics.",
+    "significance": "This work clarifies the theoretical landscape of modified gravity, offering a systematic framework for future phenomenological studies.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e5553622fb5fbc1ab7da1baf1b1a7ce7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09817v1",
+    "arxiv_id": "2606.09817v1",
+    "title": "Satellite compaction pathways: environmental drivers shaping dwarf galaxy corpulence in the TNG50 simulation",
+    "authors": [
+      "Abhner P. De Almeida",
+      "Gary A. Mamon",
+      "Gastão B. Lima Neto"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "Environmental Drivers of Compact Dwarf Galaxies in the TNG50 Simulation",
+    "tldr": "We investigate how environmental factors lead to compact dwarf galaxies in the TNG50 simulation, focusing on satellite compaction pathways. Our analysis reveals that tidal interactions and gas stripping are key drivers of dwarf galaxy corpulence.",
+    "significance": "This study provides a comprehensive framework for understanding the physical processes that produce compact dwarf satellites, informing models of galaxy evolution.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2c2357aec7b1d43329d66563268da60e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09816v1",
+    "arxiv_id": "2606.09816v1",
+    "title": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
+    "authors": [
+      "Danqi Zhuang",
+      "Jisui Huang",
+      "Xiaoyue Xi"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "PTL-Diffusion: Enhancing Diffusion Models with Manifold-Aware Periodic Terminal Laws",
+    "tldr": "PTL-Diffusion introduces a manifold-aware diffusion framework that replaces the standard Gaussian terminal distribution with periodic terminal laws, enabling better modeling of data concentrated near low-dimensional manifolds. This approach improves generation quality for complex, structured datasets while maintaining analytical tractability.",
+    "significance": "By aligning diffusion dynamics with underlying manifold structures, PTL-Diffusion offers a principled way to generate high-fidelity samples for data with rich geometric or semantic variations.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "28b335a68bd98745ae56c6d72d5b77c4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.09813v1",
+    "arxiv_id": "2606.09813v1",
+    "title": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
+    "authors": [
+      "Zhenyu Wu",
+      "Xiuwei Xu",
+      "Yukun Zhou"
+    ],
+    "published": "2026-06-08",
+    "curated_at": "2026-06-09",
+    "headline": "iMaC: Bridging Actions to Motion Images for Robust Embodied AI",
+    "tldr": "iMaC introduces a novel framework that translates low-dimensional action vectors into rich motion and contact images, enabling embodied world models to learn from visual dynamics rather than abstract parameters. The method demonstrates improved generalization across diverse robot embodiments and provides a benchmark dataset for future research.",
+    "significance": "By converting actions into visual representations, iMaC unlocks more expressive, transferable, and physically grounded learning for embodied AI systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "be2e5a51f336a50c3809c424b9c4f77f",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.07517v1",
@@ -1187,217 +1403,6 @@
       "real-time"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "09b6bc1156e5c185062187dcda0f7bd7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02571v1",
-    "arxiv_id": "2606.02571v1",
-    "title": "Multilayer Babinet metamaterial to initiate nonreciprocal topological phenomena and generalized Faraday rotation",
-    "authors": [
-      "Balázs Bánhelyi",
-      "Miklós Waldhauser",
-      "Virág Szünstein"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "Babinet Metamaterials Enable Nonreciprocal Faraday Rotation via Coupled Plasmonic Nanoresonators",
-    "tldr": "Multilayer Babinet structures of plasmonic nanoresonators were engineered to produce generalized Faraday rotation, achieving nonreciprocal rotation and asymmetric transmission. The effect arises from symmetry breaking through coupled localized modes and Brillouin zone folding.",
-    "significance": "This work demonstrates a new route to control light‑matter interactions for topological photonics, enabling compact, tunable nonreciprocal devices.",
-    "tags": [
-      "spatial-reasoning",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "69ae1341ab7cbb419a0875f342fa3e1e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02570v1",
-    "arxiv_id": "2606.02570v1",
-    "title": "Stochastic completeness for landmark space",
-    "authors": [
-      "Karen Habermann",
-      "Stefan Sommer"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "Extending Stochastic Completeness to Multi-Landmark Riemannian Shape Spaces in High-Dimensional Domains",
-    "tldr": "We generalize a stochastic completeness theorem from two to any number of landmarks in shape spaces. This connects geodesic completeness with probabilistic properties of the induced Riemannian metrics.",
-    "significance": "The result provides a rigorous foundation for probabilistic shape analysis in high-dimensional landmark models.",
-    "tags": [
-      "spatial-reasoning",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9c3d473e7778d20cc77ecba17cecbe7c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02568v1",
-    "arxiv_id": "2606.02568v1",
-    "title": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
-    "authors": [
-      "Yuxing Lu",
-      "Yushuhong Lin",
-      "Wenqi Shi"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "ClinEnv: A Real-Time, Multi-Stage EHR Benchmark for Evaluating LLMs in Clinical Practice",
-    "tldr": "ClinEnv is an interactive, long-horizon electronic health record environment that simulates real-world clinical decision making. It allows large language models to gather heterogeneous patient data incrementally and make irreversible treatment choices, providing a realistic benchmark for medical AI.",
-    "significance": "ClinEnv bridges the gap between static benchmarks and existing interactive medical tests, offering a realistic, open-source platform to assess LLMs' clinical reasoning under uncertainty.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "eecf6aacb0458cd67195d7b4938eddcf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02567v1",
-    "arxiv_id": "2606.02567v1",
-    "title": "Strong Polarization and Entropy",
-    "authors": [
-      "Daniel Galicer",
-      "Oscar Ortega-Moreno",
-      "Damián Pinasco"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "Weighted Strong Polarization Inequality for Unit Vectors in Real Hilbert Spaces",
-    "tldr": "We prove that for any set of unit vectors and positive weights summing to one, there exists a unit vector such that a weighted sum of squared reciprocals of inner products is bounded by one. This generalizes the strong polarization inequality and has implications for entropy bounds.",
-    "significance": "This result provides a new tool for bounding entropy and polarization in high-dimensional spaces.",
-    "tags": [
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "08470726bf64e882e6449e73c77f40d5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30337v1",
-    "arxiv_id": "2605.30337v1",
-    "title": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
-    "authors": [
-      "Alaa Khamis",
-      "Alaa Maalouf"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Speeding Up Test‑Time Finetuning of LLMs with Convex Reconstruction and Gradient Caching",
-    "tldr": "This paper introduces a fast test‑time finetuning framework that uses convex reconstruction of retrieved sequences and caches gradients to avoid redundant updates. The approach achieves near‑state‑of‑the‑art performance while keeping per‑query latency low.",
-    "significance": "It enables practical, real‑time adaptation of large language models to individual prompts without sacrificing quality.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c1281f3756452172fb91712f9734ca3f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30336v1",
-    "arxiv_id": "2605.30336v1",
-    "title": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
-    "authors": [
-      "Daniel Kuznetsov",
-      "Ziqi Wang"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Fairness-Aware Federated Learning Using Trajectory Shapley Value for Privacy-Sensitive Data Clients",
-    "tldr": "This paper introduces a trajectory Shapley value to quantify each client’s contribution over time, enabling fairness-aware aggregation in federated learning. The method adapts weights dynamically, improving model performance while respecting privacy constraints.",
-    "significance": "By accounting for time-varying contributions, the approach mitigates bias and enhances collaborative learning on heterogeneous data.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "60c506418f84432c9edfcbf29095b64f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30335v1",
-    "arxiv_id": "2605.30335v1",
-    "title": "Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents",
-    "authors": [
-      "Anany Kotawala"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "When Local Coherence Fails: Bounding Incoherence in Multi-Component LLM Agents",
-    "tldr": "We formalize how composing locally coherent LLM components can produce globally incoherent probability estimates, introducing the compositional residual ε* as a measurable metric. By computing the L2 distance from the composed output to the joint coherent polytope, we provide a bound on incoherence that can guide agent design.",
-    "significance": "This work exposes a fundamental flaw in multi-component LLM architectures and offers a principled way to quantify and mitigate it.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c5c72d093881e28f5fb9d22c01e43d02",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30334v1",
-    "arxiv_id": "2605.30334v1",
-    "title": "Demystifying Data Organization for Enhanced LLM Training",
-    "authors": [
-      "Yalun Dai",
-      "Yangyu Huang",
-      "Tongshen Yang"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Optimizing Data Organization to Boost Efficiency in Large Language Model Training",
-    "tldr": "This paper investigates how arranging training data strategically can improve LLM learning speed and performance, especially when models are trained for only a few epochs. The authors propose systematic methods and evaluate them, showing significant gains in training efficiency.",
-    "significance": "By revealing that thoughtful data organization can markedly accelerate LLM training, the study offers a practical pathway to reduce computational costs and improve model quality.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "30596d9c68eb4c4f8a574eca24bd47b5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2605.30333v1",
-    "arxiv_id": "2605.30333v1",
-    "title": "COMPOSE: Composing Future Theorems from Citations and Formal Structure",
-    "authors": [
-      "David Busbib",
-      "Michael Werman"
-    ],
-    "published": "2026-05-28",
-    "curated_at": "2026-05-31",
-    "headline": "Grounded Generation of Plausible Future Theorems via Citation and Formal Structure",
-    "tldr": "This work introduces COMPOSE, a system that generates plausible future mathematical claims by combining citation-based context with formal proof dependencies. It demonstrates that grounding both prior literature and logical structure yields more realistic and motivated theorems than existing methods.",
-    "significance": "By ensuring future theorems are both literature-consistent and logically valid, COMPOSE advances automated mathematical discovery.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
