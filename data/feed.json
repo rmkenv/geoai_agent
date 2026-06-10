@@ -1,5 +1,28 @@
 [
   {
+    "uid": "527a50b2a8e915003638c2299d538807",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.11181v1",
+    "arxiv_id": "2606.11181v1",
+    "title": "Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor",
+    "authors": [
+      "Franziska Hagelstein",
+      "Danaheb Naomi Navarro Durán",
+      "Timon Esser"
+    ],
+    "published": "2026-06-09",
+    "curated_at": "2026-06-10",
+    "headline": "Combining Lattice QCD and Experimental Data to Refine the Pion Transition Form Factor",
+    "tldr": "This study demonstrates a method to merge lattice QCD calculations with experimental measurements, enhancing the precision of the pion transition form factor. The approach leverages complementary strengths of both datasets to improve predictions for the muon g‑2 hadronic light‑by‑light contribution.",
+    "significance": "Accurate determination of the pion transition form factor is essential for reducing uncertainties in the muon anomalous magnetic moment, a key test of the Standard Model.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "007ab2fa54d8351bc2b8919e67ffa8c3",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.09828v1",
@@ -1379,30 +1402,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "fdb2818bc0b31bcab1f8ee1f8a223e41",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02573v1",
-    "arxiv_id": "2606.02573v1",
-    "title": "HumanNOVA: Photorealistic, Universal and Rapid 3D Human Avatar Modeling from a Single Image",
-    "authors": [
-      "Hezhen Hu",
-      "Wangbo Zhao",
-      "Lanqing Guo"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "HumanNOVA: Rapid, Photorealistic 3D Human Avatars from a Single Image",
-    "tldr": "HumanNOVA introduces a scalable pipeline that generates photorealistic, universal 3D human avatars from a single RGB image. By leveraging rigged models and diffusion-based synthesis, it achieves rapid, high-quality avatar creation with limited training data.",
-    "significance": "This work enables realistic, real-time avatar generation for applications in virtual reality, gaming, and telepresence, overcoming data scarcity challenges.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
