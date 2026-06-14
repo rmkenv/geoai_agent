@@ -1,5 +1,29 @@
 [
   {
+    "uid": "39a9bd41e86145074b4fa61e4ac0dc17",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.13680v1",
+    "arxiv_id": "2606.13680v1",
+    "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+    "authors": [
+      "Zilin Xiao",
+      "Qi Ma",
+      "Chun-cheng Jason Chen"
+    ],
+    "published": "2026-06-11",
+    "curated_at": "2026-06-14",
+    "headline": "Analogical Retrieval Enhances Complex Reasoning in Large Language Models' Performance",
+    "tldr": "The paper introduces a retrieval-augmented reinforcement fine-tuning method that selects analogical examples to guide reasoning. Experiments show improved performance on reasoning benchmarks compared to standard lexical retrieval.",
+    "significance": "It demonstrates that analogy-based retrieval can substantially improve reasoning in LLMs, offering a new direction for knowledge grounding.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "527a50b2a8e915003638c2299d538807",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.11181v1",
@@ -1378,29 +1402,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "c0fd0b5b75153894bb9c984573053ad2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02574v1",
-    "arxiv_id": "2606.02574v1",
-    "title": "Quantum Simulation of Nucleon-Antinucleon Interaction in Large-$N$ QCD$_2$ on an IBM Quantum Nighthawk Processor",
-    "authors": [
-      "Cameron V. Cogburn",
-      "Sebastian Grieninger",
-      "Dmitri E. Kharzeev"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "Quantum Simulation of Nucleon‑Antinucleon Interaction in Large‑N QCD₂ on IBM Nighthawk",
-    "tldr": "We demonstrate a quantum simulation of nucleon–antinucleon interactions in large‑N two‑dimensional QCD using IBM's Nighthawk processor. The study showcases a bosonized topological soliton framework, providing a nonperturbative benchmark for future quantum‑chromodynamics research.",
-    "significance": "This work establishes a scalable, nonperturbative quantum‑chromodynamics benchmark, bridging theoretical physics and quantum hardware.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
