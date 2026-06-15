@@ -1,5 +1,54 @@
 [
   {
+    "uid": "94015218d95cb4f28f333e2bd1cf9205",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.14699v1",
+    "arxiv_id": "2606.14699v1",
+    "title": "Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control",
+    "authors": [
+      "Ruining Li",
+      "Yuxin Yao",
+      "Matt Zhou"
+    ],
+    "published": "2026-06-12",
+    "curated_at": "2026-06-15",
+    "headline": "Instruct-Particulate: Scaling 3D Object Articulation with Kinematic Control via Instructional Models",
+    "tldr": "We present Instruct-Particulate, a model that reconstructs articulated 3D objects from meshes and target kinematic specifications. By leveraging instruction-based conditioning, it generalizes across diverse object categories with limited annotated data.",
+    "significance": "This approach enables scalable, data‑efficient reconstruction of articulated 3D models for animation, gaming, and robotics.",
+    "tags": [
+      "foundation-models",
+      "point-cloud",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7aca590fabb88d601c43d3cd483263a0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.14689v1",
+    "arxiv_id": "2606.14689v1",
+    "title": "Leptonic flavour transfer: a new window on flavour gauge symmetries",
+    "authors": [
+      "L. Darmé",
+      "N. Fardeau",
+      "F. Mahmoudi"
+    ],
+    "published": "2026-06-12",
+    "curated_at": "2026-06-15",
+    "headline": "New Leptonic Flavour Transfer Mechanisms Reveal Hidden Gauge Symmetries in Particle Physics",
+    "tldr": "The study introduces novel non‑Abelian flavour gauge groups that induce flavour‑transfer processes resembling charged‑current interactions in the lepton sector. By exploring various flavour structures, the authors systematically identify observable signatures that could probe these hidden symmetries at low energies.",
+    "significance": "This work opens a new avenue for testing flavour gauge symmetries through accessible low‑energy lepton processes, potentially guiding future experimental searches.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "39a9bd41e86145074b4fa61e4ac0dc17",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.13680v1",
@@ -1352,53 +1401,6 @@
       "foundation-models",
       "spatial-reasoning",
       "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ed450bff5c36c038f3c03ae582c6ab1f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02577v1",
-    "arxiv_id": "2606.02577v1",
-    "title": "RoboDream: Compositional World Models for Scalable Robot Data Synthesis",
-    "authors": [
-      "Junjie Ye",
-      "Rong Xue",
-      "Basile Van Hoorick"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "RoboDream: Using Diffusion Models to Generate Realistic Robot Demonstrations at Scale",
-    "tldr": "RoboDream introduces compositional world models that synthesize diverse, physically plausible robot demonstrations using diffusion-based generative techniques. This approach scales data collection, overcoming the cost and limitations of teleoperation while mitigating embodiment hallucinations.",
-    "significance": "It enables large-scale, high-fidelity robot training data without costly real-world collection, accelerating robot learning.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "129419edb12f8c14c8e77ed23da5b1d6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02575v1",
-    "arxiv_id": "2606.02575v1",
-    "title": "From Zero to Hero: Training-Free Custom Concept Spawning in World Models",
-    "authors": [
-      "Kiymet Akdemir",
-      "Pinar Yanardag"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "Training-Free Custom Concept Spawning for Interactive Video Generation in Autoregressive World Models",
-    "tldr": "This work introduces a method to spawn new concepts in autoregressive world models without additional training, enabling users to explore beyond the initial reference frame. By leveraging prompt-based conditioning and on-the-fly concept generation, the approach maintains coherence while expanding the navigable environment.",
-    "significance": "It removes the need for costly fine-tuning, democratizing interactive video generation for diverse applications.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
