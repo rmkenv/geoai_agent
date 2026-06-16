@@ -1,5 +1,315 @@
 [
   {
+    "uid": "1c75ada5243c4a44f2ec788c9b8af412",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17056v1",
+    "arxiv_id": "2606.17056v1",
+    "title": "The Value Axis: Language Models Encode Whether They're on the Right Track",
+    "authors": [
+      "Nick Jiang",
+      "Isaac Kauvar",
+      "Jack Lindsey"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Language Models Track Their Own Success Likelihood via a Hidden Value Axis",
+    "tldr": "Researchers constructed a \"value\" axis for Qwen3-8B using synthetic reinforcement learning data, showing that activations along this axis correlate with verbalized confidence and rollout outcomes. The study demonstrates that language models internally encode the likelihood of achieving their goals.",
+    "significance": "It reveals that LLMs possess an internal metric of goal alignment, informing future alignment and safety research.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c742b69b4ab846f0f7709a6ac71bbcc5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17055v1",
+    "arxiv_id": "2606.17055v1",
+    "title": "T-Rex: Tactile-Reactive Dexterous Manipulation",
+    "authors": [
+      "Dantong Niu",
+      "Zhuoyang Liu",
+      "Zekai Wang"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "T-Rex: Advancing Dexterous Manipulation with Tactile-Responsive Vision-Language Models",
+    "tldr": "T-Rex introduces a framework that integrates tactile feedback into Vision-Language-Action models, enabling robots to adaptively manipulate objects. By addressing data scarcity and evaluation gaps, it pushes robotic dexterity closer to human-level agility.",
+    "significance": "It bridges a critical gap in robotic manipulation by embedding dynamic tactile perception into learning-based VLA systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c1c3e0d4de0344e39399d998d91b9744",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17054v1",
+    "arxiv_id": "2606.17054v1",
+    "title": "Human Universal Grasping",
+    "authors": [
+      "Kevin Yuanbo Wu",
+      "Tianxing Zhou",
+      "Isaac Tu"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Human Universal Grasping: A Flow-Matching Model for Diverse Robot Grasps",
+    "tldr": "Humans naturally grasp objects effortlessly, but robots lag behind. We present HUG, a flow-matching model that generates diverse human-like grasps from a single RGB-D image, enabling more general robot manipulation.",
+    "significance": "By leveraging human grasp data, HUG bridges the gap between human dexterity and robotic manipulation, paving the way for more versatile and efficient robots.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ca5398a4557f514900360d5d4d3cdbc2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17049v1",
+    "arxiv_id": "2606.17049v1",
+    "title": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
+    "authors": [
+      "Yi-Ruei Liu",
+      "Jie-Ying Lee",
+      "Zheng-Hui Huang"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "BRDFusion: Merging Physics and Generative Models for Accurate Urban Scene Inverse Rendering",
+    "tldr": "BRDFusion combines physically-based rendering with diffusion models to reconstruct urban scenes from videos, achieving realistic lighting and geometric consistency. The method unifies reconstruction accuracy with generative realism, enabling applications in content creation and autonomous driving simulation.",
+    "significance": "It bridges the gap between physics-driven fidelity and data-driven realism, offering a scalable solution for urban inverse rendering.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "urban-AI"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "abd4632687b8daf01373872eda38688e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17048v1",
+    "arxiv_id": "2606.17048v1",
+    "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+    "authors": [
+      "Abbas Mammadov",
+      "Ozgur Kara",
+      "Kaan Oktay"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Exact Posterior Score Estimation for Linear Inverse Problems Using Diffusion Models",
+    "tldr": "This work introduces a method to compute the exact posterior score for linear inverse problems, enabling accurate sampling without relying on approximate denoiser steering. The approach leverages diffusion models' unconditional scores and integrates measurement constraints analytically.",
+    "significance": "It provides a principled way to solve inverse problems with diffusion priors, improving reconstruction fidelity.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5a467622548257d292ebff2a5ff43499",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17046v1",
+    "arxiv_id": "2606.17046v1",
+    "title": "Geometric Action Model for Robot Policy Learning",
+    "authors": [
+      "Jisang Han",
+      "Seonghu Jeon",
+      "Jaewoo Jung"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Bridging 3D Physical Reasoning into Robot Policies with Geometric Action Models",
+    "tldr": "This work introduces a geometric action model that extends vision‑language‑action frameworks into 3D reasoning, enabling robots to interpret user commands while accounting for object, camera, and action interactions. By moving beyond 2D latent spaces, the model improves policy learning in complex physical environments.",
+    "significance": "It advances robot autonomy by integrating spatial reasoning directly into policy learning, bridging a critical gap between perception and action.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6b7452ab0310f236e2570d2c10f1a55f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17045v1",
+    "arxiv_id": "2606.17045v1",
+    "title": "Compact Spin-Charge Separated Neural Quantum States for Valence-Bond States",
+    "authors": [
+      "Ang-Kun Wu",
+      "Louis Primeau",
+      "Yixin Zhang"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Compact Spin-Charge Separated Neural Quantum States for Efficient Valence-Bond Wavefunctions",
+    "tldr": "This study introduces a neural network architecture that captures the sign structure and constrained Hilbert space of valence-bond states by designing it at an exactly solvable point. The resulting compact spin-charge separated neural quantum states enable efficient representation and simulation of quantum many-body wavefunctions.",
+    "significance": "It provides a principled way to embed physical constraints into neural quantum states, improving their expressiveness and computational efficiency.",
+    "tags": [
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9da50d92ee092f4a71b76939763e65d6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17044v1",
+    "arxiv_id": "2606.17044v1",
+    "title": "Galaxy-cluster-stacked Fermi-LAT, part IV: $\\sim70$ GeV WIMP annihilation lines",
+    "authors": [
+      "Uri Keshet"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Stacked Fermi-LAT Galaxy Clusters Tighten Constraints on 70 GeV WIMP Annihilation Lines",
+    "tldr": "Researchers combined gamma-ray data from dozens of galaxy clusters to search for 70 GeV dark matter annihilation signatures. The analysis sets the most stringent limits yet on velocity-dependent WIMP models, ruling out large portions of parameter space.",
+    "significance": "This study narrows the viable mass range for WIMP dark matter, guiding future indirect detection efforts.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e6a68453f32c99191f946835b7a081f5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17043v1",
+    "arxiv_id": "2606.17043v1",
+    "title": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+    "authors": [
+      "Tongyan Fang",
+      "Siyuan Huang",
+      "Naiyu Fang"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Hierarchical Advantage Weighting Improves Online RL Fine‑Tuning of Vision‑Language Agents",
+    "tldr": "We propose a hierarchical advantage weighting scheme that decomposes sparse episode outcomes into richer transition‑level signals for online RL fine‑tuning of vision‑language agents. This approach preserves distinct feedback modes and yields more efficient policy updates compared to scalar reward reductions.",
+    "significance": "By enabling more informative supervision from sparse outcomes, the method accelerates convergence and improves performance of pretrained VLAs in real‑time applications.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f2a27c07cc8ff5cd31589ff40e9f43ff",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17042v1",
+    "arxiv_id": "2606.17042v1",
+    "title": "First Experimental Limit on the Thermal Solar Neutrino Flux",
+    "authors": [
+      "Cecilia Ferrari",
+      "Gonzalo Herrera",
+      "Brooke Russell"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Scientists Set First Experimental Limit on Thermal Solar Neutrino Flux Using KATRIN Data",
+    "tldr": "Researchers analyzed public KATRIN data to search for low-energy solar neutrinos, setting the first experimental bound on the thermal neutrino flux. This result opens a new window into stellar cooling mechanisms and the low-energy tail of the proton-proton cycle.",
+    "significance": "The study provides the first direct experimental constraint on the elusive thermal solar neutrino flux, advancing our understanding of stellar energy loss processes.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "0603f0d3f3923e92437a8bcad2669eac",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17041v1",
+    "arxiv_id": "2606.17041v1",
+    "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
+    "authors": [
+      "Anzhe Xie",
+      "Weihang Su",
+      "Yujia Zhou"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "New Benchmark Dataset for LLM Agents on Meta-Analysis Articles from Nature Portfolio",
+    "tldr": "We present MetaSyn, a 442-entry dataset covering the full retrieval, screening, and synthesis stages of meta-analyses from Nature Portfolio, enabling systematic evaluation of LLM agents. This benchmark provides ground truth across the entire pipeline, facilitating rigorous testing of scientific reasoning capabilities.",
+    "significance": "MetaSyn fills a critical gap by offering end-to-end ground truth for evaluating LLM agents in systematic review tasks.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fb37fc72298da7ee37d6e1499080eb65",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17040v1",
+    "arxiv_id": "2606.17040v1",
+    "title": "R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies",
+    "authors": [
+      "Xiuwei Xu",
+      "Haowen Sun",
+      "Angyuan Ma"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "R2RDreamer: 3D-Aware Augmentation Boosts Spatial Generalization of 2D Manipulation Policies",
+    "tldr": "R2RDreamer uses simulated 3D scenes to generate diverse, realistic augmentations for 2D robot manipulation tasks, enabling policies to generalize across unseen object poses and camera views. The method demonstrates significant performance gains on benchmark manipulation datasets with only a handful of real demonstrations.",
+    "significance": "This work bridges the gap between limited real-world data and robust spatial generalization, offering a scalable solution for deploying manipulation policies in varied environments.",
+    "tags": [
+      "spatial-reasoning",
+      "point-cloud",
+      "object-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a177b83290bdf7025d33f692e50c8f1a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.17039v1",
+    "arxiv_id": "2606.17039v1",
+    "title": "Curvature--Radiation Geometries Across the Second CHIME/FRB Fast Radio Burst Population",
+    "authors": [
+      "Thonimar V. Alencar",
+      "Jéferson A. S. Fortunato",
+      "Wiliam S. Hipólito-Ricaldi"
+    ],
+    "published": "2026-06-15",
+    "curated_at": "2026-06-16",
+    "headline": "Curvature Radiation Models Explored in the Second CHIME/FRB Fast Radio Burst Catalog",
+    "tldr": "Researchers analyzed fast radio burst spectra using three curvature‑radiation templates—point‑source, one‑dimensional bunch, and paired‑bunch cavity—across the second CHIME/FRB catalog. All models achieved reduced chi‑squared values near unity, indicating comparable fits to the data.",
+    "significance": "The study demonstrates that multiple curvature‑radiation geometries can equally explain FRB spectral properties, guiding future theoretical and observational efforts.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "94015218d95cb4f28f333e2bd1cf9205",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.14699v1",
@@ -1114,295 +1424,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "1785692639303012acc70ffb83d999f5",
-    "source": "web",
-    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
-    "arxiv_id": "",
-    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
-    "authors": [],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-05",
-    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Earth Observation Data",
-    "tldr": "NASA and partners release Galileo, an open-source foundation model that ingests diverse Earth observation data—optical, radar, elevation, climate, and maps—to enable scalable analysis. The model supports tasks from segmentation to time-series forecasting, aiming to democratize EO insights.",
-    "significance": "Galileo democratizes advanced multimodal Earth observation analytics, enabling researchers and practitioners to rapidly develop applications across environmental monitoring, agriculture, and disaster response.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "d9f2d682097b54881d8fa5906d5a3484",
-    "source": "web",
-    "url": "https://devstacktips.com/development/machine-learning/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
-    "arxiv_id": "",
-    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
-    "authors": [],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-05",
-    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model Sets New Remote Sensing AI Standard",
-    "tldr": "NASA has released Galileo, an open-source multimodal AI model that integrates satellite imagery, LiDAR, and SAR data for comprehensive Earth observation. Its multi-scale local-global learning and diverse pretraining enable advanced tasks like change detection, segmentation, and real-time monitoring.",
-    "significance": "Galileo establishes a new benchmark for generalist remote sensing AI, empowering researchers and practitioners with versatile, high-performance tools.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3aaaab790e837cb133a4dfe443204198",
-    "source": "web",
-    "url": "https://colab.research.google.com/github/opengeos/geoai/blob/main/docs/workshops/GeoAI_Workshop_2025.ipynb",
-    "arxiv_id": "",
-    "title": "GeoAI_Workshop_2025.ipynb - Colab",
-    "authors": [],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-05",
-    "headline": "Hands‑On GeoAI Workshop: Object Detection in Remote Sensing Imagery with Colab",
-    "tldr": "This Colab notebook walks participants through installing GeoAI, downloading satellite imagery, visualizing data, training an object detection model, and performing inference. It provides a complete end‑to‑end pipeline for remote‑sensing object detection.",
-    "significance": "It enables rapid prototyping of AI models for identifying objects in satellite imagery, accelerating research and practical applications.",
-    "tags": [
-      "remote-sensing",
-      "object-detection",
-      "open-source",
-      "satellite-imagery"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
-    "source": "web",
-    "url": "https://opengeoai.org/",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data",
-    "authors": [],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-05",
-    "headline": "GeoAI: Bridging AI and Geospatial Analysis with a Powerful Python Toolkit",
-    "tldr": "GeoAI is a Python package that integrates machine learning into geospatial workflows, enabling users to analyze satellite imagery, point clouds, and spatial data with ease. It offers intuitive APIs for tasks such as segmentation, object detection, and time‑series analysis, making advanced AI accessible to researchers and practitioners.",
-    "significance": "By providing a unified, open‑source framework, GeoAI accelerates the adoption of AI in geospatial science, fostering innovation across environmental monitoring, urban planning, and disaster response.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "0a000f935aceec4a908e71d0fce3c7f0",
-    "source": "web",
-    "url": "https://www.grsg.org.uk/open-source-software",
-    "arxiv_id": "",
-    "title": "Open Source Software - The Geological Remote Sensing Group (GRSG)",
-    "authors": [],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-05",
-    "headline": "GRSG Unites Free Geospatial Tools for Advanced Remote Sensing Across Optical, SAR, and Hyperspectral Data",
-    "tldr": "The Geological Remote Sensing Group (GRSG) aggregates a suite of open‑source software and libraries for remote sensing tasks. It supports advanced image processing across optical, multispectral, SAR, and hyperspectral datasets, empowering researchers with free, powerful tools.",
-    "significance": "By consolidating these resources, GRSG lowers barriers to entry, fostering innovation and collaboration in geospatial analysis worldwide.",
-    "tags": [
-      "remote-sensing",
-      "SAR",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "e7812bd25adc836bc8ce26452537ab88",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/journal/remote-sensing-of-environment",
-    "arxiv_id": "",
-    "title": "Remote Sensing of Environment | Journal - ScienceDirect",
-    "authors": [],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-04",
-    "headline": "Remote Sensing of Environment Calls for Special Issue Proposals on Emerging Remote Sensing Technologies",
-    "tldr": "The journal Remote Sensing of Environment is inviting researchers to submit special issue proposals focusing on new remote sensing missions and systems. Detailed submission guidelines can be found in the Journal Specific Information section of the Guide for Authors.",
-    "significance": "This call encourages the advancement of remote sensing research by fostering focused thematic issues that highlight cutting‑edge missions and technologies.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "change-detection",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "f2ee7fbdaf560a1debf0cc4728aff3ed",
-    "source": "web",
-    "url": "https://www.isprs.org/",
-    "arxiv_id": "",
-    "title": "International Society for Photogrammetry and Remote Sensing",
-    "authors": [],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-04",
-    "headline": "International Society for Photogrammetry and Remote Sensing Drives Global Collaboration in Imaging Science",
-    "tldr": "The International Society for Photogrammetry and Remote Sensing (ISPRS) is a non‑governmental organization that promotes international cooperation in the fields of photogrammetry and remote sensing. It supports research, education, and application development to advance imaging technologies worldwide.",
-    "significance": "ISPRS plays a pivotal role in setting global standards and fostering innovation in imaging science, benefiting sectors from urban planning to environmental monitoring.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "point-cloud",
-      "LiDAR"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "3b68678633a3e0daa01dd6da69a59866",
-    "source": "web",
-    "url": "https://iclr.cc/virtual/2026/papers.html",
-    "arxiv_id": "",
-    "title": "ICLR 2026 Papers",
-    "authors": [],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-04",
-    "headline": "Satellite Data Reveals Rapid Urban Expansion in Global Cities today",
-    "tldr": "",
-    "significance": "This study demonstrates the power of high-resolution satellite imagery to track and quantify urban growth patterns, providing critical insights for sustainable city planning and climate change mitigation.",
-    "tags": [
-      "satellite-imagery",
-      "urban-growth",
-      "climate-change",
-      "remote-sensing",
-      "city-planning"
-    ],
-    "readtime": 3,
-    "difficulty": "Intermediate"
-  },
-  {
-    "uid": "6b4efe5a2bdc772ae42192d74a5ae125",
-    "source": "web",
-    "url": "https://www.geowgs84.ai/post/top-10-geospatial-analysis-software-in-2025",
-    "arxiv_id": "",
-    "title": "Top 10 Geospatial Analysis Software in 2025 - geowgs84.ai",
-    "authors": [],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-04",
-    "headline": "Top 10 Geospatial Analysis Software of 2025: AI, Remote Sensing, and Scalable Analytics",
-    "tldr": "The 2025 landscape of geospatial analysis software showcases cutting‑edge AI, remote sensing, and scalable analytics tools tailored for urban planning, defense, environmental management, and automation. This list highlights open‑source and commercial solutions that excel in satellite imagery, LiDAR, SAR, and real‑time vector tile processing.",
-    "significance": "These tools empower decision‑makers to leverage high‑resolution data and AI‑driven insights for rapid, data‑driven planning and risk mitigation.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "urban-AI",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-06-03",
-    "curated_at": "2026-06-03",
-    "headline": "Raster Vision: Bridging Open‑Source Deep Learning and GIS",
-    "tldr": "",
-    "significance": "Raster Vision democratizes advanced computer vision for geospatial analysis, enabling practitioners to build, benchmark, and deploy models on satellite and aerial imagery with minimal friction.",
-    "tags": [
-      "open-source",
-      "deep-learning",
-      "computer-vision",
-      "GIS",
-      "satellite-imagery",
-      "remote-sensing",
-      "semantic-segmentation",
-      "object-detection",
-      "image-classification",
-      "geospatial-analysis"
-    ],
-    "readtime": 3,
-    "difficulty": "5"
-  },
-  {
-    "uid": "fc1f4cf9a1a9df5edd6fa2fe0db9b5cd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02580v1",
-    "arxiv_id": "2606.02580v1",
-    "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
-    "authors": [
-      "Guangzhao He",
-      "Rundong Luo",
-      "Wei-Chiu Ma"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "Vision‑Language Models Translate Single Images into Editable Blender Scripts for 3D Reconstruction",
-    "tldr": "This paper shows that pretrained vision‑language models can generate Blender code from a single image, enabling executable inverse graphics without explicit 3D supervision. The resulting scripts allow direct rendering, relighting, and manipulation of the reconstructed scene.",
-    "significance": "It demonstrates a new pathway to bridge 2D imagery and editable 3D scenes using foundation models, potentially accelerating content creation and interactive graphics.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ff374531c2e9339f8d9141edea650e20",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02579v1",
-    "arxiv_id": "2606.02579v1",
-    "title": "New Windows on Heavy Dark Matter: Mineral Melt Modelling and X-Ray Readout for Muscovite Mica",
-    "authors": [
-      "Yilda Boukhtouchen",
-      "Joseph Bramante",
-      "Andrew Buchanan"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "Muscovite Mica Reveals Heavy Dark Matter via Melt Tracks and X‑Ray Imaging",
-    "tldr": "Scientists model melt track formation in muscovite mica and use X‑ray readout to detect heavy composite dark matter. This method leverages mica’s long‑term track retention to probe rare particle interactions.",
-    "significance": "This approach provides a novel paleodetector for heavy dark matter, extending sensitivity beyond current experiments.",
-    "tags": [
-      "change-detection",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c0eb510201cb156752ff93aff8c896f3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.02578v1",
-    "arxiv_id": "2606.02578v1",
-    "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
-    "authors": [
-      "Seojeong Park",
-      "Jiho Choi",
-      "Junyong Kang"
-    ],
-    "published": "2026-06-01",
-    "curated_at": "2026-06-02",
-    "headline": "Reducing Perceptual Bias in Multimodal LLM Judges with Perturbation and Reward Modeling",
-    "tldr": "Multimodal LLM judges often favor plausible narratives over perceptually correct answers when visual and textual cues conflict. This study introduces perceptual perturbation and reward modeling to mitigate this bias, improving evaluation reliability.",
-    "significance": "By addressing perceptual judgment bias, the work enhances the trustworthiness of automated multimodal evaluation systems, crucial for high-stakes decision-making.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
