@@ -1,5 +1,344 @@
 [
   {
+    "uid": "8b32865e093f42ca96d22b1966d03842",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19340v1",
+    "arxiv_id": "2606.19340v1",
+    "title": "Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning",
+    "authors": [
+      "Jisoo Kim",
+      "Sangwon Baik",
+      "Taeksoo Kim"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Zero-Shot Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning for Long-Horizon Tasks",
+    "tldr": "We propose a zero-shot framework that grounds language instructions into 3D task plans using multi-view RGB images. By leveraging a vision-language model for 2D keypoint extraction and multi-view fusion, the system generates executable 3D plans without training a policy.",
+    "significance": "This approach enables flexible, language-driven dexterous manipulation without costly policy training, opening new possibilities for autonomous robotics.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1f6fadc10abef082c2e63e2494176509",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19341v1",
+    "arxiv_id": "2606.19341v1",
+    "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+    "authors": [
+      "Zhenghao Xing",
+      "Ruiyang Xu",
+      "Yuxuan Wang"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "OmniAgent: Real-Time Interactive Video Understanding via Native Active Perception and Cross-Modal Analysis",
+    "tldr": "OmniAgent introduces a native omni-modal agent that actively selects frames for processing, reducing computational cost while maintaining accuracy. By integrating cross-modal reasoning, it achieves efficient, real-time video understanding without global pre-scanning.",
+    "significance": "This approach enables scalable, low-latency video analysis for applications ranging from surveillance to autonomous driving.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d60f9a694ae39a44b4893082c67af4fc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19339v1",
+    "arxiv_id": "2606.19339v1",
+    "title": "Quantum solitons and their quantum walks in transmon arrays",
+    "authors": [
+      "Ben Blain",
+      "Giampiero Marchegiani",
+      "Luigi Amico"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Exploring Quantum Solitons and Their Walks in Coupled Transmon Arrays",
+    "tldr": "The study models a linear chain of capacitively coupled transmons as an attractive Bose-Hubbard system, revealing discrete soliton states in the low-energy spectrum. It further analyzes how these solitons propagate as quantum walks, offering insights for quantum simulation with superconducting circuits.",
+    "significance": "It demonstrates a new platform for simulating nonlinear quantum dynamics, bridging condensed-matter physics and quantum information processing.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7142cdad6c1aa0647e86ce56021cb334",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19338v1",
+    "arxiv_id": "2606.19338v1",
+    "title": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
+    "authors": [
+      "Shengyuan Ding",
+      "Xilin Wei",
+      "Xinyu Fang"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "RNG-Bench: A New Benchmark for LLMs in Hidden-State Non-Markov Games",
+    "tldr": "RNG-Bench introduces a suite of controllable non-Markov games that require agents to reconstruct hidden states from partial observations. It enables evaluation of multimodal LLM policies beyond simple recall, providing a more realistic benchmark for closed-loop decision making.",
+    "significance": "It provides a realistic, open-source benchmark that isolates hidden-state reconstruction, advancing the evaluation of multimodal LLMs in dynamic environments.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "12f8dd31204eb08a826e042ba9d5255c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19337v1",
+    "arxiv_id": "2606.19337v1",
+    "title": "Constraints on Cosmic Strings from the Curl-Mode CMB Lensing Power Spectrum measured by ACT DR6",
+    "authors": [
+      "A. I. Lonappan",
+      "K. Ramesh",
+      "T. Namikawa"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "ACT DR6 Curl-Mode Lensing Tightens Cosmic String Constraints Using Latest CMB Observations",
+    "tldr": "The Atacama Cosmology Telescope’s sixth data release provides a curl‑mode lensing power spectrum that probes vector and tensor perturbations from cosmic strings. The analysis sets new upper limits on the string tension, tightening constraints by a factor of two compared to previous studies.",
+    "significance": "This work demonstrates that CMB curl‑mode measurements can serve as a powerful, independent probe of topological defects in the early universe.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4bfdb2887d10ac9dacc272b4a28854fc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19336v1",
+    "arxiv_id": "2606.19336v1",
+    "title": "Learning User Simulators with Turing Rewards",
+    "authors": [
+      "Yingshan Susan Wang",
+      "Cedegao E. Zhang",
+      "Linlu Qiu"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Simulating Human Users with Turing Rewards: A New LLM Benchmark",
+    "tldr": "This paper introduces a method to train large language models to generate realistic user responses by optimizing a Turing reward, rather than matching a single ground truth. The approach improves user simulation for agent training, personalization evaluation, and social science research.",
+    "significance": "It offers a more flexible and realistic benchmark for evaluating user simulation models, advancing AI assistants and personalization systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6637b88fe6870b5b01f60a11abafe98c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19335v1",
+    "arxiv_id": "2606.19335v1",
+    "title": "Fine-scale downflows above flare ribbons captured by Solar Orbiter/EUI",
+    "authors": [
+      "Zheng Sun",
+      "Alexander G. M. Pietrow",
+      "Malcolm K. Druett"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Solar Orbiter Reveals Fine-Scale Downflows Above Flare Ribbons",
+    "tldr": "Using the Extreme Ultraviolet Imager on Solar Orbiter, scientists captured tiny downflow structures—called riblets—above flare ribbons, offering new insight into energy transport during solar flares. These observations help refine models of magnetic reconnection and chromospheric heating.",
+    "significance": "This discovery provides direct evidence of small-scale plasma dynamics that influence flare energy deposition, improving our understanding of solar flare mechanisms.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "db2b3ef95271bb271ff9fa842fc2774d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19334v1",
+    "arxiv_id": "2606.19334v1",
+    "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+    "authors": [
+      "Denis Peskoff",
+      "Joe Barrow",
+      "Christopher Vu"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "LOCUS: Building a Comprehensive Local Ordinance Corpus for U.S. Legal AI",
+    "tldr": "The LOCUS project compiles machine-readable local ordinances across the United States, filling a critical gap in legal AI datasets. By aggregating zoning, housing, and public health codes, it enables more accurate AI-driven legal analysis and policy research.",
+    "significance": "Providing a unified, authoritative source of local ordinances empowers AI models to understand and predict municipal regulations, a previously underrepresented domain.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bb202c704209030b61eaf0233c87284e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19333v1",
+    "arxiv_id": "2606.19333v1",
+    "title": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+    "authors": [
+      "Bhawna Paliwal",
+      "Haritheja Etukuru",
+      "William Liang"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Leveraging Everyday Human Videos to Train Dexterous Robotic Manipulation",
+    "tldr": "The paper presents a scalable approach to generate training data for dexterous robotic hands by extracting hand-object interactions from monocular RGB human videos. It introduces methods to overcome challenges in pose estimation and embodiment gaps, enabling robots to learn from abundant everyday footage.",
+    "significance": "This work bridges the gap between human demonstration and robotic execution, opening avenues for cost-effective, large-scale manipulation learning.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a4aacab977f1b7561151a74e194c2a00",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19332v1",
+    "arxiv_id": "2606.19332v1",
+    "title": "Sparse-dense flight copy-based interactive mechanism to airline integrated with cruise speed control",
+    "authors": [
+      "Jiajin Lin",
+      "Jianlin Jiang",
+      "Yan Gu"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Integrated Flight Recovery and Rerouting Using Cruise Speed Control for Airlines",
+    "tldr": "The paper proposes an integrated approach to flight recovery, aircraft rerouting, and passenger reallocation that preserves their interdependence. It incorporates cruise speed control to improve recovery performance.",
+    "significance": "It offers a holistic, speed-optimized recovery framework that can reduce operational disruptions and costs.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "51e3f449dc3dbe3340b10ddea522df38",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19331v1",
+    "arxiv_id": "2606.19331v1",
+    "title": "Topological spectral form factor reveals emergent non-Hermitian single-particle $\\mathcal{PT}$ transitions from many-body quantum chaos",
+    "authors": [
+      "Daniel Harkin",
+      "Chun Y. Leung",
+      "Amos Chan"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Spectral Form Factor Uncovers Non-Hermitian PT Transitions in Quantum Chaos",
+    "tldr": "The study shows that the spectral form factor, a probe of quantum dynamics, can reveal emergent non-Hermitian PT symmetry breaking transitions at the single-particle level arising from many-body chaos. This provides a new non-perturbative tool linking topological defects in partition functions to universal chaotic behavior.",
+    "significance": "It bridges quantum chaos and non-Hermitian physics, offering a novel diagnostic for phase transitions beyond local observables.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5b7daa3e4f00917b9d1ddbb8082c3d7b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19329v1",
+    "arxiv_id": "2606.19329v1",
+    "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
+    "authors": [
+      "V. Samuel Pérez-Díaz",
+      "Vinay L. Kashyap",
+      "Joshua D. Ingram"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Machine Learning Resolves Ambiguous Gaia Matches to Chandra X-ray Sources",
+    "tldr": "We develop a machine-learning framework that uses photometric and astrometric properties to cross-match Chandra X-ray sources with Gaia DR3 counterparts, outperforming spatial-only methods. The model identifies true matches, flags chance coincidences, and resolves multiple candidate ambiguities, providing a robust training set for future catalogs.",
+    "significance": "This approach enhances the reliability of multi-wavelength astronomical catalogs, enabling more accurate studies of X-ray emitting objects.",
+    "tags": [
+      "object-detection",
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "841b1c42aa1f9b696b0a184e4f7bb20a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19328v1",
+    "arxiv_id": "2606.19328v1",
+    "title": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+    "authors": [
+      "Mohamed Nabail",
+      "Leo Cheng",
+      "Jingmin Wang"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Active Exploration Improves Sample Efficiency for Robust Preference-Based Reinforcement Learning",
+    "tldr": "The paper proposes a model-based framework that actively guides exploration in preference-based RL, using pairwise behavior comparisons to learn reward models. This approach significantly boosts sample efficiency, especially in early learning stages, by jointly reasoning about exploration and preference signals.",
+    "significance": "By actively directing exploration, the method addresses the sample inefficiency that hampers current passive preference-based RL, enabling faster and more reliable reward learning.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c45abd94c22e22ff7b8152cb06e0fd9a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.19327v1",
+    "arxiv_id": "2606.19327v1",
+    "title": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+    "authors": [
+      "Siyi Gu",
+      "Jialin Chen",
+      "Sophia Zhou"
+    ],
+    "published": "2026-06-17",
+    "curated_at": "2026-06-18",
+    "headline": "Rubric-Conditioned Self-Distillation Enhances Reasoning in Large Language Models without Costly Chain-of-Thought Annotations",
+    "tldr": "The paper introduces a self-distillation framework that conditions on rubric-based quality metrics, enabling large language models to learn reasoning skills without relying on expensive chain-of-thought annotations. Experiments show improved accuracy and robustness compared to traditional supervised distillation and reinforcement learning approaches.",
+    "significance": "By eliminating the need for costly, noisy chain-of-thought data, this method offers a scalable path to more reliable reasoning in LLMs.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "029a8fa01e0d514218c17cbbdeb2e0ee",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.18251v1",
@@ -1097,337 +1436,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "0801bf6f267182ec698b3898ca5ae94a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07506v1",
-    "arxiv_id": "2606.07506v1",
-    "title": "Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation",
-    "authors": [
-      "Tuba Girgin",
-      "Jose Castelblanco",
-      "Gabriel Rodriguez"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "Autonomous Quadruped Robots Learn Affordance-Based Hierarchical Control for Object Manipulation",
-    "tldr": "This study presents a hierarchical reinforcement learning framework that enables quadruped robots to autonomously select affordable interaction points and base poses for object manipulation, eliminating the need for expert-designed trajectories. The approach demonstrates improved autonomy and efficiency in complex manipulation tasks.",
-    "significance": "It advances autonomous manipulation in legged robots, reducing reliance on pre-programmed paths and enabling more flexible, real-world applications.",
-    "tags": [
-      "object-detection",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d15f3f6529e7e0be7f92bc1b0f99e344",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07503v1",
-    "arxiv_id": "2606.07503v1",
-    "title": "Differences in Detection: Explainability Where it Matters",
-    "authors": [
-      "Johannes Theodoridis",
-      "Johannes Maucher",
-      "Andreas Schilling"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "Comparing Object Detectors: DnD Highlights Explainability Gaps for Remote Sensing Applications",
-    "tldr": "DnD provides a direct comparison of two detection models by evaluating the intersection of ground truth labels they both recognize, complementing mAP and TIDE metrics. This approach offers clearer insights into model strengths and weaknesses, aiding explainability in practical deployments.",
-    "significance": "By revealing where models agree or diverge on actual detections, DnD enables more transparent model selection and targeted improvement.",
-    "tags": [
-      "object-detection",
-      "remote-sensing",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7ec2635ede74bc4eb7c86bb8287c5767",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07502v1",
-    "arxiv_id": "2606.07502v1",
-    "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
-    "authors": [
-      "Songhao Wu",
-      "Zhongxin Chen",
-      "Yuxuan Liu"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "Revealing the Hidden Feature Lens: Why LLMs Fail as Off-the-Shelf Embedding Models",
-    "tldr": "Large language models excel at zero-shot tasks but underperform as generic embedding providers. This study uncovers that their internal embedding space acts as a feature lens, explaining the mismatch and guiding future improvements.",
-    "significance": "Understanding this hidden lens offers a path to enhance embedding quality for downstream applications, bridging the gap between LLMs and specialized embedding benchmarks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bc91b2516c2cbbffb29a94872f061346",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06486v1",
-    "arxiv_id": "2606.06486v1",
-    "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
-    "authors": [
-      "Mingyang Liu",
-      "Asuman Ozdaglar",
-      "Tiancheng Yu"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Adaptive Opponents Challenge Traditional Regret Metrics in Repeated Game Learning",
-    "tldr": "We propose Repeated Policy Regret (RP-Regret) to measure regret against adaptive opponents in repeated games. This metric captures counterfactual reasoning and overcomes limitations of external regret.",
-    "significance": "RP-Regret provides a more accurate performance measure for online learning algorithms interacting with strategic, history-aware adversaries.",
-    "tags": [
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ae1eb2c242f6953e27b845f16a6b226a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06475v1",
-    "arxiv_id": "2606.06475v1",
-    "title": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
-    "authors": [
-      "Mykyta Ielanskyi",
-      "Kajetan Schweighofer",
-      "Lukas Aichberger"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "RREDCoT: Segment-Level Reward Redistribution Enhances Chain-of-Thought Reasoning in Large Language Models via Reinforcement Learning",
-    "tldr": "RREDCoT introduces a segment-level reward redistribution technique that addresses delayed reward issues in chain-of-thought generation. By redistributing rewards across intermediate reasoning steps, the method improves model accuracy and training efficiency.",
-    "significance": "This approach enables more effective RL fine-tuning of reasoning models, potentially boosting performance across a range of complex NLP tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fd3a5a372c9aa5b97459b701b7d66c5e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06474v1",
-    "arxiv_id": "2606.06474v1",
-    "title": "Self-Augmenting Retrieval for Diffusion Language Models",
-    "authors": [
-      "Paul Jünger",
-      "Justin Lovelace",
-      "Linxi Zhao"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Self‑Augmenting Retrieval Boosts Diffusion Language Models",
-    "tldr": "Discrete diffusion language models iteratively denoise entire responses, discarding low‑confidence tokens. These discarded tokens serve as a lookahead signal for retrieval‑augmented generation, improving output quality.",
-    "significance": "It demonstrates a novel way to leverage diffusion model uncertainty for efficient retrieval‑augmented generation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4991372489a18b80f98aee305dc76329",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06473v1",
-    "arxiv_id": "2606.06473v1",
-    "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
-    "authors": [
-      "Shangheng Du",
-      "Xiangchao Yan",
-      "Jinxin Shi"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "MLEvolve: Self-Evolving Framework for Automated Machine Learning Discovery Leveraging LLM Agents for Long-Horizon Optimization",
-    "tldr": "MLEvolve introduces a self-evolving framework that enables LLM agents to autonomously discover and optimize machine learning algorithms over long horizons. By addressing inter-branch isolation, memoryless search, and hierarchical control gaps, it enhances sustained optimization in MLE tasks.",
-    "significance": "This framework pushes the frontier of automated ML by enabling continuous, hierarchical self-optimization, potentially accelerating scientific discovery and engineering.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9e01b59d412d70e778a3134c93fffc2b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06472v1",
-    "arxiv_id": "2606.06472v1",
-    "title": "When positive and negative pairs differ in femtoscopy: residual Coulomb and isospin effects",
-    "authors": [
-      "Yevheniia Khyzhniak",
-      "Michael Annan Lisa"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Charge-Dependent Femtoscopic Correlations Reveal Residual Coulomb and Isospin Dynamics in Heavy-Ion Collisions",
-    "tldr": "We analyze identical-pion and kaon femtoscopic correlations, showing how the residual Coulomb field and isospin effects modify the correlation functions. The study uses a modified blast-wave model to propagate particles with opposite charges, revealing distinct charge-dependent signatures.",
-    "significance": "This work clarifies how electromagnetic and isospin interactions shape femtoscopic observables, improving the interpretation of particle source sizes in high-energy collisions.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3d59339c2d565cad75dd38b370994797",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06470v1",
-    "arxiv_id": "2606.06470v1",
-    "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
-    "authors": [
-      "Senmiao Wang",
-      "Tiantian Fang",
-      "Haoran Zhang"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Polynomial Weight Preconditioning Enhances LLM Training Stability",
-    "tldr": "We introduce a PC layer that reshapes weight matrices via low-degree polynomial preconditioning, improving conditioning during LLM training. After training, the weights can be merged back, incurring no inference overhead.",
-    "significance": "It offers a simple, inference-free method to stabilize LLM training.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c0f257da62de513485deca2407ab2468",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06469v1",
-    "arxiv_id": "2606.06469v1",
-    "title": "How abundant are good interpolators?",
-    "authors": [
-      "August Y. Chen",
-      "Ahmed El Alaoui"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Exploring the Prevalence of Effective Interpolating Linear Classifiers in High-Dimensional Data",
-    "tldr": "This study quantifies how many unit‑norm linear separators perfectly fit labeled data under Gaussian mixture and logistic Gaussian feature models. It shows that even with negative margins, a surprisingly large fraction of interpolators achieve good generalization.",
-    "significance": "Understanding the abundance of good interpolators informs why over‑parameterized models can still generalize well.",
-    "tags": [
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5df71ef5d0f89d50fa3b08dcc233738a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06468v1",
-    "arxiv_id": "2606.06468v1",
-    "title": "Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement",
-    "authors": [
-      "Jui-Hui Chung",
-      "Ziyang Cai",
-      "Zihao Li"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Goedel-Architect: Automating Lean 4 Theorem Proving via Blueprint Generation for Researchers",
-    "tldr": "Goedel-Architect is an agentic framework that automates the creation and refinement of dependency graphs—blueprints—of definitions and lemmas in Lean 4. By leveraging large language models, it guides formal theorem proving, enabling rapid construction and iterative improvement of proofs.",
-    "significance": "It demonstrates how foundation models can accelerate formal verification, reducing human effort in constructing rigorous proofs.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0cca40ce8282e65ea1aa4f9defe02283",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06467v1",
-    "arxiv_id": "2606.06467v1",
-    "title": "You Only Index Once: Cross-Layer Sparse Attention with Shared Routing",
-    "authors": [
-      "Yutao Sun",
-      "Yanqi Zhang",
-      "Li Dong"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Efficient Long-Context LLMs: Cross-Layer Sparse Attention with Shared Routing for Reasoning",
-    "tldr": "This paper introduces a cross-layer sparse attention mechanism that shares routing decisions across layers, reducing decoding overhead for long-context LLMs. Experiments show comparable quality to dense attention while achieving significant speedups in reasoning-heavy inference.",
-    "significance": "It enables scalable, high-quality inference for large language models without sacrificing accuracy.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5a8bed386e7dc27e14f14fb6b8642b82",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06464v1",
-    "arxiv_id": "2606.06464v1",
-    "title": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
-    "authors": [
-      "Mandana Samiei",
-      "Eunice Yiu",
-      "Anthony GX-Chen"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Humans vs. LLMs: Active Exploration Boosts Conjunctive Causal Discovery",
-    "tldr": "Adults struggle with conjunctive causal rules, while LLMs can improve through active exploration. The study compares human and LLM performance in causal learning tasks.",
-    "significance": "Demonstrates that active exploration can mitigate human limitations in causal reasoning, informing AI-human collaboration.",
-    "tags": [
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "263bf37b6ed341093df02de8e0e20cf7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.06462v1",
-    "arxiv_id": "2606.06462v1",
-    "title": "Benchmark Everything Everywhere All at Once",
-    "authors": [
-      "Shiyun Xiong",
-      "Dongming Wu",
-      "Peiwen Sun"
-    ],
-    "published": "2026-06-04",
-    "curated_at": "2026-06-07",
-    "headline": "Revolutionizing Benchmarking: Sustainable, Scalable, and Reusable for LLMs and MLLMs",
-    "tldr": "Benchmarks are essential for measuring LLM and MLLM performance but are costly to build and quickly become obsolete. This work proposes a framework for creating reusable, scalable benchmarks that maintain discriminative power over time.",
-    "significance": "This framework addresses the sustainability and scalability bottlenecks in benchmark creation, enabling continuous progress in large language and multimodal models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
   }
 ]
