@@ -1,5 +1,262 @@
 [
   {
+    "uid": "af9d29ececb88ec809313827f069024a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20562v1",
+    "arxiv_id": "2606.20562v1",
+    "title": "MemoryWAM: Efficient World Action Modeling with Persistent Memory",
+    "authors": [
+      "Sizhe Yang",
+      "Juncheng Mu",
+      "Tianming Wei"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "MemoryWAM: Persistent Memory for Efficient World Action Modeling in Robotics",
+    "tldr": "MemoryWAM introduces a persistent memory module that enhances world action models by integrating historical observations, enabling more accurate visual foresight and action planning for robotic manipulation. The approach achieves state‑of‑the‑art performance while remaining computationally efficient for real‑time deployment.",
+    "significance": "By combining persistent memory with visual foresight, MemoryWAM advances robotic manipulation toward more reliable and context‑aware decision making in dynamic environments.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cd2838df7f5e6696b57bb6e488f2f8f5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20561v1",
+    "arxiv_id": "2606.20561v1",
+    "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
+    "authors": [
+      "Arkaprava Sinha",
+      "Dominick Reilly",
+      "Siddharth Krishnan"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "TimeProVe: Propose-then-Verify for Efficient Long-Video Temporal Reasoning in Daily Activities",
+    "tldr": "TimeProVe introduces a two-stage approach that first proposes candidate evidence segments and then verifies them, drastically reducing computational load for long video QA. By focusing on sparse, motion-centric cues, it outperforms dense VLM methods while maintaining high accuracy on activities of daily living.",
+    "significance": "This method enables scalable, real-time reasoning over hours-long videos, opening new possibilities for assistive tech and surveillance.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3628438212db5c1cfffb5995a2323f5f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20560v1",
+    "arxiv_id": "2606.20560v1",
+    "title": "How Transparent is DiffusionGemma?",
+    "authors": [
+      "Joshua Engels",
+      "Callum McDougall",
+      "Bilal Chughtai"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "Assessing Transparency in DiffusionGemma’s Latent Space Reasoning for Generative Models",
+    "tldr": "We examine whether DiffusionGemma’s reliance on continuous latent space reduces LLM reasoning transparency. By decomposing transparency into variable and structural components, we find that while latent operations obscure intermediate steps, the model still offers interpretable guidance through attention maps and prompt embeddings.",
+    "significance": "Understanding transparency in diffusion models informs safer deployment and debugging of generative AI.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "98ccccc1bf352d8de24eb3ec01bb2677",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20559v1",
+    "arxiv_id": "2606.20559v1",
+    "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+    "authors": [
+      "Wenhao Chi",
+      "Arkaprava Sinha",
+      "Dominick Reilly"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "Unified Egocentric Video Representation via Proxy-Mediated Foundation Models",
+    "tldr": "UNIEGO proposes using proxy models to fuse multiple viewpoints, modalities, and foundation model outputs into a single egocentric representation. This approach aims to capture richer human action while remaining deployable on wearable devices.",
+    "significance": "It bridges the gap between limited egocentric perspectives and comprehensive action understanding by leveraging multimodal foundation models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3ced04775b22b71a294d417fd947633f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20558v1",
+    "arxiv_id": "2606.20558v1",
+    "title": "Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV",
+    "authors": [
+      "CMS Collaboration"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "CMS Discovers Electroweak Production of Z Boson Pairs with Two Jets at 13 TeV",
+    "tldr": "The CMS experiment observed electroweak production of ZZ pairs accompanied by two jets in proton‑proton collisions at 13 TeV, using 138 fb⁻¹ of data. This marks the first evidence of such a process, confirming predictions of the Standard Model.",
+    "significance": "This observation provides a crucial test of electroweak interactions and validates the Standard Model’s predictions for vector boson scattering.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "978341510a7490dc36ddd9307af9793b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20557v1",
+    "arxiv_id": "2606.20557v1",
+    "title": "Optimal Deterministic Multicalibration and Omniprediction",
+    "authors": [
+      "Georgy Noarov",
+      "Aaron Roth"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "Deterministic Multicalibration Achieves Minimax-Optimal Accuracy and Omniprediction for Machine Learning Models",
+    "tldr": "The authors present a deterministic algorithm that guarantees multicalibration across any set of group weights while achieving the minimax-optimal error rate. This result also yields omniprediction, enabling the model to perform optimally under any loss function.",
+    "significance": "It resolves a long-standing open problem, showing that deterministic multicalibration can be achieved without sacrificing statistical efficiency.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2d07d6117d34acf72ee945d0527dd8cd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20554v1",
+    "arxiv_id": "2606.20554v1",
+    "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+    "authors": [
+      "Ruizhong Qiu",
+      "Yinglong Xia",
+      "Dongqi Fu"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+    "tldr": "This paper introduces a novel framework for organizing and tokenizing complex user-behavior data to enhance generative recommendation systems. By bridging item semantics with advanced tokenization techniques, it improves the model’s ability to predict next user interactions.",
+    "significance": "It offers a scalable approach to integrate rich user context into generative recommendation models, potentially boosting recommendation accuracy in real-world applications.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e1c0e0f0729ccf31b60a8a0e801e21fe",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20553v1",
+    "arxiv_id": "2606.20553v1",
+    "title": "From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning",
+    "authors": [
+      "Shanghao Shi",
+      "Chaoyu Zhang",
+      "Heng Jin"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "Privacy Backdoor Exposed in Federated Language Model Fine‑Tuning with Parameter‑Efficient Adaptation",
+    "tldr": "The study demonstrates that federated fine‑tuning of language models using adapters can inadvertently leak sensitive information, creating a privacy backdoor. By analyzing the adapter updates, the authors show how malicious participants can embed hidden triggers that compromise data confidentiality.",
+    "significance": "This work highlights a critical vulnerability in widely adopted federated PEFT workflows, urging the community to develop robust privacy safeguards.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "303dbeb66a14c27294902c791b7f8373",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20551v1",
+    "arxiv_id": "2606.20551v1",
+    "title": "Benchmark of quantum algorithms for ground state preparation in the presence of noise",
+    "authors": [
+      "Daniel Molpeceres",
+      "Sirui Lu",
+      "J. Ignacio Cirac"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "Benchmarking Quantum Ground-State Algorithms Under Noise",
+    "tldr": "We evaluate cooling, adiabatic, and optimization methods for preparing ground states in noisy quantum systems, deriving scaling laws and validating with simulations. The results guide algorithm selection for realistic quantum hardware.",
+    "significance": "This study provides critical insights into the robustness of quantum algorithms for practical noisy hardware.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b888d7689187128f6969c5a4d9cd17fe",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20548v1",
+    "arxiv_id": "2606.20548v1",
+    "title": "Topological Codes Based on Space Groups",
+    "authors": [
+      "Chong-Yuan Xu",
+      "Ze-Chuan Liu",
+      "Yong Xu"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "Space-Group Codes: Extending Topological Quantum Codes Beyond Translation Invariance for Quantum Error Correction",
+    "tldr": "Topological stabilizer codes usually rely on translation symmetry, but this work introduces space-group codes that incorporate point group operations. The construction yields CSS codes that maintain topological protection while allowing richer symmetry structures.",
+    "significance": "This expands the design space of fault-tolerant quantum codes, potentially enabling more flexible hardware implementations.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1322a84a9ae8bac25b120d9cff04e605",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20547v1",
+    "arxiv_id": "2606.20547v1",
+    "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+    "authors": [
+      "Przemyslaw Musialski"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-19",
+    "headline": "Lie‑Algebra Attention: Tokens as Bare Matrix Group Elements",
+    "tldr": "This paper introduces an attention mechanism where tokens are pure matrix Lie group elements, eliminating feature payloads and learned kernels. The attention score is computed as the closed‑form algebra norm of the relative pose, offering a principled, geometry‑aware alternative to conventional attention.",
+    "significance": "It provides the first attention framework that treats tokens as fundamental group elements, potentially improving spatial reasoning in geometric deep learning.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "8b32865e093f42ca96d22b1966d03842",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.19340v1",
@@ -1174,267 +1431,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "b3b50e25b2aaaa689dd6f74920bfcbde",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09819v1",
-    "arxiv_id": "2606.09819v1",
-    "title": "Linear Ricci-Trace Deformations and Operational Equivalence in Rastall-Type Gravity",
-    "authors": [
-      "José A. C. Nogales",
-      "Karen-Luz Burgoa Rosso",
-      "Marcelo H. Alavarenga"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "Exploring Linear Ricci-Trace Deformations in Rastall-Type Gravity: Structural Classification and Parameter Mapping",
-    "tldr": "We classify linear Ricci–trace deformations of Einstein’s equations, revealing a family of Rastall-type models with modified Ricci-to-scalar coupling. The analysis provides a parameter dictionary linking these deformations to observable gravitational dynamics.",
-    "significance": "This work clarifies the theoretical landscape of modified gravity, offering a systematic framework for future phenomenological studies.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e5553622fb5fbc1ab7da1baf1b1a7ce7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09817v1",
-    "arxiv_id": "2606.09817v1",
-    "title": "Satellite compaction pathways: environmental drivers shaping dwarf galaxy corpulence in the TNG50 simulation",
-    "authors": [
-      "Abhner P. De Almeida",
-      "Gary A. Mamon",
-      "Gastão B. Lima Neto"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "Environmental Drivers of Compact Dwarf Galaxies in the TNG50 Simulation",
-    "tldr": "We investigate how environmental factors lead to compact dwarf galaxies in the TNG50 simulation, focusing on satellite compaction pathways. Our analysis reveals that tidal interactions and gas stripping are key drivers of dwarf galaxy corpulence.",
-    "significance": "This study provides a comprehensive framework for understanding the physical processes that produce compact dwarf satellites, informing models of galaxy evolution.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2c2357aec7b1d43329d66563268da60e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09816v1",
-    "arxiv_id": "2606.09816v1",
-    "title": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
-    "authors": [
-      "Danqi Zhuang",
-      "Jisui Huang",
-      "Xiaoyue Xi"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "PTL-Diffusion: Enhancing Diffusion Models with Manifold-Aware Periodic Terminal Laws",
-    "tldr": "PTL-Diffusion introduces a manifold-aware diffusion framework that replaces the standard Gaussian terminal distribution with periodic terminal laws, enabling better modeling of data concentrated near low-dimensional manifolds. This approach improves generation quality for complex, structured datasets while maintaining analytical tractability.",
-    "significance": "By aligning diffusion dynamics with underlying manifold structures, PTL-Diffusion offers a principled way to generate high-fidelity samples for data with rich geometric or semantic variations.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "28b335a68bd98745ae56c6d72d5b77c4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09813v1",
-    "arxiv_id": "2606.09813v1",
-    "title": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
-    "authors": [
-      "Zhenyu Wu",
-      "Xiuwei Xu",
-      "Yukun Zhou"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "iMaC: Bridging Actions to Motion Images for Robust Embodied AI",
-    "tldr": "iMaC introduces a novel framework that translates low-dimensional action vectors into rich motion and contact images, enabling embodied world models to learn from visual dynamics rather than abstract parameters. The method demonstrates improved generalization across diverse robot embodiments and provides a benchmark dataset for future research.",
-    "significance": "By converting actions into visual representations, iMaC unlocks more expressive, transferable, and physically grounded learning for embodied AI systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "be2e5a51f336a50c3809c424b9c4f77f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07517v1",
-    "arxiv_id": "2606.07517v1",
-    "title": "Non-Abelian braiding in Abelian Fractional Quantum Hall Phases from realistic interactions",
-    "authors": [
-      "Ha Quang Trung",
-      "Bo Yang"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "Realizing Non-Abelian Braiding in a Laughlin 1/3 Quantum Hall State",
-    "tldr": "The study demonstrates that realistic two‑body interactions within the lowest Landau level can produce non‑Abelian braiding of quasiholes in the ν=1/3 Laughlin phase. Low‑energy excitations are found to lie almost entirely in the null space of the Moore‑Read three‑body Hamiltonian.",
-    "significance": "It bridges the gap between Abelian and non‑Abelian quantum Hall physics, offering a realistic route to topological quantum computation.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "38bf268531f7f5b7f8145b25576c0d22",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07516v1",
-    "arxiv_id": "2606.07516v1",
-    "title": "Counterintuitive problems in discrete probability",
-    "authors": [
-      "Luca Avena",
-      "Gianmarco Bet",
-      "Bernardo Busoni"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "Counterintuitive Discrete Probability Problems and Solutions for LLM Benchmarking and Analysis of Common Errors",
-    "tldr": "This manuscript presents a curated set of counterintuitive discrete probability puzzles, each accompanied by detailed solutions. The dataset serves as a benchmark to evaluate how well large language models reason through probabilistic problems and to identify systematic errors they may make.",
-    "significance": "It provides a rigorous testbed for assessing and improving the probabilistic reasoning capabilities of modern LLMs.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "747ca73ac921a46cc436744cd506b7bc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07515v1",
-    "arxiv_id": "2606.07515v1",
-    "title": "How reliable are LLMs when it comes to playing dice?",
-    "authors": [
-      "Luca Avena",
-      "Gianmarco Bet",
-      "Bernardo Busoni"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "Assessing LLM Accuracy in Dice Probability Tasks: A Benchmark Study",
-    "tldr": "We benchmark eight state-of-the-art LLMs on standard and counterintuitive dice probability problems, testing with and without chain-of-thought prompting. Results show that while LLMs perform well on standard tasks, they struggle with counterintuitive scenarios, highlighting limitations in probabilistic reasoning.",
-    "significance": "The study reveals critical gaps in LLMs' probabilistic reasoning, informing future model design and prompting strategies.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c9b10ff73103d4486d389358f8f11391",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07514v1",
-    "arxiv_id": "2606.07514v1",
-    "title": "UniSHARP: Universal Sharp Monocular View Synthesis",
-    "authors": [
-      "Meixi Song",
-      "Dizhe Zhang",
-      "Hao Ren"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "UniSHARP: Extending SHARP for Universal Monocular View Synthesis Across Camera Systems",
-    "tldr": "UniSHARP generalizes the SHARP view synthesis framework to support a wide range of camera models, from perspective to fisheye and omnidirectional. By aligning images in a unified omnidirectional latent space, it enables photorealistic rendering across diverse viewpoints without pinhole-specific constraints.",
-    "significance": "This work provides a versatile foundation for realistic monocular rendering in varied imaging contexts, paving the way for more flexible visual synthesis applications.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dad642b486d954efd88f9a3f1996746d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07513v1",
-    "arxiv_id": "2606.07513v1",
-    "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
-    "authors": [
-      "Xintao Wang",
-      "Sirui Zheng",
-      "Hongqiu Wu"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "Agentopia: Simulating Long-Term Social Learning with LLM-Powered Agent Societies for Human Behavior",
-    "tldr": "Agentopia explores whether large language models can learn from extended simulated social interactions, extending beyond the typical day-scale simulations. By modeling long-term agent societies, it aims to improve LLMs’ understanding of human behavior.",
-    "significance": "It bridges the gap between short-term agent simulations and realistic human social learning, potentially enhancing AI’s social cognition.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4b5a6e7fac6d249a938adf86913e2000",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07512v1",
-    "arxiv_id": "2606.07512v1",
-    "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
-    "authors": [
-      "Cong Chen",
-      "Guo Gan",
-      "Kaixiang Ji"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Memory",
-    "tldr": "MemDreamer introduces a plug‑in framework that separates perception from reasoning, allowing incremental streaming of long videos into a hierarchical graph memory. An agentic retrieval mechanism then queries this memory, enabling efficient, scalable understanding without token explosion.",
-    "significance": "This approach enables scalable, real‑time analysis of hours‑long videos, overcoming the limitations of current vision‑language models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "16ed3675cfc0be9fcf9c212b377fb3fb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.07511v1",
-    "arxiv_id": "2606.07511v1",
-    "title": "GJ 3929 b as the First Complete Rocky Worlds DDT Data Set",
-    "authors": [
-      "Nicholas J. Connors",
-      "Christopher Monaghan",
-      "Bjorn Benneke"
-    ],
-    "published": "2026-06-05",
-    "curated_at": "2026-06-08",
-    "headline": "GJ 3929 b: First Complete Rocky Worlds Dataset Reveals Atmosphere Search via JWST",
-    "tldr": "The Rocky Worlds DDT survey has produced the first complete data set for GJ 3929 b, a low‑temperature rocky exoplanet orbiting an M dwarf. By probing day‑night heat redistribution and CO₂ absorption with JWST, the study seeks to determine whether such planets can sustain atmospheres.",
-    "significance": "This dataset marks a pivotal step toward understanding atmospheric retention on rocky worlds around the most common stars in the galaxy.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
