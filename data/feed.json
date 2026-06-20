@@ -1,5 +1,313 @@
 [
   {
+    "uid": "d0c7b75dbbca5a5f9db79824df5b43e8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20556v1",
+    "arxiv_id": "2606.20556v1",
+    "title": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
+    "authors": [
+      "Pradhaan S Bhat",
+      "Naveen Chandra R",
+      "Rishubh Parihar"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "3D Boxes Empower Precise Spatial Editing in Real-World Images for Photographers",
+    "tldr": "This work introduces a method that uses 3D bounding boxes as explicit transformation specifications, enabling accurate edits of large object motions and camera changes in real images. By integrating structured 3D priors into diffusion-based editing pipelines, the approach achieves more reliable spatial control compared to previous weak 2D-conditioning techniques.",
+    "significance": "It bridges the gap between 2D image editing and 3D spatial reasoning, offering a practical tool for designers and researchers to perform precise, large-scale edits in realistic scenes.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "763fabdeea7fc70c2fde41b550bc57dd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20555v1",
+    "arxiv_id": "2606.20555v1",
+    "title": "Incorporating physical source parameters into microlensing modeling",
+    "authors": [
+      "Mateusz J. Mróz",
+      "Radosław Poleski",
+      "Andrzej Udalski"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Novel Physical-Parameter Sampling Reduces Xallarap Degeneracies for Binary Microlensing Models",
+    "tldr": "Microlensing event modeling is plagued by degeneracies, especially due to xallarap. Our new method samples source star physical parameters directly, breaking these degeneracies.",
+    "significance": "By directly sampling source star properties, the approach improves the reliability of microlensing mass estimates and exoplanet detections.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "032df2205dd20aa21528d9182fb76cb4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20552v1",
+    "arxiv_id": "2606.20552v1",
+    "title": "On the Renormalization Group Flow of Active Flocks",
+    "authors": [
+      "Kevin T. Grosvenor",
+      "Subodh P. Patil"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Renormalization Group Flow in Malthusian Active Flocks: A Toner–Tu Field-Theoretic Analysis",
+    "tldr": "We develop a renormalization group framework for active flocks described by the Toner–Tu theory, treating density fluctuations as rapidly relaxing variables. Our analysis reveals how momentum non-conservation shapes the scaling behavior and critical properties of polar-ordered active fluids.",
+    "significance": "This work provides a systematic field-theoretic foundation for understanding the universal scaling laws of active matter systems lacking momentum conservation.",
+    "tags": [
+      "diffusion-models",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "04bc9ad57cc438316bb7cc2ad295ce75",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20549v1",
+    "arxiv_id": "2606.20549v1",
+    "title": "Generating Robot Hands from Human Demonstrations",
+    "authors": [
+      "Sha Yi",
+      "Nicklas Hansen",
+      "Xueqian Bai"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Data-Driven Robot Hand Design from Human Demonstrations Using Deep Learning Techniques",
+    "tldr": "The authors present a data-driven framework that generates robot hand designs from human demonstrations. By decoupling design and control, the method reduces the combinatorial search space and enables rapid prototyping.",
+    "significance": "It demonstrates a scalable approach to robot morphology design, accelerating the development of task-specific manipulators.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7096b3d1cb7310925004d95f16643855",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20545v1",
+    "arxiv_id": "2606.20545v1",
+    "title": "Current World Models Lack a Persistent State Core",
+    "authors": [
+      "Jinpeng Lu",
+      "Dexu Zhu",
+      "Haoyuan Shi"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "World Models Need Persistent State to Truly Understand Physical Reality",
+    "tldr": "Current AI world models can generate realistic images but lack an evolving internal state. Without persistent state, they cannot simulate object permanence or event continuity beyond observation.",
+    "significance": "A persistent state core is essential for AI to model real-world dynamics and achieve general intelligence.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b3c0492bf66f6014c85b3452402bddaf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20544v1",
+    "arxiv_id": "2606.20544v1",
+    "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+    "authors": [
+      "Gina Wong",
+      "Drew Prinster",
+      "Suchi Saria"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Improving Calibration of Mixture-of-Experts Models Under Distribution Shift for Robustness",
+    "tldr": "This work demonstrates that calibrating individual experts in a mixture-of-experts framework can significantly enhance both accuracy and uncertainty estimates, especially when models face distribution shifts. The authors provide empirical evidence and propose techniques to enforce calibration at the expert level, yielding state‑of‑the‑art performance on benchmark datasets.",
+    "significance": "By ensuring reliable uncertainty estimates under distribution shift, this study paves the way for safer deployment of MoE models in real‑world applications.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0e3e776df95653e607bf93ca02c110b6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20543v1",
+    "arxiv_id": "2606.20543v1",
+    "title": "SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation",
+    "authors": [
+      "Shilong Xiang",
+      "Zirui Zhang",
+      "Lijun Yu"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Spatially Speculative Decoding Speeds Autoregressive Image Generation by Preserving 2D Locality",
+    "tldr": "Autoregressive models treat images as 1D token sequences, losing 2D spatial structure and slowing inference. Spatially Speculative Decoding (SSD) restores spatial locality, accelerating generation while maintaining quality.",
+    "significance": "SSD reduces inference bottlenecks in image generation, enabling faster, high‑resolution visual synthesis.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "70fadae74da8aa80c66e3cf05f16a3b3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20542v1",
+    "arxiv_id": "2606.20542v1",
+    "title": "CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation",
+    "authors": [
+      "Ilona Demler",
+      "Xinran Xie",
+      "Blake Werner"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "CalTennis: 11M-Frame Tennis Dataset for Monocular-to-3D Pose Benchmark",
+    "tldr": "CalTennis offers 11 million tennis video frames from 40 players, captured with 2–6 synchronized cameras at 60 Hz, making it 10× larger than existing in‑the‑wild motion datasets. The dataset enables robust evaluation of monocular 3D pose estimation models in real‑world sports scenarios.",
+    "significance": "It provides an unprecedented scale for training and benchmarking 3D pose models in dynamic, real‑world settings.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e3c0f060936dc40e5d235c0ab4b09bed",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20538v1",
+    "arxiv_id": "2606.20538v1",
+    "title": "Multi-Task Bayesian In-Context Learning",
+    "authors": [
+      "Qingyang Zhu",
+      "Eric Karl Oermann",
+      "Kyunghyun Cho"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Multi-Task Bayesian In-Context Learning: Efficient Uncertainty Quantification for Complex Models",
+    "tldr": "This work introduces a scalable Bayesian framework that integrates prior-data fitted models with in-context learning, enabling efficient uncertainty estimation across multiple tasks. The approach balances computational tractability with robust generalization, offering a practical alternative to traditional exact inference methods.",
+    "significance": "It provides a practical, scalable solution for uncertainty quantification in large-scale machine learning systems, bridging the gap between theoretical Bayesian rigor and real-world applicability.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b970c78e6ee472a8318c5668abc79a12",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20537v1",
+    "arxiv_id": "2606.20537v1",
+    "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+    "authors": [
+      "Liang Su"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Checkpointing Execution State for Low‑Latency On‑Device LLM Serving and Restore",
+    "tldr": "This work introduces Execution‑State Capsules, a graph‑bound checkpoint/restore mechanism that captures all runtime state beyond KV caches, enabling low‑latency, small‑batch on‑device LLM inference without sacrificing throughput. It allows interactive AI agents to resume quickly after interruptions while maintaining performance.",
+    "significance": "It expands efficient prefix reuse beyond KV caches, enabling interactive AI on constrained devices.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0883541f800cd900b309710ba46f3be3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20536v1",
+    "arxiv_id": "2606.20536v1",
+    "title": "The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation",
+    "authors": [
+      "Nicolas Dufour",
+      "Alexei A. Efros",
+      "Patrick Pérez"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Uncovering the FID Lottery: How Randomness Skews Generative Model Scores",
+    "tldr": "The paper treats FID as a random variable across training and sampling seeds, revealing high variance. It shows that a single FID score can be misleading, urging multiple runs for reliable evaluation.",
+    "significance": "It exposes the unreliability of single-point FID reporting, prompting a shift toward robust statistical evaluation in generative modeling.",
+    "tags": [
+      "benchmark",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4c76f1c700f03f6f3550ec6a0a98c6f6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20535v1",
+    "arxiv_id": "2606.20535v1",
+    "title": "Near-Optimal Learning of Local Lindbladians",
+    "authors": [
+      "Itai Arad",
+      "Zhili Chen",
+      "Naixu Guo"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Efficient Algorithm for Learning Local Lindbladians in Quantum Systems via Classical Shadows",
+    "tldr": "We present a near‑optimal method to estimate all Hamiltonian and dissipative parameters of a local Lindbladian by running short‑time evolutions and reconstructing Pauli transfer matrices with classical shadows. The algorithm achieves optimal sample complexity and runs in polynomial time, enabling efficient characterization of open quantum systems.",
+    "significance": "This work provides the first practical, sample‑optimal technique for fully characterizing local open‑system dynamics, a key step toward scalable quantum device verification.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "72ea971cd27e3e7c4b52558132fe7c49",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20534v1",
+    "arxiv_id": "2606.20534v1",
+    "title": "On Second-Order Methods for Bilevel Optimization",
+    "authors": [
+      "Jiawen Bi",
+      "Jiaxiang Li",
+      "Mingyi Hong"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-20",
+    "headline": "Second-Order Techniques for Bilevel Optimization: Challenges and Emerging Algorithms in Machine Learning",
+    "tldr": "Bilevel optimization, essential for modern ML and engineering, faces unresolved issues in finding second-order stationary points, especially when the lower-level problem is strongly convex yet the induced hyperfunction remains nonconvex. Recent research explores cubic regularization and other second-order methods to navigate these challenges, offering promising but still nascent solutions.",
+    "significance": "Understanding second-order behavior in bilevel problems is crucial for designing efficient algorithms that can reliably optimize complex hierarchical models in AI and engineering.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "af9d29ececb88ec809313827f069024a",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.20562v1",
@@ -1116,318 +1424,6 @@
       "LLM",
       "benchmark",
       "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f2a27c07cc8ff5cd31589ff40e9f43ff",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17042v1",
-    "arxiv_id": "2606.17042v1",
-    "title": "First Experimental Limit on the Thermal Solar Neutrino Flux",
-    "authors": [
-      "Cecilia Ferrari",
-      "Gonzalo Herrera",
-      "Brooke Russell"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Scientists Set First Experimental Limit on Thermal Solar Neutrino Flux Using KATRIN Data",
-    "tldr": "Researchers analyzed public KATRIN data to search for low-energy solar neutrinos, setting the first experimental bound on the thermal neutrino flux. This result opens a new window into stellar cooling mechanisms and the low-energy tail of the proton-proton cycle.",
-    "significance": "The study provides the first direct experimental constraint on the elusive thermal solar neutrino flux, advancing our understanding of stellar energy loss processes.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "0603f0d3f3923e92437a8bcad2669eac",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17041v1",
-    "arxiv_id": "2606.17041v1",
-    "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
-    "authors": [
-      "Anzhe Xie",
-      "Weihang Su",
-      "Yujia Zhou"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "New Benchmark Dataset for LLM Agents on Meta-Analysis Articles from Nature Portfolio",
-    "tldr": "We present MetaSyn, a 442-entry dataset covering the full retrieval, screening, and synthesis stages of meta-analyses from Nature Portfolio, enabling systematic evaluation of LLM agents. This benchmark provides ground truth across the entire pipeline, facilitating rigorous testing of scientific reasoning capabilities.",
-    "significance": "MetaSyn fills a critical gap by offering end-to-end ground truth for evaluating LLM agents in systematic review tasks.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fb37fc72298da7ee37d6e1499080eb65",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17040v1",
-    "arxiv_id": "2606.17040v1",
-    "title": "R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies",
-    "authors": [
-      "Xiuwei Xu",
-      "Haowen Sun",
-      "Angyuan Ma"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "R2RDreamer: 3D-Aware Augmentation Boosts Spatial Generalization of 2D Manipulation Policies",
-    "tldr": "R2RDreamer uses simulated 3D scenes to generate diverse, realistic augmentations for 2D robot manipulation tasks, enabling policies to generalize across unseen object poses and camera views. The method demonstrates significant performance gains on benchmark manipulation datasets with only a handful of real demonstrations.",
-    "significance": "This work bridges the gap between limited real-world data and robust spatial generalization, offering a scalable solution for deploying manipulation policies in varied environments.",
-    "tags": [
-      "spatial-reasoning",
-      "point-cloud",
-      "object-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a177b83290bdf7025d33f692e50c8f1a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17039v1",
-    "arxiv_id": "2606.17039v1",
-    "title": "Curvature--Radiation Geometries Across the Second CHIME/FRB Fast Radio Burst Population",
-    "authors": [
-      "Thonimar V. Alencar",
-      "Jéferson A. S. Fortunato",
-      "Wiliam S. Hipólito-Ricaldi"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Curvature Radiation Models Explored in the Second CHIME/FRB Fast Radio Burst Catalog",
-    "tldr": "Researchers analyzed fast radio burst spectra using three curvature‑radiation templates—point‑source, one‑dimensional bunch, and paired‑bunch cavity—across the second CHIME/FRB catalog. All models achieved reduced chi‑squared values near unity, indicating comparable fits to the data.",
-    "significance": "The study demonstrates that multiple curvature‑radiation geometries can equally explain FRB spectral properties, guiding future theoretical and observational efforts.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "94015218d95cb4f28f333e2bd1cf9205",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.14699v1",
-    "arxiv_id": "2606.14699v1",
-    "title": "Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control",
-    "authors": [
-      "Ruining Li",
-      "Yuxin Yao",
-      "Matt Zhou"
-    ],
-    "published": "2026-06-12",
-    "curated_at": "2026-06-15",
-    "headline": "Instruct-Particulate: Scaling 3D Object Articulation with Kinematic Control via Instructional Models",
-    "tldr": "We present Instruct-Particulate, a model that reconstructs articulated 3D objects from meshes and target kinematic specifications. By leveraging instruction-based conditioning, it generalizes across diverse object categories with limited annotated data.",
-    "significance": "This approach enables scalable, data‑efficient reconstruction of articulated 3D models for animation, gaming, and robotics.",
-    "tags": [
-      "foundation-models",
-      "point-cloud",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7aca590fabb88d601c43d3cd483263a0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.14689v1",
-    "arxiv_id": "2606.14689v1",
-    "title": "Leptonic flavour transfer: a new window on flavour gauge symmetries",
-    "authors": [
-      "L. Darmé",
-      "N. Fardeau",
-      "F. Mahmoudi"
-    ],
-    "published": "2026-06-12",
-    "curated_at": "2026-06-15",
-    "headline": "New Leptonic Flavour Transfer Mechanisms Reveal Hidden Gauge Symmetries in Particle Physics",
-    "tldr": "The study introduces novel non‑Abelian flavour gauge groups that induce flavour‑transfer processes resembling charged‑current interactions in the lepton sector. By exploring various flavour structures, the authors systematically identify observable signatures that could probe these hidden symmetries at low energies.",
-    "significance": "This work opens a new avenue for testing flavour gauge symmetries through accessible low‑energy lepton processes, potentially guiding future experimental searches.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "39a9bd41e86145074b4fa61e4ac0dc17",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.13680v1",
-    "arxiv_id": "2606.13680v1",
-    "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
-    "authors": [
-      "Zilin Xiao",
-      "Qi Ma",
-      "Chun-cheng Jason Chen"
-    ],
-    "published": "2026-06-11",
-    "curated_at": "2026-06-14",
-    "headline": "Analogical Retrieval Enhances Complex Reasoning in Large Language Models' Performance",
-    "tldr": "The paper introduces a retrieval-augmented reinforcement fine-tuning method that selects analogical examples to guide reasoning. Experiments show improved performance on reasoning benchmarks compared to standard lexical retrieval.",
-    "significance": "It demonstrates that analogy-based retrieval can substantially improve reasoning in LLMs, offering a new direction for knowledge grounding.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "527a50b2a8e915003638c2299d538807",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.11181v1",
-    "arxiv_id": "2606.11181v1",
-    "title": "Combined Analysis of Lattice QCD and Experimental Data on the Pion Transition Form Factor",
-    "authors": [
-      "Franziska Hagelstein",
-      "Danaheb Naomi Navarro Durán",
-      "Timon Esser"
-    ],
-    "published": "2026-06-09",
-    "curated_at": "2026-06-10",
-    "headline": "Combining Lattice QCD and Experimental Data to Refine the Pion Transition Form Factor",
-    "tldr": "This study demonstrates a method to merge lattice QCD calculations with experimental measurements, enhancing the precision of the pion transition form factor. The approach leverages complementary strengths of both datasets to improve predictions for the muon g‑2 hadronic light‑by‑light contribution.",
-    "significance": "Accurate determination of the pion transition form factor is essential for reducing uncertainties in the muon anomalous magnetic moment, a key test of the Standard Model.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "007ab2fa54d8351bc2b8919e67ffa8c3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09828v1",
-    "arxiv_id": "2606.09828v1",
-    "title": "Latent Spatial Memory for Video World Models",
-    "authors": [
-      "Weijie Wang",
-      "Haoyu Zhao",
-      "Yifan Yang"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "Efficient Latent Spatial Memory Enhances 3D Consistency in Video World Models",
-    "tldr": "This paper proposes a latent spatial memory that replaces explicit RGB point clouds, reducing computational cost and preserving richer latent features. The approach maintains 3D spatial consistency across generated frames without repeated rendering or VAE encoding.",
-    "significance": "By eliminating costly rendering loops, the method enables scalable, high-fidelity video generation with robust 3D coherence.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bbbbd9096c3b7251b4c1ea7c9b3ac49e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09826v1",
-    "arxiv_id": "2606.09826v1",
-    "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
-    "authors": [
-      "Mingxian Lin",
-      "Shengju Qian",
-      "Yuqi Liu"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "OmniGameArena: Unified Benchmark for Vision‑Language Game Agents with Dynamic Evaluation",
-    "tldr": "OmniGameArena introduces a single protocol that evaluates commercial, open‑weight, and specialized VLM agents across multiple games. It reports progressive improvement metrics instead of single‑attempt scores, enabling fair comparison of heterogeneous agent classes.",
-    "significance": "This benchmark standardizes evaluation, enabling researchers to compare diverse VLM agents on equal footing and track learning progress in interactive game environments.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "510109340bc5a2cfa5a6e27034c80e82",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09824v1",
-    "arxiv_id": "2606.09824v1",
-    "title": "TSseek: Regular Expression-Based Similarity Search for Distributed Time Series Datasets",
-    "authors": [
-      "Xiaoshuai Li",
-      "Khalid Alnuaim",
-      "Mohamed Y. Eltabakh"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "TSseek: Regex-Based Pattern Search for Distributed Time Series Data in Big Data",
-    "tldr": "TSseek introduces a regex-based similarity search engine that allows users to query distributed time series datasets using flexible pattern expressions instead of full sequences. The system supports scalable, distributed processing and demonstrates significant speedups over traditional exact-match methods.",
-    "significance": "By enabling pattern-based queries, TSseek expands the applicability of time series analysis to real-world scenarios where precise sequences are unavailable.",
-    "tags": [
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "76634c6b425eee495c795e4b82db1ad3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09822v1",
-    "arxiv_id": "2606.09822v1",
-    "title": "Causally Evaluating the Learnability of Formal Language Tasks",
-    "authors": [
-      "Vésteinn Snæbjarnarson",
-      "Anej Svete",
-      "Josef Valvoda"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "Measuring How Much Data Language Models Need to Master Formal Tasks",
-    "tldr": "This study introduces a causal framework to quantify the amount of task-specific data required for language models to learn formal language tasks. By using controlled experiments, it demonstrates that data frequency strongly predicts learnability, offering a benchmark for future multi-task learning research.",
-    "significance": "It provides a rigorous, data-driven benchmark for assessing and improving the efficiency of large language models across diverse tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b5448358c66ebde3ad3be3e4cb3fcf9f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.09821v1",
-    "arxiv_id": "2606.09821v1",
-    "title": "Rethinking the Divergence Regularization in LLM RL",
-    "authors": [
-      "Jiarui Yao",
-      "Xiangxin Zhou",
-      "Penghui Qi"
-    ],
-    "published": "2026-06-08",
-    "curated_at": "2026-06-09",
-    "headline": "Rethinking Divergence Regularization for Stable RL in Large Language Models",
-    "tldr": "This paper revisits divergence regularization in RL for LLMs, highlighting issues with ratio-clipping in PPO and GRPO. It proposes a more principled trust-region approach that improves stability and performance.",
-    "significance": "It offers a new perspective on stabilizing off-policy RL for LLMs, potentially enhancing alignment and safety.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
