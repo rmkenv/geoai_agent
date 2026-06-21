@@ -1,5 +1,288 @@
 [
   {
+    "uid": "636caa556ed045ab6b86bd9277dd2ebc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20546v1",
+    "arxiv_id": "2606.20546v1",
+    "title": "Predictability as a Fine-Grained Measure for Privacy",
+    "authors": [
+      "Linda Lu",
+      "Karthik Sridharan"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "Fine-Grained Privacy via Predictability: A New Framework Beyond Worst-Case Differential Privacy",
+    "tldr": "The paper introduces a privacy framework that measures privacy based on predictability, taking into account the attacker's knowledge and a stochastic compromise of the dataset. This approach offers a more nuanced tradeoff between privacy and accuracy compared to traditional worst-case differential privacy.",
+    "significance": "It provides a more realistic and flexible privacy guarantee that can reduce unnecessary data distortion while still protecting individuals.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "26dbc2197417943df48426537ba1024e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20539v1",
+    "arxiv_id": "2606.20539v1",
+    "title": "Caching for Dollars, Not Hits: An Exact Offline Reference for Cloud-Egress Caching and the Crossover That Decides When It Pays",
+    "authors": [
+      "Madhulatha Mandarapu",
+      "Sandeep Kunkunuru"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "Optimizing Cloud Egress Costs: When Caching Beats Hit Rate for Large Datasets",
+    "tldr": "This paper provides an exact offline benchmark for cloud‑egress caching, showing that minimizing miss rate is not the right objective when costs are driven by request and byte charges. It identifies the crossover point where caching becomes cost‑effective and offers a reference for evaluating caching strategies.",
+    "significance": "It redefines caching optimization by focusing on monetary savings rather than hit ratios, guiding practitioners on when to invest in cache infrastructure.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dd719d117456fe1cd55bf31e9cbe1dfd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20532v1",
+    "arxiv_id": "2606.20532v1",
+    "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+    "authors": [
+      "Nityanand Mathur",
+      "Hamees Sayed",
+      "Wasim Madha"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "Unveiling How Words Shape Voice: Cross-Attention Attribution in Style-Captioned TTS",
+    "tldr": "We adapt the DAAM framework to speech diffusion models, enabling fine-grained attribution of how individual words influence acoustic output in style-captioned TTS. This insight helps diagnose failures and improve controllability in expressive speech synthesis.",
+    "significance": "By revealing the word-level influence on voice characteristics, this work advances transparency and control in expressive TTS systems.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f0e618c326cea812a3c76a926e7572f7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20531v1",
+    "arxiv_id": "2606.20531v1",
+    "title": "VisDom: Sparse Novel View Synthesis with Visible Domain Constraint",
+    "authors": [
+      "Mariia Gladkova*",
+      "Tarun Yenamandra*",
+      "Edmond Boyer"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "VisDom: Enhancing Sparse Novel View Synthesis via Visible Domain Constraints",
+    "tldr": "VisDom introduces a visible domain constraint to improve 3D reconstruction from few views, reducing floating artifacts and geometry inconsistencies. The method outperforms NeRF and Gaussian Splatting baselines on sparse datasets while maintaining realistic renderings.",
+    "significance": "By enforcing visible domain consistency, VisDom addresses a key limitation of sparse novel view synthesis, enabling more reliable 3D geometry recovery.",
+    "tags": [
+      "segmentation",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d6661175fd2dcd860fb4d1d8713da69e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20529v1",
+    "arxiv_id": "2606.20529v1",
+    "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+    "authors": [
+      "Md Nayem Uddin",
+      "Amir Saeidi",
+      "Eduardo Blanco"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "LedgerAgent: Structured State Management for Policy‑Adherent Tool‑Calling Agents in Customer Service Domains",
+    "tldr": "LedgerAgent introduces a dedicated task state representation that tracks facts, identifiers, constraints, and conditions across turns, enabling policy‑compliant tool calls. By separating state from observations and tool outputs, the agent can enforce domain policies and improve reliability in customer‑service interactions.",
+    "significance": "This approach bridges the gap between LLMs and structured policy enforcement, offering a scalable framework for real‑time, policy‑aware customer‑service agents.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cae36d2d76471971b26789a7509ad903",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20527v1",
+    "arxiv_id": "2606.20527v1",
+    "title": "StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs",
+    "authors": [
+      "Shaghayegh Kolli",
+      "Timo Cavelius",
+      "Nafiseh Nikeghbal"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "StylisticBias Reveals How Visual Cues Shape Social Bias in Multimodal LLMs",
+    "tldr": "The StylisticBias benchmark isolates visual style from identity to test social bias in multimodal large language models. Results show that a handful of visual cues drive most bias, underscoring the need for targeted mitigation.",
+    "significance": "Understanding which visual cues cause bias enables more effective debiasing of multimodal LLMs.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e8d25d2804d202f87a2cb3bec8afd31d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20525v1",
+    "arxiv_id": "2606.20525v1",
+    "title": "The $B^+ \\to K^+ ν\\bar ν$ decay as a QCD axion search: comparing reinterpretation approaches",
+    "authors": [
+      "Merna Abumusabh",
+      "Giulio Dujany",
+      "Diego Guadagnoli"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "Belle II B+→K+νν Decay Tightens Constraints on Light Axion Models",
+    "tldr": "Two independent Belle II analyses of B+→K+νν data give axion limits that differ by a factor of four, traced to the choice of kinematic variable space. The study shows that the resolution in the reconstructed di‑neutrino invariant mass q^2 is the key figure of merit.",
+    "significance": "By pinpointing the source of discrepancy, the paper refines the interpretation of rare B‑decay searches, sharpening the reach for QCD axion and other invisible particles.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3cfb7e8a368c5884f69e68061e4bf68d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20524v1",
+    "arxiv_id": "2606.20524v1",
+    "title": "String Axiverse Enhancement of Superradiant Dark Matter Production",
+    "authors": [
+      "Diogo S. Gorgulho",
+      "Jacob A. Litterer",
+      "João G. Rosa"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "String Axiverse Boosts Superradiant Dark Matter Production from Primordial Black Holes",
+    "tldr": "We examine how string theory predicts many light axion species that can be emitted by evaporating primordial black holes, enhancing superradiant amplification. The resulting increase in axion production could significantly affect dark matter abundance and observable signatures.",
+    "significance": "This study links high-energy string theory predictions with astrophysical processes, offering a new avenue to probe dark matter through primordial black hole dynamics.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9156000e7215cfef4db34ae965d0eddd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20523v1",
+    "arxiv_id": "2606.20523v1",
+    "title": "SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm",
+    "authors": [
+      "Solène Debuysère",
+      "Nicolas Trouvé",
+      "Nathan Letheule"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "SARLO-80: Global 80cm Slant SAR–Optical Dataset Benchmark for Multimodal AI",
+    "tldr": "SARLO-80 provides the first high‑resolution (80 cm) slant‑range SAR–optical paired dataset, preserving complex values and native geometry. This enables training of multimodal foundation models that can learn physically grounded cross‑modal representations for remote‑sensing tasks.",
+    "significance": "By delivering a large, high‑resolution, geometry‑aware SAR–optical benchmark, SARLO‑80 unlocks the development of more accurate, physics‑aware AI for Earth observation.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "SAR",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bfe6f763803aae38c745ca483c246105",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20522v1",
+    "arxiv_id": "2606.20522v1",
+    "title": "Transfer-matrix functions for algebraically decaying interactions in variational infinite matrix product states",
+    "authors": [
+      "Qi Yang"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "New Transfer-Matrix Approach Eliminates Surrogate Residuals in Algebraic Interaction iMPS",
+    "tldr": "The authors present a fixed‑D variational energy formulation that directly incorporates algebraically decaying interactions via transfer‑matrix functions, bypassing the need for finite‑pole surrogate Hamiltonians. This eliminates representation residuals and enhances the accuracy of infinite matrix product state calculations.",
+    "significance": "By removing the surrogate approximation, the method enables more precise simulations of long‑range interacting quantum systems.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e89c6ab87667b1a708e6f5e31c29e3db",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20521v1",
+    "arxiv_id": "2606.20521v1",
+    "title": "HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining",
+    "authors": [
+      "Juncheng Ma",
+      "Jianxin Bi",
+      "Yufan Deng"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "Human-Scale Egocentric Video Beats Real-Robot Data for Embodied AI Pretraining",
+    "tldr": "Egocentric human videos can provide richer, more scalable data for embodied foundation models than teleoperated robot data, achieving comparable or better performance while reducing cost and complexity. This suggests a shift toward large-scale human video datasets for embodied AI.",
+    "significance": "This work demonstrates that large-scale human egocentric video can replace costly robot data, accelerating embodied AI development.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "92a98784e7b01c1ad3e2bb43ae5f17f5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20518v1",
+    "arxiv_id": "2606.20518v1",
+    "title": "FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS",
+    "authors": [
+      "Harshit Singh",
+      "Ayush Pratap Singh",
+      "Nityanand Mathur"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-21",
+    "headline": "FlowEdit: Lifelong Pronunciation Adaptation for Frozen Flow-Matching TTS via Associative Memory",
+    "tldr": "FlowEdit introduces a lightweight, lifelong adaptation framework that updates pronunciation in frozen flow-matching TTS models by learning latent conditioning edits instead of retraining weights. This approach corrects out-of-vocabulary proper noun errors on the fly, preserving zero-shot quality while enabling continuous improvement.",
+    "significance": "By enabling real-time pronunciation corrections without model retraining, FlowEdit extends the practical utility of state-of-the-art flow-matching TTS for dynamic, real-world applications.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d0c7b75dbbca5a5f9db79824df5b43e8",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.20556v1",
@@ -1142,290 +1425,6 @@
       "open-source"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d3319856503885bea1cbfc01f131eefe",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18236v1",
-    "arxiv_id": "2606.18236v1",
-    "title": "Sign-Rank, Index, and List Replicability: Connections and Separations",
-    "authors": [
-      "Ari Blondal",
-      "Hamed Hatami",
-      "Pooya Hatami"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "New Lower Bounds on Sign Rank via Z2-Index and List Replicability",
-    "tldr": "Researchers have derived new lower bounds on the sign rank of binary concept classes using the Z2-index and list replicability. These techniques provide tighter constraints for learning theory and help distinguish between different complexity measures.",
-    "significance": "This work advances our understanding of the computational complexity of learning binary concepts, offering tools that could improve algorithm design and theoretical limits.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2877e6e4c0aceae34c82bb08c1a327c4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18235v1",
-    "arxiv_id": "2606.18235v1",
-    "title": "EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
-    "authors": [
-      "Qi Chai",
-      "Wenhao Shen",
-      "Nanjie Yao"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "EvolveNav: Self‑Evolving Zero‑Shot Object‑Goal Navigation with Foundation Models",
-    "tldr": "EvolveNav introduces a test‑time self‑learning framework that continuously updates its memory and priors while navigating to unseen objects. By leveraging foundation models, it reduces repeated errors and trial‑and‑error compared to static‑prior methods.",
-    "significance": "It demonstrates that embodied agents can adapt on the fly, improving efficiency in zero‑shot navigation tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "04c03270047538f8b11a7d5a985de6fe",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18232v1",
-    "arxiv_id": "2606.18232v1",
-    "title": "Quartic Lyapunov functions for global fluid stability",
-    "authors": [
-      "David Darrow",
-      "Elizabeth Carlson",
-      "David Goluskin"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "Quartic Lyapunov Functions Unlock Global Fluid Stability",
-    "tldr": "The authors develop quartic Lyapunov functions that guarantee global stability for fluid flows. This approach overcomes the shortcomings of the traditional energy method, which cannot handle transient energy growth.",
-    "significance": "It provides a more accurate and less conservative stability criterion for fluid dynamics.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1c75ada5243c4a44f2ec788c9b8af412",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17056v1",
-    "arxiv_id": "2606.17056v1",
-    "title": "The Value Axis: Language Models Encode Whether They're on the Right Track",
-    "authors": [
-      "Nick Jiang",
-      "Isaac Kauvar",
-      "Jack Lindsey"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Language Models Track Their Own Success Likelihood via a Hidden Value Axis",
-    "tldr": "Researchers constructed a \"value\" axis for Qwen3-8B using synthetic reinforcement learning data, showing that activations along this axis correlate with verbalized confidence and rollout outcomes. The study demonstrates that language models internally encode the likelihood of achieving their goals.",
-    "significance": "It reveals that LLMs possess an internal metric of goal alignment, informing future alignment and safety research.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c742b69b4ab846f0f7709a6ac71bbcc5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17055v1",
-    "arxiv_id": "2606.17055v1",
-    "title": "T-Rex: Tactile-Reactive Dexterous Manipulation",
-    "authors": [
-      "Dantong Niu",
-      "Zhuoyang Liu",
-      "Zekai Wang"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "T-Rex: Advancing Dexterous Manipulation with Tactile-Responsive Vision-Language Models",
-    "tldr": "T-Rex introduces a framework that integrates tactile feedback into Vision-Language-Action models, enabling robots to adaptively manipulate objects. By addressing data scarcity and evaluation gaps, it pushes robotic dexterity closer to human-level agility.",
-    "significance": "It bridges a critical gap in robotic manipulation by embedding dynamic tactile perception into learning-based VLA systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c1c3e0d4de0344e39399d998d91b9744",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17054v1",
-    "arxiv_id": "2606.17054v1",
-    "title": "Human Universal Grasping",
-    "authors": [
-      "Kevin Yuanbo Wu",
-      "Tianxing Zhou",
-      "Isaac Tu"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Human Universal Grasping: A Flow-Matching Model for Diverse Robot Grasps",
-    "tldr": "Humans naturally grasp objects effortlessly, but robots lag behind. We present HUG, a flow-matching model that generates diverse human-like grasps from a single RGB-D image, enabling more general robot manipulation.",
-    "significance": "By leveraging human grasp data, HUG bridges the gap between human dexterity and robotic manipulation, paving the way for more versatile and efficient robots.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ca5398a4557f514900360d5d4d3cdbc2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17049v1",
-    "arxiv_id": "2606.17049v1",
-    "title": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
-    "authors": [
-      "Yi-Ruei Liu",
-      "Jie-Ying Lee",
-      "Zheng-Hui Huang"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "BRDFusion: Merging Physics and Generative Models for Accurate Urban Scene Inverse Rendering",
-    "tldr": "BRDFusion combines physically-based rendering with diffusion models to reconstruct urban scenes from videos, achieving realistic lighting and geometric consistency. The method unifies reconstruction accuracy with generative realism, enabling applications in content creation and autonomous driving simulation.",
-    "significance": "It bridges the gap between physics-driven fidelity and data-driven realism, offering a scalable solution for urban inverse rendering.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "urban-AI"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "abd4632687b8daf01373872eda38688e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17048v1",
-    "arxiv_id": "2606.17048v1",
-    "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
-    "authors": [
-      "Abbas Mammadov",
-      "Ozgur Kara",
-      "Kaan Oktay"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Exact Posterior Score Estimation for Linear Inverse Problems Using Diffusion Models",
-    "tldr": "This work introduces a method to compute the exact posterior score for linear inverse problems, enabling accurate sampling without relying on approximate denoiser steering. The approach leverages diffusion models' unconditional scores and integrates measurement constraints analytically.",
-    "significance": "It provides a principled way to solve inverse problems with diffusion priors, improving reconstruction fidelity.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5a467622548257d292ebff2a5ff43499",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17046v1",
-    "arxiv_id": "2606.17046v1",
-    "title": "Geometric Action Model for Robot Policy Learning",
-    "authors": [
-      "Jisang Han",
-      "Seonghu Jeon",
-      "Jaewoo Jung"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Bridging 3D Physical Reasoning into Robot Policies with Geometric Action Models",
-    "tldr": "This work introduces a geometric action model that extends vision‑language‑action frameworks into 3D reasoning, enabling robots to interpret user commands while accounting for object, camera, and action interactions. By moving beyond 2D latent spaces, the model improves policy learning in complex physical environments.",
-    "significance": "It advances robot autonomy by integrating spatial reasoning directly into policy learning, bridging a critical gap between perception and action.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6b7452ab0310f236e2570d2c10f1a55f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17045v1",
-    "arxiv_id": "2606.17045v1",
-    "title": "Compact Spin-Charge Separated Neural Quantum States for Valence-Bond States",
-    "authors": [
-      "Ang-Kun Wu",
-      "Louis Primeau",
-      "Yixin Zhang"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Compact Spin-Charge Separated Neural Quantum States for Efficient Valence-Bond Wavefunctions",
-    "tldr": "This study introduces a neural network architecture that captures the sign structure and constrained Hilbert space of valence-bond states by designing it at an exactly solvable point. The resulting compact spin-charge separated neural quantum states enable efficient representation and simulation of quantum many-body wavefunctions.",
-    "significance": "It provides a principled way to embed physical constraints into neural quantum states, improving their expressiveness and computational efficiency.",
-    "tags": [
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9da50d92ee092f4a71b76939763e65d6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17044v1",
-    "arxiv_id": "2606.17044v1",
-    "title": "Galaxy-cluster-stacked Fermi-LAT, part IV: $\\sim70$ GeV WIMP annihilation lines",
-    "authors": [
-      "Uri Keshet"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Stacked Fermi-LAT Galaxy Clusters Tighten Constraints on 70 GeV WIMP Annihilation Lines",
-    "tldr": "Researchers combined gamma-ray data from dozens of galaxy clusters to search for 70 GeV dark matter annihilation signatures. The analysis sets the most stringent limits yet on velocity-dependent WIMP models, ruling out large portions of parameter space.",
-    "significance": "This study narrows the viable mass range for WIMP dark matter, guiding future indirect detection efforts.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e6a68453f32c99191f946835b7a081f5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.17043v1",
-    "arxiv_id": "2606.17043v1",
-    "title": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
-    "authors": [
-      "Tongyan Fang",
-      "Siyuan Huang",
-      "Naiyu Fang"
-    ],
-    "published": "2026-06-15",
-    "curated_at": "2026-06-16",
-    "headline": "Hierarchical Advantage Weighting Improves Online RL Fine‑Tuning of Vision‑Language Agents",
-    "tldr": "We propose a hierarchical advantage weighting scheme that decomposes sparse episode outcomes into richer transition‑level signals for online RL fine‑tuning of vision‑language agents. This approach preserves distinct feedback modes and yields more efficient policy updates compared to scalar reward reductions.",
-    "significance": "By enabling more informative supervision from sparse outcomes, the method accelerates convergence and improves performance of pretrained VLAs in real‑time applications.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
