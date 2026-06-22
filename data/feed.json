@@ -1,5 +1,316 @@
 [
   {
+    "uid": "7a907d810a6a7f4a490149175a4fbbac",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20526v1",
+    "arxiv_id": "2606.20526v1",
+    "title": "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs",
+    "authors": [
+      "Saimun Habib",
+      "Vaishak Belle",
+      "Fengxiang He"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "DeepSWIP: Enabling Causal Counterfactual Inference in Neural Probabilistic Logic Programs",
+    "tldr": "DeepSWIP introduces a single-world counterfactual semantics for DeepProbLog, allowing causal reasoning in neural probabilistic logic programs. By leveraging neural materialization, it reduces fixed-context neural predicates, enabling efficient counterfactual inference.",
+    "significance": "This advances neurosymbolic AI by bridging perception, logic, and causality, facilitating more robust decision-making.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "69ed51ef0de924a2751ff63695960e69",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20519v1",
+    "arxiv_id": "2606.20519v1",
+    "title": "GPU-accelerated semidefinite programming for causal games",
+    "authors": [
+      "Emanuel-Cristian Boghiu",
+      "Kyrylo Simonov"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Accelerating Quantum Causal Games with GPU-Optimized Semidefinite Programming for Efficient Simulation and Analysis",
+    "tldr": "The authors present a GPU-accelerated solver for semidefinite programming that enables rapid analysis of process matrices in causal games, achieving significant speedups over CPU implementations. This approach allows large-scale exploration of quantum correlations without fixed causal order, paving the way for practical quantum advantage in distributed tasks.",
+    "significance": "By providing a scalable computational framework, the work brings quantum causal analysis into the realm of practical, large-scale simulations, potentially informing future quantum communication protocols.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fc8fe299384ee280cc25013849e12c7c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20517v1",
+    "arxiv_id": "2606.20517v1",
+    "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+    "authors": [
+      "Maria Ivanova",
+      "Pavel Zadorozhny",
+      "Rodion Levichev"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Multi-LCB: Expanding LiveCodeBench to Support Multiple Programming Languages for LLM Evaluation",
+    "tldr": "LiveCodeBench (LCB) is a popular benchmark for evaluating LLMs on code generation, but it currently only supports Python. This paper introduces Multi-LCB, which extends LCB to multiple programming languages, enabling broader, contamination‑aware evaluation of LLMs across diverse coding tasks.",
+    "significance": "By broadening LCB to multiple languages, Multi‑LCB provides a more comprehensive, language‑agnostic benchmark that can accelerate LLM development and deployment across varied programming ecosystems.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "110e691e6fb0338a7827690f1116fe33",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20516v1",
+    "arxiv_id": "2606.20516v1",
+    "title": "Approximation and interactive design with exact 3D elastic curves",
+    "authors": [
+      "David Brander",
+      "Jens Gravesen",
+      "Marc Isern"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Fast, Stable Recovery of 3D Elastic Curves for Interactive Design",
+    "tldr": "We present an 11-parameter analytic description of 3D elastic curve segments equivalent to the spherical pendulum equation. Our numerically stable algorithm recovers these parameters from a given curve, enabling fast, interactive design of elastic shapes.",
+    "significance": "This work provides a practical tool for designers and engineers to model and manipulate physically realistic elastic curves in real time.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b7838f81ca708e87eedd1e0e1b1943bb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20515v1",
+    "arxiv_id": "2606.20515v1",
+    "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
+    "authors": [
+      "Yalun Dai",
+      "Hao Li",
+      "Shulin Tian"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "S-Agent: A New Spatial Tool-Use Agent for Continuous 3D Reasoning",
+    "tldr": "S-Agent introduces a spatial tool-use paradigm that enables reasoning over dynamic, multi-view 3D scenes. By integrating continuous visual streams with large language models, it surpasses static inference methods and opens new possibilities for real-time spatial intelligence.",
+    "significance": "This work bridges the gap between static visual inference and dynamic spatial reasoning, offering a foundation for advanced real-world applications.",
+    "tags": [
+      "spatial-reasoning",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d73ac17245a4205b2e6a24255e453dd4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20512v1",
+    "arxiv_id": "2606.20512v1",
+    "title": "Probe-and-Refine Tuning of Repository Guidance for Coding Agents",
+    "authors": [
+      "Asa Shepard",
+      "Jeannie Albrecht"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Enhancing LLM Coding Agents with Repository Guidance via AGENTS.md",
+    "tldr": "LLM-based coding agents lack repository-level context, such as subsystem locations and test workflows. Engineers use AGENTS.md files to provide this guidance, but recent studies question their effectiveness.",
+    "significance": "Improving repository guidance could significantly boost the reliability and efficiency of automated coding agents.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6b2927688ce404ec8ebd5c5f6d869655",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20511v1",
+    "arxiv_id": "2606.20511v1",
+    "title": "State estimation of Rayleigh-Bénard convection with reduced-order models",
+    "authors": [
+      "Enrique Flores-Montoya",
+      "André F. C. da Silva",
+      "André V. G. Cavalieri"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "State Estimation of Rayleigh-Bénard Convection via Reduced-Order Models and EKF",
+    "tldr": "The authors present a framework that couples a stable Galerkin ROM with an extended Kalman filter to estimate the state of 2D Rayleigh-Bénard convection. The ROM is built from controllability modes of the linearised Boussinesq equations, and the approach is validated against DNS.",
+    "significance": "This work enables accurate, computationally efficient state estimation for turbulent convection, facilitating real-time monitoring and control.",
+    "tags": [
+      "real-time",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d0195fd9c9e5db8ed2270961c2b05380",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20510v1",
+    "arxiv_id": "2606.20510v1",
+    "title": "Efficient and Sound Probabilistic Verification for AI Agents",
+    "authors": [
+      "Alaia Solko-Breslin",
+      "Pramod Kaushik Mudrakarta",
+      "Mihai Christodorescu"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Probabilistic Verification for AI Agents: Efficient Runtime Monitoring with Datalog Policies",
+    "tldr": "This work introduces a sound and efficient probabilistic verification framework for AI agents operating in complex digital environments. By extending Datalog-based runtime monitoring to handle probabilistic policies, the approach enables real-time enforcement of security constraints while maintaining computational tractability.",
+    "significance": "It bridges the gap between deterministic policy enforcement and the stochastic nature of modern AI systems, providing a scalable solution for secure deployment.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3496b12d982f5e0dfb939df66fe81ce7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20509v1",
+    "arxiv_id": "2606.20509v1",
+    "title": "Planar constant piecewise smooth vector fields with large hysteresis",
+    "authors": [
+      "Tiago Carvalho",
+      "Leonardo Serantola",
+      "Bruno de Souza Rangel"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Rigorous Analysis of Planar Piecewise Smooth Vector Fields Reveals Limit Set Dynamics with Hysteresis",
+    "tldr": "We provide a rigorous mathematical framework for planar constant piecewise smooth vector fields exhibiting large hysteresis. The study characterizes possible limit sets, offering a foundation for control system analysis.",
+    "significance": "This work establishes a consistent theoretical basis for predicting complex behaviors in widely used control systems.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4c7cd548c8cae636f0c562d6c6476cd9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20508v1",
+    "arxiv_id": "2606.20508v1",
+    "title": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?",
+    "authors": [
+      "Sihui Dai",
+      "Mann Patel"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Safety-Aligned LLMs Learn Mixed Compliance: How Benign and Harmful Demonstrations Shape Responses",
+    "tldr": "The study investigates how language models interpret a blend of benign and harmful compliance demonstrations. Results suggest that mixed demonstrations influence model behavior, revealing nuanced compliance dynamics.",
+    "significance": "Understanding this interplay informs safer LLM deployment and mitigates jailbreak risks.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0d87bd4bf678f9535d3a696bcc86b79",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20506v1",
+    "arxiv_id": "2606.20506v1",
+    "title": "FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining",
+    "authors": [
+      "Jinghong Lan",
+      "Wei Cheng",
+      "Yunuo Chen"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "FreeStyle: Community LoRA Mining Enables Precise Style-Content Dual-Reference Generation",
+    "tldr": "FreeStyle introduces a framework that leverages community-sourced LoRA adapters to flexibly blend a content image with a separate style reference, while maintaining instruction compliance and preventing style leakage. The approach demonstrates state‑of‑the‑art fidelity across diverse datasets and offers an open‑source benchmark for future research.",
+    "significance": "It establishes a scalable, open‑source pipeline that improves control over diffusion models, bridging the gap between content fidelity and style transfer.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "094baba635b7a80b40d161353810fb38",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20504v1",
+    "arxiv_id": "2606.20504v1",
+    "title": "Entropy Estimation in Multi-Qutrit Systems via Variational and Classical Neural Networks",
+    "authors": [
+      "Sai Sakunthala Guddanti",
+      "Anil Prabhakar",
+      "Ria Rushin Joseph"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Estimating von Neumann Entropy in Multi-Qutrit Systems with Variational and Classical Neural Networks",
+    "tldr": "We compare variational quantum algorithms and classical CNNs for estimating von Neumann entropy in up to three qutrits, demonstrating that hardware-efficient SU(3)-inspired ansatzes achieve accurate results on an ideal simulator. The study provides a benchmark for future noisy implementations and highlights the complementary strengths of quantum and classical approaches.",
+    "significance": "This work establishes a systematic benchmark for entropy estimation in multi-qutrit systems, informing both quantum algorithm design and classical machine learning strategies.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "76cd1abe2c58496a28ae984bb992b3a0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.20503v1",
+    "arxiv_id": "2606.20503v1",
+    "title": "General circuit mapping algorithm for neutral atom quantum computers",
+    "authors": [
+      "Neven Gentil",
+      "Lous S. Rianne",
+      "Aida Todri-Sanial"
+    ],
+    "published": "2026-06-18",
+    "curated_at": "2026-06-22",
+    "headline": "Graph-Theoretic Circuit Mapping Algorithm Enhances Neutral Atom Quantum Computer Performance",
+    "tldr": "We introduce a graph-theoretic framework that maps quantum circuits onto neutral atom architectures without relying on specific circuit structures. This approach optimizes qubit movement, reducing overhead and improving scalability.",
+    "significance": "By decoupling compilation from circuit specifics, the method accelerates deployment of complex quantum algorithms on scalable neutral atom platforms.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "636caa556ed045ab6b86bd9277dd2ebc",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.20546v1",
@@ -1113,318 +1424,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "5b7daa3e4f00917b9d1ddbb8082c3d7b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.19329v1",
-    "arxiv_id": "2606.19329v1",
-    "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
-    "authors": [
-      "V. Samuel Pérez-Díaz",
-      "Vinay L. Kashyap",
-      "Joshua D. Ingram"
-    ],
-    "published": "2026-06-17",
-    "curated_at": "2026-06-18",
-    "headline": "Machine Learning Resolves Ambiguous Gaia Matches to Chandra X-ray Sources",
-    "tldr": "We develop a machine-learning framework that uses photometric and astrometric properties to cross-match Chandra X-ray sources with Gaia DR3 counterparts, outperforming spatial-only methods. The model identifies true matches, flags chance coincidences, and resolves multiple candidate ambiguities, providing a robust training set for future catalogs.",
-    "significance": "This approach enhances the reliability of multi-wavelength astronomical catalogs, enabling more accurate studies of X-ray emitting objects.",
-    "tags": [
-      "object-detection",
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "841b1c42aa1f9b696b0a184e4f7bb20a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.19328v1",
-    "arxiv_id": "2606.19328v1",
-    "title": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
-    "authors": [
-      "Mohamed Nabail",
-      "Leo Cheng",
-      "Jingmin Wang"
-    ],
-    "published": "2026-06-17",
-    "curated_at": "2026-06-18",
-    "headline": "Active Exploration Improves Sample Efficiency for Robust Preference-Based Reinforcement Learning",
-    "tldr": "The paper proposes a model-based framework that actively guides exploration in preference-based RL, using pairwise behavior comparisons to learn reward models. This approach significantly boosts sample efficiency, especially in early learning stages, by jointly reasoning about exploration and preference signals.",
-    "significance": "By actively directing exploration, the method addresses the sample inefficiency that hampers current passive preference-based RL, enabling faster and more reliable reward learning.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c45abd94c22e22ff7b8152cb06e0fd9a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.19327v1",
-    "arxiv_id": "2606.19327v1",
-    "title": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
-    "authors": [
-      "Siyi Gu",
-      "Jialin Chen",
-      "Sophia Zhou"
-    ],
-    "published": "2026-06-17",
-    "curated_at": "2026-06-18",
-    "headline": "Rubric-Conditioned Self-Distillation Enhances Reasoning in Large Language Models without Costly Chain-of-Thought Annotations",
-    "tldr": "The paper introduces a self-distillation framework that conditions on rubric-based quality metrics, enabling large language models to learn reasoning skills without relying on expensive chain-of-thought annotations. Experiments show improved accuracy and robustness compared to traditional supervised distillation and reinforcement learning approaches.",
-    "significance": "By eliminating the need for costly, noisy chain-of-thought data, this method offers a scalable path to more reliable reasoning in LLMs.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "029a8fa01e0d514218c17cbbdeb2e0ee",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18251v1",
-    "arxiv_id": "2606.18251v1",
-    "title": "Superconductivity from interband coupling to ferroelectric quantum critical fluctuations in two dimensions",
-    "authors": [
-      "Sudip Kumar Saha",
-      "Jonathan Ruhman",
-      "Avraham Klein"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "Interband Coupling Drives Superconductivity Near 2D Ferroelectric Quantum Criticality",
-    "tldr": "The study shows that transverse ferroelectric fluctuations, usually weakly coupled to electrons, can enhance superconductivity via interband interactions in two dimensions. This mechanism explains the observed superconducting dome around ferroelectric transitions in several materials.",
-    "significance": "It resolves the long-standing puzzle of how ferroelectric criticality boosts superconductivity despite suppressed density–density coupling.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3dd3f09cd7de5c5f23be29bafab3d62a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18250v1",
-    "arxiv_id": "2606.18250v1",
-    "title": "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
-    "authors": [
-      "Nils Morbitzer",
-      "Jonathan Evers",
-      "Artem Savkin"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "Dynamic 3D Reconstruction: Disentangled Ego-Motion for Accurate Autonomous World Modeling",
-    "tldr": "The paper introduces FR3D, a 3D world model that separates ego‑motion from environmental dynamics to improve physical consistency in long‑term predictions. By disentangling these components, FR3D reduces artifacts like morphing or vanishing objects, enabling more reliable forecasting for autonomous agents.",
-    "significance": "FR3D advances autonomous navigation by providing a physically consistent, long‑horizon 3D world model that mitigates common generative model artifacts.",
-    "tags": [
-      "foundation-models",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0971786c456058a385530b6441caddac",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18249v1",
-    "arxiv_id": "2606.18249v1",
-    "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
-    "authors": [
-      "Wujian Peng",
-      "Lingchen Meng",
-      "Yuxuan Cai"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "Unified Multimodal Autoregressive Model Bridges Visual Tokenization Gap for Integrated Understanding and Generation",
-    "tldr": "We present UniAR, a unified autoregressive framework that uses a single discrete visual tokenizer to unify multimodal understanding and generation. By eliminating separate visual tokenizers, UniAR achieves more coherent cross-modal representations and improved performance across vision-language tasks.",
-    "significance": "UniAR demonstrates that a shared visual tokenizer can unify multimodal modeling, simplifying architecture and boosting cross-modal performance.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f0060b58ed5a44c35d61f5d6e662eef0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18247v1",
-    "arxiv_id": "2606.18247v1",
-    "title": "Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
-    "authors": [
-      "Mingtong Zhang",
-      "Dhruv Shah"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "VERITAS: Real-Time Generator-Verifier Framework for Autonomous Robot Policy Steering and Self-Improvement",
-    "tldr": "VERITAS introduces a generator-verifier architecture that lets pre-trained generalist robot policies steer themselves at inference time and learn from real-world feedback. By pairing a policy generator with a verifier that evaluates actions, robots can autonomously refine their behavior without external supervision.",
-    "significance": "This approach enables robots to continuously improve performance in dynamic environments, reducing the need for costly retraining and expanding the applicability of generalist policies.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5946cf43920000f544476d075177e087",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18246v1",
-    "arxiv_id": "2606.18246v1",
-    "title": "Variable-Width Transformers",
-    "authors": [
-      "Zhaofeng Wu",
-      "Oliver Sieberling",
-      "Shawn Tan"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "Variable-Width Transformers: Uneven Layer Capacity Boosts Language Model Efficiency and Performance",
-    "tldr": "This study explores allocating variable width across transformer layers, showing that nonuniform capacity improves performance while reducing parameters. Empirical results suggest deeper layers benefit from wider widths, while shallow layers can be narrower without loss.",
-    "significance": "It demonstrates that tailoring layer width can yield more efficient and powerful language models, challenging the conventional uniform design.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "aa808da3ec6790608bdb23887dd20a1a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18244v1",
-    "arxiv_id": "2606.18244v1",
-    "title": "PAHSPECS: Spatially Resolved PAH Spectroscopy at cosmic noon with JWST MIRI MRS",
-    "authors": [
-      "Fergus R. Donnan",
-      "Karin Sandstrom",
-      "Irene Shivaei"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "JWST MIRI MRS Reveals Spatially Resolved PAH Emission in z~1.1 Galaxies",
-    "tldr": "Using JWST/MIRI MRS, the PAHSPECS program maps PAH features in star‑forming galaxies at cosmic noon. Forward modeling of data cubes with non‑parametric spatial distributions and PSF convolution recovers detailed PAH emission profiles.",
-    "significance": "This work demonstrates a new technique for extracting spatially resolved PAH spectra from JWST data, advancing our understanding of galaxy evolution at z~1.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "615bf5d9720a00c60ee0666866066541",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18243v1",
-    "arxiv_id": "2606.18243v1",
-    "title": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
-    "authors": [
-      "Jiye Lee",
-      "Yonghun Choi",
-      "Jungdam Won"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "MOCHI: Enhancing Motion in Collaborative Human-Object Interactions for Real-Time Data Acquisition and Modeling",
-    "tldr": "MOCHI presents a framework for capturing and enhancing motion data in collaborative human-object interactions, addressing the challenges of dynamic, multi-participant scenarios. By integrating high-fidelity sensing and continuous adjustment modeling, it enables more accurate anticipation and coordination among participants and shared objects.",
-    "significance": "It advances the ability to model complex collaborative interactions, improving applications in robotics, AR, and human-robot teaming.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f2d82bd8c81e459229d234dc607f0925",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18242v1",
-    "arxiv_id": "2606.18242v1",
-    "title": "EventDrive: Event Cameras for Vision-Language Driving Intelligence",
-    "authors": [
-      "Dongyue Lu",
-      "Rong Li",
-      "Ao Liang"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "Event Cameras Boost Vision‑Language Driving AI with Ultra‑Fast, High‑Dynamic Range Perception",
-    "tldr": "Event cameras capture asynchronous brightness changes with microsecond latency, providing motion fidelity beyond frame‑based sensors. This enables robust perception in challenging driving scenarios like blur, glare, and rapid motion, enhancing vision‑language models for autonomous driving.",
-    "significance": "By integrating event data, autonomous systems can achieve more reliable, real‑time understanding of dynamic environments, improving safety and performance.",
-    "tags": [
-      "object-detection",
-      "time-series",
-      "real-time",
-      "urban-AI"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a315c81dd389ba1dad1e02d21185fe57",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18239v1",
-    "arxiv_id": "2606.18239v1",
-    "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
-    "authors": [
-      "Ning Gao",
-      "Jinliang Zheng",
-      "Xing Gao"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "EBench: A New Benchmark Diagnosing Generalist Mobile Manipulation Policies Performance",
-    "tldr": "EBench introduces a comprehensive simulation benchmark with 26 tasks across five capability dimensions and four generalization dimensions to evaluate generalist mobile manipulation models. The study reveals significant performance gaps among state-of-the-art models such as π0, XVLA, and InternVLA-A1.",
-    "significance": "EBench provides a nuanced, multi-dimensional evaluation framework that moves beyond simple success rates, enabling deeper insights into the strengths and weaknesses of generalist manipulation policies.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "342797432004a57c90786e696b47d59f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.18237v1",
-    "arxiv_id": "2606.18237v1",
-    "title": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
-    "authors": [
-      "Shanda Li",
-      "Qiuhong Anna Wei",
-      "Jingwu Tang"
-    ],
-    "published": "2026-06-16",
-    "curated_at": "2026-06-17",
-    "headline": "ReproRepo: Scalable Reproducibility Audits via GitHub Issues",
-    "tldr": "ReproRepo automates reproducibility audits by leveraging GitHub repository issues, reducing manual curation. It offers a scalable benchmark for evaluating LLM agents in reproducing research results.",
-    "significance": "By streamlining reproducibility checks, ReproRepo accelerates scientific validation and fosters trust in computational research.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
