@@ -1,5 +1,290 @@
 [
   {
+    "uid": "b9065304bbff7add89a4a94be7e3e8b1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24888v1",
+    "arxiv_id": "2606.24888v1",
+    "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
+    "authors": [
+      "Xingjian Leng",
+      "Jaskirat Singh",
+      "Zhanhao Liang"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "DiffusionBench: A Holistic Benchmark for Diffusion Transformers Beyond ImageNet",
+    "tldr": "DiffusionBench introduces a comprehensive evaluation framework for diffusion transformers, extending beyond the standard class‑conditional ImageNet setup to include text‑to‑image tasks and diverse metrics. The benchmark aims to reveal true progress in generative modeling by assessing models on multiple realistic scenarios.",
+    "significance": "By providing a more realistic and multi‑faceted evaluation, DiffusionBench helps researchers gauge genuine advances in diffusion transformer capabilities rather than overfitting to a single metric.",
+    "tags": [
+      "diffusion-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8041157d72ac72ebe6915e64e584a767",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24886v1",
+    "arxiv_id": "2606.24886v1",
+    "title": "The Topology of the Universe",
+    "authors": [
+      "Craig J. Copi",
+      "Deyan P. Mihaylov",
+      "Anna Negro"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "Unveiling the Universe’s Shape: How Cosmic Topology Could Reveal a Finite Cosmos",
+    "tldr": "Scientists are investigating whether the universe is finite by searching for patterns in the cosmic microwave background and the distribution of galaxies. A small-scale non-trivial topology would leave detectable signatures that could challenge the assumption of infinite, homogeneous space.",
+    "significance": "Discovering a finite topology would reshape our understanding of cosmology and the fundamental geometry of the universe.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5f126790574c15774bcddfa2d926c77a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24885v1",
+    "arxiv_id": "2606.24885v1",
+    "title": "Sonus Health: Calibrated Heart-Murmur Detection from Smartphone-Based Veterinary Auscultation",
+    "authors": [
+      "Aswin Jose",
+      "Roeland P-J E. Decorte",
+      "Laurent Locquet"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "Smartphone Detects Dog Heart Murmurs Early with Sonus Health",
+    "tldr": "Sonus Health uses a smartphone app to capture and analyze heart sounds in dogs and cats, enabling early detection of murmurs. The system offers real-time, calibrated results that can be shared with veterinarians for prompt diagnosis.",
+    "significance": "This technology empowers veterinarians to catch heart disease earlier, improving outcomes for pets.",
+    "tags": [
+      "remote-sensing",
+      "time-series",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "88d8a358b45b903b5b180a67ed98c1ae",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24884v1",
+    "arxiv_id": "2606.24884v1",
+    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+    "authors": [
+      "Maggie Wang",
+      "Lars Osterberg",
+      "Stephen Tian"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "InSight: Autonomous Skill Learning with Steerable Vision-Language-Action Models",
+    "tldr": "InSight enables vision-language-action models to autonomously acquire manipulation skills by allowing users to steer primitive actions such as moving a gripper or pouring. The framework splits learning into two stages: a skill extraction phase and a steerable action execution phase, unlocking capabilities beyond the training data.",
+    "significance": "By decoupling skill acquisition from fixed training data, InSight expands the applicability of VLAs to novel tasks in real-world robotics.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3034686e77c28bf47ae0c73908c28565",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24883v1",
+    "arxiv_id": "2606.24883v1",
+    "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
+    "authors": [
+      "Qi Chen",
+      "Wenxuan Li",
+      "Pedro R. A. S. Bassi"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "BenchX Reveals How Demographic and Protocol Biases Skew AI Cancer Detection Accuracy",
+    "tldr": "BenchX is a new benchmark that evaluates AI models for cancer detection and localization across diverse patient demographics and imaging protocols. The study shows that model performance drops significantly when applied to underrepresented groups or non-standard imaging phases.",
+    "significance": "Understanding and mitigating these biases is essential for deploying reliable AI diagnostics in real-world clinical settings.",
+    "tags": [
+      "benchmark",
+      "segmentation",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b9b059d91ed99ba4dd8cfd0b5b6c8e70",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24881v1",
+    "arxiv_id": "2606.24881v1",
+    "title": "Queues with Correlated Service Times -- the $M/M_D/c$ Model",
+    "authors": [
+      "Qihui Bu",
+      "Suman Thapa",
+      "Yiqiang Q. Zhao"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "Analyzing Multi-Server Queues with Correlated Service Times Using the M/M_D/c Model",
+    "tldr": "This paper extends classic M/M/c queueing theory by incorporating correlated service times via the Marshall–Olkin multivariate exponential distribution. The resulting M/M_D/c model provides new insights into system performance and potential applications in real-time service systems.",
+    "significance": "It offers a tractable framework for analyzing correlated service dynamics, improving accuracy in performance evaluation for multi-server systems.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b01c52105a62e0a53bcb03a8d8711b0b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24876v1",
+    "arxiv_id": "2606.24876v1",
+    "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
+    "authors": [
+      "Orest Kupyn",
+      "Goutam Bhat",
+      "Philipp Henzler"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "FLAT: Feedforward Latent Triangle Splatting for Accurate 3D Scene Generation",
+    "tldr": "FLAT introduces a feedforward decoder that splats latent triangles to produce geometrically precise 3D scenes from a single image, surpassing prior volumetric Gaussian approaches. The method leverages diffusion models’ latent space while enabling real‑time, explorable scene rendering.",
+    "significance": "It bridges the gap between high‑quality generative diffusion models and accurate geometric representations, enabling practical applications in virtual exploration and downstream vision tasks.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9974676515e5f43a61b65f72f1b80f54",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24874v1",
+    "arxiv_id": "2606.24874v1",
+    "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+    "authors": [
+      "Haorui Ji",
+      "Weizhe Liu",
+      "Hongdong Li"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "FLUX3D: Diffusion-Driven Sparse Voxel Approach for High-Fidelity 3D Gaussian Splatting",
+    "tldr": "FLUX3D introduces a diffusion-aligned sparse voxel representation that preserves high-frequency visual details in 3D Gaussian Splatting. By integrating diffusion models with voxel-based latent construction, the method achieves higher fidelity reconstructions compared to prior discriminative 2D feature approaches.",
+    "significance": "The approach enables scalable, high-fidelity 3D scene generation from images, advancing realistic rendering and virtual environment creation.",
+    "tags": [
+      "diffusion-models",
+      "point-cloud",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d96a25bfe30f2c01aa7bcb5cc2c291b0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24871v1",
+    "arxiv_id": "2606.24871v1",
+    "title": "Sequential Probability Ratio Test using Z-Statistics (SPRT-z): A Practical Approach for Online Experimentation",
+    "authors": [
+      "Derek L. Ho",
+      "Emma G. Thomas"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "SPRT-z: A Practical Sequential Test for Real-Time Online Experiments",
+    "tldr": "Sequential Probability Ratio Test using Z-statistics (SPRT-z) lets practitioners stop experiments early for efficacy or futility while maintaining Type I error control. It offers a simple, online-friendly alternative to fixed-horizon testing that mitigates peeking bias.",
+    "significance": "SPRT-z improves decision quality in continuous data streams by enabling early stopping without inflating false positives.",
+    "tags": [
+      "open-source",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dfdcee4182477864945defc8699d721b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24870v1",
+    "arxiv_id": "2606.24870v1",
+    "title": "\"Zooming In\" on Agentic Web Browsers as Assistive Technologies: A Case Study with a Low-Vision Technology Expert",
+    "authors": [
+      "Laura Colazzo",
+      "Giuseppe Anzillotti"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "Agentic Web Browsers: Empowering Low-Vision Users Through Conversational Web Navigation",
+    "tldr": "Agentic Web Browsers (AWBs) use large language models to autonomously navigate the web, offering a conversational interface for users. In this case study, we demonstrate how AWBs can serve as assistive technology for low-vision individuals, improving accessibility and productivity.",
+    "significance": "This work shows that AWBs can transform web interaction into an accessible, conversational experience for visually impaired users, highlighting their potential as scalable assistive technologies.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0a264b52ca6fb4b53a459c7ec781fead",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24868v1",
+    "arxiv_id": "2606.24868v1",
+    "title": "Exploring Gravitational Wave Signatures Due to Primordial Non-gaussianity and Large Scale Structure Using SKAO",
+    "authors": [
+      "H. V. Ragavendra",
+      "Giulia Capurri",
+      "Alina Mierna"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "Probing Primordial Non-Gaussianity with SKAO's Gravitational Wave Background in the Early Universe",
+    "tldr": "This chapter outlines how scalar-induced gravitational waves detectable by SKAO can reveal primordial non‑Gaussianity and large‑scale structure. By modeling the stochastic background, we show its sensitivity to small‑scale physics beyond current CMB limits.",
+    "significance": "It offers a novel, high‑precision probe of early‑universe physics inaccessible to traditional cosmological observations.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8554b72637b4acac82ddd69d771c8cfa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.24867v1",
+    "arxiv_id": "2606.24867v1",
+    "title": "Bounds for Standard Errors in Combined Data",
+    "authors": [
+      "Jooyoung Cha",
+      "Yuya Sasaki",
+      "Nelson Matthew P. Tan"
+    ],
+    "published": "2026-06-23",
+    "curated_at": "2026-06-24",
+    "headline": "Bounding Standard Errors Across Samples Using Geometric Inequalities for Robust Parameter Estimation",
+    "tldr": "We derive sharp lower bounds on standard errors for parameters estimated from moment conditions across multiple samples, even without correlation information. Our computationally efficient bounds extend to settings with partial correlation knowledge, enabling more reliable inference.",
+    "significance": "These bounds provide practitioners with guaranteed error estimates, improving confidence in multi-sample statistical analyses.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "c83eeb1b41a210708ef49ee2e663ea45",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.23689v1",
@@ -1140,287 +1425,6 @@
     "tags": [
       "open-source",
       "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "72ea971cd27e3e7c4b52558132fe7c49",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20534v1",
-    "arxiv_id": "2606.20534v1",
-    "title": "On Second-Order Methods for Bilevel Optimization",
-    "authors": [
-      "Jiawen Bi",
-      "Jiaxiang Li",
-      "Mingyi Hong"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Second-Order Techniques for Bilevel Optimization: Challenges and Emerging Algorithms in Machine Learning",
-    "tldr": "Bilevel optimization, essential for modern ML and engineering, faces unresolved issues in finding second-order stationary points, especially when the lower-level problem is strongly convex yet the induced hyperfunction remains nonconvex. Recent research explores cubic regularization and other second-order methods to navigate these challenges, offering promising but still nascent solutions.",
-    "significance": "Understanding second-order behavior in bilevel problems is crucial for designing efficient algorithms that can reliably optimize complex hierarchical models in AI and engineering.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "af9d29ececb88ec809313827f069024a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20562v1",
-    "arxiv_id": "2606.20562v1",
-    "title": "MemoryWAM: Efficient World Action Modeling with Persistent Memory",
-    "authors": [
-      "Sizhe Yang",
-      "Juncheng Mu",
-      "Tianming Wei"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "MemoryWAM: Persistent Memory for Efficient World Action Modeling in Robotics",
-    "tldr": "MemoryWAM introduces a persistent memory module that enhances world action models by integrating historical observations, enabling more accurate visual foresight and action planning for robotic manipulation. The approach achieves state‑of‑the‑art performance while remaining computationally efficient for real‑time deployment.",
-    "significance": "By combining persistent memory with visual foresight, MemoryWAM advances robotic manipulation toward more reliable and context‑aware decision making in dynamic environments.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cd2838df7f5e6696b57bb6e488f2f8f5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20561v1",
-    "arxiv_id": "2606.20561v1",
-    "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
-    "authors": [
-      "Arkaprava Sinha",
-      "Dominick Reilly",
-      "Siddharth Krishnan"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "TimeProVe: Propose-then-Verify for Efficient Long-Video Temporal Reasoning in Daily Activities",
-    "tldr": "TimeProVe introduces a two-stage approach that first proposes candidate evidence segments and then verifies them, drastically reducing computational load for long video QA. By focusing on sparse, motion-centric cues, it outperforms dense VLM methods while maintaining high accuracy on activities of daily living.",
-    "significance": "This method enables scalable, real-time reasoning over hours-long videos, opening new possibilities for assistive tech and surveillance.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3628438212db5c1cfffb5995a2323f5f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20560v1",
-    "arxiv_id": "2606.20560v1",
-    "title": "How Transparent is DiffusionGemma?",
-    "authors": [
-      "Joshua Engels",
-      "Callum McDougall",
-      "Bilal Chughtai"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "Assessing Transparency in DiffusionGemma’s Latent Space Reasoning for Generative Models",
-    "tldr": "We examine whether DiffusionGemma’s reliance on continuous latent space reduces LLM reasoning transparency. By decomposing transparency into variable and structural components, we find that while latent operations obscure intermediate steps, the model still offers interpretable guidance through attention maps and prompt embeddings.",
-    "significance": "Understanding transparency in diffusion models informs safer deployment and debugging of generative AI.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "98ccccc1bf352d8de24eb3ec01bb2677",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20559v1",
-    "arxiv_id": "2606.20559v1",
-    "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
-    "authors": [
-      "Wenhao Chi",
-      "Arkaprava Sinha",
-      "Dominick Reilly"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "Unified Egocentric Video Representation via Proxy-Mediated Foundation Models",
-    "tldr": "UNIEGO proposes using proxy models to fuse multiple viewpoints, modalities, and foundation model outputs into a single egocentric representation. This approach aims to capture richer human action while remaining deployable on wearable devices.",
-    "significance": "It bridges the gap between limited egocentric perspectives and comprehensive action understanding by leveraging multimodal foundation models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3ced04775b22b71a294d417fd947633f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20558v1",
-    "arxiv_id": "2606.20558v1",
-    "title": "Observation of electroweak production of pairs of Z bosons in proton-proton collisions at 13 TeV",
-    "authors": [
-      "CMS Collaboration"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "CMS Discovers Electroweak Production of Z Boson Pairs with Two Jets at 13 TeV",
-    "tldr": "The CMS experiment observed electroweak production of ZZ pairs accompanied by two jets in proton‑proton collisions at 13 TeV, using 138 fb⁻¹ of data. This marks the first evidence of such a process, confirming predictions of the Standard Model.",
-    "significance": "This observation provides a crucial test of electroweak interactions and validates the Standard Model’s predictions for vector boson scattering.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "978341510a7490dc36ddd9307af9793b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20557v1",
-    "arxiv_id": "2606.20557v1",
-    "title": "Optimal Deterministic Multicalibration and Omniprediction",
-    "authors": [
-      "Georgy Noarov",
-      "Aaron Roth"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "Deterministic Multicalibration Achieves Minimax-Optimal Accuracy and Omniprediction for Machine Learning Models",
-    "tldr": "The authors present a deterministic algorithm that guarantees multicalibration across any set of group weights while achieving the minimax-optimal error rate. This result also yields omniprediction, enabling the model to perform optimally under any loss function.",
-    "significance": "It resolves a long-standing open problem, showing that deterministic multicalibration can be achieved without sacrificing statistical efficiency.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2d07d6117d34acf72ee945d0527dd8cd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20554v1",
-    "arxiv_id": "2606.20554v1",
-    "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
-    "authors": [
-      "Ruizhong Qiu",
-      "Yinglong Xia",
-      "Dongqi Fu"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
-    "tldr": "This paper introduces a novel framework for organizing and tokenizing complex user-behavior data to enhance generative recommendation systems. By bridging item semantics with advanced tokenization techniques, it improves the model’s ability to predict next user interactions.",
-    "significance": "It offers a scalable approach to integrate rich user context into generative recommendation models, potentially boosting recommendation accuracy in real-world applications.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e1c0e0f0729ccf31b60a8a0e801e21fe",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20553v1",
-    "arxiv_id": "2606.20553v1",
-    "title": "From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning",
-    "authors": [
-      "Shanghao Shi",
-      "Chaoyu Zhang",
-      "Heng Jin"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "Privacy Backdoor Exposed in Federated Language Model Fine‑Tuning with Parameter‑Efficient Adaptation",
-    "tldr": "The study demonstrates that federated fine‑tuning of language models using adapters can inadvertently leak sensitive information, creating a privacy backdoor. By analyzing the adapter updates, the authors show how malicious participants can embed hidden triggers that compromise data confidentiality.",
-    "significance": "This work highlights a critical vulnerability in widely adopted federated PEFT workflows, urging the community to develop robust privacy safeguards.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "303dbeb66a14c27294902c791b7f8373",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20551v1",
-    "arxiv_id": "2606.20551v1",
-    "title": "Benchmark of quantum algorithms for ground state preparation in the presence of noise",
-    "authors": [
-      "Daniel Molpeceres",
-      "Sirui Lu",
-      "J. Ignacio Cirac"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "Benchmarking Quantum Ground-State Algorithms Under Noise",
-    "tldr": "We evaluate cooling, adiabatic, and optimization methods for preparing ground states in noisy quantum systems, deriving scaling laws and validating with simulations. The results guide algorithm selection for realistic quantum hardware.",
-    "significance": "This study provides critical insights into the robustness of quantum algorithms for practical noisy hardware.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b888d7689187128f6969c5a4d9cd17fe",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20548v1",
-    "arxiv_id": "2606.20548v1",
-    "title": "Topological Codes Based on Space Groups",
-    "authors": [
-      "Chong-Yuan Xu",
-      "Ze-Chuan Liu",
-      "Yong Xu"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "Space-Group Codes: Extending Topological Quantum Codes Beyond Translation Invariance for Quantum Error Correction",
-    "tldr": "Topological stabilizer codes usually rely on translation symmetry, but this work introduces space-group codes that incorporate point group operations. The construction yields CSS codes that maintain topological protection while allowing richer symmetry structures.",
-    "significance": "This expands the design space of fault-tolerant quantum codes, potentially enabling more flexible hardware implementations.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1322a84a9ae8bac25b120d9cff04e605",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20547v1",
-    "arxiv_id": "2606.20547v1",
-    "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
-    "authors": [
-      "Przemyslaw Musialski"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-19",
-    "headline": "Lie‑Algebra Attention: Tokens as Bare Matrix Group Elements",
-    "tldr": "This paper introduces an attention mechanism where tokens are pure matrix Lie group elements, eliminating feature payloads and learned kernels. The attention score is computed as the closed‑form algebra norm of the relative pose, offering a principled, geometry‑aware alternative to conventional attention.",
-    "significance": "It provides the first attention framework that treats tokens as fundamental group elements, potentially improving spatial reasoning in geometric deep learning.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning"
     ],
     "readtime": 3,
     "difficulty": "advanced"
