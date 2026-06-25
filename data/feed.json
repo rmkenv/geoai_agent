@@ -1,5 +1,268 @@
 [
   {
+    "uid": "a1745e23d33aec5bbae684a3c8df870e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26098v1",
+    "arxiv_id": "2606.26098v1",
+    "title": "A Population of Little Red Dot-like Quasars in SDSS",
+    "authors": [
+      "Quinn O. Casey",
+      "Ryan C. Hickox",
+      "Nikko J. Cleri"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "Unveiling Little Red Dots: Compact, Red Quasars at High Redshift",
+    "tldr": "Little Red Dots (LRDs) are compact, red quasars at z~5 discovered by JWST, exhibiting broad Balmer lines, weak X-rays, and SEDs that defy standard stellar or AGN models. Studying local analogs can shed light on their unusual physical processes and the early universe's quasar population.",
+    "significance": "These findings challenge conventional quasar classification and suggest a previously unrecognized population of red, X-ray faint quasars in the early universe.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "01406f536492f83bd75a8b814c85b4ed",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26096v1",
+    "arxiv_id": "2606.26096v1",
+    "title": "Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators",
+    "authors": [
+      "Niclas Heinsdorf",
+      "Ken Shiozaki"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "Exploring Higher Berry Curvature and Second Chern Numbers in 4D Chern Insulators",
+    "tldr": "We reformulate a 4D Chern insulator as translationally invariant chains over the 3D Brillouin zone and compute its higher Berry curvature using infinite MPS. The resulting DDKS number maps the topological phase diagram of the model.",
+    "significance": "This work provides a computational framework for probing higher-dimensional topological invariants in crystalline systems, bridging theory and numerical simulation.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "676f20e6b67f16016b4777fba0cb63b9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26095v1",
+    "arxiv_id": "2606.26095v1",
+    "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+    "authors": [
+      "Dong Jing",
+      "Tianqi Zhang",
+      "Jiaqi Liu"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "Learning Integrating Action Priors into Vision-Language Models for Cross-Embodiment Robots",
+    "tldr": "Vision-Language-Action models often rely on VLM backbones, but their action modules learn motion from scratch, lacking motion priors. This paper proposes learning explicit action priors to improve cross-embodiment robot manipulation.",
+    "significance": "By embedding motion priors, the approach accelerates learning and enhances generalization across different robot embodiments.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a4bde5d128ff60c03932f3b9623cab38",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26094v1",
+    "arxiv_id": "2606.26094v1",
+    "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+    "authors": [
+      "Babak Rahmani",
+      "Sebastian Dziadzio",
+      "Joschka Strüber"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "Reverse Engineering Agent Code from Game Behavior",
+    "tldr": "RevengeBench tests whether models can infer an agent’s underlying code solely from observed gameplay, revealing current limitations in program synthesis from behavioral data.",
+    "significance": "It bridges behavioral analysis and executable code reconstruction, advancing AI interpretability and program synthesis.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0288a51c30a5e4d0ddeedde63968e7c2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26093v1",
+    "arxiv_id": "2606.26093v1",
+    "title": "ForceBand: Learning Forceful Manipulation with sEMG",
+    "authors": [
+      "Botao He",
+      "Zhi Wang",
+      "Linna Kuang"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "ForceBand: Low-Cost sEMG Wristband for Forceful Robot Manipulation",
+    "tldr": "Human demonstration data often lacks force information, limiting robot learning of force-sensitive tasks. ForceBand provides a low-cost wrist-worn sEMG system that captures muscle activity in real time, enabling robots to learn from forceful manipulation demonstrations.",
+    "significance": "By adding force sensing to motion-only demonstrations, ForceBand enables more robust and realistic robot manipulation learning.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fa620325ce921e1ceb8df5d0da17ed4b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26091v1",
+    "arxiv_id": "2606.26091v1",
+    "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+    "authors": [
+      "Andrei Liviu Nicolicioiu",
+      "Mohammad Pezeshki",
+      "Aaron Courville"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "On-Policy Self-Distillation Boosts Accuracy but Lowers Output Diversity in LLMs",
+    "tldr": "Using a single model as both teacher and student, on-policy self-distillation achieves high pass@1 accuracy by conditioning on correct demonstrations. However, this approach reduces rollout diversity and flattens pass@k curves, limiting gains from additional rollouts.",
+    "significance": "It highlights a trade-off between accuracy and diversity in self-distillation, informing future LLM training strategies.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d0b68f4deda29ffa28b30d18fd102054",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26089v1",
+    "arxiv_id": "2606.26089v1",
+    "title": "Parnassus: A GPU-enabled, Python-based Package for Fast Particle Detector Simulation and Reconstruction",
+    "authors": [
+      "Abdelrahman Elabd",
+      "Eilam Gross",
+      "Dmitrii Kobylianskii"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "GPU-Accelerated Particle Detector Simulation with Parnassus: Fast, Python-Based Framework for Physics Research",
+    "tldr": "Parnassus is a Python/PyTorch framework that runs on GPUs to accelerate particle detector simulation and reconstruction. It replaces costly Geant4 chains with neural or parametric models, enabling rapid, user-friendly workflows for physics experiments.",
+    "significance": "By dramatically reducing simulation time, Parnassus empowers physicists to iterate designs and analyze data faster, accelerating research in high-energy and nuclear physics.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 1,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d1d3db265467cfad3ffb5787ba23cf02",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26088v1",
+    "arxiv_id": "2606.26088v1",
+    "title": "Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography",
+    "authors": [
+      "Saleha Maqsood",
+      "Muhammad Kamran",
+      "Tahir Malik"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "Simulating Universal Quantum Gates on Photonic OAM Qubits Using SLM Phase Holography",
+    "tldr": "We present a detailed simulation framework for implementing universal quantum gates on orbital angular momentum qubits encoded in Laguerre-Gaussian beams, leveraging spatial light modulators for programmable phase holography. The study includes hardware-grounded fidelity benchmarks and demonstrates both single- and multi-qubit operations with realistic error models.",
+    "significance": "This work bridges photonic quantum information processing and reconfigurable optical hardware, enabling scalable, high-fidelity quantum gate operations in a software-defined platform.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "cf8fcc87065c58bd5e87ad72fa115611",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26087v1",
+    "arxiv_id": "2606.26087v1",
+    "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+    "authors": [
+      "JoungBin Lee",
+      "Jaewoo Jung",
+      "Jongmin Lee"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "Multi-View Point Tracking Enhances 4D Video Generation from Monocular Input",
+    "tldr": "The paper introduces MVTrack4Gen, a framework that uses multi-view point tracking as geometric supervision to synthesize novel-view 4D videos from a single reference video. It overcomes the inaccuracies of traditional 3D reconstruction, achieving better geometric consistency and motion fidelity.",
+    "significance": "It offers a robust alternative to explicit 3D reconstruction for dynamic scenes, enabling higher fidelity novel-view video synthesis.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7315d29d64b13b817b8703b0ab790abb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26084v1",
+    "arxiv_id": "2606.26084v1",
+    "title": "Operational detection of Wigner negativity in arbitrary quantum states from few copies",
+    "authors": [
+      "Sudip Chakrabarty",
+      "Bivas Mallick",
+      "Ananda G. Maity"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "Detecting Wigner Negativity in Quantum States with Few Copies via Accessible Moments",
+    "tldr": "We present a unified framework that uses experimentally measurable moments of the Wigner function to detect negativity in arbitrary quantum states. The method requires only a modest number of state copies and exploits constraints of positive phase-space distributions.",
+    "significance": "This approach offers a practical, scalable tool for identifying nonclassical resources essential for quantum advantage.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5c0c2ae99b581f26be978dfd2e4b4107",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.26083v1",
+    "arxiv_id": "2606.26083v1",
+    "title": "Real-Time Voice AI Hears but Does Not Listen",
+    "authors": [
+      "Martijn Bartelds",
+      "Federico Bianchi",
+      "James Zou"
+    ],
+    "published": "2026-06-24",
+    "curated_at": "2026-06-25",
+    "headline": "Real‑Time Voice AI Hears Words, Ignores Tone: A Comparative Study",
+    "tldr": "We benchmark four production real‑time voice systems—GPT Realtime 2, Gemini 3.1 Flash Live, Qwen3.5 Omni Plus, and Omni Flash—on tasks that require interpreting both words and vocal delivery. All four systems respond only to the words, failing to capture the nuanced information conveyed by tone and delivery.",
+    "significance": "The findings highlight a critical limitation in current real‑time voice AI, underscoring the need for models that can process paralinguistic cues.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "b9065304bbff7add89a4a94be7e3e8b1",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.24888v1",
@@ -1168,265 +1431,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "763fabdeea7fc70c2fde41b550bc57dd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20555v1",
-    "arxiv_id": "2606.20555v1",
-    "title": "Incorporating physical source parameters into microlensing modeling",
-    "authors": [
-      "Mateusz J. Mróz",
-      "Radosław Poleski",
-      "Andrzej Udalski"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Novel Physical-Parameter Sampling Reduces Xallarap Degeneracies for Binary Microlensing Models",
-    "tldr": "Microlensing event modeling is plagued by degeneracies, especially due to xallarap. Our new method samples source star physical parameters directly, breaking these degeneracies.",
-    "significance": "By directly sampling source star properties, the approach improves the reliability of microlensing mass estimates and exoplanet detections.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "032df2205dd20aa21528d9182fb76cb4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20552v1",
-    "arxiv_id": "2606.20552v1",
-    "title": "On the Renormalization Group Flow of Active Flocks",
-    "authors": [
-      "Kevin T. Grosvenor",
-      "Subodh P. Patil"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Renormalization Group Flow in Malthusian Active Flocks: A Toner–Tu Field-Theoretic Analysis",
-    "tldr": "We develop a renormalization group framework for active flocks described by the Toner–Tu theory, treating density fluctuations as rapidly relaxing variables. Our analysis reveals how momentum non-conservation shapes the scaling behavior and critical properties of polar-ordered active fluids.",
-    "significance": "This work provides a systematic field-theoretic foundation for understanding the universal scaling laws of active matter systems lacking momentum conservation.",
-    "tags": [
-      "diffusion-models",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "04bc9ad57cc438316bb7cc2ad295ce75",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20549v1",
-    "arxiv_id": "2606.20549v1",
-    "title": "Generating Robot Hands from Human Demonstrations",
-    "authors": [
-      "Sha Yi",
-      "Nicklas Hansen",
-      "Xueqian Bai"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Data-Driven Robot Hand Design from Human Demonstrations Using Deep Learning Techniques",
-    "tldr": "The authors present a data-driven framework that generates robot hand designs from human demonstrations. By decoupling design and control, the method reduces the combinatorial search space and enables rapid prototyping.",
-    "significance": "It demonstrates a scalable approach to robot morphology design, accelerating the development of task-specific manipulators.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7096b3d1cb7310925004d95f16643855",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20545v1",
-    "arxiv_id": "2606.20545v1",
-    "title": "Current World Models Lack a Persistent State Core",
-    "authors": [
-      "Jinpeng Lu",
-      "Dexu Zhu",
-      "Haoyuan Shi"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "World Models Need Persistent State to Truly Understand Physical Reality",
-    "tldr": "Current AI world models can generate realistic images but lack an evolving internal state. Without persistent state, they cannot simulate object permanence or event continuity beyond observation.",
-    "significance": "A persistent state core is essential for AI to model real-world dynamics and achieve general intelligence.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b3c0492bf66f6014c85b3452402bddaf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20544v1",
-    "arxiv_id": "2606.20544v1",
-    "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
-    "authors": [
-      "Gina Wong",
-      "Drew Prinster",
-      "Suchi Saria"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Improving Calibration of Mixture-of-Experts Models Under Distribution Shift for Robustness",
-    "tldr": "This work demonstrates that calibrating individual experts in a mixture-of-experts framework can significantly enhance both accuracy and uncertainty estimates, especially when models face distribution shifts. The authors provide empirical evidence and propose techniques to enforce calibration at the expert level, yielding state‑of‑the‑art performance on benchmark datasets.",
-    "significance": "By ensuring reliable uncertainty estimates under distribution shift, this study paves the way for safer deployment of MoE models in real‑world applications.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0e3e776df95653e607bf93ca02c110b6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20543v1",
-    "arxiv_id": "2606.20543v1",
-    "title": "SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation",
-    "authors": [
-      "Shilong Xiang",
-      "Zirui Zhang",
-      "Lijun Yu"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Spatially Speculative Decoding Speeds Autoregressive Image Generation by Preserving 2D Locality",
-    "tldr": "Autoregressive models treat images as 1D token sequences, losing 2D spatial structure and slowing inference. Spatially Speculative Decoding (SSD) restores spatial locality, accelerating generation while maintaining quality.",
-    "significance": "SSD reduces inference bottlenecks in image generation, enabling faster, high‑resolution visual synthesis.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "70fadae74da8aa80c66e3cf05f16a3b3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20542v1",
-    "arxiv_id": "2606.20542v1",
-    "title": "CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation",
-    "authors": [
-      "Ilona Demler",
-      "Xinran Xie",
-      "Blake Werner"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "CalTennis: 11M-Frame Tennis Dataset for Monocular-to-3D Pose Benchmark",
-    "tldr": "CalTennis offers 11 million tennis video frames from 40 players, captured with 2–6 synchronized cameras at 60 Hz, making it 10× larger than existing in‑the‑wild motion datasets. The dataset enables robust evaluation of monocular 3D pose estimation models in real‑world sports scenarios.",
-    "significance": "It provides an unprecedented scale for training and benchmarking 3D pose models in dynamic, real‑world settings.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e3c0f060936dc40e5d235c0ab4b09bed",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20538v1",
-    "arxiv_id": "2606.20538v1",
-    "title": "Multi-Task Bayesian In-Context Learning",
-    "authors": [
-      "Qingyang Zhu",
-      "Eric Karl Oermann",
-      "Kyunghyun Cho"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Multi-Task Bayesian In-Context Learning: Efficient Uncertainty Quantification for Complex Models",
-    "tldr": "This work introduces a scalable Bayesian framework that integrates prior-data fitted models with in-context learning, enabling efficient uncertainty estimation across multiple tasks. The approach balances computational tractability with robust generalization, offering a practical alternative to traditional exact inference methods.",
-    "significance": "It provides a practical, scalable solution for uncertainty quantification in large-scale machine learning systems, bridging the gap between theoretical Bayesian rigor and real-world applicability.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b970c78e6ee472a8318c5668abc79a12",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20537v1",
-    "arxiv_id": "2606.20537v1",
-    "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
-    "authors": [
-      "Liang Su"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Checkpointing Execution State for Low‑Latency On‑Device LLM Serving and Restore",
-    "tldr": "This work introduces Execution‑State Capsules, a graph‑bound checkpoint/restore mechanism that captures all runtime state beyond KV caches, enabling low‑latency, small‑batch on‑device LLM inference without sacrificing throughput. It allows interactive AI agents to resume quickly after interruptions while maintaining performance.",
-    "significance": "It expands efficient prefix reuse beyond KV caches, enabling interactive AI on constrained devices.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0883541f800cd900b309710ba46f3be3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20536v1",
-    "arxiv_id": "2606.20536v1",
-    "title": "The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation",
-    "authors": [
-      "Nicolas Dufour",
-      "Alexei A. Efros",
-      "Patrick Pérez"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Uncovering the FID Lottery: How Randomness Skews Generative Model Scores",
-    "tldr": "The paper treats FID as a random variable across training and sampling seeds, revealing high variance. It shows that a single FID score can be misleading, urging multiple runs for reliable evaluation.",
-    "significance": "It exposes the unreliability of single-point FID reporting, prompting a shift toward robust statistical evaluation in generative modeling.",
-    "tags": [
-      "benchmark",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4c76f1c700f03f6f3550ec6a0a98c6f6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20535v1",
-    "arxiv_id": "2606.20535v1",
-    "title": "Near-Optimal Learning of Local Lindbladians",
-    "authors": [
-      "Itai Arad",
-      "Zhili Chen",
-      "Naixu Guo"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "Efficient Algorithm for Learning Local Lindbladians in Quantum Systems via Classical Shadows",
-    "tldr": "We present a near‑optimal method to estimate all Hamiltonian and dissipative parameters of a local Lindbladian by running short‑time evolutions and reconstructing Pauli transfer matrices with classical shadows. The algorithm achieves optimal sample complexity and runs in polynomial time, enabling efficient characterization of open quantum systems.",
-    "significance": "This work provides the first practical, sample‑optimal technique for fully characterizing local open‑system dynamics, a key step toward scalable quantum device verification.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
