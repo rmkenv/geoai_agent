@@ -1,5 +1,268 @@
 [
   {
+    "uid": "dbde01458de9a89dc431294cbe8d081f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27377v1",
+    "arxiv_id": "2606.27377v1",
+    "title": "DanceOPD: On-Policy Generative Field Distillation",
+    "authors": [
+      "Wei Zhou",
+      "Xiongwei Zhu",
+      "Zelin Xu"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "DanceOPD: Unified Text-to-Image, Local and Global Editing in One Generative Model",
+    "tldr": "DanceOPD introduces an on-policy generative field distillation framework that merges text-to-image generation with local and global editing into a single diffusion model. The approach resolves conflicts between editing modes, achieving high fidelity across diverse tasks without sacrificing performance.",
+    "significance": "It enables seamless composition of multiple editing capabilities in a single model, advancing unified image generation.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "355eb005bff9ee834d8926e2ddb3bcd3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27376v1",
+    "arxiv_id": "2606.27376v1",
+    "title": "Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards",
+    "authors": [
+      "Ritesh Thawkar",
+      "Shravan Venkatraman",
+      "Omkar Thawakar"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "Self‑Evolving LMMs: Autonomous Visual Understanding & Image Generation via Self‑Consistency Rewards",
+    "tldr": "The authors propose a self‑evolving training framework that lets a unified large multimodal model improve both visual understanding and image generation using only unlabeled images. The method relies on self‑consistency rewards to guide the model autonomously without curated supervision.",
+    "significance": "It demonstrates that large multimodal models can self‑improve across perception and generation tasks without external labels, potentially reducing reliance on costly annotations.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "54f05b890b5ebd84e7b54f11425af216",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27375v1",
+    "arxiv_id": "2606.27375v1",
+    "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+    "authors": [
+      "Arthur Allshire",
+      "Himanshu Gaurav Singh",
+      "Ritvik Singh"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+    "tldr": "We present ABC, a fully open-source stack for manipulation that includes ABC-130K, the largest teleoperation dataset with 3,500 hours across 130K episodes. The release also features hardware, training infrastructure, and a simulation pipeline, along with 400 hours of simulated teleop data.",
+    "significance": "ABC democratizes large-scale robotic learning by providing unprecedented open data and tools for behavior cloning.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "87914c5b405fe13254cc9e3d6622ba86",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27374v1",
+    "arxiv_id": "2606.27374v1",
+    "title": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
+    "authors": [
+      "Manish Kumar Govind",
+      "Dominick Reilly",
+      "Smit Patel"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "World Action Models Enable Continual Imitation Learning via Recurrent Generative Replay",
+    "tldr": "World Action Models (WAMs) can generate future visual observations, not just actions. By using Recurrent Generative Replay (REGEN), robots can rehearse past tasks from synthetic trajectories, eliminating the need to store original human demonstrations.",
+    "significance": "This approach reduces data storage demands and accelerates continual learning in robotics.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "03ed28b8e40524b0fa3cabf51d9ec8f2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27373v1",
+    "arxiv_id": "2606.27373v1",
+    "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
+    "authors": [
+      "Shravan Venkatraman",
+      "Ritesh Thawkar",
+      "Omkar Thawakar"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "Enhancing Visual Focus in Self‑Evolving Large Multimodal Models for Robust Reasoning",
+    "tldr": "Self‑evolving LMMs have improved visual reasoning without supervision, but current reward schemes prioritize answer consistency over genuine visual attention. This paper proposes methods to ensure decoders focus on visual tokens, reducing reliance on language priors.",
+    "significance": "By aligning decoder attention with visual content, the study advances reliable multimodal reasoning in unsupervised settings.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "309f9ad7997f3fc9ae01e80f534c7017",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27372v1",
+    "arxiv_id": "2606.27372v1",
+    "title": "DnA: Denoising Attention for Visual Tasks",
+    "authors": [
+      "Ron Campos",
+      "Subhajit Maity",
+      "Xin Li"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "DnA: Denoising Attention Improves Visual Task Accuracy by Reducing Noisy Softmax Patterns",
+    "tldr": "The paper introduces Denoising Attention (DnA), a method that replaces standard softmax in multi-head attention with a positive query-based filtering to suppress noisy attention. Experiments on visual perception tasks show that DnA improves feature focus and boosts performance in segmentation and detection benchmarks.",
+    "significance": "DnA offers a lightweight, generalizable improvement to attention mechanisms that can enhance accuracy across a range of computer vision applications.",
+    "tags": [
+      "segmentation",
+      "object-detection",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e83c79fe7c1daab998ca7cd0bd442999",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27371v1",
+    "arxiv_id": "2606.27371v1",
+    "title": "Don't Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance",
+    "authors": [
+      "Pradhaan S Bhat",
+      "Rishubh Parihar",
+      "Abhijnya Bhat"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "Boosting Diversity in Flow Models with Feature Self-Guidance",
+    "tldr": "Pretrained flow models often collapse to a single mode when generating multiple samples under the same prompt. This paper introduces feature self-guidance to encourage diverse outputs without external reward models or latent guidance.",
+    "significance": "The method improves sample diversity in generative flow models, enabling more varied and realistic image generation.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fb482ab4d0d17e697f98319132029c96",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27369v1",
+    "arxiv_id": "2606.27369v1",
+    "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+    "authors": [
+      "Yingyu Lin",
+      "Qiyue Gao",
+      "Nikki Lijing Kuang"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "Reinforcement Learning Without Ground Truth Enhances LLM Training via RiVER",
+    "tldr": "The RiVER framework lets large language models learn from ranking-based rewards without needing exact answers, expanding RLVR to tasks lacking ground truth. It uses deterministic scoring to guide optimization, improving model performance on diverse problems.",
+    "significance": "By removing the dependency on ground-truth solutions, RiVER broadens the applicability of reinforcement learning for LLMs to many real-world tasks.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b186d47a164bd48a3b72306fac37d125",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27367v1",
+    "arxiv_id": "2606.27367v1",
+    "title": "Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification",
+    "authors": [
+      "Nicolas Spiesshofer",
+      "Tabitha Jones",
+      "Sarah May Sibug Torres"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "Electrochemically Cleanable Metamaterials Enable Combined SEIRA and SERS for Ultra-sensitive Molecular Detection",
+    "tldr": "We demonstrate a reusable, electrochemically cleanable metamaterial that simultaneously enhances infrared absorption and Raman scattering, enabling ultrasensitive chemical fingerprinting. This dual-mode platform offers a robust, non-invasive sensing solution for molecular identification.",
+    "significance": "This work provides the first integrated, reusable substrate that combines SEIRA and SERS, paving the way for highly sensitive, non-destructive chemical analysis.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "bda8265bee64b1c3d30e8d71f00349cb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27365v1",
+    "arxiv_id": "2606.27365v1",
+    "title": "3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample",
+    "authors": [
+      "I. Binnie",
+      "H. Fang",
+      "B. Shearer"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "3D Imaging Reveals Complex Skyrmion and Hopf Topologies",
+    "tldr": "Using vector ptycho-tomography, researchers captured the 3D magnetic textures of skyrmions and Hopf topologies. This breakthrough provides deeper understanding of topological protection and paves the way for advanced spintronic devices.",
+    "significance": "It demonstrates a powerful imaging technique that could accelerate the development of next‑generation spintronic technologies.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "51ce7f37be16f054268cc78543ce91b6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27363v1",
+    "arxiv_id": "2606.27363v1",
+    "title": "The Effect of Topological Defects and Magnetic Flux on Fully-Heavy Tetraquarks and Mass Spectra of Heavy Quarkonia Using the Analytical Exact Iteration Method",
+    "authors": [
+      "N. H. Gerish",
+      "M. Abu-Shady",
+      "E. M. Khokha"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-26",
+    "headline": "Topological Defects, Magnetic Flux, and Heavy Tetraquark Mass Spectra via AEIM",
+    "tldr": "The study applies the analytical exact iteration method to solve the Schrödinger equation for fully-heavy tetraquarks and heavy quarkonia in the presence of topological defects and magnetic flux, revealing how these factors influence the mass spectra. The results provide new insights into non-perturbative QCD dynamics and potential experimental signatures.",
+    "significance": "It advances understanding of exotic hadron structure by linking topological and magnetic effects to observable mass shifts.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "a1745e23d33aec5bbae684a3c8df870e",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.26098v1",
@@ -1167,269 +1430,6 @@
       "open-source"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dd719d117456fe1cd55bf31e9cbe1dfd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20532v1",
-    "arxiv_id": "2606.20532v1",
-    "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
-    "authors": [
-      "Nityanand Mathur",
-      "Hamees Sayed",
-      "Wasim Madha"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "Unveiling How Words Shape Voice: Cross-Attention Attribution in Style-Captioned TTS",
-    "tldr": "We adapt the DAAM framework to speech diffusion models, enabling fine-grained attribution of how individual words influence acoustic output in style-captioned TTS. This insight helps diagnose failures and improve controllability in expressive speech synthesis.",
-    "significance": "By revealing the word-level influence on voice characteristics, this work advances transparency and control in expressive TTS systems.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f0e618c326cea812a3c76a926e7572f7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20531v1",
-    "arxiv_id": "2606.20531v1",
-    "title": "VisDom: Sparse Novel View Synthesis with Visible Domain Constraint",
-    "authors": [
-      "Mariia Gladkova*",
-      "Tarun Yenamandra*",
-      "Edmond Boyer"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "VisDom: Enhancing Sparse Novel View Synthesis via Visible Domain Constraints",
-    "tldr": "VisDom introduces a visible domain constraint to improve 3D reconstruction from few views, reducing floating artifacts and geometry inconsistencies. The method outperforms NeRF and Gaussian Splatting baselines on sparse datasets while maintaining realistic renderings.",
-    "significance": "By enforcing visible domain consistency, VisDom addresses a key limitation of sparse novel view synthesis, enabling more reliable 3D geometry recovery.",
-    "tags": [
-      "segmentation",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d6661175fd2dcd860fb4d1d8713da69e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20529v1",
-    "arxiv_id": "2606.20529v1",
-    "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
-    "authors": [
-      "Md Nayem Uddin",
-      "Amir Saeidi",
-      "Eduardo Blanco"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "LedgerAgent: Structured State Management for Policy‑Adherent Tool‑Calling Agents in Customer Service Domains",
-    "tldr": "LedgerAgent introduces a dedicated task state representation that tracks facts, identifiers, constraints, and conditions across turns, enabling policy‑compliant tool calls. By separating state from observations and tool outputs, the agent can enforce domain policies and improve reliability in customer‑service interactions.",
-    "significance": "This approach bridges the gap between LLMs and structured policy enforcement, offering a scalable framework for real‑time, policy‑aware customer‑service agents.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cae36d2d76471971b26789a7509ad903",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20527v1",
-    "arxiv_id": "2606.20527v1",
-    "title": "StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs",
-    "authors": [
-      "Shaghayegh Kolli",
-      "Timo Cavelius",
-      "Nafiseh Nikeghbal"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "StylisticBias Reveals How Visual Cues Shape Social Bias in Multimodal LLMs",
-    "tldr": "The StylisticBias benchmark isolates visual style from identity to test social bias in multimodal large language models. Results show that a handful of visual cues drive most bias, underscoring the need for targeted mitigation.",
-    "significance": "Understanding which visual cues cause bias enables more effective debiasing of multimodal LLMs.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e8d25d2804d202f87a2cb3bec8afd31d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20525v1",
-    "arxiv_id": "2606.20525v1",
-    "title": "The $B^+ \\to K^+ ν\\bar ν$ decay as a QCD axion search: comparing reinterpretation approaches",
-    "authors": [
-      "Merna Abumusabh",
-      "Giulio Dujany",
-      "Diego Guadagnoli"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "Belle II B+→K+νν Decay Tightens Constraints on Light Axion Models",
-    "tldr": "Two independent Belle II analyses of B+→K+νν data give axion limits that differ by a factor of four, traced to the choice of kinematic variable space. The study shows that the resolution in the reconstructed di‑neutrino invariant mass q^2 is the key figure of merit.",
-    "significance": "By pinpointing the source of discrepancy, the paper refines the interpretation of rare B‑decay searches, sharpening the reach for QCD axion and other invisible particles.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3cfb7e8a368c5884f69e68061e4bf68d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20524v1",
-    "arxiv_id": "2606.20524v1",
-    "title": "String Axiverse Enhancement of Superradiant Dark Matter Production",
-    "authors": [
-      "Diogo S. Gorgulho",
-      "Jacob A. Litterer",
-      "João G. Rosa"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "String Axiverse Boosts Superradiant Dark Matter Production from Primordial Black Holes",
-    "tldr": "We examine how string theory predicts many light axion species that can be emitted by evaporating primordial black holes, enhancing superradiant amplification. The resulting increase in axion production could significantly affect dark matter abundance and observable signatures.",
-    "significance": "This study links high-energy string theory predictions with astrophysical processes, offering a new avenue to probe dark matter through primordial black hole dynamics.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9156000e7215cfef4db34ae965d0eddd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20523v1",
-    "arxiv_id": "2606.20523v1",
-    "title": "SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm",
-    "authors": [
-      "Solène Debuysère",
-      "Nicolas Trouvé",
-      "Nathan Letheule"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "SARLO-80: Global 80cm Slant SAR–Optical Dataset Benchmark for Multimodal AI",
-    "tldr": "SARLO-80 provides the first high‑resolution (80 cm) slant‑range SAR–optical paired dataset, preserving complex values and native geometry. This enables training of multimodal foundation models that can learn physically grounded cross‑modal representations for remote‑sensing tasks.",
-    "significance": "By delivering a large, high‑resolution, geometry‑aware SAR–optical benchmark, SARLO‑80 unlocks the development of more accurate, physics‑aware AI for Earth observation.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "SAR",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bfe6f763803aae38c745ca483c246105",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20522v1",
-    "arxiv_id": "2606.20522v1",
-    "title": "Transfer-matrix functions for algebraically decaying interactions in variational infinite matrix product states",
-    "authors": [
-      "Qi Yang"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "New Transfer-Matrix Approach Eliminates Surrogate Residuals in Algebraic Interaction iMPS",
-    "tldr": "The authors present a fixed‑D variational energy formulation that directly incorporates algebraically decaying interactions via transfer‑matrix functions, bypassing the need for finite‑pole surrogate Hamiltonians. This eliminates representation residuals and enhances the accuracy of infinite matrix product state calculations.",
-    "significance": "By removing the surrogate approximation, the method enables more precise simulations of long‑range interacting quantum systems.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e89c6ab87667b1a708e6f5e31c29e3db",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20521v1",
-    "arxiv_id": "2606.20521v1",
-    "title": "HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining",
-    "authors": [
-      "Juncheng Ma",
-      "Jianxin Bi",
-      "Yufan Deng"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "Human-Scale Egocentric Video Beats Real-Robot Data for Embodied AI Pretraining",
-    "tldr": "Egocentric human videos can provide richer, more scalable data for embodied foundation models than teleoperated robot data, achieving comparable or better performance while reducing cost and complexity. This suggests a shift toward large-scale human video datasets for embodied AI.",
-    "significance": "This work demonstrates that large-scale human egocentric video can replace costly robot data, accelerating embodied AI development.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "92a98784e7b01c1ad3e2bb43ae5f17f5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20518v1",
-    "arxiv_id": "2606.20518v1",
-    "title": "FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS",
-    "authors": [
-      "Harshit Singh",
-      "Ayush Pratap Singh",
-      "Nityanand Mathur"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "FlowEdit: Lifelong Pronunciation Adaptation for Frozen Flow-Matching TTS via Associative Memory",
-    "tldr": "FlowEdit introduces a lightweight, lifelong adaptation framework that updates pronunciation in frozen flow-matching TTS models by learning latent conditioning edits instead of retraining weights. This approach corrects out-of-vocabulary proper noun errors on the fly, preserving zero-shot quality while enabling continuous improvement.",
-    "significance": "By enabling real-time pronunciation corrections without model retraining, FlowEdit extends the practical utility of state-of-the-art flow-matching TTS for dynamic, real-world applications.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d0c7b75dbbca5a5f9db79824df5b43e8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20556v1",
-    "arxiv_id": "2606.20556v1",
-    "title": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
-    "authors": [
-      "Pradhaan S Bhat",
-      "Naveen Chandra R",
-      "Rishubh Parihar"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-20",
-    "headline": "3D Boxes Empower Precise Spatial Editing in Real-World Images for Photographers",
-    "tldr": "This work introduces a method that uses 3D bounding boxes as explicit transformation specifications, enabling accurate edits of large object motions and camera changes in real images. By integrating structured 3D priors into diffusion-based editing pipelines, the approach achieves more reliable spatial control compared to previous weak 2D-conditioning techniques.",
-    "significance": "It bridges the gap between 2D image editing and 3D spatial reasoning, offering a practical tool for designers and researchers to perform precise, large-scale edits in realistic scenes.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "foundation-models"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
