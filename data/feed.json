@@ -1,5 +1,237 @@
 [
   {
+    "uid": "e84ad29f979b1e16396385b52b3c84b6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27366v1",
+    "arxiv_id": "2606.27366v1",
+    "title": "$\\mathrm{W}^*$-algebraic Integration Theory",
+    "authors": [
+      "Jan Głowacki",
+      "Yui Kuramochi"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "Integrating Operator-Valued Functions in W*-Algebras via Spatial Tensor Product Techniques",
+    "tldr": "This paper introduces a rigorous framework for integrating functions taking values in a W*-algebra against a POVM, yielding elements in the spatial tensor product. The construction generalizes classical integration and provides a foundation for operator-valued measure theory.",
+    "significance": "It extends integration theory to noncommutative settings, enabling new tools for quantum probability and operator algebras.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 4,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8edae28e0eb7ef908a1f192f7e518a52",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27364v1",
+    "arxiv_id": "2606.27364v1",
+    "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
+    "authors": [
+      "Yiming Chen",
+      "Yushi Lan",
+      "Andrea Vedaldi"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "PhysiFormer: Diffusion Transformer for Realistic 3D Mesh Motion in World Coordinates",
+    "tldr": "PhysiFormer uses a diffusion transformer to predict physically plausible future vertex trajectories of 3D meshes in world coordinates, given initial positions, velocities, and material type. Unlike pixel-based video world models, it operates directly on mesh geometry, enabling accurate simulation of rigid and elastic objects.",
+    "significance": "This approach bridges deep learning and physics simulation, allowing efficient, data-driven generation of realistic 3D motion without explicit physics solvers.",
+    "tags": [
+      "diffusion-models",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3e676614736dd72da6c099377a8e48f0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27361v1",
+    "arxiv_id": "2606.27361v1",
+    "title": "Autoregressive Boltzmann Generators",
+    "authors": [
+      "Danyal Rehman",
+      "Charlie B. Tan",
+      "Yoshua Bengio"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "Autoregressive Boltzmann Generators for Fast Equilibrium Sampling of Molecular Systems",
+    "tldr": "This paper introduces autoregressive Boltzmann Generators that replace normalizing flows with autoregressive models to efficiently sample equilibrium states of molecular systems. The new approach achieves faster convergence and higher accuracy while maintaining exact likelihoods for importance sampling.",
+    "significance": "It offers a scalable, accurate alternative for equilibrium sampling in computational chemistry, potentially accelerating drug discovery and materials design.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "86f74e2ba59a01d0acbdce3775510cd9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27359v1",
+    "arxiv_id": "2606.27359v1",
+    "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+    "authors": [
+      "Johannes Zenn",
+      "Jonas Geiping"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "When Does Sequence Probability Align with Correctness in LLM Decoding Methods?",
+    "tldr": "Decoding strategies shift probability mass toward more likely tokens or sequences, but this does not guarantee correctness. The paper investigates conditions under which high sequence probability actually correlates with accurate completions.",
+    "significance": "Understanding this alignment informs the design of more reliable language generation systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7ad96b81750c4cb02ae31c6a83962ef6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27357v1",
+    "arxiv_id": "2606.27357v1",
+    "title": "Typical distances in high-genus triangulations",
+    "authors": [
+      "Tanguy Lions"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "Distances in High-Genus Triangulations Scale Logarithmically",
+    "tldr": "We prove that the graph distance between two random vertices in a uniform triangulation of genus proportional to the number of faces grows like a constant times log(n). This resolves a conjecture of Budzinski, Chapuy and Louf by establishing the precise asymptotic constant.",
+    "significance": "The result confirms that high-genus random maps exhibit logarithmic diameter growth, a key insight for understanding the geometry of random surfaces.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "18b25d0040c4f144e90cb336693ff43e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27356v1",
+    "arxiv_id": "2606.27356v1",
+    "title": "Beyond the equation of state: a second-order diagnostic for dynamical dark energy",
+    "authors": [
+      "Bob Osano"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "Second-Order Diagnostic Reveals Dark Energy Dynamics Beyond Equation of State",
+    "tldr": "By differentiating the continuity equations with respect to e-fold time, the authors introduce ω′DE, providing a second-order probe of dark-energy dynamics. This method allows for a more sensitive test of evolving dark-energy models beyond the instantaneous equation-of-state parameter.",
+    "significance": "The second-order diagnostic offers a powerful tool to distinguish between competing dark-energy theories, potentially guiding future observations.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bc3d7680466055d98b3683b8b8c5b524",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27355v1",
+    "arxiv_id": "2606.27355v1",
+    "title": "RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection",
+    "authors": [
+      "Xingyu Ren",
+      "Chugang Yi",
+      "Ge Ma"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "RouterVLA: Using Smoke Tests to Supervise Vision‑Language‑Action Policy Selection for Robotic Teams",
+    "tldr": "RouterVLA repurposes pre‑deployment smoke tests to supervise the selection of heterogeneous VLA policies. By cross‑fitting outcome‑disjoint probes, it builds expert profiles and evaluates them in separate trials, improving policy choice without extra data.",
+    "significance": "This approach reduces the need for costly new rollouts and enables more efficient deployment of diverse vision‑language‑action models in robotics.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "781f5215d163b5123a731155d7f68075",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27354v1",
+    "arxiv_id": "2606.27354v1",
+    "title": "Error-Conditioned Neural Solvers",
+    "authors": [
+      "Haina Jiang",
+      "Liam Wang",
+      "Peng-Chen Chen"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "Hybrid Neural Solvers Correct PDE Residuals for Accurate, Real-Time Predictions",
+    "tldr": "Neural surrogate models provide quick PDE solutions but often violate constraints. Hybrid approaches use gradient descent on residuals to enforce physical consistency.",
+    "significance": "This method bridges statistical speed with physical fidelity, enabling reliable extrapolation beyond training data.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4bd9e19adf8d0c85e5984de66fb152fd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27353v1",
+    "arxiv_id": "2606.27353v1",
+    "title": "Continual Robot Policy Learning via Variational Neural Dynamics",
+    "authors": [
+      "Jiaxu Xing",
+      "Zhiyuan Zhu",
+      "Yunfan Ren"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "Robots Learn on the Fly: Continual Policy Adaptation with Variational Neural Dynamics",
+    "tldr": "This paper introduces a framework that lets robots continuously update their control policies by modeling changing dynamics with variational neural networks. By leveraging deployment data, the system improves performance in real-world conditions without retraining from scratch.",
+    "significance": "It enables robots to adapt to environmental and hardware changes in real time, bridging the gap between training and deployment.",
+    "tags": [
+      "real-time",
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f5f5287640366b680e5b0c143529e433",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27352v1",
+    "arxiv_id": "2606.27352v1",
+    "title": "Congruent copies of finite patterns in planar point sets",
+    "authors": [
+      "Shubhrajit Bhattacharya",
+      "Ritesh Goenka"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-27",
+    "headline": "New Lower Bounds on Congruent Pattern Copies in Planar Point Sets Using Advanced Combinatorics",
+    "tldr": "We prove that for any finite planar point pattern S, there exist point sets of size n containing Ω_S(n^{1+δ_S}) congruent copies of S. This improves previous bounds and follows from a recent breakthrough on the unit distance problem.",
+    "significance": "The result establishes a superlinear lower bound on pattern replication, advancing our understanding of geometric configurations in finite point sets.",
+    "tags": [
+      "spatial-reasoning",
+      "point-cloud",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "dbde01458de9a89dc431294cbe8d081f",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.27377v1",
@@ -1197,239 +1429,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "d73ac17245a4205b2e6a24255e453dd4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20512v1",
-    "arxiv_id": "2606.20512v1",
-    "title": "Probe-and-Refine Tuning of Repository Guidance for Coding Agents",
-    "authors": [
-      "Asa Shepard",
-      "Jeannie Albrecht"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Enhancing LLM Coding Agents with Repository Guidance via AGENTS.md",
-    "tldr": "LLM-based coding agents lack repository-level context, such as subsystem locations and test workflows. Engineers use AGENTS.md files to provide this guidance, but recent studies question their effectiveness.",
-    "significance": "Improving repository guidance could significantly boost the reliability and efficiency of automated coding agents.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6b2927688ce404ec8ebd5c5f6d869655",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20511v1",
-    "arxiv_id": "2606.20511v1",
-    "title": "State estimation of Rayleigh-Bénard convection with reduced-order models",
-    "authors": [
-      "Enrique Flores-Montoya",
-      "André F. C. da Silva",
-      "André V. G. Cavalieri"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "State Estimation of Rayleigh-Bénard Convection via Reduced-Order Models and EKF",
-    "tldr": "The authors present a framework that couples a stable Galerkin ROM with an extended Kalman filter to estimate the state of 2D Rayleigh-Bénard convection. The ROM is built from controllability modes of the linearised Boussinesq equations, and the approach is validated against DNS.",
-    "significance": "This work enables accurate, computationally efficient state estimation for turbulent convection, facilitating real-time monitoring and control.",
-    "tags": [
-      "real-time",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d0195fd9c9e5db8ed2270961c2b05380",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20510v1",
-    "arxiv_id": "2606.20510v1",
-    "title": "Efficient and Sound Probabilistic Verification for AI Agents",
-    "authors": [
-      "Alaia Solko-Breslin",
-      "Pramod Kaushik Mudrakarta",
-      "Mihai Christodorescu"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Probabilistic Verification for AI Agents: Efficient Runtime Monitoring with Datalog Policies",
-    "tldr": "This work introduces a sound and efficient probabilistic verification framework for AI agents operating in complex digital environments. By extending Datalog-based runtime monitoring to handle probabilistic policies, the approach enables real-time enforcement of security constraints while maintaining computational tractability.",
-    "significance": "It bridges the gap between deterministic policy enforcement and the stochastic nature of modern AI systems, providing a scalable solution for secure deployment.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3496b12d982f5e0dfb939df66fe81ce7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20509v1",
-    "arxiv_id": "2606.20509v1",
-    "title": "Planar constant piecewise smooth vector fields with large hysteresis",
-    "authors": [
-      "Tiago Carvalho",
-      "Leonardo Serantola",
-      "Bruno de Souza Rangel"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Rigorous Analysis of Planar Piecewise Smooth Vector Fields Reveals Limit Set Dynamics with Hysteresis",
-    "tldr": "We provide a rigorous mathematical framework for planar constant piecewise smooth vector fields exhibiting large hysteresis. The study characterizes possible limit sets, offering a foundation for control system analysis.",
-    "significance": "This work establishes a consistent theoretical basis for predicting complex behaviors in widely used control systems.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4c7cd548c8cae636f0c562d6c6476cd9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20508v1",
-    "arxiv_id": "2606.20508v1",
-    "title": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?",
-    "authors": [
-      "Sihui Dai",
-      "Mann Patel"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Safety-Aligned LLMs Learn Mixed Compliance: How Benign and Harmful Demonstrations Shape Responses",
-    "tldr": "The study investigates how language models interpret a blend of benign and harmful compliance demonstrations. Results suggest that mixed demonstrations influence model behavior, revealing nuanced compliance dynamics.",
-    "significance": "Understanding this interplay informs safer LLM deployment and mitigates jailbreak risks.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0d87bd4bf678f9535d3a696bcc86b79",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20506v1",
-    "arxiv_id": "2606.20506v1",
-    "title": "FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining",
-    "authors": [
-      "Jinghong Lan",
-      "Wei Cheng",
-      "Yunuo Chen"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "FreeStyle: Community LoRA Mining Enables Precise Style-Content Dual-Reference Generation",
-    "tldr": "FreeStyle introduces a framework that leverages community-sourced LoRA adapters to flexibly blend a content image with a separate style reference, while maintaining instruction compliance and preventing style leakage. The approach demonstrates state‑of‑the‑art fidelity across diverse datasets and offers an open‑source benchmark for future research.",
-    "significance": "It establishes a scalable, open‑source pipeline that improves control over diffusion models, bridging the gap between content fidelity and style transfer.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "094baba635b7a80b40d161353810fb38",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20504v1",
-    "arxiv_id": "2606.20504v1",
-    "title": "Entropy Estimation in Multi-Qutrit Systems via Variational and Classical Neural Networks",
-    "authors": [
-      "Sai Sakunthala Guddanti",
-      "Anil Prabhakar",
-      "Ria Rushin Joseph"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Estimating von Neumann Entropy in Multi-Qutrit Systems with Variational and Classical Neural Networks",
-    "tldr": "We compare variational quantum algorithms and classical CNNs for estimating von Neumann entropy in up to three qutrits, demonstrating that hardware-efficient SU(3)-inspired ansatzes achieve accurate results on an ideal simulator. The study provides a benchmark for future noisy implementations and highlights the complementary strengths of quantum and classical approaches.",
-    "significance": "This work establishes a systematic benchmark for entropy estimation in multi-qutrit systems, informing both quantum algorithm design and classical machine learning strategies.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "76cd1abe2c58496a28ae984bb992b3a0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20503v1",
-    "arxiv_id": "2606.20503v1",
-    "title": "General circuit mapping algorithm for neutral atom quantum computers",
-    "authors": [
-      "Neven Gentil",
-      "Lous S. Rianne",
-      "Aida Todri-Sanial"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Graph-Theoretic Circuit Mapping Algorithm Enhances Neutral Atom Quantum Computer Performance",
-    "tldr": "We introduce a graph-theoretic framework that maps quantum circuits onto neutral atom architectures without relying on specific circuit structures. This approach optimizes qubit movement, reducing overhead and improving scalability.",
-    "significance": "By decoupling compilation from circuit specifics, the method accelerates deployment of complex quantum algorithms on scalable neutral atom platforms.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "636caa556ed045ab6b86bd9277dd2ebc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20546v1",
-    "arxiv_id": "2606.20546v1",
-    "title": "Predictability as a Fine-Grained Measure for Privacy",
-    "authors": [
-      "Linda Lu",
-      "Karthik Sridharan"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "Fine-Grained Privacy via Predictability: A New Framework Beyond Worst-Case Differential Privacy",
-    "tldr": "The paper introduces a privacy framework that measures privacy based on predictability, taking into account the attacker's knowledge and a stochastic compromise of the dataset. This approach offers a more nuanced tradeoff between privacy and accuracy compared to traditional worst-case differential privacy.",
-    "significance": "It provides a more realistic and flexible privacy guarantee that can reduce unnecessary data distortion while still protecting individuals.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "26dbc2197417943df48426537ba1024e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20539v1",
-    "arxiv_id": "2606.20539v1",
-    "title": "Caching for Dollars, Not Hits: An Exact Offline Reference for Cloud-Egress Caching and the Crossover That Decides When It Pays",
-    "authors": [
-      "Madhulatha Mandarapu",
-      "Sandeep Kunkunuru"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-21",
-    "headline": "Optimizing Cloud Egress Costs: When Caching Beats Hit Rate for Large Datasets",
-    "tldr": "This paper provides an exact offline benchmark for cloud‑egress caching, showing that minimizing miss rate is not the right objective when costs are driven by request and byte charges. It identifies the crossover point where caching becomes cost‑effective and offers a reference for evaluating caching strategies.",
-    "significance": "It redefines caching optimization by focusing on monetary savings rather than hit ratios, guiding practitioners on when to invest in cache infrastructure.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
