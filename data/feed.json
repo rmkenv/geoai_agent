@@ -1,5 +1,326 @@
 [
   {
+    "uid": "4504f35c07ce837621599402ea2ab03f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27370v1",
+    "arxiv_id": "2606.27370v1",
+    "title": "Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem",
+    "authors": [
+      "Christopher A. Leong",
+      "Bitan Roy"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Exploring Zero Modes in Non-Hermitian Dirac Fermions under Magnetic Fields",
+    "tldr": "This study investigates how spatially varying non-Hermitian parameters act as gauge fields for massless Dirac fermions, leading to novel magnetic field configurations. The authors derive zero-mode solutions and establish an index theorem linking the number of zero modes to topological invariants in this non-Hermitian setting.",
+    "significance": "It extends the concept of topological protection to non-Hermitian quantum systems, opening avenues for engineered exotic states.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "39115485dddfaddeb36e0da10ae52c2f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27368v1",
+    "arxiv_id": "2606.27368v1",
+    "title": "Hidden-ordered Dirac fermions",
+    "authors": [
+      "Bitan Roy"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Hidden-Ordered Dirac Fermions: A Hermitian Extension Reveals Linear Energy-Momentum in Any Dimension",
+    "tldr": "I propose a Hermitian extension of the Dirac theory that introduces an anticommuting mass-like operator, yielding linear energy-momentum relations in any dimension. These hidden-ordered Dirac fermions exhibit emergent nodal quasiparticle excitations with potential symmetry-protected properties.",
+    "significance": "This work provides a unified framework for realizing Dirac-like quasiparticles across dimensions, potentially informing future topological materials research.",
+    "tags": [
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0d9791a661633e984e9315adbdea8265",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27351v1",
+    "arxiv_id": "2606.27351v1",
+    "title": "Specific absorption rate of uniaxial single-domain nanomagnets: stochastic spin dynamics versus linear response theory",
+    "authors": [
+      "H. Kachkachi"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Comparing Stochastic Spin Dynamics and Linear Response Theory for Nanomagnet Absorption",
+    "tldr": "The study evaluates the specific absorption rate of uniaxial single‑domain nanomagnets under alternating magnetic fields using both direct Langevin dynamics simulations and linear response theory with Debye susceptibility. Results show analytical agreement and highlight conditions where each method is most accurate.",
+    "significance": "It provides a rigorous benchmark for modeling magnetic hyperthermia, guiding the choice of computational approach in nanomagnet research.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c6dde6b4e1db9b0e9cd1cb9be03bd6be",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27350v1",
+    "arxiv_id": "2606.27350v1",
+    "title": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research",
+    "authors": [
+      "Angela Cui",
+      "Ferran Hermida-Rivera",
+      "Jack Toubes"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "CHIA: Open-Source Framework for Agentic AI-Driven Hardware/Software Co-Design",
+    "tldr": "CHIA introduces a principled, open-source platform that leverages agentic AI to accelerate hardware and software co-design across architecture, systems, compilers, and VLSI. By integrating large language models and foundation models, it enables scalable, automated exploration of design spaces that were previously limited to small-scale, isolated experiments.",
+    "significance": "CHIA democratizes advanced AI-driven co-design, potentially transforming how complex hardware-software systems are engineered.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ad8696c9e9a2c40e2dec6cd5b99c6fbf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27349v1",
+    "arxiv_id": "2606.27349v1",
+    "title": "All you need is log",
+    "authors": [
+      "Akshay Balsubramani"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Rényi Divergences: The Key to Multi-Distribution Comparison in Machine Learning",
+    "tldr": "Rényi divergences uniquely satisfy monotonicity under data processing and additivity on independent products, making them ideal for comparing two distributions. Extending this framework to multiple distributions enables advanced fairness and PAC-Bayes analyses.",
+    "significance": "Understanding and applying Rényi divergences is essential for rigorous statistical comparison in modern AI systems.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c4af87b2a8f8c243e9cc1e2102974c44",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27348v1",
+    "arxiv_id": "2606.27348v1",
+    "title": "Bridging Performance and Generalization in Reinforcement Learning for Agile Flight",
+    "authors": [
+      "Jonathan Green",
+      "Jiaxu Xing",
+      "Nico Messikommer"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Improving Generalization in Reinforcement Learning for Real‑Time Drone Racing",
+    "tldr": "Researchers propose new RL techniques that maintain high performance while enabling policies to adapt to unseen racing environments. The approach reduces crashes and improves robustness in dynamic flight scenarios.",
+    "significance": "It advances autonomous aerial robotics by addressing the critical gap between peak performance and real‑world generalization.",
+    "tags": [
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bdc89e6837f37ab8becc2847e24a2993",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27347v1",
+    "arxiv_id": "2606.27347v1",
+    "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+    "authors": [
+      "Kirill Solovev",
+      "Jana Lasser"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Mapping European Political-Elite Networks with a Multilingual Entity-Relation Extraction Pipeline",
+    "tldr": "The study introduces a multilingual joint entity-relation extraction system that scales the analysis of informal political ties across Europe, moving beyond simple co-occurrence methods. By automating the identification of elite actors and their relationships, it enables large-scale comparative research on rent-seeking coalitions and civic networks.",
+    "significance": "It transforms the study of complex political networks from labor-intensive coding to automated, scalable analysis, advancing comparative politics research.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ee33d825bca8e052234439ca06f1f5bc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27346v1",
+    "arxiv_id": "2606.27346v1",
+    "title": "3D Magnetic Field Vectors in Space: Bubbles, Clouds, and Filaments",
+    "authors": [
+      "Mehrnoosh Tahani",
+      "Anna Ordog",
+      "Jennifer West"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Mapping 3D Magnetic Field Vectors in Space: Bubbles, Clouds, and Filaments",
+    "tldr": "Magnetic fields shape star formation across scales by influencing field strength and orientation relative to density structures. Understanding these vectors illuminates the path from interstellar gas to stars, planets, and life.",
+    "significance": "This study provides critical insights into the magnetic forces driving galactic evolution and star formation.",
+    "tags": [
+      "remote-sensing",
+      "vector-tiles",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "db36b111829609172bd3121d06909621",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27345v1",
+    "arxiv_id": "2606.27345v1",
+    "title": "RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation",
+    "authors": [
+      "Minghao Yin",
+      "Jiahao Lu",
+      "Wenbo Hu"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "RayPE: Enhancing 3D-Aware Video Generation with Ray-Space Positional Encoding for Dynamic Scenes",
+    "tldr": "RayPE introduces a novel positional encoding that captures geometric relations between camera rays using the Plücker reciprocal product, improving 3D awareness in video diffusion transformers. Experiments show significant gains in rendering fidelity and spatial consistency compared to standard RoPE.",
+    "significance": "This work bridges the gap between 2D token positioning and 3D scene geometry, enabling more realistic video synthesis.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "67d015132d0f5fafaeebb9b85bf22994",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27344v1",
+    "arxiv_id": "2606.27344v1",
+    "title": "VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity",
+    "authors": [
+      "Yuemin Mao",
+      "Uksang Yoo",
+      "Jean Oh"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "VibeAct: Using Piezoelectric Microphones for Real-Time Contact Sensing in Dexterous Robot Manipulation",
+    "tldr": "VibeAct introduces a framework that uses piezoelectric microphones to capture fast, local contact events for dexterous manipulation. By accurately simulating vibro-acoustic signals, it enables end-to-end sim-to-real policy learning for robotic hands.",
+    "significance": "It bridges the gap between high-bandwidth tactile sensing and realistic simulation, accelerating the deployment of contact-rich robotic manipulation.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7061764119f00da97d6475caff00f433",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27342v1",
+    "arxiv_id": "2606.27342v1",
+    "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+    "authors": [
+      "Nicholas Pulsone",
+      "Gregory Goren",
+      "Roee Shraga"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Domain-Aware Distribution Alignment Boosts Budgeted Entity Matching Accuracy in Real-World Data Integration",
+    "tldr": "This study introduces a domain-aware distribution alignment technique to improve entity matching under budget constraints. Experiments show significant gains over baseline methods across multiple datasets.",
+    "significance": "It demonstrates that incorporating domain knowledge can substantially reduce matching errors when resources are limited.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e6bbf6a7ce2a71eea1b7f2d7c676ca4e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27339v1",
+    "arxiv_id": "2606.27339v1",
+    "title": "SAM2Matting: Generalized Image and Video Matting",
+    "authors": [
+      "Ruiqi Shen",
+      "Guangquan Jie",
+      "Chang Liu"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "SAM2Matting Bridges Tracking and Fine-Grained Video Matting for Generalized Performance",
+    "tldr": "SAM2Matting introduces a unified approach that combines high-level tracking with low-level matting to achieve robust video matting across diverse scenes. By leveraging a generalized dataset and efficient architecture, it overcomes limitations of prior methods that rely on expensive, narrow datasets.",
+    "significance": "This work enables scalable, out-of-domain video matting, paving the way for real-time applications in media and AR.",
+    "tags": [
+      "segmentation",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "91d208906a838a104be1c9711e31d5d5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27338v1",
+    "arxiv_id": "2606.27338v1",
+    "title": "Jet impingement cooling with multi-stage ducted electroaerodynamic actuators",
+    "authors": [
+      "Quinna Nguyen",
+      "C. Luke Nelson",
+      "Daniel S. Drew"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Compact Electroaerodynamic Actuators Enable Jet Impingement Cooling for Mobile Electronics",
+    "tldr": "We demonstrate that arrays of reduced-scale electroaerodynamic actuators can replace bulky jet impingement hardware, achieving efficient cooling in compact form factors. The system delivers high heat flux removal while maintaining low power consumption and durability for mobile electronics.",
+    "significance": "This approach offers a lightweight, low-power alternative to conventional cooling, enabling higher performance in space-constrained devices.",
+    "tags": [
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3dcfef0060b6c91c504fb0a44050f530",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.27337v1",
+    "arxiv_id": "2606.27337v1",
+    "title": "Exact subsystem dynamics in the deterministic Floquet-PXP model",
+    "authors": [
+      "Katja Klobas"
+    ],
+    "published": "2026-06-25",
+    "curated_at": "2026-06-28",
+    "headline": "Exact Subsystem Dynamics in Deterministic Floquet-PXP Model Revealed via Influence Matrices",
+    "tldr": "We analyze the deterministic Floquet-PXP model and show that the dynamics of local subsystems can be exactly captured using influence matrices. This provides a solvable case where the complexity of the influence matrices does not grow unfavourably with time.",
+    "significance": "This result offers a rare analytic handle on open-system dynamics in large quantum many-body systems, potentially guiding future experiments and simulations.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "e84ad29f979b1e16396385b52b3c84b6",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.27366v1",
@@ -1087,344 +1408,6 @@
       "foundation-models",
       "time-series",
       "segmentation",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ca5d6861ad9d6edbaf29cd7aba0a4fc2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23687v1",
-    "arxiv_id": "2606.23687v1",
-    "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
-    "authors": [
-      "Manas Mehta",
-      "Fangcong Yin",
-      "Greg Durrett"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "Randomized YaRN Enhances Long-Context Reasoning for Large Language Models by Combining Positional Extrapolation",
-    "tldr": "Randomized YaRN is a training method that improves length generalization for LLMs by integrating YaRN-based positional extrapolation with randomized positional encoding. The approach yields better performance on very long sequences, addressing a key limitation of current LLMs.",
-    "significance": "This method enables LLMs to reliably handle longer contexts, expanding their applicability to complex reasoning tasks.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e844639111285b13518c934967e2ac62",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23682v1",
-    "arxiv_id": "2606.23682v1",
-    "title": "Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping",
-    "authors": [
-      "Rishubh Parihar",
-      "Ayush Raina",
-      "R. Venkatesh Babu"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "Speeding Up Reference-Conditioned Diffusion: Token Dropping for Efficient Image Generation",
-    "tldr": "Reference-based diffusion models allow controllable image generation but are costly when many references are used. This paper introduces token dropping to reduce runtime while preserving quality, enabling real‑time reference-conditioned synthesis.",
-    "significance": "By cutting computational overhead, the method makes reference-conditioned diffusion practical for real‑time applications.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7c544be7868b01d8e0b31c347b45d698",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23680v1",
-    "arxiv_id": "2606.23680v1",
-    "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
-    "authors": [
-      "Sikai Li",
-      "Shuning Li",
-      "Zhenyu Wei"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "CoorDex: Seamless Body‑Hand Coordination for Continuous Humanoid Loco‑Manipulation Using Latent Priors",
-    "tldr": "CoorDex introduces a learning pipeline that fuses high‑dimensional body and dexterous hand control into a coordinated latent space, enabling continuous locomotion and manipulation without stop‑and‑go pauses. The system leverages body and hand priors to achieve smooth, real‑time humanoid loco‑manipulation tasks.",
-    "significance": "By eliminating the traditional stop‑and‑go paradigm, CoorDex paves the way for more fluid and efficient humanoid robots capable of simultaneous walking and object manipulation.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9b508595467e996d55d570dd10575941",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23679v1",
-    "arxiv_id": "2606.23679v1",
-    "title": "Semantic Browsing: Controllable Diversity for Image Generation",
-    "authors": [
-      "Sara Dorfman",
-      "Maya Vishnevsky",
-      "Omer Dahary"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "Enhancing Diversity in Text-to-Image Models with Semantic Browsing for Creative Design Control",
-    "tldr": "Modern text-to-image models produce high-fidelity images but often collapse into a single visual interpretation, limiting diversity. This paper introduces a semantic browsing approach that allows users to steer diversity through meaningful design choices, improving both variety and relevance of generated images.",
-    "significance": "By enabling controllable diversity, the method expands the creative potential of diffusion-based image generation, bridging the gap between fidelity and variation.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "044b3e4199684a8570d889294d36ce89",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23678v1",
-    "arxiv_id": "2606.23678v1",
-    "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
-    "authors": [
-      "Cong Han",
-      "Xiaohan Lan",
-      "Haibo Qiu"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "AIR: Adaptive Interleaved Reasoning with Code Enhances Multimodal LLMs for Vision Perception",
-    "tldr": "AIR introduces a novel framework that interleaves reasoning steps with code execution to improve multimodal LLM performance on vision tasks. By moving beyond static heuristics, it enables dynamic visual manipulation and better numerical reasoning.",
-    "significance": "This approach bridges the gap between symbolic reasoning and perception, paving the way for more robust and adaptable multimodal AI systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bd8bcef519322a9e274984360c83aa81",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23677v1",
-    "arxiv_id": "2606.23677v1",
-    "title": "Effective hyperuniformity in time-integrated stochastic Turing patterns",
-    "authors": [
-      "Anirban Mukherjee",
-      "Hong-Yan Shih"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "Hyperuniformity Emerges in Time-Integrated Stochastic Turing Patterns",
-    "tldr": "Demographic noise can generate stochastic Turing patterns even when deterministic models predict stability. By integrating over time, these patterns reveal large-scale hyperuniform organization, with variance scaling as 1/R.",
-    "significance": "This work bridges stochastic pattern formation and hyperuniformity, offering a new lens to analyze noise-driven spatial order.",
-    "tags": [
-      "time-series",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "996c6d53cc5ca569bfdf4f524fc66200",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23676v1",
-    "arxiv_id": "2606.23676v1",
-    "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
-    "authors": [
-      "Dingzhi Yu",
-      "Hongyi Tao",
-      "Yuanyu Wan"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "Is AdamW Still Optimal for Heavy-Tailed Noise in LLM Training?",
-    "tldr": "AdamW dominates LLM training, but its theoretical guarantees assume finite-variance noise. Recent evidence shows heavy-tailed gradients, raising questions about its effectiveness compared to sign-based optimizers like Lion and Muon.",
-    "significance": "Understanding AdamW's behavior under heavy-tailed noise is crucial for reliable and efficient LLM pretraining.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "fdbafe8b5972f0d1871ba211e9333f29",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23675v1",
-    "arxiv_id": "2606.23675v1",
-    "title": "IMAGIN-4D: Image-Guided Controllable Interaction Generation",
-    "authors": [
-      "Sai Kumar Dwivedi",
-      "Federica Bogo",
-      "Buğra Tekin"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "IMAGIN-4D: Image-Guided Control for Precise Human-Object Interaction Generation",
-    "tldr": "IMAGIN-4D introduces an image-guided framework that tightly couples visual cues with motion synthesis, enabling precise control over grasps, approach directions, and body poses in human-object interactions. By integrating object geometry and sparse waypoints, the method resolves underspecification issues and produces consistent, realistic interactions from text prompts.",
-    "significance": "This approach advances controllable animation, robotics, and AR/VR by ensuring consistent, realistic human-object interactions from minimal input.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "69ea54e5fcf2fcf431f8506e1faacce5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23674v1",
-    "arxiv_id": "2606.23674v1",
-    "title": "Ram-pressure signatures in the dwarf irregular galaxy SextansB revealed by deep MeerKAT HI observations",
-    "authors": [
-      "Brenda Namumba",
-      "Neel Kolhe",
-      "Francois Hammer"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "MeerKAT Uncovers Ram-Pressure Effects in Dwarf Galaxy Sextans B and Its Gas",
-    "tldr": "Deep MeerKAT HI observations reveal low-density intergalactic medium stripping gas from Sextans B. The study provides new insights into environmental effects on dwarf galaxies.",
-    "significance": "This work demonstrates how sensitive radio observations can detect subtle ram-pressure signatures in nearby dwarf galaxies, informing models of galaxy evolution.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7a907d810a6a7f4a490149175a4fbbac",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20526v1",
-    "arxiv_id": "2606.20526v1",
-    "title": "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs",
-    "authors": [
-      "Saimun Habib",
-      "Vaishak Belle",
-      "Fengxiang He"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "DeepSWIP: Enabling Causal Counterfactual Inference in Neural Probabilistic Logic Programs",
-    "tldr": "DeepSWIP introduces a single-world counterfactual semantics for DeepProbLog, allowing causal reasoning in neural probabilistic logic programs. By leveraging neural materialization, it reduces fixed-context neural predicates, enabling efficient counterfactual inference.",
-    "significance": "This advances neurosymbolic AI by bridging perception, logic, and causality, facilitating more robust decision-making.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "69ed51ef0de924a2751ff63695960e69",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20519v1",
-    "arxiv_id": "2606.20519v1",
-    "title": "GPU-accelerated semidefinite programming for causal games",
-    "authors": [
-      "Emanuel-Cristian Boghiu",
-      "Kyrylo Simonov"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Accelerating Quantum Causal Games with GPU-Optimized Semidefinite Programming for Efficient Simulation and Analysis",
-    "tldr": "The authors present a GPU-accelerated solver for semidefinite programming that enables rapid analysis of process matrices in causal games, achieving significant speedups over CPU implementations. This approach allows large-scale exploration of quantum correlations without fixed causal order, paving the way for practical quantum advantage in distributed tasks.",
-    "significance": "By providing a scalable computational framework, the work brings quantum causal analysis into the realm of practical, large-scale simulations, potentially informing future quantum communication protocols.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "fc8fe299384ee280cc25013849e12c7c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20517v1",
-    "arxiv_id": "2606.20517v1",
-    "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
-    "authors": [
-      "Maria Ivanova",
-      "Pavel Zadorozhny",
-      "Rodion Levichev"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Multi-LCB: Expanding LiveCodeBench to Support Multiple Programming Languages for LLM Evaluation",
-    "tldr": "LiveCodeBench (LCB) is a popular benchmark for evaluating LLMs on code generation, but it currently only supports Python. This paper introduces Multi-LCB, which extends LCB to multiple programming languages, enabling broader, contamination‑aware evaluation of LLMs across diverse coding tasks.",
-    "significance": "By broadening LCB to multiple languages, Multi‑LCB provides a more comprehensive, language‑agnostic benchmark that can accelerate LLM development and deployment across varied programming ecosystems.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "110e691e6fb0338a7827690f1116fe33",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20516v1",
-    "arxiv_id": "2606.20516v1",
-    "title": "Approximation and interactive design with exact 3D elastic curves",
-    "authors": [
-      "David Brander",
-      "Jens Gravesen",
-      "Marc Isern"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "Fast, Stable Recovery of 3D Elastic Curves for Interactive Design",
-    "tldr": "We present an 11-parameter analytic description of 3D elastic curve segments equivalent to the spherical pendulum equation. Our numerically stable algorithm recovers these parameters from a given curve, enabling fast, interactive design of elastic shapes.",
-    "significance": "This work provides a practical tool for designers and engineers to model and manipulate physically realistic elastic curves in real time.",
-    "tags": [
-      "spatial-reasoning",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b7838f81ca708e87eedd1e0e1b1943bb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.20515v1",
-    "arxiv_id": "2606.20515v1",
-    "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
-    "authors": [
-      "Yalun Dai",
-      "Hao Li",
-      "Shulin Tian"
-    ],
-    "published": "2026-06-18",
-    "curated_at": "2026-06-22",
-    "headline": "S-Agent: A New Spatial Tool-Use Agent for Continuous 3D Reasoning",
-    "tldr": "S-Agent introduces a spatial tool-use paradigm that enables reasoning over dynamic, multi-view 3D scenes. By integrating continuous visual streams with large language models, it surpasses static inference methods and opens new possibilities for real-time spatial intelligence.",
-    "significance": "This work bridges the gap between static visual inference and dynamic spatial reasoning, offering a foundation for advanced real-world applications.",
-    "tags": [
-      "spatial-reasoning",
-      "LLM",
       "real-time"
     ],
     "readtime": 3,
