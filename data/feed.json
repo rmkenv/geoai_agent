@@ -1,5 +1,169 @@
 [
   {
+    "uid": "28d0b99488b382f44809405050757131",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.28323v1",
+    "arxiv_id": "2606.28323v1",
+    "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+    "authors": [
+      "Dihong Huang",
+      "Zhenyu Wei",
+      "Zhuxiu Xu"
+    ],
+    "published": "2026-06-26",
+    "curated_at": "2026-06-29",
+    "headline": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+    "tldr": "DexCompose introduces a method to compose existing dexterous manipulation policies into a single hand capable of performing multiple tasks without destructive interference. By aligning finger contact modes and preserving prior skill outcomes, the approach enables efficient multi-task manipulation in real-time.",
+    "significance": "This work enables more versatile robotic hands, reducing the need to train separate policies for each task and advancing practical deployment of dexterous manipulation.",
+    "tags": [
+      "benchmark",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8afe90e1ed4269e234d55e76f24cf19d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.28322v1",
+    "arxiv_id": "2606.28322v1",
+    "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
+    "authors": [
+      "Yana Wei",
+      "Hongbo Peng",
+      "Yanlin Lai"
+    ],
+    "published": "2026-06-26",
+    "curated_at": "2026-06-29",
+    "headline": "PerceptionRubrics: A New Rubric-Based Framework for Human-Centric Multimodal Evaluation Benchmarking",
+    "tldr": "PerceptionRubrics introduces a rubric-based evaluation framework that bridges the gap between high benchmark scores and real-world performance. By pairing 1,038 dense images with 12,000 instance-specific rubrics derived from golden captions, it enables atomic auditing of multimodal models.",
+    "significance": "This framework provides a more granular, human-aligned assessment of multimodal models, helping developers identify brittleness that traditional benchmarks miss.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d62cd5f860be1f9d5adc363570becaa4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.28321v1",
+    "arxiv_id": "2606.28321v1",
+    "title": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
+    "authors": [
+      "Jia-Chen Zhao",
+      "Beiqi Chen",
+      "Xinyang Chen"
+    ],
+    "published": "2026-06-26",
+    "curated_at": "2026-06-29",
+    "headline": "StructSplat: Fast, Generalizable 3D Gaussian Reconstruction from Uncalibrated Images without Camera Calibration",
+    "tldr": "StructSplat introduces a feed‑forward framework that reconstructs high‑fidelity 3D Gaussian models directly from sparse, uncalibrated images, eliminating the need for per‑scene optimization or known camera poses. By decoupling geometry and appearance, it achieves superior reconstruction quality and generalization across diverse scenes.",
+    "significance": "It enables scalable, real‑time 3D reconstruction from commodity cameras, opening new possibilities for rapid scene understanding without costly calibration.",
+    "tags": [
+      "point-cloud",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "50735bef7e3317fc2220fce99156b54d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.28314v1",
+    "arxiv_id": "2606.28314v1",
+    "title": "The Role of Scintillation in Detecting HI Absorption in FRB Spectra",
+    "authors": [
+      "Om Gupta",
+      "Pawan Kumar",
+      "Paz Beniamini"
+    ],
+    "published": "2026-06-26",
+    "curated_at": "2026-06-29",
+    "headline": "Scintillation Enhances Detectability of 21‑cm Hydrogen Absorption in Fast Radio Burst Spectra",
+    "tldr": "We investigate how interstellar scintillation can boost the visibility of the 21‑cm HI absorption line in FRB spectra. Our results identify parameter regimes where realistic FRB observations could reveal this key cosmological probe.",
+    "significance": "This study demonstrates a practical pathway to use FRBs as probes of the intergalactic medium by leveraging scintillation effects.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "190a76d9a27955adba03729b5622c51e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.28313v1",
+    "arxiv_id": "2606.28313v1",
+    "title": "Diameter truncated operator evolution",
+    "authors": [
+      "Tom Holden-Dye",
+      "Max Marvell",
+      "Joel Mills"
+    ],
+    "published": "2026-06-26",
+    "curated_at": "2026-06-29",
+    "headline": "Efficient Operator Dynamics via Diameter Truncation: A New Approach to Quantum Simulation",
+    "tldr": "We introduce a diameter truncation technique to simulate operator dynamics in out-of-equilibrium quantum systems. This method reduces computational complexity by focusing on low-weight operators, enabling more tractable simulations.",
+    "significance": "This approach offers a scalable solution for studying complex quantum dynamics, potentially accelerating research in quantum computing and many-body physics.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e4a158f0a1728fe11ae91206251e0311",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.28312v1",
+    "arxiv_id": "2606.28312v1",
+    "title": "Optimal Deployment of Electric Aircraft for Canadian Domestic Flights",
+    "authors": [
+      "Elham Soufiani",
+      "Mehrdad Pirnia"
+    ],
+    "published": "2026-06-26",
+    "curated_at": "2026-06-29",
+    "headline": "Electric Aircraft Deployment Plan Optimizes Canadian Domestic Flights via Multi-Period MILP",
+    "tldr": "The study introduces a multi-period MILP framework that jointly optimizes fleet acquisition, infrastructure deployment, and service allocation for Canadian regional aviation. It incorporates policy constraints such as emissions targets, electric service share, and budget limits to guide the transition from conventional to electric aircraft.",
+    "significance": "It provides a data-driven, policy-compliant strategy for accelerating sustainable aviation in Canada.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "185943da4bd0f2da927a4052dcb8cd16",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.28308v1",
+    "arxiv_id": "2606.28308v1",
+    "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+    "authors": [
+      "Luis Leal"
+    ],
+    "published": "2026-06-26",
+    "curated_at": "2026-06-29",
+    "headline": "Solver-Dependent Nash Equilibrium Selection in Zero-Sum Games and Implications for Algorithmic Design",
+    "tldr": "Many zero-sum games possess a continuum of Nash equilibria. This study demonstrates that different solvers systematically select distinct equilibria, affecting algorithmic outcomes.",
+    "significance": "Understanding solver bias is crucial for fair and predictable game-theoretic modeling.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "4504f35c07ce837621599402ea2ab03f",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.27370v1",
@@ -1246,171 +1410,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "9974676515e5f43a61b65f72f1b80f54",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24874v1",
-    "arxiv_id": "2606.24874v1",
-    "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
-    "authors": [
-      "Haorui Ji",
-      "Weizhe Liu",
-      "Hongdong Li"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "FLUX3D: Diffusion-Driven Sparse Voxel Approach for High-Fidelity 3D Gaussian Splatting",
-    "tldr": "FLUX3D introduces a diffusion-aligned sparse voxel representation that preserves high-frequency visual details in 3D Gaussian Splatting. By integrating diffusion models with voxel-based latent construction, the method achieves higher fidelity reconstructions compared to prior discriminative 2D feature approaches.",
-    "significance": "The approach enables scalable, high-fidelity 3D scene generation from images, advancing realistic rendering and virtual environment creation.",
-    "tags": [
-      "diffusion-models",
-      "point-cloud",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d96a25bfe30f2c01aa7bcb5cc2c291b0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24871v1",
-    "arxiv_id": "2606.24871v1",
-    "title": "Sequential Probability Ratio Test using Z-Statistics (SPRT-z): A Practical Approach for Online Experimentation",
-    "authors": [
-      "Derek L. Ho",
-      "Emma G. Thomas"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "SPRT-z: A Practical Sequential Test for Real-Time Online Experiments",
-    "tldr": "Sequential Probability Ratio Test using Z-statistics (SPRT-z) lets practitioners stop experiments early for efficacy or futility while maintaining Type I error control. It offers a simple, online-friendly alternative to fixed-horizon testing that mitigates peeking bias.",
-    "significance": "SPRT-z improves decision quality in continuous data streams by enabling early stopping without inflating false positives.",
-    "tags": [
-      "open-source",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dfdcee4182477864945defc8699d721b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24870v1",
-    "arxiv_id": "2606.24870v1",
-    "title": "\"Zooming In\" on Agentic Web Browsers as Assistive Technologies: A Case Study with a Low-Vision Technology Expert",
-    "authors": [
-      "Laura Colazzo",
-      "Giuseppe Anzillotti"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "Agentic Web Browsers: Empowering Low-Vision Users Through Conversational Web Navigation",
-    "tldr": "Agentic Web Browsers (AWBs) use large language models to autonomously navigate the web, offering a conversational interface for users. In this case study, we demonstrate how AWBs can serve as assistive technology for low-vision individuals, improving accessibility and productivity.",
-    "significance": "This work shows that AWBs can transform web interaction into an accessible, conversational experience for visually impaired users, highlighting their potential as scalable assistive technologies.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0a264b52ca6fb4b53a459c7ec781fead",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24868v1",
-    "arxiv_id": "2606.24868v1",
-    "title": "Exploring Gravitational Wave Signatures Due to Primordial Non-gaussianity and Large Scale Structure Using SKAO",
-    "authors": [
-      "H. V. Ragavendra",
-      "Giulia Capurri",
-      "Alina Mierna"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "Probing Primordial Non-Gaussianity with SKAO's Gravitational Wave Background in the Early Universe",
-    "tldr": "This chapter outlines how scalar-induced gravitational waves detectable by SKAO can reveal primordial non‑Gaussianity and large‑scale structure. By modeling the stochastic background, we show its sensitivity to small‑scale physics beyond current CMB limits.",
-    "significance": "It offers a novel, high‑precision probe of early‑universe physics inaccessible to traditional cosmological observations.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8554b72637b4acac82ddd69d771c8cfa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24867v1",
-    "arxiv_id": "2606.24867v1",
-    "title": "Bounds for Standard Errors in Combined Data",
-    "authors": [
-      "Jooyoung Cha",
-      "Yuya Sasaki",
-      "Nelson Matthew P. Tan"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "Bounding Standard Errors Across Samples Using Geometric Inequalities for Robust Parameter Estimation",
-    "tldr": "We derive sharp lower bounds on standard errors for parameters estimated from moment conditions across multiple samples, even without correlation information. Our computationally efficient bounds extend to settings with partial correlation knowledge, enabling more reliable inference.",
-    "significance": "These bounds provide practitioners with guaranteed error estimates, improving confidence in multi-sample statistical analyses.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c83eeb1b41a210708ef49ee2e663ea45",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23689v1",
-    "arxiv_id": "2606.23689v1",
-    "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
-    "authors": [
-      "Mingi Choi",
-      "Gunhee Kim",
-      "Jisoo Kim"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "AutoDex: Automated Real-World System for Large-Scale Dexterous Grasping Data Collection",
-    "tldr": "AutoDex automates the generation and verification of dexterous grasp attempts in the real world, bridging the gap between slow teleoperation and unreliable simulation. By combining candidate generation with on‑device physical outcome recording, it produces scalable, high‑quality grasp datasets for training robust robotic manipulators.",
-    "significance": "AutoDex enables rapid, bias‑free collection of real‑world grasp data, accelerating the development of reliable dexterous manipulation systems.",
-    "tags": [
-      "object-detection",
-      "point-cloud",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f9a1bb997445ead24af8917a56a91daf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.23688v1",
-    "arxiv_id": "2606.23688v1",
-    "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-    "authors": [
-      "Yehonathan Litman",
-      "Xiaoxuan Ma",
-      "Manan Shah"
-    ],
-    "published": "2026-06-22",
-    "curated_at": "2026-06-23",
-    "headline": "Lift4D: Merging Single-View 3D Estimation with 4D Reconstruction for Dynamic Scenes",
-    "tldr": "Lift4D introduces a hybrid framework that combines direct visual cues from monocular video with learned priors to produce accurate 4D reconstructions of non-rigid objects. The method achieves real‑time performance while preserving fine geometric detail, outperforming prior end‑to‑end or deformation‑only approaches.",
-    "significance": "By harmonizing data-driven priors with live observations, Lift4D enables robust, high‑fidelity 4D modeling of dynamic scenes directly from single‑view video, opening new possibilities for AR, robotics, and digital heritage.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "segmentation",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
