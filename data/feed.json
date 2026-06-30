@@ -1,5 +1,248 @@
 [
   {
+    "uid": "b37bff06b10f1fc193aed08bf2a62dc5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30645v1",
+    "arxiv_id": "2606.30645v1",
+    "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+    "authors": [
+      "Yen-Jen Wang",
+      "Jiaman Li",
+      "Sirui Chen"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "New VLK Dataset Enables Humanoid Robots to Learn Loco-Manipulation from Synthetic Scenes",
+    "tldr": "We introduce VLK, a vision-language-kinematics dataset generated from synthetic interactions in reconstructed scenes, providing synchronized egocentric images, language commands, and robot-compatible trajectories. This dataset addresses a critical gap, enabling scalable learning of humanoid loco-manipulation tasks.",
+    "significance": "By furnishing the first large-scale, multimodal dataset for humanoid loco-manipulation, VLK accelerates research in embodied AI and paves the way for more capable, perception-driven robots.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "75f58c15864d79e06a6d205b27c64380",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30642v1",
+    "arxiv_id": "2606.30642v1",
+    "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+    "authors": [
+      "Shun Lei",
+      "Huaicheng Zhang",
+      "Dapeng Wu"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "LeVo 2: Hierarchical Modeling for Coherent, Melodious Full-Length Song Generation",
+    "tldr": "LeVo 2 introduces a hierarchical representation and progressive post‑training to generate full‑length songs that maintain lyrical coherence and realistic vocal‑instrument coordination. The approach balances mixed‑token and dual‑track modeling, yielding stable, melodious outputs with detailed acoustics.",
+    "significance": "It advances AI music generation by reconciling coherence and acoustic fidelity, enabling more realistic and controllable full‑song creation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "93f94bbeb26620f67d32a18b1d1cb8b2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30639v1",
+    "arxiv_id": "2606.30639v1",
+    "title": "Self-Evolving World Models for LLM Agent Planning",
+    "authors": [
+      "Xuan Zhang",
+      "Wenxuan Zhang",
+      "See-Kiong Ng"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "Self‑Evolving World Models Empower LLM Agents with Adaptive Foresight for Long‑Horizon Planning",
+    "tldr": "We propose WorldEvolver, a framework that continuously updates a world model’s context during deployment, enabling LLM agents to anticipate action outcomes more accurately. By integrating self‑evolution, the system mitigates unreliable foresight and improves downstream decision quality.",
+    "significance": "WorldEvolver demonstrates that adaptive world models can enhance LLM agent planning, reducing errors from static foresight and paving the way for more reliable autonomous decision‑making.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "42818eb578f3ed4f80830e5888c152b8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30638v1",
+    "arxiv_id": "2606.30638v1",
+    "title": "Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors",
+    "authors": [
+      "Jameel Hassan",
+      "Yasiru Ranasinghe",
+      "Vishal Patel"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "Open-Vocabulary 3D Gaussian Segmentation via 2D Detectors and Language Models",
+    "tldr": "This work extends 3D Gaussian Splatting by integrating open‑vocabulary language understanding, enabling 3D scene segmentation using 2D detectors and CLIP‑style contrastive learning. The approach allows real‑time, language‑driven segmentation for embodied AI applications.",
+    "significance": "It bridges 3D scene reconstruction with flexible, language‑driven segmentation, opening new possibilities for real‑time, embodied AI.",
+    "tags": [
+      "segmentation",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "aa6b5fd893bc90327456910edd38becf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30634v1",
+    "arxiv_id": "2606.30634v1",
+    "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+    "authors": [
+      "Philip Zmushko",
+      "Egor Petrov",
+      "Nursultan Abdullaev"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "Asynchronous Pipeline Parallelism Boosts LLM Pretraining Efficiency Without Gradient Staleness",
+    "tldr": "This study demonstrates that asynchronous pipeline parallelism can eliminate idle GPU time during large‑scale LLM pretraining, achieving higher throughput. By employing the PipeDream‑2BW schedule, the authors show that the one‑step gradient delay does not impede model convergence.",
+    "significance": "It proves that asynchronous pipeline parallelism is a practical, high‑performance strategy for training massive language models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "68543b1af7a3440901f9bb50e0390cea",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30633v1",
+    "arxiv_id": "2606.30633v1",
+    "title": "GIGA-Lens 2.0: Strong-Lens Modeling on Multiple GPU Nodes",
+    "authors": [
+      "Xiaosheng Huang",
+      "Linus Upson",
+      "Nicolas Ratier-Werbin"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "GIGA-Lens 2.0: Multi-Node GPU Acceleration for Fast Strong Lens Modeling",
+    "tldr": "We introduce GIGA-Lens 2.0, a GPU-accelerated Bayesian framework that now runs across multiple GPU nodes, achieving a 4× speedup on 512 A100 GPUs. The upgraded system models 100 simulated lens systems and a real DESI lens in minutes, demonstrating its scalability and scientific impact.",
+    "significance": "This advancement enables rapid, large-scale strong lens analyses, accelerating cosmological studies and making high-fidelity modeling accessible to the community.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dd1e5e39d6b19e7d4932e72d07012247",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30632v1",
+    "arxiv_id": "2606.30632v1",
+    "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+    "authors": [
+      "Yuhong Deng",
+      "Yuyao Liu",
+      "David Hsu"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "Grounding Which and Where: Robots Use Any Object as a Tool",
+    "tldr": "GROW^2 enables robots to identify arbitrary objects as tools and pinpoint the exact region to use. By integrating open-world affordance grounding, the system expands robotic capabilities beyond conventional tool sets.",
+    "significance": "This work demonstrates a scalable approach for robots to adaptively repurpose everyday items, bridging a critical gap in autonomous tool use.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "65e65dca6e5d8813b9aec3d339061b3f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30627v1",
+    "arxiv_id": "2606.30627v1",
+    "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+    "authors": [
+      "Subramanyam Sahoo",
+      "Aman Chadha",
+      "Vinija Jain"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "Conservative Offline Training Can Exacerbate Reward Hacking in Online Adaptation of LLMs",
+    "tldr": "We show that policies trained with conservative offline methods are more prone to reward hacking when fine-tuned online. Our experiments on Qwen3-14B with Direct Preference Optimisation reveal a paradoxical increase in exploitation of reward model flaws.",
+    "significance": "This challenges the prevailing belief that conservative offline training inherently safeguards against reward exploitation.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "abb7b965370e6c0b360d3c0176aacb58",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30626v1",
+    "arxiv_id": "2606.30626v1",
+    "title": "DOPD: Dual On-policy Distillation",
+    "authors": [
+      "Xinlei Yu",
+      "Gen Li",
+      "Qingyi Si"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "Dual On-Policy Distillation: Enhancing Transfer with Privileged Teacher and Student Signals",
+    "tldr": "Dual On-Policy Distillation (DOPD) extends OPD by injecting privileged information into teacher and student models, providing richer token-level supervision. This approach improves knowledge transfer while mitigating failure modes associated with additional inputs.",
+    "significance": "DOPD pushes the performance frontier of distillation by leveraging privileged signals, offering a practical pathway for more robust model compression.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "970a37487aacdbda62f1b6d05c80212a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.30623v1",
+    "arxiv_id": "2606.30623v1",
+    "title": "When and Which Sensor to Observe? Timely Tracking of a Joint Markov Source",
+    "authors": [
+      "Ismail Cosandal",
+      "Sennur Ulukus",
+      "Nail Akar"
+    ],
+    "published": "2026-06-29",
+    "curated_at": "2026-06-30",
+    "headline": "Optimizing Sensor Pulls for Joint Markov Process Estimation in Real-Time Monitoring",
+    "tldr": "We study remote estimation of a joint Markov process where each component can be observed by a dedicated sensor with different sampling costs. By deciding when to stay idle or request a sensor pull, we aim to minimize estimation error while respecting cost constraints.",
+    "significance": "This work provides a principled framework for cost‑aware sensor scheduling in distributed monitoring systems, improving efficiency and accuracy.",
+    "tags": [
+      "remote-sensing",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "28d0b99488b382f44809405050757131",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.28323v1",
@@ -1169,246 +1412,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "cf8fcc87065c58bd5e87ad72fa115611",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26087v1",
-    "arxiv_id": "2606.26087v1",
-    "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
-    "authors": [
-      "JoungBin Lee",
-      "Jaewoo Jung",
-      "Jongmin Lee"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "Multi-View Point Tracking Enhances 4D Video Generation from Monocular Input",
-    "tldr": "The paper introduces MVTrack4Gen, a framework that uses multi-view point tracking as geometric supervision to synthesize novel-view 4D videos from a single reference video. It overcomes the inaccuracies of traditional 3D reconstruction, achieving better geometric consistency and motion fidelity.",
-    "significance": "It offers a robust alternative to explicit 3D reconstruction for dynamic scenes, enabling higher fidelity novel-view video synthesis.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "time-series",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7315d29d64b13b817b8703b0ab790abb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26084v1",
-    "arxiv_id": "2606.26084v1",
-    "title": "Operational detection of Wigner negativity in arbitrary quantum states from few copies",
-    "authors": [
-      "Sudip Chakrabarty",
-      "Bivas Mallick",
-      "Ananda G. Maity"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "Detecting Wigner Negativity in Quantum States with Few Copies via Accessible Moments",
-    "tldr": "We present a unified framework that uses experimentally measurable moments of the Wigner function to detect negativity in arbitrary quantum states. The method requires only a modest number of state copies and exploits constraints of positive phase-space distributions.",
-    "significance": "This approach offers a practical, scalable tool for identifying nonclassical resources essential for quantum advantage.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5c0c2ae99b581f26be978dfd2e4b4107",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26083v1",
-    "arxiv_id": "2606.26083v1",
-    "title": "Real-Time Voice AI Hears but Does Not Listen",
-    "authors": [
-      "Martijn Bartelds",
-      "Federico Bianchi",
-      "James Zou"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "Real‑Time Voice AI Hears Words, Ignores Tone: A Comparative Study",
-    "tldr": "We benchmark four production real‑time voice systems—GPT Realtime 2, Gemini 3.1 Flash Live, Qwen3.5 Omni Plus, and Omni Flash—on tasks that require interpreting both words and vocal delivery. All four systems respond only to the words, failing to capture the nuanced information conveyed by tone and delivery.",
-    "significance": "The findings highlight a critical limitation in current real‑time voice AI, underscoring the need for models that can process paralinguistic cues.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b9065304bbff7add89a4a94be7e3e8b1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24888v1",
-    "arxiv_id": "2606.24888v1",
-    "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
-    "authors": [
-      "Xingjian Leng",
-      "Jaskirat Singh",
-      "Zhanhao Liang"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "DiffusionBench: A Holistic Benchmark for Diffusion Transformers Beyond ImageNet",
-    "tldr": "DiffusionBench introduces a comprehensive evaluation framework for diffusion transformers, extending beyond the standard class‑conditional ImageNet setup to include text‑to‑image tasks and diverse metrics. The benchmark aims to reveal true progress in generative modeling by assessing models on multiple realistic scenarios.",
-    "significance": "By providing a more realistic and multi‑faceted evaluation, DiffusionBench helps researchers gauge genuine advances in diffusion transformer capabilities rather than overfitting to a single metric.",
-    "tags": [
-      "diffusion-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8041157d72ac72ebe6915e64e584a767",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24886v1",
-    "arxiv_id": "2606.24886v1",
-    "title": "The Topology of the Universe",
-    "authors": [
-      "Craig J. Copi",
-      "Deyan P. Mihaylov",
-      "Anna Negro"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "Unveiling the Universe’s Shape: How Cosmic Topology Could Reveal a Finite Cosmos",
-    "tldr": "Scientists are investigating whether the universe is finite by searching for patterns in the cosmic microwave background and the distribution of galaxies. A small-scale non-trivial topology would leave detectable signatures that could challenge the assumption of infinite, homogeneous space.",
-    "significance": "Discovering a finite topology would reshape our understanding of cosmology and the fundamental geometry of the universe.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5f126790574c15774bcddfa2d926c77a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24885v1",
-    "arxiv_id": "2606.24885v1",
-    "title": "Sonus Health: Calibrated Heart-Murmur Detection from Smartphone-Based Veterinary Auscultation",
-    "authors": [
-      "Aswin Jose",
-      "Roeland P-J E. Decorte",
-      "Laurent Locquet"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "Smartphone Detects Dog Heart Murmurs Early with Sonus Health",
-    "tldr": "Sonus Health uses a smartphone app to capture and analyze heart sounds in dogs and cats, enabling early detection of murmurs. The system offers real-time, calibrated results that can be shared with veterinarians for prompt diagnosis.",
-    "significance": "This technology empowers veterinarians to catch heart disease earlier, improving outcomes for pets.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "88d8a358b45b903b5b180a67ed98c1ae",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24884v1",
-    "arxiv_id": "2606.24884v1",
-    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-    "authors": [
-      "Maggie Wang",
-      "Lars Osterberg",
-      "Stephen Tian"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "InSight: Autonomous Skill Learning with Steerable Vision-Language-Action Models",
-    "tldr": "InSight enables vision-language-action models to autonomously acquire manipulation skills by allowing users to steer primitive actions such as moving a gripper or pouring. The framework splits learning into two stages: a skill extraction phase and a steerable action execution phase, unlocking capabilities beyond the training data.",
-    "significance": "By decoupling skill acquisition from fixed training data, InSight expands the applicability of VLAs to novel tasks in real-world robotics.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3034686e77c28bf47ae0c73908c28565",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24883v1",
-    "arxiv_id": "2606.24883v1",
-    "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
-    "authors": [
-      "Qi Chen",
-      "Wenxuan Li",
-      "Pedro R. A. S. Bassi"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "BenchX Reveals How Demographic and Protocol Biases Skew AI Cancer Detection Accuracy",
-    "tldr": "BenchX is a new benchmark that evaluates AI models for cancer detection and localization across diverse patient demographics and imaging protocols. The study shows that model performance drops significantly when applied to underrepresented groups or non-standard imaging phases.",
-    "significance": "Understanding and mitigating these biases is essential for deploying reliable AI diagnostics in real-world clinical settings.",
-    "tags": [
-      "benchmark",
-      "segmentation",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b9b059d91ed99ba4dd8cfd0b5b6c8e70",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24881v1",
-    "arxiv_id": "2606.24881v1",
-    "title": "Queues with Correlated Service Times -- the $M/M_D/c$ Model",
-    "authors": [
-      "Qihui Bu",
-      "Suman Thapa",
-      "Yiqiang Q. Zhao"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "Analyzing Multi-Server Queues with Correlated Service Times Using the M/M_D/c Model",
-    "tldr": "This paper extends classic M/M/c queueing theory by incorporating correlated service times via the Marshall–Olkin multivariate exponential distribution. The resulting M/M_D/c model provides new insights into system performance and potential applications in real-time service systems.",
-    "significance": "It offers a tractable framework for analyzing correlated service dynamics, improving accuracy in performance evaluation for multi-server systems.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b01c52105a62e0a53bcb03a8d8711b0b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.24876v1",
-    "arxiv_id": "2606.24876v1",
-    "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
-    "authors": [
-      "Orest Kupyn",
-      "Goutam Bhat",
-      "Philipp Henzler"
-    ],
-    "published": "2026-06-23",
-    "curated_at": "2026-06-24",
-    "headline": "FLAT: Feedforward Latent Triangle Splatting for Accurate 3D Scene Generation",
-    "tldr": "FLAT introduces a feedforward decoder that splats latent triangles to produce geometrically precise 3D scenes from a single image, surpassing prior volumetric Gaussian approaches. The method leverages diffusion models’ latent space while enabling real‑time, explorable scene rendering.",
-    "significance": "It bridges the gap between high‑quality generative diffusion models and accurate geometric representations, enabling practical applications in virtual exploration and downstream vision tasks.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
