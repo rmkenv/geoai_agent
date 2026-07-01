@@ -1,5 +1,223 @@
 [
   {
+    "uid": "490a78f2ebdf328280cabce7ebba7439",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32039v1",
+    "arxiv_id": "2606.32039v1",
+    "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
+    "authors": [
+      "Bin Lin",
+      "Zheyuan Liu",
+      "Chenguo Lin"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "GEAR: End-to-End Training of Tokenizer and Generator for Image Synthesis",
+    "tldr": "GEAR trains a vector-quantized tokenizer jointly with a generator, eliminating the decoupling that hampers traditional two-stage pipelines. This end-to-end approach improves model efficiency and synthesis quality.",
+    "significance": "By aligning tokenizer and generator training, GEAR enhances generative model performance and paves the way for more coherent image synthesis.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "vector-tiles"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "19935f844b9b5f5ce79aadc5d6841706",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32036v1",
+    "arxiv_id": "2606.32036v1",
+    "title": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
+    "authors": [
+      "Yujie Guo",
+      "Yudong Jin",
+      "Lingteng Qiu"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "PointSplat: Fast, Compact Gaussian Splatting for Real-Time 3D Human Reconstruction",
+    "tldr": "PointSplat introduces a human‑centric Gaussian splatting approach that compresses 3D human models into compact representations while preserving high fidelity. The method enables on‑the‑fly reconstruction from multiple views, making it ideal for live streaming with limited bandwidth and compute resources.",
+    "significance": "This work bridges the gap between high‑quality 3D human reconstruction and the constraints of real‑time streaming, offering a scalable solution for immersive applications.",
+    "tags": [
+      "real-time",
+      "point-cloud",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bf9536a9d47a8b4cd609693b6c1a672e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32034v1",
+    "arxiv_id": "2606.32034v1",
+    "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+    "authors": [
+      "Sergio Hernández-Gutiérrez",
+      "Matteo Merler",
+      "Ilze Amanda Auzina"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "QVal: Cheap Evaluation of Dense Supervision for Long-Horizon LLM Agents",
+    "tldr": "QVal introduces a lightweight method to assess dense supervision signals in long-horizon LLM agents, enabling more efficient training and better guidance of intermediate actions. By leveraging cheap evaluation metrics, the approach reduces reliance on sparse outcome rewards and improves agent performance across extended trajectories.",
+    "significance": "It provides a scalable way to evaluate intermediate action quality, addressing a key bottleneck in training long-horizon LLM agents.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6141655c3a34280dfd89bc44f8e10f77",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32033v1",
+    "arxiv_id": "2606.32033v1",
+    "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
+    "authors": [
+      "Or Hirschorn",
+      "Aaron Olender",
+      "Eli Alshan"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "Zero‑Shot 360 Panorama Generation with Spherical RoPE: A Diffusion Transformer Approach",
+    "tldr": "SpheRoPE injects spherical priors into pre‑trained diffusion transformers, enabling zero‑shot, training‑free 360 panorama synthesis. The method eliminates costly fine‑tuning and multi‑step optimization, delivering real‑time panoramic images and videos.",
+    "significance": "It democratizes high‑quality panoramic generation by removing the need for specialized datasets or inference overhead, making it accessible for real‑time applications.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f1349f74db445969e482b53d998f2217",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32029v1",
+    "arxiv_id": "2606.32029v1",
+    "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+    "authors": [
+      "Yuqing Yang",
+      "Qi Zhu",
+      "Zhen Han"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "LLMs Misread Tables: Quantifying and Mitigating Data Referencing Errors in Structured Data",
+    "tldr": "Large language models often miscite or omit table values, producing data referencing errors that undermine reasoning steps. This study introduces a comprehensive benchmark, measures error rates, and proposes techniques to reduce such mistakes.",
+    "significance": "By systematically measuring and reducing data referencing errors, the work enhances the reliability of LLMs in data-intensive applications.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6fe36e50fb967444d84218e4f209c3b8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32028v1",
+    "arxiv_id": "2606.32028v1",
+    "title": "DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation",
+    "authors": [
+      "Ziyu Shan",
+      "Zhenyu Wu",
+      "Xiaofeng Wang"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "Disentangled Video Generation for Efficient Embodied World Models in Robotics",
+    "tldr": "We propose a disentangled video generation framework that separates low-level temporal dynamics from high-level visual synthesis, enabling accurate future state predictions and high-resolution frame generation for robotic manipulation. This approach reduces computational cost and improves performance on embodied tasks.",
+    "significance": "By decoupling dynamics and visual synthesis, the method advances real-time robotic manipulation with more efficient and accurate world modeling.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "04947c901777c29259e96dca728c283c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32026v1",
+    "arxiv_id": "2606.32026v1",
+    "title": "AdaJEPA: An Adaptive Latent World Model",
+    "authors": [
+      "Ying Wang",
+      "Oumayma Bounou",
+      "Yann LeCun"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "AdaJEPA: Adaptive Latent World Models for Robust Test‑Time Planning in High‑Dimensional Observations",
+    "tldr": "AdaJEPA introduces a test‑time adaptive latent world model that updates its predictions during deployment, improving planning under distribution shift. It demonstrates that continuous adaptation can mitigate failure modes in high‑dimensional observation spaces.",
+    "significance": "AdaJEPA shows that adaptive latent world models can maintain planning accuracy under test‑time distribution shifts, a key step toward robust real‑world deployment of model‑based RL.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "66e3c0b7bb87a00eb978e378a8a787e0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32023v1",
+    "arxiv_id": "2606.32023v1",
+    "title": "FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
+    "authors": [
+      "Emilie Vautier",
+      "Clément Mallet",
+      "Cédric Vega"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "Predicting Forest Attributes from Heterogeneous LiDAR with Deep Learning Across Europe",
+    "tldr": "FLORA uses a deep learning model to generate wall‑to‑wall forest attribute maps from airborne LiDAR data collected under varying conditions. The approach improves national forest inventory accuracy across Europe by handling data heterogeneity.",
+    "significance": "Accurate, nationwide forest attribute predictions enable better resource management and policy decisions.",
+    "tags": [
+      "remote-sensing",
+      "LiDAR",
+      "point-cloud",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2ed27551b0c3ae23da8c7abe2d161fc9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2606.32022v1",
+    "arxiv_id": "2606.32022v1",
+    "title": "SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models",
+    "authors": [
+      "Jian Gu",
+      "Aldeida Aleti",
+      "Chunyang Chen"
+    ],
+    "published": "2026-06-30",
+    "curated_at": "2026-07-01",
+    "headline": "Introducing SemRF: A New Anchor-Based Framework for Tracking Residual-Stream Dynamics",
+    "tldr": "SemRF provides a semantic reference frame that aligns embedding anchors and unembedding readouts across layers, enabling accurate tracking of residual-stream evolution in language models. By separating measurement drift from true computation, SemRF improves interpretability and facilitates deeper analysis of LLM internals.",
+    "significance": "SemRF offers a principled way to monitor and understand how language models process information across depth, advancing research in model interpretability.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "b37bff06b10f1fc193aed08bf2a62dc5",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.30645v1",
@@ -1195,220 +1413,6 @@
       "point-cloud",
       "spatial-reasoning",
       "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "51ce7f37be16f054268cc78543ce91b6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27363v1",
-    "arxiv_id": "2606.27363v1",
-    "title": "The Effect of Topological Defects and Magnetic Flux on Fully-Heavy Tetraquarks and Mass Spectra of Heavy Quarkonia Using the Analytical Exact Iteration Method",
-    "authors": [
-      "N. H. Gerish",
-      "M. Abu-Shady",
-      "E. M. Khokha"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "Topological Defects, Magnetic Flux, and Heavy Tetraquark Mass Spectra via AEIM",
-    "tldr": "The study applies the analytical exact iteration method to solve the Schrödinger equation for fully-heavy tetraquarks and heavy quarkonia in the presence of topological defects and magnetic flux, revealing how these factors influence the mass spectra. The results provide new insights into non-perturbative QCD dynamics and potential experimental signatures.",
-    "significance": "It advances understanding of exotic hadron structure by linking topological and magnetic effects to observable mass shifts.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a1745e23d33aec5bbae684a3c8df870e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26098v1",
-    "arxiv_id": "2606.26098v1",
-    "title": "A Population of Little Red Dot-like Quasars in SDSS",
-    "authors": [
-      "Quinn O. Casey",
-      "Ryan C. Hickox",
-      "Nikko J. Cleri"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "Unveiling Little Red Dots: Compact, Red Quasars at High Redshift",
-    "tldr": "Little Red Dots (LRDs) are compact, red quasars at z~5 discovered by JWST, exhibiting broad Balmer lines, weak X-rays, and SEDs that defy standard stellar or AGN models. Studying local analogs can shed light on their unusual physical processes and the early universe's quasar population.",
-    "significance": "These findings challenge conventional quasar classification and suggest a previously unrecognized population of red, X-ray faint quasars in the early universe.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "01406f536492f83bd75a8b814c85b4ed",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26096v1",
-    "arxiv_id": "2606.26096v1",
-    "title": "Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators",
-    "authors": [
-      "Niclas Heinsdorf",
-      "Ken Shiozaki"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "Exploring Higher Berry Curvature and Second Chern Numbers in 4D Chern Insulators",
-    "tldr": "We reformulate a 4D Chern insulator as translationally invariant chains over the 3D Brillouin zone and compute its higher Berry curvature using infinite MPS. The resulting DDKS number maps the topological phase diagram of the model.",
-    "significance": "This work provides a computational framework for probing higher-dimensional topological invariants in crystalline systems, bridging theory and numerical simulation.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "676f20e6b67f16016b4777fba0cb63b9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26095v1",
-    "arxiv_id": "2606.26095v1",
-    "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
-    "authors": [
-      "Dong Jing",
-      "Tianqi Zhang",
-      "Jiaqi Liu"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "Learning Integrating Action Priors into Vision-Language Models for Cross-Embodiment Robots",
-    "tldr": "Vision-Language-Action models often rely on VLM backbones, but their action modules learn motion from scratch, lacking motion priors. This paper proposes learning explicit action priors to improve cross-embodiment robot manipulation.",
-    "significance": "By embedding motion priors, the approach accelerates learning and enhances generalization across different robot embodiments.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a4bde5d128ff60c03932f3b9623cab38",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26094v1",
-    "arxiv_id": "2606.26094v1",
-    "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
-    "authors": [
-      "Babak Rahmani",
-      "Sebastian Dziadzio",
-      "Joschka Strüber"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "Reverse Engineering Agent Code from Game Behavior",
-    "tldr": "RevengeBench tests whether models can infer an agent’s underlying code solely from observed gameplay, revealing current limitations in program synthesis from behavioral data.",
-    "significance": "It bridges behavioral analysis and executable code reconstruction, advancing AI interpretability and program synthesis.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0288a51c30a5e4d0ddeedde63968e7c2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26093v1",
-    "arxiv_id": "2606.26093v1",
-    "title": "ForceBand: Learning Forceful Manipulation with sEMG",
-    "authors": [
-      "Botao He",
-      "Zhi Wang",
-      "Linna Kuang"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "ForceBand: Low-Cost sEMG Wristband for Forceful Robot Manipulation",
-    "tldr": "Human demonstration data often lacks force information, limiting robot learning of force-sensitive tasks. ForceBand provides a low-cost wrist-worn sEMG system that captures muscle activity in real time, enabling robots to learn from forceful manipulation demonstrations.",
-    "significance": "By adding force sensing to motion-only demonstrations, ForceBand enables more robust and realistic robot manipulation learning.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fa620325ce921e1ceb8df5d0da17ed4b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26091v1",
-    "arxiv_id": "2606.26091v1",
-    "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
-    "authors": [
-      "Andrei Liviu Nicolicioiu",
-      "Mohammad Pezeshki",
-      "Aaron Courville"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "On-Policy Self-Distillation Boosts Accuracy but Lowers Output Diversity in LLMs",
-    "tldr": "Using a single model as both teacher and student, on-policy self-distillation achieves high pass@1 accuracy by conditioning on correct demonstrations. However, this approach reduces rollout diversity and flattens pass@k curves, limiting gains from additional rollouts.",
-    "significance": "It highlights a trade-off between accuracy and diversity in self-distillation, informing future LLM training strategies.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d0b68f4deda29ffa28b30d18fd102054",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26089v1",
-    "arxiv_id": "2606.26089v1",
-    "title": "Parnassus: A GPU-enabled, Python-based Package for Fast Particle Detector Simulation and Reconstruction",
-    "authors": [
-      "Abdelrahman Elabd",
-      "Eilam Gross",
-      "Dmitrii Kobylianskii"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "GPU-Accelerated Particle Detector Simulation with Parnassus: Fast, Python-Based Framework for Physics Research",
-    "tldr": "Parnassus is a Python/PyTorch framework that runs on GPUs to accelerate particle detector simulation and reconstruction. It replaces costly Geant4 chains with neural or parametric models, enabling rapid, user-friendly workflows for physics experiments.",
-    "significance": "By dramatically reducing simulation time, Parnassus empowers physicists to iterate designs and analyze data faster, accelerating research in high-energy and nuclear physics.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 1,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d1d3db265467cfad3ffb5787ba23cf02",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.26088v1",
-    "arxiv_id": "2606.26088v1",
-    "title": "Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography",
-    "authors": [
-      "Saleha Maqsood",
-      "Muhammad Kamran",
-      "Tahir Malik"
-    ],
-    "published": "2026-06-24",
-    "curated_at": "2026-06-25",
-    "headline": "Simulating Universal Quantum Gates on Photonic OAM Qubits Using SLM Phase Holography",
-    "tldr": "We present a detailed simulation framework for implementing universal quantum gates on orbital angular momentum qubits encoded in Laguerre-Gaussian beams, leveraging spatial light modulators for programmable phase holography. The study includes hardware-grounded fidelity benchmarks and demonstrates both single- and multi-qubit operations with realistic error models.",
-    "significance": "This work bridges photonic quantum information processing and reconfigurable optical hardware, enabling scalable, high-fidelity quantum gate operations in a software-defined platform.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time",
-      "spatial-reasoning"
     ],
     "readtime": 3,
     "difficulty": "advanced"
