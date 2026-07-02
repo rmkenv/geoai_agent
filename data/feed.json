@@ -1,5 +1,233 @@
 [
   {
+    "uid": "d4446b2d5754997795eb525cfaead966",
+    "source": "web",
+    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
+    "arxiv_id": "",
+    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "2025 GeoAI Trends: Predictive Insights, Automation, and Climate Solutions Across",
+    "tldr": "GeoAI in 2025 is reshaping how we monitor climate, cities, and global challenges with advanced predictive models and real‑time data streams. Key innovations include foundation models for satellite imagery, automated flood detection, and urban AI for smart city planning.",
+    "significance": "These trends empower decision-makers to proactively address environmental risks and optimize resource allocation at scale.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "urban-AI",
+      "flood-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
+    "arxiv_id": "",
+    "title": "Towards the next generation of Geospatial Artificial Intelligence",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "Charting the Future of GeoAI: From Foundations to Real-World Impact",
+    "tldr": "GeoAI is rapidly evolving, blending geospatial science with AI to unlock new insights. This paper reviews recent breakthroughs and outlines future directions for the field.",
+    "significance": "Understanding GeoAI's trajectory is crucial for harnessing AI to address global spatial challenges.",
+    "tags": [
+      "foundation-models",
+      "satellite-imagery",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
+    "arxiv_id": "",
+    "title": "GeoAI | Geo Week News",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "AI Transforms Geospatial Work: From Automated Feature Extraction to Predictive Analysis",
+    "tldr": "Artificial intelligence and machine learning are automating feature extraction and point cloud classification across satellite imagery and LiDAR data. These advances enable real‑time predictive analysis, driving smarter decisions in urban planning, agriculture, and disaster response.",
+    "significance": "By scaling AI-driven interpretation of spatial data, GeoAI unlocks faster, more accurate insights that can transform how we monitor and manage the planet.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
+    "source": "web",
+    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
+    "arxiv_id": "",
+    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "5 Emerging GeoAI Trends Shaping 2025: From Foundation Models to Urban AI",
+    "tldr": "GeoAI is accelerating with foundation models, advanced remote sensing, and urban AI applications. These trends promise smarter planning, agriculture, and disaster response in 2025.",
+    "significance": "These innovations will transform how cities, farms, and emergency services use spatial data.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "urban-AI"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "92bf674ec35ec2ef9f1df52ed0afdea5",
+    "source": "web",
+    "url": "https://www.itu.int/hub/2025/03/itu-journal-explores-geoai-innovation-for-the-good-of-humanity/",
+    "arxiv_id": "",
+    "title": "ITU Journal explores GeoAI innovation for the good of humanity",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "ITU Journal Highlights GeoAI Innovations Driving Sustainable Development",
+    "tldr": "The 2025 edition of the ITU Journal showcases how GeoAI can support sustainable development, featuring research on satellite imagery, remote sensing, and spatial reasoning. Experts discuss practical applications from flood detection to urban planning, underscoring GeoAI’s role in shaping a digital, eco‑friendly future.",
+    "significance": "By integrating GeoAI into telecommunications research, the journal demonstrates how AI-driven spatial analytics can accelerate global sustainability goals.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "762c83592693d584bfc0fba64f7899ac",
+    "source": "web",
+    "url": "https://github.com/mbzuai-oryx/ThinkGeo",
+    "arxiv_id": "",
+    "title": "GitHub - mbzuai-oryx/ThinkGeo: [CVPR 2026 ] ThinkGeo is a ...",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "ThinkGeo: Benchmarking LLMs on Remote Sensing Tasks with Structured Tool Use",
+    "tldr": "ThinkGeo is a new benchmark that tests language models on complex satellite and aerial imagery tasks using step‑by‑step reasoning and tool calls. It provides human‑curated queries across disaster response, urban planning, and environmental monitoring, enabling systematic evaluation of LLM capabilities in remote sensing.",
+    "significance": "It bridges the gap between natural language processing and geospatial analysis, offering a standardized way to assess how well LLMs can interpret and act on real‑world imagery data.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5ab5eede356b856d4b1bed7552008f21",
+    "source": "web",
+    "url": "https://github.com/ua-datalab/geospatial_2025",
+    "arxiv_id": "",
+    "title": "GitHub - ua-datalab/geospatial_2025",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "AI Models Transform GIS: From Advice to Autonomous Spatial Analysis Agents",
+    "tldr": "AI systems are evolving from providing guidance to executing GIS commands autonomously, reshaping geospatial workflows. This shift enables rapid, code-free spatial analysis directly on local machines.",
+    "significance": "This evolution democratizes advanced geospatial analysis, accelerating insights across environmental, urban, and agricultural domains.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
+    "source": "web",
+    "url": "https://opengeoai.org/",
+    "arxiv_id": "",
+    "title": "GeoAI: Artificial Intelligence for Geospatial Data",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "GeoAI: Bridging AI and Geospatial Data for Accessible Machine Learning",
+    "tldr": "GeoAI is a Python package that integrates AI techniques with geospatial data, enabling researchers to apply machine learning to geographic datasets. It offers intuitive tools for tasks such as segmentation, object detection, and time‑series analysis in a user‑friendly framework.",
+    "significance": "By simplifying AI workflows on spatial data, GeoAI accelerates insights in fields ranging from urban planning to environmental monitoring.",
+    "tags": [
+      "remote-sensing",
+      "segmentation",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "1785692639303012acc70ffb83d999f5",
+    "source": "web",
+    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
+    "arxiv_id": "",
+    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Earth Observation Data",
+    "tldr": "NASA has released Galileo, an open-source multimodal foundation model that can ingest satellite imagery, time-series data, and tabular inputs. Its tokenization pipeline splits remote sensing data into spatial patches, timesteps, and logical channel groups, enabling unified processing across diverse modalities.",
+    "significance": "Galileo democratizes advanced Earth observation analytics by providing a single, open-source framework that integrates images, time series, and tabular data, accelerating research and operational applications.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "satellite-imagery",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "57bbba71b7a72c67542b239374b0f3de",
+    "source": "web",
+    "url": "https://rastervision.io/",
+    "arxiv_id": "",
+    "title": "Raster Vision: An open-source machine learning library for deep ...",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "Raster Vision: Open-Source Deep Learning Library Bridging GIS and Computer Vision",
+    "tldr": "Raster Vision is an open-source framework that unifies GIS data with deep learning pipelines for tasks like chip classification, semantic segmentation, and object detection. Its configurable architecture enables researchers to deploy and experiment with state‑of‑the‑art models on satellite imagery.",
+    "significance": "By simplifying the integration of geospatial data and deep learning, Raster Vision accelerates the development of AI solutions for environmental monitoring and urban planning.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bbd2b4f2ae9ce98c24738ecd51e5a7cb",
+    "source": "web",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2600178",
+    "arxiv_id": "",
+    "title": "An LLM-based multi-agent system for remote sensing analysis",
+    "authors": [],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-02",
+    "headline": "LLM-Powered Multi-Agent Framework Simplifies Remote Sensing for Non-Experts in Urban and Environmental Monitoring",
+    "tldr": "We introduce a large language model-based multi-agent system that guides users through remote sensing tasks without requiring specialized expertise. The framework automates data preprocessing, analysis, and interpretation, enabling rapid, accurate insights for urban and environmental applications.",
+    "significance": "This approach democratizes access to remote sensing, empowering stakeholders to make data-driven decisions without technical barriers.",
+    "tags": [
+      "LLM",
+      "remote-sensing",
+      "urban-AI",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "490a78f2ebdf328280cabce7ebba7439",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2606.32039v1",
@@ -1149,269 +1377,6 @@
     "tags": [
       "real-time",
       "time-series",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f5f5287640366b680e5b0c143529e433",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27352v1",
-    "arxiv_id": "2606.27352v1",
-    "title": "Congruent copies of finite patterns in planar point sets",
-    "authors": [
-      "Shubhrajit Bhattacharya",
-      "Ritesh Goenka"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "New Lower Bounds on Congruent Pattern Copies in Planar Point Sets Using Advanced Combinatorics",
-    "tldr": "We prove that for any finite planar point pattern S, there exist point sets of size n containing Ω_S(n^{1+δ_S}) congruent copies of S. This improves previous bounds and follows from a recent breakthrough on the unit distance problem.",
-    "significance": "The result establishes a superlinear lower bound on pattern replication, advancing our understanding of geometric configurations in finite point sets.",
-    "tags": [
-      "spatial-reasoning",
-      "point-cloud",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "dbde01458de9a89dc431294cbe8d081f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27377v1",
-    "arxiv_id": "2606.27377v1",
-    "title": "DanceOPD: On-Policy Generative Field Distillation",
-    "authors": [
-      "Wei Zhou",
-      "Xiongwei Zhu",
-      "Zelin Xu"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "DanceOPD: Unified Text-to-Image, Local and Global Editing in One Generative Model",
-    "tldr": "DanceOPD introduces an on-policy generative field distillation framework that merges text-to-image generation with local and global editing into a single diffusion model. The approach resolves conflicts between editing modes, achieving high fidelity across diverse tasks without sacrificing performance.",
-    "significance": "It enables seamless composition of multiple editing capabilities in a single model, advancing unified image generation.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "355eb005bff9ee834d8926e2ddb3bcd3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27376v1",
-    "arxiv_id": "2606.27376v1",
-    "title": "Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards",
-    "authors": [
-      "Ritesh Thawkar",
-      "Shravan Venkatraman",
-      "Omkar Thawakar"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "Self‑Evolving LMMs: Autonomous Visual Understanding & Image Generation via Self‑Consistency Rewards",
-    "tldr": "The authors propose a self‑evolving training framework that lets a unified large multimodal model improve both visual understanding and image generation using only unlabeled images. The method relies on self‑consistency rewards to guide the model autonomously without curated supervision.",
-    "significance": "It demonstrates that large multimodal models can self‑improve across perception and generation tasks without external labels, potentially reducing reliance on costly annotations.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "54f05b890b5ebd84e7b54f11425af216",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27375v1",
-    "arxiv_id": "2606.27375v1",
-    "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
-    "authors": [
-      "Arthur Allshire",
-      "Himanshu Gaurav Singh",
-      "Ritvik Singh"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
-    "tldr": "We present ABC, a fully open-source stack for manipulation that includes ABC-130K, the largest teleoperation dataset with 3,500 hours across 130K episodes. The release also features hardware, training infrastructure, and a simulation pipeline, along with 400 hours of simulated teleop data.",
-    "significance": "ABC democratizes large-scale robotic learning by providing unprecedented open data and tools for behavior cloning.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "87914c5b405fe13254cc9e3d6622ba86",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27374v1",
-    "arxiv_id": "2606.27374v1",
-    "title": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
-    "authors": [
-      "Manish Kumar Govind",
-      "Dominick Reilly",
-      "Smit Patel"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "World Action Models Enable Continual Imitation Learning via Recurrent Generative Replay",
-    "tldr": "World Action Models (WAMs) can generate future visual observations, not just actions. By using Recurrent Generative Replay (REGEN), robots can rehearse past tasks from synthetic trajectories, eliminating the need to store original human demonstrations.",
-    "significance": "This approach reduces data storage demands and accelerates continual learning in robotics.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "03ed28b8e40524b0fa3cabf51d9ec8f2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27373v1",
-    "arxiv_id": "2606.27373v1",
-    "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
-    "authors": [
-      "Shravan Venkatraman",
-      "Ritesh Thawkar",
-      "Omkar Thawakar"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "Enhancing Visual Focus in Self‑Evolving Large Multimodal Models for Robust Reasoning",
-    "tldr": "Self‑evolving LMMs have improved visual reasoning without supervision, but current reward schemes prioritize answer consistency over genuine visual attention. This paper proposes methods to ensure decoders focus on visual tokens, reducing reliance on language priors.",
-    "significance": "By aligning decoder attention with visual content, the study advances reliable multimodal reasoning in unsupervised settings.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "309f9ad7997f3fc9ae01e80f534c7017",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27372v1",
-    "arxiv_id": "2606.27372v1",
-    "title": "DnA: Denoising Attention for Visual Tasks",
-    "authors": [
-      "Ron Campos",
-      "Subhajit Maity",
-      "Xin Li"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "DnA: Denoising Attention Improves Visual Task Accuracy by Reducing Noisy Softmax Patterns",
-    "tldr": "The paper introduces Denoising Attention (DnA), a method that replaces standard softmax in multi-head attention with a positive query-based filtering to suppress noisy attention. Experiments on visual perception tasks show that DnA improves feature focus and boosts performance in segmentation and detection benchmarks.",
-    "significance": "DnA offers a lightweight, generalizable improvement to attention mechanisms that can enhance accuracy across a range of computer vision applications.",
-    "tags": [
-      "segmentation",
-      "object-detection",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e83c79fe7c1daab998ca7cd0bd442999",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27371v1",
-    "arxiv_id": "2606.27371v1",
-    "title": "Don't Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance",
-    "authors": [
-      "Pradhaan S Bhat",
-      "Rishubh Parihar",
-      "Abhijnya Bhat"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "Boosting Diversity in Flow Models with Feature Self-Guidance",
-    "tldr": "Pretrained flow models often collapse to a single mode when generating multiple samples under the same prompt. This paper introduces feature self-guidance to encourage diverse outputs without external reward models or latent guidance.",
-    "significance": "The method improves sample diversity in generative flow models, enabling more varied and realistic image generation.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fb482ab4d0d17e697f98319132029c96",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27369v1",
-    "arxiv_id": "2606.27369v1",
-    "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
-    "authors": [
-      "Yingyu Lin",
-      "Qiyue Gao",
-      "Nikki Lijing Kuang"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "Reinforcement Learning Without Ground Truth Enhances LLM Training via RiVER",
-    "tldr": "The RiVER framework lets large language models learn from ranking-based rewards without needing exact answers, expanding RLVR to tasks lacking ground truth. It uses deterministic scoring to guide optimization, improving model performance on diverse problems.",
-    "significance": "By removing the dependency on ground-truth solutions, RiVER broadens the applicability of reinforcement learning for LLMs to many real-world tasks.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b186d47a164bd48a3b72306fac37d125",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27367v1",
-    "arxiv_id": "2606.27367v1",
-    "title": "Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification",
-    "authors": [
-      "Nicolas Spiesshofer",
-      "Tabitha Jones",
-      "Sarah May Sibug Torres"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "Electrochemically Cleanable Metamaterials Enable Combined SEIRA and SERS for Ultra-sensitive Molecular Detection",
-    "tldr": "We demonstrate a reusable, electrochemically cleanable metamaterial that simultaneously enhances infrared absorption and Raman scattering, enabling ultrasensitive chemical fingerprinting. This dual-mode platform offers a robust, non-invasive sensing solution for molecular identification.",
-    "significance": "This work provides the first integrated, reusable substrate that combines SEIRA and SERS, paving the way for highly sensitive, non-destructive chemical analysis.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "bda8265bee64b1c3d30e8d71f00349cb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27365v1",
-    "arxiv_id": "2606.27365v1",
-    "title": "3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample",
-    "authors": [
-      "I. Binnie",
-      "H. Fang",
-      "B. Shearer"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-26",
-    "headline": "3D Imaging Reveals Complex Skyrmion and Hopf Topologies",
-    "tldr": "Using vector ptycho-tomography, researchers captured the 3D magnetic textures of skyrmions and Hopf topologies. This breakthrough provides deeper understanding of topological protection and paves the way for advanced spintronic devices.",
-    "significance": "It demonstrates a powerful imaging technique that could accelerate the development of next‑generation spintronic technologies.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
       "open-source"
     ],
     "readtime": 3,
