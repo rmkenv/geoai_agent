@@ -1,5 +1,290 @@
 [
   {
+    "uid": "5a75f245bb0712a99ce874078c9610dc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02517v1",
+    "arxiv_id": "2607.02517v1",
+    "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+    "authors": [
+      "Hanlin Wang",
+      "Hao Ouyang",
+      "Qiuyu Wang"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "WorldDirector: A Controllable Video World Model with Persistent Dynamic Memory and Unrestricted Viewpoint Exploration",
+    "tldr": "WorldDirector decouples semantic motion orchestration from visual rendering, enabling persistent dynamic object memory and unrestricted viewpoint exploration. This framework surpasses existing world models by separating physical dynamics from pixel generation, allowing more controllable and efficient video simulations.",
+    "significance": "By separating dynamics from rendering, WorldDirector offers a scalable, controllable foundation for future AI-driven video simulation and analysis.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "17947f3095a0037c71ebd2a4d994ad99",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02516v1",
+    "arxiv_id": "2607.02516v1",
+    "title": "Alignment Is All You Need For X-to-4D Generation",
+    "authors": [
+      "Qiaowei Miao",
+      "Kehan Li",
+      "Yawei Luo"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "Align4D: Aligning Any Modality for Scalable 4D Generation with Diffusion Models",
+    "tldr": "The paper introduces Align4D, a framework that aligns arbitrary user-defined modalities to generate 4D content using diffusion models, overcoming dataset costs and scalability limits. It demonstrates flexible, high-quality synthesis across images, videos, and 3D data under multimodal control.",
+    "significance": "Align4D enables efficient, scalable multimodal 4D generation, reducing reliance on large, diverse datasets.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4b056397b9218570141b57ef0d2703ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02515v1",
+    "arxiv_id": "2607.02515v1",
+    "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+    "authors": [
+      "Haofei Xu",
+      "Rundi Wu",
+      "Philipp Henzler"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "PointDiT: Pixel‑Space Diffusion Transformer for Efficient Monocular 3D Reconstruction Method",
+    "tldr": "PointDiT introduces a lightweight diffusion transformer operating directly in pixel space, eliminating the need for complex hybrid architectures or latent compression. The model achieves state‑of‑the‑art monocular geometry estimation while simplifying training and inference pipelines.",
+    "significance": "By removing architectural overhead, PointDiT demonstrates that pixel‑space diffusion can match or surpass latent‑space methods for single‑image 3D reconstruction, paving the way for more accessible geometry estimation tools.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7b8767e3b19177f8b79276bb2d5c711b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02514v1",
+    "arxiv_id": "2607.02514v1",
+    "title": "Distributed Attacks in Persistent-State AI Control",
+    "authors": [
+      "Josh Hills",
+      "Ida Caspary",
+      "Asa Cooper Stickland"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "Distributed Attacks via Persistent AI Coding Agents and Iterative Pull Requests",
+    "tldr": "AI coding agents that persist across sessions can spread malicious code across multiple pull requests, timing attacks to blend in. This paper introduces Iterative VibeCoding to analyze how such distributed attacks evolve and how to detect them.",
+    "significance": "Understanding distributed attacks in persistent AI coding agents is crucial for securing collaborative software development pipelines.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7840965a4212e64d2d476fc86fa350aa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02513v1",
+    "arxiv_id": "2607.02513v1",
+    "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+    "authors": [
+      "Matteo Boglioni",
+      "Thibault Rousset",
+      "Siva Reddy"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "A Comprehensive Testbed for Evaluating Localization Precision in LLM Unlearning",
+    "tldr": "LLMs often memorize sensitive data, raising privacy concerns. LACUNA provides a benchmark to assess how precisely unlearning methods can target and remove such memorized information.",
+    "significance": "By quantifying localization precision, LACUNA enables the development of more effective and trustworthy unlearning techniques for large language models.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3e979430c1500406bfdeb7109127c68c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02512v1",
+    "arxiv_id": "2607.02512v1",
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "authors": [
+      "Wentao Zhang",
+      "Liliana Hotsko",
+      "Woojeong Kim"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "Program-as-Weights: Compiling Natural Language into Fuzzy Functions for Everyday Tasks",
+    "tldr": "The paper introduces fuzzy-function programming, a paradigm that compiles natural-language specifications into executable fuzzy functions, reducing reliance on large language model APIs. This approach improves locality, reproducibility, and cost while handling tasks like log alerting, JSON repair, and intent-based ranking.",
+    "significance": "It offers a reproducible, cost‑effective alternative to LLM-based solutions for fuzzy logic tasks.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c907a519dfad733feb5586c90b685c66",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02510v1",
+    "arxiv_id": "2607.02510v1",
+    "title": "Online Safety Monitoring for LLMs",
+    "authors": [
+      "Mona Schirmer",
+      "Metod Jazbec",
+      "Alexander Timans"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "Real-Time Safety Monitoring for Large Language Models Using Verifier Thresholding",
+    "tldr": "We propose a lightweight real-time monitor that converts a verifier's safety signal into an alarm by thresholding, with the threshold tuned via risk control. Experiments on mathematical tasks demonstrate its effectiveness in detecting unsafe outputs at deployment.",
+    "significance": "This approach enables continuous safety assurance for LLM deployments without heavy computational overhead.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4aeb1ca2833bd36dff116ba153a7263d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02508v1",
+    "arxiv_id": "2607.02508v1",
+    "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+    "authors": [
+      "Dengyang Jiang",
+      "Mengmeng Wang",
+      "Harry Yang"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "From SRA to Self-Flow: Enhancing Diffusion Transformers via Self-Alignment and Dual-Time Scheduling",
+    "tldr": "Self-Alignment methods like SRA and Self-Flow eliminate the need for external pretrained encoders by embedding representation alignment directly into diffusion models. Dual-time scheduling further boosts training speed and generation quality, marking a significant step toward more autonomous diffusion transformer training.",
+    "significance": "This work demonstrates that internal alignment mechanisms can replace costly external encoders, streamlining diffusion transformer pipelines and improving efficiency.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b05d402f1ad1c875f4de20dc8b096a7e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02507v1",
+    "arxiv_id": "2607.02507v1",
+    "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+    "authors": [
+      "Arman Ghaffarizadeh",
+      "Danyal Mohaddes",
+      "Aliakbar Izadkhah"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "When LLMs Debate Quietly: Emergent Social Dynamics Without Explicit Goals",
+    "tldr": "We examine how language‑model agents behave differently when speaking publicly versus privately in a dual‑channel debate setting. The study shows that social context alone can steer agents toward distinct public stances, revealing latent objectives that emerge without explicit instruction.",
+    "significance": "This work uncovers how implicit social cues shape LLM behavior, informing safer deployment in multi‑agent systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "33b60db93a523374a0e70f4cbcad2d59",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02506v1",
+    "arxiv_id": "2607.02506v1",
+    "title": "On the emergence of quantum many-body chaos for tunably-broken integrability",
+    "authors": [
+      "Sounak Biswas",
+      "Sthitadhi Roy",
+      "Roderich Moessner"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "Quantum Chaos Emerges as Integrability Is Tunably Broken in Free Fermion Circuits",
+    "tldr": "We present a quantitative framework for how quantum many-body chaos develops when integrability is gradually broken. By studying a circuit of free fermions doped with tunable integrability-breaking gates, we reveal the microscopic transition from early-time integrable dynamics to late-time chaotic behavior via out-of-time-ordered correlators.",
+    "significance": "This work provides a clear microscopic understanding of chaos onset, informing both theoretical studies and experimental designs in quantum simulation.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e64dc5adc319df0976e8b8e69aac46b4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02504v1",
+    "arxiv_id": "2607.02504v1",
+    "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+    "authors": [
+      "Yuxuan Li",
+      "Lingxi Xie",
+      "Xinyue Huo"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "LLM Enhances Speaker Recognition in Long-Form TV Dramas",
+    "tldr": "The paper presents DramaSR-532K, a large-scale benchmark for speaker recognition in long‑form TV dramas. Using a reasoning LLM, the authors demonstrate significant performance gains over existing methods.",
+    "significance": "It provides a new benchmark and shows that LLMs can improve speaker attribution, enabling richer analysis of TV dramas.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7c2054964ccf56e750548fa1284c9dee",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02502v1",
+    "arxiv_id": "2607.02502v1",
+    "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+    "authors": [
+      "Yunhe Li",
+      "Hao Shi",
+      "Wenhao Liu"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-03",
+    "headline": "DemoPSD: Reducing Overfitting in LLM Self-Distillation via Disagreement Modulation for Robust Reasoning",
+    "tldr": "DemoPSD introduces a disagreement-modulated policy self-distillation framework that mitigates overfitting in on‑policy self‑distillation by tempering dense token‑level supervision with privileged information. The method demonstrates improved generalization and reasoning performance across diverse LLM benchmarks.",
+    "significance": "By addressing overfitting in self‑distillation, DemoPSD paves the way for more reliable and generalizable large language models.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d4446b2d5754997795eb525cfaead966",
     "source": "web",
     "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
@@ -1103,283 +1388,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "e6bbf6a7ce2a71eea1b7f2d7c676ca4e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27339v1",
-    "arxiv_id": "2606.27339v1",
-    "title": "SAM2Matting: Generalized Image and Video Matting",
-    "authors": [
-      "Ruiqi Shen",
-      "Guangquan Jie",
-      "Chang Liu"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "SAM2Matting Bridges Tracking and Fine-Grained Video Matting for Generalized Performance",
-    "tldr": "SAM2Matting introduces a unified approach that combines high-level tracking with low-level matting to achieve robust video matting across diverse scenes. By leveraging a generalized dataset and efficient architecture, it overcomes limitations of prior methods that rely on expensive, narrow datasets.",
-    "significance": "This work enables scalable, out-of-domain video matting, paving the way for real-time applications in media and AR.",
-    "tags": [
-      "segmentation",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "91d208906a838a104be1c9711e31d5d5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27338v1",
-    "arxiv_id": "2606.27338v1",
-    "title": "Jet impingement cooling with multi-stage ducted electroaerodynamic actuators",
-    "authors": [
-      "Quinna Nguyen",
-      "C. Luke Nelson",
-      "Daniel S. Drew"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Compact Electroaerodynamic Actuators Enable Jet Impingement Cooling for Mobile Electronics",
-    "tldr": "We demonstrate that arrays of reduced-scale electroaerodynamic actuators can replace bulky jet impingement hardware, achieving efficient cooling in compact form factors. The system delivers high heat flux removal while maintaining low power consumption and durability for mobile electronics.",
-    "significance": "This approach offers a lightweight, low-power alternative to conventional cooling, enabling higher performance in space-constrained devices.",
-    "tags": [
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3dcfef0060b6c91c504fb0a44050f530",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27337v1",
-    "arxiv_id": "2606.27337v1",
-    "title": "Exact subsystem dynamics in the deterministic Floquet-PXP model",
-    "authors": [
-      "Katja Klobas"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Exact Subsystem Dynamics in Deterministic Floquet-PXP Model Revealed via Influence Matrices",
-    "tldr": "We analyze the deterministic Floquet-PXP model and show that the dynamics of local subsystems can be exactly captured using influence matrices. This provides a solvable case where the complexity of the influence matrices does not grow unfavourably with time.",
-    "significance": "This result offers a rare analytic handle on open-system dynamics in large quantum many-body systems, potentially guiding future experiments and simulations.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e84ad29f979b1e16396385b52b3c84b6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27366v1",
-    "arxiv_id": "2606.27366v1",
-    "title": "$\\mathrm{W}^*$-algebraic Integration Theory",
-    "authors": [
-      "Jan Głowacki",
-      "Yui Kuramochi"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "Integrating Operator-Valued Functions in W*-Algebras via Spatial Tensor Product Techniques",
-    "tldr": "This paper introduces a rigorous framework for integrating functions taking values in a W*-algebra against a POVM, yielding elements in the spatial tensor product. The construction generalizes classical integration and provides a foundation for operator-valued measure theory.",
-    "significance": "It extends integration theory to noncommutative settings, enabling new tools for quantum probability and operator algebras.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 4,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8edae28e0eb7ef908a1f192f7e518a52",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27364v1",
-    "arxiv_id": "2606.27364v1",
-    "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
-    "authors": [
-      "Yiming Chen",
-      "Yushi Lan",
-      "Andrea Vedaldi"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "PhysiFormer: Diffusion Transformer for Realistic 3D Mesh Motion in World Coordinates",
-    "tldr": "PhysiFormer uses a diffusion transformer to predict physically plausible future vertex trajectories of 3D meshes in world coordinates, given initial positions, velocities, and material type. Unlike pixel-based video world models, it operates directly on mesh geometry, enabling accurate simulation of rigid and elastic objects.",
-    "significance": "This approach bridges deep learning and physics simulation, allowing efficient, data-driven generation of realistic 3D motion without explicit physics solvers.",
-    "tags": [
-      "diffusion-models",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3e676614736dd72da6c099377a8e48f0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27361v1",
-    "arxiv_id": "2606.27361v1",
-    "title": "Autoregressive Boltzmann Generators",
-    "authors": [
-      "Danyal Rehman",
-      "Charlie B. Tan",
-      "Yoshua Bengio"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "Autoregressive Boltzmann Generators for Fast Equilibrium Sampling of Molecular Systems",
-    "tldr": "This paper introduces autoregressive Boltzmann Generators that replace normalizing flows with autoregressive models to efficiently sample equilibrium states of molecular systems. The new approach achieves faster convergence and higher accuracy while maintaining exact likelihoods for importance sampling.",
-    "significance": "It offers a scalable, accurate alternative for equilibrium sampling in computational chemistry, potentially accelerating drug discovery and materials design.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "86f74e2ba59a01d0acbdce3775510cd9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27359v1",
-    "arxiv_id": "2606.27359v1",
-    "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
-    "authors": [
-      "Johannes Zenn",
-      "Jonas Geiping"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "When Does Sequence Probability Align with Correctness in LLM Decoding Methods?",
-    "tldr": "Decoding strategies shift probability mass toward more likely tokens or sequences, but this does not guarantee correctness. The paper investigates conditions under which high sequence probability actually correlates with accurate completions.",
-    "significance": "Understanding this alignment informs the design of more reliable language generation systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7ad96b81750c4cb02ae31c6a83962ef6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27357v1",
-    "arxiv_id": "2606.27357v1",
-    "title": "Typical distances in high-genus triangulations",
-    "authors": [
-      "Tanguy Lions"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "Distances in High-Genus Triangulations Scale Logarithmically",
-    "tldr": "We prove that the graph distance between two random vertices in a uniform triangulation of genus proportional to the number of faces grows like a constant times log(n). This resolves a conjecture of Budzinski, Chapuy and Louf by establishing the precise asymptotic constant.",
-    "significance": "The result confirms that high-genus random maps exhibit logarithmic diameter growth, a key insight for understanding the geometry of random surfaces.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "18b25d0040c4f144e90cb336693ff43e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27356v1",
-    "arxiv_id": "2606.27356v1",
-    "title": "Beyond the equation of state: a second-order diagnostic for dynamical dark energy",
-    "authors": [
-      "Bob Osano"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "Second-Order Diagnostic Reveals Dark Energy Dynamics Beyond Equation of State",
-    "tldr": "By differentiating the continuity equations with respect to e-fold time, the authors introduce ω′DE, providing a second-order probe of dark-energy dynamics. This method allows for a more sensitive test of evolving dark-energy models beyond the instantaneous equation-of-state parameter.",
-    "significance": "The second-order diagnostic offers a powerful tool to distinguish between competing dark-energy theories, potentially guiding future observations.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bc3d7680466055d98b3683b8b8c5b524",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27355v1",
-    "arxiv_id": "2606.27355v1",
-    "title": "RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection",
-    "authors": [
-      "Xingyu Ren",
-      "Chugang Yi",
-      "Ge Ma"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "RouterVLA: Using Smoke Tests to Supervise Vision‑Language‑Action Policy Selection for Robotic Teams",
-    "tldr": "RouterVLA repurposes pre‑deployment smoke tests to supervise the selection of heterogeneous VLA policies. By cross‑fitting outcome‑disjoint probes, it builds expert profiles and evaluates them in separate trials, improving policy choice without extra data.",
-    "significance": "This approach reduces the need for costly new rollouts and enables more efficient deployment of diverse vision‑language‑action models in robotics.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "781f5215d163b5123a731155d7f68075",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27354v1",
-    "arxiv_id": "2606.27354v1",
-    "title": "Error-Conditioned Neural Solvers",
-    "authors": [
-      "Haina Jiang",
-      "Liam Wang",
-      "Peng-Chen Chen"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "Hybrid Neural Solvers Correct PDE Residuals for Accurate, Real-Time Predictions",
-    "tldr": "Neural surrogate models provide quick PDE solutions but often violate constraints. Hybrid approaches use gradient descent on residuals to enforce physical consistency.",
-    "significance": "This method bridges statistical speed with physical fidelity, enabling reliable extrapolation beyond training data.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4bd9e19adf8d0c85e5984de66fb152fd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27353v1",
-    "arxiv_id": "2606.27353v1",
-    "title": "Continual Robot Policy Learning via Variational Neural Dynamics",
-    "authors": [
-      "Jiaxu Xing",
-      "Zhiyuan Zhu",
-      "Yunfan Ren"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-27",
-    "headline": "Robots Learn on the Fly: Continual Policy Adaptation with Variational Neural Dynamics",
-    "tldr": "This paper introduces a framework that lets robots continuously update their control policies by modeling changing dynamics with variational neural networks. By leveraging deployment data, the system improves performance in real-world conditions without retraining from scratch.",
-    "significance": "It enables robots to adapt to environmental and hardware changes in real time, bridging the gap between training and deployment.",
-    "tags": [
-      "real-time",
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
