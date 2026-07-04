@@ -1,5 +1,286 @@
 [
   {
+    "uid": "fe36c300cfac98f6e7924d568fbe47e6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02511v1",
+    "arxiv_id": "2607.02511v1",
+    "title": "A Probabilistic Sign Rule for Quotients of Positive Series and Integral Transforms",
+    "authors": [
+      "Zakaria Derbazi"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Probabilistic Sign Rule for Quotients of Positive Series and Integral Transforms",
+    "tldr": "This paper introduces a probabilistic sign rule that links the sign of quotients of functions represented by positive series or integrals to probability laws derived from normalized summands or integrands. By expressing parameter log-derivatives as moments of kernels, the authors provide a novel framework for analyzing complex function quotients.",
+    "significance": "It offers a powerful tool for mathematical analysis, enabling new insights into the behavior of function quotients across various applications.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2fe033fa65e712ea2dce3e77dffd788a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02509v1",
+    "arxiv_id": "2607.02509v1",
+    "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+    "authors": [
+      "Yanjun Zhao",
+      "Ruizhong Qiu",
+      "Tianxin Wei"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "ReContext: Recursive Evidence Replay Enhances Long-Context Reasoning for Real-World LLM Applications",
+    "tldr": "ReContext introduces a recursive evidence replay mechanism that allows LLMs to revisit and leverage relevant information within long inputs, improving reasoning accuracy. The approach demonstrates significant gains on benchmark tasks, bridging the gap between context size and effective utilization.",
+    "significance": "By enabling LLMs to systematically reuse evidence, ReContext paves the way for more reliable reasoning in data-intensive applications.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0af1b02f639d2d75bb347856704574f7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02499v1",
+    "arxiv_id": "2607.02499v1",
+    "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+    "authors": [
+      "Gil Harari",
+      "Yoel Zimmermann",
+      "Ola Tangen Kulseng"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Optimizing ML Interatomic Potentials: Beyond Adam with SOAP and Muon",
+    "tldr": "Researchers compare new optimizers to Adam for training machine learning interatomic potentials, achieving faster convergence and reduced label requirements. The study demonstrates that SOAP and Muon frameworks can significantly improve training efficiency and accuracy.",
+    "significance": "This work highlights the importance of optimizer selection in MLIP training, offering a path to more efficient and scalable simulations.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "95ef0099acce8c800e981e69d4dff31b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02497v1",
+    "arxiv_id": "2607.02497v1",
+    "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
+    "authors": [
+      "Song Tang",
+      "Shuming Hu",
+      "Xincheng Shuai"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Active Panoramic Referring Segmentation: Enabling Embodied AI to Navigate 360° Environments",
+    "tldr": "Traditional referring segmentation models process static images, limiting their use in embodied AI. Our new Active Panoramic Referring Segmentation task allows agents to actively adjust viewpoints in continuous 360° scenes to segment referred objects.",
+    "significance": "This work bridges the gap between passive vision models and active perception required for real-world embodied agents.",
+    "tags": [
+      "segmentation",
+      "spatial-reasoning",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "86c9921167b2df642bd7d1b5d45f8284",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02496v1",
+    "arxiv_id": "2607.02496v1",
+    "title": "Controllable Sim Agents with Behavior Latents",
+    "authors": [
+      "Juanwu Lu",
+      "Junyu Zhu",
+      "Ziran Wang"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Controllable Simulated Agents Using Behavior Latents for Realistic Traffic Modeling",
+    "tldr": "We propose Controllable Neural Variational Agents (CNeVA) that learn to infer per-agent behavior latent variables from logged traffic data, enabling steering along interpretable axes. This controllability allows engineers to isolate variables, reproduce edge cases, and test autonomous systems safely without real-world deployment.",
+    "significance": "CNeVA bridges the gap between realistic simulation fidelity and controllable scenario generation, accelerating safe autonomous vehicle testing.",
+    "tags": [
+      "foundation-models",
+      "urban-AI",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d7951a9a844d9e061af3bc6bf4dbecc5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02494v1",
+    "arxiv_id": "2607.02494v1",
+    "title": "Towards Robustness against Typographic Attack with Training-free Concept Localization",
+    "authors": [
+      "Bohan Liu",
+      "Wenqian Ye",
+      "Guangzhi Xiong"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Enhancing CLIP Robustness: Training-Free Localization Against Typographic Attacks",
+    "tldr": "This study introduces a training-free concept localization technique to mitigate typographic attacks that mislead CLIP-based vision encoders. By isolating visual concepts from textual noise, the method improves robustness without additional training.",
+    "significance": "It demonstrates a lightweight, data-free defense that preserves CLIP's performance while protecting against adversarial text artifacts.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5be9a9c27e28aa2ff4ddec19e68dcd86",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02492v1",
+    "arxiv_id": "2607.02492v1",
+    "title": "Cut-off Jastrow Factors and Spectral Barron Regularity of Coulombic Electronic Wave Functions",
+    "authors": [
+      "Virginie Ehrlacher"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Spectral Barron Regularity of Coulombic Wave Functions via Cut-off Jastrow Extraction",
+    "tldr": "We analyze the spectral Barron regularity of Coulombic electronic eigenfunctions after removing a cut-off Jastrow factor. The study extends previous results on Coulomb Hamiltonians and provides new insights into wave function smoothness.",
+    "significance": "This work deepens our understanding of electronic wave function regularity, which is crucial for accurate quantum chemical computations.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1e11c46647a72f45edd7191b02766f8b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02490v1",
+    "arxiv_id": "2607.02490v1",
+    "title": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+    "authors": [
+      "Liyan Tang",
+      "Fangcong Yin",
+      "Greg Durrett"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Grounding Self-Reflection in Vision‑Language Models for Accurate Visual Reasoning via Reinforcement Learning",
+    "tldr": "The paper introduces a reinforcement learning framework that trains vision‑language models to revisit and correct their textual reasoning steps while ensuring alignment with visual evidence. Experiments show that visually grounded self‑reflection improves accuracy on multimodal benchmarks compared to standard chain‑of‑thought methods.",
+    "significance": "By integrating visual grounding into self‑reflection, the work bridges a key gap in multimodal reasoning, enabling LVLMs to produce more reliable, evidence‑based conclusions.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6cf39cea92ee4c379a6a96e2053f0233",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02487v1",
+    "arxiv_id": "2607.02487v1",
+    "title": "The Debris Disk Host $β$ Piscis Austrinus is a Rapidly Rotating Star Seen Nearly Pole-On",
+    "authors": [
+      "Colin Kane",
+      "Russel White",
+      "Jeremy Jones"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Rapidly Rotating Star β Piscis Austrinus Revealed as Pole-On via High-Resolution Spectroscopy",
+    "tldr": "Using the fastrot-spec code, we modeled HARPS spectra of β PsA to determine its inclination, confirming it is a rapidly rotating star seen nearly pole-on. This provides new insights into its photospheric properties and rotational dynamics.",
+    "significance": "The study refines our understanding of stellar rotation effects on spectral line shapes, aiding accurate characterization of rapidly rotating stars.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "95fb119a7e72157cb494578749401196",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02486v1",
+    "arxiv_id": "2607.02486v1",
+    "title": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
+    "authors": [
+      "Yejun Zhang",
+      "Xinjue Wang",
+      "Zihan Wang"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "GeoMix Enhances Descriptor-Free Visual Localization with Global Context and Multi-Detector Training",
+    "tldr": "GeoMix introduces a descriptor-free localization pipeline that leverages global context and multi-detector training to improve geometric discriminability. The approach reduces storage, preserves privacy, and narrows the performance gap with descriptor-based methods.",
+    "significance": "By boosting accuracy while eliminating descriptor storage, GeoMix paves the way for scalable, privacy-preserving visual localization in large-scale mapping.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e162db3e75aab17f1cf116abf3f82c3a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02484v1",
+    "arxiv_id": "2607.02484v1",
+    "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+    "authors": [
+      "Xuehui Wang",
+      "Xuankun Yang",
+      "Wei Shen"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Entropy-Aware Token Pruning: Reducing Textual Noise for Faster Vision‑Language Models",
+    "tldr": "We propose an entropy‑aware pruning strategy that identifies and removes redundant visual tokens while mitigating the impact of noisy textual prompts. This approach preserves critical visual cues under dense instructions, achieving faster inference without sacrificing accuracy.",
+    "significance": "By addressing textual noise, the method enables more reliable and efficient vision‑language models for fine‑grained tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0e93b75724590ea348ea83d2d543b56a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02480v1",
+    "arxiv_id": "2607.02480v1",
+    "title": "The Merger-Driven Origin of the Vast Extended Stellar Disc Around the Andromeda Galaxy",
+    "authors": [
+      "C. Tsakonas",
+      "M. Arnaboldi",
+      "F. Hammer"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-04",
+    "headline": "Evidence of a Recent Major Merger Shaping Andromeda's Vast Extended Stellar Disc",
+    "tldr": "Observations of Andromeda's inner halo and a kinematically hot disc reveal a widespread star formation burst 2.5 Gyr ago, pointing to a gas‑rich major merger. This event likely built the galaxy’s extensive outer disc and explains its current substructures.",
+    "significance": "The findings link a recent merger to the formation of Andromeda’s large stellar disc, offering a new perspective on spiral galaxy evolution.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "5a75f245bb0712a99ce874078c9610dc",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.02517v1",
@@ -1114,279 +1395,6 @@
       "time-series"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "185943da4bd0f2da927a4052dcb8cd16",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.28308v1",
-    "arxiv_id": "2606.28308v1",
-    "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
-    "authors": [
-      "Luis Leal"
-    ],
-    "published": "2026-06-26",
-    "curated_at": "2026-06-29",
-    "headline": "Solver-Dependent Nash Equilibrium Selection in Zero-Sum Games and Implications for Algorithmic Design",
-    "tldr": "Many zero-sum games possess a continuum of Nash equilibria. This study demonstrates that different solvers systematically select distinct equilibria, affecting algorithmic outcomes.",
-    "significance": "Understanding solver bias is crucial for fair and predictable game-theoretic modeling.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4504f35c07ce837621599402ea2ab03f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27370v1",
-    "arxiv_id": "2606.27370v1",
-    "title": "Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem",
-    "authors": [
-      "Christopher A. Leong",
-      "Bitan Roy"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Exploring Zero Modes in Non-Hermitian Dirac Fermions under Magnetic Fields",
-    "tldr": "This study investigates how spatially varying non-Hermitian parameters act as gauge fields for massless Dirac fermions, leading to novel magnetic field configurations. The authors derive zero-mode solutions and establish an index theorem linking the number of zero modes to topological invariants in this non-Hermitian setting.",
-    "significance": "It extends the concept of topological protection to non-Hermitian quantum systems, opening avenues for engineered exotic states.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "39115485dddfaddeb36e0da10ae52c2f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27368v1",
-    "arxiv_id": "2606.27368v1",
-    "title": "Hidden-ordered Dirac fermions",
-    "authors": [
-      "Bitan Roy"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Hidden-Ordered Dirac Fermions: A Hermitian Extension Reveals Linear Energy-Momentum in Any Dimension",
-    "tldr": "I propose a Hermitian extension of the Dirac theory that introduces an anticommuting mass-like operator, yielding linear energy-momentum relations in any dimension. These hidden-ordered Dirac fermions exhibit emergent nodal quasiparticle excitations with potential symmetry-protected properties.",
-    "significance": "This work provides a unified framework for realizing Dirac-like quasiparticles across dimensions, potentially informing future topological materials research.",
-    "tags": [
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0d9791a661633e984e9315adbdea8265",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27351v1",
-    "arxiv_id": "2606.27351v1",
-    "title": "Specific absorption rate of uniaxial single-domain nanomagnets: stochastic spin dynamics versus linear response theory",
-    "authors": [
-      "H. Kachkachi"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Comparing Stochastic Spin Dynamics and Linear Response Theory for Nanomagnet Absorption",
-    "tldr": "The study evaluates the specific absorption rate of uniaxial single‑domain nanomagnets under alternating magnetic fields using both direct Langevin dynamics simulations and linear response theory with Debye susceptibility. Results show analytical agreement and highlight conditions where each method is most accurate.",
-    "significance": "It provides a rigorous benchmark for modeling magnetic hyperthermia, guiding the choice of computational approach in nanomagnet research.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c6dde6b4e1db9b0e9cd1cb9be03bd6be",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27350v1",
-    "arxiv_id": "2606.27350v1",
-    "title": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research",
-    "authors": [
-      "Angela Cui",
-      "Ferran Hermida-Rivera",
-      "Jack Toubes"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "CHIA: Open-Source Framework for Agentic AI-Driven Hardware/Software Co-Design",
-    "tldr": "CHIA introduces a principled, open-source platform that leverages agentic AI to accelerate hardware and software co-design across architecture, systems, compilers, and VLSI. By integrating large language models and foundation models, it enables scalable, automated exploration of design spaces that were previously limited to small-scale, isolated experiments.",
-    "significance": "CHIA democratizes advanced AI-driven co-design, potentially transforming how complex hardware-software systems are engineered.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ad8696c9e9a2c40e2dec6cd5b99c6fbf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27349v1",
-    "arxiv_id": "2606.27349v1",
-    "title": "All you need is log",
-    "authors": [
-      "Akshay Balsubramani"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Rényi Divergences: The Key to Multi-Distribution Comparison in Machine Learning",
-    "tldr": "Rényi divergences uniquely satisfy monotonicity under data processing and additivity on independent products, making them ideal for comparing two distributions. Extending this framework to multiple distributions enables advanced fairness and PAC-Bayes analyses.",
-    "significance": "Understanding and applying Rényi divergences is essential for rigorous statistical comparison in modern AI systems.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c4af87b2a8f8c243e9cc1e2102974c44",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27348v1",
-    "arxiv_id": "2606.27348v1",
-    "title": "Bridging Performance and Generalization in Reinforcement Learning for Agile Flight",
-    "authors": [
-      "Jonathan Green",
-      "Jiaxu Xing",
-      "Nico Messikommer"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Improving Generalization in Reinforcement Learning for Real‑Time Drone Racing",
-    "tldr": "Researchers propose new RL techniques that maintain high performance while enabling policies to adapt to unseen racing environments. The approach reduces crashes and improves robustness in dynamic flight scenarios.",
-    "significance": "It advances autonomous aerial robotics by addressing the critical gap between peak performance and real‑world generalization.",
-    "tags": [
-      "real-time",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bdc89e6837f37ab8becc2847e24a2993",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27347v1",
-    "arxiv_id": "2606.27347v1",
-    "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
-    "authors": [
-      "Kirill Solovev",
-      "Jana Lasser"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Mapping European Political-Elite Networks with a Multilingual Entity-Relation Extraction Pipeline",
-    "tldr": "The study introduces a multilingual joint entity-relation extraction system that scales the analysis of informal political ties across Europe, moving beyond simple co-occurrence methods. By automating the identification of elite actors and their relationships, it enables large-scale comparative research on rent-seeking coalitions and civic networks.",
-    "significance": "It transforms the study of complex political networks from labor-intensive coding to automated, scalable analysis, advancing comparative politics research.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ee33d825bca8e052234439ca06f1f5bc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27346v1",
-    "arxiv_id": "2606.27346v1",
-    "title": "3D Magnetic Field Vectors in Space: Bubbles, Clouds, and Filaments",
-    "authors": [
-      "Mehrnoosh Tahani",
-      "Anna Ordog",
-      "Jennifer West"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Mapping 3D Magnetic Field Vectors in Space: Bubbles, Clouds, and Filaments",
-    "tldr": "Magnetic fields shape star formation across scales by influencing field strength and orientation relative to density structures. Understanding these vectors illuminates the path from interstellar gas to stars, planets, and life.",
-    "significance": "This study provides critical insights into the magnetic forces driving galactic evolution and star formation.",
-    "tags": [
-      "remote-sensing",
-      "vector-tiles",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "db36b111829609172bd3121d06909621",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27345v1",
-    "arxiv_id": "2606.27345v1",
-    "title": "RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation",
-    "authors": [
-      "Minghao Yin",
-      "Jiahao Lu",
-      "Wenbo Hu"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "RayPE: Enhancing 3D-Aware Video Generation with Ray-Space Positional Encoding for Dynamic Scenes",
-    "tldr": "RayPE introduces a novel positional encoding that captures geometric relations between camera rays using the Plücker reciprocal product, improving 3D awareness in video diffusion transformers. Experiments show significant gains in rendering fidelity and spatial consistency compared to standard RoPE.",
-    "significance": "This work bridges the gap between 2D token positioning and 3D scene geometry, enabling more realistic video synthesis.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "67d015132d0f5fafaeebb9b85bf22994",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27344v1",
-    "arxiv_id": "2606.27344v1",
-    "title": "VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity",
-    "authors": [
-      "Yuemin Mao",
-      "Uksang Yoo",
-      "Jean Oh"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "VibeAct: Using Piezoelectric Microphones for Real-Time Contact Sensing in Dexterous Robot Manipulation",
-    "tldr": "VibeAct introduces a framework that uses piezoelectric microphones to capture fast, local contact events for dexterous manipulation. By accurately simulating vibro-acoustic signals, it enables end-to-end sim-to-real policy learning for robotic hands.",
-    "significance": "It bridges the gap between high-bandwidth tactile sensing and realistic simulation, accelerating the deployment of contact-rich robotic manipulation.",
-    "tags": [
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7061764119f00da97d6475caff00f433",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.27342v1",
-    "arxiv_id": "2606.27342v1",
-    "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
-    "authors": [
-      "Nicholas Pulsone",
-      "Gregory Goren",
-      "Roee Shraga"
-    ],
-    "published": "2026-06-25",
-    "curated_at": "2026-06-28",
-    "headline": "Domain-Aware Distribution Alignment Boosts Budgeted Entity Matching Accuracy in Real-World Data Integration",
-    "tldr": "This study introduces a domain-aware distribution alignment technique to improve entity matching under budget constraints. Experiments show significant gains over baseline methods across multiple datasets.",
-    "significance": "It demonstrates that incorporating domain knowledge can substantially reduce matching errors when resources are limited.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
