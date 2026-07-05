@@ -1,5 +1,267 @@
 [
   {
+    "uid": "1feff15e34aca7a2d3b8b841357463c4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02503v1",
+    "arxiv_id": "2607.02503v1",
+    "title": "VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation",
+    "authors": [
+      "Shuai Tian",
+      "Yupeng Zheng",
+      "Yuhang Zheng"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "VT-WAM: Modeling Tactile Dynamics for Real-Time Contact-Rich Manipulation",
+    "tldr": "VT-WAM introduces a visual-tactile action model that explicitly captures tactile deformation dynamics during contact-rich manipulation, enabling policies to react to sparse tactile cues. The model demonstrates improved performance in tasks requiring precise force control and slip detection, highlighting the importance of integrating tactile dynamics into action generation.",
+    "significance": "By modeling tactile deformation dynamics, VT-WAM bridges the gap between visual perception and tactile feedback, advancing the reliability of robotic manipulation in complex contact scenarios.",
+    "tags": [
+      "object-detection",
+      "time-series",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1ae8de1ef6d3564f2bfe7514ae54428e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02501v1",
+    "arxiv_id": "2607.02501v1",
+    "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+    "authors": [
+      "Ling Xu",
+      "Chuyu Han",
+      "Borui Li"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "Embodied.cpp: Portable Runtime for Embodied AI on Heterogeneous Robots and Edge Devices",
+    "tldr": "Embodied.cpp provides a lightweight, cross‑platform inference runtime that unifies vision‑language‑action and world‑action models, enabling seamless deployment on diverse robotic hardware. It eliminates fragmented Python stacks and backend dependencies, offering real‑time inference without the overhead of traditional request‑response servers.",
+    "significance": "This runtime bridges the gap between advanced embodied AI research and practical robotic deployment, accelerating real‑world applications across heterogeneous edge devices.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "32e6cf0fa3f0b96f4a21fb7227582973",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02479v1",
+    "arxiv_id": "2607.02479v1",
+    "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
+    "authors": [
+      "Jingtao Xu",
+      "Zizhuo Lin",
+      "Jianwen Sun"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "EAGLE-360: Overcoming Panoramic Distortion in Active Visual Search with MLLMs",
+    "tldr": "EAGLE-360 introduces a framework for embodied active exploration in 360° panoramic scenes, addressing the polar distortion and cylindrical topology challenges that limit standard multimodal LLMs. By integrating specialized geometric modeling and real-time navigation, it enables more accurate object detection and spatial reasoning in panoramic environments.",
+    "significance": "This work bridges the gap between large language models and panoramic perception, paving the way for robust autonomous agents in VR, robotics, and surveillance.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1189da0192e6f2d689be0af3f55c368b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02477v1",
+    "arxiv_id": "2607.02477v1",
+    "title": "Mixing times of spin systems on dynamical percolation",
+    "authors": [
+      "Alexandre Stauffer",
+      "Oskar Vavtar"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "Analyzing Mixing Times for Glauber Dynamics on Dynamical Percolation Networks",
+    "tldr": "We investigate how quickly Glauber dynamics on a torus with randomly evolving edges reach equilibrium. The study reveals that the mixing time scales with the percolation parameter and dimension, providing new bounds for stochastic spin systems.",
+    "significance": "These results bridge percolation theory and Markov chain mixing, offering insights into the convergence behavior of spatially evolving stochastic processes.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ae7b1b8b762672bd2c837e1f829bd064",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02473v1",
+    "arxiv_id": "2607.02473v1",
+    "title": "Audio-Based Understanding of Audiobook Narration Appeal",
+    "authors": [
+      "Shahar Elisha",
+      "Mariano Beguerisse-Díaz",
+      "Emmanouil Benetos"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "Analyzing Audiobook Narration: Audio Features Drive Listener Appeal Across Genres",
+    "tldr": "This study extracts vocal and acoustic features from LibriVox audiobooks using pre-trained audio models to quantify how narration quality influences listener engagement. Results show that tone, pace, and loudness significantly affect appeal, with variations across genre and audience.",
+    "significance": "Understanding narration appeal can guide audiobook producers to tailor vocal delivery for maximum audience engagement.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "5ed326c4ee962934c43eff7f69951a25",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02472v1",
+    "arxiv_id": "2607.02472v1",
+    "title": "Learning Agile Intruder Interception using Differentiable Quadrotor Dynamics",
+    "authors": [
+      "Michael Anoruo",
+      "Xiaoyu Tian",
+      "Abhishek Rathod"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "Learning Agile Intruder Interception with Differentiable Quadrotor Dynamics Using Passive Monocular Vision",
+    "tldr": "This paper introduces a reinforcement learning framework that learns to intercept an intruder using only the 3‑D direction vector to the target and the interceptor’s state, eliminating the need for explicit relative position or distance measurements. By leveraging differentiable quadrotor dynamics and passive monocular vision, the method achieves real‑time, agile interception in scenarios where traditional sensors are unavailable.",
+    "significance": "It enables autonomous drones to pursue and intercept moving targets in realistic vision‑limited environments, broadening the applicability of UAV interception systems.",
+    "tags": [
+      "real-time",
+      "object-detection",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e176320051c9bd80bd03c9e4f176248b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02471v1",
+    "arxiv_id": "2607.02471v1",
+    "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
+    "authors": [
+      "Ziyao Wang",
+      "Maonan Wang",
+      "Yucheng He"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "New Cloud Removal Method Enhances Downstream Remote Sensing Interpretation Accuracy",
+    "tldr": "This work introduces an observation-anchored residual flow for cloud removal that aligns geo-contextual information, ensuring that the cleaned imagery preserves semantic integrity for tasks like segmentation and change detection. Unlike prior methods that focus on visual realism, the proposed approach prioritizes downstream analytical performance, reducing semantic drift.",
+    "significance": "By aligning cloud removal with downstream interpretation needs, the method improves the reliability of remote sensing analytics, enabling more accurate environmental monitoring and decision-making.",
+    "tags": [
+      "remote-sensing",
+      "segmentation",
+      "change-detection",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0c757fc887196514960c694e10928829",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02469v1",
+    "arxiv_id": "2607.02469v1",
+    "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution",
+    "authors": [
+      "Jiale Amber Wang",
+      "Kaiyuan Wang",
+      "Pengyu Nie"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "TestEvo-Bench: A Live Benchmark for Executable Test and Code Co‑Evolution",
+    "tldr": "TestEvo-Bench provides an executable, live benchmark that ties tests directly to code changes, ensuring tests are semantically linked and runnable. This approach overcomes limitations of prior benchmarks that rely on static metadata and isolate tests from code evolution.",
+    "significance": "By validating executable tests in real time, TestEvo-Bench enables more accurate assessment of test generation tools and promotes reliable software maintenance.",
+    "tags": [
+      "benchmark",
+      "change-detection",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "aaf47c646f835ddbe868e3e57fdfe876",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02468v1",
+    "arxiv_id": "2607.02468v1",
+    "title": "Bifurcations of the Clifford Torus as Willmore Surfaces in Berger Spheres",
+    "authors": [
+      "Caio B. Rodrigues"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "Willmore Torus Bifurcations in Berger Spheres",
+    "tldr": "The Clifford torus remains a Willmore critical point for all Berger sphere parameters, and Morse index analysis reveals bifurcations yielding new symmetric tori.",
+    "significance": "It uncovers new families of Willmore surfaces via bifurcation theory.",
+    "tags": [
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "32ce6ca94b20ef4d3c9ac399003795f0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02467v1",
+    "arxiv_id": "2607.02467v1",
+    "title": "Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting",
+    "authors": [
+      "Vivienne Ming"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "Human Capital, Not Model Benchmarks, Drives Hybrid Forecasting Success",
+    "tldr": "A study using Polymarket shows that the benefit of pairing humans with AI in forecasting depends on specific human skills rather than model quality. Individual forecasters’ hybrid performance is trimodal, highlighting the importance of targeted human capital.",
+    "significance": "The findings suggest that investing in human expertise is more critical than improving AI models for effective hybrid forecasting.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "eedd8803f20ab14a9206a5f9915baf9d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02466v1",
+    "arxiv_id": "2607.02466v1",
+    "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+    "authors": [
+      "Junhao Shi",
+      "Siyin Wang",
+      "Xiaopeng Yu"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-05",
+    "headline": "Separating Movement from Meaning: Task‑Agnostic Pretraining for Vision‑Language‑Action Models at Scale",
+    "tldr": "The paper identifies that VLA models suffer from a lack of expert demonstrations, which conflate learning to move with learning what to do. It proposes a task‑agnostic pretraining approach that first learns physical motion before aligning semantics, improving data efficiency and performance.",
+    "significance": "By decoupling motion and semantic learning, the method reduces dependence on costly demonstrations, accelerating VLA model development.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "fe36c300cfac98f6e7924d568fbe47e6",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.02511v1",
@@ -1133,268 +1395,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "68543b1af7a3440901f9bb50e0390cea",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30633v1",
-    "arxiv_id": "2606.30633v1",
-    "title": "GIGA-Lens 2.0: Strong-Lens Modeling on Multiple GPU Nodes",
-    "authors": [
-      "Xiaosheng Huang",
-      "Linus Upson",
-      "Nicolas Ratier-Werbin"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "GIGA-Lens 2.0: Multi-Node GPU Acceleration for Fast Strong Lens Modeling",
-    "tldr": "We introduce GIGA-Lens 2.0, a GPU-accelerated Bayesian framework that now runs across multiple GPU nodes, achieving a 4× speedup on 512 A100 GPUs. The upgraded system models 100 simulated lens systems and a real DESI lens in minutes, demonstrating its scalability and scientific impact.",
-    "significance": "This advancement enables rapid, large-scale strong lens analyses, accelerating cosmological studies and making high-fidelity modeling accessible to the community.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dd1e5e39d6b19e7d4932e72d07012247",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30632v1",
-    "arxiv_id": "2606.30632v1",
-    "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
-    "authors": [
-      "Yuhong Deng",
-      "Yuyao Liu",
-      "David Hsu"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "Grounding Which and Where: Robots Use Any Object as a Tool",
-    "tldr": "GROW^2 enables robots to identify arbitrary objects as tools and pinpoint the exact region to use. By integrating open-world affordance grounding, the system expands robotic capabilities beyond conventional tool sets.",
-    "significance": "This work demonstrates a scalable approach for robots to adaptively repurpose everyday items, bridging a critical gap in autonomous tool use.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "65e65dca6e5d8813b9aec3d339061b3f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30627v1",
-    "arxiv_id": "2606.30627v1",
-    "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
-    "authors": [
-      "Subramanyam Sahoo",
-      "Aman Chadha",
-      "Vinija Jain"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "Conservative Offline Training Can Exacerbate Reward Hacking in Online Adaptation of LLMs",
-    "tldr": "We show that policies trained with conservative offline methods are more prone to reward hacking when fine-tuned online. Our experiments on Qwen3-14B with Direct Preference Optimisation reveal a paradoxical increase in exploitation of reward model flaws.",
-    "significance": "This challenges the prevailing belief that conservative offline training inherently safeguards against reward exploitation.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "abb7b965370e6c0b360d3c0176aacb58",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30626v1",
-    "arxiv_id": "2606.30626v1",
-    "title": "DOPD: Dual On-policy Distillation",
-    "authors": [
-      "Xinlei Yu",
-      "Gen Li",
-      "Qingyi Si"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "Dual On-Policy Distillation: Enhancing Transfer with Privileged Teacher and Student Signals",
-    "tldr": "Dual On-Policy Distillation (DOPD) extends OPD by injecting privileged information into teacher and student models, providing richer token-level supervision. This approach improves knowledge transfer while mitigating failure modes associated with additional inputs.",
-    "significance": "DOPD pushes the performance frontier of distillation by leveraging privileged signals, offering a practical pathway for more robust model compression.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "970a37487aacdbda62f1b6d05c80212a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30623v1",
-    "arxiv_id": "2606.30623v1",
-    "title": "When and Which Sensor to Observe? Timely Tracking of a Joint Markov Source",
-    "authors": [
-      "Ismail Cosandal",
-      "Sennur Ulukus",
-      "Nail Akar"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "Optimizing Sensor Pulls for Joint Markov Process Estimation in Real-Time Monitoring",
-    "tldr": "We study remote estimation of a joint Markov process where each component can be observed by a dedicated sensor with different sampling costs. By deciding when to stay idle or request a sensor pull, we aim to minimize estimation error while respecting cost constraints.",
-    "significance": "This work provides a principled framework for cost‑aware sensor scheduling in distributed monitoring systems, improving efficiency and accuracy.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "28d0b99488b382f44809405050757131",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.28323v1",
-    "arxiv_id": "2606.28323v1",
-    "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
-    "authors": [
-      "Dihong Huang",
-      "Zhenyu Wei",
-      "Zhuxiu Xu"
-    ],
-    "published": "2026-06-26",
-    "curated_at": "2026-06-29",
-    "headline": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
-    "tldr": "DexCompose introduces a method to compose existing dexterous manipulation policies into a single hand capable of performing multiple tasks without destructive interference. By aligning finger contact modes and preserving prior skill outcomes, the approach enables efficient multi-task manipulation in real-time.",
-    "significance": "This work enables more versatile robotic hands, reducing the need to train separate policies for each task and advancing practical deployment of dexterous manipulation.",
-    "tags": [
-      "benchmark",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8afe90e1ed4269e234d55e76f24cf19d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.28322v1",
-    "arxiv_id": "2606.28322v1",
-    "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
-    "authors": [
-      "Yana Wei",
-      "Hongbo Peng",
-      "Yanlin Lai"
-    ],
-    "published": "2026-06-26",
-    "curated_at": "2026-06-29",
-    "headline": "PerceptionRubrics: A New Rubric-Based Framework for Human-Centric Multimodal Evaluation Benchmarking",
-    "tldr": "PerceptionRubrics introduces a rubric-based evaluation framework that bridges the gap between high benchmark scores and real-world performance. By pairing 1,038 dense images with 12,000 instance-specific rubrics derived from golden captions, it enables atomic auditing of multimodal models.",
-    "significance": "This framework provides a more granular, human-aligned assessment of multimodal models, helping developers identify brittleness that traditional benchmarks miss.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d62cd5f860be1f9d5adc363570becaa4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.28321v1",
-    "arxiv_id": "2606.28321v1",
-    "title": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
-    "authors": [
-      "Jia-Chen Zhao",
-      "Beiqi Chen",
-      "Xinyang Chen"
-    ],
-    "published": "2026-06-26",
-    "curated_at": "2026-06-29",
-    "headline": "StructSplat: Fast, Generalizable 3D Gaussian Reconstruction from Uncalibrated Images without Camera Calibration",
-    "tldr": "StructSplat introduces a feed‑forward framework that reconstructs high‑fidelity 3D Gaussian models directly from sparse, uncalibrated images, eliminating the need for per‑scene optimization or known camera poses. By decoupling geometry and appearance, it achieves superior reconstruction quality and generalization across diverse scenes.",
-    "significance": "It enables scalable, real‑time 3D reconstruction from commodity cameras, opening new possibilities for rapid scene understanding without costly calibration.",
-    "tags": [
-      "point-cloud",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "50735bef7e3317fc2220fce99156b54d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.28314v1",
-    "arxiv_id": "2606.28314v1",
-    "title": "The Role of Scintillation in Detecting HI Absorption in FRB Spectra",
-    "authors": [
-      "Om Gupta",
-      "Pawan Kumar",
-      "Paz Beniamini"
-    ],
-    "published": "2026-06-26",
-    "curated_at": "2026-06-29",
-    "headline": "Scintillation Enhances Detectability of 21‑cm Hydrogen Absorption in Fast Radio Burst Spectra",
-    "tldr": "We investigate how interstellar scintillation can boost the visibility of the 21‑cm HI absorption line in FRB spectra. Our results identify parameter regimes where realistic FRB observations could reveal this key cosmological probe.",
-    "significance": "This study demonstrates a practical pathway to use FRBs as probes of the intergalactic medium by leveraging scintillation effects.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "190a76d9a27955adba03729b5622c51e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.28313v1",
-    "arxiv_id": "2606.28313v1",
-    "title": "Diameter truncated operator evolution",
-    "authors": [
-      "Tom Holden-Dye",
-      "Max Marvell",
-      "Joel Mills"
-    ],
-    "published": "2026-06-26",
-    "curated_at": "2026-06-29",
-    "headline": "Efficient Operator Dynamics via Diameter Truncation: A New Approach to Quantum Simulation",
-    "tldr": "We introduce a diameter truncation technique to simulate operator dynamics in out-of-equilibrium quantum systems. This method reduces computational complexity by focusing on low-weight operators, enabling more tractable simulations.",
-    "significance": "This approach offers a scalable solution for studying complex quantum dynamics, potentially accelerating research in quantum computing and many-body physics.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e4a158f0a1728fe11ae91206251e0311",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.28312v1",
-    "arxiv_id": "2606.28312v1",
-    "title": "Optimal Deployment of Electric Aircraft for Canadian Domestic Flights",
-    "authors": [
-      "Elham Soufiani",
-      "Mehrdad Pirnia"
-    ],
-    "published": "2026-06-26",
-    "curated_at": "2026-06-29",
-    "headline": "Electric Aircraft Deployment Plan Optimizes Canadian Domestic Flights via Multi-Period MILP",
-    "tldr": "The study introduces a multi-period MILP framework that jointly optimizes fleet acquisition, infrastructure deployment, and service allocation for Canadian regional aviation. It incorporates policy constraints such as emissions targets, electric service share, and budget limits to guide the transition from conventional to electric aircraft.",
-    "significance": "It provides a data-driven, policy-compliant strategy for accelerating sustainable aviation in Canada.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
