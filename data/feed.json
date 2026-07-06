@@ -1,5 +1,357 @@
 [
   {
+    "uid": "04f29d6b5d81864cd6c3cdcb10583655",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02491v1",
+    "arxiv_id": "2607.02491v1",
+    "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+    "authors": [
+      "Timo Bertram",
+      "Sidhant Bhavnani",
+      "Richard Freinschlag"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Guiding Symbolic Solvers Using Recurrent Reasoning Models for Constraint Satisfaction",
+    "tldr": "We introduce G-RRM, a neuro-symbolic framework that combines symbol-equivariant recurrent reasoning models with symbolic solvers to improve extrapolation on larger constraint satisfaction problems. SE-RRMs generate full solution proposals, guiding the solver and enhancing performance beyond traditional neural approaches.",
+    "significance": "G-RRM demonstrates that integrating recurrent reasoning models with symbolic solvers yields scalable, interpretable solutions for complex constraint satisfaction tasks.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e946607a01c767aaa3490a4f6c1c77ae",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02476v1",
+    "arxiv_id": "2607.02476v1",
+    "title": "Cryogenic RF characterization of the MAGO cavity for high-frequency gravitational-wave detection",
+    "authors": [
+      "Can Dokuyucu",
+      "Bianca Giaccone",
+      "Tom Krokotsch"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Cryogenic RF Tests of Novel Niobium SRF Cavity for High-Frequency Gravitational Wave Detection",
+    "tldr": "We performed cryogenic RF characterization on a prototype niobium SRF cavity with a unique geometry that enhances mode separation. The results demonstrate the cavity’s suitability as a resonant sensor for detecting gravitational waves in the kHz–MHz band.",
+    "significance": "This work establishes a viable superconducting cavity design for high-frequency gravitational-wave detectors, potentially expanding the observable frequency range.",
+    "tags": [
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3f72342755ceb09512a13fbfff6b3f0f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02474v1",
+    "arxiv_id": "2607.02474v1",
+    "title": "QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles",
+    "authors": [
+      "Pedro Santos",
+      "Joel Reis",
+      "Paulo Oliveira"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "QuadRocket: Low-Cost Quadrotor-Based Rocket Prototype Testing Adaptive Thrust-Vector Control for Launch Vehicle Systems",
+    "tldr": "This paper introduces QuadRocket, a low-cost quadrotor-mounted rocket prototype that serves as a flying inverted pendulum for validating thrust-vector control strategies. The platform enables real-time, high-fidelity experiments on launch vehicle dynamics with reduced risk and cost.",
+    "significance": "QuadRocket provides a scalable, low-risk testbed that accelerates the development of advanced launch vehicle control systems.",
+    "tags": [
+      "open-source",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "74113ae95cf7333ae0c16ada47b4cd8f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02465v1",
+    "arxiv_id": "2607.02465v1",
+    "title": "Probabilistic Memory for Trustworthy Edge Intelligence",
+    "authors": [
+      "Likai Pei",
+      "Jiahao Zheng",
+      "Xueji Zhao"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Probabilistic Memory Enhances Edge AI Reliability and Efficiency",
+    "tldr": "This work presents probabilistic memory (p-MEM), a hardware/software architecture that bridges the data throughput gap between Gaussian random number generation and probabilistic computation, enabling trustworthy edge intelligence with lower instruction overhead. By integrating p-MEM, edge devices can quantify uncertainty, improve robustness, and protect privacy while maintaining real‑time performance.",
+    "significance": "p-MEM unlocks scalable probabilistic inference on resource‑constrained edge devices, paving the way for reliable, privacy‑preserving AI in real‑time applications.",
+    "tags": [
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "979beb9eb851974df936ba17408502fe",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02464v1",
+    "arxiv_id": "2607.02464v1",
+    "title": "Will Scaling Improve Social Simulation with LLMs?",
+    "authors": [
+      "Caleb Ziems",
+      "William Held",
+      "Su Doga Karaca"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Can Scaling LLMs Close the Gap in Social Simulation Fidelity?",
+    "tldr": "This study applies scaling laws to assess whether larger language models can improve the realism of social simulations. Findings suggest that while size boosts general performance, it does not fully resolve fidelity gaps, indicating a need for targeted research.",
+    "significance": "It highlights that scaling alone may not suffice for high-fidelity social simulations, guiding future research priorities.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4a88dc2a058769bd191f3b197a71748c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02463v1",
+    "arxiv_id": "2607.02463v1",
+    "title": "Topological Control of Quantum Chaos Diagnostics: OTOCs, Spectral Statistics, and Information Scrambling in Ising Model",
+    "authors": [
+      "Reza Pirmoradian",
+      "Soheir Rouhani",
+      "M. Reza Tanhayi"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Graph Topology Accelerates Quantum Chaos and Information Scrambling in Ising Models",
+    "tldr": "We study how different network topologies affect the transition from integrability to chaos in Ising spin systems. Long-range couplings and heterogeneous degree distributions significantly speed up quantum information propagation, as revealed by OTOCs, spectral statistics, and scrambling metrics.",
+    "significance": "These findings provide a graph-theoretic framework for designing quantum systems with tailored scrambling dynamics, useful for quantum information processing and simulation.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "509402d7184a905e10dd10878c5ff2bb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02462v1",
+    "arxiv_id": "2607.02462v1",
+    "title": "Quantum mutual information as a robust probe of integrability in open quantum systems",
+    "authors": [
+      "Nirupam Sen",
+      "Keshav Das Agarwal",
+      "Aditi Sen De"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Quantum Mutual Information Reveals Integrability in Open Quantum Systems Using Haar-Averaged Correlations",
+    "tldr": "We introduce a Haar-averaged sum of total correlations (aSTC) as an information-theoretic probe for integrability in open quantum systems. The method distinguishes integrable from chaotic dynamics and offers a robust, scalable diagnostic.",
+    "significance": "This framework provides a scalable, experimentally accessible metric to detect quantum chaos, bridging theory and measurement in open systems.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f8bc64ec669dddf722d1091f1cc89f3f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02461v1",
+    "arxiv_id": "2607.02461v1",
+    "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+    "authors": [
+      "Donghyun Lee",
+      "Jitesh Chavan",
+      "Duy Nguyen"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "OrbitQuant: Data‑Agnostic Quantization for Faster Diffusion Transformers Across Modalities and Use‑Cases",
+    "tldr": "OrbitQuant introduces a data‑agnostic post‑training quantization method that eliminates the need for per‑checkpoint calibration in diffusion transformers. This approach enables real‑time inference across image and video generation tasks while preserving model accuracy.",
+    "significance": "It dramatically reduces inference cost for diffusion transformers, making them more accessible for real‑time applications.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0f8062ab09e11432bb5f32302fdad421",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02460v1",
+    "arxiv_id": "2607.02460v1",
+    "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+    "authors": [
+      "Zhuowei Chen",
+      "Xiang Lorraine Li"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Neuron-Aware Data Selection Boosts Annotation-Free Self-Distillation for Specialized LLM Domains",
+    "tldr": "This study introduces a neuron-aware data selection strategy that enhances annotation-free self-distillation for large language models. By leveraging the model’s own predictions as supervisory signals and aggregating them with contextual cues, the approach improves performance in specialized domains without costly expert labeling.",
+    "significance": "It demonstrates a scalable path to refine LLMs in niche fields without human annotation, potentially accelerating deployment in resource-constrained settings.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "26389442b9a8cf20dad7e419f5efc3c7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02459v1",
+    "arxiv_id": "2607.02459v1",
+    "title": "Language Models as Measurement Apparatus for Culture",
+    "authors": [
+      "Kent K. Chang"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Language Models as Cultural Measurement Tools: A Material-Discursive Perspective",
+    "tldr": "This paper argues that language models used to quantify culture are not passive recorders but active participants in shaping cultural reality. By applying Karen Barad’s concept of agential realism, it shows how models, data, annotation, and evaluation co-constitute the phenomena they aim to measure.",
+    "significance": "It reframes NLP studies of culture as transformative practices that influence the very cultural constructs they analyze.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8bd023c36bd865ea9936a3f47edf6b91",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02458v1",
+    "arxiv_id": "2607.02458v1",
+    "title": "Nonholonomic Source Seeking by Torque Tuning: Local and Semi-Global Feedbacks",
+    "authors": [
+      "Bo Wang"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Torque Tuning Enables Nonholonomic Vehicle to Seek Unknown Sources in Real Time",
+    "tldr": "This study presents a feedback control strategy that tunes torque to guide a nonholonomic vehicle with a laterally displaced sensor toward an unknown source while maintaining constant forward speed. The approach achieves local and semi-global stability without requiring position measurements, enabling real-time source‑seeking in uncertain dynamics.",
+    "significance": "It offers a robust, measurement‑free method for autonomous source tracking in environments with unknown vehicle dynamics.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "43540c777ac12f044dcc0d5372f42cba",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02456v1",
+    "arxiv_id": "2607.02456v1",
+    "title": "A Quantum-Walk Representation of Color-Ordered MHV Scattering Amplitudes",
+    "authors": [
+      "Anirudh Verma",
+      "C. M. Chandrashekar"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Quantum Walks on Permutation Trees Model Color-Ordered MHV Scattering Amplitudes",
+    "tldr": "We propose a graph-theoretic framework using coined quantum walks on permutation trees to represent color-ordered MHV scattering amplitudes. Each path corresponds to a distinct gluon ordering, with transition amplitudes reflecting the Parke–Taylor spinor-product structure.",
+    "significance": "This approach offers a novel combinatorial perspective that could streamline analytic calculations and inspire new computational algorithms for scattering amplitudes.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a26bc2014aab8c4c9b02d3f15f8a6b01",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02455v1",
+    "arxiv_id": "2607.02455v1",
+    "title": "When Do LLM Personas Support Visualization Design? A Cross-Model Study of Color Assignment and Chart Choice",
+    "authors": [
+      "Shahreen Salim",
+      "Klaus Mueller"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "LLM Personas and Visualization Design: When Do They Truly Reflect User Preferences?",
+    "tldr": "This study investigates whether persona-conditioned outputs from large language models reliably capture user preferences in visualization tasks. Across color assignment and chart choice, results suggest that persona effects vary by model and task framing, highlighting the need for careful evaluation.",
+    "significance": "It clarifies the reliability of LLM personas for early-stage visualization design, guiding practitioners on when to trust persona-driven recommendations.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "75b6eb78a574233dda56efce42a839f7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02453v1",
+    "arxiv_id": "2607.02453v1",
+    "title": "Adoption and Ecosystem Health: A Longitudinal Analysis of Open-Source Multi-Agent Frameworks",
+    "authors": [
+      "Xi Zhang",
+      "Papi Menon",
+      "Vivian Chu"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "Tracking the Rise of Open‑Source Multi‑Agent Frameworks: 2022‑2026 Adoption Trends",
+    "tldr": "From ChatGPT’s debut, 15 major agent frameworks have amassed over 800k stars and nearly a million users. This study maps their growth, pull‑request activity, and commit patterns to reveal which frameworks sustain healthy ecosystems.",
+    "significance": "Understanding which open‑source agent frameworks thrive helps engineering teams choose reliable, community‑supported tools.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c30c735dc3998495ba1a2c1b37d7cdec",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.02448v1",
+    "arxiv_id": "2607.02448v1",
+    "title": "AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition",
+    "authors": [
+      "Emmanuel George",
+      "Christopher Keefe",
+      "Peter Pak"
+    ],
+    "published": "2026-07-02",
+    "curated_at": "2026-07-06",
+    "headline": "AgentsCAD: Multi-Agent LLM System Enhancing Automated FDM Part Design for Manufacturing",
+    "tldr": "AgentsCAD uses a multi-agent large language model framework to automatically modify CAD geometry for FDM printing, addressing overhangs and structural weaknesses. By integrating geometric feature recognition, the system generates printable designs without manual intervention, streamlining the DFAM workflow.",
+    "significance": "This approach democratizes DFAM by enabling non-experts to produce print-ready designs, reducing time-to-market and material waste.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "1feff15e34aca7a2d3b8b841357463c4",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.02503v1",
@@ -1033,367 +1385,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "bbd2b4f2ae9ce98c24738ecd51e5a7cb",
-    "source": "web",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2600178",
-    "arxiv_id": "",
-    "title": "An LLM-based multi-agent system for remote sensing analysis",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "LLM-Powered Multi-Agent Framework Simplifies Remote Sensing for Non-Experts in Urban and Environmental Monitoring",
-    "tldr": "We introduce a large language model-based multi-agent system that guides users through remote sensing tasks without requiring specialized expertise. The framework automates data preprocessing, analysis, and interpretation, enabling rapid, accurate insights for urban and environmental applications.",
-    "significance": "This approach democratizes access to remote sensing, empowering stakeholders to make data-driven decisions without technical barriers.",
-    "tags": [
-      "LLM",
-      "remote-sensing",
-      "urban-AI",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "490a78f2ebdf328280cabce7ebba7439",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32039v1",
-    "arxiv_id": "2606.32039v1",
-    "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
-    "authors": [
-      "Bin Lin",
-      "Zheyuan Liu",
-      "Chenguo Lin"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "GEAR: End-to-End Training of Tokenizer and Generator for Image Synthesis",
-    "tldr": "GEAR trains a vector-quantized tokenizer jointly with a generator, eliminating the decoupling that hampers traditional two-stage pipelines. This end-to-end approach improves model efficiency and synthesis quality.",
-    "significance": "By aligning tokenizer and generator training, GEAR enhances generative model performance and paves the way for more coherent image synthesis.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "vector-tiles"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "19935f844b9b5f5ce79aadc5d6841706",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32036v1",
-    "arxiv_id": "2606.32036v1",
-    "title": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
-    "authors": [
-      "Yujie Guo",
-      "Yudong Jin",
-      "Lingteng Qiu"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "PointSplat: Fast, Compact Gaussian Splatting for Real-Time 3D Human Reconstruction",
-    "tldr": "PointSplat introduces a human‑centric Gaussian splatting approach that compresses 3D human models into compact representations while preserving high fidelity. The method enables on‑the‑fly reconstruction from multiple views, making it ideal for live streaming with limited bandwidth and compute resources.",
-    "significance": "This work bridges the gap between high‑quality 3D human reconstruction and the constraints of real‑time streaming, offering a scalable solution for immersive applications.",
-    "tags": [
-      "real-time",
-      "point-cloud",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bf9536a9d47a8b4cd609693b6c1a672e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32034v1",
-    "arxiv_id": "2606.32034v1",
-    "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-    "authors": [
-      "Sergio Hernández-Gutiérrez",
-      "Matteo Merler",
-      "Ilze Amanda Auzina"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "QVal: Cheap Evaluation of Dense Supervision for Long-Horizon LLM Agents",
-    "tldr": "QVal introduces a lightweight method to assess dense supervision signals in long-horizon LLM agents, enabling more efficient training and better guidance of intermediate actions. By leveraging cheap evaluation metrics, the approach reduces reliance on sparse outcome rewards and improves agent performance across extended trajectories.",
-    "significance": "It provides a scalable way to evaluate intermediate action quality, addressing a key bottleneck in training long-horizon LLM agents.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6141655c3a34280dfd89bc44f8e10f77",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32033v1",
-    "arxiv_id": "2606.32033v1",
-    "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
-    "authors": [
-      "Or Hirschorn",
-      "Aaron Olender",
-      "Eli Alshan"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "Zero‑Shot 360 Panorama Generation with Spherical RoPE: A Diffusion Transformer Approach",
-    "tldr": "SpheRoPE injects spherical priors into pre‑trained diffusion transformers, enabling zero‑shot, training‑free 360 panorama synthesis. The method eliminates costly fine‑tuning and multi‑step optimization, delivering real‑time panoramic images and videos.",
-    "significance": "It democratizes high‑quality panoramic generation by removing the need for specialized datasets or inference overhead, making it accessible for real‑time applications.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f1349f74db445969e482b53d998f2217",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32029v1",
-    "arxiv_id": "2606.32029v1",
-    "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
-    "authors": [
-      "Yuqing Yang",
-      "Qi Zhu",
-      "Zhen Han"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "LLMs Misread Tables: Quantifying and Mitigating Data Referencing Errors in Structured Data",
-    "tldr": "Large language models often miscite or omit table values, producing data referencing errors that undermine reasoning steps. This study introduces a comprehensive benchmark, measures error rates, and proposes techniques to reduce such mistakes.",
-    "significance": "By systematically measuring and reducing data referencing errors, the work enhances the reliability of LLMs in data-intensive applications.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6fe36e50fb967444d84218e4f209c3b8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32028v1",
-    "arxiv_id": "2606.32028v1",
-    "title": "DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation",
-    "authors": [
-      "Ziyu Shan",
-      "Zhenyu Wu",
-      "Xiaofeng Wang"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "Disentangled Video Generation for Efficient Embodied World Models in Robotics",
-    "tldr": "We propose a disentangled video generation framework that separates low-level temporal dynamics from high-level visual synthesis, enabling accurate future state predictions and high-resolution frame generation for robotic manipulation. This approach reduces computational cost and improves performance on embodied tasks.",
-    "significance": "By decoupling dynamics and visual synthesis, the method advances real-time robotic manipulation with more efficient and accurate world modeling.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "04947c901777c29259e96dca728c283c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32026v1",
-    "arxiv_id": "2606.32026v1",
-    "title": "AdaJEPA: An Adaptive Latent World Model",
-    "authors": [
-      "Ying Wang",
-      "Oumayma Bounou",
-      "Yann LeCun"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "AdaJEPA: Adaptive Latent World Models for Robust Test‑Time Planning in High‑Dimensional Observations",
-    "tldr": "AdaJEPA introduces a test‑time adaptive latent world model that updates its predictions during deployment, improving planning under distribution shift. It demonstrates that continuous adaptation can mitigate failure modes in high‑dimensional observation spaces.",
-    "significance": "AdaJEPA shows that adaptive latent world models can maintain planning accuracy under test‑time distribution shifts, a key step toward robust real‑world deployment of model‑based RL.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "66e3c0b7bb87a00eb978e378a8a787e0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32023v1",
-    "arxiv_id": "2606.32023v1",
-    "title": "FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
-    "authors": [
-      "Emilie Vautier",
-      "Clément Mallet",
-      "Cédric Vega"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "Predicting Forest Attributes from Heterogeneous LiDAR with Deep Learning Across Europe",
-    "tldr": "FLORA uses a deep learning model to generate wall‑to‑wall forest attribute maps from airborne LiDAR data collected under varying conditions. The approach improves national forest inventory accuracy across Europe by handling data heterogeneity.",
-    "significance": "Accurate, nationwide forest attribute predictions enable better resource management and policy decisions.",
-    "tags": [
-      "remote-sensing",
-      "LiDAR",
-      "point-cloud",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2ed27551b0c3ae23da8c7abe2d161fc9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.32022v1",
-    "arxiv_id": "2606.32022v1",
-    "title": "SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models",
-    "authors": [
-      "Jian Gu",
-      "Aldeida Aleti",
-      "Chunyang Chen"
-    ],
-    "published": "2026-06-30",
-    "curated_at": "2026-07-01",
-    "headline": "Introducing SemRF: A New Anchor-Based Framework for Tracking Residual-Stream Dynamics",
-    "tldr": "SemRF provides a semantic reference frame that aligns embedding anchors and unembedding readouts across layers, enabling accurate tracking of residual-stream evolution in language models. By separating measurement drift from true computation, SemRF improves interpretability and facilitates deeper analysis of LLM internals.",
-    "significance": "SemRF offers a principled way to monitor and understand how language models process information across depth, advancing research in model interpretability.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b37bff06b10f1fc193aed08bf2a62dc5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30645v1",
-    "arxiv_id": "2606.30645v1",
-    "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
-    "authors": [
-      "Yen-Jen Wang",
-      "Jiaman Li",
-      "Sirui Chen"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "New VLK Dataset Enables Humanoid Robots to Learn Loco-Manipulation from Synthetic Scenes",
-    "tldr": "We introduce VLK, a vision-language-kinematics dataset generated from synthetic interactions in reconstructed scenes, providing synchronized egocentric images, language commands, and robot-compatible trajectories. This dataset addresses a critical gap, enabling scalable learning of humanoid loco-manipulation tasks.",
-    "significance": "By furnishing the first large-scale, multimodal dataset for humanoid loco-manipulation, VLK accelerates research in embodied AI and paves the way for more capable, perception-driven robots.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "75f58c15864d79e06a6d205b27c64380",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30642v1",
-    "arxiv_id": "2606.30642v1",
-    "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
-    "authors": [
-      "Shun Lei",
-      "Huaicheng Zhang",
-      "Dapeng Wu"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "LeVo 2: Hierarchical Modeling for Coherent, Melodious Full-Length Song Generation",
-    "tldr": "LeVo 2 introduces a hierarchical representation and progressive post‑training to generate full‑length songs that maintain lyrical coherence and realistic vocal‑instrument coordination. The approach balances mixed‑token and dual‑track modeling, yielding stable, melodious outputs with detailed acoustics.",
-    "significance": "It advances AI music generation by reconciling coherence and acoustic fidelity, enabling more realistic and controllable full‑song creation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "93f94bbeb26620f67d32a18b1d1cb8b2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30639v1",
-    "arxiv_id": "2606.30639v1",
-    "title": "Self-Evolving World Models for LLM Agent Planning",
-    "authors": [
-      "Xuan Zhang",
-      "Wenxuan Zhang",
-      "See-Kiong Ng"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "Self‑Evolving World Models Empower LLM Agents with Adaptive Foresight for Long‑Horizon Planning",
-    "tldr": "We propose WorldEvolver, a framework that continuously updates a world model’s context during deployment, enabling LLM agents to anticipate action outcomes more accurately. By integrating self‑evolution, the system mitigates unreliable foresight and improves downstream decision quality.",
-    "significance": "WorldEvolver demonstrates that adaptive world models can enhance LLM agent planning, reducing errors from static foresight and paving the way for more reliable autonomous decision‑making.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "42818eb578f3ed4f80830e5888c152b8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30638v1",
-    "arxiv_id": "2606.30638v1",
-    "title": "Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors",
-    "authors": [
-      "Jameel Hassan",
-      "Yasiru Ranasinghe",
-      "Vishal Patel"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "Open-Vocabulary 3D Gaussian Segmentation via 2D Detectors and Language Models",
-    "tldr": "This work extends 3D Gaussian Splatting by integrating open‑vocabulary language understanding, enabling 3D scene segmentation using 2D detectors and CLIP‑style contrastive learning. The approach allows real‑time, language‑driven segmentation for embodied AI applications.",
-    "significance": "It bridges 3D scene reconstruction with flexible, language‑driven segmentation, opening new possibilities for real‑time, embodied AI.",
-    "tags": [
-      "segmentation",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "aa6b5fd893bc90327456910edd38becf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2606.30634v1",
-    "arxiv_id": "2606.30634v1",
-    "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
-    "authors": [
-      "Philip Zmushko",
-      "Egor Petrov",
-      "Nursultan Abdullaev"
-    ],
-    "published": "2026-06-29",
-    "curated_at": "2026-06-30",
-    "headline": "Asynchronous Pipeline Parallelism Boosts LLM Pretraining Efficiency Without Gradient Staleness",
-    "tldr": "This study demonstrates that asynchronous pipeline parallelism can eliminate idle GPU time during large‑scale LLM pretraining, achieving higher throughput. By employing the PipeDream‑2BW schedule, the authors show that the one‑step gradient delay does not impede model convergence.",
-    "significance": "It proves that asynchronous pipeline parallelism is a practical, high‑performance strategy for training massive language models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
