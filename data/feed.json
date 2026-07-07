@@ -1,5 +1,317 @@
 [
   {
+    "uid": "8372f00d6fd5ac7fe8209cdc16b9d779",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05395v1",
+    "arxiv_id": "2607.05395v1",
+    "title": "Liénard--Wiechert fields in AdS and flat-space antipodal matching from geodesic-centered Coulombic data",
+    "authors": [
+      "Sarthak Duary"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "Geometric Derivation of Liénard–Wiechert Fields and Antipodal Matching in AdS",
+    "tldr": "The paper presents a geometric derivation of Liénard–Wiechert fields in flat space and global AdS by centering coordinates on the source geodesic, revealing the origin of antipodal matching. It shows how the Coulomb field in the rest frame translates into the correct angular dependence of the leading data in both spacetimes.",
+    "significance": "It clarifies the geometric mechanism behind antipodal matching, a key consistency condition in asymptotic symmetries of gauge theories.",
+    "tags": [
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9acbb7f4d14bc802b64b8b517d2c556e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05396v1",
+    "arxiv_id": "2607.05396v1",
+    "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+    "authors": [
+      "Wenhao Li",
+      "Xueying Jiang",
+      "Quanhao Qian"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "Calibration-Free Vision-Language Action Models for Unreliable Camera Setups in Real-World Robotics",
+    "tldr": "We introduce a calibration-free vision-language-action model that remains robust to camera repositioning in real-world robotics. This approach eliminates the need for explicit extrinsic parameters, enabling more flexible deployment across varied viewpoints.",
+    "significance": "By removing the dependency on camera calibration, the model facilitates scalable, view-robust robot deployment in dynamic environments.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "67388058a7bf4cbe3f2c7dd04e9ca82e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05394v1",
+    "arxiv_id": "2607.05394v1",
+    "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+    "authors": [
+      "Shiyuan Feng",
+      "Huan-ang Gao",
+      "Haohan Chi"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "From Small to Strong: Direct On-Policy Distillation for Efficient RL in LLMs",
+    "tldr": "The paper proposes running reinforcement learning on a lightweight model to generate rollouts cheaply, then distilling the learned policy into a larger, stronger model. This weak-to-strong approach reduces post‑training cost while preserving performance gains.",
+    "significance": "It offers a scalable, cost‑effective method to transfer RL benefits from small to large language models, addressing the bottleneck of repeated rollouts.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "441876fdf8b5d094581539a5c1a0d54c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05393v1",
+    "arxiv_id": "2607.05393v1",
+    "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
+    "authors": [
+      "Raphaël Bonnet-Guerrini",
+      "Bruno Sanchez",
+      "Dominique Fouchez"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification in Time-Domain Surveys",
+    "tldr": "We present a framework that trains a real-bogus classifier without human labels by injecting synthetic transients into survey data and leveraging the predominance of bogus events. The model provides interpretable predictions and quantifies uncertainty, enabling reliable automated discovery in time-domain astronomy.",
+    "significance": "This approach reduces reliance on costly labeled data and improves trustworthiness of automated transient detection.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dba70f5181091db65d3604277ddd8fb4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05392v1",
+    "arxiv_id": "2607.05392v1",
+    "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
+    "authors": [
+      "Paul Engstler",
+      "Iro Laina",
+      "Christian Rupprecht"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "SynCity 3000: Bootstrapping Globally Coherent 3D Scenes with Diffusion-Based Layout Control",
+    "tldr": "SynCity 3000 extends image-to-3D generators into a convolutional operator, enabling the creation of entire, globally coherent scenes from a single image. The framework fine‑tunes the diffusion model to allow fine‑grained layout control across the scene.",
+    "significance": "This approach democratizes large‑scale 3D scene generation, making it accessible for applications ranging from virtual reality to urban planning.",
+    "tags": [
+      "diffusion-models",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "880e4afbede588e93bac81f6daa31690",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05391v1",
+    "arxiv_id": "2607.05391v1",
+    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "authors": [
+      "Jacky Kwok",
+      "Shulu Li",
+      "Pranav Atreya"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "LLM-as-a-Verifier: Scaling Verification for Robustness and Accuracy in Large Language Models",
+    "tldr": "We propose LLM-as-a-Verifier, a framework that uses large language models to automatically verify solutions across diverse tasks. The method demonstrates improved accuracy and scalability compared to traditional verification techniques.",
+    "significance": "This work introduces verification as a new scaling axis, enabling LLMs to self-assess correctness and enhancing trustworthiness.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fee557bd7dbf1b3262c96ab394c2c337",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05390v1",
+    "arxiv_id": "2607.05390v1",
+    "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
+    "authors": [
+      "Hongyu Li",
+      "Wanjia Fu",
+      "Xiaoyan Cong"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "Deform360: A Large-Scale Visuotactile Dataset for Modeling Deformable Object Dynamics",
+    "tldr": "Deform360 introduces a massive multi-view visuotactile dataset to advance world modeling of deformable objects. It provides high-dimensional tactile and visual data across diverse materials, enabling robust learning of complex dynamics.",
+    "significance": "This dataset bridges the gap between visual and tactile perception, empowering more accurate and generalizable deformable object models for robotic manipulation.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "point-cloud",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "da8925ed31af6b206b5aae3135e1311c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05389v1",
+    "arxiv_id": "2607.05389v1",
+    "title": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
+    "authors": [
+      "Erich Liang",
+      "Caleb Kha-Uong",
+      "Chinmaya Saran"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "InFlux++ Enhances 3D Reconstruction by Estimating Dynamic Camera Intrinsics in Real and Synthetic Videos",
+    "tldr": "This work introduces InFlux++, a dataset combining real and synthetic videos with per-frame camera intrinsics, enabling robust 3D reconstruction under dynamic camera settings. The authors also present a baseline method that learns to predict intrinsics directly from RGB frames, demonstrating improved performance over fixed-intrinsic assumptions.",
+    "significance": "By providing realistic dynamic intrinsics data and a learning framework, InFlux++ addresses a critical gap in 3D vision, paving the way for more accurate reconstruction in unconstrained, real-world videos.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "05be74d91d5b42c4c43fff2fd6ea8329",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05387v1",
+    "arxiv_id": "2607.05387v1",
+    "title": "CATs: Secure Blockchain Interoperability with Cross-chain Atomic Transactions",
+    "authors": [
+      "Andreas Penzkofer",
+      "Franck Cassez"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "Cross-Chain Atomic Transactions: Enabling Secure Interoperability Across Autonomous Blockchains Without Compromise",
+    "tldr": "We introduce CATs, a protocol that guarantees atomic execution across multiple blockchains despite asynchronous communication and Byzantine actors. CATs preserve each chain’s autonomy by allowing independent execution models while enabling composable cross-chain operations.",
+    "significance": "CATs provide a practical solution for secure, composable cross-chain interactions, paving the way for decentralized applications that span multiple blockchain ecosystems.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ce4f0dd01e1fd9bf62fb415fac4a2c46",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05382v1",
+    "arxiv_id": "2607.05382v1",
+    "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+    "authors": [
+      "Haozhe Wang",
+      "Weijia Feng",
+      "Jinpeng Yu"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "Expanding Visual Generation: SearchGen Challenges Generative Models Beyond Fixed Knowledge",
+    "tldr": "Visual generators often hallucinate when lacking up-to-date knowledge, limiting their usefulness for evolving user requests. The authors introduce SearchGen-20K and SearchGen-Bench to evaluate and push models toward dynamic knowledge integration.",
+    "significance": "This work highlights the structural limitation of static training data and proposes a benchmark to spur research in adaptive visual generation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "70301ff64f981efe4eaf789536911247",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05381v1",
+    "arxiv_id": "2607.05381v1",
+    "title": "What Does a Discrete Diffusion Model Learn?",
+    "authors": [
+      "Rodrigo Casado Noguerales",
+      "Bernhard Schölkopf",
+      "Thomas Hofmann"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "Discrete Diffusion Models: Unpacking the Role of Denoisers, Score Ratios, and Predictors",
+    "tldr": "Discrete diffusion models can be interpreted as learning any of three equivalent objects—denoiser, score ratio, or bridge plug‑in predictor—depending on the coordinate system chosen. This equivalence means that mis‑specifying the coordinate transforms the training objective and the sampling dynamics.",
+    "significance": "Understanding this coordinate equivalence clarifies how to design and evaluate discrete diffusion models across different applications.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7c80594e36ebf68df16a303694af9025",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05380v1",
+    "arxiv_id": "2607.05380v1",
+    "title": "TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
+    "authors": [
+      "Yury Gorishniy",
+      "Akim Kotelnikov",
+      "Ivan Rubachev"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "TabPack: A Fast, Hyperparameter-Independent Ensemble for Tabular Deep Learning Models",
+    "tldr": "TabPack introduces an efficient ensemble of MLPs that automatically adapts hyperparameters across models, eliminating the need for manual tuning. The approach delivers strong out‑of‑the‑box performance on tabular datasets while remaining computationally lightweight.",
+    "significance": "By removing the hyperparameter bottleneck, TabPack enables practitioners to deploy robust tabular deep learning models quickly and with minimal effort.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ead6baf21ebb17ba04598a91f0dd369f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.05378v1",
+    "arxiv_id": "2607.05378v1",
+    "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+    "authors": [
+      "Yujiang Li",
+      "Zhenyu Hou",
+      "Yi Jing"
+    ],
+    "published": "2026-07-06",
+    "curated_at": "2026-07-07",
+    "headline": "Enhancing CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+    "tldr": "Long-horizon LLM agents struggle with finite context windows, limiting task completion. CompactionRL introduces a reinforcement learning framework that compacts context, enabling continued rollouts under compressed states.",
+    "significance": "This work bridges context compaction and RL, enabling scalable long-horizon decision making in large language models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "04f29d6b5d81864cd6c3cdcb10583655",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.02491v1",
@@ -1104,284 +1416,6 @@
       "LLM",
       "foundation-models",
       "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "33b60db93a523374a0e70f4cbcad2d59",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02506v1",
-    "arxiv_id": "2607.02506v1",
-    "title": "On the emergence of quantum many-body chaos for tunably-broken integrability",
-    "authors": [
-      "Sounak Biswas",
-      "Sthitadhi Roy",
-      "Roderich Moessner"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "Quantum Chaos Emerges as Integrability Is Tunably Broken in Free Fermion Circuits",
-    "tldr": "We present a quantitative framework for how quantum many-body chaos develops when integrability is gradually broken. By studying a circuit of free fermions doped with tunable integrability-breaking gates, we reveal the microscopic transition from early-time integrable dynamics to late-time chaotic behavior via out-of-time-ordered correlators.",
-    "significance": "This work provides a clear microscopic understanding of chaos onset, informing both theoretical studies and experimental designs in quantum simulation.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e64dc5adc319df0976e8b8e69aac46b4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02504v1",
-    "arxiv_id": "2607.02504v1",
-    "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
-    "authors": [
-      "Yuxuan Li",
-      "Lingxi Xie",
-      "Xinyue Huo"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "LLM Enhances Speaker Recognition in Long-Form TV Dramas",
-    "tldr": "The paper presents DramaSR-532K, a large-scale benchmark for speaker recognition in long‑form TV dramas. Using a reasoning LLM, the authors demonstrate significant performance gains over existing methods.",
-    "significance": "It provides a new benchmark and shows that LLMs can improve speaker attribution, enabling richer analysis of TV dramas.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7c2054964ccf56e750548fa1284c9dee",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02502v1",
-    "arxiv_id": "2607.02502v1",
-    "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
-    "authors": [
-      "Yunhe Li",
-      "Hao Shi",
-      "Wenhao Liu"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "DemoPSD: Reducing Overfitting in LLM Self-Distillation via Disagreement Modulation for Robust Reasoning",
-    "tldr": "DemoPSD introduces a disagreement-modulated policy self-distillation framework that mitigates overfitting in on‑policy self‑distillation by tempering dense token‑level supervision with privileged information. The method demonstrates improved generalization and reasoning performance across diverse LLM benchmarks.",
-    "significance": "By addressing overfitting in self‑distillation, DemoPSD paves the way for more reliable and generalizable large language models.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d4446b2d5754997795eb525cfaead966",
-    "source": "web",
-    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
-    "arxiv_id": "",
-    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "2025 GeoAI Trends: Predictive Insights, Automation, and Climate Solutions Across",
-    "tldr": "GeoAI in 2025 is reshaping how we monitor climate, cities, and global challenges with advanced predictive models and real‑time data streams. Key innovations include foundation models for satellite imagery, automated flood detection, and urban AI for smart city planning.",
-    "significance": "These trends empower decision-makers to proactively address environmental risks and optimize resource allocation at scale.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "urban-AI",
-      "flood-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "Charting the Future of GeoAI: From Foundations to Real-World Impact",
-    "tldr": "GeoAI is rapidly evolving, blending geospatial science with AI to unlock new insights. This paper reviews recent breakthroughs and outlines future directions for the field.",
-    "significance": "Understanding GeoAI's trajectory is crucial for harnessing AI to address global spatial challenges.",
-    "tags": [
-      "foundation-models",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
-    "arxiv_id": "",
-    "title": "GeoAI | Geo Week News",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "AI Transforms Geospatial Work: From Automated Feature Extraction to Predictive Analysis",
-    "tldr": "Artificial intelligence and machine learning are automating feature extraction and point cloud classification across satellite imagery and LiDAR data. These advances enable real‑time predictive analysis, driving smarter decisions in urban planning, agriculture, and disaster response.",
-    "significance": "By scaling AI-driven interpretation of spatial data, GeoAI unlocks faster, more accurate insights that can transform how we monitor and manage the planet.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
-    "source": "web",
-    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
-    "arxiv_id": "",
-    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "5 Emerging GeoAI Trends Shaping 2025: From Foundation Models to Urban AI",
-    "tldr": "GeoAI is accelerating with foundation models, advanced remote sensing, and urban AI applications. These trends promise smarter planning, agriculture, and disaster response in 2025.",
-    "significance": "These innovations will transform how cities, farms, and emergency services use spatial data.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "urban-AI"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "92bf674ec35ec2ef9f1df52ed0afdea5",
-    "source": "web",
-    "url": "https://www.itu.int/hub/2025/03/itu-journal-explores-geoai-innovation-for-the-good-of-humanity/",
-    "arxiv_id": "",
-    "title": "ITU Journal explores GeoAI innovation for the good of humanity",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "ITU Journal Highlights GeoAI Innovations Driving Sustainable Development",
-    "tldr": "The 2025 edition of the ITU Journal showcases how GeoAI can support sustainable development, featuring research on satellite imagery, remote sensing, and spatial reasoning. Experts discuss practical applications from flood detection to urban planning, underscoring GeoAI’s role in shaping a digital, eco‑friendly future.",
-    "significance": "By integrating GeoAI into telecommunications research, the journal demonstrates how AI-driven spatial analytics can accelerate global sustainability goals.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "762c83592693d584bfc0fba64f7899ac",
-    "source": "web",
-    "url": "https://github.com/mbzuai-oryx/ThinkGeo",
-    "arxiv_id": "",
-    "title": "GitHub - mbzuai-oryx/ThinkGeo: [CVPR 2026 ] ThinkGeo is a ...",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "ThinkGeo: Benchmarking LLMs on Remote Sensing Tasks with Structured Tool Use",
-    "tldr": "ThinkGeo is a new benchmark that tests language models on complex satellite and aerial imagery tasks using step‑by‑step reasoning and tool calls. It provides human‑curated queries across disaster response, urban planning, and environmental monitoring, enabling systematic evaluation of LLM capabilities in remote sensing.",
-    "significance": "It bridges the gap between natural language processing and geospatial analysis, offering a standardized way to assess how well LLMs can interpret and act on real‑world imagery data.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5ab5eede356b856d4b1bed7552008f21",
-    "source": "web",
-    "url": "https://github.com/ua-datalab/geospatial_2025",
-    "arxiv_id": "",
-    "title": "GitHub - ua-datalab/geospatial_2025",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "AI Models Transform GIS: From Advice to Autonomous Spatial Analysis Agents",
-    "tldr": "AI systems are evolving from providing guidance to executing GIS commands autonomously, reshaping geospatial workflows. This shift enables rapid, code-free spatial analysis directly on local machines.",
-    "significance": "This evolution democratizes advanced geospatial analysis, accelerating insights across environmental, urban, and agricultural domains.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
-    "source": "web",
-    "url": "https://opengeoai.org/",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "GeoAI: Bridging AI and Geospatial Data for Accessible Machine Learning",
-    "tldr": "GeoAI is a Python package that integrates AI techniques with geospatial data, enabling researchers to apply machine learning to geographic datasets. It offers intuitive tools for tasks such as segmentation, object detection, and time‑series analysis in a user‑friendly framework.",
-    "significance": "By simplifying AI workflows on spatial data, GeoAI accelerates insights in fields ranging from urban planning to environmental monitoring.",
-    "tags": [
-      "remote-sensing",
-      "segmentation",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "1785692639303012acc70ffb83d999f5",
-    "source": "web",
-    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
-    "arxiv_id": "",
-    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Earth Observation Data",
-    "tldr": "NASA has released Galileo, an open-source multimodal foundation model that can ingest satellite imagery, time-series data, and tabular inputs. Its tokenization pipeline splits remote sensing data into spatial patches, timesteps, and logical channel groups, enabling unified processing across diverse modalities.",
-    "significance": "Galileo democratizes advanced Earth observation analytics by providing a single, open-source framework that integrates images, time series, and tabular data, accelerating research and operational applications.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "satellite-imagery",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-02",
-    "headline": "Raster Vision: Open-Source Deep Learning Library Bridging GIS and Computer Vision",
-    "tldr": "Raster Vision is an open-source framework that unifies GIS data with deep learning pipelines for tasks like chip classification, semantic segmentation, and object detection. Its configurable architecture enables researchers to deploy and experiment with state‑of‑the‑art models on satellite imagery.",
-    "significance": "By simplifying the integration of geospatial data and deep learning, Raster Vision accelerates the development of AI solutions for environmental monitoring and urban planning.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation",
-      "open-source"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
