@@ -1,5 +1,271 @@
 [
   {
+    "uid": "aed073fa3eb1f07bece167551a6d156d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06567v1",
+    "arxiv_id": "2607.06567v1",
+    "title": "Skipping the rungs! Calibrating distance indicators through their clustering with galaxies",
+    "authors": [
+      "Madeline L. Cross-Parkin",
+      "Leonardo Giani",
+      "Cullan Howlett"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "Calibrating Cosmic Distance Indicators via Galaxy Clustering Cross-Correlations for Improved Cosmological Parameter Estimation",
+    "tldr": "We demonstrate that angular cross-correlations between distance indicators and galaxy redshift surveys can detect calibration biases in distance measurements. By modeling a constant magnitude offset, we show how clustering statistics constrain this systematic and improve cosmological inference.",
+    "significance": "This method offers a novel, model-dependent way to quantify and correct distance calibration errors, enhancing the precision of cosmological studies.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "05b4ad649655b69848e2c061a85274a4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06565v1",
+    "arxiv_id": "2607.06565v1",
+    "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+    "authors": [
+      "Tianjiao Yu",
+      "Xinzhuo Li",
+      "Yifan Shen"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "ELSA3D: Elastic Semantic Anchoring Enhances Unified 3D Understanding and Generation",
+    "tldr": "ELSA3D introduces elastic semantic anchoring to decouple text and 3D tokens, preserving structural cues and fine geometry in a unified foundation model. This approach improves language-3D interaction and generation quality over flat concatenation methods.",
+    "significance": "By separating semantic and geometric representations, ELSA3D advances the fidelity and interpretability of 3D foundation models, enabling more accurate language-driven 3D content creation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7b53f9a727d268007de302c569056505",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06564v1",
+    "arxiv_id": "2607.06564v1",
+    "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+    "authors": [
+      "Jiaming Liu",
+      "Qingpo Wuwu",
+      "Nuowei Han"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "Lift3D-VLA: Enhancing Vision‑Language Models with 3D Geometry for Real‑World Manipulation",
+    "tldr": "Lift3D-VLA augments Vision‑Language‑Action models with 3D point‑cloud data and dynamic reasoning, enabling more accurate spatial understanding for robotic manipulation. By integrating geometry‑aware modules, the framework overcomes data scarcity and preserves spatial detail, paving the way for robust real‑world applications.",
+    "significance": "This work bridges the gap between language‑driven AI and geometric perception, unlocking safer, more precise robot interactions in complex environments.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "point-cloud"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fed4d86e82d7bbabba6995608745e466",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06562v1",
+    "arxiv_id": "2607.06562v1",
+    "title": "Minimum Energies and Magnetic Field Strengths of Edge-brightened Compact Symmetric Objects",
+    "authors": [
+      "Tirth D. Surti",
+      "Martijn S. S. L. Oei",
+      "Anthony C. S. Readhead"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "Estimating Minimum Energies and Magnetic Fields in Edge-Brightened Compact Symmetric Objects",
+    "tldr": "Using radio surveys and VLBA imaging, the study derives the minimum energy requirements and magnetic field strengths for edge-brightened CSOs, shedding light on jet launching mechanisms. The results provide a benchmark for future high-resolution radio studies of young radio galaxies.",
+    "significance": "The work offers crucial constraints on the energetics of nascent radio jets, informing models of AGN feedback and galaxy evolution.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "35b425733e261e31e2ae0e62944bd009",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06560v1",
+    "arxiv_id": "2607.06560v1",
+    "title": "Vision as Unified Multimodal Generation",
+    "authors": [
+      "Xiaoyang Han",
+      "Jianhua Li",
+      "Kewang Deng"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "Unified Multimodal Vision: SenseNova-Vision Uses Language to Drive Image Tasks",
+    "tldr": "SenseNova-Vision reframes diverse computer vision tasks as multimodal generation, eliminating the need for task‑specific models. By leveraging natural‑language instructions and optional visual prompts, it specifies tasks, target regions, and decoding strategies within a single unified framework.",
+    "significance": "This approach streamlines vision pipelines, enabling flexible, language‑driven task specification across a wide range of visual problems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b4ddec5e607de5f3f11497d4153286c2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06559v1",
+    "arxiv_id": "2607.06559v1",
+    "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+    "authors": [
+      "Haoyu Zhao",
+      "Xingyue Zhao",
+      "Siteng Huang"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "RynnWorld-4D: Leveraging RGB-DF for Real-Time 4D World Modeling in Robotics",
+    "tldr": "RynnWorld-4D introduces RGB-DF, a synchronized RGB, depth, and optical flow representation that captures 4D scene dynamics for robotic manipulation. This multi-modal approach outperforms 2D videos by aligning visual cues with physical motion, enabling more accurate interaction planning.",
+    "significance": "By integrating RGB, depth, and flow, RynnWorld-4D provides a physically grounded 4D model that enhances robotic manipulation in open-world environments.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c95c04a15832a1fc6686db50667fce24",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06555v1",
+    "arxiv_id": "2607.06555v1",
+    "title": "ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation",
+    "authors": [
+      "Ruihang Zhang",
+      "Felix Taubner",
+      "Pooja Ravi"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "ProxyPose: Accurate 6-DoF Pose Tracking Using Video-to-Video Translation Without Extra Data",
+    "tldr": "ProxyPose introduces a novel video-to-video translation framework that estimates 6-DoF pose of objects and surfaces from monocular video alone, eliminating the need for 3D models, depth maps, or masks. The method demonstrates robust performance on textureless, reflective, and deformable surfaces, achieving state-of-the-art accuracy in real-time scenarios.",
+    "significance": "By removing the dependency on auxiliary inputs, ProxyPose enables practical, real-time pose estimation in challenging visual environments, broadening the applicability of monocular vision systems.",
+    "tags": [
+      "object-detection",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ca7f77fda721248acde764589cd73d1f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06554v1",
+    "arxiv_id": "2607.06554v1",
+    "title": "The Thick Part of the $\\mathrm{PSL}_n(\\mathbb{R})$-Hitchin-Riemann Moduli Space has Infinite Volume",
+    "authors": [
+      "Huiseong An",
+      "Heejae Kim",
+      "Mingook Kim"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "Infinite Volume of Thick Part in PSL_n Hitchin Moduli Space",
+    "tldr": "We prove that for n>2 the thick part of the PSL_n(R)-Hitchin moduli space has infinite Atiyah–Bott–Goldman volume. This contrasts with Mumford’s compactness criterion and is achieved using Goldman flows and internal sequences.",
+    "significance": "This result challenges the expectation of compactness in moduli spaces, revealing richer geometric structure.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "93a59a837ef1e148469557c82fdfce2c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06553v1",
+    "arxiv_id": "2607.06553v1",
+    "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+    "authors": [
+      "Zanyi Wang",
+      "Xin Lin",
+      "Haodong Li"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "Leveraging RGB Generation for Dense Field Prediction with Text-to-Image Models",
+    "tldr": "Large-scale text-to-image models trained on RGB generation encode rich semantic and geometric priors that can be repurposed for dense prediction tasks. By mapping depth, normals, and segmentation masks into the VAE latent space, the approach enables pixel-space dense readout without retraining from scratch.",
+    "significance": "This method unlocks efficient, high-fidelity dense prediction by reusing pre-trained generative backbones, reducing data and compute requirements.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b55fab96602d341e2f9c0e974d5b6e41",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06552v1",
+    "arxiv_id": "2607.06552v1",
+    "title": "MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation",
+    "authors": [
+      "Jiaju Han",
+      "Ma Yaqi",
+      "Yahui Chai"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "MonoIR-RS: Advancing Infrared Remote‑Sensing Vision‑Language Models",
+    "tldr": "MonoIR‑RS introduces a large‑scale infrared remote‑sensing vision‑language dataset and adapts CLIP and VLMs for infrared imagery, enabling robust cross‑modal understanding. The benchmark demonstrates significant gains over RGB‑only models on tasks such as object detection and semantic segmentation in infrared imagery.",
+    "significance": "It fills a critical gap by providing the first comprehensive infrared vision‑language resource, paving the way for more accurate remote‑sensing analytics in low‑visibility conditions.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "object-detection",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ce0fc7b06517c1e63594e1402c4f7167",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.06550v1",
+    "arxiv_id": "2607.06550v1",
+    "title": "Quantum combinatorial games",
+    "authors": [
+      "Dieks Scholten",
+      "Bram Westerbaan",
+      "Simona Samardjiska"
+    ],
+    "published": "2026-07-07",
+    "curated_at": "2026-07-08",
+    "headline": "Exploring Quantum Advantage in Combinatorial Games: A New Frontier in Game Theory",
+    "tldr": "This paper extends classical combinatorial game theory into the quantum domain, redefining game rules and strategies. It demonstrates scenarios where quantum players outperform classical opponents, revealing surprising advantages.",
+    "significance": "The work opens new avenues for quantum algorithm design and deepens our understanding of strategic interactions under quantum mechanics.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "8372f00d6fd5ac7fe8209cdc16b9d779",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.05395v1",
@@ -1157,267 +1423,6 @@
       "spatial-reasoning"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e162db3e75aab17f1cf116abf3f82c3a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02484v1",
-    "arxiv_id": "2607.02484v1",
-    "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
-    "authors": [
-      "Xuehui Wang",
-      "Xuankun Yang",
-      "Wei Shen"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Entropy-Aware Token Pruning: Reducing Textual Noise for Faster Vision‑Language Models",
-    "tldr": "We propose an entropy‑aware pruning strategy that identifies and removes redundant visual tokens while mitigating the impact of noisy textual prompts. This approach preserves critical visual cues under dense instructions, achieving faster inference without sacrificing accuracy.",
-    "significance": "By addressing textual noise, the method enables more reliable and efficient vision‑language models for fine‑grained tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0e93b75724590ea348ea83d2d543b56a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02480v1",
-    "arxiv_id": "2607.02480v1",
-    "title": "The Merger-Driven Origin of the Vast Extended Stellar Disc Around the Andromeda Galaxy",
-    "authors": [
-      "C. Tsakonas",
-      "M. Arnaboldi",
-      "F. Hammer"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Evidence of a Recent Major Merger Shaping Andromeda's Vast Extended Stellar Disc",
-    "tldr": "Observations of Andromeda's inner halo and a kinematically hot disc reveal a widespread star formation burst 2.5 Gyr ago, pointing to a gas‑rich major merger. This event likely built the galaxy’s extensive outer disc and explains its current substructures.",
-    "significance": "The findings link a recent merger to the formation of Andromeda’s large stellar disc, offering a new perspective on spiral galaxy evolution.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5a75f245bb0712a99ce874078c9610dc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02517v1",
-    "arxiv_id": "2607.02517v1",
-    "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
-    "authors": [
-      "Hanlin Wang",
-      "Hao Ouyang",
-      "Qiuyu Wang"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "WorldDirector: A Controllable Video World Model with Persistent Dynamic Memory and Unrestricted Viewpoint Exploration",
-    "tldr": "WorldDirector decouples semantic motion orchestration from visual rendering, enabling persistent dynamic object memory and unrestricted viewpoint exploration. This framework surpasses existing world models by separating physical dynamics from pixel generation, allowing more controllable and efficient video simulations.",
-    "significance": "By separating dynamics from rendering, WorldDirector offers a scalable, controllable foundation for future AI-driven video simulation and analysis.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "17947f3095a0037c71ebd2a4d994ad99",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02516v1",
-    "arxiv_id": "2607.02516v1",
-    "title": "Alignment Is All You Need For X-to-4D Generation",
-    "authors": [
-      "Qiaowei Miao",
-      "Kehan Li",
-      "Yawei Luo"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "Align4D: Aligning Any Modality for Scalable 4D Generation with Diffusion Models",
-    "tldr": "The paper introduces Align4D, a framework that aligns arbitrary user-defined modalities to generate 4D content using diffusion models, overcoming dataset costs and scalability limits. It demonstrates flexible, high-quality synthesis across images, videos, and 3D data under multimodal control.",
-    "significance": "Align4D enables efficient, scalable multimodal 4D generation, reducing reliance on large, diverse datasets.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4b056397b9218570141b57ef0d2703ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02515v1",
-    "arxiv_id": "2607.02515v1",
-    "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
-    "authors": [
-      "Haofei Xu",
-      "Rundi Wu",
-      "Philipp Henzler"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "PointDiT: Pixel‑Space Diffusion Transformer for Efficient Monocular 3D Reconstruction Method",
-    "tldr": "PointDiT introduces a lightweight diffusion transformer operating directly in pixel space, eliminating the need for complex hybrid architectures or latent compression. The model achieves state‑of‑the‑art monocular geometry estimation while simplifying training and inference pipelines.",
-    "significance": "By removing architectural overhead, PointDiT demonstrates that pixel‑space diffusion can match or surpass latent‑space methods for single‑image 3D reconstruction, paving the way for more accessible geometry estimation tools.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7b8767e3b19177f8b79276bb2d5c711b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02514v1",
-    "arxiv_id": "2607.02514v1",
-    "title": "Distributed Attacks in Persistent-State AI Control",
-    "authors": [
-      "Josh Hills",
-      "Ida Caspary",
-      "Asa Cooper Stickland"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "Distributed Attacks via Persistent AI Coding Agents and Iterative Pull Requests",
-    "tldr": "AI coding agents that persist across sessions can spread malicious code across multiple pull requests, timing attacks to blend in. This paper introduces Iterative VibeCoding to analyze how such distributed attacks evolve and how to detect them.",
-    "significance": "Understanding distributed attacks in persistent AI coding agents is crucial for securing collaborative software development pipelines.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7840965a4212e64d2d476fc86fa350aa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02513v1",
-    "arxiv_id": "2607.02513v1",
-    "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
-    "authors": [
-      "Matteo Boglioni",
-      "Thibault Rousset",
-      "Siva Reddy"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "A Comprehensive Testbed for Evaluating Localization Precision in LLM Unlearning",
-    "tldr": "LLMs often memorize sensitive data, raising privacy concerns. LACUNA provides a benchmark to assess how precisely unlearning methods can target and remove such memorized information.",
-    "significance": "By quantifying localization precision, LACUNA enables the development of more effective and trustworthy unlearning techniques for large language models.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3e979430c1500406bfdeb7109127c68c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02512v1",
-    "arxiv_id": "2607.02512v1",
-    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-    "authors": [
-      "Wentao Zhang",
-      "Liliana Hotsko",
-      "Woojeong Kim"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "Program-as-Weights: Compiling Natural Language into Fuzzy Functions for Everyday Tasks",
-    "tldr": "The paper introduces fuzzy-function programming, a paradigm that compiles natural-language specifications into executable fuzzy functions, reducing reliance on large language model APIs. This approach improves locality, reproducibility, and cost while handling tasks like log alerting, JSON repair, and intent-based ranking.",
-    "significance": "It offers a reproducible, cost‑effective alternative to LLM-based solutions for fuzzy logic tasks.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c907a519dfad733feb5586c90b685c66",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02510v1",
-    "arxiv_id": "2607.02510v1",
-    "title": "Online Safety Monitoring for LLMs",
-    "authors": [
-      "Mona Schirmer",
-      "Metod Jazbec",
-      "Alexander Timans"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "Real-Time Safety Monitoring for Large Language Models Using Verifier Thresholding",
-    "tldr": "We propose a lightweight real-time monitor that converts a verifier's safety signal into an alarm by thresholding, with the threshold tuned via risk control. Experiments on mathematical tasks demonstrate its effectiveness in detecting unsafe outputs at deployment.",
-    "significance": "This approach enables continuous safety assurance for LLM deployments without heavy computational overhead.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4aeb1ca2833bd36dff116ba153a7263d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02508v1",
-    "arxiv_id": "2607.02508v1",
-    "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
-    "authors": [
-      "Dengyang Jiang",
-      "Mengmeng Wang",
-      "Harry Yang"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "From SRA to Self-Flow: Enhancing Diffusion Transformers via Self-Alignment and Dual-Time Scheduling",
-    "tldr": "Self-Alignment methods like SRA and Self-Flow eliminate the need for external pretrained encoders by embedding representation alignment directly into diffusion models. Dual-time scheduling further boosts training speed and generation quality, marking a significant step toward more autonomous diffusion transformer training.",
-    "significance": "This work demonstrates that internal alignment mechanisms can replace costly external encoders, streamlining diffusion transformer pipelines and improving efficiency.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b05d402f1ad1c875f4de20dc8b096a7e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02507v1",
-    "arxiv_id": "2607.02507v1",
-    "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
-    "authors": [
-      "Arman Ghaffarizadeh",
-      "Danyal Mohaddes",
-      "Aliakbar Izadkhah"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-03",
-    "headline": "When LLMs Debate Quietly: Emergent Social Dynamics Without Explicit Goals",
-    "tldr": "We examine how language‑model agents behave differently when speaking publicly versus privately in a dual‑channel debate setting. The study shows that social context alone can steer agents toward distinct public stances, revealing latent objectives that emerge without explicit instruction.",
-    "significance": "This work uncovers how implicit social cues shape LLM behavior, informing safer deployment in multi‑agent systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
