@@ -1,5 +1,330 @@
 [
   {
+    "uid": "4e9b52a9b2fc805f74997b57aa3ec56a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07708v1",
+    "arxiv_id": "2607.07708v1",
+    "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+    "authors": [
+      "Chen Tang",
+      "Yizhou Wang",
+      "Jianyu Wu"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Deep Native Structural Reasoning for Interdisciplinary Structure‑Property Insight",
+    "tldr": "This work introduces a framework that leverages large language models to interpret spatial, chemical, and periodic structural data, enabling mechanistic explanations across biology, chemistry, and materials science. By integrating stereochemistry, bonding, and symmetry, the approach offers transparent, data‑driven insights into function and reactivity.",
+    "significance": "It bridges fundamental science with AI, providing a scalable, interpretable tool for predicting material behavior and guiding experimental design.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a3aa106141029de2e75ec60dd90ec1bf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07709v1",
+    "arxiv_id": "2607.07709v1",
+    "title": "The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies",
+    "authors": [
+      "Amruth Alfred",
+      "Shashpal Singh",
+      "Rommulus Francis Lewis"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "External Shear’s Hidden Influence: How Overestimated Shear Masks Gravitational Lensing Anomalies",
+    "tldr": "Gravitational lens models often overestimate external shear, which can conceal subtle lensing anomalies. This study shows that relying solely on image positions leads to biased shear estimates, masking the true mass distribution.",
+    "significance": "Accurate shear estimation is crucial for interpreting lensing data and probing dark matter substructure.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a4faf126842157ffa102541d5ec61518",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07707v1",
+    "arxiv_id": "2607.07707v1",
+    "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+    "authors": [
+      "Yair Feldman",
+      "Linxi Zhao",
+      "Nathan Godey"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Continuous-Query Limited Memory Language Models: Externalizing Knowledge for Dynamic Retrieval",
+    "tldr": "Limited Memory Language Models (LMLMs) store factual knowledge in an external knowledge base instead of in model weights, enabling on-demand retrieval during generation. The proposed continuous-query approach enhances knowledge control and adaptability beyond traditional LLMs.",
+    "significance": "This paradigm shifts how language models manage knowledge, offering greater control and scalability for real-world applications.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a041cff8dac4b9d61dc6cabd2b1c0fe3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07706v1",
+    "arxiv_id": "2607.07706v1",
+    "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+    "authors": [
+      "Anna Kuzina",
+      "Paul N. Whatmough",
+      "Babak Ehteshami Bejnordi"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Linearizing Transformers: A Data‑Driven Approach to Efficient Long‑Context Attention Inference",
+    "tldr": "This study demonstrates that carefully designed state‑update mechanisms can replace softmax in causal self‑attention without sacrificing quality. By freezing the backbone and focusing on rank‑1 orthogonal projections, the authors achieve linear complexity while preserving performance on long‑context tasks.",
+    "significance": "It offers a principled, post‑hoc linearization method that can accelerate large language models for real‑time applications.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f3bf4f55a71a9e6d5952597fd9f3002b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07704v1",
+    "arxiv_id": "2607.07704v1",
+    "title": "Radio emission from close-in exoplanets: Can we extend the radio-magnetic scaling law to the sub-Alfvénic stellar wind regime?",
+    "authors": [
+      "Filip Elekes",
+      "Aline A. Vidotto"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Extending Exoplanet Radio-Magnetic Scaling to Sub-Alfvénic Stellar Winds: New Insights",
+    "tldr": "Scientists are testing whether the radio-magnetic scaling law, which predicts radio aurora from exoplanets, holds in the sub-Alfvénic regime of close-in planets. Early results suggest the law may need adjustment, opening a new window into star‑planet magnetic interactions.",
+    "significance": "Confirming radio emission from close‑in exoplanets would provide a direct method to measure their magnetic fields, crucial for understanding planetary habitability.",
+    "tags": [
+      "remote-sensing",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bbeed65edc15b7bd591d16316797cb66",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07700v1",
+    "arxiv_id": "2607.07700v1",
+    "title": "Coherent Signal Detection with Pruning -- I. Finding Short-Period Binary Pulsars in Circular Orbits",
+    "authors": [
+      "Pravir Kumar",
+      "Barak Zackay"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Efficient Coherent Signal Detection for Short-Period Binary Pulsars Using Pruning Techniques",
+    "tldr": "The paper introduces a pruning-based algorithm for coherent detection of pulsars in short-period binary orbits, significantly reducing computational cost. It demonstrates improved sensitivity over constant-acceleration searches while maintaining real-time feasibility.",
+    "significance": "This method enables deeper and faster searches for binary pulsars, opening new avenues for testing general relativity.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4cd40f5b937869e70ab3d2631e13ee4c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07699v1",
+    "arxiv_id": "2607.07699v1",
+    "title": "Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials",
+    "authors": [
+      "Victor K. de la Pena",
+      "Fangyuan Lin",
+      "Demissie Alemayehu"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "E-Process Approach to Control Winner's Curse in Dose-Ranging Trials",
+    "tldr": "This paper introduces an anytime-valid e-process framework that simultaneously addresses the winner's curse and multiplicity in Phase II dose-ranging trials. By testing the best true dose effect while allowing continuous monitoring, the method controls Type I error without sacrificing power.",
+    "significance": "It provides a statistically rigorous solution for unbiased inference in adaptive dose-finding studies, improving decision-making in early drug development.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "af36d1fc683cceaa71c20394ef0b623e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07697v1",
+    "arxiv_id": "2607.07697v1",
+    "title": "Induced Erdős--Pósa property for long holes, long thetas, and beyond",
+    "authors": [
+      "Jadwiga Czyżewska",
+      "Tomáš Masařík",
+      "Marcin Pilipczuk"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Induced Erdős–Pósa Property for Long Holes and Thetas in Graphs",
+    "tldr": "This paper establishes the induced Erdős–Pósa property for long cycles and long theta graphs as induced minors. It shows that the maximum number of pairwise anti‑adjacent copies of these structures is bounded by a function of the minimum hitting set size, extending classical results to induced settings.",
+    "significance": "It extends the Erdős–Pósa theory to induced subgraph containment, providing new insights into the structure of long cycles and theta graphs in sparse graphs.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ef21e72e50d150d759cb27ab29a8a269",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07696v1",
+    "arxiv_id": "2607.07696v1",
+    "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
+    "authors": [
+      "Victor Giannakouris",
+      "Immanuel Trummer"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Breaking Database Lock‑In: Agentic Storage Readers Bypass JDBC for High‑Performance Analytics",
+    "tldr": "Jailbreak bypasses traditional database drivers by directly reading storage files, enabling bulk columnar analytics without engine overhead. This approach unlocks high‑performance, low‑latency data access for analytical workloads.",
+    "significance": "It eliminates the performance bottleneck imposed by database drivers, allowing analytics engines to operate directly on storage, dramatically improving throughput and reducing costs.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6e3a37716dba67f106556205a4a8da7c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07695v1",
+    "arxiv_id": "2607.07695v1",
+    "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+    "authors": [
+      "Yujiao Chen"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Institutional Red‑Teaming: Rules Shape Multi‑Agent AI Safety",
+    "tldr": "We propose institutional red‑teaming, a method that isolates deployment rules to assess their causal impact on multi‑agent AI behavior. Using IABench‑CA, we evaluate five canonical rules across 228 contexts with seven models.",
+    "significance": "This work demonstrates that deployment rules, not just models, fundamentally influence AI safety outcomes.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6bd4aed7b43ddc6c3ac63cef0ce660a9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07693v1",
+    "arxiv_id": "2607.07693v1",
+    "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+    "authors": [
+      "Eric Zhu",
+      "Abhinav Shrivastava",
+      "Soumik Mukhopadhyay"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Efficient Diffusion RLHF via Selective Timestep Weighting and Advantage Replay",
+    "tldr": "The paper introduces a method that selectively weights diffusion timesteps and uses advantage-based replay to reduce the number of human or reward model queries needed for RLHF. Experiments show significant sample efficiency gains over prior diffusion RLHF approaches.",
+    "significance": "It makes aligning diffusion models with human preferences more practical by cutting feedback costs.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5af2013da407772d7f0e3a26b41dbc63",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07691v1",
+    "arxiv_id": "2607.07691v1",
+    "title": "Faster quantum linear system solver beyond the condition number",
+    "authors": [
+      "Alexander M. Dalzell",
+      "Jianqiang Li",
+      "Yuan Su"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Quantum Linear Solver Beats Condition Number Bottleneck",
+    "tldr": "Two new quantum algorithms solve Ax=b with runtime independent of the condition number, achieving accuracy ε with improved complexity over traditional methods. They dramatically reduce the resource overhead for typical problem instances.",
+    "significance": "This breakthrough lowers quantum resource demands for linear systems, bringing practical quantum advantage closer to reality.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f14e7e147d6e96a8ff7fb89e2e74321a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07690v1",
+    "arxiv_id": "2607.07690v1",
+    "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+    "authors": [
+      "Vladislav Beliaev"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Agon: Two Models Compete to Grade Each Other’s Reasoning in Reinforcement Learning",
+    "tldr": "Agon introduces a novel competitive framework where two reinforcement learning agents simultaneously solve the same problem and evaluate each other’s reasoning traces, providing richer feedback than final-answer grading. This implicit rival grading encourages models to produce more accurate, verifiable reasoning steps, improving overall problem-solving performance.",
+    "significance": "By turning models into mutual graders, Agon addresses the lack of intermediate reasoning evaluation, pushing the frontier of trustworthy AI reasoning.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ad60cbefd539b882ed711d77a43fa228",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.07689v1",
+    "arxiv_id": "2607.07689v1",
+    "title": "Agent Delivery Engineering Predictive Reliability Framework",
+    "authors": [
+      "Dexing Liu"
+    ],
+    "published": "2026-07-08",
+    "curated_at": "2026-07-09",
+    "headline": "Enhancing Reliability of Long-Horizon LLM Multi-Agent Systems Through Proactive Health Trajectory Prediction",
+    "tldr": "The ADE-PRF aggregates 20 heterogeneous signals across five layers to compute a Trust Margin metric, enabling proactive health trajectory prediction for long-horizon LLM multi-agent systems. By detecting passive degradation early, it mitigates invisible reliability risks that conventional infrastructure monitoring misses.",
+    "significance": "This framework provides a systematic, data-driven approach to anticipate and prevent reliability failures in complex AI systems, improving operational resilience.",
+    "tags": [
+      "LLM",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "aed073fa3eb1f07bece167551a6d156d",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.06567v1",
@@ -1095,331 +1420,6 @@
       "remote-sensing",
       "segmentation",
       "change-detection",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0c757fc887196514960c694e10928829",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02469v1",
-    "arxiv_id": "2607.02469v1",
-    "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution",
-    "authors": [
-      "Jiale Amber Wang",
-      "Kaiyuan Wang",
-      "Pengyu Nie"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "TestEvo-Bench: A Live Benchmark for Executable Test and Code Co‑Evolution",
-    "tldr": "TestEvo-Bench provides an executable, live benchmark that ties tests directly to code changes, ensuring tests are semantically linked and runnable. This approach overcomes limitations of prior benchmarks that rely on static metadata and isolate tests from code evolution.",
-    "significance": "By validating executable tests in real time, TestEvo-Bench enables more accurate assessment of test generation tools and promotes reliable software maintenance.",
-    "tags": [
-      "benchmark",
-      "change-detection",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "aaf47c646f835ddbe868e3e57fdfe876",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02468v1",
-    "arxiv_id": "2607.02468v1",
-    "title": "Bifurcations of the Clifford Torus as Willmore Surfaces in Berger Spheres",
-    "authors": [
-      "Caio B. Rodrigues"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "Willmore Torus Bifurcations in Berger Spheres",
-    "tldr": "The Clifford torus remains a Willmore critical point for all Berger sphere parameters, and Morse index analysis reveals bifurcations yielding new symmetric tori.",
-    "significance": "It uncovers new families of Willmore surfaces via bifurcation theory.",
-    "tags": [
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "32ce6ca94b20ef4d3c9ac399003795f0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02467v1",
-    "arxiv_id": "2607.02467v1",
-    "title": "Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting",
-    "authors": [
-      "Vivienne Ming"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "Human Capital, Not Model Benchmarks, Drives Hybrid Forecasting Success",
-    "tldr": "A study using Polymarket shows that the benefit of pairing humans with AI in forecasting depends on specific human skills rather than model quality. Individual forecasters’ hybrid performance is trimodal, highlighting the importance of targeted human capital.",
-    "significance": "The findings suggest that investing in human expertise is more critical than improving AI models for effective hybrid forecasting.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "eedd8803f20ab14a9206a5f9915baf9d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02466v1",
-    "arxiv_id": "2607.02466v1",
-    "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
-    "authors": [
-      "Junhao Shi",
-      "Siyin Wang",
-      "Xiaopeng Yu"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "Separating Movement from Meaning: Task‑Agnostic Pretraining for Vision‑Language‑Action Models at Scale",
-    "tldr": "The paper identifies that VLA models suffer from a lack of expert demonstrations, which conflate learning to move with learning what to do. It proposes a task‑agnostic pretraining approach that first learns physical motion before aligning semantics, improving data efficiency and performance.",
-    "significance": "By decoupling motion and semantic learning, the method reduces dependence on costly demonstrations, accelerating VLA model development.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fe36c300cfac98f6e7924d568fbe47e6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02511v1",
-    "arxiv_id": "2607.02511v1",
-    "title": "A Probabilistic Sign Rule for Quotients of Positive Series and Integral Transforms",
-    "authors": [
-      "Zakaria Derbazi"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Probabilistic Sign Rule for Quotients of Positive Series and Integral Transforms",
-    "tldr": "This paper introduces a probabilistic sign rule that links the sign of quotients of functions represented by positive series or integrals to probability laws derived from normalized summands or integrands. By expressing parameter log-derivatives as moments of kernels, the authors provide a novel framework for analyzing complex function quotients.",
-    "significance": "It offers a powerful tool for mathematical analysis, enabling new insights into the behavior of function quotients across various applications.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2fe033fa65e712ea2dce3e77dffd788a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02509v1",
-    "arxiv_id": "2607.02509v1",
-    "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
-    "authors": [
-      "Yanjun Zhao",
-      "Ruizhong Qiu",
-      "Tianxin Wei"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "ReContext: Recursive Evidence Replay Enhances Long-Context Reasoning for Real-World LLM Applications",
-    "tldr": "ReContext introduces a recursive evidence replay mechanism that allows LLMs to revisit and leverage relevant information within long inputs, improving reasoning accuracy. The approach demonstrates significant gains on benchmark tasks, bridging the gap between context size and effective utilization.",
-    "significance": "By enabling LLMs to systematically reuse evidence, ReContext paves the way for more reliable reasoning in data-intensive applications.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0af1b02f639d2d75bb347856704574f7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02499v1",
-    "arxiv_id": "2607.02499v1",
-    "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
-    "authors": [
-      "Gil Harari",
-      "Yoel Zimmermann",
-      "Ola Tangen Kulseng"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Optimizing ML Interatomic Potentials: Beyond Adam with SOAP and Muon",
-    "tldr": "Researchers compare new optimizers to Adam for training machine learning interatomic potentials, achieving faster convergence and reduced label requirements. The study demonstrates that SOAP and Muon frameworks can significantly improve training efficiency and accuracy.",
-    "significance": "This work highlights the importance of optimizer selection in MLIP training, offering a path to more efficient and scalable simulations.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "95ef0099acce8c800e981e69d4dff31b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02497v1",
-    "arxiv_id": "2607.02497v1",
-    "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
-    "authors": [
-      "Song Tang",
-      "Shuming Hu",
-      "Xincheng Shuai"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Active Panoramic Referring Segmentation: Enabling Embodied AI to Navigate 360° Environments",
-    "tldr": "Traditional referring segmentation models process static images, limiting their use in embodied AI. Our new Active Panoramic Referring Segmentation task allows agents to actively adjust viewpoints in continuous 360° scenes to segment referred objects.",
-    "significance": "This work bridges the gap between passive vision models and active perception required for real-world embodied agents.",
-    "tags": [
-      "segmentation",
-      "spatial-reasoning",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "86c9921167b2df642bd7d1b5d45f8284",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02496v1",
-    "arxiv_id": "2607.02496v1",
-    "title": "Controllable Sim Agents with Behavior Latents",
-    "authors": [
-      "Juanwu Lu",
-      "Junyu Zhu",
-      "Ziran Wang"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Controllable Simulated Agents Using Behavior Latents for Realistic Traffic Modeling",
-    "tldr": "We propose Controllable Neural Variational Agents (CNeVA) that learn to infer per-agent behavior latent variables from logged traffic data, enabling steering along interpretable axes. This controllability allows engineers to isolate variables, reproduce edge cases, and test autonomous systems safely without real-world deployment.",
-    "significance": "CNeVA bridges the gap between realistic simulation fidelity and controllable scenario generation, accelerating safe autonomous vehicle testing.",
-    "tags": [
-      "foundation-models",
-      "urban-AI",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d7951a9a844d9e061af3bc6bf4dbecc5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02494v1",
-    "arxiv_id": "2607.02494v1",
-    "title": "Towards Robustness against Typographic Attack with Training-free Concept Localization",
-    "authors": [
-      "Bohan Liu",
-      "Wenqian Ye",
-      "Guangzhi Xiong"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Enhancing CLIP Robustness: Training-Free Localization Against Typographic Attacks",
-    "tldr": "This study introduces a training-free concept localization technique to mitigate typographic attacks that mislead CLIP-based vision encoders. By isolating visual concepts from textual noise, the method improves robustness without additional training.",
-    "significance": "It demonstrates a lightweight, data-free defense that preserves CLIP's performance while protecting against adversarial text artifacts.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5be9a9c27e28aa2ff4ddec19e68dcd86",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02492v1",
-    "arxiv_id": "2607.02492v1",
-    "title": "Cut-off Jastrow Factors and Spectral Barron Regularity of Coulombic Electronic Wave Functions",
-    "authors": [
-      "Virginie Ehrlacher"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Spectral Barron Regularity of Coulombic Wave Functions via Cut-off Jastrow Extraction",
-    "tldr": "We analyze the spectral Barron regularity of Coulombic electronic eigenfunctions after removing a cut-off Jastrow factor. The study extends previous results on Coulomb Hamiltonians and provides new insights into wave function smoothness.",
-    "significance": "This work deepens our understanding of electronic wave function regularity, which is crucial for accurate quantum chemical computations.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1e11c46647a72f45edd7191b02766f8b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02490v1",
-    "arxiv_id": "2607.02490v1",
-    "title": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
-    "authors": [
-      "Liyan Tang",
-      "Fangcong Yin",
-      "Greg Durrett"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Grounding Self-Reflection in Vision‑Language Models for Accurate Visual Reasoning via Reinforcement Learning",
-    "tldr": "The paper introduces a reinforcement learning framework that trains vision‑language models to revisit and correct their textual reasoning steps while ensuring alignment with visual evidence. Experiments show that visually grounded self‑reflection improves accuracy on multimodal benchmarks compared to standard chain‑of‑thought methods.",
-    "significance": "By integrating visual grounding into self‑reflection, the work bridges a key gap in multimodal reasoning, enabling LVLMs to produce more reliable, evidence‑based conclusions.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6cf39cea92ee4c379a6a96e2053f0233",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02487v1",
-    "arxiv_id": "2607.02487v1",
-    "title": "The Debris Disk Host $β$ Piscis Austrinus is a Rapidly Rotating Star Seen Nearly Pole-On",
-    "authors": [
-      "Colin Kane",
-      "Russel White",
-      "Jeremy Jones"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "Rapidly Rotating Star β Piscis Austrinus Revealed as Pole-On via High-Resolution Spectroscopy",
-    "tldr": "Using the fastrot-spec code, we modeled HARPS spectra of β PsA to determine its inclination, confirming it is a rapidly rotating star seen nearly pole-on. This provides new insights into its photospheric properties and rotational dynamics.",
-    "significance": "The study refines our understanding of stellar rotation effects on spectral line shapes, aiding accurate characterization of rapidly rotating stars.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "95fb119a7e72157cb494578749401196",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02486v1",
-    "arxiv_id": "2607.02486v1",
-    "title": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
-    "authors": [
-      "Yejun Zhang",
-      "Xinjue Wang",
-      "Zihan Wang"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-04",
-    "headline": "GeoMix Enhances Descriptor-Free Visual Localization with Global Context and Multi-Detector Training",
-    "tldr": "GeoMix introduces a descriptor-free localization pipeline that leverages global context and multi-detector training to improve geometric discriminability. The approach reduces storage, preserves privacy, and narrows the performance gap with descriptor-based methods.",
-    "significance": "By boosting accuracy while eliminating descriptor storage, GeoMix paves the way for scalable, privacy-preserving visual localization in large-scale mapping.",
-    "tags": [
-      "open-source",
-      "benchmark",
       "spatial-reasoning"
     ],
     "readtime": 2,
