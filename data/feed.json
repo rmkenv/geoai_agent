@@ -1,5 +1,266 @@
 [
   {
+    "uid": "056e6283a6608e7ad9eb0a4d50ff7316",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08771v1",
+    "arxiv_id": "2607.08771v1",
+    "title": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
+    "authors": [
+      "Fabio Tosi",
+      "Luca Bartolomei",
+      "Matteo Poggi"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "ZipDepth: Lightweight Zero‑Shot Monocular Depth for Any Device",
+    "tldr": "ZipDepth delivers foundation‑model quality depth estimation on embedded and mobile hardware by combining lightweight architecture with robust zero‑shot generalization. It outperforms existing single‑domain models and works across diverse scenes without retraining.",
+    "significance": "This work enables real‑time depth perception on resource‑constrained devices, opening new possibilities for mobile robotics, AR, and remote sensing.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a11f63a5bec1631cbb089a1e7289f48a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08770v1",
+    "arxiv_id": "2607.08770v1",
+    "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+    "authors": [
+      "Cheng-De Fan",
+      "Chun-Wei Tuan Mu",
+      "Chen-Wei Chang"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "LongE2V: Using Video Diffusion Models for Long-Horizon Event-Based Video Reconstruction",
+    "tldr": "LongE2V fine-tunes pre-trained video diffusion priors to reconstruct, predict, and interpolate frames from sparse event streams, achieving high-quality results without the blur common in regression methods. The approach demonstrates stable long-term performance, surpassing existing generative models.",
+    "significance": "This work enables realistic, temporally coherent video generation from minimal event data, opening new possibilities for low-light and high-speed vision applications.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3bfcdd5e83c3a26cec527f349cc6b353",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08769v1",
+    "arxiv_id": "2607.08769v1",
+    "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
+    "authors": [
+      "Weijian Chen",
+      "Weibo Yao",
+      "Yuhang Zhang"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "Efficient 3D Reconstruction of Outdoor Scenes Using Panoramic Images and Gradient Partitioning",
+    "tldr": "This work introduces a geometry- and gradient-based partitioning method that enables scalable 3D Gaussian splatting for large outdoor scenes captured with 360° panoramic images. By replacing local camera frustum partitioning with a global visibility-aware scheme, the approach reduces data acquisition effort and computational cost while maintaining reconstruction quality.",
+    "significance": "It demonstrates that panoramic imagery can be leveraged for efficient, high-fidelity outdoor 3D reconstruction without the heavy computational overhead of traditional block-wise optimization.",
+    "tags": [
+      "remote-sensing",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "33d86e68ad1862985900362a97c1e3da",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08768v1",
+    "arxiv_id": "2607.08768v1",
+    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+    "authors": [
+      "Zhekai Chen",
+      "Chengqi Duan",
+      "Kaiyue Sun"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "UniClawBench: Universal Benchmark for Proactive Agents across Real-World Tasks and Environments",
+    "tldr": "UniClawBench introduces a comprehensive benchmark for evaluating proactive agents in realistic, multi-turn scenarios, moving beyond sandboxed, single-turn tests. It incorporates diverse real-world tasks to assess agents’ planning, execution, and adaptability.",
+    "significance": "By providing a realistic, multi-turn evaluation framework, UniClawBench enables more accurate assessment of proactive agents’ practical capabilities, guiding future model development.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0dc9fd2471940cc62d6b20f6e74ec161",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08767v1",
+    "arxiv_id": "2607.08767v1",
+    "title": "Plaquette: A hardware-aware design platform for fault-tolerant quantum computers",
+    "authors": [
+      "Raul Conchello Vendrell",
+      "Carlos Díaz López",
+      "Ish Dhand"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "Plaquette: Hardware-Aware Design Platform Accelerates Fault-Tolerant Quantum Computer Development for Real-World Noise",
+    "tldr": "Plaquette is a software platform that incorporates realistic hardware noise models to evaluate fault-tolerant quantum architectures. It enables designers to identify which imperfections to suppress and guides hardware teams toward more efficient, noise-aware quantum computer designs.",
+    "significance": "By bridging the gap between theoretical error models and actual device noise, Plaquette accelerates the development of scalable, fault-tolerant quantum processors.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "20f869f20a0a2a054b1df93a4f88a378",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08765v1",
+    "arxiv_id": "2607.08765v1",
+    "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+    "authors": [
+      "Haoran Feng",
+      "Ruiyang Zhang",
+      "Longyi Zhang"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "Canvas360: Geometry-Aware Pretraining and 1M-Sample Dataset for High-Quality In-Context Panoramic Generation",
+    "tldr": "We propose Canvas360, a two-stage framework that first pretrains a diffusion model on a large 1M-pair panoramic dataset, then fine-tunes it for specific tasks such as style transfer and inpainting. The resulting model achieves state-of-the-art quality while enabling efficient in-context generation.",
+    "significance": "This work provides the first large-scale panoramic dataset and a geometry-aware pretraining strategy that dramatically improves the realism and versatility of in-context panoramic generation.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0ed825d7baaede30d357fc6c0c849b51",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08763v1",
+    "arxiv_id": "2607.08763v1",
+    "title": "OpenCoF: Learning to Reason Through Video Generation",
+    "authors": [
+      "Xinyan Chen",
+      "Ziyu Guo",
+      "Renrui Zhang"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "OpenCoF: Harnessing Video Generation for Temporal Reasoning in AI Models",
+    "tldr": "OpenCoF introduces Chain-of-Frame reasoning, enabling large models to derive logical conclusions through temporally linked video frames. By training on diverse video datasets, it expands reasoning beyond static text, offering a new paradigm for AI decision-making.",
+    "significance": "This approach bridges the gap between visual dynamics and logical inference, paving the way for more robust AI systems that can reason over time.",
+    "tags": [
+      "LLM",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3dc54544a775f93edf00ef3cb1495fa6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08761v1",
+    "arxiv_id": "2607.08761v1",
+    "title": "Irreducible Geometry of Higher-Order Correlator Families",
+    "authors": [
+      "Kaito Kobayashi"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "Unveiling the Geometry of High-Order Correlators in Programmable Quantum Simulators",
+    "tldr": "Programmable quantum simulators now measure complex many-body correlators, but interpreting them lacks a solid theoretical framework. This paper introduces a geometric perspective on higher-order correlator families, offering new tools for analysis.",
+    "significance": "By providing a geometric framework, the study bridges the gap between experimental data and theoretical understanding, enabling deeper insights into quantum dynamics.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9a6be3a1bc066ba2971d1d294344d415",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08759v1",
+    "arxiv_id": "2607.08759v1",
+    "title": "Measuring Consumption with Credit Card Data: Benchmarking and Beyond",
+    "authors": [
+      "Aditya Aladangady",
+      "Ricardo Duque Gabriel",
+      "Carlo Wix"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "Credit Card Spending Reveals County-Level Consumption Trends, Matching Traditional Measures",
+    "tldr": "We built a monthly county-level consumption dataset from 350M credit card transactions, covering 3,000+ U.S. counties since 2014. The data explain 92% of the variation in monthly PCE growth, offering a high-frequency benchmark for economic analysis.",
+    "significance": "This dataset provides a near real-time, high-resolution proxy for consumer spending, enabling more timely and granular economic insights.",
+    "tags": [
+      "benchmark",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "25943a7b2eda8d04a0082459993d45e0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08758v1",
+    "arxiv_id": "2607.08758v1",
+    "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+    "authors": [
+      "Yifan Zhou",
+      "Qihao Yang",
+      "Yan Li"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "IdeaGene-Bench: Measuring AI's Ability to Trace Scientific Lineage",
+    "tldr": "Scientific ideas build on prior work, but current AI benchmarks don't test this inheritance. IdeaGene-Bench evaluates whether language models can reason about scientific lineage and generate ideas grounded in that lineage.",
+    "significance": "This benchmark pushes AI research toward more biologically inspired, cumulative scientific discovery.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7a4dfed480edf606a11aad3676731cca",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08757v1",
+    "arxiv_id": "2607.08757v1",
+    "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
+    "authors": [
+      "Yiwei Zhou"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-10",
+    "headline": "Small Forward-Marginal Error Does Not Ensure Stable Diffusion Sampling in Reverse-Time",
+    "tldr": "The study shows that controlling average error under forward marginals does not guarantee numerical stability of reverse-time samplers. By constructing a smooth score field with arbitrarily small forward-marginal L² error, the authors demonstrate that the learned reverse-time process can remain nonexplosive yet still exhibit instability.",
+    "significance": "This work highlights the inadequacy of forward-marginal error as a sole metric for diffusion model stability, urging the development of more robust training and evaluation criteria.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "4e9b52a9b2fc805f74997b57aa3ec56a",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.07708v1",
@@ -1154,273 +1415,6 @@
       "spatial-reasoning",
       "real-time",
       "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "43540c777ac12f044dcc0d5372f42cba",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02456v1",
-    "arxiv_id": "2607.02456v1",
-    "title": "A Quantum-Walk Representation of Color-Ordered MHV Scattering Amplitudes",
-    "authors": [
-      "Anirudh Verma",
-      "C. M. Chandrashekar"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-06",
-    "headline": "Quantum Walks on Permutation Trees Model Color-Ordered MHV Scattering Amplitudes",
-    "tldr": "We propose a graph-theoretic framework using coined quantum walks on permutation trees to represent color-ordered MHV scattering amplitudes. Each path corresponds to a distinct gluon ordering, with transition amplitudes reflecting the Parke–Taylor spinor-product structure.",
-    "significance": "This approach offers a novel combinatorial perspective that could streamline analytic calculations and inspire new computational algorithms for scattering amplitudes.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a26bc2014aab8c4c9b02d3f15f8a6b01",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02455v1",
-    "arxiv_id": "2607.02455v1",
-    "title": "When Do LLM Personas Support Visualization Design? A Cross-Model Study of Color Assignment and Chart Choice",
-    "authors": [
-      "Shahreen Salim",
-      "Klaus Mueller"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-06",
-    "headline": "LLM Personas and Visualization Design: When Do They Truly Reflect User Preferences?",
-    "tldr": "This study investigates whether persona-conditioned outputs from large language models reliably capture user preferences in visualization tasks. Across color assignment and chart choice, results suggest that persona effects vary by model and task framing, highlighting the need for careful evaluation.",
-    "significance": "It clarifies the reliability of LLM personas for early-stage visualization design, guiding practitioners on when to trust persona-driven recommendations.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "75b6eb78a574233dda56efce42a839f7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02453v1",
-    "arxiv_id": "2607.02453v1",
-    "title": "Adoption and Ecosystem Health: A Longitudinal Analysis of Open-Source Multi-Agent Frameworks",
-    "authors": [
-      "Xi Zhang",
-      "Papi Menon",
-      "Vivian Chu"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-06",
-    "headline": "Tracking the Rise of Open‑Source Multi‑Agent Frameworks: 2022‑2026 Adoption Trends",
-    "tldr": "From ChatGPT’s debut, 15 major agent frameworks have amassed over 800k stars and nearly a million users. This study maps their growth, pull‑request activity, and commit patterns to reveal which frameworks sustain healthy ecosystems.",
-    "significance": "Understanding which open‑source agent frameworks thrive helps engineering teams choose reliable, community‑supported tools.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c30c735dc3998495ba1a2c1b37d7cdec",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02448v1",
-    "arxiv_id": "2607.02448v1",
-    "title": "AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition",
-    "authors": [
-      "Emmanuel George",
-      "Christopher Keefe",
-      "Peter Pak"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-06",
-    "headline": "AgentsCAD: Multi-Agent LLM System Enhancing Automated FDM Part Design for Manufacturing",
-    "tldr": "AgentsCAD uses a multi-agent large language model framework to automatically modify CAD geometry for FDM printing, addressing overhangs and structural weaknesses. By integrating geometric feature recognition, the system generates printable designs without manual intervention, streamlining the DFAM workflow.",
-    "significance": "This approach democratizes DFAM by enabling non-experts to produce print-ready designs, reducing time-to-market and material waste.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1feff15e34aca7a2d3b8b841357463c4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02503v1",
-    "arxiv_id": "2607.02503v1",
-    "title": "VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation",
-    "authors": [
-      "Shuai Tian",
-      "Yupeng Zheng",
-      "Yuhang Zheng"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "VT-WAM: Modeling Tactile Dynamics for Real-Time Contact-Rich Manipulation",
-    "tldr": "VT-WAM introduces a visual-tactile action model that explicitly captures tactile deformation dynamics during contact-rich manipulation, enabling policies to react to sparse tactile cues. The model demonstrates improved performance in tasks requiring precise force control and slip detection, highlighting the importance of integrating tactile dynamics into action generation.",
-    "significance": "By modeling tactile deformation dynamics, VT-WAM bridges the gap between visual perception and tactile feedback, advancing the reliability of robotic manipulation in complex contact scenarios.",
-    "tags": [
-      "object-detection",
-      "time-series",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1ae8de1ef6d3564f2bfe7514ae54428e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02501v1",
-    "arxiv_id": "2607.02501v1",
-    "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
-    "authors": [
-      "Ling Xu",
-      "Chuyu Han",
-      "Borui Li"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "Embodied.cpp: Portable Runtime for Embodied AI on Heterogeneous Robots and Edge Devices",
-    "tldr": "Embodied.cpp provides a lightweight, cross‑platform inference runtime that unifies vision‑language‑action and world‑action models, enabling seamless deployment on diverse robotic hardware. It eliminates fragmented Python stacks and backend dependencies, offering real‑time inference without the overhead of traditional request‑response servers.",
-    "significance": "This runtime bridges the gap between advanced embodied AI research and practical robotic deployment, accelerating real‑world applications across heterogeneous edge devices.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "32e6cf0fa3f0b96f4a21fb7227582973",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02479v1",
-    "arxiv_id": "2607.02479v1",
-    "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
-    "authors": [
-      "Jingtao Xu",
-      "Zizhuo Lin",
-      "Jianwen Sun"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "EAGLE-360: Overcoming Panoramic Distortion in Active Visual Search with MLLMs",
-    "tldr": "EAGLE-360 introduces a framework for embodied active exploration in 360° panoramic scenes, addressing the polar distortion and cylindrical topology challenges that limit standard multimodal LLMs. By integrating specialized geometric modeling and real-time navigation, it enables more accurate object detection and spatial reasoning in panoramic environments.",
-    "significance": "This work bridges the gap between large language models and panoramic perception, paving the way for robust autonomous agents in VR, robotics, and surveillance.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1189da0192e6f2d689be0af3f55c368b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02477v1",
-    "arxiv_id": "2607.02477v1",
-    "title": "Mixing times of spin systems on dynamical percolation",
-    "authors": [
-      "Alexandre Stauffer",
-      "Oskar Vavtar"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "Analyzing Mixing Times for Glauber Dynamics on Dynamical Percolation Networks",
-    "tldr": "We investigate how quickly Glauber dynamics on a torus with randomly evolving edges reach equilibrium. The study reveals that the mixing time scales with the percolation parameter and dimension, providing new bounds for stochastic spin systems.",
-    "significance": "These results bridge percolation theory and Markov chain mixing, offering insights into the convergence behavior of spatially evolving stochastic processes.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ae7b1b8b762672bd2c837e1f829bd064",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02473v1",
-    "arxiv_id": "2607.02473v1",
-    "title": "Audio-Based Understanding of Audiobook Narration Appeal",
-    "authors": [
-      "Shahar Elisha",
-      "Mariano Beguerisse-Díaz",
-      "Emmanouil Benetos"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "Analyzing Audiobook Narration: Audio Features Drive Listener Appeal Across Genres",
-    "tldr": "This study extracts vocal and acoustic features from LibriVox audiobooks using pre-trained audio models to quantify how narration quality influences listener engagement. Results show that tone, pace, and loudness significantly affect appeal, with variations across genre and audience.",
-    "significance": "Understanding narration appeal can guide audiobook producers to tailor vocal delivery for maximum audience engagement.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "5ed326c4ee962934c43eff7f69951a25",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02472v1",
-    "arxiv_id": "2607.02472v1",
-    "title": "Learning Agile Intruder Interception using Differentiable Quadrotor Dynamics",
-    "authors": [
-      "Michael Anoruo",
-      "Xiaoyu Tian",
-      "Abhishek Rathod"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "Learning Agile Intruder Interception with Differentiable Quadrotor Dynamics Using Passive Monocular Vision",
-    "tldr": "This paper introduces a reinforcement learning framework that learns to intercept an intruder using only the 3‑D direction vector to the target and the interceptor’s state, eliminating the need for explicit relative position or distance measurements. By leveraging differentiable quadrotor dynamics and passive monocular vision, the method achieves real‑time, agile interception in scenarios where traditional sensors are unavailable.",
-    "significance": "It enables autonomous drones to pursue and intercept moving targets in realistic vision‑limited environments, broadening the applicability of UAV interception systems.",
-    "tags": [
-      "real-time",
-      "object-detection",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e176320051c9bd80bd03c9e4f176248b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.02471v1",
-    "arxiv_id": "2607.02471v1",
-    "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
-    "authors": [
-      "Ziyao Wang",
-      "Maonan Wang",
-      "Yucheng He"
-    ],
-    "published": "2026-07-02",
-    "curated_at": "2026-07-05",
-    "headline": "New Cloud Removal Method Enhances Downstream Remote Sensing Interpretation Accuracy",
-    "tldr": "This work introduces an observation-anchored residual flow for cloud removal that aligns geo-contextual information, ensuring that the cleaned imagery preserves semantic integrity for tasks like segmentation and change detection. Unlike prior methods that focus on visual realism, the proposed approach prioritizes downstream analytical performance, reducing semantic drift.",
-    "significance": "By aligning cloud removal with downstream interpretation needs, the method improves the reliability of remote sensing analytics, enabling more accurate environmental monitoring and decision-making.",
-    "tags": [
-      "remote-sensing",
-      "segmentation",
-      "change-detection",
-      "spatial-reasoning"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
