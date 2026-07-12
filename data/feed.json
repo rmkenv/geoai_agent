@@ -1,5 +1,290 @@
 [
   {
+    "uid": "7905e148f3cbc8010fbfa04e75f37dbf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08755v1",
+    "arxiv_id": "2607.08755v1",
+    "title": "DegenDetector: Symbolic Recovery of Parameter Degeneracies in Bayesian Posteriors",
+    "authors": [
+      "Chaipat Tirapongprasert",
+      "Matthew Ho"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "DegenDetector: Symbolic Identification of Parameter Degeneracies in Bayesian Posteriors",
+    "tldr": "DegenDetector automates the discovery of degenerate relationships in posterior distributions by combining mutual information screening with alternating symbolic regression, producing interpretable closed‑form equations. This framework eliminates the need for domain‑specific input, enabling researchers to uncover hidden parameter correlations efficiently.",
+    "significance": "It provides a systematic, interpretable method to detect and characterize degeneracies in Bayesian inference, improving model diagnostics and interpretability.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9c05e70069bbdd9c4730fd106d85851a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08752v1",
+    "arxiv_id": "2607.08752v1",
+    "title": "Phase-dependent kink collisions and dual critical-velocity branches in the complex sine-Gordon model",
+    "authors": [
+      "Mohammad Mohammadi",
+      "Farnaz Eizadbaksh",
+      "Vahideh Bagheri"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "Phase-Dependent Kink Collisions Reveal Dual Critical Velocities in Complex Sine-Gordon Model",
+    "tldr": "We numerically study collisions of complex kinks in the CSG model, showing that the final state depends on both initial velocity and relative phase. Unlike the real sine-Gordon case, the CSG system displays two distinct critical velocity branches leading to elastic or inelastic outcomes.",
+    "significance": "This work uncovers how internal phase degrees of freedom can fundamentally alter soliton interactions, providing new insights into integrable field theories.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3a805f3958a3d481173bf781baf08ddc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08745v1",
+    "arxiv_id": "2607.08745v1",
+    "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
+    "authors": [
+      "Siddharth Damodharan",
+      "Radhika Gupta",
+      "Ali Alshami"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "AUTOPILOT VQA: Benchmarking Vision‑Language Models for Incident‑Centric Dashcam Understanding in Autonomous Driving",
+    "tldr": "We introduce AUTOPILOT‑VQ, a benchmark that evaluates vision‑language models on safety‑critical dashcam scenarios. The dataset and evaluation protocol reveal gaps in current models’ reasoning about incidents, guiding future research.",
+    "significance": "This benchmark highlights the need for more robust multimodal reasoning in autonomous driving systems, driving progress toward safer vehicles.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "object-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2e8eb5e96b1463bada02b220a8933ba8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08741v1",
+    "arxiv_id": "2607.08741v1",
+    "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+    "authors": [
+      "Kaifeng Zhao",
+      "Mathis Petrovich",
+      "Haotian Zhang"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "ARDY: Real-Time Human Motion Generation via Autoregressive Diffusion and Hybrid Representation",
+    "tldr": "ARDY introduces a hybrid autoregressive diffusion model that generates realistic 3D human motions in real-time, balancing speed and control. It combines text and kinematic constraints with efficient inference, outperforming prior offline and online methods in interactive applications.",
+    "significance": "This work enables high-fidelity, controllable motion synthesis for animation, robotics, and simulation, bridging the gap between offline precision and online speed.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9b12960aa2c044772d021cb214ec3297",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08740v1",
+    "arxiv_id": "2607.08740v1",
+    "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+    "authors": [
+      "Emanuele Quinto",
+      "Carlo Andrea Rozzi",
+      "Francesco Zanitti"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "Reimagining LLM Workflows: A Lisp-Inspired Model for Semantic Persistence and Knowledge Sharing",
+    "tldr": "This paper introduces a language-independent conceptual framework for LLM-mediated workflows, drawing on Lisp-inspired symbolic forms, object identity, and live-image thinking to model knowledge persistence. It argues that these abstractions can guide implementation without dictating specific technologies, enabling more robust, explainable, and reusable workflow systems.",
+    "significance": "By framing workflow as a persistent knowledge representation, the work offers a principled foundation for building more transparent and adaptable LLM-driven automation.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f28d9586f26611e62096aba18f21107a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08736v1",
+    "arxiv_id": "2607.08736v1",
+    "title": "Sculptable Mesh Structures for Room-Scale Form-Finding",
+    "authors": [
+      "Jesse T. Gonzalez",
+      "Yanzhen Zhang",
+      "Dian Zhu"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "From Paper to 3D: Sculptable Mesh Structures for Room-Scale Form-Finding",
+    "tldr": "Designers often rely on low-fidelity prototypes before finalizing a structure, but this process can be limited by screen-based design. Sculptable mesh structures enable rapid iteration in physical space, bridging the gap between digital concepts and real-world forms.",
+    "significance": "This approach accelerates the design cycle and improves the integration of aesthetic and functional requirements in built environments.",
+    "tags": [
+      "point-cloud",
+      "LiDAR",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "8fff31252172b6d422b0b4cec0ec5c53",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08735v1",
+    "arxiv_id": "2607.08735v1",
+    "title": "Learning Adaptive Solvers for Distributed Factor Graph Optimization on Matrix Lie Groups",
+    "authors": [
+      "Jaeho Shin",
+      "Maani Ghaffari",
+      "Yulun Tian"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "DeepCORD: Learning‑Augmented Distributed Factor Graph Optimization on Matrix Lie Groups",
+    "tldr": "DeepCORD introduces a learning‑augmented framework that enables robust, distributed factor graph optimization across general matrix Lie groups, eliminating brittle hand‑tuning. It extends beyond rigid‑body pose graphs, improving scalability for multi‑robot perception tasks.",
+    "significance": "By integrating deep learning with distributed optimization, DeepCORD offers a scalable, adaptable solution for complex geometric inference in robotics, overcoming limitations of traditional solvers.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8cf24990687332190155785d3a97b88f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08734v1",
+    "arxiv_id": "2607.08734v1",
+    "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
+    "authors": [
+      "Baha Rababah",
+      "Cuneyt Gurcan Akcora",
+      "Carson K. Leung"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "Quantization Misleads: New Metric Reveals Hidden LLM Behavior Changes",
+    "tldr": "Post‑training quantization is common for deploying large language models, but accuracy and perplexity miss key behavioral shifts. Introducing correctness agreement, a decision‑level metric, better captures overlap in correct predictions between a base model and its quantized counterpart.",
+    "significance": "This work highlights that conventional metrics can mask quantization‑induced behavior changes, offering a more reliable evaluation tool for deploying LLMs.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bd87b895afefb04d88611bab6cf7ebff",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08733v1",
+    "arxiv_id": "2607.08733v1",
+    "title": "Super Weights in LLMs and the Failure of Selective Training",
+    "authors": [
+      "Shreyas Subramanian",
+      "Adewale Akinfaderin",
+      "Akarsha Sehwag"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "Super Weights in LLMs: Pruning Degrades Performance, Yet Targeted Training Fails",
+    "tldr": "Recent research shows that removing a small set of critical parameters—Super Weights—can drastically reduce LLM performance, but surprisingly, training only these parameters does not improve the model. This suggests that the importance of Super Weights is context-dependent and that selective training strategies may not generalize across architectures.",
+    "significance": "This finding challenges the assumption that fine-tuning critical parameters alone can recover or enhance LLM capabilities, indicating a need for more holistic training approaches.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cf3c075b961402afff29a8a478194a43",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08731v1",
+    "arxiv_id": "2607.08731v1",
+    "title": "Validity of LLMs as data annotators: AMALIA on authority",
+    "authors": [
+      "Manuel Pita"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "Portugal’s AMALIA Model Matches Human Coders on Moral Authority Classification",
+    "tldr": "Portugal’s publicly funded 9B-parameter AMALIA model demonstrates strong performance in coding the moral foundation of authority, matching trained human coders within six F1 points. Compared to larger open models, AMALIA shows competitive agreement despite being significantly smaller.",
+    "significance": "This shows that regionally tailored LLMs can achieve high annotation accuracy, enabling more precise linguistic and cultural analysis.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9631b63434cbde160d96bb1486f09c27",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08729v1",
+    "arxiv_id": "2607.08729v1",
+    "title": "WaspMOT: A Benchmark for Long-Term Multi-Object Tracking of Trichogramma Wasps",
+    "authors": [
+      "Tomasz Stanczyk",
+      "Yuan Gao",
+      "Hardik Agarwal"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "Introducing WaspMOT: A Long-Term Multi-Object Tracking Benchmark for Trichogramma Wasps",
+    "tldr": "WaspMOT provides a long-duration video dataset for tracking Trichogramma wasps, addressing the gap in identity preservation over extended periods. The benchmark enables evaluation of tracking algorithms in controlled ecological settings, encouraging development of robust long-term MOT methods.",
+    "significance": "By focusing on long-term identity tracking, WaspMOT pushes the field toward more reliable and persistent object tracking solutions.",
+    "tags": [
+      "benchmark",
+      "object-detection",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "74cee360ddb54595c5c2cbc499b33788",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.08727v1",
+    "arxiv_id": "2607.08727v1",
+    "title": "Cataclysmic Variables Photometric Periods from TESS",
+    "authors": [
+      "S. O. Kepler",
+      "Alejandra Daniela Romero",
+      "Larissa Luciano Amorim"
+    ],
+    "published": "2026-07-09",
+    "curated_at": "2026-07-12",
+    "headline": "TESS Uncovers 1,362 Periodic Cataclysmic Variables in 1,557 Stars",
+    "tldr": "Using TESS data up to sector 102, researchers identified stable photometric periods in 1,362 cataclysmic variables, including eclipsing systems, polars, and intermediate polars. The study also presents the first period determinations for several previously uncharacterized objects.",
+    "significance": "This work expands the catalog of known periodic cataclysmic variables, providing a valuable resource for studying binary evolution and accretion physics.",
+    "tags": [
+      "time-series",
+      "satellite-imagery",
+      "remote-sensing"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "151e1091bfd42b14b6fab774b73f7d5c",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.08772v1",
@@ -1132,292 +1417,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "8372f00d6fd5ac7fe8209cdc16b9d779",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05395v1",
-    "arxiv_id": "2607.05395v1",
-    "title": "Liénard--Wiechert fields in AdS and flat-space antipodal matching from geodesic-centered Coulombic data",
-    "authors": [
-      "Sarthak Duary"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "Geometric Derivation of Liénard–Wiechert Fields and Antipodal Matching in AdS",
-    "tldr": "The paper presents a geometric derivation of Liénard–Wiechert fields in flat space and global AdS by centering coordinates on the source geodesic, revealing the origin of antipodal matching. It shows how the Coulomb field in the rest frame translates into the correct angular dependence of the leading data in both spacetimes.",
-    "significance": "It clarifies the geometric mechanism behind antipodal matching, a key consistency condition in asymptotic symmetries of gauge theories.",
-    "tags": [
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9acbb7f4d14bc802b64b8b517d2c556e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05396v1",
-    "arxiv_id": "2607.05396v1",
-    "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-    "authors": [
-      "Wenhao Li",
-      "Xueying Jiang",
-      "Quanhao Qian"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "Calibration-Free Vision-Language Action Models for Unreliable Camera Setups in Real-World Robotics",
-    "tldr": "We introduce a calibration-free vision-language-action model that remains robust to camera repositioning in real-world robotics. This approach eliminates the need for explicit extrinsic parameters, enabling more flexible deployment across varied viewpoints.",
-    "significance": "By removing the dependency on camera calibration, the model facilitates scalable, view-robust robot deployment in dynamic environments.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "67388058a7bf4cbe3f2c7dd04e9ca82e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05394v1",
-    "arxiv_id": "2607.05394v1",
-    "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-    "authors": [
-      "Shiyuan Feng",
-      "Huan-ang Gao",
-      "Haohan Chi"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "From Small to Strong: Direct On-Policy Distillation for Efficient RL in LLMs",
-    "tldr": "The paper proposes running reinforcement learning on a lightweight model to generate rollouts cheaply, then distilling the learned policy into a larger, stronger model. This weak-to-strong approach reduces post‑training cost while preserving performance gains.",
-    "significance": "It offers a scalable, cost‑effective method to transfer RL benefits from small to large language models, addressing the bottleneck of repeated rollouts.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "441876fdf8b5d094581539a5c1a0d54c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05393v1",
-    "arxiv_id": "2607.05393v1",
-    "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-    "authors": [
-      "Raphaël Bonnet-Guerrini",
-      "Bruno Sanchez",
-      "Dominique Fouchez"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification in Time-Domain Surveys",
-    "tldr": "We present a framework that trains a real-bogus classifier without human labels by injecting synthetic transients into survey data and leveraging the predominance of bogus events. The model provides interpretable predictions and quantifies uncertainty, enabling reliable automated discovery in time-domain astronomy.",
-    "significance": "This approach reduces reliance on costly labeled data and improves trustworthiness of automated transient detection.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dba70f5181091db65d3604277ddd8fb4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05392v1",
-    "arxiv_id": "2607.05392v1",
-    "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
-    "authors": [
-      "Paul Engstler",
-      "Iro Laina",
-      "Christian Rupprecht"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "SynCity 3000: Bootstrapping Globally Coherent 3D Scenes with Diffusion-Based Layout Control",
-    "tldr": "SynCity 3000 extends image-to-3D generators into a convolutional operator, enabling the creation of entire, globally coherent scenes from a single image. The framework fine‑tunes the diffusion model to allow fine‑grained layout control across the scene.",
-    "significance": "This approach democratizes large‑scale 3D scene generation, making it accessible for applications ranging from virtual reality to urban planning.",
-    "tags": [
-      "diffusion-models",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "880e4afbede588e93bac81f6daa31690",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05391v1",
-    "arxiv_id": "2607.05391v1",
-    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-    "authors": [
-      "Jacky Kwok",
-      "Shulu Li",
-      "Pranav Atreya"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "LLM-as-a-Verifier: Scaling Verification for Robustness and Accuracy in Large Language Models",
-    "tldr": "We propose LLM-as-a-Verifier, a framework that uses large language models to automatically verify solutions across diverse tasks. The method demonstrates improved accuracy and scalability compared to traditional verification techniques.",
-    "significance": "This work introduces verification as a new scaling axis, enabling LLMs to self-assess correctness and enhancing trustworthiness.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fee557bd7dbf1b3262c96ab394c2c337",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05390v1",
-    "arxiv_id": "2607.05390v1",
-    "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-    "authors": [
-      "Hongyu Li",
-      "Wanjia Fu",
-      "Xiaoyan Cong"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "Deform360: A Large-Scale Visuotactile Dataset for Modeling Deformable Object Dynamics",
-    "tldr": "Deform360 introduces a massive multi-view visuotactile dataset to advance world modeling of deformable objects. It provides high-dimensional tactile and visual data across diverse materials, enabling robust learning of complex dynamics.",
-    "significance": "This dataset bridges the gap between visual and tactile perception, empowering more accurate and generalizable deformable object models for robotic manipulation.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "point-cloud",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "da8925ed31af6b206b5aae3135e1311c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05389v1",
-    "arxiv_id": "2607.05389v1",
-    "title": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
-    "authors": [
-      "Erich Liang",
-      "Caleb Kha-Uong",
-      "Chinmaya Saran"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "InFlux++ Enhances 3D Reconstruction by Estimating Dynamic Camera Intrinsics in Real and Synthetic Videos",
-    "tldr": "This work introduces InFlux++, a dataset combining real and synthetic videos with per-frame camera intrinsics, enabling robust 3D reconstruction under dynamic camera settings. The authors also present a baseline method that learns to predict intrinsics directly from RGB frames, demonstrating improved performance over fixed-intrinsic assumptions.",
-    "significance": "By providing realistic dynamic intrinsics data and a learning framework, InFlux++ addresses a critical gap in 3D vision, paving the way for more accurate reconstruction in unconstrained, real-world videos.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "05be74d91d5b42c4c43fff2fd6ea8329",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05387v1",
-    "arxiv_id": "2607.05387v1",
-    "title": "CATs: Secure Blockchain Interoperability with Cross-chain Atomic Transactions",
-    "authors": [
-      "Andreas Penzkofer",
-      "Franck Cassez"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "Cross-Chain Atomic Transactions: Enabling Secure Interoperability Across Autonomous Blockchains Without Compromise",
-    "tldr": "We introduce CATs, a protocol that guarantees atomic execution across multiple blockchains despite asynchronous communication and Byzantine actors. CATs preserve each chain’s autonomy by allowing independent execution models while enabling composable cross-chain operations.",
-    "significance": "CATs provide a practical solution for secure, composable cross-chain interactions, paving the way for decentralized applications that span multiple blockchain ecosystems.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ce4f0dd01e1fd9bf62fb415fac4a2c46",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05382v1",
-    "arxiv_id": "2607.05382v1",
-    "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
-    "authors": [
-      "Haozhe Wang",
-      "Weijia Feng",
-      "Jinpeng Yu"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "Expanding Visual Generation: SearchGen Challenges Generative Models Beyond Fixed Knowledge",
-    "tldr": "Visual generators often hallucinate when lacking up-to-date knowledge, limiting their usefulness for evolving user requests. The authors introduce SearchGen-20K and SearchGen-Bench to evaluate and push models toward dynamic knowledge integration.",
-    "significance": "This work highlights the structural limitation of static training data and proposes a benchmark to spur research in adaptive visual generation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "70301ff64f981efe4eaf789536911247",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05381v1",
-    "arxiv_id": "2607.05381v1",
-    "title": "What Does a Discrete Diffusion Model Learn?",
-    "authors": [
-      "Rodrigo Casado Noguerales",
-      "Bernhard Schölkopf",
-      "Thomas Hofmann"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "Discrete Diffusion Models: Unpacking the Role of Denoisers, Score Ratios, and Predictors",
-    "tldr": "Discrete diffusion models can be interpreted as learning any of three equivalent objects—denoiser, score ratio, or bridge plug‑in predictor—depending on the coordinate system chosen. This equivalence means that mis‑specifying the coordinate transforms the training objective and the sampling dynamics.",
-    "significance": "Understanding this coordinate equivalence clarifies how to design and evaluate discrete diffusion models across different applications.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7c80594e36ebf68df16a303694af9025",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.05380v1",
-    "arxiv_id": "2607.05380v1",
-    "title": "TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
-    "authors": [
-      "Yury Gorishniy",
-      "Akim Kotelnikov",
-      "Ivan Rubachev"
-    ],
-    "published": "2026-07-06",
-    "curated_at": "2026-07-07",
-    "headline": "TabPack: A Fast, Hyperparameter-Independent Ensemble for Tabular Deep Learning Models",
-    "tldr": "TabPack introduces an efficient ensemble of MLPs that automatically adapts hyperparameters across models, eliminating the need for manual tuning. The approach delivers strong out‑of‑the‑box performance on tabular datasets while remaining computationally lightweight.",
-    "significance": "By removing the hyperparameter bottleneck, TabPack enables practitioners to deploy robust tabular deep learning models quickly and with minimal effort.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
