@@ -1,5 +1,313 @@
 [
   {
+    "uid": "4fa90221678cba969d29110851fd95d9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09663v1",
+    "arxiv_id": "2607.09663v1",
+    "title": "Phase-switchable nonreciprocal entanglement via magnon squeezing in ring-cavity optomagnomechanics",
+    "authors": [
+      "Z. Imara",
+      "A. El Allati",
+      "A. Belfakir"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "Switchable Nonreciprocal Entanglement via Phase-Controlled Magnon Squeezing in Ring Cavities",
+    "tldr": "The study proposes a theoretical scheme to generate tunable bipartite and tripartite entanglement in an optomagnomechanical ring cavity using phase-controlled magnon squeezing. This approach enables directional entanglement that can be switched on and off by adjusting the squeezing phase.",
+    "significance": "It offers a novel route to controllable quantum correlations in macroscopic systems, potentially advancing quantum information processing.",
+    "tags": [
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "749caf28a9e4a91486137f32c2420256",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09662v1",
+    "arxiv_id": "2607.09662v1",
+    "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+    "authors": [
+      "Ren Takahashi",
+      "Emre Yusuf",
+      "Jayabrata Bhaduri"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "PHINN‑EEG: Using Persistent Homology for Dream‑State EEG Classification and Signal Synthesis",
+    "tldr": "PHINN‑EEG applies persistent homology to EEG time series, producing dynamic Betti curves that improve dream‑state classification beyond traditional PSD features. The method also enables topology‑conditioned neural synthesis of dream‑related signals.",
+    "significance": "It demonstrates that topological data analysis can surpass conventional spectral methods for EEG‑based dream detection, opening new avenues for brain‑computer interfaces.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3d48b720cda69cd5013fd53b3bf1664f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09661v1",
+    "arxiv_id": "2607.09661v1",
+    "title": "PanoWorld: Real-World Panoramic Generation",
+    "authors": [
+      "Haoyuan Li",
+      "Dizhe Zhang",
+      "Yuemei Zhou"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "PanoWorld: Enhancing Panoramic Generation with Rotation-Equivariant Long-Range Memory for Real-World Applications",
+    "tldr": "PanoWorld tackles the long-range memory problem in panoramic world models by leveraging rotation-equivariant omnidirectional representations, treating rotation as an implicit geometric transformation. By simplifying camera trajectories into translations with fixed headings, it enables more realistic and efficient panoramic generation.",
+    "significance": "This work provides a scalable solution for realistic panoramic generation, improving long-range memory handling in world models.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e53c909d18fc5256641f45c54b3383fb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09659v1",
+    "arxiv_id": "2607.09659v1",
+    "title": "Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks",
+    "authors": [
+      "Song Son Ha",
+      "Florian Foerster",
+      "Henry Beuster"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "How Connectivity Variations Affect ML Intrusion Detection in Encrypted OPC UA over Private 5G",
+    "tldr": "This study evaluates how benign connectivity changes in private 5G networks influence machine‑learning IDS performance on encrypted OPC UA traffic. Results show that even minor latency or packet loss variations can significantly degrade detection accuracy, highlighting the need for robust training under realistic network conditions.",
+    "significance": "Understanding these effects is crucial for deploying reliable security solutions in industrial 5G environments.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "404173442bd0b92f9421d93ee33f6843",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09658v1",
+    "arxiv_id": "2607.09658v1",
+    "title": "Identifying and characterizing extragalactic circum-CBC exoplanets with future gravitational-wave detectors",
+    "authors": [
+      "Avinash Tiwari",
+      "Aditya Vijaykumar",
+      "Shasvath J. Kapadia"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "Detecting Extragalactic Exoplanets Orbiting Compact Binary Coalescences with Future Gravitational-Wave Observatories",
+    "tldr": "We explore the feasibility of detecting exoplanets orbiting compact binary coalescences in other galaxies using next-generation gravitational-wave detectors. Our analysis suggests that such signatures could be discernible, opening a new window into exoplanet demographics beyond the Milky Way.",
+    "significance": "This study pioneers the use of gravitational-wave astronomy to probe exoplanet populations on extragalactic scales, potentially transforming our understanding of planet formation in diverse environments.",
+    "tags": [
+      "remote-sensing",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "70ee282714777e99cd9ab98dbf4c34b5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09657v1",
+    "arxiv_id": "2607.09657v1",
+    "title": "Scalable Visual Pretraining for Language Intelligence",
+    "authors": [
+      "Yiming Zhang",
+      "Zhonghan Zhao",
+      "Wenwei Zhang"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "Leveraging Visual Pretraining to Enhance Language Models and Unlock Rich Knowledge",
+    "tldr": "Large foundation models rely on text pretraining, missing visual signals like figures and equations. This paper proposes scalable visual pretraining to capture those cues and improve language intelligence.",
+    "significance": "By integrating visual context, the approach promises more comprehensive understanding and better performance on tasks requiring multimodal reasoning.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4becb6250625060edc417975b1922fe1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09656v1",
+    "arxiv_id": "2607.09656v1",
+    "title": "HD 148797: A bright F-type star with two moderate-period low-density sub-Jovian planets. Compact multi-planet architectures are common in the Neptunian savanna",
+    "authors": [
+      "J. M. Almenara",
+      "A. Castro-González",
+      "R. Mardling"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "HD 148797 Reveals Two Sub-Jovian Planets in Golden Mean Resonance",
+    "tldr": "We confirm two moderate-period sub-Jovian planets orbiting the bright F-type star HD 148797 using TESS and CHEOPS photometry. Their periods of 42.1 and 68.2 days place them near the golden mean ratio, hinting at resonant dynamics in a compact multi-planet system.",
+    "significance": "These findings provide a rare example of a compact, resonant architecture among sub-Jovian planets, offering insights into planetary formation and migration in the Neptunian savanna.",
+    "tags": [
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "a894112011f8b3db5502810d9d6f4449",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09655v1",
+    "arxiv_id": "2607.09655v1",
+    "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+    "authors": [
+      "Lulin Liu",
+      "Nuo Chen",
+      "Yan Wang"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "OpenLongTail: Scaling Driving Policies Across Heterogeneous Sources with Generative Long-Tail Data",
+    "tldr": "OpenLongTail introduces a generative framework that augments scarce long-tail driving events by synthesizing realistic scenarios from diverse in-the-wild videos. This approach enables robust policy training with improved edge-case coverage while leveraging existing heterogeneous data sources.",
+    "significance": "By effectively scaling rare driving events, OpenLongTail advances the reliability of autonomous systems in unpredictable real-world conditions.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "24f8a5ac7b7c12f410f949a31b8ef9dc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09654v1",
+    "arxiv_id": "2607.09654v1",
+    "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+    "authors": [
+      "Shravan Murlidaran",
+      "Miguel P. Eckstein"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "Decade of Vision‑Language Models: Accuracy Gains and Emerging Cognitive Errors",
+    "tldr": "Vision‑language models have improved dramatically, yet evaluations rely on simple scenes that miss complex social interactions. The new Complex Social Behavior dataset exposes error types and drives more realistic benchmarks.",
+    "significance": "This work highlights the gap between current benchmarks and real‑world social reasoning, guiding future VLM development.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9a759181e55e0b508a87ced635d1d006",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09653v1",
+    "arxiv_id": "2607.09653v1",
+    "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+    "authors": [
+      "Katherine Swinea",
+      "Kshitiz Aryal",
+      "Lopamudra Praharaj"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "VEXAIoT: Autonomous IoT Vulnerability Exploitation with LLM Agents for Scalable Security Testing",
+    "tldr": "VEXAIoT introduces a framework that employs large language model agents to autonomously discover and exploit vulnerabilities in IoT devices, addressing the limitations of constrained hardware and outdated firmware. The system demonstrates scalable, adaptive testing capable of real‑time threat detection across diverse IoT deployments.",
+    "significance": "This work provides a scalable, AI-driven approach to IoT security, enabling rapid identification of critical weaknesses in large-scale deployments.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0a9a3af54490995dd74f225ec8e95f38",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09651v1",
+    "arxiv_id": "2607.09651v1",
+    "title": "Local Determinacy of Quantum Master Equations and a Mechanical Interpretation of the Multi-Mode Jaynes-Cummings and Central Spin Models",
+    "authors": [
+      "Jaeha Lee",
+      "Miku Ishizaki"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "Local Determinacy in Quantum Master Equations: A Mechanical View of Jaynes-Cummings Models",
+    "tldr": "The paper introduces a local formulation of open-system dynamics, showing that a quantum state's evolution depends only on its instantaneous state rather than its full history. It also provides a mechanical interpretation of multi-mode Jaynes-Cummings and central spin models, offering new insights into non-Markovian behavior.",
+    "significance": "This work challenges conventional non-Markovian theory by demonstrating that local state properties can fully determine evolution, potentially simplifying quantum control and simulation.",
+    "tags": [
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "93ef4d1437d0abaaeb05fe950a5b44c3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09650v1",
+    "arxiv_id": "2607.09650v1",
+    "title": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
+    "authors": [
+      "Yangting Sun",
+      "Zijun Cui",
+      "Yufei Zhang"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "Improving Euler Angle Regression with Kolmogorov-Arnold Networks for Robotics and Biomechanics",
+    "tldr": "This paper revisits Euler angle regression, addressing discontinuities and singularities using Kolmogorov-Arnold networks. The proposed approach improves stability and accuracy in robotic and biomechanical applications.",
+    "significance": "It offers a robust solution for rotation estimation in systems where Euler angles are essential, enhancing performance in real-time robotics and biomechanics.",
+    "tags": [
+      "real-time",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3d8e19bd2b2a24058630d6c493711c14",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.09649v1",
+    "arxiv_id": "2607.09649v1",
+    "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
+    "authors": [
+      "Mohadeseh Mollapour",
+      "Koorosh Aslansefat",
+      "Zeinab Dehghani"
+    ],
+    "published": "2026-07-10",
+    "curated_at": "2026-07-13",
+    "headline": "ConceptSMILE: Auditing Trustworthiness of Concept-Based Explainable AI",
+    "tldr": "Concept-based explanations enhance model interpretability, yet their outputs can be unreliable. ConceptSMILE offers a model-agnostic, perturbation-based audit to assess and improve the reliability of these concept-level insights.",
+    "significance": "By providing a systematic audit framework, ConceptSMILE empowers practitioners to validate and trust concept-based explanations across diverse AI models.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "7905e148f3cbc8010fbfa04e75f37dbf",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.08755v1",
@@ -1105,317 +1413,6 @@
       "open-source"
     ],
     "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f14e7e147d6e96a8ff7fb89e2e74321a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07690v1",
-    "arxiv_id": "2607.07690v1",
-    "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
-    "authors": [
-      "Vladislav Beliaev"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Agon: Two Models Compete to Grade Each Other’s Reasoning in Reinforcement Learning",
-    "tldr": "Agon introduces a novel competitive framework where two reinforcement learning agents simultaneously solve the same problem and evaluate each other’s reasoning traces, providing richer feedback than final-answer grading. This implicit rival grading encourages models to produce more accurate, verifiable reasoning steps, improving overall problem-solving performance.",
-    "significance": "By turning models into mutual graders, Agon addresses the lack of intermediate reasoning evaluation, pushing the frontier of trustworthy AI reasoning.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ad60cbefd539b882ed711d77a43fa228",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07689v1",
-    "arxiv_id": "2607.07689v1",
-    "title": "Agent Delivery Engineering Predictive Reliability Framework",
-    "authors": [
-      "Dexing Liu"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Enhancing Reliability of Long-Horizon LLM Multi-Agent Systems Through Proactive Health Trajectory Prediction",
-    "tldr": "The ADE-PRF aggregates 20 heterogeneous signals across five layers to compute a Trust Margin metric, enabling proactive health trajectory prediction for long-horizon LLM multi-agent systems. By detecting passive degradation early, it mitigates invisible reliability risks that conventional infrastructure monitoring misses.",
-    "significance": "This framework provides a systematic, data-driven approach to anticipate and prevent reliability failures in complex AI systems, improving operational resilience.",
-    "tags": [
-      "LLM",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "aed073fa3eb1f07bece167551a6d156d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06567v1",
-    "arxiv_id": "2607.06567v1",
-    "title": "Skipping the rungs! Calibrating distance indicators through their clustering with galaxies",
-    "authors": [
-      "Madeline L. Cross-Parkin",
-      "Leonardo Giani",
-      "Cullan Howlett"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "Calibrating Cosmic Distance Indicators via Galaxy Clustering Cross-Correlations for Improved Cosmological Parameter Estimation",
-    "tldr": "We demonstrate that angular cross-correlations between distance indicators and galaxy redshift surveys can detect calibration biases in distance measurements. By modeling a constant magnitude offset, we show how clustering statistics constrain this systematic and improve cosmological inference.",
-    "significance": "This method offers a novel, model-dependent way to quantify and correct distance calibration errors, enhancing the precision of cosmological studies.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "05b4ad649655b69848e2c061a85274a4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06565v1",
-    "arxiv_id": "2607.06565v1",
-    "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-    "authors": [
-      "Tianjiao Yu",
-      "Xinzhuo Li",
-      "Yifan Shen"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "ELSA3D: Elastic Semantic Anchoring Enhances Unified 3D Understanding and Generation",
-    "tldr": "ELSA3D introduces elastic semantic anchoring to decouple text and 3D tokens, preserving structural cues and fine geometry in a unified foundation model. This approach improves language-3D interaction and generation quality over flat concatenation methods.",
-    "significance": "By separating semantic and geometric representations, ELSA3D advances the fidelity and interpretability of 3D foundation models, enabling more accurate language-driven 3D content creation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7b53f9a727d268007de302c569056505",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06564v1",
-    "arxiv_id": "2607.06564v1",
-    "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
-    "authors": [
-      "Jiaming Liu",
-      "Qingpo Wuwu",
-      "Nuowei Han"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "Lift3D-VLA: Enhancing Vision‑Language Models with 3D Geometry for Real‑World Manipulation",
-    "tldr": "Lift3D-VLA augments Vision‑Language‑Action models with 3D point‑cloud data and dynamic reasoning, enabling more accurate spatial understanding for robotic manipulation. By integrating geometry‑aware modules, the framework overcomes data scarcity and preserves spatial detail, paving the way for robust real‑world applications.",
-    "significance": "This work bridges the gap between language‑driven AI and geometric perception, unlocking safer, more precise robot interactions in complex environments.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "point-cloud"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fed4d86e82d7bbabba6995608745e466",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06562v1",
-    "arxiv_id": "2607.06562v1",
-    "title": "Minimum Energies and Magnetic Field Strengths of Edge-brightened Compact Symmetric Objects",
-    "authors": [
-      "Tirth D. Surti",
-      "Martijn S. S. L. Oei",
-      "Anthony C. S. Readhead"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "Estimating Minimum Energies and Magnetic Fields in Edge-Brightened Compact Symmetric Objects",
-    "tldr": "Using radio surveys and VLBA imaging, the study derives the minimum energy requirements and magnetic field strengths for edge-brightened CSOs, shedding light on jet launching mechanisms. The results provide a benchmark for future high-resolution radio studies of young radio galaxies.",
-    "significance": "The work offers crucial constraints on the energetics of nascent radio jets, informing models of AGN feedback and galaxy evolution.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "35b425733e261e31e2ae0e62944bd009",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06560v1",
-    "arxiv_id": "2607.06560v1",
-    "title": "Vision as Unified Multimodal Generation",
-    "authors": [
-      "Xiaoyang Han",
-      "Jianhua Li",
-      "Kewang Deng"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "Unified Multimodal Vision: SenseNova-Vision Uses Language to Drive Image Tasks",
-    "tldr": "SenseNova-Vision reframes diverse computer vision tasks as multimodal generation, eliminating the need for task‑specific models. By leveraging natural‑language instructions and optional visual prompts, it specifies tasks, target regions, and decoding strategies within a single unified framework.",
-    "significance": "This approach streamlines vision pipelines, enabling flexible, language‑driven task specification across a wide range of visual problems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b4ddec5e607de5f3f11497d4153286c2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06559v1",
-    "arxiv_id": "2607.06559v1",
-    "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
-    "authors": [
-      "Haoyu Zhao",
-      "Xingyue Zhao",
-      "Siteng Huang"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "RynnWorld-4D: Leveraging RGB-DF for Real-Time 4D World Modeling in Robotics",
-    "tldr": "RynnWorld-4D introduces RGB-DF, a synchronized RGB, depth, and optical flow representation that captures 4D scene dynamics for robotic manipulation. This multi-modal approach outperforms 2D videos by aligning visual cues with physical motion, enabling more accurate interaction planning.",
-    "significance": "By integrating RGB, depth, and flow, RynnWorld-4D provides a physically grounded 4D model that enhances robotic manipulation in open-world environments.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c95c04a15832a1fc6686db50667fce24",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06555v1",
-    "arxiv_id": "2607.06555v1",
-    "title": "ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation",
-    "authors": [
-      "Ruihang Zhang",
-      "Felix Taubner",
-      "Pooja Ravi"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "ProxyPose: Accurate 6-DoF Pose Tracking Using Video-to-Video Translation Without Extra Data",
-    "tldr": "ProxyPose introduces a novel video-to-video translation framework that estimates 6-DoF pose of objects and surfaces from monocular video alone, eliminating the need for 3D models, depth maps, or masks. The method demonstrates robust performance on textureless, reflective, and deformable surfaces, achieving state-of-the-art accuracy in real-time scenarios.",
-    "significance": "By removing the dependency on auxiliary inputs, ProxyPose enables practical, real-time pose estimation in challenging visual environments, broadening the applicability of monocular vision systems.",
-    "tags": [
-      "object-detection",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ca7f77fda721248acde764589cd73d1f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06554v1",
-    "arxiv_id": "2607.06554v1",
-    "title": "The Thick Part of the $\\mathrm{PSL}_n(\\mathbb{R})$-Hitchin-Riemann Moduli Space has Infinite Volume",
-    "authors": [
-      "Huiseong An",
-      "Heejae Kim",
-      "Mingook Kim"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "Infinite Volume of Thick Part in PSL_n Hitchin Moduli Space",
-    "tldr": "We prove that for n>2 the thick part of the PSL_n(R)-Hitchin moduli space has infinite Atiyah–Bott–Goldman volume. This contrasts with Mumford’s compactness criterion and is achieved using Goldman flows and internal sequences.",
-    "significance": "This result challenges the expectation of compactness in moduli spaces, revealing richer geometric structure.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "93a59a837ef1e148469557c82fdfce2c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06553v1",
-    "arxiv_id": "2607.06553v1",
-    "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
-    "authors": [
-      "Zanyi Wang",
-      "Xin Lin",
-      "Haodong Li"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "Leveraging RGB Generation for Dense Field Prediction with Text-to-Image Models",
-    "tldr": "Large-scale text-to-image models trained on RGB generation encode rich semantic and geometric priors that can be repurposed for dense prediction tasks. By mapping depth, normals, and segmentation masks into the VAE latent space, the approach enables pixel-space dense readout without retraining from scratch.",
-    "significance": "This method unlocks efficient, high-fidelity dense prediction by reusing pre-trained generative backbones, reducing data and compute requirements.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b55fab96602d341e2f9c0e974d5b6e41",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06552v1",
-    "arxiv_id": "2607.06552v1",
-    "title": "MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation",
-    "authors": [
-      "Jiaju Han",
-      "Ma Yaqi",
-      "Yahui Chai"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "MonoIR-RS: Advancing Infrared Remote‑Sensing Vision‑Language Models",
-    "tldr": "MonoIR‑RS introduces a large‑scale infrared remote‑sensing vision‑language dataset and adapts CLIP and VLMs for infrared imagery, enabling robust cross‑modal understanding. The benchmark demonstrates significant gains over RGB‑only models on tasks such as object detection and semantic segmentation in infrared imagery.",
-    "significance": "It fills a critical gap by providing the first comprehensive infrared vision‑language resource, paving the way for more accurate remote‑sensing analytics in low‑visibility conditions.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "object-detection",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ce0fc7b06517c1e63594e1402c4f7167",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.06550v1",
-    "arxiv_id": "2607.06550v1",
-    "title": "Quantum combinatorial games",
-    "authors": [
-      "Dieks Scholten",
-      "Bram Westerbaan",
-      "Simona Samardjiska"
-    ],
-    "published": "2026-07-07",
-    "curated_at": "2026-07-08",
-    "headline": "Exploring Quantum Advantage in Combinatorial Games: A New Frontier in Game Theory",
-    "tldr": "This paper extends classical combinatorial game theory into the quantum domain, redefining game rules and strategies. It demonstrates scenarios where quantum players outperform classical opponents, revealing surprising advantages.",
-    "significance": "The work opens new avenues for quantum algorithm design and deepens our understanding of strategic interactions under quantum mechanics.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "advanced"
   }
 ]
