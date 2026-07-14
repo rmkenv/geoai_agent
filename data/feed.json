@@ -1,5 +1,242 @@
 [
   {
+    "uid": "1f8042646e94e5bcb63a49ae8c30848f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11886v1",
+    "arxiv_id": "2607.11886v1",
+    "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
+    "authors": [
+      "Runhui Huang",
+      "Qihui Zhang",
+      "Zhe Liu"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "SpectraReward: Using Pretrained MLLMs as Zero-Shot Reward Models for Text-to-Image Generation",
+    "tldr": "The authors introduce SpectraReward, a training-free reward function that leverages pretrained multimodal large language models (MLLMs) to evaluate text-to-image generation by checking if the original prompt can be recovered from the image. This approach turns any MLLM into a zero-shot reward model, simplifying reinforcement learning for image generation.",
+    "significance": "SpectraReward eliminates the need for task-specific reward training, enabling rapid deployment of MLLMs as evaluators for generative models and accelerating research in text-to-image generation.",
+    "tags": [
+      "LLM",
+      "diffusion-models",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "332ec765578c46ede565f296de5c537f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11885v1",
+    "arxiv_id": "2607.11885v1",
+    "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
+    "authors": [
+      "Daniel Garibi",
+      "Ronen Kamenetsky",
+      "Hadar Averbuch-Elor"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Fine-Grained Identity Tuning for Precise Facial Editing in Text-to-Image Models",
+    "tldr": "We introduce a method that fine-tunes latent representations to preserve identity while enabling precise edits. The approach improves facial editing accuracy over existing personalization techniques.",
+    "significance": "This technique enables high-fidelity, identity-preserving edits, advancing personalized image generation.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "02e3d168b3ac361528bd8bca878a9711",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11883v1",
+    "arxiv_id": "2607.11883v1",
+    "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+    "authors": [
+      "Shikai Qiu",
+      "Marc Finzi",
+      "Yujia Zheng"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Requential Coding: Compressing Models with Self-Generated Data for Superior Generalization",
+    "tldr": "Requential coding introduces a method where models generate their own training data to produce compact representations, revealing underlying regularities that enable better generalization. This approach surpasses traditional parameter-based compression like quantization, offering a new benchmark for efficient foundation models.",
+    "significance": "By enabling models to compress themselves with self-generated data, this technique paves the way for more efficient, scalable AI systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "85d1ee5b1a58cab975d968fae455306e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11881v1",
+    "arxiv_id": "2607.11881v1",
+    "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+    "authors": [
+      "Gabrielle Kaili-May Liu",
+      "Areeb Gani",
+      "Jacqueline Lu"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Metacognition in LLMs: Foundations, Progress, and Future Opportunities",
+    "tldr": "Metacognition—self-awareness and reflection—is essential for advanced intelligence and is increasingly recognized as a key component of transparent AI. While large language models have advanced across many tasks, their capacity for genuine metacognitive behavior remains uncertain and ripe for research.",
+    "significance": "Understanding and enhancing metacognition in LLMs could unlock more reliable, explainable, and autonomous AI systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "60e32f8196be714f3d54823e2f9f67ca",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11878v1",
+    "arxiv_id": "2607.11878v1",
+    "title": "Optimal Parameter-Free First-Order Methods for Convex Optimization with Unknown Growth and Smoothness",
+    "authors": [
+      "Liwei Jiang",
+      "Ke Tang",
+      "Zhe Zhang"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Parameter-Free First-Order Convex Optimization: Adaptive Methods for Unknown Smoothness and Growth",
+    "tldr": "We introduce anytime, parameter-free bundle-level algorithms that automatically adapt to unknown smoothness and growth conditions in convex optimization. These methods achieve optimal oracle complexity for both smooth and nonsmooth problems without prior parameter tuning.",
+    "significance": "This work eliminates the need for prior knowledge of problem parameters, enabling efficient and robust optimization in practical settings.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "110fe08cbb8054e9ae1d2b8f60b8e8b6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11875v1",
+    "arxiv_id": "2607.11875v1",
+    "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+    "authors": [
+      "Tiberiu Musat",
+      "Tiago Pimentel",
+      "Nicholas Zucchet"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Uncovering Invariant Dynamics in Transformers for Generalized Inductive Reasoning Across Tasks",
+    "tldr": "We propose a theoretical framework that explains how transformer models develop inductive reasoning capabilities across a broad class of synthetic tasks. By analyzing invariant learning dynamics, we unify in-context n-grams and multi-hop reasoning, offering insights into the mechanisms that enable generalization.",
+    "significance": "This work provides a principled understanding of how transformers acquire inductive reasoning, guiding future architecture and training design for more robust language models.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "367c19b75c75636cfe34c4fff1218d65",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11873v1",
+    "arxiv_id": "2607.11873v1",
+    "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
+    "authors": [
+      "Esteban U. Vega Barajas"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Durability Benchmark for Teaching-Feedback Classification Across Languages Using a Validated Protocol",
+    "tldr": "This study introduces a robust benchmark for classifying teaching-evaluation feedback by thematic category and sentiment across languages. The protocol, validated through intra-annotator reliability and cross-validation, demonstrates strong performance on a Spanish corpus using a frozen encoder.",
+    "significance": "It provides a reproducible framework for evaluating multilingual feedback classification models, enabling institutions to better interpret open-ended evaluations.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0dcf1975e0b9db65e01167991cddcefb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11871v1",
+    "arxiv_id": "2607.11871v1",
+    "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
+    "authors": [
+      "Zixiang Xu",
+      "Sixian Li",
+      "Huaxing Liu"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Uncovering Bias in LLM Judges: A Mechanistic Interpretability Study",
+    "tldr": "The paper demonstrates that biases in LLM-as-judge systems can be traced to hidden state representations, offering a new angle beyond input-output analysis. It presents three key findings across seven experiments, showing how representation-level insights can guide mitigation strategies.",
+    "significance": "It bridges the gap between behavioral bias detection and internal model mechanisms, enabling more targeted fairness interventions in large language models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a3d0e422708efccedd7a4f0c81975479",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11870v1",
+    "arxiv_id": "2607.11870v1",
+    "title": "Electron Density of Ionized Gas Outflows: Insights from the MaNGA Survey",
+    "authors": [
+      "Andrew Weldon",
+      "Casey Papovich",
+      "Justin Spilker"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Mapping Electron Density in Ionized Gas Outflows with MaNGA Survey",
+    "tldr": "Using MaNGA's spatially resolved spectroscopy, we detect broad Hα and [N II] emission indicative of ionized outflows in nearby star-forming galaxies. The study reveals electron density variations across outflow apertures, offering new insights into feedback processes.",
+    "significance": "This work provides the first systematic measurement of electron densities in galactic outflows, improving constraints on feedback models.",
+    "tags": [
+      "spatial-reasoning",
+      "remote-sensing",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "804c16b3051ee2d1432b6c11d7992ca3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.11869v1",
+    "arxiv_id": "2607.11869v1",
+    "title": "Front propagation in hybrid reaction-diffusion epidemic models with spatial heterogeneity. Part II: Pulsating traveling waves",
+    "authors": [
+      "Quentin Griette",
+      "Hiroshi Matano"
+    ],
+    "published": "2026-07-13",
+    "curated_at": "2026-07-14",
+    "headline": "Pulsating Traveling Waves in Hybrid Reaction-Diffusion Epidemic Models with Spatial Heterogeneity",
+    "tldr": "This study extends front propagation analysis to hybrid reaction-diffusion systems modeling wild and mutant pathogens in periodic environments. It demonstrates existence of pulsating traveling waves despite lack of comparison principle, offering new insights into epidemic spread in heterogeneous landscapes.",
+    "significance": "The work provides a rigorous framework for predicting wave-like disease propagation in spatially varied settings, crucial for effective intervention strategies.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "4fa90221678cba969d29110851fd95d9",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.09663v1",
@@ -1181,238 +1418,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "a4faf126842157ffa102541d5ec61518",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07707v1",
-    "arxiv_id": "2607.07707v1",
-    "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
-    "authors": [
-      "Yair Feldman",
-      "Linxi Zhao",
-      "Nathan Godey"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Continuous-Query Limited Memory Language Models: Externalizing Knowledge for Dynamic Retrieval",
-    "tldr": "Limited Memory Language Models (LMLMs) store factual knowledge in an external knowledge base instead of in model weights, enabling on-demand retrieval during generation. The proposed continuous-query approach enhances knowledge control and adaptability beyond traditional LLMs.",
-    "significance": "This paradigm shifts how language models manage knowledge, offering greater control and scalability for real-world applications.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a041cff8dac4b9d61dc6cabd2b1c0fe3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07706v1",
-    "arxiv_id": "2607.07706v1",
-    "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
-    "authors": [
-      "Anna Kuzina",
-      "Paul N. Whatmough",
-      "Babak Ehteshami Bejnordi"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Linearizing Transformers: A Data‑Driven Approach to Efficient Long‑Context Attention Inference",
-    "tldr": "This study demonstrates that carefully designed state‑update mechanisms can replace softmax in causal self‑attention without sacrificing quality. By freezing the backbone and focusing on rank‑1 orthogonal projections, the authors achieve linear complexity while preserving performance on long‑context tasks.",
-    "significance": "It offers a principled, post‑hoc linearization method that can accelerate large language models for real‑time applications.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f3bf4f55a71a9e6d5952597fd9f3002b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07704v1",
-    "arxiv_id": "2607.07704v1",
-    "title": "Radio emission from close-in exoplanets: Can we extend the radio-magnetic scaling law to the sub-Alfvénic stellar wind regime?",
-    "authors": [
-      "Filip Elekes",
-      "Aline A. Vidotto"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Extending Exoplanet Radio-Magnetic Scaling to Sub-Alfvénic Stellar Winds: New Insights",
-    "tldr": "Scientists are testing whether the radio-magnetic scaling law, which predicts radio aurora from exoplanets, holds in the sub-Alfvénic regime of close-in planets. Early results suggest the law may need adjustment, opening a new window into star‑planet magnetic interactions.",
-    "significance": "Confirming radio emission from close‑in exoplanets would provide a direct method to measure their magnetic fields, crucial for understanding planetary habitability.",
-    "tags": [
-      "remote-sensing",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bbeed65edc15b7bd591d16316797cb66",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07700v1",
-    "arxiv_id": "2607.07700v1",
-    "title": "Coherent Signal Detection with Pruning -- I. Finding Short-Period Binary Pulsars in Circular Orbits",
-    "authors": [
-      "Pravir Kumar",
-      "Barak Zackay"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Efficient Coherent Signal Detection for Short-Period Binary Pulsars Using Pruning Techniques",
-    "tldr": "The paper introduces a pruning-based algorithm for coherent detection of pulsars in short-period binary orbits, significantly reducing computational cost. It demonstrates improved sensitivity over constant-acceleration searches while maintaining real-time feasibility.",
-    "significance": "This method enables deeper and faster searches for binary pulsars, opening new avenues for testing general relativity.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4cd40f5b937869e70ab3d2631e13ee4c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07699v1",
-    "arxiv_id": "2607.07699v1",
-    "title": "Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials",
-    "authors": [
-      "Victor K. de la Pena",
-      "Fangyuan Lin",
-      "Demissie Alemayehu"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "E-Process Approach to Control Winner's Curse in Dose-Ranging Trials",
-    "tldr": "This paper introduces an anytime-valid e-process framework that simultaneously addresses the winner's curse and multiplicity in Phase II dose-ranging trials. By testing the best true dose effect while allowing continuous monitoring, the method controls Type I error without sacrificing power.",
-    "significance": "It provides a statistically rigorous solution for unbiased inference in adaptive dose-finding studies, improving decision-making in early drug development.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "af36d1fc683cceaa71c20394ef0b623e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07697v1",
-    "arxiv_id": "2607.07697v1",
-    "title": "Induced Erdős--Pósa property for long holes, long thetas, and beyond",
-    "authors": [
-      "Jadwiga Czyżewska",
-      "Tomáš Masařík",
-      "Marcin Pilipczuk"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Induced Erdős–Pósa Property for Long Holes and Thetas in Graphs",
-    "tldr": "This paper establishes the induced Erdős–Pósa property for long cycles and long theta graphs as induced minors. It shows that the maximum number of pairwise anti‑adjacent copies of these structures is bounded by a function of the minimum hitting set size, extending classical results to induced settings.",
-    "significance": "It extends the Erdős–Pósa theory to induced subgraph containment, providing new insights into the structure of long cycles and theta graphs in sparse graphs.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ef21e72e50d150d759cb27ab29a8a269",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07696v1",
-    "arxiv_id": "2607.07696v1",
-    "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
-    "authors": [
-      "Victor Giannakouris",
-      "Immanuel Trummer"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Breaking Database Lock‑In: Agentic Storage Readers Bypass JDBC for High‑Performance Analytics",
-    "tldr": "Jailbreak bypasses traditional database drivers by directly reading storage files, enabling bulk columnar analytics without engine overhead. This approach unlocks high‑performance, low‑latency data access for analytical workloads.",
-    "significance": "It eliminates the performance bottleneck imposed by database drivers, allowing analytics engines to operate directly on storage, dramatically improving throughput and reducing costs.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6e3a37716dba67f106556205a4a8da7c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07695v1",
-    "arxiv_id": "2607.07695v1",
-    "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
-    "authors": [
-      "Yujiao Chen"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Institutional Red‑Teaming: Rules Shape Multi‑Agent AI Safety",
-    "tldr": "We propose institutional red‑teaming, a method that isolates deployment rules to assess their causal impact on multi‑agent AI behavior. Using IABench‑CA, we evaluate five canonical rules across 228 contexts with seven models.",
-    "significance": "This work demonstrates that deployment rules, not just models, fundamentally influence AI safety outcomes.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6bd4aed7b43ddc6c3ac63cef0ce660a9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07693v1",
-    "arxiv_id": "2607.07693v1",
-    "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
-    "authors": [
-      "Eric Zhu",
-      "Abhinav Shrivastava",
-      "Soumik Mukhopadhyay"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Efficient Diffusion RLHF via Selective Timestep Weighting and Advantage Replay",
-    "tldr": "The paper introduces a method that selectively weights diffusion timesteps and uses advantage-based replay to reduce the number of human or reward model queries needed for RLHF. Experiments show significant sample efficiency gains over prior diffusion RLHF approaches.",
-    "significance": "It makes aligning diffusion models with human preferences more practical by cutting feedback costs.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5af2013da407772d7f0e3a26b41dbc63",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07691v1",
-    "arxiv_id": "2607.07691v1",
-    "title": "Faster quantum linear system solver beyond the condition number",
-    "authors": [
-      "Alexander M. Dalzell",
-      "Jianqiang Li",
-      "Yuan Su"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Quantum Linear Solver Beats Condition Number Bottleneck",
-    "tldr": "Two new quantum algorithms solve Ax=b with runtime independent of the condition number, achieving accuracy ε with improved complexity over traditional methods. They dramatically reduce the resource overhead for typical problem instances.",
-    "significance": "This breakthrough lowers quantum resource demands for linear systems, bringing practical quantum advantage closer to reality.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
