@@ -1,5 +1,314 @@
 [
   {
+    "uid": "612cdb53935bc220284bdabb18824570",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13034v1",
+    "arxiv_id": "2607.13034v1",
+    "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+    "authors": [
+      "Junjie Yin",
+      "Xinyu Feng"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "AI Agents Lacking Complexity Awareness: A Call for Scope Estimation in LLM Workflows",
+    "tldr": "Large language model agents often over‑engage tasks, re‑reading data unnecessarily. Introducing task‑aware execution‑scope estimation can streamline workflows and reduce computational waste.",
+    "significance": "Understanding task complexity enables more efficient, scalable AI automation across engineering and informatics domains.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fbfd63491d414bd842b8ec6fb74f7ba3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13033v1",
+    "arxiv_id": "2607.13033v1",
+    "title": "DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation",
+    "authors": [
+      "Yu Fang",
+      "Wanxi Dong",
+      "Jiaqi Liu"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "DenseReward: Learning Dense Rewards by Synthesizing Failures for Robot Manipulation",
+    "tldr": "The paper introduces DenseReward, a method that generates synthetic failure data to train vision-language reward models that provide dense feedback for robotic manipulation tasks. It demonstrates that dense rewards improve sample efficiency and policy performance compared to sparse signals.",
+    "significance": "This work bridges the gap between sparse reinforcement learning and dense, fine-grained reward signals, enabling more efficient learning for complex manipulation tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40407589eb0c4b2dea5aa6fa395de6a5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13031v1",
+    "arxiv_id": "2607.13031v1",
+    "title": "The Seriality Gap in Video Diffusion Models",
+    "authors": [
+      "Jorge Diaz Chao",
+      "Konpat Preechakul",
+      "Yuxi Liu"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Seriality Gap: Video Diffusion Models Fail on Long Causal Chains in Multi-Ball Dynamics",
+    "tldr": "We show that standard bidirectional video diffusion struggles to predict outcomes when the causal chain lengthens, even with more denoising steps. A single-ball control without interactions confirms that the degradation is due to serial interactions, not model capacity.",
+    "significance": "This highlights a fundamental limitation of current diffusion-based video models for tasks requiring long-range temporal reasoning.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ea12d5f289a712bbd19642929edff8eb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13030v1",
+    "arxiv_id": "2607.13030v1",
+    "title": "On the Detectability of Volcanic Exo-Ios That May Fuel Auroras on Super-Jupiters",
+    "authors": [
+      "Brooke Kotten",
+      "Mary Anne Limbach",
+      "Johanna M. Vos"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Detecting Volcanic Exo-Ios: New Clues to Auroras on Super-Jupiters in Exoplanetary Systems",
+    "tldr": "Recent radio burst observations hint that volcanic moons around giant exoplanets could supply plasma for auroras. Detecting such exo-Ios would confirm a key mechanism powering these distant auroral storms.",
+    "significance": "Identifying volcanic exo-Ios would illuminate the origins of exoplanetary auroras and refine models of star–planet interactions.",
+    "tags": [
+      "remote-sensing",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "646c1d48cb821ddafa56194d577a3608",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13028v1",
+    "arxiv_id": "2607.13028v1",
+    "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+    "authors": [
+      "Zhouchonghao Wu",
+      "Akshay Rangesh",
+      "Weixin Li"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "TerraZero: Fast, Realistic Procedural Driving Simulator for Large‑Scale Autonomous Self‑Play",
+    "tldr": "TerraZero introduces a high‑speed procedural driving simulator built in C, enabling reinforcement learning agents to train at scale without relying on logged data. By grounding simulations in real‑world map structures and generating diverse scenarios, it addresses safety‑critical edge cases that traditional datasets miss.",
+    "significance": "TerraZero provides a scalable, realistic platform that bridges the gap between simulation fidelity and training efficiency for autonomous driving research.",
+    "tags": [
+      "urban-AI",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d07c0fb512d022d19fbb7a3bc0a7008a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13027v1",
+    "arxiv_id": "2607.13027v1",
+    "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+    "authors": [
+      "Hongru Cai",
+      "Yongqi Li",
+      "Ran Wei"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "PalmClaw Brings Native LLM Agent Framework to Mobile Phones for On-Device Automation",
+    "tldr": "PalmClaw introduces a lightweight, on-device LLM agent framework that can execute multi-step tasks using native mobile tools. It enables real-time, privacy-preserving automation directly on smartphones without server dependency.",
+    "significance": "By enabling LLM agents to run natively on mobile devices, PalmClaw expands AI capabilities to ubiquitous, data-rich environments while preserving user privacy.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "375f8e2b2bc486c9b05cc052dff49299",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13026v1",
+    "arxiv_id": "2607.13026v1",
+    "title": "Non-intrusive MEMS microphone sensing of acoustic field state in resonant acoustic levitators",
+    "authors": [
+      "Jan H. Dörsam",
+      "Maximilian L. Amberg",
+      "Sven Suppelt"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Non-Intrusive MEMS Microphone Sensing for Real-Time Acoustic Field Monitoring in Levitation Systems",
+    "tldr": "A MEMS microphone array can non-invasively measure the acoustic field inside resonant levitators, enabling closed-loop adjustment of transducer-reflector distance. This approach improves stability across temperature shifts, object insertion, and alignment errors.",
+    "significance": "Accurate, real-time acoustic field sensing is critical for reliable operation of compact levitation devices, reducing power consumption and enhancing precision.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2d3c010d055c0a11a05832be7d5905df",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13024v1",
+    "arxiv_id": "2607.13024v1",
+    "title": "Inclusive P-wave Quarkonium Decay Widths from Lattice QCD and pNRQCD",
+    "authors": [
+      "Nora Brambilla",
+      "Viljami Leino",
+      "Julian Mayer-Steudte"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Lattice QCD and pNRQCD Compute P-wave Quarkonium Decay Widths for Light Hadrons",
+    "tldr": "A new framework merges lattice QCD with strongly-coupled pNRQCD to calculate inclusive P-wave quarkonium decay widths into light hadrons. The method isolates nonperturbative effects to the derivative of the wavefunction, enabling precise predictions.",
+    "significance": "This advances first-principles predictions for heavy quarkonium decays, bridging lattice simulations and effective field theory.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b562086b174fda51863273aed54e6e33",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13023v1",
+    "arxiv_id": "2607.13023v1",
+    "title": "Simulating the convection in red super-giant stars: wobbling jets in common envelope evolution",
+    "authors": [
+      "Shlomi Hillel",
+      "Ron Schreier",
+      "Noam Soker"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Simulating Convection in Red Supergiants Reveals Wobbling Jets During Common Envelope Evolution",
+    "tldr": "Researchers built a 3‑D red supergiant model that mimics nuclear energy production and photospheric emission to study the stochastic angular momentum of mass accreted by a companion during common envelope evolution. The simulations show that the accreted mass can produce wobbling jets, offering new insights into binary interactions.",
+    "significance": "Understanding jet dynamics in common envelope evolution is crucial for predicting the outcomes of massive binary systems and their role as supernova progenitors.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c4c3a50f0f78bb286b26fffb146e41aa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13021v1",
+    "arxiv_id": "2607.13021v1",
+    "title": "Software Supply Chains are Dead: Use-Case-Oriented Regeneration",
+    "authors": [
+      "Tanmay Singla",
+      "James C. Davis"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Software Supply Chains Are Dead: Rethinking Dependencies with Generative AI",
+    "tldr": "Software supply chain attacks have made external dependencies costly, while generative AI reduces the need for them. This article proposes a use‑case‑oriented approach to regenerate software components locally.",
+    "significance": "It challenges the traditional build‑vs‑reuse paradigm, urging developers to adopt AI‑driven local implementation.",
+    "tags": [
+      "open-source",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "13468380a91e308de0367f426a1aba59",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13019v1",
+    "arxiv_id": "2607.13019v1",
+    "title": "Gamma-ray Modes in a Transitional Pulsar",
+    "authors": [
+      "Maksat Satybaldiev",
+      "Manuel Linares"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Gamma‑Ray Modes Revealed in Transitional Pulsar PSR J1023+0038",
+    "tldr": "Scientists discovered that the transitional millisecond pulsar PSR J1023+0038 emits distinct gamma‑ray signatures correlated with its X‑ray mode switching. By stacking Fermi‑LAT observations aligned with simultaneous X‑ray data, they revealed two separate gamma‑ray modes, confirming a link between accretion and rotation power.",
+    "significance": "This finding provides the first direct evidence that gamma‑ray emission in transitional pulsars is modulated by their accretion state, offering new insights into the interplay between accretion disks and magnetospheric processes.",
+    "tags": [
+      "time-series",
+      "satellite-imagery",
+      "remote-sensing"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9c3a529f7c6eba0c02e17abe5513ab8e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13018v1",
+    "arxiv_id": "2607.13018v1",
+    "title": "Antikick Relation in High-Energy Head-On Collisions of Spinning Black Holes",
+    "authors": [
+      "Carlos O. Lousto",
+      "James Healy",
+      "Alessandro Ciarfella"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Exploring Antikick Dynamics in Relativistic Head-On Collisions of Spinning Black Holes",
+    "tldr": "High-energy head-on collisions of spinning black holes produce extreme gravitational recoil and energy emission. The study reveals the antikick relation, linking recoil velocity to radiated energy and remnant spin.",
+    "significance": "This work deepens our understanding of gravitational wave signatures from ultra-relativistic black hole mergers.",
+    "tags": [
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "cf22b147a972ac035ac92f57f2755a6c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.13017v1",
+    "arxiv_id": "2607.13017v1",
+    "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
+    "authors": [
+      "Yixiang Chen",
+      "Peiyan Li",
+      "Yuan Xu"
+    ],
+    "published": "2026-07-14",
+    "curated_at": "2026-07-15",
+    "headline": "Optical Flow Drives World Action Models: A Unified Control Representation",
+    "tldr": "FlowWAM proposes using optical flow as a compact action representation that aligns with pretrained video generators, enabling accurate control in World Action Models. This approach overcomes limitations of numeric actions and facilitates real‑time, diffusion‑based action prediction.",
+    "significance": "By bridging action representation with video generation, FlowWAM unlocks efficient, high‑fidelity control for autonomous systems.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "1f8042646e94e5bcb63a49ae8c30848f",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.11886v1",
@@ -1110,313 +1419,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "056e6283a6608e7ad9eb0a4d50ff7316",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08771v1",
-    "arxiv_id": "2607.08771v1",
-    "title": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
-    "authors": [
-      "Fabio Tosi",
-      "Luca Bartolomei",
-      "Matteo Poggi"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "ZipDepth: Lightweight Zero‑Shot Monocular Depth for Any Device",
-    "tldr": "ZipDepth delivers foundation‑model quality depth estimation on embedded and mobile hardware by combining lightweight architecture with robust zero‑shot generalization. It outperforms existing single‑domain models and works across diverse scenes without retraining.",
-    "significance": "This work enables real‑time depth perception on resource‑constrained devices, opening new possibilities for mobile robotics, AR, and remote sensing.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a11f63a5bec1631cbb089a1e7289f48a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08770v1",
-    "arxiv_id": "2607.08770v1",
-    "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
-    "authors": [
-      "Cheng-De Fan",
-      "Chun-Wei Tuan Mu",
-      "Chen-Wei Chang"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "LongE2V: Using Video Diffusion Models for Long-Horizon Event-Based Video Reconstruction",
-    "tldr": "LongE2V fine-tunes pre-trained video diffusion priors to reconstruct, predict, and interpolate frames from sparse event streams, achieving high-quality results without the blur common in regression methods. The approach demonstrates stable long-term performance, surpassing existing generative models.",
-    "significance": "This work enables realistic, temporally coherent video generation from minimal event data, opening new possibilities for low-light and high-speed vision applications.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3bfcdd5e83c3a26cec527f349cc6b353",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08769v1",
-    "arxiv_id": "2607.08769v1",
-    "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
-    "authors": [
-      "Weijian Chen",
-      "Weibo Yao",
-      "Yuhang Zhang"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "Efficient 3D Reconstruction of Outdoor Scenes Using Panoramic Images and Gradient Partitioning",
-    "tldr": "This work introduces a geometry- and gradient-based partitioning method that enables scalable 3D Gaussian splatting for large outdoor scenes captured with 360° panoramic images. By replacing local camera frustum partitioning with a global visibility-aware scheme, the approach reduces data acquisition effort and computational cost while maintaining reconstruction quality.",
-    "significance": "It demonstrates that panoramic imagery can be leveraged for efficient, high-fidelity outdoor 3D reconstruction without the heavy computational overhead of traditional block-wise optimization.",
-    "tags": [
-      "remote-sensing",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "33d86e68ad1862985900362a97c1e3da",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08768v1",
-    "arxiv_id": "2607.08768v1",
-    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-    "authors": [
-      "Zhekai Chen",
-      "Chengqi Duan",
-      "Kaiyue Sun"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "UniClawBench: Universal Benchmark for Proactive Agents across Real-World Tasks and Environments",
-    "tldr": "UniClawBench introduces a comprehensive benchmark for evaluating proactive agents in realistic, multi-turn scenarios, moving beyond sandboxed, single-turn tests. It incorporates diverse real-world tasks to assess agents’ planning, execution, and adaptability.",
-    "significance": "By providing a realistic, multi-turn evaluation framework, UniClawBench enables more accurate assessment of proactive agents’ practical capabilities, guiding future model development.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0dc9fd2471940cc62d6b20f6e74ec161",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08767v1",
-    "arxiv_id": "2607.08767v1",
-    "title": "Plaquette: A hardware-aware design platform for fault-tolerant quantum computers",
-    "authors": [
-      "Raul Conchello Vendrell",
-      "Carlos Díaz López",
-      "Ish Dhand"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "Plaquette: Hardware-Aware Design Platform Accelerates Fault-Tolerant Quantum Computer Development for Real-World Noise",
-    "tldr": "Plaquette is a software platform that incorporates realistic hardware noise models to evaluate fault-tolerant quantum architectures. It enables designers to identify which imperfections to suppress and guides hardware teams toward more efficient, noise-aware quantum computer designs.",
-    "significance": "By bridging the gap between theoretical error models and actual device noise, Plaquette accelerates the development of scalable, fault-tolerant quantum processors.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "20f869f20a0a2a054b1df93a4f88a378",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08765v1",
-    "arxiv_id": "2607.08765v1",
-    "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
-    "authors": [
-      "Haoran Feng",
-      "Ruiyang Zhang",
-      "Longyi Zhang"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "Canvas360: Geometry-Aware Pretraining and 1M-Sample Dataset for High-Quality In-Context Panoramic Generation",
-    "tldr": "We propose Canvas360, a two-stage framework that first pretrains a diffusion model on a large 1M-pair panoramic dataset, then fine-tunes it for specific tasks such as style transfer and inpainting. The resulting model achieves state-of-the-art quality while enabling efficient in-context generation.",
-    "significance": "This work provides the first large-scale panoramic dataset and a geometry-aware pretraining strategy that dramatically improves the realism and versatility of in-context panoramic generation.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0ed825d7baaede30d357fc6c0c849b51",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08763v1",
-    "arxiv_id": "2607.08763v1",
-    "title": "OpenCoF: Learning to Reason Through Video Generation",
-    "authors": [
-      "Xinyan Chen",
-      "Ziyu Guo",
-      "Renrui Zhang"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "OpenCoF: Harnessing Video Generation for Temporal Reasoning in AI Models",
-    "tldr": "OpenCoF introduces Chain-of-Frame reasoning, enabling large models to derive logical conclusions through temporally linked video frames. By training on diverse video datasets, it expands reasoning beyond static text, offering a new paradigm for AI decision-making.",
-    "significance": "This approach bridges the gap between visual dynamics and logical inference, paving the way for more robust AI systems that can reason over time.",
-    "tags": [
-      "LLM",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3dc54544a775f93edf00ef3cb1495fa6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08761v1",
-    "arxiv_id": "2607.08761v1",
-    "title": "Irreducible Geometry of Higher-Order Correlator Families",
-    "authors": [
-      "Kaito Kobayashi"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "Unveiling the Geometry of High-Order Correlators in Programmable Quantum Simulators",
-    "tldr": "Programmable quantum simulators now measure complex many-body correlators, but interpreting them lacks a solid theoretical framework. This paper introduces a geometric perspective on higher-order correlator families, offering new tools for analysis.",
-    "significance": "By providing a geometric framework, the study bridges the gap between experimental data and theoretical understanding, enabling deeper insights into quantum dynamics.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9a6be3a1bc066ba2971d1d294344d415",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08759v1",
-    "arxiv_id": "2607.08759v1",
-    "title": "Measuring Consumption with Credit Card Data: Benchmarking and Beyond",
-    "authors": [
-      "Aditya Aladangady",
-      "Ricardo Duque Gabriel",
-      "Carlo Wix"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "Credit Card Spending Reveals County-Level Consumption Trends, Matching Traditional Measures",
-    "tldr": "We built a monthly county-level consumption dataset from 350M credit card transactions, covering 3,000+ U.S. counties since 2014. The data explain 92% of the variation in monthly PCE growth, offering a high-frequency benchmark for economic analysis.",
-    "significance": "This dataset provides a near real-time, high-resolution proxy for consumer spending, enabling more timely and granular economic insights.",
-    "tags": [
-      "benchmark",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "25943a7b2eda8d04a0082459993d45e0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08758v1",
-    "arxiv_id": "2607.08758v1",
-    "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-    "authors": [
-      "Yifan Zhou",
-      "Qihao Yang",
-      "Yan Li"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "IdeaGene-Bench: Measuring AI's Ability to Trace Scientific Lineage",
-    "tldr": "Scientific ideas build on prior work, but current AI benchmarks don't test this inheritance. IdeaGene-Bench evaluates whether language models can reason about scientific lineage and generate ideas grounded in that lineage.",
-    "significance": "This benchmark pushes AI research toward more biologically inspired, cumulative scientific discovery.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7a4dfed480edf606a11aad3676731cca",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08757v1",
-    "arxiv_id": "2607.08757v1",
-    "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
-    "authors": [
-      "Yiwei Zhou"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-10",
-    "headline": "Small Forward-Marginal Error Does Not Ensure Stable Diffusion Sampling in Reverse-Time",
-    "tldr": "The study shows that controlling average error under forward marginals does not guarantee numerical stability of reverse-time samplers. By constructing a smooth score field with arbitrarily small forward-marginal L² error, the authors demonstrate that the learned reverse-time process can remain nonexplosive yet still exhibit instability.",
-    "significance": "This work highlights the inadequacy of forward-marginal error as a sole metric for diffusion model stability, urging the development of more robust training and evaluation criteria.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4e9b52a9b2fc805f74997b57aa3ec56a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07708v1",
-    "arxiv_id": "2607.07708v1",
-    "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
-    "authors": [
-      "Chen Tang",
-      "Yizhou Wang",
-      "Jianyu Wu"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "Deep Native Structural Reasoning for Interdisciplinary Structure‑Property Insight",
-    "tldr": "This work introduces a framework that leverages large language models to interpret spatial, chemical, and periodic structural data, enabling mechanistic explanations across biology, chemistry, and materials science. By integrating stereochemistry, bonding, and symmetry, the approach offers transparent, data‑driven insights into function and reactivity.",
-    "significance": "It bridges fundamental science with AI, providing a scalable, interpretable tool for predicting material behavior and guiding experimental design.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a3aa106141029de2e75ec60dd90ec1bf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.07709v1",
-    "arxiv_id": "2607.07709v1",
-    "title": "The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies",
-    "authors": [
-      "Amruth Alfred",
-      "Shashpal Singh",
-      "Rommulus Francis Lewis"
-    ],
-    "published": "2026-07-08",
-    "curated_at": "2026-07-09",
-    "headline": "External Shear’s Hidden Influence: How Overestimated Shear Masks Gravitational Lensing Anomalies",
-    "tldr": "Gravitational lens models often overestimate external shear, which can conceal subtle lensing anomalies. This study shows that relying solely on image positions leads to biased shear estimates, masking the true mass distribution.",
-    "significance": "Accurate shear estimation is crucial for interpreting lensing data and probing dark matter substructure.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
