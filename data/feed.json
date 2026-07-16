@@ -1,5 +1,340 @@
 [
   {
+    "uid": "87bae5bcaf14f3a1fc67d2874e3273a1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14089v1",
+    "arxiv_id": "2607.14089v1",
+    "title": "Sail membranes for optomechanical accelerometry",
+    "authors": [
+      "Atkin D. Hyatt",
+      "Mitul Dey Chowdhury",
+      "Mahir Chowdhury"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Sail-Like Membrane Resonators Achieve Low Frequency and High Q-Mass for Optomechanical Accelerometry",
+    "tldr": "Bayesian optimization of Si3N4 membranes yields sail-shaped trampoline resonators that lower frequency while maintaining high Q-mass product. These designs promise improved sensitivity for optomechanical accelerometers.",
+    "significance": "This work enables more sensitive inertial sensors by combining low-frequency operation with high mechanical quality.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "00dc433e60fb3ce66e94be478b546ff3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14088v1",
+    "arxiv_id": "2607.14088v1",
+    "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+    "authors": [
+      "Zhihao Xie",
+      "Junfeng Wu",
+      "Xinting Hu"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "VideoRAE: Enhancing Video Generation with Representation Autoencoders",
+    "tldr": "VideoRAE bridges the gap between 3D-VAEs and Video Foundation Models by learning richer latent spaces that capture semantic and spatio-temporal structure. The approach improves generative performance while leveraging the strong video understanding of models like V-JEPA 2 and VideoMAEv2.",
+    "significance": "It enables more semantically coherent video generation by combining the strengths of autoencoders and foundation models.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dd582164b1fbbaf290af554feeb3bc1b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14086v1",
+    "arxiv_id": "2607.14086v1",
+    "title": "Leveraging unlabelled data for generalizable neural population decoding",
+    "authors": [
+      "Ximeng Mao",
+      "Nanda H. Krishna",
+      "Avery Hee-Woon Ryoo"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Unsupervised Pretraining Boosts Neural Decoding Across Sessions for Brain-Computer Interfaces",
+    "tldr": "This study introduces a self-supervised framework that leverages unlabeled spike data to pretrain neural decoders, achieving state‑of‑the‑art performance across multiple recording sessions. The approach enables generalizable, real‑time decoding without the need for extensive labeled datasets.",
+    "significance": "By unlocking the vast amounts of unlabeled neural recordings, the method dramatically improves decoder robustness and accelerates deployment of brain‑computer interfaces.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "44b250f90d3a219e5ef36ec5b41accf8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14085v1",
+    "arxiv_id": "2607.14085v1",
+    "title": "Benchmarking trigonometric continuous-variable gate primitives with trapped ions",
+    "authors": [
+      "Tommaso Rainaldi",
+      "Jake Montgomery",
+      "Christopher G. Yale"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Benchmarking Trigonometric CV Gate Primitives for Quantum Computing on Trapped Ions",
+    "tldr": "This study evaluates the performance of trigonometric continuous-variable gate primitives implemented on trapped-ion systems, comparing their fidelity and resource requirements against conventional gate sets. The results demonstrate that these periodic-function-based operations can achieve comparable or superior performance with reduced circuit depth, offering a promising direction for hybrid CV-discrete quantum processors.",
+    "significance": "The work establishes a benchmark for trigonometric CV gates, highlighting their potential to streamline hybrid quantum algorithms and accelerate the development of scalable quantum processors.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "17d1b43f3523e27b4d68b24ab8c5e31a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14084v1",
+    "arxiv_id": "2607.14084v1",
+    "title": "Investigating anomalous microwave emission near G107.2+5.20 in Ku-band with the Green Bank Telescope",
+    "authors": [
+      "Jordan E. Shroyer",
+      "Bradley R. Johnson",
+      "Dillon J. Bass"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Mapping Anomalous Microwave Emission Near G107.2+5.20 with the Green Bank Telescope",
+    "tldr": "The study uses the GBT Ku-band receiver to map 30 GHz-peaking anomalous microwave emission (AME) around G107.2+5.20, revealing how local environmental conditions shape the AME spectral energy distribution. These spatially resolved observations help constrain spinning dust models and improve our understanding of AME mechanisms.",
+    "significance": "By providing the first high-resolution AME map of this region, the work advances the characterization of spinning dust emission and its dependence on interstellar environments.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b19c019fa7c605c9a29024757096609d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14082v1",
+    "arxiv_id": "2607.14082v1",
+    "title": "Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256",
+    "authors": [
+      "Lei Zhang",
+      "Yusheng Zhao",
+      "Hongshun Yao"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Formalizing Shor’s Algorithm in Lean: Quantum Attacks on RSA-2048 and P‑256",
+    "tldr": "Large language models now aid formal theorem proving in Lean, enabling the construction of a fully verified Shor’s algorithm. The work demonstrates how agentic systems can search, reuse, and extend formal libraries to expose new quantum‑cryptanalysis results.",
+    "significance": "This research bridges AI‑assisted formal verification and quantum cryptanalysis, providing a reproducible, machine‑checked foundation for future quantum‑attack proofs.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4d545dc2dbc156e34d06828610356d3f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14081v1",
+    "arxiv_id": "2607.14081v1",
+    "title": "Linear Independent Component Analysis via Optimal Transport",
+    "authors": [
+      "Ashutosh Jha",
+      "Michel Besserve",
+      "Simon Buchholz"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Optimal Transport Enhances Linear ICA for Improved Signal Separation in Remote Sensing",
+    "tldr": "This study introduces an optimal transport framework for linear ICA, enabling more accurate recovery of independent source signals. By leveraging Wasserstein distance, the method outperforms traditional contrast functions in both synthetic and real-world remote sensing datasets.",
+    "significance": "It provides a scalable, theoretically grounded alternative to conventional ICA, potentially benefiting diverse applications from medical imaging to environmental monitoring.",
+    "tags": [
+      "time-series",
+      "remote-sensing",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3b617777e4c24d4130a1da4088c3db43",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14078v1",
+    "arxiv_id": "2607.14078v1",
+    "title": "A modular state-space model of human perception, cognition, and decision dynamics",
+    "authors": [
+      "Sven Schoonebeek",
+      "Anahita Jamshidnejad",
+      "Carlo Cenedese"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Modular State-Space Model Captures Human Perception, Cognition, Decision Dynamics",
+    "tldr": "This paper introduces a modular state-space framework that models human behavior as a perception‑cognition‑decision pipeline, enabling interpretable latent dynamics. The approach bridges black‑box predictors and psychologically grounded models, offering a mathematically analyzable tool for adaptive systems.",
+    "significance": "By providing transparent internal states, the model enhances the design of human‑centered adaptive systems and facilitates rigorous analysis of behavioral dynamics.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fbaefc4c58bc55dbafc4ab7be412abc4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14077v1",
+    "arxiv_id": "2607.14077v1",
+    "title": "Renormalizing a three-flavor lattice calculation of the two-photon contribution to $K_L\\toμ^+μ^-$",
+    "authors": [
+      "En-Hung Chao",
+      "Norman Christ",
+      "Ceran Hu"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Renormalizing Three-Flavor Lattice QCD to Compute Two-Photon Contribution in KL→μ⁺μ⁻",
+    "tldr": "The paper presents a renormalization scheme for a three-flavor lattice QCD calculation of the long-distance two-photon contribution to the rare decay KL→μ⁺μ⁻. By neglecting 1/mc² terms, the authors achieve a more accurate Standard Model prediction for this decay.",
+    "significance": "It refines the theoretical prediction of a key rare kaon decay, improving tests of the Standard Model and constraints on new physics.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b66d0fdc6f3bb66ee78c4ba67ca0120a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14076v1",
+    "arxiv_id": "2607.14076v1",
+    "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+    "authors": [
+      "Zhen Li",
+      "Zian Meng",
+      "Shuwei Shi"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Video Generative Models as Next-Gen Game Engines: From Pixels to Interactive States",
+    "tldr": "The paper explores how video generative models can predict future observations conditioned on player actions, offering a data-driven alternative to traditional game engines. It discusses challenges and opportunities in achieving coherent, real-time interactivity in virtual worlds.",
+    "significance": "It proposes a paradigm shift toward AI-driven game engines that can generate realistic, responsive environments without handcrafted assets.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ca39a95b55a6ac816f528623172bc85e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14075v1",
+    "arxiv_id": "2607.14075v1",
+    "title": "VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair",
+    "authors": [
+      "Jingyu Xiao",
+      "Zhongyi Zhang",
+      "Haoran Hou"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "VisualRepair: Leveraging Visual Cues for Automated Bug Fixing with LLMs",
+    "tldr": "VisualRepair introduces a dynamic tool‑calling framework that focuses on relevant regions of bug screenshots to guide large language models in generating accurate software fixes. By integrating multimodal inputs, it improves repair precision and reduces the need for manual debugging.",
+    "significance": "This approach bridges the gap between visual bug reports and automated repair, enabling more efficient and accurate fixes in GUI‑heavy applications.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c6012dd8fce529c44f8defd95f214116",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14074v1",
+    "arxiv_id": "2607.14074v1",
+    "title": "Quantum Transport and Apparent Work Function Distributions of Atomic Contacts via a 3D-Printed High-Vacuum Platform",
+    "authors": [
+      "G. Pellicer",
+      "C. Sabater"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Low-Cost 3D-Printed Vacuum Platform Enables Quantum Transport Measurements at Room Temperature",
+    "tldr": "We built a low-cost, 3D-printed high-vacuum platform that integrates a mechanically controllable break-junction and a custom logarithmic amplifier. Using copper, we resolved the 1G0 conductance quantum in both high vacuum and anhydrous glycerol, demonstrating the platform’s versatility.",
+    "significance": "This platform democratizes quantum transport experiments by providing a cost-effective, modular solution that works in diverse environments.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "755afe8c2576fcbc9ad2a1ef32b6549c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14073v1",
+    "arxiv_id": "2607.14073v1",
+    "title": "An exactly solvable macroscopic fluctuation theory of single-file diffusion",
+    "authors": [
+      "Sandeep Jangid",
+      "Soumyabrata Saha",
+      "Kapil Sharma"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "Exact Solution of Macroscopic Fluctuation Theory for Single-File Brownian Hard Rods",
+    "tldr": "The paper presents an exact solution to the macroscopic fluctuation theory of single-file diffusion modeled by Brownian hard rods. This breakthrough provides analytical expressions for density fluctuations and transport properties, offering a benchmark for future studies.",
+    "significance": "It resolves a long-standing challenge in statistical physics by delivering closed-form predictions for a class of interacting particle systems.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0fd0274b73776551da9dbf36cdebedc8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.14072v1",
+    "arxiv_id": "2607.14072v1",
+    "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
+    "authors": [
+      "Mustafa Chasmai",
+      "Vincent Dumoulin",
+      "Jenny Hamer"
+    ],
+    "published": "2026-07-15",
+    "curated_at": "2026-07-16",
+    "headline": "MetaPerch: Harnessing Metadata from Citizen Science Platforms to Boost Bioacoustic Foundation Models",
+    "tldr": "MetaPerch demonstrates that incorporating readily available recording metadata can significantly improve species detection in bioacoustic foundation models. By leveraging data from platforms such as Xeno‑Canto, the approach sets a new benchmark for performance while remaining open‑source.",
+    "significance": "This work unlocks untapped metadata to elevate bioacoustic models, offering a scalable, open‑source solution for ecological monitoring.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "612cdb53935bc220284bdabb18824570",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.13034v1",
@@ -1089,335 +1424,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "9631b63434cbde160d96bb1486f09c27",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08729v1",
-    "arxiv_id": "2607.08729v1",
-    "title": "WaspMOT: A Benchmark for Long-Term Multi-Object Tracking of Trichogramma Wasps",
-    "authors": [
-      "Tomasz Stanczyk",
-      "Yuan Gao",
-      "Hardik Agarwal"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "Introducing WaspMOT: A Long-Term Multi-Object Tracking Benchmark for Trichogramma Wasps",
-    "tldr": "WaspMOT provides a long-duration video dataset for tracking Trichogramma wasps, addressing the gap in identity preservation over extended periods. The benchmark enables evaluation of tracking algorithms in controlled ecological settings, encouraging development of robust long-term MOT methods.",
-    "significance": "By focusing on long-term identity tracking, WaspMOT pushes the field toward more reliable and persistent object tracking solutions.",
-    "tags": [
-      "benchmark",
-      "object-detection",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "74cee360ddb54595c5c2cbc499b33788",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08727v1",
-    "arxiv_id": "2607.08727v1",
-    "title": "Cataclysmic Variables Photometric Periods from TESS",
-    "authors": [
-      "S. O. Kepler",
-      "Alejandra Daniela Romero",
-      "Larissa Luciano Amorim"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "TESS Uncovers 1,362 Periodic Cataclysmic Variables in 1,557 Stars",
-    "tldr": "Using TESS data up to sector 102, researchers identified stable photometric periods in 1,362 cataclysmic variables, including eclipsing systems, polars, and intermediate polars. The study also presents the first period determinations for several previously uncharacterized objects.",
-    "significance": "This work expands the catalog of known periodic cataclysmic variables, providing a valuable resource for studying binary evolution and accretion physics.",
-    "tags": [
-      "time-series",
-      "satellite-imagery",
-      "remote-sensing"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "151e1091bfd42b14b6fab774b73f7d5c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08772v1",
-    "arxiv_id": "2607.08772v1",
-    "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
-    "authors": [
-      "Jiangwei Ren",
-      "Xingyu Jiang",
-      "Zijie Song"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "Wat3R: Semi-Supervised Underwater 3D Geometry Learning Without Annotations",
-    "tldr": "Wat3R introduces a cross-domain semi-supervised framework that learns 3D geometry from underwater imagery without dense annotations. By leveraging synthetic-to-real domain adaptation and self-supervised cues, it achieves accurate 3D reconstructions in challenging aquatic scenes.",
-    "significance": "This work enables scalable 3D mapping of underwater environments, overcoming the scarcity of annotated data and paving the way for autonomous marine exploration.",
-    "tags": [
-      "remote-sensing",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9acc076cebd870a3769949ccd6e03956",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08766v1",
-    "arxiv_id": "2607.08766v1",
-    "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
-    "authors": [
-      "Hongyu Liu",
-      "Chun Wang",
-      "Feng Gao"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "OPSD-V: On-Policy Self-Distillation Enhances Long-Horizon Video Generation",
-    "tldr": "OPSD-V introduces an on-policy self-distillation framework that refines few-step autoregressive video diffusion models after training, mitigating error accumulation over long sequences. The method preserves low-latency inference while significantly improving motion fidelity and reducing degradation in extended video rollouts.",
-    "significance": "It enables high-quality long videos from efficient few-step AR diffusion models, bridging the gap between speed and fidelity.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "631656e883c24a1dad2b821a5ea09b46",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08762v1",
-    "arxiv_id": "2607.08762v1",
-    "title": "Typicality of Steering for Two-qubit States",
-    "authors": [
-      "Gerard Anglès Munné",
-      "Paweł Cieśliński",
-      "Tamás Vértesi"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "Assessing Typicality of Quantum Steering in Two-Qubit States: A Statistical Exploration",
-    "tldr": "We investigate how often two-qubit states exhibit quantum steering by sampling random states and computing steering measures. The results reveal a high prevalence of steering, challenging assumptions about its rarity and informing resource theories.",
-    "significance": "This study quantifies steering typicality, providing insights for quantum communication protocols and foundational tests of nonlocality.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c8fa299854babf2abe5a683d50fda7f8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08760v1",
-    "arxiv_id": "2607.08760v1",
-    "title": "Hockey stick $f$-divergences",
-    "authors": [
-      "Fumio Hiai",
-      "Milán Mosonyi",
-      "Marco Tomamichel"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "Unified Treatment of Quantum Hockey Stick f-Divergences for Non-Normalized States",
-    "tldr": "This paper presents a systematic framework for quantum hockey stick f-divergences, extending previous results to non-normalized states. It also introduces new generalizations and provides unified proofs for key properties.",
-    "significance": "It advances the mathematical foundation of quantum information theory by providing a versatile divergence measure applicable to a broader class of quantum states.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ca3378489613f43ca6cf09febf952af5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08756v1",
-    "arxiv_id": "2607.08756v1",
-    "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
-    "authors": [
-      "Nathan Pruyne",
-      "Benjamin Stoler",
-      "William Chen"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "MulTTiPop: A 3.5-Hour Benchmark Dataset for Multitrack Pop Music Transcription",
-    "tldr": "MulTTiPop offers 572 pop music segments with multitrack MIDI annotations, covering 1930s-2000s genres. It enables evaluation of automatic music transcription models on diverse, real-world pop tracks.",
-    "significance": "The dataset provides a comprehensive, open-source benchmark for advancing automatic music transcription research.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3125d707f3bda13c416b7ff3305344e0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08754v1",
-    "arxiv_id": "2607.08754v1",
-    "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
-    "authors": [
-      "David González-Martínez",
-      "Shiwei Liu"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "SLORR: A Lightweight In-Training Low‑Rank Regularizer for Efficient Neural Network Compression",
-    "tldr": "SLORR introduces a simple low‑rank regularization technique that can be applied during training without costly SVDs or extra parameters. It achieves comparable compression rates to state‑of‑the‑art methods while maintaining model accuracy and enabling real‑time deployment.",
-    "significance": "SLORR offers a practical, low‑overhead solution for compressing modern neural networks, making them more deployable on resource‑constrained devices.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fe0a9ea97544e614406989ed8852f072",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08753v1",
-    "arxiv_id": "2607.08753v1",
-    "title": "Finding Simple Proofs for First-Order Optimization",
-    "authors": [
-      "Daniel Berg Thomsen",
-      "Manu Upadhyaya",
-      "Baptiste Goujaud"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "Towards Transparent, Reusable Proofs in First-Order Optimization: A New Approach",
-    "tldr": "This work proposes a method to generate simple, interpretable proofs for first-order optimization problems, replacing dense certificates with reusable structures. It leverages performance estimation techniques to produce transparent proofs that can be checked and reused by researchers.",
-    "significance": "It bridges the gap between automated proof certification and human-readable, reusable proof structures, advancing mathematical rigor in optimization.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ecfb3ca5c5d811ed7511a17f29b10e99",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08751v1",
-    "arxiv_id": "2607.08751v1",
-    "title": "DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation",
-    "authors": [
-      "Yunchao Yao",
-      "Zhuxiu Xu",
-      "Tianqi Zhang"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "DexVerse: Modular Benchmark Evaluating General-Purpose Dexterous Manipulation Across Tasks and Embodiments",
-    "tldr": "DexVerse introduces a modular benchmark that systematically tests dexterous manipulation policies across multiple tasks, sensory conditions, and robot embodiments. By providing diverse data and controllable visual variation, it enables robust cross-task and cross-embodiment evaluation, addressing gaps in current benchmarks.",
-    "significance": "DexVerse fills a critical gap by offering a comprehensive, open-source platform that facilitates the development and comparison of general-purpose dexterous manipulation policies.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "71639df95f229ae3c2e3aa2941e33cc0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08750v1",
-    "arxiv_id": "2607.08750v1",
-    "title": "Debris Disc Substructures Induced by Secular Planetary Perturbations",
-    "authors": [
-      "Roman R. Rafikov",
-      "Deniz Akansoy",
-      "Antranik A. Sefilian"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "Unveiling Planetary Influence on Debris Disc Structures Through Secular Perturbation Analysis",
-    "tldr": "We analyze how an inner planet's secular gravitational perturbations shape the azimuthally-averaged surface density of a debris disc. Our analytical framework predicts observable substructures that can reveal hidden planetary companions.",
-    "significance": "This work provides a new diagnostic tool for detecting unseen planets by interpreting disc substructures in astronomical observations.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e4358a004710fb7f637ce222695788e9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08749v1",
-    "arxiv_id": "2607.08749v1",
-    "title": "Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe",
-    "authors": [
-      "Rebecca L. Larson",
-      "Taylor A. Hutchison",
-      "Steven L. Finkelstein"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "JWST Deep Spectroscopy Reveals Typical Star-Forming Galaxy at z>10",
-    "tldr": "Using 19+ hours of NIRSpec G395M and MIRI/LRS data, astronomers confirm that a bright z>10 galaxy exhibits normal star formation rather than extreme activity. This challenges assumptions that all early bright galaxies are AGN-dominated.",
-    "significance": "The study shows that many early-universe galaxies may follow standard evolutionary paths, refining models of cosmic star formation.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3a19cea38ee1f3902ca62ab951c1d0e7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08748v1",
-    "arxiv_id": "2607.08748v1",
-    "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
-    "authors": [
-      "Kristina Schaaff",
-      "Quintus Stierstorfer",
-      "Valerie Heckel"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "Large-Scale Study Reveals How Students Use AI Learning Assistants Across Demographics",
-    "tldr": "This research analyzes log data from 77,543 distance-learning students to uncover usage patterns of the AI assistant Syntea. Findings show significant differences in engagement across gender, age, study cluster, degree, and mode, highlighting the need for tailored support.",
-    "significance": "The study provides the most comprehensive evidence to date on chatbot engagement in higher education, informing design and policy.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2f3ce8d745232ae1d52a7fb74ec6faa5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08746v1",
-    "arxiv_id": "2607.08746v1",
-    "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
-    "authors": [
-      "Duen Horng Chau",
-      "Donghao Ren",
-      "Fred Hohman"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-11",
-    "headline": "Uncovering Hidden Insights: Using UMAP's kNN Graph for Advanced Data Sensemaking",
-    "tldr": "UMAP's kNN graph holds rich manifold information before dimensionality reduction. By analyzing this graph, researchers can gain deeper insights into high-dimensional data structure.",
-    "significance": "This approach unlocks new analytical possibilities beyond traditional UMAP embeddings, enabling more accurate data interpretation.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
