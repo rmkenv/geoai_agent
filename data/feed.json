@@ -1,5 +1,235 @@
 [
   {
+    "uid": "d4446b2d5754997795eb525cfaead966",
+    "source": "web",
+    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
+    "arxiv_id": "",
+    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "2025 GeoAI Trends: Predictive Insights, Automation, and Climate Solutions for Cities and Global Challenges",
+    "tldr": "2025 saw GeoAI harnessing satellite imagery, LLMs, and real‑time analytics to forecast climate events and optimize urban planning. These advances enable faster decision‑making for disaster response, resource allocation, and sustainable development.",
+    "significance": "These trends empower governments and businesses to proactively address environmental risks and build resilient infrastructure.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "urban-AI",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
+    "arxiv_id": "",
+    "title": "Towards the next generation of Geospatial Artificial Intelligence",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "Charting the Future of GeoAI: Emerging Trends and Next-Gen Innovations",
+    "tldr": "GeoAI merges geospatial science with AI, rapidly evolving as a leading research frontier. The paper reviews recent breakthroughs and outlines future directions for the field.",
+    "significance": "Understanding GeoAI's trajectory is essential for harnessing AI to solve complex spatial challenges.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
+    "arxiv_id": "",
+    "title": "GeoAI | Geo Week News",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "AI Drives GeoAI Revolution: Automated Feature Extraction, Point Cloud Classification, and Predictive Geospatial Analytics",
+    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction and classifying point clouds, enabling faster, more accurate analysis. These advances unlock predictive insights across the entire data pipeline, from imagery to spatial datasets.",
+    "significance": "GeoAI's integration of AI models with large-scale geospatial data is accelerating decision-making in fields like urban planning, agriculture, and disaster response.",
+    "tags": [
+      "remote-sensing",
+      "LiDAR",
+      "point-cloud",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "779e0a05d5e0e30b6641ab27ced03d9b",
+    "source": "web",
+    "url": "https://events.ornl.gov/acmsigspatial-geoai2025/",
+    "arxiv_id": "",
+    "title": "ACMSIGSPATIAL-GEOAI 2025 - Conference Tagline",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "Transforming Geospatial Science with AI: Deep Learning, Multimodal Data, and Accelerated Architectures",
+    "tldr": "Artificial intelligence breakthroughs, coupled with hardware accelerators and advanced data processing, are reshaping geospatial information science. The conference explores deep learning techniques that automatically extract features from massive multimodal datasets, driving solutions for societal challenges.",
+    "significance": "This conference showcases how AI-driven methodologies are unlocking new insights and applications across geospatial domains, accelerating progress toward addressing global challenges.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
+    "source": "web",
+    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
+    "arxiv_id": "",
+    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "Top 5 GeoAI Trends to Watch in 2025: From Foundation Models to Real-Time Urban Insights",
+    "tldr": "GeoAI is rapidly evolving, and 2025 will see breakthroughs in foundation models, remote sensing, and real-time urban analytics. These trends promise smarter agriculture, flood forecasting, and autonomous logistics.",
+    "significance": "Understanding these trends equips planners, farmers, and defense analysts to leverage AI for smarter, data-driven decisions.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "urban-AI",
+      "crop-monitoring"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "762c83592693d584bfc0fba64f7899ac",
+    "source": "web",
+    "url": "https://github.com/mbzuai-oryx/ThinkGeo",
+    "arxiv_id": "",
+    "title": "GitHub - mbzuai-oryx/ThinkGeo: [CVPR 2026 ] ThinkGeo is a ...",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "ThinkGeo: Benchmarking LLMs on Complex Remote Sensing Tasks with Structured Reasoning",
+    "tldr": "ThinkGeo is a new benchmark that tests language model agents on remote sensing queries requiring step‑by‑step reasoning and tool use. It uses human‑curated satellite and aerial imagery questions across domains like disaster response, urban planning, and agriculture.",
+    "significance": "It provides a rigorous, real‑world evaluation of LLMs’ spatial reasoning and tool‑driven capabilities in remote sensing.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c372756dc3050e8979c1ab5331fba6b3",
+    "source": "web",
+    "url": "https://github.com/topics/remote-sensing",
+    "arxiv_id": "",
+    "title": "remote-sensing · GitHub Topics · GitHub",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "Remote Sensing Change Detection: Datasets, Tools, Methods, and Competitions Guide",
+    "tldr": "This repository compiles the latest datasets, tools, and research papers for detecting changes in remote sensing imagery. It also lists active competitions and provides a curated bibliography for researchers and practitioners.",
+    "significance": "It serves as a central hub for advancing remote sensing change detection research and applications.",
+    "tags": [
+      "remote-sensing",
+      "change-detection",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
+    "source": "web",
+    "url": "https://opengeoai.org/",
+    "arxiv_id": "",
+    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GeoAI",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "GeoAI: Bridging AI and Geospatial Analysis with an Intuitive Python Toolkit",
+    "tldr": "GeoAI is a Python package that integrates machine learning with geospatial data, enabling researchers to apply AI techniques to geographic datasets. Its user-friendly API simplifies tasks such as segmentation, object detection, and change detection across satellite imagery and point clouds.",
+    "significance": "GeoAI democratizes advanced AI methods for geospatial analysis, accelerating insights in fields from urban planning to environmental monitoring.",
+    "tags": [
+      "remote-sensing",
+      "segmentation",
+      "open-source",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "262174106d1c69cdeb67c0c3262e3e10",
+    "source": "web",
+    "url": "https://skytruth.org/",
+    "arxiv_id": "",
+    "title": "SkyTruth",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "SkyTruth: Open-Source Satellite Tools Reveal Hidden Human Impact on the Planet",
+    "tldr": "SkyTruth develops open-source software that analyzes satellite imagery to uncover environmental changes. Their advanced analytics expose hidden human activities, providing actionable insights for conservation.",
+    "significance": "By making powerful remote sensing tools freely available, SkyTruth empowers researchers and policymakers to detect and address environmental threats worldwide.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "change-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "57bbba71b7a72c67542b239374b0f3de",
+    "source": "web",
+    "url": "https://rastervision.io/",
+    "arxiv_id": "",
+    "title": "Raster Vision: An open-source machine learning library for deep ...",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "Raster Vision: Open-Source Deep Learning Toolkit Bridging GIS and Computer Vision",
+    "tldr": "Raster Vision is an open-source library that integrates GIS data with deep learning pipelines for tasks like chip classification, semantic segmentation, and object detection. It offers a configurable workflow, making it accessible for researchers and developers working on remote sensing imagery.",
+    "significance": "By unifying GIS and computer vision, Raster Vision accelerates the development of spatial AI solutions across agriculture, urban planning, and environmental monitoring.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "segmentation",
+      "object-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1785692639303012acc70ffb83d999f5",
+    "source": "web",
+    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
+    "arxiv_id": "",
+    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
+    "authors": [],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-17",
+    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Earth Observation Platform",
+    "tldr": "NASA has released Galileo, an open-source multimodal foundation model that processes satellite imagery, time series, and tabular data in a single architecture. Its tokenization pipeline splits remote sensing inputs into spatial patches, timesteps, and logical channel groups, enabling versatile Earth observation tasks.",
+    "significance": "Galileo democratizes advanced Earth observation analytics by providing a unified, open-source framework that can handle diverse data types, accelerating research and operational applications.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "87bae5bcaf14f3a1fc67d2874e3273a1",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.14089v1",
@@ -1162,267 +1392,6 @@
       "benchmark"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3d8e19bd2b2a24058630d6c493711c14",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09649v1",
-    "arxiv_id": "2607.09649v1",
-    "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
-    "authors": [
-      "Mohadeseh Mollapour",
-      "Koorosh Aslansefat",
-      "Zeinab Dehghani"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "ConceptSMILE: Auditing Trustworthiness of Concept-Based Explainable AI",
-    "tldr": "Concept-based explanations enhance model interpretability, yet their outputs can be unreliable. ConceptSMILE offers a model-agnostic, perturbation-based audit to assess and improve the reliability of these concept-level insights.",
-    "significance": "By providing a systematic audit framework, ConceptSMILE empowers practitioners to validate and trust concept-based explanations across diverse AI models.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7905e148f3cbc8010fbfa04e75f37dbf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08755v1",
-    "arxiv_id": "2607.08755v1",
-    "title": "DegenDetector: Symbolic Recovery of Parameter Degeneracies in Bayesian Posteriors",
-    "authors": [
-      "Chaipat Tirapongprasert",
-      "Matthew Ho"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "DegenDetector: Symbolic Identification of Parameter Degeneracies in Bayesian Posteriors",
-    "tldr": "DegenDetector automates the discovery of degenerate relationships in posterior distributions by combining mutual information screening with alternating symbolic regression, producing interpretable closed‑form equations. This framework eliminates the need for domain‑specific input, enabling researchers to uncover hidden parameter correlations efficiently.",
-    "significance": "It provides a systematic, interpretable method to detect and characterize degeneracies in Bayesian inference, improving model diagnostics and interpretability.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9c05e70069bbdd9c4730fd106d85851a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08752v1",
-    "arxiv_id": "2607.08752v1",
-    "title": "Phase-dependent kink collisions and dual critical-velocity branches in the complex sine-Gordon model",
-    "authors": [
-      "Mohammad Mohammadi",
-      "Farnaz Eizadbaksh",
-      "Vahideh Bagheri"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "Phase-Dependent Kink Collisions Reveal Dual Critical Velocities in Complex Sine-Gordon Model",
-    "tldr": "We numerically study collisions of complex kinks in the CSG model, showing that the final state depends on both initial velocity and relative phase. Unlike the real sine-Gordon case, the CSG system displays two distinct critical velocity branches leading to elastic or inelastic outcomes.",
-    "significance": "This work uncovers how internal phase degrees of freedom can fundamentally alter soliton interactions, providing new insights into integrable field theories.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3a805f3958a3d481173bf781baf08ddc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08745v1",
-    "arxiv_id": "2607.08745v1",
-    "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
-    "authors": [
-      "Siddharth Damodharan",
-      "Radhika Gupta",
-      "Ali Alshami"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "AUTOPILOT VQA: Benchmarking Vision‑Language Models for Incident‑Centric Dashcam Understanding in Autonomous Driving",
-    "tldr": "We introduce AUTOPILOT‑VQ, a benchmark that evaluates vision‑language models on safety‑critical dashcam scenarios. The dataset and evaluation protocol reveal gaps in current models’ reasoning about incidents, guiding future research.",
-    "significance": "This benchmark highlights the need for more robust multimodal reasoning in autonomous driving systems, driving progress toward safer vehicles.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "object-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2e8eb5e96b1463bada02b220a8933ba8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08741v1",
-    "arxiv_id": "2607.08741v1",
-    "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-    "authors": [
-      "Kaifeng Zhao",
-      "Mathis Petrovich",
-      "Haotian Zhang"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "ARDY: Real-Time Human Motion Generation via Autoregressive Diffusion and Hybrid Representation",
-    "tldr": "ARDY introduces a hybrid autoregressive diffusion model that generates realistic 3D human motions in real-time, balancing speed and control. It combines text and kinematic constraints with efficient inference, outperforming prior offline and online methods in interactive applications.",
-    "significance": "This work enables high-fidelity, controllable motion synthesis for animation, robotics, and simulation, bridging the gap between offline precision and online speed.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9b12960aa2c044772d021cb214ec3297",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08740v1",
-    "arxiv_id": "2607.08740v1",
-    "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
-    "authors": [
-      "Emanuele Quinto",
-      "Carlo Andrea Rozzi",
-      "Francesco Zanitti"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "Reimagining LLM Workflows: A Lisp-Inspired Model for Semantic Persistence and Knowledge Sharing",
-    "tldr": "This paper introduces a language-independent conceptual framework for LLM-mediated workflows, drawing on Lisp-inspired symbolic forms, object identity, and live-image thinking to model knowledge persistence. It argues that these abstractions can guide implementation without dictating specific technologies, enabling more robust, explainable, and reusable workflow systems.",
-    "significance": "By framing workflow as a persistent knowledge representation, the work offers a principled foundation for building more transparent and adaptable LLM-driven automation.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f28d9586f26611e62096aba18f21107a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08736v1",
-    "arxiv_id": "2607.08736v1",
-    "title": "Sculptable Mesh Structures for Room-Scale Form-Finding",
-    "authors": [
-      "Jesse T. Gonzalez",
-      "Yanzhen Zhang",
-      "Dian Zhu"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "From Paper to 3D: Sculptable Mesh Structures for Room-Scale Form-Finding",
-    "tldr": "Designers often rely on low-fidelity prototypes before finalizing a structure, but this process can be limited by screen-based design. Sculptable mesh structures enable rapid iteration in physical space, bridging the gap between digital concepts and real-world forms.",
-    "significance": "This approach accelerates the design cycle and improves the integration of aesthetic and functional requirements in built environments.",
-    "tags": [
-      "point-cloud",
-      "LiDAR",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "8fff31252172b6d422b0b4cec0ec5c53",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08735v1",
-    "arxiv_id": "2607.08735v1",
-    "title": "Learning Adaptive Solvers for Distributed Factor Graph Optimization on Matrix Lie Groups",
-    "authors": [
-      "Jaeho Shin",
-      "Maani Ghaffari",
-      "Yulun Tian"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "DeepCORD: Learning‑Augmented Distributed Factor Graph Optimization on Matrix Lie Groups",
-    "tldr": "DeepCORD introduces a learning‑augmented framework that enables robust, distributed factor graph optimization across general matrix Lie groups, eliminating brittle hand‑tuning. It extends beyond rigid‑body pose graphs, improving scalability for multi‑robot perception tasks.",
-    "significance": "By integrating deep learning with distributed optimization, DeepCORD offers a scalable, adaptable solution for complex geometric inference in robotics, overcoming limitations of traditional solvers.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8cf24990687332190155785d3a97b88f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08734v1",
-    "arxiv_id": "2607.08734v1",
-    "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
-    "authors": [
-      "Baha Rababah",
-      "Cuneyt Gurcan Akcora",
-      "Carson K. Leung"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "Quantization Misleads: New Metric Reveals Hidden LLM Behavior Changes",
-    "tldr": "Post‑training quantization is common for deploying large language models, but accuracy and perplexity miss key behavioral shifts. Introducing correctness agreement, a decision‑level metric, better captures overlap in correct predictions between a base model and its quantized counterpart.",
-    "significance": "This work highlights that conventional metrics can mask quantization‑induced behavior changes, offering a more reliable evaluation tool for deploying LLMs.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bd87b895afefb04d88611bab6cf7ebff",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08733v1",
-    "arxiv_id": "2607.08733v1",
-    "title": "Super Weights in LLMs and the Failure of Selective Training",
-    "authors": [
-      "Shreyas Subramanian",
-      "Adewale Akinfaderin",
-      "Akarsha Sehwag"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "Super Weights in LLMs: Pruning Degrades Performance, Yet Targeted Training Fails",
-    "tldr": "Recent research shows that removing a small set of critical parameters—Super Weights—can drastically reduce LLM performance, but surprisingly, training only these parameters does not improve the model. This suggests that the importance of Super Weights is context-dependent and that selective training strategies may not generalize across architectures.",
-    "significance": "This finding challenges the assumption that fine-tuning critical parameters alone can recover or enhance LLM capabilities, indicating a need for more holistic training approaches.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cf3c075b961402afff29a8a478194a43",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.08731v1",
-    "arxiv_id": "2607.08731v1",
-    "title": "Validity of LLMs as data annotators: AMALIA on authority",
-    "authors": [
-      "Manuel Pita"
-    ],
-    "published": "2026-07-09",
-    "curated_at": "2026-07-12",
-    "headline": "Portugal’s AMALIA Model Matches Human Coders on Moral Authority Classification",
-    "tldr": "Portugal’s publicly funded 9B-parameter AMALIA model demonstrates strong performance in coding the moral foundation of authority, matching trained human coders within six F1 points. Compared to larger open models, AMALIA shows competitive agreement despite being significantly smaller.",
-    "significance": "This shows that regionally tailored LLMs can achieve high annotation accuracy, enabling more precise linguistic and cultural analysis.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
