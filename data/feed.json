@@ -1,5 +1,315 @@
 [
   {
+    "uid": "22a90cb08a3482063c79db7d06f137f7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15278v1",
+    "arxiv_id": "2607.15278v1",
+    "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+    "authors": [
+      "Zezhong Qian",
+      "Xiaowei Chi",
+      "Chak-Wing Mak"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Hierarchical Denoising Enhances Multi-Step Visual Reasoning in Streaming Diffusion Models",
+    "tldr": "This work introduces a hierarchical denoising framework that balances efficient streaming inference with bidirectional global revision, enabling logical consistency in complex visual reasoning tasks. The method reduces inference latency while maintaining high-quality predictions, addressing key limitations of current diffusion-based video models.",
+    "significance": "It advances the capability of vision foundation models to perform human-like multi-step reasoning in real-time settings.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "real-time",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a0238312d3df69b50a0db0df4a127851",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15277v1",
+    "arxiv_id": "2607.15277v1",
+    "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+    "authors": [
+      "Patrik Wolf",
+      "Thomas Kleine Buening",
+      "Andreas Krause"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Ensuring Statistical Self-Consistency in Language Models: A Law of Total Probability Test",
+    "tldr": "This paper examines whether large language models treat prompts as conditional distributions by testing the law of total probability. The authors find that while models often approximate these identities, systematic deviations reveal limits of in‑context learning.",
+    "significance": "The study provides a principled framework for evaluating the probabilistic soundness of in‑context learning, guiding future model design.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "744ae5bb3209f35c12fe61c46182f63c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15276v1",
+    "arxiv_id": "2607.15276v1",
+    "title": "Locality of deep thermalisation through the lens of entanglement teleportation",
+    "authors": [
+      "Saptarshi Mandal",
+      "Alan Sherry",
+      "Sthitadhi Roy"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Locality of Deep Thermalisation Revealed via Entanglement Teleportation in Disconnected Subsystems",
+    "tldr": "The study shows that deep thermalisation can occur locally even when subsystems remain causally disconnected. This challenges the assumption that global measurements are necessary for universal state ensembles.",
+    "significance": "It provides new insights into how quantum information propagates and thermalises without requiring direct interaction, with implications for quantum computing and simulation.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "69766d9eb0da55af73627ec0f28889d8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15275v1",
+    "arxiv_id": "2607.15275v1",
+    "title": "RoboTTT: Context Scaling for Robot Policies",
+    "authors": [
+      "Yunfan Jiang",
+      "Yevgen Chebotar",
+      "Ruijie Zheng"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "RoboTTT: Scaling Robot Visuomotor Context to 8K Timesteps Without Latency",
+    "tldr": "RoboTTT extends robot foundation models by training policies that maintain an 8,000‑step visual history, three orders of magnitude longer than current systems, while keeping inference speed unchanged. This extended context unlocks one‑shot in‑context learning and other advanced capabilities.",
+    "significance": "By dramatically increasing context length without latency penalties, RoboTTT enables robots to perform complex, long‑horizon tasks that were previously infeasible.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c2e6974a9d9a2abf68c80589e5ad96e2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15273v1",
+    "arxiv_id": "2607.15273v1",
+    "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+    "authors": [
+      "Yushi Huang",
+      "Xiangxin Zhou",
+      "Jun Zhang"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "MeanFlowNFT: RL-Enhanced Fast Sampling for Diffusion Models",
+    "tldr": "MeanFlowNFT combines MeanFlow generators, which predict average velocities for rapid few-step sampling, with DiffusionNFT's forward-process reinforcement learning to align diffusion outputs with human preferences. The resulting framework achieves efficient, high-quality generation without the need for reverse diffusion steps.",
+    "significance": "It demonstrates a scalable, RL-driven approach to accelerate diffusion-based generation while maintaining alignment with user intent.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d3ddad0c5557e50627bb7c3caf17abbd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15272v1",
+    "arxiv_id": "2607.15272v1",
+    "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
+    "authors": [
+      "Yasheng Sun",
+      "Zezi Zeng",
+      "Yifan Yang"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Automating Scientific Figure Editing via Natural Language for Paper Revisions",
+    "tldr": "The paper introduces SciDiagramEdit, a system that learns to modify scientific diagrams based on natural language instructions derived from paper revision histories. It demonstrates that combining large language models with diffusion-based image editing can accurately relabel, rearrange, and restyle diagram components, streamlining the revision workflow.",
+    "significance": "By enabling automated, instruction-driven editing of dense scientific figures, SciDiagramEdit reduces manual effort and improves reproducibility in scientific publishing.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "76fade99935a42dfb83413ce77760dc6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15271v1",
+    "arxiv_id": "2607.15271v1",
+    "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+    "authors": [
+      "Baback Elmieh",
+      "Lynn Tsai",
+      "Zeman Li"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Real-Time Online Memory for Dynamic Novel View Synthesis from Streaming Videos",
+    "tldr": "This work introduces an online neural space-time memory system that updates via Test‑Time Training, enabling real‑time novel view synthesis from multi‑view video streams while preserving long‑horizon memory of occluded regions. The method balances memory persistence with strict real‑time constraints, offering a practical solution for dynamic scene reconstruction.",
+    "significance": "It demonstrates how Test‑Time Training can be leveraged for continuous, real‑time view synthesis, bridging the gap between memory‑rich reconstruction and low‑latency performance.",
+    "tags": [
+      "real-time",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b87675e6d7e822b7277555a93f81f03f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15268v1",
+    "arxiv_id": "2607.15268v1",
+    "title": "Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography",
+    "authors": [
+      "Guang Yang",
+      "Wentian Xu",
+      "Siyu Wang"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Motion‑Conditioned Multi‑View Fusion for Real‑Time Myocardial Infarction Localization in Echo",
+    "tldr": "This study introduces a motion‑conditioned multi‑view fusion framework that automatically localizes myocardial infarction regions in echocardiography, reducing the need for extensive manual annotations. The method leverages temporal dynamics and view‑specific features to achieve accurate, real‑time detection.",
+    "significance": "By enabling automated, annotation‑efficient MI localization, the approach could accelerate clinical decision‑making and improve patient outcomes.",
+    "tags": [
+      "time-series",
+      "segmentation",
+      "object-detection",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "62df72359bc8ac777bd7a954354c2089",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15267v1",
+    "arxiv_id": "2607.15267v1",
+    "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+    "authors": [
+      "Victoria Graf",
+      "Hannaneh Hajishirzi",
+      "Noah A. Smith"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Computational Propaganda Threatens LLMs: Poisoning Pretraining Data Across Multiple Large-Scale Corpora",
+    "tldr": "This study demonstrates how computational propaganda can poison large language model pretraining data, embedding harmful behaviors that are hard to detect. It highlights gaps in prior research that focused on limited sources like Wikipedia and shows the interplay between poisoned data and curation pipelines.",
+    "significance": "Understanding data poisoning in pretraining is crucial for safeguarding the integrity of future foundation models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7ad8315f24ec712af80320b8bc616193",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15266v1",
+    "arxiv_id": "2607.15266v1",
+    "title": "Tunable Mpemba effect in a polymer-bead system with inertia",
+    "authors": [
+      "Hosung Kwak",
+      "Yongjoo Baek",
+      "Hawoong Jeong"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Experimentally Motivated Model Controls Mpemba Effect via Inertia in Polymer-Bead Systems",
+    "tldr": "We present a model where a polymer bead’s denaturation plateau slows relaxation, allowing the Mpemba effect to be tuned by inertia. By preparing the system at higher temperature or weaker force, the bead gains kinetic energy, accelerating its cooling relative to a colder start.",
+    "significance": "This work demonstrates that inertia can be harnessed to control anomalous cooling, offering new insights into non-equilibrium thermodynamics and potential applications in smart material design.",
+    "tags": [
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f6ec56bf8e3559a3d75ceba73fcce8c9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15265v1",
+    "arxiv_id": "2607.15265v1",
+    "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+    "authors": [
+      "Mingfei Chen",
+      "Zijun Cui",
+      "Ruoke Zhang"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "SceneBind: Omni-Modal Representation Linking What and Where Across Vision, Audio, and Language",
+    "tldr": "SceneBind introduces an omni-modal framework that jointly models semantic content and 3D spatial structure across vision, audio, and language modalities. By representing scenes as semantic-spatial entities, it overcomes the limitations of prior encoders that focus solely on instance-level semantics.",
+    "significance": "It enables richer contextual understanding for multimodal AI, paving the way for more accurate scene interpretation and spatial reasoning.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "27751165982b368bcf608cfc3085003d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15264v1",
+    "arxiv_id": "2607.15264v1",
+    "title": "Products of simplices are canonically Ramsey",
+    "authors": [
+      "Benedict Randall Shaw"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Canonical Ramsey Property of Simplices",
+    "tldr": "The paper proves that products of simplices are canonically Ramsey, extending known results for triangles to higher-dimensional simplicial products.",
+    "significance": "It identifies a broad new family of geometric configurations that must appear either monochromatically or rainbowly under any finite coloring.",
+    "tags": [
+      "spatial-reasoning",
+      "point-cloud"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3b0537eb4b7fce2667c50dc8ffef2f22",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15263v1",
+    "arxiv_id": "2607.15263v1",
+    "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+    "authors": [
+      "Paul Kassianik",
+      "Blaine Nelson",
+      "Yaron Singer"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-18",
+    "headline": "Measuring Security Agents by Cost, Not Just Success: A New Evaluation Framework",
+    "tldr": "Traditional security agent benchmarks focus on peak success rates, ignoring resource consumption. We propose a cost-aware evaluation that accounts for reasoning steps, tool calls, and telemetry queries, providing a more realistic measure of operational performance.",
+    "significance": "This approach enables more accurate assessment of security agents for real-world deployment by balancing effectiveness with resource efficiency.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d4446b2d5754997795eb525cfaead966",
     "source": "web",
     "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
@@ -1086,312 +1396,6 @@
       "open-source"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "804c16b3051ee2d1432b6c11d7992ca3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11869v1",
-    "arxiv_id": "2607.11869v1",
-    "title": "Front propagation in hybrid reaction-diffusion epidemic models with spatial heterogeneity. Part II: Pulsating traveling waves",
-    "authors": [
-      "Quentin Griette",
-      "Hiroshi Matano"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Pulsating Traveling Waves in Hybrid Reaction-Diffusion Epidemic Models with Spatial Heterogeneity",
-    "tldr": "This study extends front propagation analysis to hybrid reaction-diffusion systems modeling wild and mutant pathogens in periodic environments. It demonstrates existence of pulsating traveling waves despite lack of comparison principle, offering new insights into epidemic spread in heterogeneous landscapes.",
-    "significance": "The work provides a rigorous framework for predicting wave-like disease propagation in spatially varied settings, crucial for effective intervention strategies.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4fa90221678cba969d29110851fd95d9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09663v1",
-    "arxiv_id": "2607.09663v1",
-    "title": "Phase-switchable nonreciprocal entanglement via magnon squeezing in ring-cavity optomagnomechanics",
-    "authors": [
-      "Z. Imara",
-      "A. El Allati",
-      "A. Belfakir"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "Switchable Nonreciprocal Entanglement via Phase-Controlled Magnon Squeezing in Ring Cavities",
-    "tldr": "The study proposes a theoretical scheme to generate tunable bipartite and tripartite entanglement in an optomagnomechanical ring cavity using phase-controlled magnon squeezing. This approach enables directional entanglement that can be switched on and off by adjusting the squeezing phase.",
-    "significance": "It offers a novel route to controllable quantum correlations in macroscopic systems, potentially advancing quantum information processing.",
-    "tags": [
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "749caf28a9e4a91486137f32c2420256",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09662v1",
-    "arxiv_id": "2607.09662v1",
-    "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
-    "authors": [
-      "Ren Takahashi",
-      "Emre Yusuf",
-      "Jayabrata Bhaduri"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "PHINN‑EEG: Using Persistent Homology for Dream‑State EEG Classification and Signal Synthesis",
-    "tldr": "PHINN‑EEG applies persistent homology to EEG time series, producing dynamic Betti curves that improve dream‑state classification beyond traditional PSD features. The method also enables topology‑conditioned neural synthesis of dream‑related signals.",
-    "significance": "It demonstrates that topological data analysis can surpass conventional spectral methods for EEG‑based dream detection, opening new avenues for brain‑computer interfaces.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3d48b720cda69cd5013fd53b3bf1664f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09661v1",
-    "arxiv_id": "2607.09661v1",
-    "title": "PanoWorld: Real-World Panoramic Generation",
-    "authors": [
-      "Haoyuan Li",
-      "Dizhe Zhang",
-      "Yuemei Zhou"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "PanoWorld: Enhancing Panoramic Generation with Rotation-Equivariant Long-Range Memory for Real-World Applications",
-    "tldr": "PanoWorld tackles the long-range memory problem in panoramic world models by leveraging rotation-equivariant omnidirectional representations, treating rotation as an implicit geometric transformation. By simplifying camera trajectories into translations with fixed headings, it enables more realistic and efficient panoramic generation.",
-    "significance": "This work provides a scalable solution for realistic panoramic generation, improving long-range memory handling in world models.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e53c909d18fc5256641f45c54b3383fb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09659v1",
-    "arxiv_id": "2607.09659v1",
-    "title": "Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks",
-    "authors": [
-      "Song Son Ha",
-      "Florian Foerster",
-      "Henry Beuster"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "How Connectivity Variations Affect ML Intrusion Detection in Encrypted OPC UA over Private 5G",
-    "tldr": "This study evaluates how benign connectivity changes in private 5G networks influence machine‑learning IDS performance on encrypted OPC UA traffic. Results show that even minor latency or packet loss variations can significantly degrade detection accuracy, highlighting the need for robust training under realistic network conditions.",
-    "significance": "Understanding these effects is crucial for deploying reliable security solutions in industrial 5G environments.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "404173442bd0b92f9421d93ee33f6843",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09658v1",
-    "arxiv_id": "2607.09658v1",
-    "title": "Identifying and characterizing extragalactic circum-CBC exoplanets with future gravitational-wave detectors",
-    "authors": [
-      "Avinash Tiwari",
-      "Aditya Vijaykumar",
-      "Shasvath J. Kapadia"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "Detecting Extragalactic Exoplanets Orbiting Compact Binary Coalescences with Future Gravitational-Wave Observatories",
-    "tldr": "We explore the feasibility of detecting exoplanets orbiting compact binary coalescences in other galaxies using next-generation gravitational-wave detectors. Our analysis suggests that such signatures could be discernible, opening a new window into exoplanet demographics beyond the Milky Way.",
-    "significance": "This study pioneers the use of gravitational-wave astronomy to probe exoplanet populations on extragalactic scales, potentially transforming our understanding of planet formation in diverse environments.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "70ee282714777e99cd9ab98dbf4c34b5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09657v1",
-    "arxiv_id": "2607.09657v1",
-    "title": "Scalable Visual Pretraining for Language Intelligence",
-    "authors": [
-      "Yiming Zhang",
-      "Zhonghan Zhao",
-      "Wenwei Zhang"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "Leveraging Visual Pretraining to Enhance Language Models and Unlock Rich Knowledge",
-    "tldr": "Large foundation models rely on text pretraining, missing visual signals like figures and equations. This paper proposes scalable visual pretraining to capture those cues and improve language intelligence.",
-    "significance": "By integrating visual context, the approach promises more comprehensive understanding and better performance on tasks requiring multimodal reasoning.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4becb6250625060edc417975b1922fe1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09656v1",
-    "arxiv_id": "2607.09656v1",
-    "title": "HD 148797: A bright F-type star with two moderate-period low-density sub-Jovian planets. Compact multi-planet architectures are common in the Neptunian savanna",
-    "authors": [
-      "J. M. Almenara",
-      "A. Castro-González",
-      "R. Mardling"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "HD 148797 Reveals Two Sub-Jovian Planets in Golden Mean Resonance",
-    "tldr": "We confirm two moderate-period sub-Jovian planets orbiting the bright F-type star HD 148797 using TESS and CHEOPS photometry. Their periods of 42.1 and 68.2 days place them near the golden mean ratio, hinting at resonant dynamics in a compact multi-planet system.",
-    "significance": "These findings provide a rare example of a compact, resonant architecture among sub-Jovian planets, offering insights into planetary formation and migration in the Neptunian savanna.",
-    "tags": [
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "a894112011f8b3db5502810d9d6f4449",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09655v1",
-    "arxiv_id": "2607.09655v1",
-    "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
-    "authors": [
-      "Lulin Liu",
-      "Nuo Chen",
-      "Yan Wang"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "OpenLongTail: Scaling Driving Policies Across Heterogeneous Sources with Generative Long-Tail Data",
-    "tldr": "OpenLongTail introduces a generative framework that augments scarce long-tail driving events by synthesizing realistic scenarios from diverse in-the-wild videos. This approach enables robust policy training with improved edge-case coverage while leveraging existing heterogeneous data sources.",
-    "significance": "By effectively scaling rare driving events, OpenLongTail advances the reliability of autonomous systems in unpredictable real-world conditions.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "24f8a5ac7b7c12f410f949a31b8ef9dc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09654v1",
-    "arxiv_id": "2607.09654v1",
-    "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
-    "authors": [
-      "Shravan Murlidaran",
-      "Miguel P. Eckstein"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "Decade of Vision‑Language Models: Accuracy Gains and Emerging Cognitive Errors",
-    "tldr": "Vision‑language models have improved dramatically, yet evaluations rely on simple scenes that miss complex social interactions. The new Complex Social Behavior dataset exposes error types and drives more realistic benchmarks.",
-    "significance": "This work highlights the gap between current benchmarks and real‑world social reasoning, guiding future VLM development.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9a759181e55e0b508a87ced635d1d006",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09653v1",
-    "arxiv_id": "2607.09653v1",
-    "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
-    "authors": [
-      "Katherine Swinea",
-      "Kshitiz Aryal",
-      "Lopamudra Praharaj"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "VEXAIoT: Autonomous IoT Vulnerability Exploitation with LLM Agents for Scalable Security Testing",
-    "tldr": "VEXAIoT introduces a framework that employs large language model agents to autonomously discover and exploit vulnerabilities in IoT devices, addressing the limitations of constrained hardware and outdated firmware. The system demonstrates scalable, adaptive testing capable of real‑time threat detection across diverse IoT deployments.",
-    "significance": "This work provides a scalable, AI-driven approach to IoT security, enabling rapid identification of critical weaknesses in large-scale deployments.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0a9a3af54490995dd74f225ec8e95f38",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09651v1",
-    "arxiv_id": "2607.09651v1",
-    "title": "Local Determinacy of Quantum Master Equations and a Mechanical Interpretation of the Multi-Mode Jaynes-Cummings and Central Spin Models",
-    "authors": [
-      "Jaeha Lee",
-      "Miku Ishizaki"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "Local Determinacy in Quantum Master Equations: A Mechanical View of Jaynes-Cummings Models",
-    "tldr": "The paper introduces a local formulation of open-system dynamics, showing that a quantum state's evolution depends only on its instantaneous state rather than its full history. It also provides a mechanical interpretation of multi-mode Jaynes-Cummings and central spin models, offering new insights into non-Markovian behavior.",
-    "significance": "This work challenges conventional non-Markovian theory by demonstrating that local state properties can fully determine evolution, potentially simplifying quantum control and simulation.",
-    "tags": [
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "93ef4d1437d0abaaeb05fe950a5b44c3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.09650v1",
-    "arxiv_id": "2607.09650v1",
-    "title": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
-    "authors": [
-      "Yangting Sun",
-      "Zijun Cui",
-      "Yufei Zhang"
-    ],
-    "published": "2026-07-10",
-    "curated_at": "2026-07-13",
-    "headline": "Improving Euler Angle Regression with Kolmogorov-Arnold Networks for Robotics and Biomechanics",
-    "tldr": "This paper revisits Euler angle regression, addressing discontinuities and singularities using Kolmogorov-Arnold networks. The proposed approach improves stability and accuracy in robotic and biomechanical applications.",
-    "significance": "It offers a robust solution for rotation estimation in systems where Euler angles are essential, enhancing performance in real-time robotics and biomechanics.",
-    "tags": [
-      "real-time",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
