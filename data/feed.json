@@ -1,5 +1,266 @@
 [
   {
+    "uid": "faf136b9271aea829a0457bf3c01c054",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15262v1",
+    "arxiv_id": "2607.15262v1",
+    "title": "Dynamic Entanglement Distribution for Multi-User and Multi-Protocol Quantum Networking",
+    "authors": [
+      "Rui Wang",
+      "Marcus J. Clark",
+      "Obada Alia"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "Dynamic Entanglement Distribution Enables Metropolitan-Scale Quantum Networking",
+    "tldr": "The study demonstrates a quantum reconfigurable optical add-drop multiplexer (q-ROADM) that dynamically routes polarization-entangled photon pairs to six users across a campus. This approach showcases scalable, multi-user quantum communication over existing fiber infrastructure.",
+    "significance": "It provides a practical, reconfigurable solution for expanding quantum networks to real-world metropolitan settings.",
+    "tags": [
+      "urban-AI",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f10054f8fbece1e48ad32ee33d74d417",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15261v1",
+    "arxiv_id": "2607.15261v1",
+    "title": "Relativistic time-commutative dynamics with $κ$-plane noncommutativity",
+    "authors": [
+      "Alessandro Moia",
+      "Stefano Stocchetti",
+      "Giovanni Amelino-Camelia"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "κ-Plane Noncommutativity in Relativistic Dynamics",
+    "tldr": "The paper investigates time‑commutative dynamics on a κ‑deformed plane, deriving modified relativistic equations and exploring their implications for quantum‑gravity phenomenology.",
+    "significance": "It provides a novel framework connecting noncommutative geometry to potentially observable relativistic effects.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "93c85db642e89ffab2e84acb2c5e73eb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15259v1",
+    "arxiv_id": "2607.15259v1",
+    "title": "Long-range and steady-state entanglement of driven-dissipative nitrogen vacancy centers using microwaves as a drive and synthetic antiferromagnet as a dissipator",
+    "authors": [
+      "Federico Garcia-Gaitan",
+      "Branislav K. Nikolic"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "Microwave-Driven NV Centers Achieve Long-Range Steady-State Entanglement via Synthetic Antiferromagnet",
+    "tldr": "Researchers demonstrate that microwaves can drive nitrogen-vacancy centers into a long-range, steady-state entangled configuration using a synthetic antiferromagnet as a dissipative environment. This approach offers a scalable pathway for solid-state quantum networks and sensing applications.",
+    "significance": "This work provides a practical route to stabilize entanglement between distant solid-state qubits, a key hurdle for quantum computing and high-precision sensing.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "50b896c07fe7a20552d2034ffa7e0bda",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15258v1",
+    "arxiv_id": "2607.15258v1",
+    "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+    "authors": [
+      "Arthur G. Bubolz",
+      "Abreu Quevedo",
+      "Giancarlo Lucca"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "Using Blockchain Data and Social Media to Classify Bitcoin Market Sentiment",
+    "tldr": "This study introduces a sentiment classifier that fuses on-chain activity, financial indicators, and social media posts to explain Bitcoin market emotions. Unlike price prediction models, it focuses on interpreting market sentiment rather than forecasting prices.",
+    "significance": "By linking blockchain transactions with public sentiment, the work offers a novel lens for understanding crypto market dynamics beyond price movements.",
+    "tags": [
+      "time-series",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "95e4247314f5da457034e194426300cb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15257v1",
+    "arxiv_id": "2607.15257v1",
+    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+    "authors": [
+      "Yuyao Zhang",
+      "Junjie Gao",
+      "Zhengxian Wu"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "SearchOS‑V1: Enhancing Robust Open‑Domain Agent Collaboration for Efficient Web Search",
+    "tldr": "SearchOS‑V1 introduces a framework that improves task tracking for web‑searching agents, preventing repetitive loops when evidence is scarce. By integrating multi‑agent coordination and adaptive search budgets, it achieves more efficient information retrieval in open‑domain settings.",
+    "significance": "This work addresses a critical bottleneck in large‑language‑model‑powered agents, enabling more reliable and resource‑efficient web search.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "db0ce23578efe41b44c98677bc37f64a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15255v1",
+    "arxiv_id": "2607.15255v1",
+    "title": "HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning",
+    "authors": [
+      "Pengcheng Zhou",
+      "Xuanyu Liu",
+      "Yanchen Yin"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "HoloGeo: Reducing Landmark Bias in Image Geo-Localization with Evidence-Driven Reasoning",
+    "tldr": "HoloGeo introduces quantitative metrics Bias Intensity and Bias Harmfulness to assess landmark bias in vision-language models for geo-localization. By incorporating evidence-driven reasoning, the approach significantly improves accuracy and reduces spurious correlations.",
+    "significance": "This work provides the first systematic framework to quantify and mitigate landmark bias, advancing reliable geo-localization for real-world applications.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b64ff6fb4e0ee9fa9844bdebedcd0c3e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15254v1",
+    "arxiv_id": "2607.15254v1",
+    "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
+    "authors": [
+      "Qiwei Li",
+      "Jorge Ortiz"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "Exploring Causal Effects in Urban Driving Data with teLLMe System",
+    "tldr": "Traffic agencies now have vast video-derived data but lack causal insights. teLLMe offers an exploratory framework to answer questions like how rain affects traffic density.",
+    "significance": "This approach enables data-driven policy decisions by revealing causal relationships in urban mobility.",
+    "tags": [
+      "urban-AI",
+      "time-series",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6ed61c7153841714e33b32b6afac3bb5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15253v1",
+    "arxiv_id": "2607.15253v1",
+    "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
+    "authors": [
+      "Debayan Mukhopadhyay",
+      "Utshab Kumar Ghosh",
+      "Shubham Chatterjee"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "Static Retrieval Scores Fail for Multi-Step Agentic Search in LLMs",
+    "tldr": "Traditional retrieval evaluation treats documents as static, but when an LLM acts as a search agent across multiple turns, the usefulness of a document changes. This study shows that static utility scores do not predict causal utility in multi-step search, highlighting the need for dynamic evaluation benchmarks.",
+    "significance": "The findings reveal that current retrieval benchmarks misrepresent document usefulness for agentic LLMs, urging the development of more realistic evaluation frameworks.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f7908c7f60283f2269beb598bbc260a2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15249v1",
+    "arxiv_id": "2607.15249v1",
+    "title": "Altermagnetic spin textures coupled to superconductors: Domain wall spin-triplet superconductivity and supercurrent-induced torques",
+    "authors": [
+      "Yasir Dar",
+      "Mathias S. Scheurer",
+      "Constantin Schrade"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "Altermagnetic Domain Walls Induce Spin-Triplet Superconductivity and Current-Driven Torques in Altermagnets",
+    "tldr": "We investigate how spatially varying altermagnetic textures affect Cooper pairing in s-wave superconductors, revealing that altermagnetism suppresses spin-singlet pairing and promotes local spin-triplet correlations near domain walls. These triplet states enable supercurrent-induced torques, offering a new route to manipulate magnetic textures via superconducting currents.",
+    "significance": "This work uncovers a novel mechanism for generating spin-triplet superconductivity and current-driven magnetic torques, potentially enabling low-dissipation spintronic devices.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c5752a486126b05d32fbc24d8da71279",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15246v1",
+    "arxiv_id": "2607.15246v1",
+    "title": "ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors",
+    "authors": [
+      "Christos Korgialas",
+      "Gabriel Lee Jun Rong",
+      "Dion Jia Xu Ho"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "ARMOR++: Transferable Adversarial Attacks Against Deepfake Detectors via Multi-Domain Primitives",
+    "tldr": "ARMOR++ demonstrates that adversarial perturbations crafted on convolutional surrogates can be transferred to transformer-based deepfake detectors, even under strict no-query constraints, by orchestrating a multi-domain primitive set that preserves semantic awareness. The approach reveals the fragility of current forensic cues and offers a benchmark for evaluating detector robustness.",
+    "significance": "This work exposes the vulnerability of state-of-the-art deepfake detectors and provides a transferable attack framework that can guide future defense research.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a34f4a79a5e4f16f3e5e29c8fd873956",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.15245v1",
+    "arxiv_id": "2607.15245v1",
+    "title": "When will T Coronae Borealis next erupt as a nova? Constraints from recurrence, orbital phase, and accretion-state evolution",
+    "authors": [
+      "Songpeng Pei",
+      "Xiaowan Zhang",
+      "Renzhi Su"
+    ],
+    "published": "2026-07-16",
+    "curated_at": "2026-07-19",
+    "headline": "Predicting T Coronae Borealis' Next Nova: Recurrence, Orbital Phase, and Accretion Dynamics",
+    "tldr": "Scientists combine historical eruption intervals, orbital timing, and recent accretion changes to estimate a 30% chance of T CrB erupting before 2026 July 11. The analysis refines the expected window for the next nova outburst.",
+    "significance": "This refined timing informs targeted monitoring and enhances understanding of recurrent nova mechanisms.",
+    "tags": [
+      "time-series",
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "22a90cb08a3482063c79db7d06f137f7",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.15278v1",
@@ -1132,268 +1393,6 @@
       "time-series",
       "satellite-imagery",
       "remote-sensing"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9c3a529f7c6eba0c02e17abe5513ab8e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13018v1",
-    "arxiv_id": "2607.13018v1",
-    "title": "Antikick Relation in High-Energy Head-On Collisions of Spinning Black Holes",
-    "authors": [
-      "Carlos O. Lousto",
-      "James Healy",
-      "Alessandro Ciarfella"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Exploring Antikick Dynamics in Relativistic Head-On Collisions of Spinning Black Holes",
-    "tldr": "High-energy head-on collisions of spinning black holes produce extreme gravitational recoil and energy emission. The study reveals the antikick relation, linking recoil velocity to radiated energy and remnant spin.",
-    "significance": "This work deepens our understanding of gravitational wave signatures from ultra-relativistic black hole mergers.",
-    "tags": [
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "cf22b147a972ac035ac92f57f2755a6c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13017v1",
-    "arxiv_id": "2607.13017v1",
-    "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
-    "authors": [
-      "Yixiang Chen",
-      "Peiyan Li",
-      "Yuan Xu"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Optical Flow Drives World Action Models: A Unified Control Representation",
-    "tldr": "FlowWAM proposes using optical flow as a compact action representation that aligns with pretrained video generators, enabling accurate control in World Action Models. This approach overcomes limitations of numeric actions and facilitates real‑time, diffusion‑based action prediction.",
-    "significance": "By bridging action representation with video generation, FlowWAM unlocks efficient, high‑fidelity control for autonomous systems.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1f8042646e94e5bcb63a49ae8c30848f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11886v1",
-    "arxiv_id": "2607.11886v1",
-    "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
-    "authors": [
-      "Runhui Huang",
-      "Qihui Zhang",
-      "Zhe Liu"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "SpectraReward: Using Pretrained MLLMs as Zero-Shot Reward Models for Text-to-Image Generation",
-    "tldr": "The authors introduce SpectraReward, a training-free reward function that leverages pretrained multimodal large language models (MLLMs) to evaluate text-to-image generation by checking if the original prompt can be recovered from the image. This approach turns any MLLM into a zero-shot reward model, simplifying reinforcement learning for image generation.",
-    "significance": "SpectraReward eliminates the need for task-specific reward training, enabling rapid deployment of MLLMs as evaluators for generative models and accelerating research in text-to-image generation.",
-    "tags": [
-      "LLM",
-      "diffusion-models",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "332ec765578c46ede565f296de5c537f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11885v1",
-    "arxiv_id": "2607.11885v1",
-    "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
-    "authors": [
-      "Daniel Garibi",
-      "Ronen Kamenetsky",
-      "Hadar Averbuch-Elor"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Fine-Grained Identity Tuning for Precise Facial Editing in Text-to-Image Models",
-    "tldr": "We introduce a method that fine-tunes latent representations to preserve identity while enabling precise edits. The approach improves facial editing accuracy over existing personalization techniques.",
-    "significance": "This technique enables high-fidelity, identity-preserving edits, advancing personalized image generation.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "02e3d168b3ac361528bd8bca878a9711",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11883v1",
-    "arxiv_id": "2607.11883v1",
-    "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
-    "authors": [
-      "Shikai Qiu",
-      "Marc Finzi",
-      "Yujia Zheng"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Requential Coding: Compressing Models with Self-Generated Data for Superior Generalization",
-    "tldr": "Requential coding introduces a method where models generate their own training data to produce compact representations, revealing underlying regularities that enable better generalization. This approach surpasses traditional parameter-based compression like quantization, offering a new benchmark for efficient foundation models.",
-    "significance": "By enabling models to compress themselves with self-generated data, this technique paves the way for more efficient, scalable AI systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "85d1ee5b1a58cab975d968fae455306e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11881v1",
-    "arxiv_id": "2607.11881v1",
-    "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-    "authors": [
-      "Gabrielle Kaili-May Liu",
-      "Areeb Gani",
-      "Jacqueline Lu"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Metacognition in LLMs: Foundations, Progress, and Future Opportunities",
-    "tldr": "Metacognition—self-awareness and reflection—is essential for advanced intelligence and is increasingly recognized as a key component of transparent AI. While large language models have advanced across many tasks, their capacity for genuine metacognitive behavior remains uncertain and ripe for research.",
-    "significance": "Understanding and enhancing metacognition in LLMs could unlock more reliable, explainable, and autonomous AI systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "60e32f8196be714f3d54823e2f9f67ca",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11878v1",
-    "arxiv_id": "2607.11878v1",
-    "title": "Optimal Parameter-Free First-Order Methods for Convex Optimization with Unknown Growth and Smoothness",
-    "authors": [
-      "Liwei Jiang",
-      "Ke Tang",
-      "Zhe Zhang"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Parameter-Free First-Order Convex Optimization: Adaptive Methods for Unknown Smoothness and Growth",
-    "tldr": "We introduce anytime, parameter-free bundle-level algorithms that automatically adapt to unknown smoothness and growth conditions in convex optimization. These methods achieve optimal oracle complexity for both smooth and nonsmooth problems without prior parameter tuning.",
-    "significance": "This work eliminates the need for prior knowledge of problem parameters, enabling efficient and robust optimization in practical settings.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "110fe08cbb8054e9ae1d2b8f60b8e8b6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11875v1",
-    "arxiv_id": "2607.11875v1",
-    "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
-    "authors": [
-      "Tiberiu Musat",
-      "Tiago Pimentel",
-      "Nicholas Zucchet"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Uncovering Invariant Dynamics in Transformers for Generalized Inductive Reasoning Across Tasks",
-    "tldr": "We propose a theoretical framework that explains how transformer models develop inductive reasoning capabilities across a broad class of synthetic tasks. By analyzing invariant learning dynamics, we unify in-context n-grams and multi-hop reasoning, offering insights into the mechanisms that enable generalization.",
-    "significance": "This work provides a principled understanding of how transformers acquire inductive reasoning, guiding future architecture and training design for more robust language models.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "367c19b75c75636cfe34c4fff1218d65",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11873v1",
-    "arxiv_id": "2607.11873v1",
-    "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
-    "authors": [
-      "Esteban U. Vega Barajas"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Durability Benchmark for Teaching-Feedback Classification Across Languages Using a Validated Protocol",
-    "tldr": "This study introduces a robust benchmark for classifying teaching-evaluation feedback by thematic category and sentiment across languages. The protocol, validated through intra-annotator reliability and cross-validation, demonstrates strong performance on a Spanish corpus using a frozen encoder.",
-    "significance": "It provides a reproducible framework for evaluating multilingual feedback classification models, enabling institutions to better interpret open-ended evaluations.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0dcf1975e0b9db65e01167991cddcefb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11871v1",
-    "arxiv_id": "2607.11871v1",
-    "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
-    "authors": [
-      "Zixiang Xu",
-      "Sixian Li",
-      "Huaxing Liu"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Uncovering Bias in LLM Judges: A Mechanistic Interpretability Study",
-    "tldr": "The paper demonstrates that biases in LLM-as-judge systems can be traced to hidden state representations, offering a new angle beyond input-output analysis. It presents three key findings across seven experiments, showing how representation-level insights can guide mitigation strategies.",
-    "significance": "It bridges the gap between behavioral bias detection and internal model mechanisms, enabling more targeted fairness interventions in large language models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a3d0e422708efccedd7a4f0c81975479",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.11870v1",
-    "arxiv_id": "2607.11870v1",
-    "title": "Electron Density of Ionized Gas Outflows: Insights from the MaNGA Survey",
-    "authors": [
-      "Andrew Weldon",
-      "Casey Papovich",
-      "Justin Spilker"
-    ],
-    "published": "2026-07-13",
-    "curated_at": "2026-07-14",
-    "headline": "Mapping Electron Density in Ionized Gas Outflows with MaNGA Survey",
-    "tldr": "Using MaNGA's spatially resolved spectroscopy, we detect broad Hα and [N II] emission indicative of ionized outflows in nearby star-forming galaxies. The study reveals electron density variations across outflow apertures, offering new insights into feedback processes.",
-    "significance": "This work provides the first systematic measurement of electron densities in galactic outflows, improving constraints on feedback models.",
-    "tags": [
-      "spatial-reasoning",
-      "remote-sensing",
-      "open-source"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
