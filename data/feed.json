@@ -1,5 +1,271 @@
 [
   {
+    "uid": "0cdc5092356f4d59e00b534db8343abf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16193v1",
+    "arxiv_id": "2607.16193v1",
+    "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+    "authors": [
+      "Like Liu",
+      "Zhengzheng Xu",
+      "Haitao He"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Dual-Cognition UAV Benchmark for Advanced Aerial Spatio-Temporal Reasoning with MLLMs",
+    "tldr": "We introduce a benchmark that jointly evaluates UAV-based multimodal LLMs on self-awareness and world understanding tasks. The dataset covers diverse aerial scenarios, enabling comprehensive spatio-temporal reasoning evaluation.",
+    "significance": "This benchmark bridges a gap in UAV AI by testing dual-cognition capabilities of MLLMs, fostering more robust aerial intelligence.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4a110814fb260fbaf65f552c782cc56b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16192v1",
+    "arxiv_id": "2607.16192v1",
+    "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
+    "authors": [
+      "Homanga Bharadhwaj",
+      "Yash Jangir"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Predicting Future 3D Scene Flow from Monocular Human-Object Interaction Videos",
+    "tldr": "MotionForesight repurposes existing video models to anticipate future 3D scene flow in human-object interactions. By analyzing short observed video clips, it predicts how objects will move, enabling more realistic physical reasoning.",
+    "significance": "This approach provides a scalable way to infer physical dynamics from ordinary videos, advancing autonomous understanding of object motion.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "737fdeeb09748065ce71d52d27110b0b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16191v1",
+    "arxiv_id": "2607.16191v1",
+    "title": "Cosmological Evidence for Dark Axion-Dark Baryon Interactions from Apparent Phantom Crossing",
+    "authors": [
+      "Justin Khoury",
+      "Meng-Xiang Lin",
+      "Mark Trodden"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Dark Axion–Dark Baryon Interaction Mimics Phantom Crossing in Cosmic Expansion",
+    "tldr": "Recent DESI BAO, CMB, and SNe Ia data suggest an apparent phantom-crossing behavior that can be explained by interactions between dark axions and dark baryons. This model provides a natural explanation for the observed expansion history without invoking exotic dark energy.",
+    "significance": "It offers a testable framework linking dark matter interactions to cosmological observations, potentially resolving tensions in the Hubble constant.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8f0df8b8dff27283e0af456edb3e5fe0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16189v1",
+    "arxiv_id": "2607.16189v1",
+    "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
+    "authors": [
+      "Ce Zhang",
+      "Ziyang Wang",
+      "Yulu Pan"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Self-Correcting Agents for Grounded Long-Video Question Answering via Tree-Structured Exploration",
+    "tldr": "The paper proposes a self-correcting agent that treats long-video QA as a tree search, enabling fine-to-coarse backtracking to refine evidence intervals. This approach improves localization accuracy and reduces search time compared to prior coarse-to-fine methods.",
+    "significance": "It introduces a novel backtracking primitive that significantly enhances evidence localization in long-video QA.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dab3f0a094f0cb838f0d0585b86bc161",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16184v1",
+    "arxiv_id": "2607.16184v1",
+    "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+    "authors": [
+      "Yuchen Yang",
+      "Yifan Zhao",
+      "Anisha Dasgupta"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "PagedWeight: Dynamic Quantization for Efficient MoE LLM Serving, Reducing GPU Memory Footprint",
+    "tldr": "PagedWeight dynamically quantizes MoE model weights during serving to balance GPU memory usage between weights and KV cache, enabling efficient inference in memory-constrained environments. The method improves throughput while maintaining accuracy, making MoE LLMs more practical for real-time applications.",
+    "significance": "By decoupling weight storage from KV cache, PagedWeight allows MoE LLMs to scale to larger contexts without exhausting GPU memory, a key bottleneck in deployment.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2d48a0104274e167a9e4959678a96237",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16183v1",
+    "arxiv_id": "2607.16183v1",
+    "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+    "authors": [
+      "Owen Lockwood",
+      "Jérémy Béjanin",
+      "Joost Bus"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Energy-Efficient Thermodynamic Computing Stack Using Langevin Dynamics for Fast ML Workloads",
+    "tldr": "We propose a thermodynamic computing stack that harnesses Langevin dynamics for energy-efficient, fast analog processing. This approach offers a scalable, differentiable framework for machine learning workloads with reduced energy and latency.",
+    "significance": "This blueprint demonstrates how physical stochastic processes can replace conventional digital computations, potentially transforming the energy profile of AI systems.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0043d7af81353072c24e6c921aca3712",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16181v1",
+    "arxiv_id": "2607.16181v1",
+    "title": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
+    "authors": [
+      "Harine Choi",
+      "Eun Hak Lee",
+      "Zhengzhong Tu"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Vision‑Language Assistant Generates Emotional Alerts for Risky Driving to Enhance Driver Safety",
+    "tldr": "The study presents KYA, a vision‑language pipeline that identifies risky driving maneuvers and produces emotionally resonant feedback to improve driver awareness. By incorporating affective responses, KYA offers a more user‑centric safety experience than conventional detection systems.",
+    "significance": "Integrating emotional feedback into driving risk detection bridges the gap between technical safety alerts and human drivers’ emotional states, potentially reducing accidents and enhancing user comfort.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7e2729d231169e1fb5cf450139bfafd3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16180v1",
+    "arxiv_id": "2607.16180v1",
+    "title": "A Dynamical Phase-Field Model for the Optical Properties of Ferroelectrics",
+    "authors": [
+      "Aiden Ross",
+      "Anya Frazer",
+      "Venkatraman Gopalan"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Dynamic Phase-Field Model Unveils Optical Behavior of Ferroelectric Photonic Devices",
+    "tldr": "Researchers present a dynamic phase-field model that links ferroelectric domain evolution to optical response, enabling predictive design of photonic devices. The model captures strong coupling between spontaneous polarization and refractive index, offering a new tool for engineering ferroelectric-based optics.",
+    "significance": "This work provides the first theoretical framework to predict how domain dynamics affect optical properties, accelerating the design of tunable photonic devices.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "45d05ecd9046e534fe5125ecbbc55ecd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16178v1",
+    "arxiv_id": "2607.16178v1",
+    "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
+    "authors": [
+      "Gabriel Samberg",
+      "YoonHaeng Hur",
+      "Yuehaw Khoo"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Cluster-Aware Matching via Laplacian Optimal Transport: Robust Region Alignment for Structured Point Clouds",
+    "tldr": "This paper introduces a Laplacian optimal transport framework that aligns point clouds by matching their underlying cluster structures rather than individual points. The method achieves robust region-to-region correspondence, improving performance on datasets with intrinsic cluster organization.",
+    "significance": "It provides a scalable, cluster-aware matching technique that enhances alignment accuracy for complex point cloud data, benefiting applications in remote sensing and 3D reconstruction.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "remote-sensing"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ec99d2d26044d47083f24599c7ba9132",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16177v1",
+    "arxiv_id": "2607.16177v1",
+    "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
+    "authors": [
+      "Matteo Tomasetto",
+      "Nicolò Botteghi",
+      "Gabriele Bruni"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Physics-Enhanced Reinforcement Learning Enables Real-Time Optimal Control of Complex Dynamical Systems",
+    "tldr": "This paper proposes integrating physics models into reinforcement learning to improve sample efficiency and enable real-time control of nonlinear dynamical systems. By leveraging domain knowledge, the method reduces the need for extensive environment interactions and achieves near-optimal performance with limited sensors and actuators.",
+    "significance": "It bridges the gap between data-driven RL and physics-based control, making RL viable for safety-critical real-time applications.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d713921452f65a0ce07d72aed187172d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.16176v1",
+    "arxiv_id": "2607.16176v1",
+    "title": "Quantum scanning synthetic optical holography",
+    "authors": [
+      "Josué R. León-Torres",
+      "Byron Caiza",
+      "Nadia Baumann"
+    ],
+    "published": "2026-07-17",
+    "curated_at": "2026-07-20",
+    "headline": "Quantum Scanning Synthetic Optical Holography Enhances Undetected-Light Imaging for High-Resolution Phase Mapping",
+    "tldr": "This study extends synthetic optical holography into the quantum regime, enabling quantitative phase imaging with undetected light. By integrating a controlled synthetic phase carrier into a scanning quantum imaging system, the authors achieve high-resolution, real-time holographic reconstruction.",
+    "significance": "It opens new avenues for quantum-enhanced imaging techniques with potential applications in microscopy and beyond.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "faf136b9271aea829a0457bf3c01c054",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.15262v1",
@@ -1133,268 +1399,6 @@
       "time-series"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "612cdb53935bc220284bdabb18824570",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13034v1",
-    "arxiv_id": "2607.13034v1",
-    "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
-    "authors": [
-      "Junjie Yin",
-      "Xinyu Feng"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "AI Agents Lacking Complexity Awareness: A Call for Scope Estimation in LLM Workflows",
-    "tldr": "Large language model agents often over‑engage tasks, re‑reading data unnecessarily. Introducing task‑aware execution‑scope estimation can streamline workflows and reduce computational waste.",
-    "significance": "Understanding task complexity enables more efficient, scalable AI automation across engineering and informatics domains.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fbfd63491d414bd842b8ec6fb74f7ba3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13033v1",
-    "arxiv_id": "2607.13033v1",
-    "title": "DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation",
-    "authors": [
-      "Yu Fang",
-      "Wanxi Dong",
-      "Jiaqi Liu"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "DenseReward: Learning Dense Rewards by Synthesizing Failures for Robot Manipulation",
-    "tldr": "The paper introduces DenseReward, a method that generates synthetic failure data to train vision-language reward models that provide dense feedback for robotic manipulation tasks. It demonstrates that dense rewards improve sample efficiency and policy performance compared to sparse signals.",
-    "significance": "This work bridges the gap between sparse reinforcement learning and dense, fine-grained reward signals, enabling more efficient learning for complex manipulation tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40407589eb0c4b2dea5aa6fa395de6a5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13031v1",
-    "arxiv_id": "2607.13031v1",
-    "title": "The Seriality Gap in Video Diffusion Models",
-    "authors": [
-      "Jorge Diaz Chao",
-      "Konpat Preechakul",
-      "Yuxi Liu"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Seriality Gap: Video Diffusion Models Fail on Long Causal Chains in Multi-Ball Dynamics",
-    "tldr": "We show that standard bidirectional video diffusion struggles to predict outcomes when the causal chain lengthens, even with more denoising steps. A single-ball control without interactions confirms that the degradation is due to serial interactions, not model capacity.",
-    "significance": "This highlights a fundamental limitation of current diffusion-based video models for tasks requiring long-range temporal reasoning.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ea12d5f289a712bbd19642929edff8eb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13030v1",
-    "arxiv_id": "2607.13030v1",
-    "title": "On the Detectability of Volcanic Exo-Ios That May Fuel Auroras on Super-Jupiters",
-    "authors": [
-      "Brooke Kotten",
-      "Mary Anne Limbach",
-      "Johanna M. Vos"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Detecting Volcanic Exo-Ios: New Clues to Auroras on Super-Jupiters in Exoplanetary Systems",
-    "tldr": "Recent radio burst observations hint that volcanic moons around giant exoplanets could supply plasma for auroras. Detecting such exo-Ios would confirm a key mechanism powering these distant auroral storms.",
-    "significance": "Identifying volcanic exo-Ios would illuminate the origins of exoplanetary auroras and refine models of star–planet interactions.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "646c1d48cb821ddafa56194d577a3608",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13028v1",
-    "arxiv_id": "2607.13028v1",
-    "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
-    "authors": [
-      "Zhouchonghao Wu",
-      "Akshay Rangesh",
-      "Weixin Li"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "TerraZero: Fast, Realistic Procedural Driving Simulator for Large‑Scale Autonomous Self‑Play",
-    "tldr": "TerraZero introduces a high‑speed procedural driving simulator built in C, enabling reinforcement learning agents to train at scale without relying on logged data. By grounding simulations in real‑world map structures and generating diverse scenarios, it addresses safety‑critical edge cases that traditional datasets miss.",
-    "significance": "TerraZero provides a scalable, realistic platform that bridges the gap between simulation fidelity and training efficiency for autonomous driving research.",
-    "tags": [
-      "urban-AI",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d07c0fb512d022d19fbb7a3bc0a7008a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13027v1",
-    "arxiv_id": "2607.13027v1",
-    "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-    "authors": [
-      "Hongru Cai",
-      "Yongqi Li",
-      "Ran Wei"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "PalmClaw Brings Native LLM Agent Framework to Mobile Phones for On-Device Automation",
-    "tldr": "PalmClaw introduces a lightweight, on-device LLM agent framework that can execute multi-step tasks using native mobile tools. It enables real-time, privacy-preserving automation directly on smartphones without server dependency.",
-    "significance": "By enabling LLM agents to run natively on mobile devices, PalmClaw expands AI capabilities to ubiquitous, data-rich environments while preserving user privacy.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "375f8e2b2bc486c9b05cc052dff49299",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13026v1",
-    "arxiv_id": "2607.13026v1",
-    "title": "Non-intrusive MEMS microphone sensing of acoustic field state in resonant acoustic levitators",
-    "authors": [
-      "Jan H. Dörsam",
-      "Maximilian L. Amberg",
-      "Sven Suppelt"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Non-Intrusive MEMS Microphone Sensing for Real-Time Acoustic Field Monitoring in Levitation Systems",
-    "tldr": "A MEMS microphone array can non-invasively measure the acoustic field inside resonant levitators, enabling closed-loop adjustment of transducer-reflector distance. This approach improves stability across temperature shifts, object insertion, and alignment errors.",
-    "significance": "Accurate, real-time acoustic field sensing is critical for reliable operation of compact levitation devices, reducing power consumption and enhancing precision.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2d3c010d055c0a11a05832be7d5905df",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13024v1",
-    "arxiv_id": "2607.13024v1",
-    "title": "Inclusive P-wave Quarkonium Decay Widths from Lattice QCD and pNRQCD",
-    "authors": [
-      "Nora Brambilla",
-      "Viljami Leino",
-      "Julian Mayer-Steudte"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Lattice QCD and pNRQCD Compute P-wave Quarkonium Decay Widths for Light Hadrons",
-    "tldr": "A new framework merges lattice QCD with strongly-coupled pNRQCD to calculate inclusive P-wave quarkonium decay widths into light hadrons. The method isolates nonperturbative effects to the derivative of the wavefunction, enabling precise predictions.",
-    "significance": "This advances first-principles predictions for heavy quarkonium decays, bridging lattice simulations and effective field theory.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b562086b174fda51863273aed54e6e33",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13023v1",
-    "arxiv_id": "2607.13023v1",
-    "title": "Simulating the convection in red super-giant stars: wobbling jets in common envelope evolution",
-    "authors": [
-      "Shlomi Hillel",
-      "Ron Schreier",
-      "Noam Soker"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Simulating Convection in Red Supergiants Reveals Wobbling Jets During Common Envelope Evolution",
-    "tldr": "Researchers built a 3‑D red supergiant model that mimics nuclear energy production and photospheric emission to study the stochastic angular momentum of mass accreted by a companion during common envelope evolution. The simulations show that the accreted mass can produce wobbling jets, offering new insights into binary interactions.",
-    "significance": "Understanding jet dynamics in common envelope evolution is crucial for predicting the outcomes of massive binary systems and their role as supernova progenitors.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c4c3a50f0f78bb286b26fffb146e41aa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13021v1",
-    "arxiv_id": "2607.13021v1",
-    "title": "Software Supply Chains are Dead: Use-Case-Oriented Regeneration",
-    "authors": [
-      "Tanmay Singla",
-      "James C. Davis"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Software Supply Chains Are Dead: Rethinking Dependencies with Generative AI",
-    "tldr": "Software supply chain attacks have made external dependencies costly, while generative AI reduces the need for them. This article proposes a use‑case‑oriented approach to regenerate software components locally.",
-    "significance": "It challenges the traditional build‑vs‑reuse paradigm, urging developers to adopt AI‑driven local implementation.",
-    "tags": [
-      "open-source",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "13468380a91e308de0367f426a1aba59",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.13019v1",
-    "arxiv_id": "2607.13019v1",
-    "title": "Gamma-ray Modes in a Transitional Pulsar",
-    "authors": [
-      "Maksat Satybaldiev",
-      "Manuel Linares"
-    ],
-    "published": "2026-07-14",
-    "curated_at": "2026-07-15",
-    "headline": "Gamma‑Ray Modes Revealed in Transitional Pulsar PSR J1023+0038",
-    "tldr": "Scientists discovered that the transitional millisecond pulsar PSR J1023+0038 emits distinct gamma‑ray signatures correlated with its X‑ray mode switching. By stacking Fermi‑LAT observations aligned with simultaneous X‑ray data, they revealed two separate gamma‑ray modes, confirming a link between accretion and rotation power.",
-    "significance": "This finding provides the first direct evidence that gamma‑ray emission in transitional pulsars is modulated by their accretion state, offering new insights into the interplay between accretion disks and magnetospheric processes.",
-    "tags": [
-      "time-series",
-      "satellite-imagery",
-      "remote-sensing"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
