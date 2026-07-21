@@ -1,5 +1,286 @@
 [
   {
+    "uid": "8a964611394adec6d870faac6c55a6e7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18237v1",
+    "arxiv_id": "2607.18237v1",
+    "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+    "authors": [
+      "Sheng-Yu Wang",
+      "Yotam Nitzan",
+      "Aaron Hertzmann"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "Contextual Visual Similarity: Text-Prompted Perceptual Metric for Human-Driven Dataset",
+    "tldr": "We present a dataset of human similarity judgments on image triplets that captures context-dependent aspects like shape and color. Our text-prompted metric learns to condition similarity on specific attributes, offering a nuanced alternative to scalar metrics.",
+    "significance": "This work enables more precise perceptual modeling by allowing similarity to be tailored to desired visual attributes.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f4befbbff151bc45cc8a79effd0f8f95",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18236v1",
+    "arxiv_id": "2607.18236v1",
+    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+    "authors": [
+      "Gaoyue Zhou",
+      "Zichen Jeff Cui",
+      "Ada Langford"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "Vision Transformers Enable Efficient, Fine‑Grained Robot Control with Dense Visual Representations",
+    "tldr": "The authors propose a patch policy that directly uses dense visual embeddings from pretrained Vision Transformers, avoiding costly global token compression. This approach retains fine‑grained spatial information and achieves efficient, real‑time robot control.",
+    "significance": "It demonstrates that large‑scale visual pretraining can be harnessed for embodied tasks without sacrificing spatial detail, improving policy efficiency.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "real-time",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "11caf7dd06e0893a718b0b43fcd892ee",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18235v1",
+    "arxiv_id": "2607.18235v1",
+    "title": "Automated Discovery Has No Universally Superior Harness",
+    "authors": [
+      "Akshat Gupta",
+      "Jermaine Lei",
+      "Alexander Lu"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "No One-Size-Fits-All: Automated Discovery Systems Lack a Superior Universal Harness",
+    "tldr": "Autonomous discovery platforms like OpenEvolve and TTT-Discover bundle multiple design choices into single recipes. Due to high cost and stochasticity, current harnesses are rarely compared comprehensively, underscoring the need for modular, benchmark-driven evaluation.",
+    "significance": "This work reveals that the absence of a universally superior harness hampers reproducibility and progress in automated discovery research.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e39263be18d546c6a3944304dfa1f6f1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18234v1",
+    "arxiv_id": "2607.18234v1",
+    "title": "Cosmological consequences of a dynamical dark matter in the light of DESI DR2 measurements",
+    "authors": [
+      "Abhijith Ajith",
+      "Utkarsh Kumar"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "DESI DR2 Supports Dynamical Dark Matter Over Phantom Dark Energy",
+    "tldr": "DESI DR2 data shows a preference for a null energy condition violating dynamical dark energy, but this study proposes that the signal could instead arise from unconventional dark matter dynamics. A dynamical dark matter model with a smoothly interpolating equation of state provides an alternative explanation for the observed cosmological signatures.",
+    "significance": "This work challenges the prevailing interpretation of DESI data, suggesting that dark matter dynamics may play a pivotal role in shaping cosmic acceleration.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "460827c81c489fb07144b9e63b32326a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18233v1",
+    "arxiv_id": "2607.18233v1",
+    "title": "Theoretical uncertainties in reconstructing model parameters with gravitational waves from supercooled phase transitions",
+    "authors": [
+      "Maciej Kierkla",
+      "Marek Lewicki",
+      "Philipp Schicho"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "Uncertainties in Gravitational-Wave Reconstruction of Supercooled Phase Transition Models for Future Detectors",
+    "tldr": "Future gravitational-wave detectors could observe signals from cosmological first-order phase transitions. This study quantifies theoretical uncertainties in mapping such signals back to particle-physics parameters in classically scale-invariant models.",
+    "significance": "Understanding these uncertainties is crucial for interpreting future GW observations as probes of beyond-Standard-Model physics.",
+    "tags": [
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6c970b9f1f123da7de8a0f0c8c0f29e6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18232v1",
+    "arxiv_id": "2607.18232v1",
+    "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+    "authors": [
+      "Kevin Du",
+      "Clara Kümpel",
+      "Michelle Wastl"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "Evaluating How LLMs Handle Users’ Expressions of Belief",
+    "tldr": "The study examines how large language models respond to varied linguistic expressions of belief, determining when they should accept user-provided context versus relying on prior knowledge. It highlights the impact of linguistic cues such as presuppositions, evidential markers, and tone on model behavior.",
+    "significance": "Understanding LLMs’ handling of belief expressions informs safer, more context-aware AI interactions.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "37c64ad5de23f66a84f194c5826a0715",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18230v1",
+    "arxiv_id": "2607.18230v1",
+    "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+    "authors": [
+      "Yi Tang",
+      "Xinyi Shang",
+      "Jiacheng Cui"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "Domain Generalization Boosts Pixel-Level Tampering Detection in Modern Vision‑Language Models",
+    "tldr": "This study introduces a simple domain generalization technique that enhances pixel‑level tampering detection across various VLMs, including ChatGPT, Gemini, and Qwen‑Image. The method demonstrates robust performance under cross‑model and out‑of‑distribution shifts, offering a scalable solution for secure image analysis.",
+    "significance": "It provides a practical approach to improve the reliability of VLMs in detecting subtle image manipulations, addressing a critical security gap.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e03a54503fdced970e4f19571d60250a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18228v1",
+    "arxiv_id": "2607.18228v1",
+    "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+    "authors": [
+      "Brian K Chen"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "Soft Prefixes Probe Syllogistic Reasoning in Large Language Models and Benchmarking",
+    "tldr": "We prepend opaque soft prefixes to a syllogistic reasoning benchmark to see how learned context affects logical judgments. The study reveals which prefixes improve accuracy and how they influence model behavior across logical variations.",
+    "significance": "This work uncovers how contextual embeddings can steer reasoning in LLMs, informing better prompt design.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d54cff143c60f090601c206636221ec6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18227v1",
+    "arxiv_id": "2607.18227v1",
+    "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+    "authors": [
+      "Dingyun Zhang",
+      "Lixue Gong",
+      "Wei Liu"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "FlowMimic: Mask-Free Visual Editing and Generation via Pixel-Pair Warped Flow for Online Video",
+    "tldr": "FlowMimic introduces a single model that simultaneously edits and generates video and image content without requiring object masks. By leveraging pixel-pair warped flow fields, it streamlines data generation for online video editing and enables modality mimicry, reducing labor-intensive annotation.",
+    "significance": "This approach eliminates the need for costly mask annotations, accelerating the creation of high-quality, editable video datasets and advancing real-time visual content manipulation.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a5c97e161821916865a6d691affdc520",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18226v1",
+    "arxiv_id": "2607.18226v1",
+    "title": "Causal Discovery on Irregular Time Series",
+    "authors": [
+      "Martim Penim",
+      "Ricardo Ribeiro Pereira",
+      "Jacopo Bono"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "Discovering Causality in Irregularly Sampled Time Series Streams Using Extended PCM",
+    "tldr": "This paper extends PCM to handle irregularly sampled time series, enabling causal discovery in real-world streams like healthcare and finance. The method outperforms traditional lag-based approaches on irregular data and offers real-time applicability.",
+    "significance": "It bridges the gap between causal inference and irregular time series, broadening applicability to many domains.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ee18c10a7cbb5f77059ce15dcb1c0110",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18225v1",
+    "arxiv_id": "2607.18225v1",
+    "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+    "authors": [
+      "Masahiro Kato",
+      "Taka Kato"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "Vector Search for Policy Learning: RAG-Based Nearest Neighbor Matching in Causal Inference",
+    "tldr": "This paper introduces one- and two-step methods that use retrieval-augmented generation (RAG) for policy learning under the potential outcome framework. By performing vector search to retrieve action-specific evidence and then estimating conditional outcomes with a generator, the approach selects actions via a plug‑in rule.",
+    "significance": "It demonstrates how vector search and LLMs can be combined to improve causal policy estimation, offering a scalable alternative to traditional methods.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9791249debff32412cbcf104707bf2c8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.18222v1",
+    "arxiv_id": "2607.18222v1",
+    "title": "HyperIso: A general BSM calculator for flavour observables",
+    "authors": [
+      "T. Reymermier",
+      "N. Fardeau",
+      "F. Mahmoudi"
+    ],
+    "published": "2026-07-20",
+    "curated_at": "2026-07-21",
+    "headline": "HyperIso: Standalone Modular C++ Tool for BSM Flavour Physics Calculations",
+    "tldr": "HyperIso is a new standalone program that evaluates flavour physics observables in both SM and BSM scenarios. Built on SuperIso heritage, it offers a modern C++ core with modular design and multiple user interfaces.",
+    "significance": "It provides researchers with a flexible, open-source tool to efficiently compute flavour observables across diverse BSM models.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "0cdc5092356f4d59e00b534db8343abf",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.16193v1",
@@ -1112,293 +1393,6 @@
       "spatial-reasoning"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dd582164b1fbbaf290af554feeb3bc1b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14086v1",
-    "arxiv_id": "2607.14086v1",
-    "title": "Leveraging unlabelled data for generalizable neural population decoding",
-    "authors": [
-      "Ximeng Mao",
-      "Nanda H. Krishna",
-      "Avery Hee-Woon Ryoo"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Unsupervised Pretraining Boosts Neural Decoding Across Sessions for Brain-Computer Interfaces",
-    "tldr": "This study introduces a self-supervised framework that leverages unlabeled spike data to pretrain neural decoders, achieving state‑of‑the‑art performance across multiple recording sessions. The approach enables generalizable, real‑time decoding without the need for extensive labeled datasets.",
-    "significance": "By unlocking the vast amounts of unlabeled neural recordings, the method dramatically improves decoder robustness and accelerates deployment of brain‑computer interfaces.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "44b250f90d3a219e5ef36ec5b41accf8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14085v1",
-    "arxiv_id": "2607.14085v1",
-    "title": "Benchmarking trigonometric continuous-variable gate primitives with trapped ions",
-    "authors": [
-      "Tommaso Rainaldi",
-      "Jake Montgomery",
-      "Christopher G. Yale"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Benchmarking Trigonometric CV Gate Primitives for Quantum Computing on Trapped Ions",
-    "tldr": "This study evaluates the performance of trigonometric continuous-variable gate primitives implemented on trapped-ion systems, comparing their fidelity and resource requirements against conventional gate sets. The results demonstrate that these periodic-function-based operations can achieve comparable or superior performance with reduced circuit depth, offering a promising direction for hybrid CV-discrete quantum processors.",
-    "significance": "The work establishes a benchmark for trigonometric CV gates, highlighting their potential to streamline hybrid quantum algorithms and accelerate the development of scalable quantum processors.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "17d1b43f3523e27b4d68b24ab8c5e31a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14084v1",
-    "arxiv_id": "2607.14084v1",
-    "title": "Investigating anomalous microwave emission near G107.2+5.20 in Ku-band with the Green Bank Telescope",
-    "authors": [
-      "Jordan E. Shroyer",
-      "Bradley R. Johnson",
-      "Dillon J. Bass"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Mapping Anomalous Microwave Emission Near G107.2+5.20 with the Green Bank Telescope",
-    "tldr": "The study uses the GBT Ku-band receiver to map 30 GHz-peaking anomalous microwave emission (AME) around G107.2+5.20, revealing how local environmental conditions shape the AME spectral energy distribution. These spatially resolved observations help constrain spinning dust models and improve our understanding of AME mechanisms.",
-    "significance": "By providing the first high-resolution AME map of this region, the work advances the characterization of spinning dust emission and its dependence on interstellar environments.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b19c019fa7c605c9a29024757096609d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14082v1",
-    "arxiv_id": "2607.14082v1",
-    "title": "Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256",
-    "authors": [
-      "Lei Zhang",
-      "Yusheng Zhao",
-      "Hongshun Yao"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Formalizing Shor’s Algorithm in Lean: Quantum Attacks on RSA-2048 and P‑256",
-    "tldr": "Large language models now aid formal theorem proving in Lean, enabling the construction of a fully verified Shor’s algorithm. The work demonstrates how agentic systems can search, reuse, and extend formal libraries to expose new quantum‑cryptanalysis results.",
-    "significance": "This research bridges AI‑assisted formal verification and quantum cryptanalysis, providing a reproducible, machine‑checked foundation for future quantum‑attack proofs.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4d545dc2dbc156e34d06828610356d3f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14081v1",
-    "arxiv_id": "2607.14081v1",
-    "title": "Linear Independent Component Analysis via Optimal Transport",
-    "authors": [
-      "Ashutosh Jha",
-      "Michel Besserve",
-      "Simon Buchholz"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Optimal Transport Enhances Linear ICA for Improved Signal Separation in Remote Sensing",
-    "tldr": "This study introduces an optimal transport framework for linear ICA, enabling more accurate recovery of independent source signals. By leveraging Wasserstein distance, the method outperforms traditional contrast functions in both synthetic and real-world remote sensing datasets.",
-    "significance": "It provides a scalable, theoretically grounded alternative to conventional ICA, potentially benefiting diverse applications from medical imaging to environmental monitoring.",
-    "tags": [
-      "time-series",
-      "remote-sensing",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3b617777e4c24d4130a1da4088c3db43",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14078v1",
-    "arxiv_id": "2607.14078v1",
-    "title": "A modular state-space model of human perception, cognition, and decision dynamics",
-    "authors": [
-      "Sven Schoonebeek",
-      "Anahita Jamshidnejad",
-      "Carlo Cenedese"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Modular State-Space Model Captures Human Perception, Cognition, Decision Dynamics",
-    "tldr": "This paper introduces a modular state-space framework that models human behavior as a perception‑cognition‑decision pipeline, enabling interpretable latent dynamics. The approach bridges black‑box predictors and psychologically grounded models, offering a mathematically analyzable tool for adaptive systems.",
-    "significance": "By providing transparent internal states, the model enhances the design of human‑centered adaptive systems and facilitates rigorous analysis of behavioral dynamics.",
-    "tags": [
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fbaefc4c58bc55dbafc4ab7be412abc4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14077v1",
-    "arxiv_id": "2607.14077v1",
-    "title": "Renormalizing a three-flavor lattice calculation of the two-photon contribution to $K_L\\toμ^+μ^-$",
-    "authors": [
-      "En-Hung Chao",
-      "Norman Christ",
-      "Ceran Hu"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Renormalizing Three-Flavor Lattice QCD to Compute Two-Photon Contribution in KL→μ⁺μ⁻",
-    "tldr": "The paper presents a renormalization scheme for a three-flavor lattice QCD calculation of the long-distance two-photon contribution to the rare decay KL→μ⁺μ⁻. By neglecting 1/mc² terms, the authors achieve a more accurate Standard Model prediction for this decay.",
-    "significance": "It refines the theoretical prediction of a key rare kaon decay, improving tests of the Standard Model and constraints on new physics.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b66d0fdc6f3bb66ee78c4ba67ca0120a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14076v1",
-    "arxiv_id": "2607.14076v1",
-    "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-    "authors": [
-      "Zhen Li",
-      "Zian Meng",
-      "Shuwei Shi"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Video Generative Models as Next-Gen Game Engines: From Pixels to Interactive States",
-    "tldr": "The paper explores how video generative models can predict future observations conditioned on player actions, offering a data-driven alternative to traditional game engines. It discusses challenges and opportunities in achieving coherent, real-time interactivity in virtual worlds.",
-    "significance": "It proposes a paradigm shift toward AI-driven game engines that can generate realistic, responsive environments without handcrafted assets.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ca39a95b55a6ac816f528623172bc85e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14075v1",
-    "arxiv_id": "2607.14075v1",
-    "title": "VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair",
-    "authors": [
-      "Jingyu Xiao",
-      "Zhongyi Zhang",
-      "Haoran Hou"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "VisualRepair: Leveraging Visual Cues for Automated Bug Fixing with LLMs",
-    "tldr": "VisualRepair introduces a dynamic tool‑calling framework that focuses on relevant regions of bug screenshots to guide large language models in generating accurate software fixes. By integrating multimodal inputs, it improves repair precision and reduces the need for manual debugging.",
-    "significance": "This approach bridges the gap between visual bug reports and automated repair, enabling more efficient and accurate fixes in GUI‑heavy applications.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c6012dd8fce529c44f8defd95f214116",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14074v1",
-    "arxiv_id": "2607.14074v1",
-    "title": "Quantum Transport and Apparent Work Function Distributions of Atomic Contacts via a 3D-Printed High-Vacuum Platform",
-    "authors": [
-      "G. Pellicer",
-      "C. Sabater"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Low-Cost 3D-Printed Vacuum Platform Enables Quantum Transport Measurements at Room Temperature",
-    "tldr": "We built a low-cost, 3D-printed high-vacuum platform that integrates a mechanically controllable break-junction and a custom logarithmic amplifier. Using copper, we resolved the 1G0 conductance quantum in both high vacuum and anhydrous glycerol, demonstrating the platform’s versatility.",
-    "significance": "This platform democratizes quantum transport experiments by providing a cost-effective, modular solution that works in diverse environments.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "755afe8c2576fcbc9ad2a1ef32b6549c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14073v1",
-    "arxiv_id": "2607.14073v1",
-    "title": "An exactly solvable macroscopic fluctuation theory of single-file diffusion",
-    "authors": [
-      "Sandeep Jangid",
-      "Soumyabrata Saha",
-      "Kapil Sharma"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Exact Solution of Macroscopic Fluctuation Theory for Single-File Brownian Hard Rods",
-    "tldr": "The paper presents an exact solution to the macroscopic fluctuation theory of single-file diffusion modeled by Brownian hard rods. This breakthrough provides analytical expressions for density fluctuations and transport properties, offering a benchmark for future studies.",
-    "significance": "It resolves a long-standing challenge in statistical physics by delivering closed-form predictions for a class of interacting particle systems.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0fd0274b73776551da9dbf36cdebedc8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14072v1",
-    "arxiv_id": "2607.14072v1",
-    "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
-    "authors": [
-      "Mustafa Chasmai",
-      "Vincent Dumoulin",
-      "Jenny Hamer"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "MetaPerch: Harnessing Metadata from Citizen Science Platforms to Boost Bioacoustic Foundation Models",
-    "tldr": "MetaPerch demonstrates that incorporating readily available recording metadata can significantly improve species detection in bioacoustic foundation models. By leveraging data from platforms such as Xeno‑Canto, the approach sets a new benchmark for performance while remaining open‑source.",
-    "significance": "This work unlocks untapped metadata to elevate bioacoustic models, offering a scalable, open‑source solution for ecological monitoring.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
