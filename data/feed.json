@@ -1,5 +1,319 @@
 [
   {
+    "uid": "2983fb8327657c6b1768a24154dd4752",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19345v1",
+    "arxiv_id": "2607.19345v1",
+    "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+    "authors": [
+      "Lizhe Fang",
+      "Weizhou Shen",
+      "Tianyi Tang"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "Reducing Repetitive Copying in Long-Context LLM Reasoning with Evidence-Aware RL",
+    "tldr": "Large language models often copy input text instead of generating meaningful reasoning in long-context tasks. This paper introduces evidence-aware reinforcement learning to reduce copying and improve reasoning quality.",
+    "significance": "It advances reliable reasoning in LLMs, enabling more trustworthy solutions for complex, context-heavy problems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a5c7af220d2fc9c79080f7419445a0a9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19344v1",
+    "arxiv_id": "2607.19344v1",
+    "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+    "authors": [
+      "Rahul Sajnani",
+      "Yulia Gryaditskaya",
+      "Radomír Měch"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "Multimodal Region Control for Diffusion Transformers: Enhancing Precise Image Generation",
+    "tldr": "This work introduces a method to give users fine-grained regional control over Diffusion Transformers, enabling precise manipulation of materials, object identities, and spatial layouts. By integrating heterogeneous tokens and spatial guidance, the approach surpasses text-only prompting and opens new possibilities for creative professionals.",
+    "significance": "It bridges the gap between text-based prompts and spatially-aware image editing, empowering designers with unprecedented control.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3242dddd278348f33547c0497490eac0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19343v1",
+    "arxiv_id": "2607.19343v1",
+    "title": "Masked Visual Actions for Unified World Modeling",
+    "authors": [
+      "Hadi Alzayer",
+      "Wenlong Huang",
+      "Haonan Chen"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "Masked Visual Actions: Bridging Video Models and Physical Manipulation for Unified World Modeling",
+    "tldr": "This paper introduces Masked Visual Actions, a method that encodes robotic actions directly into the visual space of pretrained video models, enabling them to predict and plan interactions in a unified representation. By aligning action signals with learned visual priors, the approach facilitates more natural and efficient world modeling for robotics.",
+    "significance": "It enables seamless integration of visual perception and action planning in robotics, leveraging foundation video models.",
+    "tags": [
+      "foundation-models",
+      "segmentation",
+      "object-detection",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cd7708e6e31d516fc357b4ba91b252cd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19341v1",
+    "arxiv_id": "2607.19341v1",
+    "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
+    "authors": [
+      "Yuan Wang",
+      "Yongchao Du",
+      "Mengting Chen"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "ExpertVerse: Benchmarking Expert-Level Reasoning in Knowledge-Driven Visual Generation for Multimodal Models and Generative AI",
+    "tldr": "ExpertVerse introduces a benchmark that evaluates multimodal generative models on expert-level, knowledge-intensive visual reasoning tasks, moving beyond simple commonsense or direct knowledge recall. It tests models’ ability to perform deep causal reasoning and knowledge-driven image synthesis, highlighting gaps in current state-of-the-art systems.",
+    "significance": "By providing a rigorous, capability-centric evaluation, ExpertVerse pushes the field toward truly intelligent visual synthesis that can reason with complex knowledge.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9fc30de4fa9eb80c1928bd9f92ad4a02",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19340v1",
+    "arxiv_id": "2607.19340v1",
+    "title": "Integral representation of the neutrino mass-squared differences",
+    "authors": [
+      "I. Alikhanov"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "Integral Representation of Neutrino Mass-Squared Differences: A New Theoretical Perspective",
+    "tldr": "We propose a simple integral representation for neutrino mass-squared differences, offering a complementary view on oscillation parameters. This approach may help constrain theoretical models and guide future experiments.",
+    "significance": "Providing a novel analytic framework could sharpen predictions for neutrino oscillation experiments and aid in determining the absolute neutrino mass scale.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c82b51cf78f90eec481a653bc27d39c2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19339v1",
+    "arxiv_id": "2607.19339v1",
+    "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+    "authors": [
+      "Yu Chen",
+      "Caorui Li",
+      "Ziyu Xiong"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "OmniReasoner: Enabling Long Audio‑Video Reasoning via Tool‑Use in Omnimodal LLMs",
+    "tldr": "OmniReasoner trains LLMs to selectively invoke tools for long audio‑video inputs, reducing the need for high‑fidelity storage. The framework combines supervised fine‑tuning and reinforcement learning to identify when and where tool calls are most beneficial.",
+    "significance": "By allowing LLMs to focus computational resources on decisive evidence, OmniReasoner improves efficiency and accuracy in multimodal reasoning tasks.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e81f34e4218ba710688a51752bd5315c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19338v1",
+    "arxiv_id": "2607.19338v1",
+    "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+    "authors": [
+      "Qijia He",
+      "Jiayi Cheng",
+      "Chenqian Le"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "CodeRescue: Budget‑Aware Recovery Routing for Coding Agents Using Execution Feedback",
+    "tldr": "CodeRescue introduces a budget‑calibrated routing framework that uses execution feedback to guide cheap‑model retries before escalating to expensive models. The approach reduces cost while maintaining high success rates in coding tasks.",
+    "significance": "By leveraging actionable execution feedback, CodeRescue improves cost efficiency and reliability of large language models in code generation.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b6ac8b35ba9b8ab419b64dbe55eb20c6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19336v1",
+    "arxiv_id": "2607.19336v1",
+    "title": "Agents in the Wild: Where Research Meets Deployment",
+    "authors": [
+      "Grace Hui Yang",
+      "Pranav N. Venkit",
+      "Hooman Sedghamiz"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "From Lab to Live: Deploying Agentic LLM Systems in Real-World Applications",
+    "tldr": "Agentic systems built on large language models are moving beyond research prototypes to production deployments across software engineering, science, and finance. This shift highlights the need to move beyond benchmarks toward real-world integration and operational reliability.",
+    "significance": "The transition underscores the importance of practical deployment considerations, such as scalability, robustness, and tool coordination, for the broader adoption of AI agents.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e9ee7599ddada58a0a3a1966c0b82d78",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19335v1",
+    "arxiv_id": "2607.19335v1",
+    "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+    "authors": [
+      "Davide Murari",
+      "Marta Ghirardelli",
+      "Ben Adcock"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "Building 1‑Lipschitz Neural Networks on Hadamard Manifolds for Robust Geometric Learning",
+    "tldr": "We introduce gradient‑descent layers that are 1‑Lipschitz and quasi‑α‑firmly nonexpansive, enabling neural networks to operate on Hadamard manifolds. This framework extends Lipschitz‑constrained learning to non‑Euclidean spaces, improving robustness and stability.",
+    "significance": "This work generalizes Lipschitz‑constrained neural networks to curved spaces, opening new avenues for robust geometric deep learning.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "321b72662e80356d99a365ad55a0d1e6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19334v1",
+    "arxiv_id": "2607.19334v1",
+    "title": "Fundamental limits of distributed multiclass classification from simple binary decisions",
+    "authors": [
+      "Ioannis Papageorgiou",
+      "Srinivas Nomula",
+      "Ayalvadi Ganesh"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "Distributed Multiclass Classification: Limits of Logarithmic Binary Decision Aggregation in Networks",
+    "tldr": "The paper analyzes how a K-class classifier built from only O(log K) simple binary hyperplane classifiers behaves in distributed settings. It establishes theoretical bounds on accuracy and shows that even with optimal binary decisions, the overall performance cannot surpass a certain threshold, guiding practical design of scalable multi‑class systems.",
+    "significance": "It provides the first rigorous limits for distributed multiclass learning, informing the design of efficient, scalable classifiers in edge and networked AI.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9800ede54bf0cc93f9793be2ba5da8e8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19333v1",
+    "arxiv_id": "2607.19333v1",
+    "title": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
+    "authors": [
+      "Yuchen Jiao",
+      "Na Li",
+      "Changxiao Cai"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "Provable Diffusion-Based Posterior Sampling for Linear Inverse Problems via DDIM",
+    "tldr": "We introduce PDDIM, a diffusion-based posterior sampler that provably solves linear inverse problems efficiently. The algorithm achieves rigorous guarantees while reducing computational overhead compared to existing methods.",
+    "significance": "PDDIM bridges the gap between theoretical rigor and practical efficiency in diffusion-based inverse problem solving.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8d701349fd20b84defc8b84186345e80",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19332v1",
+    "arxiv_id": "2607.19332v1",
+    "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+    "authors": [
+      "Chirag Vashist",
+      "Ke Li"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "ROMS-IMLE: Simplifying Single-Step Generative Models for Competitive Performance in Real-Time Applications",
+    "tldr": "ROMS-IMLE introduces a minimalist framework that achieves competitive results with single-step generative models, reducing complexity compared to multi-step diffusion or flow matching approaches. The method demonstrates comparable performance while enabling faster inference and easier deployment.",
+    "significance": "It shows that simpler generative architectures can rival state-of-the-art diffusion models, potentially lowering barriers to adoption.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dcd7ef61a5e0a6900933406ed030ab8c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.19331v1",
+    "arxiv_id": "2607.19331v1",
+    "title": "ISO: An RLVR-Native Optimization Stack",
+    "authors": [
+      "Hanqing Zhu",
+      "Wenyan Cong",
+      "Zhizhou Sha"
+    ],
+    "published": "2026-07-21",
+    "curated_at": "2026-07-22",
+    "headline": "ISO: Spectral Inheritance in RLVR for Efficient Weight Updates in LLMs",
+    "tldr": "We introduce ISO, a reinforcement learning with verifiable rewards (RLVR)-native optimization stack that leverages spectral inheritance to convert reward signals into efficient weight-space updates. Our analysis demonstrates that spectral structure of model weights can be exploited to accelerate training while preserving reasoning capabilities.",
+    "significance": "ISO provides a principled framework to bridge reward signals and weight updates, potentially transforming how foundation models learn from verifiable feedback.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "8a964611394adec6d870faac6c55a6e7",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.18237v1",
@@ -1115,284 +1429,6 @@
       "open-source"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d4446b2d5754997795eb525cfaead966",
-    "source": "web",
-    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
-    "arxiv_id": "",
-    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "2025 GeoAI Trends: Predictive Insights, Automation, and Climate Solutions for Cities and Global Challenges",
-    "tldr": "2025 saw GeoAI harnessing satellite imagery, LLMs, and real‑time analytics to forecast climate events and optimize urban planning. These advances enable faster decision‑making for disaster response, resource allocation, and sustainable development.",
-    "significance": "These trends empower governments and businesses to proactively address environmental risks and build resilient infrastructure.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "urban-AI",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "Charting the Future of GeoAI: Emerging Trends and Next-Gen Innovations",
-    "tldr": "GeoAI merges geospatial science with AI, rapidly evolving as a leading research frontier. The paper reviews recent breakthroughs and outlines future directions for the field.",
-    "significance": "Understanding GeoAI's trajectory is essential for harnessing AI to solve complex spatial challenges.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
-    "arxiv_id": "",
-    "title": "GeoAI | Geo Week News",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "AI Drives GeoAI Revolution: Automated Feature Extraction, Point Cloud Classification, and Predictive Geospatial Analytics",
-    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction and classifying point clouds, enabling faster, more accurate analysis. These advances unlock predictive insights across the entire data pipeline, from imagery to spatial datasets.",
-    "significance": "GeoAI's integration of AI models with large-scale geospatial data is accelerating decision-making in fields like urban planning, agriculture, and disaster response.",
-    "tags": [
-      "remote-sensing",
-      "LiDAR",
-      "point-cloud",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "779e0a05d5e0e30b6641ab27ced03d9b",
-    "source": "web",
-    "url": "https://events.ornl.gov/acmsigspatial-geoai2025/",
-    "arxiv_id": "",
-    "title": "ACMSIGSPATIAL-GEOAI 2025 - Conference Tagline",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "Transforming Geospatial Science with AI: Deep Learning, Multimodal Data, and Accelerated Architectures",
-    "tldr": "Artificial intelligence breakthroughs, coupled with hardware accelerators and advanced data processing, are reshaping geospatial information science. The conference explores deep learning techniques that automatically extract features from massive multimodal datasets, driving solutions for societal challenges.",
-    "significance": "This conference showcases how AI-driven methodologies are unlocking new insights and applications across geospatial domains, accelerating progress toward addressing global challenges.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
-    "source": "web",
-    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
-    "arxiv_id": "",
-    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "Top 5 GeoAI Trends to Watch in 2025: From Foundation Models to Real-Time Urban Insights",
-    "tldr": "GeoAI is rapidly evolving, and 2025 will see breakthroughs in foundation models, remote sensing, and real-time urban analytics. These trends promise smarter agriculture, flood forecasting, and autonomous logistics.",
-    "significance": "Understanding these trends equips planners, farmers, and defense analysts to leverage AI for smarter, data-driven decisions.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "urban-AI",
-      "crop-monitoring"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "762c83592693d584bfc0fba64f7899ac",
-    "source": "web",
-    "url": "https://github.com/mbzuai-oryx/ThinkGeo",
-    "arxiv_id": "",
-    "title": "GitHub - mbzuai-oryx/ThinkGeo: [CVPR 2026 ] ThinkGeo is a ...",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "ThinkGeo: Benchmarking LLMs on Complex Remote Sensing Tasks with Structured Reasoning",
-    "tldr": "ThinkGeo is a new benchmark that tests language model agents on remote sensing queries requiring step‑by‑step reasoning and tool use. It uses human‑curated satellite and aerial imagery questions across domains like disaster response, urban planning, and agriculture.",
-    "significance": "It provides a rigorous, real‑world evaluation of LLMs’ spatial reasoning and tool‑driven capabilities in remote sensing.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c372756dc3050e8979c1ab5331fba6b3",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "Remote Sensing Change Detection: Datasets, Tools, Methods, and Competitions Guide",
-    "tldr": "This repository compiles the latest datasets, tools, and research papers for detecting changes in remote sensing imagery. It also lists active competitions and provides a curated bibliography for researchers and practitioners.",
-    "significance": "It serves as a central hub for advancing remote sensing change detection research and applications.",
-    "tags": [
-      "remote-sensing",
-      "change-detection",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
-    "source": "web",
-    "url": "https://opengeoai.org/",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GeoAI",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "GeoAI: Bridging AI and Geospatial Analysis with an Intuitive Python Toolkit",
-    "tldr": "GeoAI is a Python package that integrates machine learning with geospatial data, enabling researchers to apply AI techniques to geographic datasets. Its user-friendly API simplifies tasks such as segmentation, object detection, and change detection across satellite imagery and point clouds.",
-    "significance": "GeoAI democratizes advanced AI methods for geospatial analysis, accelerating insights in fields from urban planning to environmental monitoring.",
-    "tags": [
-      "remote-sensing",
-      "segmentation",
-      "open-source",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "262174106d1c69cdeb67c0c3262e3e10",
-    "source": "web",
-    "url": "https://skytruth.org/",
-    "arxiv_id": "",
-    "title": "SkyTruth",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "SkyTruth: Open-Source Satellite Tools Reveal Hidden Human Impact on the Planet",
-    "tldr": "SkyTruth develops open-source software that analyzes satellite imagery to uncover environmental changes. Their advanced analytics expose hidden human activities, providing actionable insights for conservation.",
-    "significance": "By making powerful remote sensing tools freely available, SkyTruth empowers researchers and policymakers to detect and address environmental threats worldwide.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "change-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "Raster Vision: Open-Source Deep Learning Toolkit Bridging GIS and Computer Vision",
-    "tldr": "Raster Vision is an open-source library that integrates GIS data with deep learning pipelines for tasks like chip classification, semantic segmentation, and object detection. It offers a configurable workflow, making it accessible for researchers and developers working on remote sensing imagery.",
-    "significance": "By unifying GIS and computer vision, Raster Vision accelerates the development of spatial AI solutions across agriculture, urban planning, and environmental monitoring.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "segmentation",
-      "object-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1785692639303012acc70ffb83d999f5",
-    "source": "web",
-    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
-    "arxiv_id": "",
-    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
-    "authors": [],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-17",
-    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Earth Observation Platform",
-    "tldr": "NASA has released Galileo, an open-source multimodal foundation model that processes satellite imagery, time series, and tabular data in a single architecture. Its tokenization pipeline splits remote sensing inputs into spatial patches, timesteps, and logical channel groups, enabling versatile Earth observation tasks.",
-    "significance": "Galileo democratizes advanced Earth observation analytics by providing a unified, open-source framework that can handle diverse data types, accelerating research and operational applications.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "87bae5bcaf14f3a1fc67d2874e3273a1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14089v1",
-    "arxiv_id": "2607.14089v1",
-    "title": "Sail membranes for optomechanical accelerometry",
-    "authors": [
-      "Atkin D. Hyatt",
-      "Mitul Dey Chowdhury",
-      "Mahir Chowdhury"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "Sail-Like Membrane Resonators Achieve Low Frequency and High Q-Mass for Optomechanical Accelerometry",
-    "tldr": "Bayesian optimization of Si3N4 membranes yields sail-shaped trampoline resonators that lower frequency while maintaining high Q-mass product. These designs promise improved sensitivity for optomechanical accelerometers.",
-    "significance": "This work enables more sensitive inertial sensors by combining low-frequency operation with high mechanical quality.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "00dc433e60fb3ce66e94be478b546ff3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.14088v1",
-    "arxiv_id": "2607.14088v1",
-    "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
-    "authors": [
-      "Zhihao Xie",
-      "Junfeng Wu",
-      "Xinting Hu"
-    ],
-    "published": "2026-07-15",
-    "curated_at": "2026-07-16",
-    "headline": "VideoRAE: Enhancing Video Generation with Representation Autoencoders",
-    "tldr": "VideoRAE bridges the gap between 3D-VAEs and Video Foundation Models by learning richer latent spaces that capture semantic and spatio-temporal structure. The approach improves generative performance while leveraging the strong video understanding of models like V-JEPA 2 and VideoMAEv2.",
-    "significance": "It enables more semantically coherent video generation by combining the strengths of autoencoders and foundation models.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
