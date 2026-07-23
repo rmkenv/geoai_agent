@@ -1,5 +1,283 @@
 [
   {
+    "uid": "a6bb1340a93bff6b0234b8e7f18ed8ba",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20424v1",
+    "arxiv_id": "2607.20424v1",
+    "title": "Quantum Fisher Information in semiclassical magnon systems",
+    "authors": [
+      "Wolfgang Simeth",
+      "Pontus Laurell",
+      "Allen Scheie"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Quantum Fisher Information Reveals Entanglement in Semiclassical Magnon Spin Systems",
+    "tldr": "This study uses finite-size spin models to connect QFI with entanglement metrics in solid-state systems. It demonstrates how QFI can serve as a spectroscopic probe for many-body quantum correlations.",
+    "significance": "By clarifying the role of QFI in condensed matter, the work provides a new diagnostic tool for detecting quantum entanglement in realistic materials.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2afd1a6edaf98c4fc0689a6c96d59f6b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20423v1",
+    "arxiv_id": "2607.20423v1",
+    "title": "Primordial black holes forming during kination: the trapped, the overdense, and the void",
+    "authors": [
+      "Cristian Joana"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Primordial Black Holes Formed During Kination: Trapped, Overdense, and Void Regions",
+    "tldr": "The study investigates primordial black hole formation in a single-field model that transitions from slow roll through an ultra-slow-roll phase into kination. Using nonlinear numerical-relativity simulations, the authors track sub-Hubble field fluctuations across the transition to determine the resulting super-Hubble curvature profiles and their evolution.",
+    "significance": "This work delivers the first detailed simulation-based mapping of how kination influences primordial black hole abundance and spatial distribution, refining constraints on early-universe dynamics.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ac646eeb9ce706a564adb9e0d58cc155",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20422v1",
+    "arxiv_id": "2607.20422v1",
+    "title": "The sharp exponent for the minimal distance problem",
+    "authors": [
+      "Cosmin Pohoata"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Sharp Exponent Achieved for Minimal Distance Problem in Plane Geometry",
+    "tldr": "The paper proves that for any ε>0, one can construct arbitrarily large families of point-line pairs in the unit square with pairwise distances at least n^{-2/3-ε}. This resolves the minimal distance problem by matching the known upper bound up to an arbitrarily small exponent.",
+    "significance": "It settles a long-standing open question about the optimal exponent governing the minimal distance between points and lines in the plane.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "484e84b62ac6b6a7ba0e28d9ef62229d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20419v1",
+    "arxiv_id": "2607.20419v1",
+    "title": "Interaction-model dependence in calorimetric energy reconstruction methods due to non-linear material effects in modern neutrino detectors",
+    "authors": [
+      "Katharina Lachner",
+      "Steven Boyd",
+      "Stephen Dolan"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Non-linear Detector Effects Challenge Calorimetric Energy Reconstruction in Modern Neutrino Experiments",
+    "tldr": "Calorimetric energy reconstruction in LAr‑TPCs and scintillator detectors is hampered by non‑linear response effects such as Birks quenching and recombination. These ambiguities degrade the precision required for neutrino oscillation measurements.",
+    "significance": "Accurate energy reconstruction is essential for precise neutrino oscillation parameters, and understanding detector non‑linearities is critical for future experiments.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bdbf3bcfd8b79bb87102421fcc34678a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20417v1",
+    "arxiv_id": "2607.20417v1",
+    "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+    "authors": [
+      "Cho In",
+      "Jeonghwan Cho",
+      "Mijin Yoo"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "ATSplat: Efficient Feed-Forward 3D Gaussian Splatting with Adaptive Token Expansion",
+    "tldr": "ATSplat introduces a compact, feed-forward 3D Gaussian splatting framework that expands tokens adaptively, preserving scene-adaptive capacity while enabling real-time novel-view synthesis. The method regresses Gaussians directly from pixels and lifts them along camera rays, achieving high quality with fewer primitives.",
+    "significance": "This approach bridges the gap between high-quality 3DGS and efficient real-time rendering, making advanced novel-view synthesis accessible for interactive applications.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c58c1b7f567c9676c8d50d13b89b640e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20416v1",
+    "arxiv_id": "2607.20416v1",
+    "title": "Pinned nonempty interior and volumes of simplices",
+    "authors": [
+      "Eyvindur Ari Palsson",
+      "Georgios Psaromiligkos"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Pinned Nonempty Interior Problems and Volume Estimates for Simplices via Radon Transforms",
+    "tldr": "We analyze pinned nonempty-interior configurations and simplex volume problems using smooth scalar maps whose localized Radon transforms are nondegenerate Fourier integral operators. The work extends Greenleaf, Iosevich, and collaborators’ calculations to higher dimensions, yielding new bounds on interior measures and simplex volumes.",
+    "significance": "This study provides sharper geometric estimates for Radon transform-based problems, advancing our understanding of high-dimensional volume distribution.",
+    "tags": [
+      "spatial-reasoning",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6134f23eabf11263b4a09dce75daea10",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20415v1",
+    "arxiv_id": "2607.20415v1",
+    "title": "Flux-Corrected Diagonal Frog: second order and positivity at all time steps",
+    "authors": [
+      "Andrey Itkin"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Second-Order Flux-Corrected Diagonal Frog Preserves Positivity at All Time Steps",
+    "tldr": "This paper introduces a nonlinear extension of the Diagonal Frog scheme that maintains second-order accuracy while guaranteeing positivity for the Fokker-Planck equation at any time step. By splitting the second-order directional operator, the method overcomes the strict time-step limitation of previous linear approaches.",
+    "significance": "It resolves a long-standing barrier in numerical PDEs, enabling robust, positivity-preserving simulations of diffusion processes without restrictive time-step constraints.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c1434e75914b9e36808d81a6049dcf7c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20414v1",
+    "arxiv_id": "2607.20414v1",
+    "title": "Mapped ADMM: A Robust Algorithm for 1-Bit mMIMO Detection",
+    "authors": [
+      "Mohammad Amin Keshmiri",
+      "Masoud Ardakani"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Mapped ADMM Enhances 1‑Bit mMIMO Detection",
+    "tldr": "The paper shows that one‑bit massive MIMO detection can be cast as a binary classification problem solvable by SVM. By decentralizing the SVM into multiple classifiers and applying consensus ADMM, the authors achieve a robust, efficient detection algorithm.",
+    "significance": "This approach offers a scalable, low‑complexity solution for next‑generation wireless systems requiring ultra‑low‑precision hardware.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "00fecaacb5c82b5371c1aa3ee7cd528d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20413v1",
+    "arxiv_id": "2607.20413v1",
+    "title": "The road towards precision measurements of $H_0$ with bright sirens in the Einstein Telescope era",
+    "authors": [
+      "Chiara De Leo",
+      "Elsa M. Teixeira",
+      "Vivian Poulin"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Precision H0 Measurements with Bright Sirens in the Einstein Telescope Era",
+    "tldr": "Gravitational-wave standard sirens offer a direct probe of cosmic expansion. This study forecasts how bright siren catalogs from the Einstein Telescope will tighten constraints on the Hubble constant.",
+    "significance": "It demonstrates that next-generation detectors can achieve sub-percent precision on H0, resolving current tensions.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d03c5cccc7c82db94cff47d9d9708c95",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20412v1",
+    "arxiv_id": "2607.20412v1",
+    "title": "Fermionic pairs, from the surface to the bulk",
+    "authors": [
+      "Sandra Brandstetter",
+      "Carl Heintze",
+      "Fabian Brauneis"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "From Surface to Bulk: Understanding Fermionic Pairing Across Finite and Extended Systems",
+    "tldr": "Fermionic pairing drives quantum phenomena in both extended systems like ultracold gases and finite systems such as nuclei and quantum dots. While the BCS–BEC crossover describes pair size evolution in large systems, finite systems exhibit distinct pairing behavior due to confinement.",
+    "significance": "Understanding how pairing manifests across scales informs both fundamental physics and potential applications in quantum technologies.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "035e023f9f59efd0167acccaebc86b3a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20410v1",
+    "arxiv_id": "2607.20410v1",
+    "title": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
+    "authors": [
+      "Nethmi Muthugala",
+      "Supryadi",
+      "Surangika Ranathunga"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "LKValues: Aligning LLMs with Sri Lankan Cultural Values in Sinhala",
+    "tldr": "This study introduces LKValues, a benchmark for evaluating LLM alignment with Sri Lankan societal norms in Sinhala. It highlights cultural gaps in current models and proposes fine-tuning strategies for more inclusive AI.",
+    "significance": "By addressing Sinhala-specific values, LKValues paves the way for culturally sensitive AI deployment in multilingual societies.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f47758a42dc991ae81f8c3db42fbf468",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.20409v1",
+    "arxiv_id": "2607.20409v1",
+    "title": "Efficiently Simulable Pauli Correlation Encoding",
+    "authors": [
+      "Daniele Lizzio Bosco",
+      "Gabriel Matos",
+      "Chen-Yu Liu"
+    ],
+    "published": "2026-07-22",
+    "curated_at": "2026-07-23",
+    "headline": "Reducing Measurement Overhead in Pauli Correlation Encoding for Binary Optimization Using Efficient Simulation",
+    "tldr": "Pauli Correlation Encoding maps binary variables to Pauli observables but requires many measurements, limiting scalability. This study presents a simulation-based strategy that drastically cuts the number of expectation values needed, accelerating quantum optimization workflows.",
+    "significance": "By lowering measurement costs, the approach brings practical quantum binary optimization closer to real-world deployment.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "2983fb8327657c6b1768a24154dd4752",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.19345v1",
@@ -1145,290 +1423,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "a0238312d3df69b50a0db0df4a127851",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15277v1",
-    "arxiv_id": "2607.15277v1",
-    "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-    "authors": [
-      "Patrik Wolf",
-      "Thomas Kleine Buening",
-      "Andreas Krause"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Ensuring Statistical Self-Consistency in Language Models: A Law of Total Probability Test",
-    "tldr": "This paper examines whether large language models treat prompts as conditional distributions by testing the law of total probability. The authors find that while models often approximate these identities, systematic deviations reveal limits of in‑context learning.",
-    "significance": "The study provides a principled framework for evaluating the probabilistic soundness of in‑context learning, guiding future model design.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "744ae5bb3209f35c12fe61c46182f63c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15276v1",
-    "arxiv_id": "2607.15276v1",
-    "title": "Locality of deep thermalisation through the lens of entanglement teleportation",
-    "authors": [
-      "Saptarshi Mandal",
-      "Alan Sherry",
-      "Sthitadhi Roy"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Locality of Deep Thermalisation Revealed via Entanglement Teleportation in Disconnected Subsystems",
-    "tldr": "The study shows that deep thermalisation can occur locally even when subsystems remain causally disconnected. This challenges the assumption that global measurements are necessary for universal state ensembles.",
-    "significance": "It provides new insights into how quantum information propagates and thermalises without requiring direct interaction, with implications for quantum computing and simulation.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "69766d9eb0da55af73627ec0f28889d8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15275v1",
-    "arxiv_id": "2607.15275v1",
-    "title": "RoboTTT: Context Scaling for Robot Policies",
-    "authors": [
-      "Yunfan Jiang",
-      "Yevgen Chebotar",
-      "Ruijie Zheng"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "RoboTTT: Scaling Robot Visuomotor Context to 8K Timesteps Without Latency",
-    "tldr": "RoboTTT extends robot foundation models by training policies that maintain an 8,000‑step visual history, three orders of magnitude longer than current systems, while keeping inference speed unchanged. This extended context unlocks one‑shot in‑context learning and other advanced capabilities.",
-    "significance": "By dramatically increasing context length without latency penalties, RoboTTT enables robots to perform complex, long‑horizon tasks that were previously infeasible.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c2e6974a9d9a2abf68c80589e5ad96e2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15273v1",
-    "arxiv_id": "2607.15273v1",
-    "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-    "authors": [
-      "Yushi Huang",
-      "Xiangxin Zhou",
-      "Jun Zhang"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "MeanFlowNFT: RL-Enhanced Fast Sampling for Diffusion Models",
-    "tldr": "MeanFlowNFT combines MeanFlow generators, which predict average velocities for rapid few-step sampling, with DiffusionNFT's forward-process reinforcement learning to align diffusion outputs with human preferences. The resulting framework achieves efficient, high-quality generation without the need for reverse diffusion steps.",
-    "significance": "It demonstrates a scalable, RL-driven approach to accelerate diffusion-based generation while maintaining alignment with user intent.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d3ddad0c5557e50627bb7c3caf17abbd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15272v1",
-    "arxiv_id": "2607.15272v1",
-    "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
-    "authors": [
-      "Yasheng Sun",
-      "Zezi Zeng",
-      "Yifan Yang"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Automating Scientific Figure Editing via Natural Language for Paper Revisions",
-    "tldr": "The paper introduces SciDiagramEdit, a system that learns to modify scientific diagrams based on natural language instructions derived from paper revision histories. It demonstrates that combining large language models with diffusion-based image editing can accurately relabel, rearrange, and restyle diagram components, streamlining the revision workflow.",
-    "significance": "By enabling automated, instruction-driven editing of dense scientific figures, SciDiagramEdit reduces manual effort and improves reproducibility in scientific publishing.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "76fade99935a42dfb83413ce77760dc6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15271v1",
-    "arxiv_id": "2607.15271v1",
-    "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
-    "authors": [
-      "Baback Elmieh",
-      "Lynn Tsai",
-      "Zeman Li"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Real-Time Online Memory for Dynamic Novel View Synthesis from Streaming Videos",
-    "tldr": "This work introduces an online neural space-time memory system that updates via Test‑Time Training, enabling real‑time novel view synthesis from multi‑view video streams while preserving long‑horizon memory of occluded regions. The method balances memory persistence with strict real‑time constraints, offering a practical solution for dynamic scene reconstruction.",
-    "significance": "It demonstrates how Test‑Time Training can be leveraged for continuous, real‑time view synthesis, bridging the gap between memory‑rich reconstruction and low‑latency performance.",
-    "tags": [
-      "real-time",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b87675e6d7e822b7277555a93f81f03f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15268v1",
-    "arxiv_id": "2607.15268v1",
-    "title": "Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography",
-    "authors": [
-      "Guang Yang",
-      "Wentian Xu",
-      "Siyu Wang"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Motion‑Conditioned Multi‑View Fusion for Real‑Time Myocardial Infarction Localization in Echo",
-    "tldr": "This study introduces a motion‑conditioned multi‑view fusion framework that automatically localizes myocardial infarction regions in echocardiography, reducing the need for extensive manual annotations. The method leverages temporal dynamics and view‑specific features to achieve accurate, real‑time detection.",
-    "significance": "By enabling automated, annotation‑efficient MI localization, the approach could accelerate clinical decision‑making and improve patient outcomes.",
-    "tags": [
-      "time-series",
-      "segmentation",
-      "object-detection",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "62df72359bc8ac777bd7a954354c2089",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15267v1",
-    "arxiv_id": "2607.15267v1",
-    "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
-    "authors": [
-      "Victoria Graf",
-      "Hannaneh Hajishirzi",
-      "Noah A. Smith"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Computational Propaganda Threatens LLMs: Poisoning Pretraining Data Across Multiple Large-Scale Corpora",
-    "tldr": "This study demonstrates how computational propaganda can poison large language model pretraining data, embedding harmful behaviors that are hard to detect. It highlights gaps in prior research that focused on limited sources like Wikipedia and shows the interplay between poisoned data and curation pipelines.",
-    "significance": "Understanding data poisoning in pretraining is crucial for safeguarding the integrity of future foundation models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7ad8315f24ec712af80320b8bc616193",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15266v1",
-    "arxiv_id": "2607.15266v1",
-    "title": "Tunable Mpemba effect in a polymer-bead system with inertia",
-    "authors": [
-      "Hosung Kwak",
-      "Yongjoo Baek",
-      "Hawoong Jeong"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Experimentally Motivated Model Controls Mpemba Effect via Inertia in Polymer-Bead Systems",
-    "tldr": "We present a model where a polymer bead’s denaturation plateau slows relaxation, allowing the Mpemba effect to be tuned by inertia. By preparing the system at higher temperature or weaker force, the bead gains kinetic energy, accelerating its cooling relative to a colder start.",
-    "significance": "This work demonstrates that inertia can be harnessed to control anomalous cooling, offering new insights into non-equilibrium thermodynamics and potential applications in smart material design.",
-    "tags": [
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f6ec56bf8e3559a3d75ceba73fcce8c9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15265v1",
-    "arxiv_id": "2607.15265v1",
-    "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
-    "authors": [
-      "Mingfei Chen",
-      "Zijun Cui",
-      "Ruoke Zhang"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "SceneBind: Omni-Modal Representation Linking What and Where Across Vision, Audio, and Language",
-    "tldr": "SceneBind introduces an omni-modal framework that jointly models semantic content and 3D spatial structure across vision, audio, and language modalities. By representing scenes as semantic-spatial entities, it overcomes the limitations of prior encoders that focus solely on instance-level semantics.",
-    "significance": "It enables richer contextual understanding for multimodal AI, paving the way for more accurate scene interpretation and spatial reasoning.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "27751165982b368bcf608cfc3085003d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15264v1",
-    "arxiv_id": "2607.15264v1",
-    "title": "Products of simplices are canonically Ramsey",
-    "authors": [
-      "Benedict Randall Shaw"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Canonical Ramsey Property of Simplices",
-    "tldr": "The paper proves that products of simplices are canonically Ramsey, extending known results for triangles to higher-dimensional simplicial products.",
-    "significance": "It identifies a broad new family of geometric configurations that must appear either monochromatically or rainbowly under any finite coloring.",
-    "tags": [
-      "spatial-reasoning",
-      "point-cloud"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3b0537eb4b7fce2667c50dc8ffef2f22",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15263v1",
-    "arxiv_id": "2607.15263v1",
-    "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
-    "authors": [
-      "Paul Kassianik",
-      "Blaine Nelson",
-      "Yaron Singer"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Measuring Security Agents by Cost, Not Just Success: A New Evaluation Framework",
-    "tldr": "Traditional security agent benchmarks focus on peak success rates, ignoring resource consumption. We propose a cost-aware evaluation that accounts for reasoning steps, tool calls, and telemetry queries, providing a more realistic measure of operational performance.",
-    "significance": "This approach enables more accurate assessment of security agents for real-world deployment by balancing effectiveness with resource efficiency.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
