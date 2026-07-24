@@ -1,5 +1,244 @@
 [
   {
+    "uid": "6feb3284f814812d742f2525b2594eef",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21595v1",
+    "arxiv_id": "2607.21595v1",
+    "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "authors": [
+      "Wenhao Li",
+      "Xueying Jiang",
+      "Quanhao Qian"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "Enhancing Vision-Language Models with 3D Geometry via Implicit and Explicit Representations",
+    "tldr": "VLM-IE3D augments vision-language models with learned 3D geometries from RGB videos, enabling fine-grained spatial reasoning. The framework integrates both implicit and explicit representations to bridge the gap between 2D inputs and 3D tasks.",
+    "significance": "By fusing implicit and explicit 3D geometry, VLM-IE3D empowers VLMs to perform spatial reasoning tasks that were previously limited to 2D inputs, opening new possibilities in robotics, AR, and autonomous navigation.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "point-cloud"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bd3ab47a321cecaba4e9b76ab581aaaa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21594v1",
+    "arxiv_id": "2607.21594v1",
+    "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+    "authors": [
+      "Sicheng Mo",
+      "Yuheng Li",
+      "Ziyang Leng"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "WorldWeaver: Streaming Multi-Agent Diffusion Model with Persistent World State Registers",
+    "tldr": "WorldWeaver introduces a streaming autoregressive diffusion framework that maintains shared world state across multiple agents and viewpoints. By integrating state registers, it enables consistent, evolving observations in multi-agent interactive environments.",
+    "significance": "This approach resolves the state consistency challenge in multi-agent video generation, enabling more realistic and coordinated simulations.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "31596fac6dba72788e6362dc1b57e44f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21592v1",
+    "arxiv_id": "2607.21592v1",
+    "title": "Unified Video Dense Prediction from Disjoint Data",
+    "authors": [
+      "Yihong Sun",
+      "Seoung Wug Oh",
+      "Jiahui Huang"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "Unified Video Dense Prediction from Disjoint Data: Introducing the UniD Framework",
+    "tldr": "We present UniD, a framework that enables dense prediction across geometry, appearance, and semantics using disjoint datasets without requiring full co-annotation or expensive pseudo-labeling. UniD leverages cross-task consistency and efficient training to unify disparate annotations for video scene understanding.",
+    "significance": "UniD bridges fragmented annotations, enabling scalable, multi-task video perception without costly data alignment.",
+    "tags": [
+      "segmentation",
+      "object-detection",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "55fbb8363d1ff8d406c945f95e22e9e4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21591v1",
+    "arxiv_id": "2607.21591v1",
+    "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
+    "authors": [
+      "Rogerio Guimaraes",
+      "Pietro Perona"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "Speeding Diffusion Models at Inference with Progressive Seed Pruning for High-Quality Generation",
+    "tldr": "This paper introduces a method to prune seed noise in diffusion models during inference, reducing compute while maintaining image quality. By progressively discarding low-impact seed components, the approach achieves near real‑time performance without increasing memory usage.",
+    "significance": "It bridges the gap between diffusion model quality and practical deployment speed, enabling real‑time conditional image generation.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "da57aaeaf0c52b7a236764967afa37a3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21588v1",
+    "arxiv_id": "2607.21588v1",
+    "title": "AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation",
+    "authors": [
+      "Mengfei Zhao",
+      "Dihong Huang",
+      "Yikai Tang"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "AXIS: Community-Driven, Scalable Data Engine Enabling Browser-Based Teleoperation for Robot Manipulation",
+    "tldr": "AXIS is a growable, community-driven data engine that facilitates large-scale robot manipulation learning by enabling browser-based teleoperation. It provides an open-source benchmark and scalable pipeline that overcomes hardware and operator bottlenecks.",
+    "significance": "AXIS democratizes robot learning by making high-quality demonstration data accessible and scalable, accelerating research and deployment.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1a4de98da635db20d8a6382da200e9e3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21587v1",
+    "arxiv_id": "2607.21587v1",
+    "title": "XMM-Newton and Swift Unveil Another X-Ray Transient in NGC 4945, XMM J130514.64-493311.27",
+    "authors": [
+      "Ryan W. Pfeifle",
+      "Kimberly A. Weaver",
+      "Jenna M. Cann"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "XMM-Newton and Swift Spot New X-Ray Transient in NGC 4945",
+    "tldr": "Using XMM-Newton and Swift observations, astronomers discovered a new X-ray transient in the nearby galaxy NGC 4945. The transient adds to the growing list of variable high-energy sources in this starburst galaxy, offering insights into compact object populations.",
+    "significance": "This discovery expands our understanding of the dynamic X-ray source population in NGC 4945 and highlights the importance of coordinated multi-mission monitoring.",
+    "tags": [
+      "satellite-imagery",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7b74869a8b191ec5814c850f70d27b1e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21584v1",
+    "arxiv_id": "2607.21584v1",
+    "title": "Flow-based Phase-space Tomography of Continuous-variable Quantum States",
+    "authors": [
+      "Owen Dugan",
+      "Rumen Dangovski",
+      "Peter Y. Lu"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "Flow-Based Phase-Space Tomography of Continuous-Variable Quantum States Using Neural Density Models",
+    "tldr": "We present QST-Flow, a flow-based generative framework that reconstructs continuous-variable quantum states by modeling phase-space quasiprobabilities with neural densities, avoiding truncated density matrices. This approach reduces computational cost while preserving non-Gaussian features, enabling scalable tomography of high-dimensional quantum systems.",
+    "significance": "QST-Flow offers a scalable, efficient alternative to traditional tomography, potentially accelerating quantum computing and communication research.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "54bb7987cb60282218b90af89cedae09",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21582v1",
+    "arxiv_id": "2607.21582v1",
+    "title": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
+    "authors": [
+      "Yu Qi",
+      "Zhang Ye",
+      "Xinyi Xu"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "Diagnosing and Fixing Shortcut Bias in Robot Language Understanding",
+    "tldr": "We present a bias‑aware evaluation framework that pinpoints which instruction components (color, verb, object, size, spatial relations) cause pretrained policies to rely on shortcuts. By collecting targeted data, we improve compositional generalization for robotic manipulation tasks.",
+    "significance": "The work offers a systematic method to detect and mitigate shortcut learning, enabling robots to reliably interpret diverse natural language commands.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a9a6f1b4b50658b1e4931c5be0e56527",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21581v1",
+    "arxiv_id": "2607.21581v1",
+    "title": "Symmetry and Quantum Geometry in Bloch Bands",
+    "authors": [
+      "Ziwei Wang",
+      "Charlie Raca",
+      "Steven H. Simon"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "Exploring Symmetry Constraints on Quantum Geometric Quantities in Bloch Bands",
+    "tldr": "The paper investigates how lattice symmetries limit the variance of Berry curvature and the integrated quantum metric in tight‑binding models. It shows that certain symmetry classes enforce strict bounds on these geometric measures, impacting electronic properties.",
+    "significance": "Understanding symmetry‑imposed limits on quantum geometry is crucial for designing materials with tailored electronic responses.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "de5e009e74bb5800eed4deb45498c420",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21580v1",
+    "arxiv_id": "2607.21580v1",
+    "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+    "authors": [
+      "Vedant Shah",
+      "Onkar Susladkar",
+      "Tushar Prakash"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-24",
+    "headline": "GraphVid: Graph-Based Control for Interactive Multi-Object Video Generation Using Text and Motion Inputs",
+    "tldr": "GraphVid introduces a graph-based interface that lets users specify multi-object interactions in videos, overcoming limitations of pixel-level motion controls. By integrating trajectory graphs with diffusion models, it scales to complex scenes and handles occlusion without requiring precise tracks.",
+    "significance": "It enables scalable, intuitive control over complex video dynamics, advancing practical video generation.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "a6bb1340a93bff6b0234b8e7f18ed8ba",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.20424v1",
@@ -1180,246 +1419,6 @@
     "tags": [
       "spatial-reasoning",
       "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "93c85db642e89ffab2e84acb2c5e73eb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15259v1",
-    "arxiv_id": "2607.15259v1",
-    "title": "Long-range and steady-state entanglement of driven-dissipative nitrogen vacancy centers using microwaves as a drive and synthetic antiferromagnet as a dissipator",
-    "authors": [
-      "Federico Garcia-Gaitan",
-      "Branislav K. Nikolic"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "Microwave-Driven NV Centers Achieve Long-Range Steady-State Entanglement via Synthetic Antiferromagnet",
-    "tldr": "Researchers demonstrate that microwaves can drive nitrogen-vacancy centers into a long-range, steady-state entangled configuration using a synthetic antiferromagnet as a dissipative environment. This approach offers a scalable pathway for solid-state quantum networks and sensing applications.",
-    "significance": "This work provides a practical route to stabilize entanglement between distant solid-state qubits, a key hurdle for quantum computing and high-precision sensing.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "50b896c07fe7a20552d2034ffa7e0bda",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15258v1",
-    "arxiv_id": "2607.15258v1",
-    "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
-    "authors": [
-      "Arthur G. Bubolz",
-      "Abreu Quevedo",
-      "Giancarlo Lucca"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "Using Blockchain Data and Social Media to Classify Bitcoin Market Sentiment",
-    "tldr": "This study introduces a sentiment classifier that fuses on-chain activity, financial indicators, and social media posts to explain Bitcoin market emotions. Unlike price prediction models, it focuses on interpreting market sentiment rather than forecasting prices.",
-    "significance": "By linking blockchain transactions with public sentiment, the work offers a novel lens for understanding crypto market dynamics beyond price movements.",
-    "tags": [
-      "time-series",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "95e4247314f5da457034e194426300cb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15257v1",
-    "arxiv_id": "2607.15257v1",
-    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-    "authors": [
-      "Yuyao Zhang",
-      "Junjie Gao",
-      "Zhengxian Wu"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "SearchOS‑V1: Enhancing Robust Open‑Domain Agent Collaboration for Efficient Web Search",
-    "tldr": "SearchOS‑V1 introduces a framework that improves task tracking for web‑searching agents, preventing repetitive loops when evidence is scarce. By integrating multi‑agent coordination and adaptive search budgets, it achieves more efficient information retrieval in open‑domain settings.",
-    "significance": "This work addresses a critical bottleneck in large‑language‑model‑powered agents, enabling more reliable and resource‑efficient web search.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "db0ce23578efe41b44c98677bc37f64a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15255v1",
-    "arxiv_id": "2607.15255v1",
-    "title": "HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning",
-    "authors": [
-      "Pengcheng Zhou",
-      "Xuanyu Liu",
-      "Yanchen Yin"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "HoloGeo: Reducing Landmark Bias in Image Geo-Localization with Evidence-Driven Reasoning",
-    "tldr": "HoloGeo introduces quantitative metrics Bias Intensity and Bias Harmfulness to assess landmark bias in vision-language models for geo-localization. By incorporating evidence-driven reasoning, the approach significantly improves accuracy and reduces spurious correlations.",
-    "significance": "This work provides the first systematic framework to quantify and mitigate landmark bias, advancing reliable geo-localization for real-world applications.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b64ff6fb4e0ee9fa9844bdebedcd0c3e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15254v1",
-    "arxiv_id": "2607.15254v1",
-    "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
-    "authors": [
-      "Qiwei Li",
-      "Jorge Ortiz"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "Exploring Causal Effects in Urban Driving Data with teLLMe System",
-    "tldr": "Traffic agencies now have vast video-derived data but lack causal insights. teLLMe offers an exploratory framework to answer questions like how rain affects traffic density.",
-    "significance": "This approach enables data-driven policy decisions by revealing causal relationships in urban mobility.",
-    "tags": [
-      "urban-AI",
-      "time-series",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6ed61c7153841714e33b32b6afac3bb5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15253v1",
-    "arxiv_id": "2607.15253v1",
-    "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
-    "authors": [
-      "Debayan Mukhopadhyay",
-      "Utshab Kumar Ghosh",
-      "Shubham Chatterjee"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "Static Retrieval Scores Fail for Multi-Step Agentic Search in LLMs",
-    "tldr": "Traditional retrieval evaluation treats documents as static, but when an LLM acts as a search agent across multiple turns, the usefulness of a document changes. This study shows that static utility scores do not predict causal utility in multi-step search, highlighting the need for dynamic evaluation benchmarks.",
-    "significance": "The findings reveal that current retrieval benchmarks misrepresent document usefulness for agentic LLMs, urging the development of more realistic evaluation frameworks.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f7908c7f60283f2269beb598bbc260a2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15249v1",
-    "arxiv_id": "2607.15249v1",
-    "title": "Altermagnetic spin textures coupled to superconductors: Domain wall spin-triplet superconductivity and supercurrent-induced torques",
-    "authors": [
-      "Yasir Dar",
-      "Mathias S. Scheurer",
-      "Constantin Schrade"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "Altermagnetic Domain Walls Induce Spin-Triplet Superconductivity and Current-Driven Torques in Altermagnets",
-    "tldr": "We investigate how spatially varying altermagnetic textures affect Cooper pairing in s-wave superconductors, revealing that altermagnetism suppresses spin-singlet pairing and promotes local spin-triplet correlations near domain walls. These triplet states enable supercurrent-induced torques, offering a new route to manipulate magnetic textures via superconducting currents.",
-    "significance": "This work uncovers a novel mechanism for generating spin-triplet superconductivity and current-driven magnetic torques, potentially enabling low-dissipation spintronic devices.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c5752a486126b05d32fbc24d8da71279",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15246v1",
-    "arxiv_id": "2607.15246v1",
-    "title": "ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors",
-    "authors": [
-      "Christos Korgialas",
-      "Gabriel Lee Jun Rong",
-      "Dion Jia Xu Ho"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "ARMOR++: Transferable Adversarial Attacks Against Deepfake Detectors via Multi-Domain Primitives",
-    "tldr": "ARMOR++ demonstrates that adversarial perturbations crafted on convolutional surrogates can be transferred to transformer-based deepfake detectors, even under strict no-query constraints, by orchestrating a multi-domain primitive set that preserves semantic awareness. The approach reveals the fragility of current forensic cues and offers a benchmark for evaluating detector robustness.",
-    "significance": "This work exposes the vulnerability of state-of-the-art deepfake detectors and provides a transferable attack framework that can guide future defense research.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a34f4a79a5e4f16f3e5e29c8fd873956",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15245v1",
-    "arxiv_id": "2607.15245v1",
-    "title": "When will T Coronae Borealis next erupt as a nova? Constraints from recurrence, orbital phase, and accretion-state evolution",
-    "authors": [
-      "Songpeng Pei",
-      "Xiaowan Zhang",
-      "Renzhi Su"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "Predicting T Coronae Borealis' Next Nova: Recurrence, Orbital Phase, and Accretion Dynamics",
-    "tldr": "Scientists combine historical eruption intervals, orbital timing, and recent accretion changes to estimate a 30% chance of T CrB erupting before 2026 July 11. The analysis refines the expected window for the next nova outburst.",
-    "significance": "This refined timing informs targeted monitoring and enhances understanding of recurrent nova mechanisms.",
-    "tags": [
-      "time-series",
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "22a90cb08a3482063c79db7d06f137f7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15278v1",
-    "arxiv_id": "2607.15278v1",
-    "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
-    "authors": [
-      "Zezhong Qian",
-      "Xiaowei Chi",
-      "Chak-Wing Mak"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-18",
-    "headline": "Hierarchical Denoising Enhances Multi-Step Visual Reasoning in Streaming Diffusion Models",
-    "tldr": "This work introduces a hierarchical denoising framework that balances efficient streaming inference with bidirectional global revision, enabling logical consistency in complex visual reasoning tasks. The method reduces inference latency while maintaining high-quality predictions, addressing key limitations of current diffusion-based video models.",
-    "significance": "It advances the capability of vision foundation models to perform human-like multi-step reasoning in real-time settings.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "real-time",
-      "foundation-models"
     ],
     "readtime": 3,
     "difficulty": "advanced"
