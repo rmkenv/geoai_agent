@@ -1,5 +1,282 @@
 [
   {
+    "uid": "3da294aa2850bba4bf357cd0c6796c64",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21589v1",
+    "arxiv_id": "2607.21589v1",
+    "title": "The Frankl--Tokushige product conjectures for $r$-cross-intersecting families",
+    "authors": [
+      "Fan Chang",
+      "Hong Liu",
+      "Miao Liu"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Sharp Inequality for r-Cross-Intersecting Families Solves Frankl–Tokushige Product Conjecture Uniformly",
+    "tldr": "We prove a sharp product inequality for r-cross-intersecting families, confirming both the uniform and biased Frankl–Tokushige conjectures. The bound matches the natural extremal families and is achieved by level sets of the Boolean lattice.",
+    "significance": "This resolves a long-standing open problem in extremal set theory, establishing optimal bounds for intersecting families across multiple parameters.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2be25194ac2eb68e53db577b2cff885d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21586v1",
+    "arxiv_id": "2607.21586v1",
+    "title": "Gauge coupling beta functions and gauge field anomalous dimensions at four loops in the Standard Model",
+    "authors": [
+      "M. A. Bezuglov",
+      "B. A. Kniehl",
+      "V. N. Velizhanin"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Four-Loop Beta Functions and Gauge Field Anomalous Dimensions in the Standard Model",
+    "tldr": "We compute the four-loop beta functions for the gauge couplings and the anomalous dimensions of gauge fields in the unbroken Standard Model. This provides the most precise perturbative input for high-energy phenomenology.",
+    "significance": "These results enable precision tests of the Standard Model and improve predictions for collider observables.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c0c9f4febda91828545e0b1f0fdf8b2e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21585v1",
+    "arxiv_id": "2607.21585v1",
+    "title": "Expanding Flow Maps",
+    "authors": [
+      "Sophia Tang",
+      "Pranam Chatterjee"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Expanding Generative Flows for Continuous and Discrete State Spaces",
+    "tldr": "Expanding Generative Flows (EFlows) generalize flow-based models to handle variable dimensionality, enabling flexible generation across continuous and discrete domains. By interpolating between distributions of increasing size, EFlows allow scalable, controllable synthesis without fixed sequence lengths.",
+    "significance": "EFlows break the dimensionality constraint of traditional flows, opening new possibilities for dynamic data generation in AI.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "74cafe5dff9c5d9a59d2a36090ad28d5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21579v1",
+    "arxiv_id": "2607.21579v1",
+    "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+    "authors": [
+      "Dawei Li",
+      "Xiaotian Jiang",
+      "Mingyi Hong"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Barzilai–Borwein Method Fails Superlinear Convergence on Quadratics for All Dimensions n≥4",
+    "tldr": "The study shows that the Barzilai–Borwein algorithm does not achieve superlinear convergence on a broad open set of strictly convex quadratic problems, regardless of dimension n≥4. This challenges a long‑standing assumption about the method’s performance.",
+    "significance": "It overturns the belief that BB is universally superlinearly convergent for convex quadratics, impacting its theoretical foundation and practical use.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f199cbb44c0de85bf6bc23455fd54b9a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21578v1",
+    "arxiv_id": "2607.21578v1",
+    "title": "The Stability Landscape in Wave-Packet Scattering: Geometric Rigidity and Sharp Sobolev Thresholds",
+    "authors": [
+      "Max Getter",
+      "S. Ivan Trapasso"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Wave-Packet Scattering: Geometric Rigidity and Sharp Sobolev Thresholds in Harmonic Analysis",
+    "tldr": "The paper establishes a sharp relationship between wave-packet scattering representations and Sobolev regularity, revealing geometric rigidity phenomena. It provides new quantitative bounds that improve robustness of multiscale signal analysis under nonlinear coordinate changes.",
+    "significance": "These results advance the theoretical foundations of signal representation, offering tighter control over nonlinear distortions in harmonic analysis.",
+    "tags": [
+      "foundation-models",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "646eefa97253c9b6fa41b02a5514acaa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21577v1",
+    "arxiv_id": "2607.21577v1",
+    "title": "Synthetic data generation framework for quality control automation in gravure printing",
+    "authors": [
+      "Korota Arsène Coulibaly",
+      "Mohamed Hamlich",
+      "Khalid Hmali"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Synthetic Data Framework Boosts Automated Quality Control in Rotogravure Printing",
+    "tldr": "A new synthetic data generation framework enables robust training of deep learning models for defect detection in rotogravure printing. By automating surface defect identification, the system reduces reliance on manual inspection and improves quality control efficiency.",
+    "significance": "This framework addresses the scarcity of labeled data, accelerating deployment of AI-driven quality assurance in high-volume printing operations.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "93b1382086196dc93763ad5deab703d6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21576v1",
+    "arxiv_id": "2607.21576v1",
+    "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+    "authors": [
+      "Lukas Knobel",
+      "Andrew Zisserman",
+      "Yuki M. Asano"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Self‑Supervised Decomposition of Camera and Object Motion in Video",
+    "tldr": "The paper introduces a self‑supervised framework that separates camera movement from object motion in natural videos, enabling more robust visual representations. By disentangling these intertwined dynamics, the method improves downstream tasks such as action recognition and scene understanding.",
+    "significance": "It provides a scalable way to learn motion representations without costly annotations, advancing visual AI.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ee8a410fc0c0d30001604ec52e5a089f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21574v1",
+    "arxiv_id": "2607.21574v1",
+    "title": "Surprisal Theory is Tautological (without Rational Grounding)",
+    "authors": [
+      "Ryan Cotterell"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Surprisal Theory Is Tautological: Any Difficulty Measure Can Be Modeled Affinely",
+    "tldr": "Surprisal theory claims processing difficulty equals surprisal under a language model. I show this is tautological: for any difficulty measure, a suitable language model can be constructed to satisfy the claim.",
+    "significance": "This undermines the empirical grounding of surprisal theory and calls for stricter constraints on language models.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8d927a1cf126a7fc58b784f8668b437c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21573v1",
+    "arxiv_id": "2607.21573v1",
+    "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+    "authors": [
+      "Hongnan Ma",
+      "Yiwei Shi",
+      "Mengyue Yang"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "TimePNS: Counterfactual Necessity Improves Faithful Explanations for Time-Series Classifiers in Complex Domains",
+    "tldr": "TimePNS introduces a counterfactual necessity criterion that ensures identified subsequences are essential for a model’s prediction, addressing the spurious importance issue of sufficiency-only methods. The approach demonstrates improved faithfulness on benchmark time-series datasets, offering a more reliable interpretability tool.",
+    "significance": "By ensuring necessity, TimePNS provides more trustworthy explanations, critical for high-stakes time-series applications.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "72d23ed78f8ff9356908bae315089444",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21572v1",
+    "arxiv_id": "2607.21572v1",
+    "title": "Generic degrees of real polynomial Keller maps with non-dense image",
+    "authors": [
+      "Piotr Migus"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Even Generic Degrees of Real Polynomial Keller Maps with Non-Dense Image",
+    "tldr": "We classify the generic degrees of real polynomial Keller maps whose image is not dense. The degree must be even and at least four, and we construct examples for every even integer ≥4 in dimension three.",
+    "significance": "This result completes the classification of generic degrees for a fundamental class of polynomial maps, resolving a long-standing question in algebraic geometry.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "246b3ed8b43ac960bf7d1cefc0ad6ba9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21571v1",
+    "arxiv_id": "2607.21571v1",
+    "title": "Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering",
+    "authors": [
+      "Zikui Cai",
+      "Kaushal Janga",
+      "Tan Dat Dao"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "Continuous Embodied QA: Addressing Memory Bottlenecks for Real‑World Robot Interaction",
+    "tldr": "Traditional embodied question answering evaluates agents episodically, resetting state each time. This paper identifies memory architecture limits in continuous, sequential settings and proposes solutions for persistent knowledge retention.",
+    "significance": "It bridges the gap between episodic benchmarks and real‑world continuous robot operation by highlighting memory bottlenecks.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a29d36d764028c2fbb130fcb5a0c0283",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.21570v1",
+    "arxiv_id": "2607.21570v1",
+    "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+    "authors": [
+      "Qian Wu",
+      "Xinrong Zhou",
+      "Zizhan Ma"
+    ],
+    "published": "2026-07-23",
+    "curated_at": "2026-07-25",
+    "headline": "MedGame: Turning Clinical Cases into Interactive Storytelling Games with Large Language Models",
+    "tldr": "MedGame uses LLMs to convert static clinical cases into structured, decision‑centered storytelling games, enabling immersive, executable learning trajectories for medical trainees. The framework supports dynamic, branching narratives that adapt to learner choices, fostering deeper engagement and assessment.",
+    "significance": "It bridges the gap between static case studies and interactive, AI‑driven learning, offering a scalable tool for medical education.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "6feb3284f814812d742f2525b2594eef",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.21595v1",
@@ -1135,292 +1412,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "4a110814fb260fbaf65f552c782cc56b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16192v1",
-    "arxiv_id": "2607.16192v1",
-    "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
-    "authors": [
-      "Homanga Bharadhwaj",
-      "Yash Jangir"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Predicting Future 3D Scene Flow from Monocular Human-Object Interaction Videos",
-    "tldr": "MotionForesight repurposes existing video models to anticipate future 3D scene flow in human-object interactions. By analyzing short observed video clips, it predicts how objects will move, enabling more realistic physical reasoning.",
-    "significance": "This approach provides a scalable way to infer physical dynamics from ordinary videos, advancing autonomous understanding of object motion.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "737fdeeb09748065ce71d52d27110b0b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16191v1",
-    "arxiv_id": "2607.16191v1",
-    "title": "Cosmological Evidence for Dark Axion-Dark Baryon Interactions from Apparent Phantom Crossing",
-    "authors": [
-      "Justin Khoury",
-      "Meng-Xiang Lin",
-      "Mark Trodden"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Dark Axion–Dark Baryon Interaction Mimics Phantom Crossing in Cosmic Expansion",
-    "tldr": "Recent DESI BAO, CMB, and SNe Ia data suggest an apparent phantom-crossing behavior that can be explained by interactions between dark axions and dark baryons. This model provides a natural explanation for the observed expansion history without invoking exotic dark energy.",
-    "significance": "It offers a testable framework linking dark matter interactions to cosmological observations, potentially resolving tensions in the Hubble constant.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8f0df8b8dff27283e0af456edb3e5fe0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16189v1",
-    "arxiv_id": "2607.16189v1",
-    "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
-    "authors": [
-      "Ce Zhang",
-      "Ziyang Wang",
-      "Yulu Pan"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Self-Correcting Agents for Grounded Long-Video Question Answering via Tree-Structured Exploration",
-    "tldr": "The paper proposes a self-correcting agent that treats long-video QA as a tree search, enabling fine-to-coarse backtracking to refine evidence intervals. This approach improves localization accuracy and reduces search time compared to prior coarse-to-fine methods.",
-    "significance": "It introduces a novel backtracking primitive that significantly enhances evidence localization in long-video QA.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dab3f0a094f0cb838f0d0585b86bc161",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16184v1",
-    "arxiv_id": "2607.16184v1",
-    "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-    "authors": [
-      "Yuchen Yang",
-      "Yifan Zhao",
-      "Anisha Dasgupta"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "PagedWeight: Dynamic Quantization for Efficient MoE LLM Serving, Reducing GPU Memory Footprint",
-    "tldr": "PagedWeight dynamically quantizes MoE model weights during serving to balance GPU memory usage between weights and KV cache, enabling efficient inference in memory-constrained environments. The method improves throughput while maintaining accuracy, making MoE LLMs more practical for real-time applications.",
-    "significance": "By decoupling weight storage from KV cache, PagedWeight allows MoE LLMs to scale to larger contexts without exhausting GPU memory, a key bottleneck in deployment.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2d48a0104274e167a9e4959678a96237",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16183v1",
-    "arxiv_id": "2607.16183v1",
-    "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
-    "authors": [
-      "Owen Lockwood",
-      "Jérémy Béjanin",
-      "Joost Bus"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Energy-Efficient Thermodynamic Computing Stack Using Langevin Dynamics for Fast ML Workloads",
-    "tldr": "We propose a thermodynamic computing stack that harnesses Langevin dynamics for energy-efficient, fast analog processing. This approach offers a scalable, differentiable framework for machine learning workloads with reduced energy and latency.",
-    "significance": "This blueprint demonstrates how physical stochastic processes can replace conventional digital computations, potentially transforming the energy profile of AI systems.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0043d7af81353072c24e6c921aca3712",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16181v1",
-    "arxiv_id": "2607.16181v1",
-    "title": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
-    "authors": [
-      "Harine Choi",
-      "Eun Hak Lee",
-      "Zhengzhong Tu"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Vision‑Language Assistant Generates Emotional Alerts for Risky Driving to Enhance Driver Safety",
-    "tldr": "The study presents KYA, a vision‑language pipeline that identifies risky driving maneuvers and produces emotionally resonant feedback to improve driver awareness. By incorporating affective responses, KYA offers a more user‑centric safety experience than conventional detection systems.",
-    "significance": "Integrating emotional feedback into driving risk detection bridges the gap between technical safety alerts and human drivers’ emotional states, potentially reducing accidents and enhancing user comfort.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7e2729d231169e1fb5cf450139bfafd3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16180v1",
-    "arxiv_id": "2607.16180v1",
-    "title": "A Dynamical Phase-Field Model for the Optical Properties of Ferroelectrics",
-    "authors": [
-      "Aiden Ross",
-      "Anya Frazer",
-      "Venkatraman Gopalan"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Dynamic Phase-Field Model Unveils Optical Behavior of Ferroelectric Photonic Devices",
-    "tldr": "Researchers present a dynamic phase-field model that links ferroelectric domain evolution to optical response, enabling predictive design of photonic devices. The model captures strong coupling between spontaneous polarization and refractive index, offering a new tool for engineering ferroelectric-based optics.",
-    "significance": "This work provides the first theoretical framework to predict how domain dynamics affect optical properties, accelerating the design of tunable photonic devices.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "45d05ecd9046e534fe5125ecbbc55ecd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16178v1",
-    "arxiv_id": "2607.16178v1",
-    "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
-    "authors": [
-      "Gabriel Samberg",
-      "YoonHaeng Hur",
-      "Yuehaw Khoo"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Cluster-Aware Matching via Laplacian Optimal Transport: Robust Region Alignment for Structured Point Clouds",
-    "tldr": "This paper introduces a Laplacian optimal transport framework that aligns point clouds by matching their underlying cluster structures rather than individual points. The method achieves robust region-to-region correspondence, improving performance on datasets with intrinsic cluster organization.",
-    "significance": "It provides a scalable, cluster-aware matching technique that enhances alignment accuracy for complex point cloud data, benefiting applications in remote sensing and 3D reconstruction.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "remote-sensing"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ec99d2d26044d47083f24599c7ba9132",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16177v1",
-    "arxiv_id": "2607.16177v1",
-    "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
-    "authors": [
-      "Matteo Tomasetto",
-      "Nicolò Botteghi",
-      "Gabriele Bruni"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Physics-Enhanced Reinforcement Learning Enables Real-Time Optimal Control of Complex Dynamical Systems",
-    "tldr": "This paper proposes integrating physics models into reinforcement learning to improve sample efficiency and enable real-time control of nonlinear dynamical systems. By leveraging domain knowledge, the method reduces the need for extensive environment interactions and achieves near-optimal performance with limited sensors and actuators.",
-    "significance": "It bridges the gap between data-driven RL and physics-based control, making RL viable for safety-critical real-time applications.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d713921452f65a0ce07d72aed187172d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.16176v1",
-    "arxiv_id": "2607.16176v1",
-    "title": "Quantum scanning synthetic optical holography",
-    "authors": [
-      "Josué R. León-Torres",
-      "Byron Caiza",
-      "Nadia Baumann"
-    ],
-    "published": "2026-07-17",
-    "curated_at": "2026-07-20",
-    "headline": "Quantum Scanning Synthetic Optical Holography Enhances Undetected-Light Imaging for High-Resolution Phase Mapping",
-    "tldr": "This study extends synthetic optical holography into the quantum regime, enabling quantitative phase imaging with undetected light. By integrating a controlled synthetic phase carrier into a scanning quantum imaging system, the authors achieve high-resolution, real-time holographic reconstruction.",
-    "significance": "It opens new avenues for quantum-enhanced imaging techniques with potential applications in microscopy and beyond.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "faf136b9271aea829a0457bf3c01c054",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15262v1",
-    "arxiv_id": "2607.15262v1",
-    "title": "Dynamic Entanglement Distribution for Multi-User and Multi-Protocol Quantum Networking",
-    "authors": [
-      "Rui Wang",
-      "Marcus J. Clark",
-      "Obada Alia"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "Dynamic Entanglement Distribution Enables Metropolitan-Scale Quantum Networking",
-    "tldr": "The study demonstrates a quantum reconfigurable optical add-drop multiplexer (q-ROADM) that dynamically routes polarization-entangled photon pairs to six users across a campus. This approach showcases scalable, multi-user quantum communication over existing fiber infrastructure.",
-    "significance": "It provides a practical, reconfigurable solution for expanding quantum networks to real-world metropolitan settings.",
-    "tags": [
-      "urban-AI",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f10054f8fbece1e48ad32ee33d74d417",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.15261v1",
-    "arxiv_id": "2607.15261v1",
-    "title": "Relativistic time-commutative dynamics with $κ$-plane noncommutativity",
-    "authors": [
-      "Alessandro Moia",
-      "Stefano Stocchetti",
-      "Giovanni Amelino-Camelia"
-    ],
-    "published": "2026-07-16",
-    "curated_at": "2026-07-19",
-    "headline": "κ-Plane Noncommutativity in Relativistic Dynamics",
-    "tldr": "The paper investigates time‑commutative dynamics on a κ‑deformed plane, deriving modified relativistic equations and exploring their implications for quantum‑gravity phenomenology.",
-    "significance": "It provides a novel framework connecting noncommutative geometry to potentially observable relativistic effects.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
