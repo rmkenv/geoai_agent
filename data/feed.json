@@ -1,5 +1,288 @@
 [
   {
+    "uid": "d95ebdf35782165e3b2a4cb8acda6d05",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22535v1",
+    "arxiv_id": "2607.22535v1",
+    "title": "Robot-Factored World Models via Robot Rendering",
+    "authors": [
+      "Byungjun Kim",
+      "Taeksoo Kim",
+      "Hyunsoo Cha"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "Robot-Factored World Models: Rendering Actions for Accurate Future Observation Prediction",
+    "tldr": "We propose a robot-factored world model that separates robot motion from scene dynamics, improving action-conditioned video predictions. By rendering robot actions explicitly, the model better captures contact and object motion, leading to more accurate future observation forecasts.",
+    "significance": "This approach enhances predictive accuracy in robotics by decoupling robot control from environmental response, enabling more reliable planning.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e6a7e6e939a5824ba10aedea1a9f4b25",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22534v1",
+    "arxiv_id": "2607.22534v1",
+    "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+    "authors": [
+      "Shing Ho J. Lin",
+      "Wenzhao Zheng",
+      "Dong Zhuo"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "SM4RT: Structured Motion Geometry for 4D Reconstruction with Foundation Models",
+    "tldr": "SM4RT introduces a novel approach that learns structured motion geometry, enabling accurate 4D reconstruction from monocular imagery. By leveraging geometry foundation models, it overcomes the limitations of point‑wise motion methods and captures coherent physical motion.",
+    "significance": "This work advances dynamic 3D reconstruction by integrating structured motion modeling into foundation models, paving the way for more realistic and scalable 4D scene understanding.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f8ec844b2f55e66aa305d257dd641e06",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22531v1",
+    "arxiv_id": "2607.22531v1",
+    "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+    "authors": [
+      "Kaixiong Gong",
+      "Xin Cai",
+      "Bin Lin"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "Twins: Predict Unified Visual Representations Using Focal Loss for Multimodal Models",
+    "tldr": "The Twins framework learns a shared visual token space that bridges semantic and generative representations by predicting unified embeddings with a focal loss. This approach resolves mismatched latent spaces in continuous pipelines, improving both multimodal understanding and image synthesis.",
+    "significance": "By aligning semantic and generative latent spaces, Twins enhances the compatibility of foundation models for downstream vision tasks and generative applications.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "97e4ea71bc612651112c9963fbf6b7cc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22530v1",
+    "arxiv_id": "2607.22530v1",
+    "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+    "authors": [
+      "Yunao Huang",
+      "Shiyu Sang",
+      "Haotao Lu"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "ViTacWorld: Scaling Visuo‑Tactile Models Using Action‑Conditioned Learning for Robust Contact‑Rich Robot Manipulation",
+    "tldr": "ViTacWorld introduces an action‑conditioned visuo‑tactile world model that learns from limited real‑world tactile data, enabling robots to perform contact‑rich manipulation tasks with higher robustness. The framework leverages a scalable dataset and open‑source architecture, demonstrating state‑of‑the‑art performance across diverse manipulation scenarios.",
+    "significance": "By bridging the gap between visual perception and tactile sensing, ViTacWorld paves the way for more reliable and generalizable robot manipulation in real‑world settings.",
+    "tags": [
+      "foundation-models",
+      "object-detection",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4d6ab6d8dc90b8f0ec8665c22ea02edb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22529v1",
+    "arxiv_id": "2607.22529v1",
+    "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+    "authors": [
+      "Siyuan Huang",
+      "Pengyu Cheng",
+      "Haotian Liu"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "Skill Self-Play: Advancing LLMs via Co-Evolving Skills and Self-Generated Tasks",
+    "tldr": "LLMs are moving from manual annotation to interaction-driven self-evolution. Current methods struggle to balance narrow, verifiable tasks with broad, open-ended generation.",
+    "significance": "This work proposes a framework that reconciles task diversity with reliable verification, enabling LLMs to autonomously expand their skill set.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "bd5e26ad1a07ed88b28c261159281604",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22527v1",
+    "arxiv_id": "2607.22527v1",
+    "title": "Effective field theories of nonlinear fluctuating hydrodynamics in one dimension",
+    "authors": [
+      "Matija Koterle",
+      "Enej Ilievski"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "Effective Field Theories Illuminate Superdiffusive Transport in One-Dimensional Nonlinear Hydrodynamics",
+    "tldr": "This work develops effective field theories to capture the emergent superdiffusive transport observed in one-dimensional interacting systems. By integrating nonlinear fluctuating hydrodynamics, it provides a framework that bypasses perturbative limitations inherent to low-dimensional physics.",
+    "significance": "It offers a powerful theoretical tool to predict and analyze anomalous transport phenomena that defy conventional diffusion models.",
+    "tags": [
+      "diffusion-models",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9767d1ebf07eaad00679cc23566addee",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22525v1",
+    "arxiv_id": "2607.22525v1",
+    "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
+    "authors": [
+      "Anduel Mehmeti",
+      "Gabriella Gigante",
+      "Salvatore Venticinque"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "Explainable Reinforcement Learning Enhances Trust and Decision-Making for Air Traffic Controllers",
+    "tldr": "This study demonstrates how explainable reinforcement learning can support air traffic controllers by providing transparent, real-time decision guidance. The approach improves trust and safety in high-stakes aviation operations.",
+    "significance": "By making AI decisions interpretable, the research paves the way for safer, more reliable automation in air traffic management.",
+    "tags": [
+      "real-time",
+      "spatial-reasoning",
+      "urban-AI"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d5b92f914c2fdfd2c698e5843f4a8fd2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22524v1",
+    "arxiv_id": "2607.22524v1",
+    "title": "Machine-Checked Arithmetic Bit Complexity of the Kannan-Bachem Smith Normal Form in Lean 4",
+    "authors": [
+      "Junye Ji"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "Formal Verification of Smith Normal Form Algorithm in Lean 4 with Bit Complexity Analysis",
+    "tldr": "We formalize the Kannan–Bachem Smith normal form algorithm for integer matrices in Lean 4, proving correctness and inverse identities. Additionally, we analyze and bound the bit complexity, showing termination via decreasing binary size.",
+    "significance": "This work provides the first machine-checked proof of the Smith normal form algorithm’s correctness and complexity, enhancing trust in formalized algebraic tools.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "684d0926835b80f57f25609f398ef039",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22523v1",
+    "arxiv_id": "2607.22523v1",
+    "title": "Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City",
+    "authors": [
+      "Ariel Noyman"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "Gridnberg: Topography-Aware Pedestrian Routing Dataset for New York City Streets",
+    "tldr": "This paper presents Gridnberg, a dataset that incorporates elevation data into pedestrian routing for NYC, addressing limitations of planar street graphs. The dataset improves route impedance modeling and accessibility analysis by accounting for grade differences across the city.",
+    "significance": "Gridnberg enables more accurate pedestrian navigation and urban planning by integrating topography into street network analysis.",
+    "tags": [
+      "remote-sensing",
+      "urban-AI",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "df957a46520122084d467b1421a661a0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22520v1",
+    "arxiv_id": "2607.22520v1",
+    "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
+    "authors": [
+      "Darshan Tank",
+      "Baran Nama"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "When Adding Skills to LLMs Backfires: The Regression Tax Explained",
+    "tldr": "Adding procedural skills to LLM agents can improve or degrade performance. Our large-scale study across 6,000 runs shows that the average success metric masks a hidden regression cost, guiding better skill integration.",
+    "significance": "This work uncovers a critical trade-off in LLM agent design, showing that skill augmentation can backfire and must be carefully evaluated.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2bd380dfa1ac7088f95e6324145c1f75",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22518v1",
+    "arxiv_id": "2607.22518v1",
+    "title": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
+    "authors": [
+      "Olafur Gudmundsson",
+      "Bo Zhao",
+      "Huayi Liao"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "PinEqualizer: Debiasing Cold-Start Content Across Pinterest's Search and Recommendation Funnel",
+    "tldr": "PinEqualizer tackles the content cold-start problem by exploring new content throughout the entire multi-stage funnel. It generalizes to both search and recommendation surfaces while reducing bias toward existing content.",
+    "significance": "It enables fairer, more diverse content exposure at scale, improving user engagement.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1a96efb16957742e555d749ed1132212",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.22517v1",
+    "arxiv_id": "2607.22517v1",
+    "title": "Is S301 the Captured Companion of the Hypervelocity Star S5-HVS1?",
+    "authors": [
+      "Andrea Caputo",
+      "Giovanni Maria Tomaselli"
+    ],
+    "published": "2026-07-24",
+    "curated_at": "2026-07-27",
+    "headline": "S301 Reveals Captured Companion of Hypervelocity Star S5-HVS1",
+    "tldr": "The hypervelocity star S5-HVS1, ejected from the Galactic Center, implies a bound companion orbiting the supermassive black hole. GRAVITY observations of S301 confirm this companion, providing a direct test of the Hills mechanism.",
+    "significance": "This discovery offers the first observational evidence linking a hypervelocity star to its captured counterpart, validating theoretical models of binary disruption near supermassive black holes.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d33ad22dade448fdef342499b328135d",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.21593v1",
@@ -1124,294 +1407,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "a5c7af220d2fc9c79080f7419445a0a9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19344v1",
-    "arxiv_id": "2607.19344v1",
-    "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
-    "authors": [
-      "Rahul Sajnani",
-      "Yulia Gryaditskaya",
-      "Radomír Měch"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "Multimodal Region Control for Diffusion Transformers: Enhancing Precise Image Generation",
-    "tldr": "This work introduces a method to give users fine-grained regional control over Diffusion Transformers, enabling precise manipulation of materials, object identities, and spatial layouts. By integrating heterogeneous tokens and spatial guidance, the approach surpasses text-only prompting and opens new possibilities for creative professionals.",
-    "significance": "It bridges the gap between text-based prompts and spatially-aware image editing, empowering designers with unprecedented control.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3242dddd278348f33547c0497490eac0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19343v1",
-    "arxiv_id": "2607.19343v1",
-    "title": "Masked Visual Actions for Unified World Modeling",
-    "authors": [
-      "Hadi Alzayer",
-      "Wenlong Huang",
-      "Haonan Chen"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "Masked Visual Actions: Bridging Video Models and Physical Manipulation for Unified World Modeling",
-    "tldr": "This paper introduces Masked Visual Actions, a method that encodes robotic actions directly into the visual space of pretrained video models, enabling them to predict and plan interactions in a unified representation. By aligning action signals with learned visual priors, the approach facilitates more natural and efficient world modeling for robotics.",
-    "significance": "It enables seamless integration of visual perception and action planning in robotics, leveraging foundation video models.",
-    "tags": [
-      "foundation-models",
-      "segmentation",
-      "object-detection",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cd7708e6e31d516fc357b4ba91b252cd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19341v1",
-    "arxiv_id": "2607.19341v1",
-    "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
-    "authors": [
-      "Yuan Wang",
-      "Yongchao Du",
-      "Mengting Chen"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "ExpertVerse: Benchmarking Expert-Level Reasoning in Knowledge-Driven Visual Generation for Multimodal Models and Generative AI",
-    "tldr": "ExpertVerse introduces a benchmark that evaluates multimodal generative models on expert-level, knowledge-intensive visual reasoning tasks, moving beyond simple commonsense or direct knowledge recall. It tests models’ ability to perform deep causal reasoning and knowledge-driven image synthesis, highlighting gaps in current state-of-the-art systems.",
-    "significance": "By providing a rigorous, capability-centric evaluation, ExpertVerse pushes the field toward truly intelligent visual synthesis that can reason with complex knowledge.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9fc30de4fa9eb80c1928bd9f92ad4a02",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19340v1",
-    "arxiv_id": "2607.19340v1",
-    "title": "Integral representation of the neutrino mass-squared differences",
-    "authors": [
-      "I. Alikhanov"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "Integral Representation of Neutrino Mass-Squared Differences: A New Theoretical Perspective",
-    "tldr": "We propose a simple integral representation for neutrino mass-squared differences, offering a complementary view on oscillation parameters. This approach may help constrain theoretical models and guide future experiments.",
-    "significance": "Providing a novel analytic framework could sharpen predictions for neutrino oscillation experiments and aid in determining the absolute neutrino mass scale.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c82b51cf78f90eec481a653bc27d39c2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19339v1",
-    "arxiv_id": "2607.19339v1",
-    "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
-    "authors": [
-      "Yu Chen",
-      "Caorui Li",
-      "Ziyu Xiong"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "OmniReasoner: Enabling Long Audio‑Video Reasoning via Tool‑Use in Omnimodal LLMs",
-    "tldr": "OmniReasoner trains LLMs to selectively invoke tools for long audio‑video inputs, reducing the need for high‑fidelity storage. The framework combines supervised fine‑tuning and reinforcement learning to identify when and where tool calls are most beneficial.",
-    "significance": "By allowing LLMs to focus computational resources on decisive evidence, OmniReasoner improves efficiency and accuracy in multimodal reasoning tasks.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e81f34e4218ba710688a51752bd5315c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19338v1",
-    "arxiv_id": "2607.19338v1",
-    "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
-    "authors": [
-      "Qijia He",
-      "Jiayi Cheng",
-      "Chenqian Le"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "CodeRescue: Budget‑Aware Recovery Routing for Coding Agents Using Execution Feedback",
-    "tldr": "CodeRescue introduces a budget‑calibrated routing framework that uses execution feedback to guide cheap‑model retries before escalating to expensive models. The approach reduces cost while maintaining high success rates in coding tasks.",
-    "significance": "By leveraging actionable execution feedback, CodeRescue improves cost efficiency and reliability of large language models in code generation.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b6ac8b35ba9b8ab419b64dbe55eb20c6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19336v1",
-    "arxiv_id": "2607.19336v1",
-    "title": "Agents in the Wild: Where Research Meets Deployment",
-    "authors": [
-      "Grace Hui Yang",
-      "Pranav N. Venkit",
-      "Hooman Sedghamiz"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "From Lab to Live: Deploying Agentic LLM Systems in Real-World Applications",
-    "tldr": "Agentic systems built on large language models are moving beyond research prototypes to production deployments across software engineering, science, and finance. This shift highlights the need to move beyond benchmarks toward real-world integration and operational reliability.",
-    "significance": "The transition underscores the importance of practical deployment considerations, such as scalability, robustness, and tool coordination, for the broader adoption of AI agents.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e9ee7599ddada58a0a3a1966c0b82d78",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19335v1",
-    "arxiv_id": "2607.19335v1",
-    "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
-    "authors": [
-      "Davide Murari",
-      "Marta Ghirardelli",
-      "Ben Adcock"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "Building 1‑Lipschitz Neural Networks on Hadamard Manifolds for Robust Geometric Learning",
-    "tldr": "We introduce gradient‑descent layers that are 1‑Lipschitz and quasi‑α‑firmly nonexpansive, enabling neural networks to operate on Hadamard manifolds. This framework extends Lipschitz‑constrained learning to non‑Euclidean spaces, improving robustness and stability.",
-    "significance": "This work generalizes Lipschitz‑constrained neural networks to curved spaces, opening new avenues for robust geometric deep learning.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "321b72662e80356d99a365ad55a0d1e6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19334v1",
-    "arxiv_id": "2607.19334v1",
-    "title": "Fundamental limits of distributed multiclass classification from simple binary decisions",
-    "authors": [
-      "Ioannis Papageorgiou",
-      "Srinivas Nomula",
-      "Ayalvadi Ganesh"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "Distributed Multiclass Classification: Limits of Logarithmic Binary Decision Aggregation in Networks",
-    "tldr": "The paper analyzes how a K-class classifier built from only O(log K) simple binary hyperplane classifiers behaves in distributed settings. It establishes theoretical bounds on accuracy and shows that even with optimal binary decisions, the overall performance cannot surpass a certain threshold, guiding practical design of scalable multi‑class systems.",
-    "significance": "It provides the first rigorous limits for distributed multiclass learning, informing the design of efficient, scalable classifiers in edge and networked AI.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9800ede54bf0cc93f9793be2ba5da8e8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19333v1",
-    "arxiv_id": "2607.19333v1",
-    "title": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
-    "authors": [
-      "Yuchen Jiao",
-      "Na Li",
-      "Changxiao Cai"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "Provable Diffusion-Based Posterior Sampling for Linear Inverse Problems via DDIM",
-    "tldr": "We introduce PDDIM, a diffusion-based posterior sampler that provably solves linear inverse problems efficiently. The algorithm achieves rigorous guarantees while reducing computational overhead compared to existing methods.",
-    "significance": "PDDIM bridges the gap between theoretical rigor and practical efficiency in diffusion-based inverse problem solving.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8d701349fd20b84defc8b84186345e80",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19332v1",
-    "arxiv_id": "2607.19332v1",
-    "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
-    "authors": [
-      "Chirag Vashist",
-      "Ke Li"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "ROMS-IMLE: Simplifying Single-Step Generative Models for Competitive Performance in Real-Time Applications",
-    "tldr": "ROMS-IMLE introduces a minimalist framework that achieves competitive results with single-step generative models, reducing complexity compared to multi-step diffusion or flow matching approaches. The method demonstrates comparable performance while enabling faster inference and easier deployment.",
-    "significance": "It shows that simpler generative architectures can rival state-of-the-art diffusion models, potentially lowering barriers to adoption.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dcd7ef61a5e0a6900933406ed030ab8c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.19331v1",
-    "arxiv_id": "2607.19331v1",
-    "title": "ISO: An RLVR-Native Optimization Stack",
-    "authors": [
-      "Hanqing Zhu",
-      "Wenyan Cong",
-      "Zhizhou Sha"
-    ],
-    "published": "2026-07-21",
-    "curated_at": "2026-07-22",
-    "headline": "ISO: Spectral Inheritance in RLVR for Efficient Weight Updates in LLMs",
-    "tldr": "We introduce ISO, a reinforcement learning with verifiable rewards (RLVR)-native optimization stack that leverages spectral inheritance to convert reward signals into efficient weight-space updates. Our analysis demonstrates that spectral structure of model weights can be exploited to accelerate training while preserving reasoning capabilities.",
-    "significance": "ISO provides a principled framework to bridge reward signals and weight updates, potentially transforming how foundation models learn from verifiable feedback.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
