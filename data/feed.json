@@ -1,5 +1,243 @@
 [
   {
+    "uid": "3c9f6f3cbd71aba486904bbbb5952236",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26058v1",
+    "arxiv_id": "2607.26058v1",
+    "title": "The evolution of galaxy dust scaling relations in the COLIBRE simulations",
+    "authors": [
+      "Aswin P. Vijayan",
+      "James W. Trayford",
+      "Joop Schaye"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Tracing Dust Evolution Across Cosmic Time in COLIBRE Simulations",
+    "tldr": "We map dust mass functions from z=15 to z=0 using the COLIBRE simulations, capturing dust production, growth, and destruction in a multiphase ISM. The results reveal evolving dust scaling relations that match observations and provide benchmarks for future models.",
+    "significance": "These findings offer a comprehensive, self-consistent framework for dust evolution that can calibrate galaxy formation models and interpret observational data across epochs.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "59d7fb71dab4442effba3681ab2c432d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26057v1",
+    "arxiv_id": "2607.26057v1",
+    "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+    "authors": [
+      "Haolei Xu",
+      "Xiaowen Xu",
+      "Haiwen Hong"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Mitigating Prefix Failure in On-Policy Distillation with Trajectory Relays for Large Language Models",
+    "tldr": "On-policy distillation uses the student’s own trajectory for supervision but suffers from prefix failure, where early mistakes lead to cascading errors. This paper introduces a trajectory-relayed approach that passes supervision only after correct prefixes, reducing misdirected continuations and saving compute.",
+    "significance": "This work offers a principled solution to prefix failure in on-policy distillation, enabling more reliable and efficient training of large language models.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b4ad1b09f9117bed051a6816d6cbbf81",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26055v1",
+    "arxiv_id": "2607.26055v1",
+    "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+    "authors": [
+      "Sungjae Park",
+      "Shubham Tulsiani"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Bridging the Gap: Real-Time Reactive Flow Policies for Generalist Manipulation",
+    "tldr": "Action-chunking flow policies built on large backbones run open-loop, losing reactivity. Frequent replanning could restore responsiveness, but the perception-to-action pipeline is too slow, limiting real-time performance.",
+    "significance": "This work highlights the trade-off between computational efficiency and reactivity in large-scale manipulation policies, pointing toward faster perception pipelines.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e616afbf3e8bdad329183a124f72ff47",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26053v1",
+    "arxiv_id": "2607.26053v1",
+    "title": "Proportional Fairness for Harmful Decisions",
+    "authors": [
+      "Benjamin Cookson",
+      "Soroush Ebadian",
+      "Dominik Peters"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Revisiting Core Concepts for Allocating Public Bads: Proportional Fairness Approach",
+    "tldr": "We analyze the allocation of public bads and show that traditional core definitions fail. We propose new formal criteria for proportional fairness in this context.",
+    "significance": "This work reshapes fairness criteria for public bad allocation, guiding policy design.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "00806bde69a6695ad40d55ab1568037b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26052v1",
+    "arxiv_id": "2607.26052v1",
+    "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
+    "authors": [
+      "Tom Saliencro",
+      "Rohan Desai",
+      "Priya Nair"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Confidence-Adaptive Routing Boosts Mixture-of-Experts LoRA Efficiency",
+    "tldr": "Mixture-of-Experts LoRA traditionally routes each token to a fixed number of experts, which can waste capacity on easy tokens and under-serve hard ones. By interpreting the router’s output distribution as a per-token uncertainty signal, the authors propose a confidence-adaptive routing scheme that dynamically adjusts the number of experts per token, improving efficiency and performance.",
+    "significance": "This approach optimizes resource allocation in large language models, reducing computational cost while maintaining or improving accuracy.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6b7a92f32eed5ae73292757e60138156",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26051v1",
+    "arxiv_id": "2607.26051v1",
+    "title": "QuickGWecc: Fast Bayesian pipeline for searching eccentric binaries in pulsar timing array data",
+    "authors": [
+      "Lankeswar Dey",
+      "Bence Bécsy",
+      "Abhimanyu Susobhanan"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Fast Bayesian Pipeline Uncovers Eccentric SMBH Binaries in Pulsar Timing Data",
+    "tldr": "QuickGWecc introduces a rapid Bayesian framework for detecting eccentric supermassive black hole binaries in pulsar timing array data. It significantly reduces computational cost while maintaining sensitivity, paving the way for timely identification of continuous gravitational waves.",
+    "significance": "This method accelerates the search for individual gravitational wave sources, enabling quicker multimessenger follow-up.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d2196663171b02497edc8625ba1514f1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26047v1",
+    "arxiv_id": "2607.26047v1",
+    "title": "S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information",
+    "authors": [
+      "Kaneyoshi Hiratsuka",
+      "Benjamin Yen",
+      "Ryosuke Kojima"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Robots Learn to Manipulate Using Sound: Acoustic Imitation for Object Localization",
+    "tldr": "This paper introduces acoustic-aware manipulation tasks where robots use auditory cues to locate and manipulate objects, requiring sound source localization and active exploration. It demonstrates that integrating acoustic spatial information improves imitation learning for manipulation.",
+    "significance": "It shows that auditory cues can be leveraged for real-time robotic manipulation, expanding the sensory modalities for imitation learning.",
+    "tags": [
+      "object-detection",
+      "spatial-reasoning",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "77b2f0b8a31012fd5b88a54f86f7f794",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26045v1",
+    "arxiv_id": "2607.26045v1",
+    "title": "Photonuclear Neutron Production in OpenMC: Verification Against MCNPX, FLUKA, and a First-Collision Analytical Solution",
+    "authors": [
+      "Lorenzo Loi",
+      "Andrea Missaglia",
+      "Carolina Introini"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Verifying Photonuclear Neutron Production in OpenMC with MCNPX, FLUKA, and Analytics",
+    "tldr": "OpenMC’s photonuclear module was benchmarked against MCNPX, FLUKA, and an analytical model. The results confirm its accuracy for high-energy photon-induced neutron production.",
+    "significance": "This validation establishes OpenMC as a reliable tool for simulating photonuclear reactions in diverse high-energy applications.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ea65944109e6811a647160b57f33bb24",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26043v1",
+    "arxiv_id": "2607.26043v1",
+    "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
+    "authors": [
+      "Adarsh Bhandary Panambur",
+      "Siming Bayer",
+      "Andreas Maier"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "Dataset-Informed Transfer Learning Boosts Mammography Classification Accuracy",
+    "tldr": "The DITL framework tailors transfer learning to the specific characteristics of each mammography dataset, outperforming conventional methods. It demonstrates improved diagnostic performance on both small curated sets and large clinical cohorts.",
+    "significance": "This approach addresses a key limitation in medical imaging AI by enabling scalable, dataset-aware transfer learning, potentially improving breast cancer screening outcomes.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4b33189adb19769b838dfe8ea7739a27",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.26042v1",
+    "arxiv_id": "2607.26042v1",
+    "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
+    "authors": [
+      "Syed Mhamudul Hasan",
+      "Anas AlSobeh",
+      "Hussein Zangoti"
+    ],
+    "published": "2026-07-28",
+    "curated_at": "2026-07-29",
+    "headline": "VetClaw: Edge-Cloud Multimodal System for Rapid Veterinary Disease Screening Using Vision-Language Models",
+    "tldr": "VetClaw combines an edge camera and a cloud-hosted vision‑language model to perform zero‑shot disease classification from images and optional text. The system decouples agent interaction from workflow orchestration, enabling real‑time veterinary screening in remote settings.",
+    "significance": "VetClaw demonstrates how multimodal foundation models can be deployed in edge‑cloud pipelines to provide timely, accurate disease screening for veterinary practitioners worldwide.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "53485cbc81c14519b90f09aadcfa4559",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.24744v1",
@@ -1176,243 +1414,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "bd3ab47a321cecaba4e9b76ab581aaaa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21594v1",
-    "arxiv_id": "2607.21594v1",
-    "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-    "authors": [
-      "Sicheng Mo",
-      "Yuheng Li",
-      "Ziyang Leng"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "WorldWeaver: Streaming Multi-Agent Diffusion Model with Persistent World State Registers",
-    "tldr": "WorldWeaver introduces a streaming autoregressive diffusion framework that maintains shared world state across multiple agents and viewpoints. By integrating state registers, it enables consistent, evolving observations in multi-agent interactive environments.",
-    "significance": "This approach resolves the state consistency challenge in multi-agent video generation, enabling more realistic and coordinated simulations.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "31596fac6dba72788e6362dc1b57e44f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21592v1",
-    "arxiv_id": "2607.21592v1",
-    "title": "Unified Video Dense Prediction from Disjoint Data",
-    "authors": [
-      "Yihong Sun",
-      "Seoung Wug Oh",
-      "Jiahui Huang"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "Unified Video Dense Prediction from Disjoint Data: Introducing the UniD Framework",
-    "tldr": "We present UniD, a framework that enables dense prediction across geometry, appearance, and semantics using disjoint datasets without requiring full co-annotation or expensive pseudo-labeling. UniD leverages cross-task consistency and efficient training to unify disparate annotations for video scene understanding.",
-    "significance": "UniD bridges fragmented annotations, enabling scalable, multi-task video perception without costly data alignment.",
-    "tags": [
-      "segmentation",
-      "object-detection",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "55fbb8363d1ff8d406c945f95e22e9e4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21591v1",
-    "arxiv_id": "2607.21591v1",
-    "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
-    "authors": [
-      "Rogerio Guimaraes",
-      "Pietro Perona"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "Speeding Diffusion Models at Inference with Progressive Seed Pruning for High-Quality Generation",
-    "tldr": "This paper introduces a method to prune seed noise in diffusion models during inference, reducing compute while maintaining image quality. By progressively discarding low-impact seed components, the approach achieves near real‑time performance without increasing memory usage.",
-    "significance": "It bridges the gap between diffusion model quality and practical deployment speed, enabling real‑time conditional image generation.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "da57aaeaf0c52b7a236764967afa37a3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21588v1",
-    "arxiv_id": "2607.21588v1",
-    "title": "AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation",
-    "authors": [
-      "Mengfei Zhao",
-      "Dihong Huang",
-      "Yikai Tang"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "AXIS: Community-Driven, Scalable Data Engine Enabling Browser-Based Teleoperation for Robot Manipulation",
-    "tldr": "AXIS is a growable, community-driven data engine that facilitates large-scale robot manipulation learning by enabling browser-based teleoperation. It provides an open-source benchmark and scalable pipeline that overcomes hardware and operator bottlenecks.",
-    "significance": "AXIS democratizes robot learning by making high-quality demonstration data accessible and scalable, accelerating research and deployment.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1a4de98da635db20d8a6382da200e9e3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21587v1",
-    "arxiv_id": "2607.21587v1",
-    "title": "XMM-Newton and Swift Unveil Another X-Ray Transient in NGC 4945, XMM J130514.64-493311.27",
-    "authors": [
-      "Ryan W. Pfeifle",
-      "Kimberly A. Weaver",
-      "Jenna M. Cann"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "XMM-Newton and Swift Spot New X-Ray Transient in NGC 4945",
-    "tldr": "Using XMM-Newton and Swift observations, astronomers discovered a new X-ray transient in the nearby galaxy NGC 4945. The transient adds to the growing list of variable high-energy sources in this starburst galaxy, offering insights into compact object populations.",
-    "significance": "This discovery expands our understanding of the dynamic X-ray source population in NGC 4945 and highlights the importance of coordinated multi-mission monitoring.",
-    "tags": [
-      "satellite-imagery",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7b74869a8b191ec5814c850f70d27b1e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21584v1",
-    "arxiv_id": "2607.21584v1",
-    "title": "Flow-based Phase-space Tomography of Continuous-variable Quantum States",
-    "authors": [
-      "Owen Dugan",
-      "Rumen Dangovski",
-      "Peter Y. Lu"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "Flow-Based Phase-Space Tomography of Continuous-Variable Quantum States Using Neural Density Models",
-    "tldr": "We present QST-Flow, a flow-based generative framework that reconstructs continuous-variable quantum states by modeling phase-space quasiprobabilities with neural densities, avoiding truncated density matrices. This approach reduces computational cost while preserving non-Gaussian features, enabling scalable tomography of high-dimensional quantum systems.",
-    "significance": "QST-Flow offers a scalable, efficient alternative to traditional tomography, potentially accelerating quantum computing and communication research.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "54bb7987cb60282218b90af89cedae09",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21582v1",
-    "arxiv_id": "2607.21582v1",
-    "title": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
-    "authors": [
-      "Yu Qi",
-      "Zhang Ye",
-      "Xinyi Xu"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "Diagnosing and Fixing Shortcut Bias in Robot Language Understanding",
-    "tldr": "We present a bias‑aware evaluation framework that pinpoints which instruction components (color, verb, object, size, spatial relations) cause pretrained policies to rely on shortcuts. By collecting targeted data, we improve compositional generalization for robotic manipulation tasks.",
-    "significance": "The work offers a systematic method to detect and mitigate shortcut learning, enabling robots to reliably interpret diverse natural language commands.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a9a6f1b4b50658b1e4931c5be0e56527",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21581v1",
-    "arxiv_id": "2607.21581v1",
-    "title": "Symmetry and Quantum Geometry in Bloch Bands",
-    "authors": [
-      "Ziwei Wang",
-      "Charlie Raca",
-      "Steven H. Simon"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "Exploring Symmetry Constraints on Quantum Geometric Quantities in Bloch Bands",
-    "tldr": "The paper investigates how lattice symmetries limit the variance of Berry curvature and the integrated quantum metric in tight‑binding models. It shows that certain symmetry classes enforce strict bounds on these geometric measures, impacting electronic properties.",
-    "significance": "Understanding symmetry‑imposed limits on quantum geometry is crucial for designing materials with tailored electronic responses.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "de5e009e74bb5800eed4deb45498c420",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21580v1",
-    "arxiv_id": "2607.21580v1",
-    "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-    "authors": [
-      "Vedant Shah",
-      "Onkar Susladkar",
-      "Tushar Prakash"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-24",
-    "headline": "GraphVid: Graph-Based Control for Interactive Multi-Object Video Generation Using Text and Motion Inputs",
-    "tldr": "GraphVid introduces a graph-based interface that lets users specify multi-object interactions in videos, overcoming limitations of pixel-level motion controls. By integrating trajectory graphs with diffusion models, it scales to complex scenes and handles occlusion without requiring precise tracks.",
-    "significance": "It enables scalable, intuitive control over complex video dynamics, advancing practical video generation.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a6bb1340a93bff6b0234b8e7f18ed8ba",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.20424v1",
-    "arxiv_id": "2607.20424v1",
-    "title": "Quantum Fisher Information in semiclassical magnon systems",
-    "authors": [
-      "Wolfgang Simeth",
-      "Pontus Laurell",
-      "Allen Scheie"
-    ],
-    "published": "2026-07-22",
-    "curated_at": "2026-07-23",
-    "headline": "Quantum Fisher Information Reveals Entanglement in Semiclassical Magnon Spin Systems",
-    "tldr": "This study uses finite-size spin models to connect QFI with entanglement metrics in solid-state systems. It demonstrates how QFI can serve as a spectroscopic probe for many-body quantum correlations.",
-    "significance": "By clarifying the role of QFI in condensed matter, the work provides a new diagnostic tool for detecting quantum entanglement in realistic materials.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
