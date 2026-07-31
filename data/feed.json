@@ -1,5 +1,292 @@
 [
   {
+    "uid": "8d2cbfacefbe672b7353e69861fbcbfe",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28628v1",
+    "arxiv_id": "2607.28628v1",
+    "title": "Learning to Trace Seiberg Dualities",
+    "authors": [
+      "Jonathan J. Heckman",
+      "Shani Meynet",
+      "Alessandro Mininno"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "Efficiently Identifying Seiberg Dualities for Quantum Field Theories Using AI-Driven Computational Techniques",
+    "tldr": "This paper introduces a systematic framework that leverages large language models to trace Seiberg dualities across supersymmetric gauge theories. By encoding duality rules into a benchmark dataset, we demonstrate rapid identification of dual pairs, reducing computational overhead by an order of magnitude.",
+    "significance": "The method accelerates duality discovery, enabling deeper exploration of non-perturbative phenomena in quantum field theory.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "269f70f214012d7f50f71f7543eaf27c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28627v1",
+    "arxiv_id": "2607.28627v1",
+    "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+    "authors": [
+      "Yao Xiao",
+      "Reuben Tan",
+      "Zhen Zhu"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "ReToken: A Single Token for Efficient Visual Retrieval in Vision-Language Models",
+    "tldr": "ReToken introduces a learnable embedding that acts as a retrieval target, selecting relevant visual tokens from a pre-filled cache. This approach reduces computational load and improves performance on long visual contexts.",
+    "significance": "ReToken enables scalable vision-language retrieval by drastically cutting token processing while maintaining accuracy, making it feasible for real-time applications.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3f49e6b0a8b029d8bd005f6bec369754",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28625v1",
+    "arxiv_id": "2607.28625v1",
+    "title": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
+    "authors": [
+      "Yukang Cao",
+      "Haozhe Xie",
+      "Beichen Wen"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "Human-Centric Ambient Capture: A New Embodied Data Engine for Full Perception-Action Loop",
+    "tldr": "This work introduces a comprehensive dataset that records first-person perception, motion, manipulation, and multimodal signals over time, enabling embodied intelligence models to learn the full perception-action loop. By integrating vision, audio, touch, and motion data in a unified framework, it addresses the fragmentation of existing datasets and provides a benchmark for future research.",
+    "significance": "It provides the first holistic, multimodal dataset that captures the continuous human experience, paving the way for more realistic embodied AI systems.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "152cd111de39f5894d7bd073ca4846c5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28624v1",
+    "arxiv_id": "2607.28624v1",
+    "title": "PhiZero: A World Model Built Around Physical Language",
+    "authors": [
+      "Shuyao Shang",
+      "Yuqi Wang",
+      "Ruopeng Gao"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "PhiZero: A Compact Physical Language Model for Predicting World-State Transitions",
+    "tldr": "PhiZero introduces a novel world model that encodes physical dynamics in a discrete language, enabling efficient prediction of future states. By abstracting video predictions into symbolic transitions, it offers a more interpretable and compact representation than pixel-based approaches.",
+    "significance": "This approach bridges the gap between visual perception and symbolic reasoning, paving the way for more interpretable AI systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "763097d122d9c330c3e64d4a3248f13e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28623v1",
+    "arxiv_id": "2607.28623v1",
+    "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+    "authors": [
+      "Lizhi Yang",
+      "Junheng Li",
+      "Aaron D. Ames"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "PAC-MAN: Perception-Aware Control Barrier RL for Safe Humanoid Dodgeball with Deployment-Realistic Sensing",
+    "tldr": "PAC-MAN integrates control-barrier functions with reinforcement learning to enable a humanoid robot to dodge balls safely using only head-mounted depth segmentation. The framework trains with full-body clearance guidance and an adversarial motion prior, then deploys with realistic onboard sensing for real-time performance.",
+    "significance": "This work demonstrates that perception-aware safety constraints can be learned and deployed on a humanoid, paving the way for robust, real-world interactive robotics.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f23a03bef1a79292fe151180a7a68ed7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28622v1",
+    "arxiv_id": "2607.28622v1",
+    "title": "A Four-dimensional Model-agnostic Probe into the Astrophysical Origins of Binary Black Hole Subpopulations",
+    "authors": [
+      "Anarya Ray",
+      "Vicky Kalogera"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "Unveiling Distinct Binary Black Hole Origins Using Model-Agnostic Gravitational-Wave Data Analysis",
+    "tldr": "Researchers identified multiple subpopulations of binary black holes in the LIGO-Virgo-KAGRA catalog, suggesting distinct evolutionary pathways. A model-agnostic approach reveals that uncertainties in stellar evolution and core collapse physics shape the observed mass and spin distributions.",
+    "significance": "This work refines our understanding of black hole formation channels, guiding future gravitational-wave observations and theoretical models.",
+    "tags": [
+      "LLM",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cabeb15461d402e45c18c35253eb8e60",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28618v1",
+    "arxiv_id": "2607.28618v1",
+    "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+    "authors": [
+      "Bing Yan",
+      "Gregory Wolfe",
+      "Stefano Martiniani"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "AskChem: A Claim-Centered Platform for Efficient Chemistry Literature Synthesis Across Multiple Sources",
+    "tldr": "AskChem provides a claim-centered infrastructure that aggregates and verifies specific findings across chemistry papers, enabling researchers and AI agents to quickly locate evidence and assemble cross-paper answers. By moving beyond simple ranked document lists, AskChem streamlines literature synthesis and provenance verification.",
+    "significance": "AskChem transforms chemistry literature review by automating evidence aggregation and provenance tracking, accelerating scientific discovery.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7dc38ae265f5ddf464f41f9f4874f515",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28617v1",
+    "arxiv_id": "2607.28617v1",
+    "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+    "authors": [
+      "Xiangning Lin",
+      "Shenzhe Zhu",
+      "Shu Yang"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "AISPA: Auditing System Prompts to Enhance Trust in Large Language Models",
+    "tldr": "System prompts dictate LLM behavior but are rarely disclosed, creating a trust gap. AISPA proposes a user-centric auditing framework to assess and certify these prompts, improving transparency and accountability.",
+    "significance": "AISPA addresses the critical transparency gap in AI deployment by providing a systematic method to audit and certify system prompts, thereby enhancing user trust and regulatory compliance.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "fa62a59e4a7eabc1a4e0431f1f46f0c7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28612v1",
+    "arxiv_id": "2607.28612v1",
+    "title": "Extraction of $σ_{TT}$ for Proton, Neutron, Deuteron and $^3$He from Quasi-real Photon Scattering",
+    "authors": [
+      "YiLei Li",
+      "B. Callahan",
+      "M. M. Dalton"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "Polarized Photoproduction Cross-Sections Extracted from Quasi-Real Photon Scattering for Light Nuclei",
+    "tldr": "We extrapolate electron scattering data to the real photon point to extract the polarized photoproduction cross-section σ_TT for the proton, deuteron, neutron, and ^3He. The analysis combines Jefferson Lab E97-110 and CLAS EG4 data, using weak binding approximations to infer neutron contributions.",
+    "significance": "This provides the first comprehensive σ_TT measurements across multiple light nuclei, enhancing our understanding of nucleon spin structure.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fca9c6a277122d47d41ce448b1253ef6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28611v1",
+    "arxiv_id": "2607.28611v1",
+    "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
+    "authors": [
+      "Chongjian Ge",
+      "Hanwen Jiang",
+      "Tianyu Wang"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "Chimera: Hybrid Visual Diffusion Transformers for Efficient High-Resolution Image and Video Generation",
+    "tldr": "Chimera introduces a hybrid visual diffusion backbone that processes text, image, and video tokens in a single raster-ordered stream, eliminating positional embeddings. By combining Kimi Delta Attention with a principled scaling recipe, it dramatically reduces the quadratic cost of full attention while enabling high-resolution generation.",
+    "significance": "Chimera offers a scalable, efficient architecture that could accelerate multimodal visual generation tasks, bridging the gap between large diffusion models and real-world high-resolution applications.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c6b09796c7be6a180238081cca0793b6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28610v1",
+    "arxiv_id": "2607.28610v1",
+    "title": "Learning Arbitrary Lindbladians from Time Evolution",
+    "authors": [
+      "Zhili Chen",
+      "Zhan Yu"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "Efficient Algorithm Learns Arbitrary Lindbladians from Minimal Time Evolution Data",
+    "tldr": "We present an efficient algorithm that reconstructs any Lindbladian generator using only time evolution data under minimal assumptions. The method scales polynomially with system size and can learn both Hamiltonian and dissipative components.",
+    "significance": "This work enables scalable characterization of open quantum systems, a key step toward fault-tolerant quantum computing.",
+    "tags": [
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "659a42acbd5ddf9b35d5885de97a33e6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28608v1",
+    "arxiv_id": "2607.28608v1",
+    "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+    "authors": [
+      "Sparsh Roy",
+      "Samuel Girmachew",
+      "Nishita Chavan"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-07-31",
+    "headline": "KAISEN: A Reproducible Five-Phase Audit for Fairness in Clinical Risk Models",
+    "tldr": "KAISEN introduces a five-phase audit pipeline that systematically evaluates subgroup fairness in clinical risk models. The framework is reproducible, open-source, and stress-tests each component to ensure trustworthy results.",
+    "significance": "By providing a rigorously tested audit pipeline, KAISEN enables clinicians and developers to reliably detect and address disparate error rates across patient subgroups.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "ea0255199c7acde9801a01a6e96687fc",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.27206v1",
@@ -1134,291 +1421,6 @@
       "benchmark"
     ],
     "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c5130e105f8a3c51b852f3b9cb8f69cd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21564v1",
-    "arxiv_id": "2607.21564v1",
-    "title": "Where You Tap Matters: A Probe-and-Model Benchmark for Open-Set RF Fingerprinting",
-    "authors": [
-      "Gabriele Oligeri",
-      "Savio Sciancalepore",
-      "Ingrid Huso"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "Where to Tap: Benchmarking Open-Set RF Fingerprinting in Receiver Chains",
-    "tldr": "The paper introduces a probe-and-model benchmark that evaluates optimal sampling points in the receiver chain for RF fingerprinting, addressing inconsistencies in prior studies. It offers a standardized dataset and evaluation protocol for open-set transmitter identification, promoting reproducible research.",
-    "significance": "This benchmark clarifies optimal sampling points for RF fingerprinting, enabling more accurate and reproducible transmitter identification across diverse receiver designs.",
-    "tags": [
-      "benchmark",
-      "time-series",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a2942b985e324c0a4016b1f2e699e95c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21563v1",
-    "arxiv_id": "2607.21563v1",
-    "title": "Fault-tolerant quantum algorithms for simulating atomic nuclei",
-    "authors": [
-      "James Benstead",
-      "Michael Garn",
-      "Neil Gaspar"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "Fault-Tolerant Quantum Algorithms Enable Accurate Simulation of Atomic Nuclei for Nuclear Physics",
-    "tldr": "We develop and compile fault-tolerant quantum algorithms that simulate the structure of atomic nuclei, a domain largely unexplored by quantum computing. These algorithms pave the way for precise nuclear physics studies on future quantum hardware.",
-    "significance": "This work extends quantum computing’s reach into nuclear physics, offering a new tool for probing fundamental interactions in atomic nuclei.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1b76654c6ffaf2c2866c57a2c4051902",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21561v1",
-    "arxiv_id": "2607.21561v1",
-    "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
-    "authors": [
-      "Aaron Feller",
-      "Kris Deibler",
-      "Maxim Secor"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "EnsembleEGNN: Learning Molecular Ensembles of Cyclic Peptides for Property Prediction",
-    "tldr": "We present EnsembleEGNN, a foundation model that encodes each conformer of cyclic peptides with shared EGNN layers and pools the representations to predict molecular properties. This approach captures conformational diversity and outperforms single-conformer baselines.",
-    "significance": "By modeling entire conformational ensembles, EnsembleEGNN improves the accuracy of property predictions for flexible molecules, advancing drug discovery.",
-    "tags": [
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "46a2c449164b3808b1a357dacd14c451",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21560v1",
-    "arxiv_id": "2607.21560v1",
-    "title": "Identifying and Distinguishing Quenching Galaxies with Spatially Resolved Star Formation in the Hubble Frontier Fields",
-    "authors": [
-      "Cameron Lawlor-Forsyth",
-      "Michael L. Balogh",
-      "Sean L. McGee"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "Mapping Quenching Signatures in Hubble Frontier Fields Galaxies with Spatially Resolved Star Formation",
-    "tldr": "We analyze 1,437 galaxies in the Hubble Frontier Fields, using spatially resolved SED fitting to identify quenching patterns. Our results reveal distinct quenching mechanisms and their spatial distribution, enhancing our understanding of galaxy evolution.",
-    "significance": "This study provides the first comprehensive spatially resolved view of quenching across a large sample of distant galaxies, informing models of galaxy evolution.",
-    "tags": [
-      "spatial-reasoning",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "58262a7f2278d9f1c92d113654f7a569",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21559v1",
-    "arxiv_id": "2607.21559v1",
-    "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
-    "authors": [
-      "T. Ansah-Narh",
-      "Y. Asare Afrane"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "Mapping Malaria Anomalies in Ghana: Unsupervised Consensus Detection Reveals Hotspots",
-    "tldr": "A consensus-based framework identified spatiotemporal anomalies in Ghana’s malaria data, highlighting persistent hotspots in Ashanti, Northern, and Greater Accra regions. The study underscores the importance of spatially explicit surveillance for targeted interventions.",
-    "significance": "The findings provide actionable insights for malaria control by pinpointing recurrent anomaly hotspots, enabling focused resource allocation.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ce381d264c11d507f9330f0da98244ab",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21558v1",
-    "arxiv_id": "2607.21558v1",
-    "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
-    "authors": [
-      "Baihui Wang",
-      "Bernard Koch"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "LLMs Must Balance Sycophancy and Moral Judgment: Structured Resistance and Compliance",
-    "tldr": "This study explores how large language models can learn from others while avoiding sycophancy, by distinguishing when to incorporate external perspectives and when to uphold their own moral judgments. The authors analyze the resistance-compliance dynamics across three scenarios, offering insights for building socially calibrated LLMs.",
-    "significance": "Understanding resistance-compliance in LLMs is crucial for developing AI that can engage ethically with diverse viewpoints without compromising its own moral integrity.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "85c255cb0a21f3f86753d6de45b032f3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21557v1",
-    "arxiv_id": "2607.21557v1",
-    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
-    "authors": [
-      "Xiao Yu",
-      "Baolin Peng",
-      "Ruize Xu"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "OpenForgeRL Enables End-to-End Training of Harness-Native AI Agents Across Environments",
-    "tldr": "OpenForgeRL provides a framework that integrates complex inference harnesses like Claude Code and Codex into open-source RL training pipelines, allowing end-to-end learning of stateful, multi-process agents. This approach removes the need for proprietary infrastructure and expands the applicability of advanced AI agents to any environment.",
-    "significance": "It democratizes advanced AI agent training by making harness-native capabilities accessible within open-source reinforcement learning stacks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5da1bfb3f8df4c525fa110e38fa9b1a3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21556v1",
-    "arxiv_id": "2607.21556v1",
-    "title": "Visual Contrastive Self-Distillation",
-    "authors": [
-      "Yijun Liang",
-      "Yunjie Tian",
-      "Yijiang Li"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "Combining Visual Evidence and Privileged Answers for On-Policy Self-Distillation",
-    "tldr": "On-policy self-distillation eliminates external teachers but still requires asymmetric signals. This work investigates merging visual evidence and privileged answers to strengthen the self-teacher’s guidance.",
-    "significance": "It offers a more robust self-distillation framework that could improve policy learning without external supervision.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1cfdc8d78ddaa9aca515bf06a194ab4f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21553v1",
-    "arxiv_id": "2607.21553v1",
-    "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-    "authors": [
-      "Junsong Chen",
-      "Jincheng Yu",
-      "Yitong Li"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "SANA-Video 2.0: Hybrid Linear Attention Boosts Video Diffusion to 720p on One GPU",
-    "tldr": "SANA-Video 2.0 introduces a hybrid linear‑softmax attention mechanism that enables 5B and 14B video diffusion transformers to generate 720p video on a single GPU while matching full‑softmax quality. The architecture preserves long‑sequence scaling and eliminates quadratic attention costs, making high‑resolution video generation more efficient.",
-    "significance": "This work demonstrates that hybrid attention can bring large‑scale video diffusion models to practical hardware without sacrificing quality, paving the way for real‑time high‑resolution video synthesis.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "276e6839cb98bc3cab71725660d1f175",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21552v1",
-    "arxiv_id": "2607.21552v1",
-    "title": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
-    "authors": [
-      "Wen Ye",
-      "Yuxiao Qu",
-      "Aviral Kumar"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "MIRROR: Enhancing Vision-Language Models by Leveraging Alternate Viewpoints for Better Reasoning",
-    "tldr": "The paper introduces MIRROR, a method that trains vision-language models to learn from complementary text and diagram views, improving performance on geometry reasoning tasks. It demonstrates that models can transfer knowledge between modalities, closing the gap with large language models.",
-    "significance": "MIRROR shows that cross-view training can substantially boost visual reasoning in VLMs, providing a new direction for multimodal AI.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "78a38d8fc81d45f04212fea31f5dcf7e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21549v1",
-    "arxiv_id": "2607.21549v1",
-    "title": "Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims",
-    "authors": [
-      "Nowshin Tabassum",
-      "Solomon G. Dandekar",
-      "Morgan PettyJohn"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "Cross-Platform Analysis of Online Support for Technology-Facilitated Abuse Victims",
-    "tldr": "This study evaluates how digital platforms provide guidance to victims of technology-facilitated abuse, examining the effectiveness of web, mobile, and social media channels. Findings reveal disparities in resource quality and highlight best practices for safer online support.",
-    "significance": "It informs policy makers and developers on improving digital safety resources for abuse victims.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3da294aa2850bba4bf357cd0c6796c64",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21589v1",
-    "arxiv_id": "2607.21589v1",
-    "title": "The Frankl--Tokushige product conjectures for $r$-cross-intersecting families",
-    "authors": [
-      "Fan Chang",
-      "Hong Liu",
-      "Miao Liu"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-25",
-    "headline": "Sharp Inequality for r-Cross-Intersecting Families Solves Frankl–Tokushige Product Conjecture Uniformly",
-    "tldr": "We prove a sharp product inequality for r-cross-intersecting families, confirming both the uniform and biased Frankl–Tokushige conjectures. The bound matches the natural extremal families and is achieved by level sets of the Boolean lattice.",
-    "significance": "This resolves a long-standing open problem in extremal set theory, establishing optimal bounds for intersecting families across multiple parameters.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "advanced"
   }
 ]
