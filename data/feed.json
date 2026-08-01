@@ -1,5 +1,295 @@
 [
   {
+    "uid": "b51e97fd9b6362fc817eb15185e4fc23",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28616v1",
+    "arxiv_id": "2607.28616v1",
+    "title": "On Degree Powers in Intersecting Families",
+    "authors": [
+      "Mengyu Cao",
+      "Mei Lu",
+      "Haixiang Zhang"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Degree Power Bounds in Intersecting Set Families",
+    "tldr": "We develop a two‑moment interpolation principle that majorizes integer degree powers, yielding new bounds on codegree sums in intersecting families.",
+    "significance": "Provides a powerful tool for analyzing degree distributions in combinatorial set systems.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f1f3cc2f8c0948e2a89cac458c2cbb95",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28615v1",
+    "arxiv_id": "2607.28615v1",
+    "title": "Why 4D? Spontaneous Dimensional Selection from Gauge Criticality",
+    "authors": [
+      "Wen Yin"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Gauge Criticality as a Mechanism for Selecting Four Macroscopic Dimensions",
+    "tldr": "The Yang–Mills coupling’s relevance below four dimensions, marginality at four, and irrelevance above can drive a spontaneous dimensional selection. A racetrack model demonstrates that four large dimensions can emerge without assuming a noncompact 4D spacetime.",
+    "significance": "This work offers a novel dynamical explanation for why our universe appears four-dimensional, linking gauge theory criticality to cosmological dimensionality.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1463ca709849923513b36a7138baab99",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28609v1",
+    "arxiv_id": "2607.28609v1",
+    "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+    "authors": [
+      "Qiushi Sun",
+      "Kanzhi Cheng",
+      "Yian Wang"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "OSReward: Standardized Evaluation Framework for Cross-Platform Computer-Use Reward Models and Verification",
+    "tldr": "OSReward introduces a unified verification protocol that automatically assesses whether computer-using agents complete tasks across diverse platforms. By providing scalable, reproducible reward signals, it accelerates data curation and reinforcement learning research.",
+    "significance": "This work enables large-scale, automated evaluation of agent behavior, a critical bottleneck in advancing trustworthy AI.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5ec0f9adaafb073c902796338d4612bb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28607v1",
+    "arxiv_id": "2607.28607v1",
+    "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+    "authors": [
+      "Junsol Kim",
+      "Winnie Street",
+      "Roberta Rocca"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Safety Fine‑Tuning Reduces LLMs’ Self‑Consciousness Claims and Broader Mind Attribution",
+    "tldr": "Aligning large language models to curb self‑consciousness claims also lowers their tendency to attribute minds to animals and natural objects. The study shows safety fine‑tuning suppresses these attributions while reducing associated spiritual beliefs.",
+    "significance": "The findings reveal that safety interventions can reshape a model’s broader worldview, impacting how it perceives consciousness in the world.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "81dfe7ded5a6fa11cf324eb29f663e17",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28604v1",
+    "arxiv_id": "2607.28604v1",
+    "title": "Cosmo-SPINN: Fuzzy Dark Matter Simulations with Physics-Informed Generative Networks",
+    "authors": [
+      "Ashutosh Kumar Mishra",
+      "Emma Tolley",
+      "Nicolas Cerardi"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Cosmo‑SPINN: Physics‑Informed Generative U‑Net for Accurate Fuzzy Dark Matter Simulations",
+    "tldr": "Cosmo‑SPINN introduces a physics‑informed generative U‑Net that embeds cosmological evolution equations into fuzzy dark matter simulations, reducing artifacts seen in prior emulators. The framework demonstrates improved fidelity and offers an open‑source benchmark for future cosmological generative models.",
+    "significance": "By enforcing physical dynamics within generative networks, Cosmo‑SPINN sets a new standard for realistic, artifact‑free cosmological simulations, enabling more reliable theoretical predictions.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bdfc7189fc8922aee6d5e10a27ef04dc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28603v1",
+    "arxiv_id": "2607.28603v1",
+    "title": "Laboratory demonstration of low order wavefront control using light reflected off the vortex coronagraph",
+    "authors": [
+      "Clarissa R. Do Ó",
+      "Kane Sjoberg",
+      "Luke Lamitina"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Lab Demonstration of Low-Order Wavefront Control Using Light Reflected from a Vortex Coronagraph",
+    "tldr": "In a laboratory setting, researchers used light reflected off a vector vortex coronagraph to perform low-order wavefront sensing and control, achieving high-contrast imaging performance. This approach demonstrates a promising technique for future space telescopes aiming to image Earth-like exoplanets.",
+    "significance": "The technique offers a compact, high-throughput solution to meet the extreme contrast requirements of next-generation exoplanet imaging missions.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "object-detection",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e351874d63c53ed2ab300eed3f464c70",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28601v1",
+    "arxiv_id": "2607.28601v1",
+    "title": "Using Theory of Mind to Arbitrate between Social and Non-social Learning",
+    "authors": [
+      "Lance Ying",
+      "Ryan Truong",
+      "Joshua B. Tenenbaum"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Balancing Social and Direct Learning: A Theory of Mind Approach",
+    "tldr": "This study proposes a rational mentalizing model to explain when humans choose social learning over direct experience. The model quantifies the utility of social information, revealing a trade-off between cognitive cost and knowledge gain.",
+    "significance": "Understanding this trade-off informs the design of AI systems that mimic human learning strategies.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4ec15167c8ec5f47677fb40dace42d6c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28595v1",
+    "arxiv_id": "2607.28595v1",
+    "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
+    "authors": [
+      "Qixun Wang",
+      "Yang Shi",
+      "Letian Cheng"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Beacon: Optimizing Agentic Visual Reasoning for Multimodal LLMs Through Mode Adaptiveness and Tool Effect",
+    "tldr": "Beacon introduces a framework that refines agentic visual reasoning in multimodal large language models by focusing on Mode Adaptiveness and Tool Effect. This approach enhances task success rates while reducing inefficiencies in reasoning processes.",
+    "significance": "By redefining how models choose and use visual tools, Beacon advances practical multimodal AI performance.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f300b1281611213834c194b4c0196c15",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28594v1",
+    "arxiv_id": "2607.28594v1",
+    "title": "Characterizing the disruption of Böotes III: a missing link in the Galactic halo?",
+    "authors": [
+      "Jaclyn Jensen",
+      "Daniel A. Boyea",
+      "Alan W. McConnachie"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Boo III’s Tidal Disruption May Explain the Styx Stream in the Galactic Halo",
+    "tldr": "Observations of Boo III’s diffuse shape and velocity dispersion suggest it is being torn apart by the Milky Way. This disruption could be the source of the long Styx stellar stream.",
+    "significance": "Understanding Boo III’s disruption provides key insights into the assembly of the Milky Way’s halo.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2eaf701c61675d15dd00d4ec099669ee",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28591v1",
+    "arxiv_id": "2607.28591v1",
+    "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+    "authors": [
+      "Haomin Qi",
+      "Xingliang Wang",
+      "Xuanqi Gao"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Change2Task: Automating Task Generation from Repository Histories for Coding Agents",
+    "tldr": "Change2Task transforms merged pull requests into executable coding tasks, providing realistic software states, specifications, tools, and verification. This streamlines training and evaluation of coding agents by leveraging real repository histories.",
+    "significance": "By automating task creation from real code changes, Change2Task dramatically expands the dataset available for developing and benchmarking autonomous coding agents.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "180ff47826b8779aecd9a0af586fb60f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28590v1",
+    "arxiv_id": "2607.28590v1",
+    "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+    "authors": [
+      "Kangning Zhang",
+      "Yixing Li",
+      "Shuai Shao"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+    "tldr": "The paper introduces a method to identify which next-token corrections in multimodal on-policy distillation are supported by visual evidence rather than linguistic priors. It proposes a source-mixed correction estimation framework that disentangles visual signals from teacher-specific effects, improving interpretability and fidelity of student policies.",
+    "significance": "This work advances explainable multimodal reinforcement learning by enabling visual evidence attribution, which can improve trust and performance in vision‑guided policy transfer.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "14a949e58202067a105cf87c131bfaeb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28589v1",
+    "arxiv_id": "2607.28589v1",
+    "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
+    "authors": [
+      "Md. Mehrab Hossain Opi",
+      "Robiul Islam Ryad",
+      "Md. Umar Faruk"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-01",
+    "headline": "MixFrag: Adaptive Mixed-Precision Quantization for Vision Transformers",
+    "tldr": "MixFrag uses a fragility-guided method to allocate mixed precision across transformer components, boosting post‑training quantization efficiency and accuracy.",
+    "significance": "It enables more efficient deployment of Vision Transformers on edge devices by tailoring precision to each component’s sensitivity.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "8d2cbfacefbe672b7353e69861fbcbfe",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.28628v1",
@@ -1143,284 +1433,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "f8ec844b2f55e66aa305d257dd641e06",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22531v1",
-    "arxiv_id": "2607.22531v1",
-    "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
-    "authors": [
-      "Kaixiong Gong",
-      "Xin Cai",
-      "Bin Lin"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "Twins: Predict Unified Visual Representations Using Focal Loss for Multimodal Models",
-    "tldr": "The Twins framework learns a shared visual token space that bridges semantic and generative representations by predicting unified embeddings with a focal loss. This approach resolves mismatched latent spaces in continuous pipelines, improving both multimodal understanding and image synthesis.",
-    "significance": "By aligning semantic and generative latent spaces, Twins enhances the compatibility of foundation models for downstream vision tasks and generative applications.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "97e4ea71bc612651112c9963fbf6b7cc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22530v1",
-    "arxiv_id": "2607.22530v1",
-    "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
-    "authors": [
-      "Yunao Huang",
-      "Shiyu Sang",
-      "Haotao Lu"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "ViTacWorld: Scaling Visuo‑Tactile Models Using Action‑Conditioned Learning for Robust Contact‑Rich Robot Manipulation",
-    "tldr": "ViTacWorld introduces an action‑conditioned visuo‑tactile world model that learns from limited real‑world tactile data, enabling robots to perform contact‑rich manipulation tasks with higher robustness. The framework leverages a scalable dataset and open‑source architecture, demonstrating state‑of‑the‑art performance across diverse manipulation scenarios.",
-    "significance": "By bridging the gap between visual perception and tactile sensing, ViTacWorld paves the way for more reliable and generalizable robot manipulation in real‑world settings.",
-    "tags": [
-      "foundation-models",
-      "object-detection",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4d6ab6d8dc90b8f0ec8665c22ea02edb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22529v1",
-    "arxiv_id": "2607.22529v1",
-    "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
-    "authors": [
-      "Siyuan Huang",
-      "Pengyu Cheng",
-      "Haotian Liu"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "Skill Self-Play: Advancing LLMs via Co-Evolving Skills and Self-Generated Tasks",
-    "tldr": "LLMs are moving from manual annotation to interaction-driven self-evolution. Current methods struggle to balance narrow, verifiable tasks with broad, open-ended generation.",
-    "significance": "This work proposes a framework that reconciles task diversity with reliable verification, enabling LLMs to autonomously expand their skill set.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "bd5e26ad1a07ed88b28c261159281604",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22527v1",
-    "arxiv_id": "2607.22527v1",
-    "title": "Effective field theories of nonlinear fluctuating hydrodynamics in one dimension",
-    "authors": [
-      "Matija Koterle",
-      "Enej Ilievski"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "Effective Field Theories Illuminate Superdiffusive Transport in One-Dimensional Nonlinear Hydrodynamics",
-    "tldr": "This work develops effective field theories to capture the emergent superdiffusive transport observed in one-dimensional interacting systems. By integrating nonlinear fluctuating hydrodynamics, it provides a framework that bypasses perturbative limitations inherent to low-dimensional physics.",
-    "significance": "It offers a powerful theoretical tool to predict and analyze anomalous transport phenomena that defy conventional diffusion models.",
-    "tags": [
-      "diffusion-models",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9767d1ebf07eaad00679cc23566addee",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22525v1",
-    "arxiv_id": "2607.22525v1",
-    "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
-    "authors": [
-      "Anduel Mehmeti",
-      "Gabriella Gigante",
-      "Salvatore Venticinque"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "Explainable Reinforcement Learning Enhances Trust and Decision-Making for Air Traffic Controllers",
-    "tldr": "This study demonstrates how explainable reinforcement learning can support air traffic controllers by providing transparent, real-time decision guidance. The approach improves trust and safety in high-stakes aviation operations.",
-    "significance": "By making AI decisions interpretable, the research paves the way for safer, more reliable automation in air traffic management.",
-    "tags": [
-      "real-time",
-      "spatial-reasoning",
-      "urban-AI"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d5b92f914c2fdfd2c698e5843f4a8fd2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22524v1",
-    "arxiv_id": "2607.22524v1",
-    "title": "Machine-Checked Arithmetic Bit Complexity of the Kannan-Bachem Smith Normal Form in Lean 4",
-    "authors": [
-      "Junye Ji"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "Formal Verification of Smith Normal Form Algorithm in Lean 4 with Bit Complexity Analysis",
-    "tldr": "We formalize the Kannan–Bachem Smith normal form algorithm for integer matrices in Lean 4, proving correctness and inverse identities. Additionally, we analyze and bound the bit complexity, showing termination via decreasing binary size.",
-    "significance": "This work provides the first machine-checked proof of the Smith normal form algorithm’s correctness and complexity, enhancing trust in formalized algebraic tools.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "684d0926835b80f57f25609f398ef039",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22523v1",
-    "arxiv_id": "2607.22523v1",
-    "title": "Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City",
-    "authors": [
-      "Ariel Noyman"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "Gridnberg: Topography-Aware Pedestrian Routing Dataset for New York City Streets",
-    "tldr": "This paper presents Gridnberg, a dataset that incorporates elevation data into pedestrian routing for NYC, addressing limitations of planar street graphs. The dataset improves route impedance modeling and accessibility analysis by accounting for grade differences across the city.",
-    "significance": "Gridnberg enables more accurate pedestrian navigation and urban planning by integrating topography into street network analysis.",
-    "tags": [
-      "remote-sensing",
-      "urban-AI",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "df957a46520122084d467b1421a661a0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22520v1",
-    "arxiv_id": "2607.22520v1",
-    "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
-    "authors": [
-      "Darshan Tank",
-      "Baran Nama"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "When Adding Skills to LLMs Backfires: The Regression Tax Explained",
-    "tldr": "Adding procedural skills to LLM agents can improve or degrade performance. Our large-scale study across 6,000 runs shows that the average success metric masks a hidden regression cost, guiding better skill integration.",
-    "significance": "This work uncovers a critical trade-off in LLM agent design, showing that skill augmentation can backfire and must be carefully evaluated.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2bd380dfa1ac7088f95e6324145c1f75",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22518v1",
-    "arxiv_id": "2607.22518v1",
-    "title": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
-    "authors": [
-      "Olafur Gudmundsson",
-      "Bo Zhao",
-      "Huayi Liao"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "PinEqualizer: Debiasing Cold-Start Content Across Pinterest's Search and Recommendation Funnel",
-    "tldr": "PinEqualizer tackles the content cold-start problem by exploring new content throughout the entire multi-stage funnel. It generalizes to both search and recommendation surfaces while reducing bias toward existing content.",
-    "significance": "It enables fairer, more diverse content exposure at scale, improving user engagement.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1a96efb16957742e555d749ed1132212",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22517v1",
-    "arxiv_id": "2607.22517v1",
-    "title": "Is S301 the Captured Companion of the Hypervelocity Star S5-HVS1?",
-    "authors": [
-      "Andrea Caputo",
-      "Giovanni Maria Tomaselli"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "S301 Reveals Captured Companion of Hypervelocity Star S5-HVS1",
-    "tldr": "The hypervelocity star S5-HVS1, ejected from the Galactic Center, implies a bound companion orbiting the supermassive black hole. GRAVITY observations of S301 confirm this companion, providing a direct test of the Hills mechanism.",
-    "significance": "This discovery offers the first observational evidence linking a hypervelocity star to its captured counterpart, validating theoretical models of binary disruption near supermassive black holes.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d33ad22dade448fdef342499b328135d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21593v1",
-    "arxiv_id": "2607.21593v1",
-    "title": "On the strong coupling limit of Yang-Mills matrix models",
-    "authors": [
-      "Adrien Martina",
-      "Harish Murali"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "Strong Coupling in Mass‑Deformed Yang–Mills Matrix Models",
-    "tldr": "We study the strong coupling limit of mass‑deformed Yang–Mills matrix models and find that quantum fluctuations can prevent the matrices from becoming effectively commuting, challenging the emergence of a classical space interpretation.",
-    "significance": "This analysis clarifies when non‑commutative geometry arises in matrix models, informing approaches to quantum gravity.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d20647f6c6fb5613aaea3303cea2ccf8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.21569v1",
-    "arxiv_id": "2607.21569v1",
-    "title": "A geometric framework for spin relaxation",
-    "authors": [
-      "Sophia N. Fricke",
-      "Kieren A. Harkins",
-      "Ashok Ajoy"
-    ],
-    "published": "2026-07-23",
-    "curated_at": "2026-07-26",
-    "headline": "Unified Geometric Framework Unveils Spin Relaxation Dynamics via Covariant Relaxation Tensor",
-    "tldr": "The study introduces a covariant relaxation tensor in Liouville space that unifies longitudinal and transverse spin relaxation rates. By projecting this tensor, conventional R1 and R2 rates emerge, revealing deeper structural unity.",
-    "significance": "This framework simplifies spin relaxation analysis, potentially impacting quantum computing and magnetic resonance research.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
