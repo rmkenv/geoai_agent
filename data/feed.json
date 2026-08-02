@@ -1,5 +1,311 @@
 [
   {
+    "uid": "369ac87c0b748bd189f4f969b1e0931a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28598v1",
+    "arxiv_id": "2607.28598v1",
+    "title": "Explicit Matrices over $\\mathbb Z_2$ with CNOT and Row Complexity $4n-\\mathrm{o}(n)$ and Local Logic Gates",
+    "authors": [
+      "Sherry Gong",
+      "Andrew Yu"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "High-Complexity Binary Matrices Challenge Quantum Gate Optimization",
+    "tldr": "The paper constructs explicit n×n binary matrices that require at least 4n−o(n) CNOT or row operations to reduce to the identity, even when extended gate models are allowed.",
+    "significance": "It establishes fundamental lower bounds for linear reversible circuit synthesis.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e388038893808691fc60ad92acea79ff",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28596v1",
+    "arxiv_id": "2607.28596v1",
+    "title": "FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation",
+    "authors": [
+      "Lifeng Zhuo",
+      "Wendi Chen",
+      "Han Xue"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "Frequency-Adaptive Reactive Diffusion Policy for Rapid, Precise, and Adaptive Contact-Rich Manipulation",
+    "tldr": "The paper introduces FA-RDP, a diffusion-based policy that adapts action frequencies to maintain multimodal exploration before contact and rapid reactive control after contact, achieving state-of-the-art performance on contact-rich manipulation tasks. By integrating frequency adaptation with diffusion sampling, FA-RDP balances exploration and exploitation, enabling robots to respond swiftly to force feedback while preserving diverse action modes.",
+    "significance": "FA-RDP demonstrates that frequency-adaptive diffusion policies can bridge the gap between exploration and reactivity, setting a new benchmark for contact-rich robotic manipulation.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3203befc0837221b3643ac266d3909d7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28592v1",
+    "arxiv_id": "2607.28592v1",
+    "title": "LISA Reconstruction Landscape for Metastable Cosmic Strings",
+    "authors": [
+      "Satyabrata Datta",
+      "Rome Samanta"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "Reconstructing Gravitational-Wave Signals from Decaying Cosmic Strings with LISA in the Early Universe",
+    "tldr": "We analyze how the LISA mission can reconstruct stochastic gravitational-wave backgrounds produced by metastable cosmic strings that decay via monopole pair nucleation. The study shows that after the decay time, loop production drops, yet LISA can still recover the signal, providing a new benchmark for early-universe physics.",
+    "significance": "This work demonstrates a novel method to probe the physics of metastable cosmic strings, offering a new window into high-energy processes in the early universe.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e1c89d45870297e2298be806b0a6d5e4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28587v1",
+    "arxiv_id": "2607.28587v1",
+    "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
+    "authors": [
+      "Manyi Wang",
+      "Junjielong Xu",
+      "Pinjia He"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "PAIChecker: Detecting PR‑Issue Misalignment in SWE‑Bench‑Like LLM Benchmarks",
+    "tldr": "PAIChecker identifies mismatches between pull requests and their linked issues in software‑engineering benchmarks, ensuring accurate problem statements and test oracles. It improves benchmark reliability by automating alignment checks and highlighting potential data quality issues.",
+    "significance": "By guaranteeing correct PR‑issue pairing, PAIChecker enhances the validity of LLM evaluations on real‑world software repair tasks.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40519b69ef4cba0b3e7591077ac072fb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28586v1",
+    "arxiv_id": "2607.28586v1",
+    "title": "Boundedness of polarized foliated surfaces",
+    "authors": [
+      "Yen-An Chen",
+      "Minzhe Zhu"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "Bounded Families of ε-LC Polarized Foliated Surfaces via Minimal Model Program",
+    "tldr": "We prove that ε‑lc adjoint foliated surfaces with nef adjoint canonical divisor and a nef and big integral polarization form a bounded family when their volume is bounded above. This yields boundedness results for polarized adjoint foliated surfaces and applications to the minimal model program.",
+    "significance": "This establishes the first boundedness theorem for polarized foliated surfaces, extending the minimal model program to a new class of geometric objects.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4dd111db1a982d61062a34d35276c668",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28585v1",
+    "arxiv_id": "2607.28585v1",
+    "title": "ABC methods for IoT Emitter Geolocalisation using LEO Satellite Doppler Measurements",
+    "authors": [
+      "B. Ristic",
+      "Y. Choi",
+      "D. Y. Kim"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "Passive IoT Emitter Localization via LEO Satellite Doppler: ABC Methods",
+    "tldr": "We propose ABC methods to localize stationary ground-level IoT emitters using Doppler measurements from LEO satellites. The approach addresses measurement errors from low-cost devices, enabling accurate passive geolocation.",
+    "significance": "Accurate passive localization of IoT emitters from satellite data enhances security, asset tracking, and situational awareness in remote or urban environments.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f51e46a98f21c23a84480524aacca9e8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28583v1",
+    "arxiv_id": "2607.28583v1",
+    "title": "CrossAtlas: Evaluating Projection Techniques for Spatial Referencing in Cross-Reality Collaboration",
+    "authors": [
+      "Haoyang Yang",
+      "Chenyang Zhang",
+      "Elliott H. Faa"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "CrossAtlas: Assessing Projection Methods for Spatial Alignment in Mixed Reality Collaboration",
+    "tldr": "CrossAtlas investigates how different projection techniques between 3D immersive spaces and 2D desktop views affect communication in cross-reality collaboration. The study reveals that certain mappings preserve geometric relationships better, improving shared spatial understanding.",
+    "significance": "Understanding projection impacts is crucial for designing intuitive cross-reality tools that enable seamless collaboration across devices.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d917e67f11f2235685da48187864615f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28582v1",
+    "arxiv_id": "2607.28582v1",
+    "title": "$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
+    "authors": [
+      "Jiawei Xu",
+      "Minghui Liu",
+      "Juzheng Zhang"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "β-OPSD: Enhancing Language Models via Policy-Optimized Self-Distillation for Robust Reasoning",
+    "tldr": "β-OPSD generalizes on‑policy self‑distillation by introducing a β‑weighted KL penalty, allowing a smoother trade‑off between student fidelity and exploration. Experiments show that tuning β improves robustness and reduces engineering overhead compared to vanilla OPSD.",
+    "significance": "This work provides a principled framework that makes self‑distillation more reliable for large language models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0783ad76f8d2474700a99cf90f07ae29",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28581v1",
+    "arxiv_id": "2607.28581v1",
+    "title": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation",
+    "authors": [
+      "Xiao Luo",
+      "Mingyang Du",
+      "Xin Zhou"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "Leveraging Discriminative Semantics Using Foundation Models for Efficient 3D Shape Generation",
+    "tldr": "ROAD proposes aligning discriminative semantics with generative objectives to reduce the need for massive data and model scaling in 3D shape generation. By harnessing pre‑trained foundation models, it achieves high‑fidelity results with lower computational cost.",
+    "significance": "It demonstrates that semantic priors from foundation models can dramatically improve efficiency and quality in 3D generation tasks.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1598fe79f83ba92b692bca2e6507655f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28580v1",
+    "arxiv_id": "2607.28580v1",
+    "title": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
+    "authors": [
+      "Jiacheng Tao",
+      "Qingyun Sun",
+      "Haonan Yuan"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "DualG-MRAG Improves Multi-Hop Reasoning in Multimodal Retrieval-Augmented Generation for Complex Tasks",
+    "tldr": "DualG-MRAG decouples macro-level reasoning from micro-level matching, enabling more effective multi-hop reasoning across modalities. By separating these components, it overcomes limitations of instance-level matching and graph-based methods, improving retrieval-augmented generation performance.",
+    "significance": "This approach advances multimodal AI by enabling more accurate and scalable reasoning in retrieval-augmented generation systems.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cf64d6ed45b86ccbe8d5d65a41f3152a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28579v1",
+    "arxiv_id": "2607.28579v1",
+    "title": "Quantum Chaos and Diffusive Transport from Geometric Randomness",
+    "authors": [
+      "Bibek Saha",
+      "Abhishek Dhar",
+      "Sthitadhi Roy"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "Geometric Randomness Drives Quantum Chaos and Diffusive Transport in Layered Tree-like Graphs",
+    "tldr": "We show that non-interacting quantum particles on random locally tree-like layered graphs exhibit quantum chaos and diffusive transport purely from geometric randomness. This reveals that disorder-free systems can host complex transport phenomena traditionally attributed to microscopic disorder or interactions.",
+    "significance": "This finding challenges conventional wisdom by demonstrating that geometry alone can generate chaotic dynamics and diffusion, opening new avenues for designing disorder-free quantum devices.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "518ce6ddd9416315838a6e157110576b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28577v1",
+    "arxiv_id": "2607.28577v1",
+    "title": "Train Often, Deploy Selectively: Forward-Gated Model Replacement in Crypto Markets",
+    "authors": [
+      "Aditya Dutta"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "Deploying Forward-Gated Models: Shadow Before Swap Enhances Crypto Forecasting Systems",
+    "tldr": "Production forecasting systems often retrain models, but a new model may not beat a continuously learning incumbent. Shadow Before Swap (SBS) warm‑refits challengers off‑path, evaluates them against the incumbent on the same delayed labels, and only promotes them when they truly outperform.",
+    "significance": "SBS provides a rigorous, low‑risk deployment strategy that ensures only genuinely superior models replace incumbents, improving forecast reliability in volatile crypto markets.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "93d6609e6d2b8a5b2545cc6c289ad34c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.28576v1",
+    "arxiv_id": "2607.28576v1",
+    "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B",
+    "authors": [
+      "Iliya Mirzaei"
+    ],
+    "published": "2026-07-30",
+    "curated_at": "2026-08-02",
+    "headline": "Self-Refine vs Repeated Sampling: Token Cost Efficiency in LLMs",
+    "tldr": "Wang et al. (2024) show that repeated sampling outperforms self-refinement and reflection when token budgets are equal, because more text alone boosts accuracy. The study suggests that the benefit comes from quantity, not from the self-critique mechanisms.",
+    "significance": "The findings challenge the perceived superiority of self-refinement strategies in large language models, emphasizing the importance of token efficiency over elaborate internal reasoning.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "b51e97fd9b6362fc817eb15185e4fc23",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.28616v1",
@@ -1121,317 +1427,6 @@
       "open-source"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a1504455cf52d0220a53196adb32ec9e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24743v1",
-    "arxiv_id": "2607.24743v1",
-    "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
-    "authors": [
-      "Hangjie Yuan",
-      "Yichen Qian",
-      "Zhiwei Tang"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "ClinFusion: Vision-Centric Multimodal LLM Revolutionizing Holistic Medical Image Understanding Across Modalities",
-    "tldr": "ClinFusion integrates 2D and 3D medical images into a multimodal large language model, enabling fine‑grained, factual assessments aligned with radiologists' workflows. The system introduces new evaluation protocols that mirror clinical practice and demonstrates improved diagnostic accuracy.",
-    "significance": "ClinFusion bridges the gap between vision‑based medical data and language models, offering a scalable, clinically relevant tool for radiology.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "segmentation",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d9ca470bcdc32baac5c171129c792736",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24742v1",
-    "arxiv_id": "2607.24742v1",
-    "title": "Measuring Cosmic Neutrino Masses Independently of Dark Energy",
-    "authors": [
-      "Frank J. Qu",
-      "Fei Ge",
-      "Hanyue Wang"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "New Constraints on Cosmic Neutrino Masses Independent of Dark Energy",
-    "tldr": "Neutrino oscillations confirm mass, but cosmological limits depend on dark energy assumptions. This study derives robust neutrino mass bounds using CMB, BAO, and lensing data independent of dark energy, tightening the sum of masses to <0.12 eV.",
-    "significance": "It provides a model‑independent upper limit on neutrino mass, crucial for particle physics and cosmology.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7d92eaff0223ec7d9947a84b368eb968",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24741v1",
-    "arxiv_id": "2607.24741v1",
-    "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
-    "authors": [
-      "Xinyang Wen"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "Parallel-in-Time Sinkhorn Accelerates Dynamic Entropic Optimal Transport for Real-Time Applications",
-    "tldr": "We introduce TemporalSinkhorn, a parallel-in-time algorithm that batches future candidates and repairs, eliminating sequential bottlenecks in entropic optimal transport. This approach enables faster, accurate solutions for dynamic flow matching without sacrificing output fidelity.",
-    "significance": "TemporalSinkhorn dramatically reduces computation time for dynamic optimal transport, enabling real-time deployment in time-series applications.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "45ee357a64ad78360672ac74623c51b7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24737v1",
-    "arxiv_id": "2607.24737v1",
-    "title": "Demonstrating the integration of a photonic lantern with an all-fiber-based nulling interferometer",
-    "authors": [
-      "Jordan Diaz",
-      "Rebecca Jensen-Clem",
-      "Philip M. Hinz"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "Integrating Photonic Lanterns into All-Fiber Nulling Interferometers for Exoplanet Imaging",
-    "tldr": "A new approach couples photonic lanterns with fiber-based nulling interferometers, enabling deeper starlight suppression at smaller angular separations. This technique promises higher contrast imaging of exoplanets and protoplanets at Solar System scales.",
-    "significance": "It advances high-contrast imaging, pushing the limits of exoplanet detection closer to host stars.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "894d11069d4c3da9540e796aa5e33c21",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24734v1",
-    "arxiv_id": "2607.24734v1",
-    "title": "Gravitational waves from super-Hubble bubbles",
-    "authors": [
-      "Pulkit S. Ghoderao",
-      "Arttu Rajantie",
-      "Danièle Steer"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "Super-Hubble Bubble Collisions: New Gravitational Wave Signatures from Inflationary Phase Transitions",
-    "tldr": "During inflation, true‑vacuum bubbles can nucleate but only collide after inflation ends, producing bubbles larger than the Hubble radius. These super‑Hubble collisions generate distinctive gravitational‑wave spectra that could be detectable by future observatories.",
-    "significance": "This mechanism offers a novel source of primordial gravitational waves that could probe physics beyond the Standard Model.",
-    "tags": [
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3f5c11df9895d00b36f9a29774174fad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24733v1",
-    "arxiv_id": "2607.24733v1",
-    "title": "Atmospheric Escape Rates of Planets in Stellar Tidal Fields from 3-D Hydrodynamic Simulations1",
-    "authors": [
-      "Ritika Sethi",
-      "Morgan MacLeod",
-      "Sarah Millholland"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "3‑D Simulations Reveal How Stellar Tides Shape Atmospheric Escape in Close‑In Planets",
-    "tldr": "Using full 3‑D hydrodynamic models, we quantify how stellar tidal forces influence photo‑evaporation and core‑powered mass loss in a Jupiter‑sized planet. The results show that tidal fields can significantly enhance escape rates, reshaping the planet’s atmospheric evolution.",
-    "significance": "This study provides the first comprehensive 3‑D benchmark for atmospheric escape under tidal effects, improving predictions for exoplanet demographics.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "98327cebd407b5620057e6bcdace7f13",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24732v1",
-    "arxiv_id": "2607.24732v1",
-    "title": "Learning Distributions from Multiple Data Providers",
-    "authors": [
-      "Jon Kleinberg",
-      "Amin Saberi",
-      "Xizhi Tan"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "Learning Distributions from Multiple Data Providers: A Conditional Sampling Approach",
-    "tldr": "We study a stylized model for learning an unknown distribution on a finite domain using restricted conditional samples from a fixed family of queryable sets. The framework captures learning from heterogeneous, overlapping data providers and yields sample complexity bounds that depend on the structure of the query sets.",
-    "significance": "This work provides a theoretical foundation for efficient distribution learning in settings where data is fragmented across multiple sources, informing future designs of data integration systems.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "41ad9e9a96ed07b2ad8712da0e97d9f3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24731v1",
-    "arxiv_id": "2607.24731v1",
-    "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
-    "authors": [
-      "Bingnan Li",
-      "Haozhe Wang",
-      "Haozhong Xiong"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "Revisiting Classifier-Free Guidance for On-Policy Diffusion Distillation in Modern Systems",
-    "tldr": "This paper investigates how classifier-free guidance (CFG) interacts with on-policy diffusion distillation (OPD). It proposes a new approach that aligns teacher and student guided predictions, improving performance on diffusion tasks.",
-    "significance": "It bridges a gap in understanding CFG's role in OPD, enabling more efficient diffusion model training.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "846b52b4ca25a61e23da71fd57bce53c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24730v1",
-    "arxiv_id": "2607.24730v1",
-    "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
-    "authors": [
-      "Krithi Shailya",
-      "Ananya Lakshmi Ravi",
-      "Venkatanathan K. V."
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "KANEx: Bridging Kolmogorov-Arnold Networks to Explainable Chest X-ray AI for Clinicians",
-    "tldr": "KANEx adapts Kolmogorov-Arnold Networks to provide transparent, visual explanations for chest X-ray classifiers, complementing Vision‑Language Models with interpretable visual cues. This approach restores clinician trust by revealing the decision logic behind AI predictions.",
-    "significance": "By marrying mathematical interpretability with medical AI, KANEx offers a practical path to trustworthy diagnostic tools.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e01bf6c9bdfbe01d1209b5ac0d78bc64",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24728v1",
-    "arxiv_id": "2607.24728v1",
-    "title": "Classical simulation and model concentration in passive linear optics",
-    "authors": [
-      "Léo Monbroussou",
-      "Hugo Thomas",
-      "Hela Mhiri"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "Exploring Classical Simulability and Barren Plateaus in Passive Linear Optics for Bosonic Systems",
-    "tldr": "Passive linear optics offers quantum advantage for sampling tasks but its classical simulability remains unclear. Researchers investigate whether barren plateaus, known to hinder qubit models, also affect bosonic systems.",
-    "significance": "Understanding this tradeoff could determine the practicality of near‑term bosonic quantum algorithms.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "df656ff82a9b1f6b0603b44b8ae2bffc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24727v1",
-    "arxiv_id": "2607.24727v1",
-    "title": "Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives",
-    "authors": [
-      "Sajad Amiri",
-      "Pardis Afshar",
-      "Elham Anjomshoa"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "AI-Enhanced Infrared Imaging for Rapid Pediatric Skeletal Triage",
-    "tldr": "This review examines how infrared imaging combined with deep learning can provide a radiation-free alternative for pediatric skeletal triage. It highlights current evidence, challenges, and future directions for integrating AI-powered IR diagnostics into emergency care.",
-    "significance": "AI-driven infrared imaging offers a promising, low-risk triage tool that could reduce cumulative radiation exposure in children.",
-    "tags": [
-      "remote-sensing",
-      "segmentation",
-      "object-detection",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d95ebdf35782165e3b2a4cb8acda6d05",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22535v1",
-    "arxiv_id": "2607.22535v1",
-    "title": "Robot-Factored World Models via Robot Rendering",
-    "authors": [
-      "Byungjun Kim",
-      "Taeksoo Kim",
-      "Hyunsoo Cha"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "Robot-Factored World Models: Rendering Actions for Accurate Future Observation Prediction",
-    "tldr": "We propose a robot-factored world model that separates robot motion from scene dynamics, improving action-conditioned video predictions. By rendering robot actions explicitly, the model better captures contact and object motion, leading to more accurate future observation forecasts.",
-    "significance": "This approach enhances predictive accuracy in robotics by decoupling robot control from environmental response, enabling more reliable planning.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e6a7e6e939a5824ba10aedea1a9f4b25",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.22534v1",
-    "arxiv_id": "2607.22534v1",
-    "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
-    "authors": [
-      "Shing Ho J. Lin",
-      "Wenzhao Zheng",
-      "Dong Zhuo"
-    ],
-    "published": "2026-07-24",
-    "curated_at": "2026-07-27",
-    "headline": "SM4RT: Structured Motion Geometry for 4D Reconstruction with Foundation Models",
-    "tldr": "SM4RT introduces a novel approach that learns structured motion geometry, enabling accurate 4D reconstruction from monocular imagery. By leveraging geometry foundation models, it overcomes the limitations of point‑wise motion methods and captures coherent physical motion.",
-    "significance": "This work advances dynamic 3D reconstruction by integrating structured motion modeling into foundation models, paving the way for more realistic and scalable 4D scene understanding.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "point-cloud"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
