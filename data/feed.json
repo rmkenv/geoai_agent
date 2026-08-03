@@ -1,5 +1,212 @@
 [
   {
+    "uid": "b9059f3161bc320c3357b0c4b7bcb107",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29684v1",
+    "arxiv_id": "2607.29684v1",
+    "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
+    "authors": [
+      "Muyao Niu",
+      "Mingze Ma",
+      "Yifan Zhan"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "3D-Aware RGB-NIR Imaging Boosts Low-Light Performance with Robust Neural Modeling",
+    "tldr": "This study introduces a 3D-aware neural framework for RGB-NIR low-light imaging, improving robustness across varied scenarios. By integrating depth cues, the method surpasses traditional paired-data approaches, offering better enhancement in dark environments.",
+    "significance": "It demonstrates that incorporating 3D structure into RGB-NIR fusion yields more reliable low-light enhancement, potentially benefiting surveillance and autonomous systems.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "real-time",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0228a07f5b8a9319a7d543c1616f2603",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29683v1",
+    "arxiv_id": "2607.29683v1",
+    "title": "Emulating the nonlinear effects of modified gravity on the matter power spectrum for reconstruction",
+    "authors": [
+      "Lanyang Yi",
+      "Kazuya Koyama",
+      "Qi Xiong"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "Fast Neural Emulation of Nonlinear Modified Gravity Effects on Matter Power Spectrum",
+    "tldr": "We build a neural-network emulator to predict the nonlinear matter power spectrum in modified gravity models, drastically speeding up likelihood evaluations. This enables efficient exploration of high-dimensional parameter spaces and improves model-independent reconstruction of MG functions.",
+    "significance": "The emulator reduces computational cost by orders of magnitude, allowing comprehensive testing of modified gravity theories against cosmological data.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e651e465185505243b79cd1c22054423",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29682v1",
+    "arxiv_id": "2607.29682v1",
+    "title": "Dark Photons from Perturbative Decay of a Misaligned Higgs Field",
+    "authors": [
+      "James M. Cline",
+      "Gonzalo Herrera",
+      "Jean-Samuel Roux"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "Dark Photons from Misaligned Higgs Decay: A Predictive Dark Matter Model",
+    "tldr": "We propose that dark photons arise from the perturbative decay of a misaligned dark Higgs field generated during inflation. The resulting relic abundance is tightly constrained by structure formation and isocurvature limits, offering a testable dark matter scenario.",
+    "significance": "This framework links inflationary physics to observable dark matter properties, providing a clear target for future cosmological probes.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "aed04f4d457d68dba0cc6e26e9937d14",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29679v1",
+    "arxiv_id": "2607.29679v1",
+    "title": "Scaling Properties of Text Conditioning in Visual Generation",
+    "authors": [
+      "Zilong Chen",
+      "Chaorui Deng",
+      "Kunchang Li"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "Scaling Text Conditioning in Diffusion Models: Structured Language Drives Loss",
+    "tldr": "The study measures how diffusion loss scales with the amount of structured language in prompts, revealing that more structured prompts lead to lower loss. This finding challenges previous assumptions that token count alone governs diffusion performance and provides a new metric for prompt design.",
+    "significance": "Understanding the scaling of structured language informs better prompt engineering for generative AI, potentially improving image quality and efficiency.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "aed11ea8840d30dffa79bd8436365b29",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29675v1",
+    "arxiv_id": "2607.29675v1",
+    "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+    "authors": [
+      "Arkajyoti Bhattacharjee",
+      "Arnab Auddy"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "Differentially Private Modal Learning: Recovering Density Modes for Regression and Clustering",
+    "tldr": "We introduce DP-GRAMS, a mean‑shift inspired algorithm that privately estimates density modes under local smoothness, curvature, and separation assumptions. The recovered modes enable accurate regression and clustering while guaranteeing differential privacy.",
+    "significance": "This work provides the first rigorous framework for privately extracting interpretable multimodal structure from data, bridging privacy and statistical learning.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "12aba290696c4f79ba63f20c16199e4e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29674v1",
+    "arxiv_id": "2607.29674v1",
+    "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
+    "authors": [
+      "Maria Smirnova",
+      "Alexey Kravatskiy"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "SignMuon: One-Bit Compression Beats SignSGD, Even on Linear Functions in Distributed Optimization",
+    "tldr": "SignMuon compresses updates to a single bit per parameter by taking the sign of each element, enabling efficient communication in distributed training. It outperforms SignSGD, but surprisingly can still ascend on a linear objective, revealing limits of error feedback when signing gradients before the LMO.",
+    "significance": "This work exposes fundamental limitations of sign-based compression schemes, guiding future design of communication-efficient optimizers.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c0b5979c82973eff6bb10df3f370d04c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29672v1",
+    "arxiv_id": "2607.29672v1",
+    "title": "The Kikuchi Hierarchy is Sharp for $k$XOR",
+    "authors": [
+      "Alexander Schmidhuber",
+      "Matthew B. Hastings"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "Kikuchi Hierarchy Sharpness for kXOR: Signal Strength vs. Time Trade-Off",
+    "tldr": "The paper establishes a precise relationship between the number of clauses needed to refute planted noisy kXOR and the computational time achievable by the Kikuchi hierarchy. It shows that level ℓ achieves a smooth curve m ≳ ρ⁻² n^{k/2}/ℓ^{k/2-1} clauses, implying solvability in time n^{O(ℓ)}.",
+    "significance": "It confirms the conjectured optimality of the Kikuchi hierarchy for kXOR, guiding future algorithmic developments.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0576f5548c02073175b9a561db31b520",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29667v1",
+    "arxiv_id": "2607.29667v1",
+    "title": "The large mass limit of monopoles: abelian limits and Dirac singularities",
+    "authors": [
+      "Daniel Fadel"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "Large Mass Limit of SU(2) Monopoles: Abelian Limits and Emergent Dirac Singularities",
+    "tldr": "We analyze finite‑energy SU(2) monopoles on asymptotically conical 3‑manifolds as their masses tend to infinity. The rescaled energy concentrates at isolated points, yielding abelian monopole limits with Dirac singularities carrying integer charges.",
+    "significance": "This work elucidates the asymptotic behavior of non‑abelian monopoles, linking them to simpler abelian configurations and revealing a quantized singular structure.",
+    "tags": [
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ef27b1a56cd44441aa404504a1a7cfe7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2607.29665v1",
+    "arxiv_id": "2607.29665v1",
+    "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
+    "authors": [
+      "Juncheng Zhong",
+      "Chenghuang Shen",
+      "Jianfeng Liu"
+    ],
+    "published": "2026-07-31",
+    "curated_at": "2026-08-03",
+    "headline": "Freeze-then-Select: Stabilizing Neural PDE Discovery from Sparse Data Using Optimization Paths",
+    "tldr": "We propose a freeze-then-select strategy that decouples equation selection from neural optimization, enabling robust PDE discovery from sparse observations. The method preserves exact support throughout training and improves stability across optimization trajectories.",
+    "significance": "This approach advances PDE discovery by ensuring reliable term selection even with limited data, paving the way for more accurate scientific modeling.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "369ac87c0b748bd189f4f969b1e0931a",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.28598v1",
@@ -1212,221 +1419,6 @@
       "foundation-models"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b4ad1b09f9117bed051a6816d6cbbf81",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26055v1",
-    "arxiv_id": "2607.26055v1",
-    "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
-    "authors": [
-      "Sungjae Park",
-      "Shubham Tulsiani"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Bridging the Gap: Real-Time Reactive Flow Policies for Generalist Manipulation",
-    "tldr": "Action-chunking flow policies built on large backbones run open-loop, losing reactivity. Frequent replanning could restore responsiveness, but the perception-to-action pipeline is too slow, limiting real-time performance.",
-    "significance": "This work highlights the trade-off between computational efficiency and reactivity in large-scale manipulation policies, pointing toward faster perception pipelines.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e616afbf3e8bdad329183a124f72ff47",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26053v1",
-    "arxiv_id": "2607.26053v1",
-    "title": "Proportional Fairness for Harmful Decisions",
-    "authors": [
-      "Benjamin Cookson",
-      "Soroush Ebadian",
-      "Dominik Peters"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Revisiting Core Concepts for Allocating Public Bads: Proportional Fairness Approach",
-    "tldr": "We analyze the allocation of public bads and show that traditional core definitions fail. We propose new formal criteria for proportional fairness in this context.",
-    "significance": "This work reshapes fairness criteria for public bad allocation, guiding policy design.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "00806bde69a6695ad40d55ab1568037b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26052v1",
-    "arxiv_id": "2607.26052v1",
-    "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
-    "authors": [
-      "Tom Saliencro",
-      "Rohan Desai",
-      "Priya Nair"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Confidence-Adaptive Routing Boosts Mixture-of-Experts LoRA Efficiency",
-    "tldr": "Mixture-of-Experts LoRA traditionally routes each token to a fixed number of experts, which can waste capacity on easy tokens and under-serve hard ones. By interpreting the router’s output distribution as a per-token uncertainty signal, the authors propose a confidence-adaptive routing scheme that dynamically adjusts the number of experts per token, improving efficiency and performance.",
-    "significance": "This approach optimizes resource allocation in large language models, reducing computational cost while maintaining or improving accuracy.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6b7a92f32eed5ae73292757e60138156",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26051v1",
-    "arxiv_id": "2607.26051v1",
-    "title": "QuickGWecc: Fast Bayesian pipeline for searching eccentric binaries in pulsar timing array data",
-    "authors": [
-      "Lankeswar Dey",
-      "Bence Bécsy",
-      "Abhimanyu Susobhanan"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Fast Bayesian Pipeline Uncovers Eccentric SMBH Binaries in Pulsar Timing Data",
-    "tldr": "QuickGWecc introduces a rapid Bayesian framework for detecting eccentric supermassive black hole binaries in pulsar timing array data. It significantly reduces computational cost while maintaining sensitivity, paving the way for timely identification of continuous gravitational waves.",
-    "significance": "This method accelerates the search for individual gravitational wave sources, enabling quicker multimessenger follow-up.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d2196663171b02497edc8625ba1514f1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26047v1",
-    "arxiv_id": "2607.26047v1",
-    "title": "S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information",
-    "authors": [
-      "Kaneyoshi Hiratsuka",
-      "Benjamin Yen",
-      "Ryosuke Kojima"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Robots Learn to Manipulate Using Sound: Acoustic Imitation for Object Localization",
-    "tldr": "This paper introduces acoustic-aware manipulation tasks where robots use auditory cues to locate and manipulate objects, requiring sound source localization and active exploration. It demonstrates that integrating acoustic spatial information improves imitation learning for manipulation.",
-    "significance": "It shows that auditory cues can be leveraged for real-time robotic manipulation, expanding the sensory modalities for imitation learning.",
-    "tags": [
-      "object-detection",
-      "spatial-reasoning",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "77b2f0b8a31012fd5b88a54f86f7f794",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26045v1",
-    "arxiv_id": "2607.26045v1",
-    "title": "Photonuclear Neutron Production in OpenMC: Verification Against MCNPX, FLUKA, and a First-Collision Analytical Solution",
-    "authors": [
-      "Lorenzo Loi",
-      "Andrea Missaglia",
-      "Carolina Introini"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Verifying Photonuclear Neutron Production in OpenMC with MCNPX, FLUKA, and Analytics",
-    "tldr": "OpenMC’s photonuclear module was benchmarked against MCNPX, FLUKA, and an analytical model. The results confirm its accuracy for high-energy photon-induced neutron production.",
-    "significance": "This validation establishes OpenMC as a reliable tool for simulating photonuclear reactions in diverse high-energy applications.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ea65944109e6811a647160b57f33bb24",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26043v1",
-    "arxiv_id": "2607.26043v1",
-    "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
-    "authors": [
-      "Adarsh Bhandary Panambur",
-      "Siming Bayer",
-      "Andreas Maier"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Dataset-Informed Transfer Learning Boosts Mammography Classification Accuracy",
-    "tldr": "The DITL framework tailors transfer learning to the specific characteristics of each mammography dataset, outperforming conventional methods. It demonstrates improved diagnostic performance on both small curated sets and large clinical cohorts.",
-    "significance": "This approach addresses a key limitation in medical imaging AI by enabling scalable, dataset-aware transfer learning, potentially improving breast cancer screening outcomes.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4b33189adb19769b838dfe8ea7739a27",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26042v1",
-    "arxiv_id": "2607.26042v1",
-    "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
-    "authors": [
-      "Syed Mhamudul Hasan",
-      "Anas AlSobeh",
-      "Hussein Zangoti"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "VetClaw: Edge-Cloud Multimodal System for Rapid Veterinary Disease Screening Using Vision-Language Models",
-    "tldr": "VetClaw combines an edge camera and a cloud-hosted vision‑language model to perform zero‑shot disease classification from images and optional text. The system decouples agent interaction from workflow orchestration, enabling real‑time veterinary screening in remote settings.",
-    "significance": "VetClaw demonstrates how multimodal foundation models can be deployed in edge‑cloud pipelines to provide timely, accurate disease screening for veterinary practitioners worldwide.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "53485cbc81c14519b90f09aadcfa4559",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.24744v1",
-    "arxiv_id": "2607.24744v1",
-    "title": "Data Pyramid for Embodied Manipulation",
-    "authors": [
-      "Yifan Ye",
-      "Yankai Fu",
-      "Yaoxu Lv"
-    ],
-    "published": "2026-07-27",
-    "curated_at": "2026-07-28",
-    "headline": "A Structured Data Pyramid for Training Embodied Manipulation Agents Across Domains",
-    "tldr": "The paper proposes a five-layer data pyramid that integrates real, simulated, synthetic, annotated, and multimodal sources to bridge the observation-action gap in embodied manipulation. It demonstrates how combining these layers can scale training of foundation models for physical interaction tasks.",
-    "significance": "This framework unifies diverse data modalities, enabling scalable training of embodied agents and accelerating progress in robotics and AI.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
