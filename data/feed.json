@@ -1,5 +1,316 @@
 [
   {
+    "uid": "afc44f3f2dbf9e9c59650d4ce4a2d435",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02603v1",
+    "arxiv_id": "2608.02603v1",
+    "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+    "authors": [
+      "Yuxue Yang",
+      "Shuyao Shang",
+      "Jiahe Wang"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Benchmarking World Models: From Video Appearance to Inherent Reactivity Evaluation",
+    "tldr": "Controllable video generation models are being used as world models, requiring evaluation beyond visual fidelity to include the model's ability to infer and generate plausible world reactions. The paper proposes a benchmark that tests both appearance and inherent reactivity of such models.",
+    "significance": "This benchmark advances the assessment of generative models by incorporating dynamic reasoning, enabling more realistic and useful AI-driven simulations.",
+    "tags": [
+      "diffusion-models",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d9dad21e27f18951917d8ae867af1547",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02601v1",
+    "arxiv_id": "2608.02601v1",
+    "title": "Discovery of the Distant, Ultra-Faint Milky Way Satellite Aquarius IV with the Vera C. Rubin Observatory Early Data Preview 2",
+    "authors": [
+      "William Cerny",
+      "Aashay Pai",
+      "Alex Drlica-Wagner"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Discovery of Ultra-Faint Milky Way Satellite Aquarius IV Using Vera C. Rubin Observatory Data",
+    "tldr": "Astronomers identified Aquarius IV, a faint Milky Way satellite, with 8σ significance in Rubin Observatory Early Data Preview 2 and confirmed it at 6σ using Dark Energy Camera imagery. This marks the first satellite found using Rubin data, expanding our knowledge of the Galaxy’s outskirts.",
+    "significance": "It demonstrates the Rubin Observatory’s power to uncover extremely faint celestial objects, opening new avenues for studying the Milky Way’s structure.",
+    "tags": [
+      "satellite-imagery",
+      "object-detection",
+      "open-source",
+      "remote-sensing"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b93d7e16ff61832ba00c6da4ca5126a6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02599v1",
+    "arxiv_id": "2608.02599v1",
+    "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+    "authors": [
+      "Junjie Yin",
+      "Buxin She",
+      "Xinyu Feng"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Hands‑On AI Framework Bridges Power Systems Education Gap",
+    "tldr": "The paper introduces an executable AI framework that makes power system modeling, forecasting, and control accessible to students and interdisciplinary researchers. It provides reusable modules and hands‑on exercises, filling a gap left by specialized, non‑reusable AI studies.",
+    "significance": "By offering a reusable, hands‑on AI toolkit, the framework democratizes power systems education and accelerates interdisciplinary innovation.",
+    "tags": [
+      "open-source",
+      "time-series",
+      "real-time",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "782168e4faacd06e1f7c6fe68d50086b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02598v1",
+    "arxiv_id": "2608.02598v1",
+    "title": "VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification",
+    "authors": [
+      "Chao Ji",
+      "Shiyu Xuan",
+      "Zechao Li"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "VR3D: Robust 3D Representation for Aerial‑Ground Person Re‑Identification Across Viewpoints",
+    "tldr": "Aerial‑ground person re‑identification suffers from viewpoint variations causing occlusion and deformation. VR3D introduces a view‑robust 3D representation learning framework that decouples viewpoint bias, improving cross‑platform matching.",
+    "significance": "By learning view‑invariant 3D features, VR3D enables more reliable person re‑identification between aerial and ground cameras, a critical capability for surveillance and search‑and‑rescue operations.",
+    "tags": [
+      "remote-sensing",
+      "point-cloud",
+      "object-detection",
+      "segmentation"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "22d9edb20f0e3c948180e4398a1c0c62",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02597v1",
+    "arxiv_id": "2608.02597v1",
+    "title": "SDSS-V Local Volume Mapper (LVM): Dithered Data Cube Reconstruction with 3dcubegen",
+    "authors": [
+      "H. J. Ibarra-Medel",
+      "A. Z. Lugo-Aranda",
+      "R. de J. Zermeño"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Reconstructing SDSS-V LVM Data Cubes: Dithered Observations and 3dcubegen Techniques",
+    "tldr": "The SDSS-V Local Volume Mapper uses multiple dithered observations to achieve full spatial coverage of nearby galaxies. The 3dcubegen software reconstructs these observations into high-resolution data cubes for scientific analysis.",
+    "significance": "This approach enhances spatial sampling and spectral depth, enabling unprecedented studies of the Milky Way and nearby galaxies.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7428dc5ce3f263a114b1fea0e666ddd1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02596v1",
+    "arxiv_id": "2608.02596v1",
+    "title": "Staying Productive Under the Palm Trees. On Graded Coeffect Typing in the Tropical Semiring",
+    "authors": [
+      "Rémy Cerda",
+      "Ugo Dal Lago"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Modeling Time and Productivity with Graded Coeffect Typing in the Tropical Semiring",
+    "tldr": "We present a graded coeffect typing system that uses the tropical semiring over natural numbers to model time delays in function parameters. This approach guarantees productivity of well-typed programs while faithfully representing temporal availability of resources.",
+    "significance": "This work provides a rigorous framework for reasoning about time-dependent resource availability in functional programming, bridging type theory and temporal logic.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "04540ee5d5d0fd52c496ebaf94fdeec0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02595v1",
+    "arxiv_id": "2608.02595v1",
+    "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+    "authors": [
+      "Brandon Wang",
+      "Andrei S. Tyrin",
+      "Daniil A. Boiko"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "onepot-Bench 0: Lab-Aware In Silico Chemistry Benchmark for Language Models",
+    "tldr": "The onepot-Bench 0 benchmark evaluates language models on laboratory science tasks such as experiment planning, execution, and analysis. It addresses the challenge of measuring both problem-solving skills and domain intuition required for in silico chemistry.",
+    "significance": "It provides a standardized, lab-aware test for assessing LLMs in chemistry, guiding future model development.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bf468a989bc62cf5161ba96631e096c1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02593v1",
+    "arxiv_id": "2608.02593v1",
+    "title": "Exact Likelihood and Sampling for Riemannian Gaussian Distributions on Correlation Matrices",
+    "authors": [
+      "Kisung You"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Exact Likelihood for Riemannian Gaussian Models on Correlation Matrices",
+    "tldr": "The paper introduces a proper Riemannian Gaussian distribution for full‑rank correlation matrices, deriving exact score equations and finite radial moments. It also presents quotient‑affine geometry techniques to handle normalization and scale profiling.",
+    "significance": "It provides a mathematically rigorous framework for probabilistic modeling of correlation structures with practical implications for statistical inference.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "43eca6d7828a00f19cad786bdd7fb77e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02591v1",
+    "arxiv_id": "2608.02591v1",
+    "title": "Testing for subgroup treatment effect consistency in the Cox model",
+    "authors": [
+      "Lukas Koletzko",
+      "Holger Dette",
+      "Björn Bornkamp"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Assessing Subgroup Consistency of Treatment Effects in Cox Models: A Practical Guide",
+    "tldr": "This article introduces a new approach for testing whether treatment effects are consistent across patient subgroups in survival analysis. It extends conventional interaction tests by evaluating the magnitude of differences rather than just equality.",
+    "significance": "The method enables clinicians to determine if population-level efficacy can be reliably applied to specific subpopulations, improving personalized treatment decisions.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "588e5f17387c41c0ac1db97a53238f9b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02590v1",
+    "arxiv_id": "2608.02590v1",
+    "title": "Optimal Quantum de Finetti Theorems via Argmax Rounding",
+    "authors": [
+      "Fernando Granha Jeronimo",
+      "Pei Wu",
+      "Haochen Xu"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Optimal Quantum de Finetti Bounds Achieved",
+    "tldr": "We prove tight finite de Finetti bounds for bosonic states, achieving a 1/(N-1) scaling in trace norm, and extend to arbitrary exchangeable states.",
+    "significance": "This resolves a long-standing open problem in quantum information theory.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c151488946e9e13a570cf4688238b2a1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02589v1",
+    "arxiv_id": "2608.02589v1",
+    "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
+    "authors": [
+      "Zhipeng Liu",
+      "Haochen Wang",
+      "Zhaoxiang Zhang"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "CAPEval: Separating Caption Coverage and Reliability for Better Multimodal Evaluation",
+    "tldr": "CAPEval introduces a decoupled framework that separately measures how much visual content a caption describes and how well the image supports those claims. This approach provides clearer diagnostics for both multimodal understanding models and text‑to‑image generation systems.",
+    "significance": "By disentangling coverage and reliability, CAPEval enables more precise model improvement and fairer benchmarking across vision‑language tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "36f2f2d35b7d8fe995a531171830061f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02588v1",
+    "arxiv_id": "2608.02588v1",
+    "title": "The Condition-Number Barrier in Sparse Least Squares",
+    "authors": [
+      "Honghao Lin",
+      "Vahab Mirrokni",
+      "David P. Woodruff"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "Condition-Number Barrier Proven for Sparse Least Squares Under Small-Set Expansion Hypothesis",
+    "tldr": "The authors establish the conjectured lower bound on the dependence on the restricted condition number for sparse least‑squares objectives, assuming the randomized exact‑volume Small‑Set Expansion Hypothesis. This result shows that no polynomial‑time algorithm can beat the linear dependence on the condition number in this setting.",
+    "significance": "It confirms a long‑standing conjecture, delineating the limits of efficient sparse convex optimization.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ac5bd68ee2613ecd159a58976efe770e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.02585v1",
+    "arxiv_id": "2608.02585v1",
+    "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+    "authors": [
+      "Zhaoxin Yu",
+      "Qi Shen",
+      "Hengli Li"
+    ],
+    "published": "2026-08-03",
+    "curated_at": "2026-08-04",
+    "headline": "GradCuit: Credit-Assigned Gradient Flow for Robust Test-Time Latent Reasoning in Large Language Models",
+    "tldr": "GradCuit introduces a credit-assigned gradient flow that directly links latent state updates to reasoning steps, improving LLM outputs without retraining. By assigning credit at the token level, it offers clearer interpretability and robust performance across diverse prompts.",
+    "significance": "This method enhances LLM reasoning by providing transparent, test-time optimization that preserves model weights and improves accuracy.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "b9059f3161bc320c3357b0c4b7bcb107",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2607.29684v1",
@@ -1112,313 +1423,6 @@
       "real-time"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3fddfdd5aa89a0f30719e98dafaf5f2b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27205v1",
-    "arxiv_id": "2607.27205v1",
-    "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with &lt;1 GB VRAM",
-    "authors": [
-      "Hengyi Xie",
-      "Chenfei Yao",
-      "Xianjin Wu"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "TurboVLA: 32 Hz Real-Time Vision-Language-Action on RTX 4090 with <1 GB VRAM for Deployment",
-    "tldr": "TurboVLA introduces a lightweight vision-language-action framework that runs at 32 Hz on an RTX 4090 while using less than 1 GB of VRAM. By decoupling visual encoding from language decoding, it reduces computational overhead and enables real-time robotic control.",
-    "significance": "This breakthrough demonstrates that high-frequency VLA inference is achievable on consumer GPUs, opening the door to real-world autonomous systems.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3c646828b20b6daa247f871aefcf1a30",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27203v1",
-    "arxiv_id": "2607.27203v1",
-    "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
-    "authors": [
-      "Perry Dong",
-      "Ron Polonsky",
-      "Dorsa Sadigh"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "Do You Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
-    "tldr": "This study challenges the convention that Q-functions must be pretrained before online fine-tuning. It shows that starting with a randomly initialized Q-function can yield comparable or better performance, questioning the necessity of offline pretraining for value-based RL.",
-    "significance": "The findings simplify RL pipelines by potentially eliminating a costly pretraining step, accelerating deployment of online RL agents.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ee4cc197be70d1e1cf700fb0dda1013e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27202v1",
-    "arxiv_id": "2607.27202v1",
-    "title": "Anomalies in Hadronic $B \\to VV$ Decays",
-    "authors": [
-      "Bhubanjyoti Bhattacharya",
-      "Marianne Bouchard",
-      "Alexandre Jean"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "New 4.1σ Discrepancy in Charmless B→VV Decays Challenges SU(3) Symmetry",
-    "tldr": "A recent fit of charmless B→VV decays shows a 4.1σ deviation from the Standard Model prediction under SU(3) symmetry. This suggests potential new physics or the need to revisit flavor symmetry assumptions.",
-    "significance": "The result highlights a significant tension that could point to physics beyond the Standard Model.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "05e1d41b1ef8857ba4cd3ffa273e46b5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27201v1",
-    "arxiv_id": "2607.27201v1",
-    "title": "Mental World Modeling",
-    "authors": [
-      "Hao Fei",
-      "Yiran Zhao"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "Integrating Mental State into World Models for Predictive Human Behavior",
-    "tldr": "World models currently predict physical evolution but ignore agents' hidden mental states. Incorporating beliefs, desires, and intentions can improve planning and action in dynamic environments.",
-    "significance": "Understanding and modeling human mental states is essential for accurate predictions and effective AI-driven decision making.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9a63d9f7160a53c1b00191dcb8b1440b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27198v1",
-    "arxiv_id": "2607.27198v1",
-    "title": "Mixed partition functions are exactly the graph parameters of exponentially bounded edge-connection rank",
-    "authors": [
-      "William Whistler"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "Mixed Partition Functions Characterize Exponentially Bounded Edge-Connection Rank in Graph Parameters",
-    "tldr": "The paper proves that a graph parameter with f(∅)=1 has exponentially bounded edge-connection rank if and only if it is a mixed partition function, and explicitly bounds the numbers of even and odd colours in the model. This resolves a conjecture of Regts and Sevenster by constructing a connection category and a rigid symmetric C‑category from f.",
-    "significance": "It settles a key conjecture linking combinatorial rank constraints to partition function representations, advancing the theory of graph parameters.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a83b201910666b873565282cd399f681",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27196v1",
-    "arxiv_id": "2607.27196v1",
-    "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
-    "authors": [
-      "Shady E. Ahmed",
-      "Panos Stinis"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "Fruitfly-Inspired Classification Approach Enables Efficient Nonlinear Regression Without Complex Global Models",
-    "tldr": "We propose a novel regression framework that transforms nonlinear input-output relationships into a classification problem, inspired by fruitfly sensory mechanisms. By using a finite library of local patterns instead of global surrogate models, the method achieves efficient and scalable learning on limited scientific data.",
-    "significance": "This approach offers a scalable alternative to traditional surrogate modeling, improving regression performance on sparse datasets.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a0793b293d61525c3339438f72d46b7a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27194v1",
-    "arxiv_id": "2607.27194v1",
-    "title": "VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion",
-    "authors": [
-      "Zador Pataki",
-      "Paul-Edouard Sarlin",
-      "Marc Pollefeys"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "VidMap: Leveraging Temporal Structure to Unlock Accurate Video-Based 3D Reconstruction",
-    "tldr": "VidMap introduces a novel approach to recover camera calibration and metric poses from unconstrained videos by exploiting temporal structure, overcoming limitations of traditional SLAM. The method achieves accurate, globally consistent 3D reconstructions, enabling large-scale training data for navigation and scene understanding.",
-    "significance": "By providing robust, globally consistent pose estimation from arbitrary videos, VidMap paves the way for scalable, high-fidelity datasets for autonomous navigation and scene understanding.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "83fa09d497edaa9a278d2517c5f6b533",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27193v1",
-    "arxiv_id": "2607.27193v1",
-    "title": "Non-Minimally Coupled Chain Inflation at High Scales",
-    "authors": [
-      "Miguel Barroso Varela",
-      "Orfeu Bertolami",
-      "Katherine Freese"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "Non-Minimally Coupled Chain Inflation: High-Scale Dynamics, Quantum Tunneling, and Early Universe Expansion",
-    "tldr": "Chain inflation posits that the early Universe underwent a series of rapid quantum tunneling events between metastable vacua, providing an alternative to slow-roll inflation. At high energy scales, scalar fields naturally couple non‑minimally to gravity, influencing the tunneling dynamics and the resulting cosmological evolution.",
-    "significance": "This framework offers a testable mechanism for generating the observed cosmic microwave background fluctuations while addressing the hierarchy of vacuum transitions in the early Universe.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d99119e7e3c8a8fa9edc2a345f3fae1f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27192v1",
-    "arxiv_id": "2607.27192v1",
-    "title": "The Fidelity and Feedback Traps: The Case for Health Digital Twins as Modular Evolving Causal Systems",
-    "authors": [
-      "Nikki L. B. Freeman",
-      "Yating Zou",
-      "Kyungbok Lee"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "Health Digital Twins: Avoiding Fidelity and Feedback Traps in Modular Causal Modeling",
-    "tldr": "Digital twins in healthcare can compare treatments and project patient trajectories, but copying engineering twin designs can lead to fidelity and feedback traps. The paper argues for modular, evolving causal systems that better capture the complexity of biological data.",
-    "significance": "This work highlights critical pitfalls in applying mechanical digital twin frameworks to health, guiding more realistic and effective modeling strategies.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6990f836953b3379ff41dd9f44b1407e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27191v1",
-    "arxiv_id": "2607.27191v1",
-    "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-    "authors": [
-      "Peter Kirgis",
-      "Sayash Kapoor",
-      "Andrew Schwartz"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "Can AI Agents Automate Open-Ended AI Research? Early Case Study Evidence",
-    "tldr": "This study examines whether autonomous AI agents can conduct open-ended AI research, using two case studies. It highlights the limitations of current evaluation methods and proposes a new framework for assessing agent-driven research.",
-    "significance": "The findings suggest that while AI agents show promise, robust evaluation frameworks are essential for reliable progress.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ee39ac24b63f2933f02df2bf885ff753",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.27189v1",
-    "arxiv_id": "2607.27189v1",
-    "title": "APEX-Accounting",
-    "authors": [
-      "Julien Benchek",
-      "Austin Bennett",
-      "Jasmin Kern"
-    ],
-    "published": "2026-07-29",
-    "curated_at": "2026-07-30",
-    "headline": "APEX-Accounting: A New Benchmark for Evaluating AI Models on Real-World Accounting Tasks",
-    "tldr": "APEX-Accounting, developed by Mercor and Ramp, tests whether large language models can perform core accounting functions such as reconciliation, expense accrual, transaction posting, and report generation. The benchmark includes 160 tasks across 10 worlds featuring diverse data formats like spreadsheets, PDFs, and more.",
-    "significance": "This benchmark pushes the limits of foundation models in automating complex, real-world financial workflows, offering a rigorous standard for future AI accounting solutions.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3c9f6f3cbd71aba486904bbbb5952236",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26058v1",
-    "arxiv_id": "2607.26058v1",
-    "title": "The evolution of galaxy dust scaling relations in the COLIBRE simulations",
-    "authors": [
-      "Aswin P. Vijayan",
-      "James W. Trayford",
-      "Joop Schaye"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Tracing Dust Evolution Across Cosmic Time in COLIBRE Simulations",
-    "tldr": "We map dust mass functions from z=15 to z=0 using the COLIBRE simulations, capturing dust production, growth, and destruction in a multiphase ISM. The results reveal evolving dust scaling relations that match observations and provide benchmarks for future models.",
-    "significance": "These findings offer a comprehensive, self-consistent framework for dust evolution that can calibrate galaxy formation models and interpret observational data across epochs.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "59d7fb71dab4442effba3681ab2c432d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.26057v1",
-    "arxiv_id": "2607.26057v1",
-    "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
-    "authors": [
-      "Haolei Xu",
-      "Xiaowen Xu",
-      "Haiwen Hong"
-    ],
-    "published": "2026-07-28",
-    "curated_at": "2026-07-29",
-    "headline": "Mitigating Prefix Failure in On-Policy Distillation with Trajectory Relays for Large Language Models",
-    "tldr": "On-policy distillation uses the student’s own trajectory for supervision but suffers from prefix failure, where early mistakes lead to cascading errors. This paper introduces a trajectory-relayed approach that passes supervision only after correct prefixes, reducing misdirected continuations and saving compute.",
-    "significance": "This work offers a principled solution to prefix failure in on-policy distillation, enabling more reliable and efficient training of large language models.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
