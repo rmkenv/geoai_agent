@@ -1,5 +1,292 @@
 [
   {
+    "uid": "aa866d9a1cb9aaacf7ddb2864c0e7516",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05150v1",
+    "arxiv_id": "2608.05150v1",
+    "title": "The QCD Axion and Neutrino Masses",
+    "authors": [
+      "Hridoy Debnath",
+      "Pavel Fileviez Perez",
+      "Grace Miller"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Linking the QCD Axion to Neutrino Masses: A Unified BSM Insight",
+    "tldr": "The Peccei-Quinn mechanism solves the strong CP problem by predicting the QCD axion, while neutrino masses hint at new physics. We investigate a framework where both phenomena arise from a common underlying symmetry, offering testable predictions.",
+    "significance": "This work proposes a novel unification of two major BSM puzzles, potentially guiding future experiments in axion searches and neutrino physics.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6ab02b8edeb7dea8aecdf2a9a41d1a4c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05149v1",
+    "arxiv_id": "2608.05149v1",
+    "title": "CoCo-IR: Contextual Composed Image Retrieval",
+    "authors": [
+      "Shengcao Cao",
+      "Tanmaya Shekhar Dabral",
+      "Zhongli Ding"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "CoCo-IR: Enabling Iterative Contextual Composed Image Retrieval for Complex Visual Searches",
+    "tldr": "We introduce CoCo-IR, a novel task that allows users to iteratively refine image search results through contextual interactions. Our approach leverages instruction-based retrieval and demonstrates improved performance over single-turn systems.",
+    "significance": "CoCo-IR addresses the limitation of single-turn retrieval, enabling more natural and effective visual search experiences.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0bc575c0c9974ceba89a2d6624415153",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05148v1",
+    "arxiv_id": "2608.05148v1",
+    "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
+    "authors": [
+      "Damien Sileo",
+      "Valentin Lacombe",
+      "Dimitri Kachler"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Reasoning Core: 50 Procedural Generators for Training LLMs in AI Research",
+    "tldr": "We present Reasoning Core, a suite of 50 procedural generators covering math, logic, planning, and more, enabling scalable, verifiable reasoning data for completion-supervised fine-tuning. Each generator includes semantic scoring, difficulty knobs, and task evaluators to support robust LLM training.",
+    "significance": "Reasoning Core provides the first large, open-source benchmark of procedurally generated reasoning tasks, accelerating LLM development.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "42d58e5653f3d9175f95e981daafac6c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05147v1",
+    "arxiv_id": "2608.05147v1",
+    "title": "Fast Quantum Interconnects via Neutral Atom Ensembles",
+    "authors": [
+      "Sina Zeytinoglu",
+      "Wenchao Xu",
+      "Thomas Pohl"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Fast Quantum Interconnects via Neutral Atom Ensembles for Scalable Quantum Computing",
+    "tldr": "We present a scalable quantum interconnect that generates remote entanglement at rates compatible with current neutral-atom processors, leveraging strong dipole-dipole interactions between Rydberg states. This approach promises high-rate entanglement distribution essential for scalable quantum computing.",
+    "significance": "This work enables high-speed entanglement distribution, bridging the gap between local gate operations and long-distance quantum communication.",
+    "tags": [
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1cb277694d8210111482f2799f546f0b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05145v1",
+    "arxiv_id": "2608.05145v1",
+    "title": "Objects as Audio-Visual Modal Sound Fields",
+    "authors": [
+      "Zisen Shao",
+      "Zihao Wei",
+      "Derong Jin"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Integrating Impact Sounds into 3D Reconstruction for Material and Structural Insight",
+    "tldr": "Modern 3D reconstruction focuses on geometry but neglects acoustic cues. By modeling impact sounds, we can infer material properties and structural integrity without costly simulations or massive datasets.",
+    "significance": "This approach enables richer, physics-informed scene understanding by combining visual and auditory data.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8024c6f9aeade08d7c13460e3a20fd4e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05144v1",
+    "arxiv_id": "2608.05144v1",
+    "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+    "authors": [
+      "Boxiu Li",
+      "Zimo Wen",
+      "Yijia Fan"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Argus: A Persistent Agentic Runtime Framework for Long-Horizon AI Reasoning",
+    "tldr": "Argus is a self‑evolving runtime that lets AI agents persist with a current approach when evidence supports it, but pivot when measurements indicate failure or hidden constraints. It orchestrates Manager, Planner, Engineer, and Reviewer components to execute bounded missions over durable project state, enabling robust long‑horizon reasoning.",
+    "significance": "Argus advances long‑horizon AI by providing a modular, persistent runtime that balances stability and adaptability, crucial for complex, multi‑step tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "18612cc4fb0c8d44c2e6f1ec2271fc1b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05141v1",
+    "arxiv_id": "2608.05141v1",
+    "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+    "authors": [
+      "Indraneil Paul",
+      "Falko Helm",
+      "Goran Glavaš"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "OctoLong Boosts Long-Context Language Models During Cross-Repository Code Training for",
+    "tldr": "OctoLong introduces a mid-training strategy that leverages cross-repository code contexts to improve long-context modeling in language models. By exposing models to diverse, long-distance dependencies across codebases, it enhances in-context learning and agentic workflows.",
+    "significance": "This approach expands the effective training corpus for long-context LMs, enabling more robust reasoning over extended sequences.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d836a2e8a00b97507af7b4ac88fce78e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05139v1",
+    "arxiv_id": "2608.05139v1",
+    "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+    "authors": [
+      "Yinghui He",
+      "Ling Yang",
+      "Jiarui Liu"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Skill Entropy: Benchmarking Cross-Skill Long-Horizon Reasoning in LLMs",
+    "tldr": "Researchers introduce skill entropy as a metric to evaluate how well large language models switch between distinct reasoning skills in multi-step tasks. The framework also guides training to improve long-horizon problem solving.",
+    "significance": "It provides a systematic way to assess and enhance LLMs' ability to handle complex, multi-skill reasoning.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a53188c7981e65ca0fbfcbc90fe92d49",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05138v1",
+    "arxiv_id": "2608.05138v1",
+    "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+    "authors": [
+      "Ayoub Kirouane",
+      "Christos Petrocheilos"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Adapting Nemotron Retrieval for Modern Greek: Corpus Mining, Synthetic Supervision, and RAG",
+    "tldr": "We extend NVIDIA’s Nemotron retrieval stack to Modern Greek by mining a large multilingual corpus, generating synthetic supervision, and training a retrieval model that improves retrieval-augmented generation in legal, energy, financial, and medical domains. The resulting open-source benchmark demonstrates significant gains over existing multilingual models.",
+    "significance": "This work fills a critical gap in multilingual retrieval, enabling high-quality RAG for Greek-speaking professionals across specialized sectors.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ebf2a82d77af5c59c048b73933eb94c9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05137v1",
+    "arxiv_id": "2608.05137v1",
+    "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
+    "authors": [
+      "Yue Zhang",
+      "Yingzhao Jian",
+      "Yunqiu Xu"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "SmartMage: Adaptive Modality Switching for Real‑Time 3D Scene Understanding with Large Language Models",
+    "tldr": "SmartMage introduces a dynamic modality orchestration framework that selects the most relevant visual and geometric cues for each query, enabling more accurate 3D scene understanding. By integrating multimodal large language models with adaptive sensor fusion, it outperforms fixed‑modality baselines on benchmark tasks.",
+    "significance": "This work demonstrates that query‑dependent modality selection can substantially improve multimodal reasoning in embodied AI, paving the way for more efficient and context‑aware perception systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "33f5d4ad258d828529704c2da4672b06",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05136v1",
+    "arxiv_id": "2608.05136v1",
+    "title": "The Loss Does Not See the Basis, but Adam Does",
+    "authors": [
+      "Devender Singh"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Gradient Descent's Low-Rank Bias vs Adam: The Role of Gauge Symmetry in Factored Models",
+    "tldr": "When training factored models, gradient descent naturally favors low-rank solutions due to gauge-equivariant dynamics, whereas Adam lacks this bias. The difference stems from the loss's invariance under simultaneous rotations of U and V, affecting how optimizers explore the parameter space.",
+    "significance": "Understanding this bias informs optimizer choice for efficient training of large-scale matrix factorization tasks.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "605a5a2a67991c1294f3c66a17d94236",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.05133v1",
+    "arxiv_id": "2608.05133v1",
+    "title": "Near-Field Velocity Estimation and Doppler-Aware Localization in OFDM Massive MIMO",
+    "authors": [
+      "Qing Zhang",
+      "Dario Tagliaferri",
+      "Robbert Beerten"
+    ],
+    "published": "2026-08-05",
+    "curated_at": "2026-08-06",
+    "headline": "Doppler-Aware Near-Field Localization in OFDM Massive MIMO: Low-Complexity Recursive Estimation",
+    "tldr": "Target motion in OFDM massive MIMO creates antenna-dependent Doppler shifts that degrade near-field localization if ignored. This paper introduces a low-complexity recursive framework that jointly estimates velocity and localization, improving accuracy.",
+    "significance": "Accurate near-field localization in massive MIMO systems is critical for high-resolution sensing and communication, and this work provides a practical method to mitigate Doppler-induced errors.",
+    "tags": [
+      "remote-sensing",
+      "object-detection",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "6c12b83d5b0fac7631d7ae15b518acef",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.04010v1",
@@ -1131,300 +1418,6 @@
       "open-source"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5ec0f9adaafb073c902796338d4612bb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28607v1",
-    "arxiv_id": "2607.28607v1",
-    "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
-    "authors": [
-      "Junsol Kim",
-      "Winnie Street",
-      "Roberta Rocca"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Safety Fine‑Tuning Reduces LLMs’ Self‑Consciousness Claims and Broader Mind Attribution",
-    "tldr": "Aligning large language models to curb self‑consciousness claims also lowers their tendency to attribute minds to animals and natural objects. The study shows safety fine‑tuning suppresses these attributions while reducing associated spiritual beliefs.",
-    "significance": "The findings reveal that safety interventions can reshape a model’s broader worldview, impacting how it perceives consciousness in the world.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "81dfe7ded5a6fa11cf324eb29f663e17",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28604v1",
-    "arxiv_id": "2607.28604v1",
-    "title": "Cosmo-SPINN: Fuzzy Dark Matter Simulations with Physics-Informed Generative Networks",
-    "authors": [
-      "Ashutosh Kumar Mishra",
-      "Emma Tolley",
-      "Nicolas Cerardi"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Cosmo‑SPINN: Physics‑Informed Generative U‑Net for Accurate Fuzzy Dark Matter Simulations",
-    "tldr": "Cosmo‑SPINN introduces a physics‑informed generative U‑Net that embeds cosmological evolution equations into fuzzy dark matter simulations, reducing artifacts seen in prior emulators. The framework demonstrates improved fidelity and offers an open‑source benchmark for future cosmological generative models.",
-    "significance": "By enforcing physical dynamics within generative networks, Cosmo‑SPINN sets a new standard for realistic, artifact‑free cosmological simulations, enabling more reliable theoretical predictions.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bdfc7189fc8922aee6d5e10a27ef04dc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28603v1",
-    "arxiv_id": "2607.28603v1",
-    "title": "Laboratory demonstration of low order wavefront control using light reflected off the vortex coronagraph",
-    "authors": [
-      "Clarissa R. Do Ó",
-      "Kane Sjoberg",
-      "Luke Lamitina"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Lab Demonstration of Low-Order Wavefront Control Using Light Reflected from a Vortex Coronagraph",
-    "tldr": "In a laboratory setting, researchers used light reflected off a vector vortex coronagraph to perform low-order wavefront sensing and control, achieving high-contrast imaging performance. This approach demonstrates a promising technique for future space telescopes aiming to image Earth-like exoplanets.",
-    "significance": "The technique offers a compact, high-throughput solution to meet the extreme contrast requirements of next-generation exoplanet imaging missions.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "object-detection",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e351874d63c53ed2ab300eed3f464c70",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28601v1",
-    "arxiv_id": "2607.28601v1",
-    "title": "Using Theory of Mind to Arbitrate between Social and Non-social Learning",
-    "authors": [
-      "Lance Ying",
-      "Ryan Truong",
-      "Joshua B. Tenenbaum"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Balancing Social and Direct Learning: A Theory of Mind Approach",
-    "tldr": "This study proposes a rational mentalizing model to explain when humans choose social learning over direct experience. The model quantifies the utility of social information, revealing a trade-off between cognitive cost and knowledge gain.",
-    "significance": "Understanding this trade-off informs the design of AI systems that mimic human learning strategies.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4ec15167c8ec5f47677fb40dace42d6c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28595v1",
-    "arxiv_id": "2607.28595v1",
-    "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
-    "authors": [
-      "Qixun Wang",
-      "Yang Shi",
-      "Letian Cheng"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Beacon: Optimizing Agentic Visual Reasoning for Multimodal LLMs Through Mode Adaptiveness and Tool Effect",
-    "tldr": "Beacon introduces a framework that refines agentic visual reasoning in multimodal large language models by focusing on Mode Adaptiveness and Tool Effect. This approach enhances task success rates while reducing inefficiencies in reasoning processes.",
-    "significance": "By redefining how models choose and use visual tools, Beacon advances practical multimodal AI performance.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f300b1281611213834c194b4c0196c15",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28594v1",
-    "arxiv_id": "2607.28594v1",
-    "title": "Characterizing the disruption of Böotes III: a missing link in the Galactic halo?",
-    "authors": [
-      "Jaclyn Jensen",
-      "Daniel A. Boyea",
-      "Alan W. McConnachie"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Boo III’s Tidal Disruption May Explain the Styx Stream in the Galactic Halo",
-    "tldr": "Observations of Boo III’s diffuse shape and velocity dispersion suggest it is being torn apart by the Milky Way. This disruption could be the source of the long Styx stellar stream.",
-    "significance": "Understanding Boo III’s disruption provides key insights into the assembly of the Milky Way’s halo.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2eaf701c61675d15dd00d4ec099669ee",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28591v1",
-    "arxiv_id": "2607.28591v1",
-    "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
-    "authors": [
-      "Haomin Qi",
-      "Xingliang Wang",
-      "Xuanqi Gao"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Change2Task: Automating Task Generation from Repository Histories for Coding Agents",
-    "tldr": "Change2Task transforms merged pull requests into executable coding tasks, providing realistic software states, specifications, tools, and verification. This streamlines training and evaluation of coding agents by leveraging real repository histories.",
-    "significance": "By automating task creation from real code changes, Change2Task dramatically expands the dataset available for developing and benchmarking autonomous coding agents.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "180ff47826b8779aecd9a0af586fb60f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28590v1",
-    "arxiv_id": "2607.28590v1",
-    "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
-    "authors": [
-      "Kangning Zhang",
-      "Yixing Li",
-      "Shuai Shao"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
-    "tldr": "The paper introduces a method to identify which next-token corrections in multimodal on-policy distillation are supported by visual evidence rather than linguistic priors. It proposes a source-mixed correction estimation framework that disentangles visual signals from teacher-specific effects, improving interpretability and fidelity of student policies.",
-    "significance": "This work advances explainable multimodal reinforcement learning by enabling visual evidence attribution, which can improve trust and performance in vision‑guided policy transfer.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "14a949e58202067a105cf87c131bfaeb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28589v1",
-    "arxiv_id": "2607.28589v1",
-    "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
-    "authors": [
-      "Md. Mehrab Hossain Opi",
-      "Robiul Islam Ryad",
-      "Md. Umar Faruk"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "MixFrag: Adaptive Mixed-Precision Quantization for Vision Transformers",
-    "tldr": "MixFrag uses a fragility-guided method to allocate mixed precision across transformer components, boosting post‑training quantization efficiency and accuracy.",
-    "significance": "It enables more efficient deployment of Vision Transformers on edge devices by tailoring precision to each component’s sensitivity.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8d2cbfacefbe672b7353e69861fbcbfe",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28628v1",
-    "arxiv_id": "2607.28628v1",
-    "title": "Learning to Trace Seiberg Dualities",
-    "authors": [
-      "Jonathan J. Heckman",
-      "Shani Meynet",
-      "Alessandro Mininno"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-07-31",
-    "headline": "Efficiently Identifying Seiberg Dualities for Quantum Field Theories Using AI-Driven Computational Techniques",
-    "tldr": "This paper introduces a systematic framework that leverages large language models to trace Seiberg dualities across supersymmetric gauge theories. By encoding duality rules into a benchmark dataset, we demonstrate rapid identification of dual pairs, reducing computational overhead by an order of magnitude.",
-    "significance": "The method accelerates duality discovery, enabling deeper exploration of non-perturbative phenomena in quantum field theory.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "269f70f214012d7f50f71f7543eaf27c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28627v1",
-    "arxiv_id": "2607.28627v1",
-    "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
-    "authors": [
-      "Yao Xiao",
-      "Reuben Tan",
-      "Zhen Zhu"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-07-31",
-    "headline": "ReToken: A Single Token for Efficient Visual Retrieval in Vision-Language Models",
-    "tldr": "ReToken introduces a learnable embedding that acts as a retrieval target, selecting relevant visual tokens from a pre-filled cache. This approach reduces computational load and improves performance on long visual contexts.",
-    "significance": "ReToken enables scalable vision-language retrieval by drastically cutting token processing while maintaining accuracy, making it feasible for real-time applications.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3f49e6b0a8b029d8bd005f6bec369754",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28625v1",
-    "arxiv_id": "2607.28625v1",
-    "title": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
-    "authors": [
-      "Yukang Cao",
-      "Haozhe Xie",
-      "Beichen Wen"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-07-31",
-    "headline": "Human-Centric Ambient Capture: A New Embodied Data Engine for Full Perception-Action Loop",
-    "tldr": "This work introduces a comprehensive dataset that records first-person perception, motion, manipulation, and multimodal signals over time, enabling embodied intelligence models to learn the full perception-action loop. By integrating vision, audio, touch, and motion data in a unified framework, it addresses the fragmentation of existing datasets and provides a benchmark for future research.",
-    "significance": "It provides the first holistic, multimodal dataset that captures the continuous human experience, paving the way for more realistic embodied AI systems.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
