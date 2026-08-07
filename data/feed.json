@@ -1,5 +1,267 @@
 [
   {
+    "uid": "25d06857e7a9a6ab3b3004f1952e33a2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06377v1",
+    "arxiv_id": "2608.06377v1",
+    "title": "Learning When to Trust via Selective Context Preference Optimization",
+    "authors": [
+      "Xian Sun",
+      "Wei Chow",
+      "Yingshuo Wang"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "Selective Trust in LLMs: Optimizing Context Preference for Reliable Answers",
+    "tldr": "This paper introduces MIST, a benchmark that tests language models' ability to selectively trust contextual signals. By optimizing context preference, models can avoid misleading cues while still leveraging useful information.",
+    "significance": "It provides a framework to balance robustness and usefulness in LLMs, addressing a key failure mode in current models.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7d94637bd8de67047dfce1b1f216d56f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06376v1",
+    "arxiv_id": "2608.06376v1",
+    "title": "A Tale of Two Compact Bosons",
+    "authors": [
+      "Christian Ferko",
+      "Vishnu Jejjala",
+      "Brandon Robinson"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "Neural Network Field Theory Unifies Compact Bosons via Mixed Latent Variables",
+    "tldr": "Neural network field theory (NN-FT) models field theories using network architectures and latent variable distributions, extending to compact theories by summing over discrete topological sectors. The paper applies this mixed continuous/discrete latent-variable construction to two compact boson models, illustrating the framework’s power.",
+    "significance": "This work bridges machine learning and quantum field theory, offering a novel, data-driven approach to studying topologically nontrivial compact bosonic systems.",
+    "tags": [
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "54da12bda445f5ef5b96a11436e07011",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06375v1",
+    "arxiv_id": "2608.06375v1",
+    "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+    "authors": [
+      "Zhe Li",
+      "Zhenzhe Zhang",
+      "Yangyang Wei"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "ω-0: Unified Latent Predictive Model for Concurrent Humanoid Locomotion and Manipulation",
+    "tldr": "The paper introduces ω-0, a latent predictive world-action model that jointly learns locomotion, posture, balance, and manipulation for humanoid robots. By integrating whole-body dynamics into a single latent space, ω-0 enables real-time coordinated behavior, outperforming prior decomposed policies.",
+    "significance": "ω-0 bridges the gap between separate locomotion and manipulation modules, enabling more natural and efficient humanoid task execution.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4f363f8af3a990c25330526f9e84f22a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06374v1",
+    "arxiv_id": "2608.06374v1",
+    "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+    "authors": [
+      "Junfeng Li",
+      "Junjie He",
+      "Zhide Zhong"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "DyPES-VLA: Shared Dynamics Priors for Cross-Embodiment Robot Manipulation",
+    "tldr": "DyPES-VLA introduces a framework that learns shared dynamics priors across diverse robot embodiments while tailoring control policies to each embodiment. This approach improves cross-embodiment transfer and reduces the need for extensive manual data collection.",
+    "significance": "By leveraging shared dynamics priors, DyPES-VLA enables more efficient and scalable training of vision-language-action models for heterogeneous robots, accelerating deployment in real-world manipulation tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c84dcbfaf5c0fb4b86c3c9d2af927323",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06370v1",
+    "arxiv_id": "2608.06370v1",
+    "title": "The Bitter Lesson of Tool Calling",
+    "authors": [
+      "Ishan Patel",
+      "Sahil Sen",
+      "Elias Lumer"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "Evaluating Tool Calling in LLMs: A Benchmark for Code-Capable Models",
+    "tldr": "Tool calling turns LLMs into agents that can act beyond their training data. Yet, no systematic benchmark exists to evaluate code-based tool use across model generations in real-world tasks.",
+    "significance": "This study provides the first comprehensive benchmark for tool calling in LLMs, guiding future model development.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0baf9d10f8f2fffd12f4ef8bf220cebf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06366v1",
+    "arxiv_id": "2608.06366v1",
+    "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+    "authors": [
+      "Soorya Ram Shimgekar",
+      "Michelle Hu",
+      "Dorisa Shehi"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "Tracing the Heart: Building an Evidence-Linked Pipeline for Heart‑Failure EHR Feature Engineering",
+    "tldr": "EHR feature engineering consumes nearly half of data scientists’ effort, especially for heart failure. This paper presents a rule‑based and LLM‑augmented pipeline that links guideline‑driven reasoning to structured data, accelerating model development.",
+    "significance": "By automating feature extraction, the pipeline reduces bottlenecks and enables faster, evidence‑based heart‑failure research.",
+    "tags": [
+      "LLM",
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "04beebc83f4f0c434e2bc0e4ca47837a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06363v1",
+    "arxiv_id": "2608.06363v1",
+    "title": "An Optimal Agnostic PAC Algorithm",
+    "authors": [
+      "Markus Engelund Mathiasen",
+      "Jian Qian",
+      "Nikita Zhivotovskiy"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "Optimal Agnostic PAC Learning for Finite VC Classes",
+    "tldr": "The paper introduces an algorithm that achieves the statistically optimal risk bound for any hypothesis class with finite VC dimension, matching the minimax lower bound up to constant factors.",
+    "significance": "It provides the first practical learner that attains the best possible error rate in agnostic learning settings.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2509187d28000d2dd8e0883626dbcca5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06362v1",
+    "arxiv_id": "2608.06362v1",
+    "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+    "authors": [
+      "Boning Li",
+      "Yu Chen",
+      "Longbo Huang"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "AV-AIVAT Cuts Agent Evaluation Cost 74× with Anytime-Valid Stopping in Games",
+    "tldr": "AV-AIVAT introduces a statistically sound anytime-valid stopping rule that dramatically reduces the number of games required to compare agents in imperfect-information settings. The method achieves a 74× cost reduction while maintaining rigorous confidence guarantees, making large-scale agent benchmarking more affordable and reliable.",
+    "significance": "This breakthrough enables rapid, cost-effective evaluation of AI agents, accelerating research and deployment in strategic games and beyond.",
+    "tags": [
+      "benchmark",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0aaacbf0a83bc53ca6b478b6bdf20702",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06361v1",
+    "arxiv_id": "2608.06361v1",
+    "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+    "authors": [
+      "Sarvesh Baskar",
+      "Zikui Cai",
+      "Shayan Shabihi"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "Low-Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+    "tldr": "Video language models struggle to accurately count and timestamp low-frequency events because existing benchmarks conflate event count, rate, duration, and visual complexity. We propose a trace‑grounded parametric benchmark that audits reported events against executable ground truth, isolating failure modes.",
+    "significance": "This work provides a clearer diagnostic tool for improving video language models, enabling more reliable event detection in real-world applications.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "aa924a02e9739296881ccf8b0bf9680f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06360v1",
+    "arxiv_id": "2608.06360v1",
+    "title": "PyOMES: an open-source framework for biochemical process modelling",
+    "authors": [
+      "Ethan Errington",
+      "Tom Vinestock",
+      "Jaewook Lee"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "PyOMES: Open-Source Framework for Dynamic Biochemical Process Modelling",
+    "tldr": "PyOMES is a Python-based, open-source environment that simplifies dynamic and steady-state biochemical process modelling through a modular, generalized framework. It supports a wide range of biological, chemical, and biochemical systems under a single, accessible platform.",
+    "significance": "By providing a unified, modular toolkit, PyOMES accelerates research and development across diverse biochemical engineering domains.",
+    "tags": [
+      "open-source",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "52b7d4c1ca4be88685b307208539d432",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06358v1",
+    "arxiv_id": "2608.06358v1",
+    "title": "Universality in random graphs via optimal linking systems: trees and beyond",
+    "authors": [
+      "Asaf Cohen Antonir",
+      "Lyuben Lichev",
+      "Maksim Zhukovskii"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-07",
+    "headline": "Random Graphs Achieve Universal Tree Embedding",
+    "tldr": "Researchers prove that a sparse random graph with edge probability C ln n/n contains every bounded-degree tree on n vertices. This resolves a question posed by Montgomery and advances our understanding of universality in random graphs.",
+    "significance": "It establishes a tight threshold for embedding all bounded-degree trees, a fundamental problem in graph theory.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "aa866d9a1cb9aaacf7ddb2864c0e7516",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.05150v1",
@@ -1160,264 +1422,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "4dd111db1a982d61062a34d35276c668",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28585v1",
-    "arxiv_id": "2607.28585v1",
-    "title": "ABC methods for IoT Emitter Geolocalisation using LEO Satellite Doppler Measurements",
-    "authors": [
-      "B. Ristic",
-      "Y. Choi",
-      "D. Y. Kim"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "Passive IoT Emitter Localization via LEO Satellite Doppler: ABC Methods",
-    "tldr": "We propose ABC methods to localize stationary ground-level IoT emitters using Doppler measurements from LEO satellites. The approach addresses measurement errors from low-cost devices, enabling accurate passive geolocation.",
-    "significance": "Accurate passive localization of IoT emitters from satellite data enhances security, asset tracking, and situational awareness in remote or urban environments.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f51e46a98f21c23a84480524aacca9e8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28583v1",
-    "arxiv_id": "2607.28583v1",
-    "title": "CrossAtlas: Evaluating Projection Techniques for Spatial Referencing in Cross-Reality Collaboration",
-    "authors": [
-      "Haoyang Yang",
-      "Chenyang Zhang",
-      "Elliott H. Faa"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "CrossAtlas: Assessing Projection Methods for Spatial Alignment in Mixed Reality Collaboration",
-    "tldr": "CrossAtlas investigates how different projection techniques between 3D immersive spaces and 2D desktop views affect communication in cross-reality collaboration. The study reveals that certain mappings preserve geometric relationships better, improving shared spatial understanding.",
-    "significance": "Understanding projection impacts is crucial for designing intuitive cross-reality tools that enable seamless collaboration across devices.",
-    "tags": [
-      "spatial-reasoning",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d917e67f11f2235685da48187864615f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28582v1",
-    "arxiv_id": "2607.28582v1",
-    "title": "$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
-    "authors": [
-      "Jiawei Xu",
-      "Minghui Liu",
-      "Juzheng Zhang"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "β-OPSD: Enhancing Language Models via Policy-Optimized Self-Distillation for Robust Reasoning",
-    "tldr": "β-OPSD generalizes on‑policy self‑distillation by introducing a β‑weighted KL penalty, allowing a smoother trade‑off between student fidelity and exploration. Experiments show that tuning β improves robustness and reduces engineering overhead compared to vanilla OPSD.",
-    "significance": "This work provides a principled framework that makes self‑distillation more reliable for large language models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0783ad76f8d2474700a99cf90f07ae29",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28581v1",
-    "arxiv_id": "2607.28581v1",
-    "title": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation",
-    "authors": [
-      "Xiao Luo",
-      "Mingyang Du",
-      "Xin Zhou"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "Leveraging Discriminative Semantics Using Foundation Models for Efficient 3D Shape Generation",
-    "tldr": "ROAD proposes aligning discriminative semantics with generative objectives to reduce the need for massive data and model scaling in 3D shape generation. By harnessing pre‑trained foundation models, it achieves high‑fidelity results with lower computational cost.",
-    "significance": "It demonstrates that semantic priors from foundation models can dramatically improve efficiency and quality in 3D generation tasks.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1598fe79f83ba92b692bca2e6507655f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28580v1",
-    "arxiv_id": "2607.28580v1",
-    "title": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
-    "authors": [
-      "Jiacheng Tao",
-      "Qingyun Sun",
-      "Haonan Yuan"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "DualG-MRAG Improves Multi-Hop Reasoning in Multimodal Retrieval-Augmented Generation for Complex Tasks",
-    "tldr": "DualG-MRAG decouples macro-level reasoning from micro-level matching, enabling more effective multi-hop reasoning across modalities. By separating these components, it overcomes limitations of instance-level matching and graph-based methods, improving retrieval-augmented generation performance.",
-    "significance": "This approach advances multimodal AI by enabling more accurate and scalable reasoning in retrieval-augmented generation systems.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cf64d6ed45b86ccbe8d5d65a41f3152a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28579v1",
-    "arxiv_id": "2607.28579v1",
-    "title": "Quantum Chaos and Diffusive Transport from Geometric Randomness",
-    "authors": [
-      "Bibek Saha",
-      "Abhishek Dhar",
-      "Sthitadhi Roy"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "Geometric Randomness Drives Quantum Chaos and Diffusive Transport in Layered Tree-like Graphs",
-    "tldr": "We show that non-interacting quantum particles on random locally tree-like layered graphs exhibit quantum chaos and diffusive transport purely from geometric randomness. This reveals that disorder-free systems can host complex transport phenomena traditionally attributed to microscopic disorder or interactions.",
-    "significance": "This finding challenges conventional wisdom by demonstrating that geometry alone can generate chaotic dynamics and diffusion, opening new avenues for designing disorder-free quantum devices.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "518ce6ddd9416315838a6e157110576b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28577v1",
-    "arxiv_id": "2607.28577v1",
-    "title": "Train Often, Deploy Selectively: Forward-Gated Model Replacement in Crypto Markets",
-    "authors": [
-      "Aditya Dutta"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "Deploying Forward-Gated Models: Shadow Before Swap Enhances Crypto Forecasting Systems",
-    "tldr": "Production forecasting systems often retrain models, but a new model may not beat a continuously learning incumbent. Shadow Before Swap (SBS) warm‑refits challengers off‑path, evaluates them against the incumbent on the same delayed labels, and only promotes them when they truly outperform.",
-    "significance": "SBS provides a rigorous, low‑risk deployment strategy that ensures only genuinely superior models replace incumbents, improving forecast reliability in volatile crypto markets.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "93d6609e6d2b8a5b2545cc6c289ad34c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28576v1",
-    "arxiv_id": "2607.28576v1",
-    "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B",
-    "authors": [
-      "Iliya Mirzaei"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "Self-Refine vs Repeated Sampling: Token Cost Efficiency in LLMs",
-    "tldr": "Wang et al. (2024) show that repeated sampling outperforms self-refinement and reflection when token budgets are equal, because more text alone boosts accuracy. The study suggests that the benefit comes from quantity, not from the self-critique mechanisms.",
-    "significance": "The findings challenge the perceived superiority of self-refinement strategies in large language models, emphasizing the importance of token efficiency over elaborate internal reasoning.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b51e97fd9b6362fc817eb15185e4fc23",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28616v1",
-    "arxiv_id": "2607.28616v1",
-    "title": "On Degree Powers in Intersecting Families",
-    "authors": [
-      "Mengyu Cao",
-      "Mei Lu",
-      "Haixiang Zhang"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Degree Power Bounds in Intersecting Set Families",
-    "tldr": "We develop a two‑moment interpolation principle that majorizes integer degree powers, yielding new bounds on codegree sums in intersecting families.",
-    "significance": "Provides a powerful tool for analyzing degree distributions in combinatorial set systems.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f1f3cc2f8c0948e2a89cac458c2cbb95",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28615v1",
-    "arxiv_id": "2607.28615v1",
-    "title": "Why 4D? Spontaneous Dimensional Selection from Gauge Criticality",
-    "authors": [
-      "Wen Yin"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "Gauge Criticality as a Mechanism for Selecting Four Macroscopic Dimensions",
-    "tldr": "The Yang–Mills coupling’s relevance below four dimensions, marginality at four, and irrelevance above can drive a spontaneous dimensional selection. A racetrack model demonstrates that four large dimensions can emerge without assuming a noncompact 4D spacetime.",
-    "significance": "This work offers a novel dynamical explanation for why our universe appears four-dimensional, linking gauge theory criticality to cosmological dimensionality.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1463ca709849923513b36a7138baab99",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28609v1",
-    "arxiv_id": "2607.28609v1",
-    "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
-    "authors": [
-      "Qiushi Sun",
-      "Kanzhi Cheng",
-      "Yian Wang"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-01",
-    "headline": "OSReward: Standardized Evaluation Framework for Cross-Platform Computer-Use Reward Models and Verification",
-    "tldr": "OSReward introduces a unified verification protocol that automatically assesses whether computer-using agents complete tasks across diverse platforms. By providing scalable, reproducible reward signals, it accelerates data curation and reinforcement learning research.",
-    "significance": "This work enables large-scale, automated evaluation of agent behavior, a critical bottleneck in advancing trustworthy AI.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
