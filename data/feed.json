@@ -1,5 +1,236 @@
 [
   {
+    "uid": "952498b84d59ae95813298fdbb6288db",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06371v1",
+    "arxiv_id": "2608.06371v1",
+    "title": "Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion",
+    "authors": [
+      "Monica Conti",
+      "Andrea Giorgini",
+      "Greta Ricchi"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "Weak Solutions for Cahn-Hilliard with Degenerate Mobility and Singular Diffusion",
+    "tldr": "The paper establishes existence of global weak solutions for a Cahn-Hilliard equation with degenerate mobility and singular diffusion. The analysis is carried out in three-dimensional convex domains, extending previous results.",
+    "significance": "It advances mathematical understanding of phase separation models relevant to polymer blends.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "516e33a33c89286a2aa522468dc1c4b4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06364v1",
+    "arxiv_id": "2608.06364v1",
+    "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+    "authors": [
+      "George Grispos",
+      "Sajda Qureshi"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "AI in Nigerian Mobile Shopping Apps: Assessing Digital Sovereignty and Platform Transparency",
+    "tldr": "This study explores how AI-driven features in Nigerian e‑commerce apps influence users' digital sovereignty, focusing on transparency and control. Findings highlight gaps in platform accountability and suggest policy measures to safeguard consumer autonomy.",
+    "significance": "Understanding AI's impact on digital sovereignty is crucial for protecting Nigerian consumers from opaque algorithmic practices.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0b34f0908d3aa342b12d02ceb35da881",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06356v1",
+    "arxiv_id": "2608.06356v1",
+    "title": "Structured coherence: A modern perspective on optical coherence as a resource",
+    "authors": [
+      "Ayman F. Abouraddy",
+      "Bahaa E. A. Saleh"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "Optical Coherence as a Modern Resource: From Theory to Practical Discrete Modes",
+    "tldr": "Optical coherence traditionally relies on continuous spatial and temporal correlation functions, yet real-world applications only access discrete degrees of freedom. This paper reinterprets coherence as a resource, enabling deterministic mode exploitation in practical optical systems.",
+    "significance": "It bridges fundamental coherence theory with actionable strategies for engineering optical devices in discrete settings.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3b60a49c273bd95b9db54a5e423fc30d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06354v1",
+    "arxiv_id": "2608.06354v1",
+    "title": "A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber",
+    "authors": [
+      "Omar Curiel",
+      "Jing-Yuan Huang",
+      "Po-Chih Chen"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "MR‑Safe Master‑Slave Robot Enables Precise Needle Teleoperation Inside MRI Scanners",
+    "tldr": "We developed an MR‑safe master‑slave robotic system that allows surgeons to steer a needle inside an MRI chamber using a fluid‑coupled 2+1‑DoF master and slave. The system provides multimodal control and real‑time force feedback, improving precision for abdominal interventions.",
+    "significance": "This platform enables safe, high‑precision needle interventions in MRI environments, potentially improving outcomes for image‑guided therapies.",
+    "tags": [
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "682fe91247a4f22832fe19342ca97b99",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06353v1",
+    "arxiv_id": "2608.06353v1",
+    "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
+    "authors": [
+      "Praphul Chandra",
+      "Sujit Gujar",
+      "Ganesh Ghalme"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "Resourced Authority: A Mechanism-Design Model for Continuous AI Governance Through Compute Budgets",
+    "tldr": "We propose a mechanism design framework that uses compute budgets to enforce authorization for deployed AI agents, enabling continuous participatory governance. By treating compute as a governance lever, the model aligns AI behavior with safety objectives while allowing stakeholders to adjust resource allocation in real time.",
+    "significance": "This approach offers a scalable, self-enforcing method to ensure AI agents remain aligned with human values without requiring constant oversight.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "82b6d47144c4f326255faf6e1227b1e6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06351v1",
+    "arxiv_id": "2608.06351v1",
+    "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+    "authors": [
+      "Jerzy Stefanowski"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "Evaluating XAI: Human‑Grounded Tests and Adaptive Explanations in Image Recognition",
+    "tldr": "The paper critiques current XAI evaluation practices, using DetoxAI to highlight bias detection and concept unlearning gaps. It demonstrates a human‑grounded assessment of image‑classification explanations and proposes adaptive methods to improve explanation quality.",
+    "significance": "It underscores the need for rigorous, human‑centered evaluation frameworks to ensure trustworthy AI explanations in visual tasks.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "abe2065837483f5e2c4abcbfeb327cf0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06350v1",
+    "arxiv_id": "2608.06350v1",
+    "title": "Clump Migration in Disk Galaxies: Revisiting Chandrasekhar's Dynamical Friction",
+    "authors": [
+      "Pushpak Pandey",
+      "Kanak Saha"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "Reassessing Dynamical Friction: Clump Migration in Disk Galaxies and Bulge Growth",
+    "tldr": "We test Chandrasekhar’s dynamical friction against N‑body simulations of massive clumps in realistic disk galaxies. The classic formula overestimates inspiral times by up to a factor of two, indicating the need for revised models.",
+    "significance": "Accurate clump inspiral times are essential for understanding bulge formation and the secular evolution of disk galaxies.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "006fedc345d9e483ee6e15e5d300977a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06347v1",
+    "arxiv_id": "2608.06347v1",
+    "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+    "authors": [
+      "Xinye Wang",
+      "Junxiao Liu",
+      "Shujian Huang"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "Reasoning-Pivot Guided Self-Distillation Enhances Multilingual LLM Reasoning for Cross-Language Transfer",
+    "tldr": "The paper introduces RP-OPSD, a self-distillation framework that prioritizes reasoning signals to improve multilingual reasoning in LLMs. It demonstrates that guiding distillation with reasoning pivots yields better cross-lingual transfer than existing methods.",
+    "significance": "It offers a new way to extend reasoning capabilities of LLMs to low-resource languages.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e1a9238e50376636182f973ce8133e10",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06346v1",
+    "arxiv_id": "2608.06346v1",
+    "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+    "authors": [
+      "Yunjia Qi",
+      "Zehua Yin",
+      "Xintong Shi"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "Tracing Early Errors in Long-Horizon LLM Agent Trajectories with TRAJDEBUG",
+    "tldr": "TRAJDEBUG introduces a method to pinpoint the earliest error step causing failure in long agent trajectories, enabling targeted debugging of LLM-based systems. It leverages error lifecycle analysis to improve reliability in complex, multi-step tasks.",
+    "significance": "This work provides a systematic approach to reduce cascading failures in autonomous agents, enhancing safety and robustness.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "911049fd99013326b5ec7d1d9232bcce",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06345v1",
+    "arxiv_id": "2608.06345v1",
+    "title": "Dimension-Free Polylogarithmic Quantum Shadow Tomography from Sequential Pretty-Good Measurements",
+    "authors": [
+      "Fernando Granha Jeronimo",
+      "Qizhao Huang",
+      "Lenny Liu"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-08",
+    "headline": "New Dimension-Free Polylogarithmic Quantum Shadow Tomography Achieves Efficient Expectation Estimation",
+    "tldr": "The paper presents a quantum shadow tomography algorithm that scales polylogarithmically with dimension, eliminating the curse of dimensionality. It uses sequential pretty-good measurements to estimate all expectation values with high probability and additive accuracy ε.",
+    "significance": "This breakthrough enables practical quantum state characterization for high-dimensional systems, paving the way for scalable quantum technologies.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "25d06857e7a9a6ab3b3004f1952e33a2",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.06377v1",
@@ -1195,232 +1426,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "aed11ea8840d30dffa79bd8436365b29",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29675v1",
-    "arxiv_id": "2607.29675v1",
-    "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
-    "authors": [
-      "Arkajyoti Bhattacharjee",
-      "Arnab Auddy"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "Differentially Private Modal Learning: Recovering Density Modes for Regression and Clustering",
-    "tldr": "We introduce DP-GRAMS, a mean‑shift inspired algorithm that privately estimates density modes under local smoothness, curvature, and separation assumptions. The recovered modes enable accurate regression and clustering while guaranteeing differential privacy.",
-    "significance": "This work provides the first rigorous framework for privately extracting interpretable multimodal structure from data, bridging privacy and statistical learning.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "12aba290696c4f79ba63f20c16199e4e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29674v1",
-    "arxiv_id": "2607.29674v1",
-    "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
-    "authors": [
-      "Maria Smirnova",
-      "Alexey Kravatskiy"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "SignMuon: One-Bit Compression Beats SignSGD, Even on Linear Functions in Distributed Optimization",
-    "tldr": "SignMuon compresses updates to a single bit per parameter by taking the sign of each element, enabling efficient communication in distributed training. It outperforms SignSGD, but surprisingly can still ascend on a linear objective, revealing limits of error feedback when signing gradients before the LMO.",
-    "significance": "This work exposes fundamental limitations of sign-based compression schemes, guiding future design of communication-efficient optimizers.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c0b5979c82973eff6bb10df3f370d04c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29672v1",
-    "arxiv_id": "2607.29672v1",
-    "title": "The Kikuchi Hierarchy is Sharp for $k$XOR",
-    "authors": [
-      "Alexander Schmidhuber",
-      "Matthew B. Hastings"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "Kikuchi Hierarchy Sharpness for kXOR: Signal Strength vs. Time Trade-Off",
-    "tldr": "The paper establishes a precise relationship between the number of clauses needed to refute planted noisy kXOR and the computational time achievable by the Kikuchi hierarchy. It shows that level ℓ achieves a smooth curve m ≳ ρ⁻² n^{k/2}/ℓ^{k/2-1} clauses, implying solvability in time n^{O(ℓ)}.",
-    "significance": "It confirms the conjectured optimality of the Kikuchi hierarchy for kXOR, guiding future algorithmic developments.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0576f5548c02073175b9a561db31b520",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29667v1",
-    "arxiv_id": "2607.29667v1",
-    "title": "The large mass limit of monopoles: abelian limits and Dirac singularities",
-    "authors": [
-      "Daniel Fadel"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "Large Mass Limit of SU(2) Monopoles: Abelian Limits and Emergent Dirac Singularities",
-    "tldr": "We analyze finite‑energy SU(2) monopoles on asymptotically conical 3‑manifolds as their masses tend to infinity. The rescaled energy concentrates at isolated points, yielding abelian monopole limits with Dirac singularities carrying integer charges.",
-    "significance": "This work elucidates the asymptotic behavior of non‑abelian monopoles, linking them to simpler abelian configurations and revealing a quantized singular structure.",
-    "tags": [
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ef27b1a56cd44441aa404504a1a7cfe7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29665v1",
-    "arxiv_id": "2607.29665v1",
-    "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
-    "authors": [
-      "Juncheng Zhong",
-      "Chenghuang Shen",
-      "Jianfeng Liu"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "Freeze-then-Select: Stabilizing Neural PDE Discovery from Sparse Data Using Optimization Paths",
-    "tldr": "We propose a freeze-then-select strategy that decouples equation selection from neural optimization, enabling robust PDE discovery from sparse observations. The method preserves exact support throughout training and improves stability across optimization trajectories.",
-    "significance": "This approach advances PDE discovery by ensuring reliable term selection even with limited data, paving the way for more accurate scientific modeling.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "369ac87c0b748bd189f4f969b1e0931a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28598v1",
-    "arxiv_id": "2607.28598v1",
-    "title": "Explicit Matrices over $\\mathbb Z_2$ with CNOT and Row Complexity $4n-\\mathrm{o}(n)$ and Local Logic Gates",
-    "authors": [
-      "Sherry Gong",
-      "Andrew Yu"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "High-Complexity Binary Matrices Challenge Quantum Gate Optimization",
-    "tldr": "The paper constructs explicit n×n binary matrices that require at least 4n−o(n) CNOT or row operations to reduce to the identity, even when extended gate models are allowed.",
-    "significance": "It establishes fundamental lower bounds for linear reversible circuit synthesis.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e388038893808691fc60ad92acea79ff",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28596v1",
-    "arxiv_id": "2607.28596v1",
-    "title": "FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation",
-    "authors": [
-      "Lifeng Zhuo",
-      "Wendi Chen",
-      "Han Xue"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "Frequency-Adaptive Reactive Diffusion Policy for Rapid, Precise, and Adaptive Contact-Rich Manipulation",
-    "tldr": "The paper introduces FA-RDP, a diffusion-based policy that adapts action frequencies to maintain multimodal exploration before contact and rapid reactive control after contact, achieving state-of-the-art performance on contact-rich manipulation tasks. By integrating frequency adaptation with diffusion sampling, FA-RDP balances exploration and exploitation, enabling robots to respond swiftly to force feedback while preserving diverse action modes.",
-    "significance": "FA-RDP demonstrates that frequency-adaptive diffusion policies can bridge the gap between exploration and reactivity, setting a new benchmark for contact-rich robotic manipulation.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3203befc0837221b3643ac266d3909d7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28592v1",
-    "arxiv_id": "2607.28592v1",
-    "title": "LISA Reconstruction Landscape for Metastable Cosmic Strings",
-    "authors": [
-      "Satyabrata Datta",
-      "Rome Samanta"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "Reconstructing Gravitational-Wave Signals from Decaying Cosmic Strings with LISA in the Early Universe",
-    "tldr": "We analyze how the LISA mission can reconstruct stochastic gravitational-wave backgrounds produced by metastable cosmic strings that decay via monopole pair nucleation. The study shows that after the decay time, loop production drops, yet LISA can still recover the signal, providing a new benchmark for early-universe physics.",
-    "significance": "This work demonstrates a novel method to probe the physics of metastable cosmic strings, offering a new window into high-energy processes in the early universe.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e1c89d45870297e2298be806b0a6d5e4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28587v1",
-    "arxiv_id": "2607.28587v1",
-    "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
-    "authors": [
-      "Manyi Wang",
-      "Junjielong Xu",
-      "Pinjia He"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "PAIChecker: Detecting PR‑Issue Misalignment in SWE‑Bench‑Like LLM Benchmarks",
-    "tldr": "PAIChecker identifies mismatches between pull requests and their linked issues in software‑engineering benchmarks, ensuring accurate problem statements and test oracles. It improves benchmark reliability by automating alignment checks and highlighting potential data quality issues.",
-    "significance": "By guaranteeing correct PR‑issue pairing, PAIChecker enhances the validity of LLM evaluations on real‑world software repair tasks.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40519b69ef4cba0b3e7591077ac072fb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.28586v1",
-    "arxiv_id": "2607.28586v1",
-    "title": "Boundedness of polarized foliated surfaces",
-    "authors": [
-      "Yen-An Chen",
-      "Minzhe Zhu"
-    ],
-    "published": "2026-07-30",
-    "curated_at": "2026-08-02",
-    "headline": "Bounded Families of ε-LC Polarized Foliated Surfaces via Minimal Model Program",
-    "tldr": "We prove that ε‑lc adjoint foliated surfaces with nef adjoint canonical divisor and a nef and big integral polarization form a bounded family when their volume is bounded above. This yields boundedness results for polarized adjoint foliated surfaces and applications to the minimal model program.",
-    "significance": "This establishes the first boundedness theorem for polarized foliated surfaces, extending the minimal model program to a new class of geometric objects.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
