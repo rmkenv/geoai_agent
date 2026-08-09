@@ -1,5 +1,255 @@
 [
   {
+    "uid": "11109e875cf738951ed5a952066cc6d4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06373v1",
+    "arxiv_id": "2608.06373v1",
+    "title": "A Coprimality Topology on the Gaussian Integers: Kolmogorov Quotient and Gaussian Prime Density",
+    "authors": [
+      "Souvik Mandal"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Coprimality Topology on Gaussian Integers: Kolmogorov Quotient and Prime Density",
+    "tldr": "We introduce a topology on non‑zero Gaussian integers where basic open sets consist of elements coprime to a fixed Gaussian integer. By examining prime supports, we identify indistinguishable points, prove hyperconnectedness, and compute the density of Gaussian primes in this topological space.",
+    "significance": "This work links number theory with topological concepts, offering new insights into the structure of Gaussian integers and their prime distribution.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "951eec4c8a47000a8c95b303dbd9ba34",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06372v1",
+    "arxiv_id": "2608.06372v1",
+    "title": "Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links",
+    "authors": [
+      "Michal Jablonowski"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Squarefree Matrix Formulas for CWR Invariant of Alternating Knots",
+    "tldr": "We present weighted-matrix formulas that compute the components of the CWR invariant for oriented non-split alternating links. By attaching independent commuting variables to each vertex of a consolidated Tait graph and extracting the squarefree part of the trace, we isolate simple cycles, yielding a uniform construction for all k.",
+    "significance": "These formulas provide a unified algebraic framework for computing higher-order CWR invariants, advancing the study of knot invariants in low-dimensional topology.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "181b560520edbd48a7e1bb6cea53e0fe",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06357v1",
+    "arxiv_id": "2608.06357v1",
+    "title": "Phonon spectral functions of low-density polaron metals",
+    "authors": [
+      "Luis Walther",
+      "Alberto Nocera",
+      "Mona Berciu"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "First Low-Density Polaron Metal Phonon Spectra via DMRG Reveal Electron-Phonon Coupling Effects",
+    "tldr": "Using DMRG, we computed phonon spectral functions for a one-dimensional Holstein model at low carrier densities (x ≤ 0.15). The results show how electron‑phonon coupling λ shapes the low‑energy excitations, providing the first benchmark data in this regime.",
+    "significance": "These findings offer a critical benchmark for theoretical models of polaronic metals and guide future experimental investigations of low‑density electron‑phonon systems.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "551540031907841fb1ac04b8c4e37dd1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06355v1",
+    "arxiv_id": "2608.06355v1",
+    "title": "On generalised d'Alembert-type integral representations for damped wave equations on the quarter-plane",
+    "authors": [
+      "Andreas Chatziafratis",
+      "Claudio Giorgi",
+      "Alain Miranville"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Generalized d'Alembert Integral Solutions for Damped Wave Equations on the Quarter-Plane",
+    "tldr": "The paper derives closed-form integral representations for the damped wave equation on a quarter-plane with general initial and boundary data. It rigorously verifies these solutions in classical function spaces, extending the d'Alembert method to hyperbolic heat and telegrapher equations.",
+    "significance": "It provides a unified analytic framework that simplifies the analysis of damped wave phenomena in engineering and physics.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "baf242657baaf79d2e551a622f36fbe7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06352v1",
+    "arxiv_id": "2608.06352v1",
+    "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+    "authors": [
+      "Fanzhe Meng",
+      "Guoxin Chen",
+      "Jiale Zhao"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "CalibForge: Automating Task Synthesis with Verified Solver Calibration for Agent Learning",
+    "tldr": "CalibForge automatically generates terminal tasks that are not only solvable but also appropriately challenging by calibrating tasks against solver performance. It uses verified solver behavior to iteratively revise candidate tasks, enabling scalable training of learnable agents.",
+    "significance": "This approach enables efficient scaling of agent training by ensuring tasks are both executable and optimally challenging, reducing wasted effort on trivial or infeasible problems.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a9e0d4818aeb98d8b550055c41080246",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06342v1",
+    "arxiv_id": "2608.06342v1",
+    "title": "Vector Edge Solitons and Domain Walls in a Nonlinear Mechanical Topological Insulator",
+    "authors": [
+      "David D. J. M. Snee",
+      "Yi-Ping Ma"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Nonlinear Edge Solitons and Domain Walls in a Mechanical Topological Insulator",
+    "tldr": "We demonstrate that nonlinear interactions between edge modes in a 2D mechanical topological insulator can be captured by a coupled nonlinear Schrödinger equation, leading to stable soliton-like waves and domain walls. These findings provide a new platform for exploring topological phenomena in nonlinear mechanical systems.",
+    "significance": "This work bridges nonlinear dynamics and topological physics, opening avenues for robust waveguiding and information processing in mechanical metamaterials.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "93eddd005b6472b1d137eff7b201eff5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06341v1",
+    "arxiv_id": "2608.06341v1",
+    "title": "Distributed coordination for transmission-distribution systems with nonlinear flexibility aggregation",
+    "authors": [
+      "Xinliang Dai",
+      "Yanlin Jiang",
+      "Frederik Zahn"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Optimizing Transmission-Distribution Coordination with Nonlinear Flexibility Aggregation for DER-Rich Networks",
+    "tldr": "This paper proposes a scalable method for aggregating distribution-level flexibility using nonlinear models, addressing misclassifications inherent in linear approaches. It demonstrates improved feasibility and cost-efficiency in multi-period integrated transmission-distribution coordination.",
+    "significance": "It enables more accurate and efficient integration of high DER penetration into grid operations, reducing operational costs and enhancing reliability.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8d458749f535d59abe4244bd2a5ba6aa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06340v1",
+    "arxiv_id": "2608.06340v1",
+    "title": "Scalable estimation of VARMA models",
+    "authors": [
+      "Daniel Paulin",
+      "Victor Elvira"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Scalable Estimation of VARMA Models: A New Efficient Likelihood Approach",
+    "tldr": "We present a scalable algorithm for estimating VARMA models that overcomes non-convexity and high dimensionality. The method achieves comparable accuracy to full likelihood while reducing computational cost dramatically.",
+    "significance": "This work enables practical use of VARMA models in high-dimensional time-series analysis, improving forecasting accuracy with fewer parameters.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "280cda50f1568b773b4a35103b1feb59",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06338v1",
+    "arxiv_id": "2608.06338v1",
+    "title": "Circular sorting in the alternating group",
+    "authors": [
+      "Melanie Ferreri",
+      "Eric Swartz",
+      "Nicholas J. Werner"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Circular Sorting in the Alternating Group: Max Adjacent Swaps on a Circle",
+    "tldr": "Researchers Adin, Alon, and Roichman derived a formula for the maximum number of adjacent swaps needed to sort n points arranged on a circle. This result connects the problem to the number of adjacent transpositions required to transform any permutation in the alternating group.",
+    "significance": "The formula provides a precise bound for circular sorting, enriching our understanding of permutation sorting complexity in group theory.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5ff5dc7bd1d6839014a04a52f492d7b8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06334v1",
+    "arxiv_id": "2608.06334v1",
+    "title": "A Regression-Based Framework for the ACF, PACF, Durbin-Levinson Recursion, and One-Step-Ahead Prediction",
+    "authors": [
+      "Kellen Gong",
+      "Fang Li"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Unified Regression Framework for ACF, PACF, Durbin–Levinson, and One-Step Prediction",
+    "tldr": "This note presents a regression-based approach to derive the autocorrelation function, partial autocorrelation, and Durbin–Levinson recursion, linking them to familiar linear regression concepts. It also demonstrates how to use this framework for efficient one-step-ahead forecasting.",
+    "significance": "By framing these classic time‑series tools within regression, the article makes them more accessible to students and practitioners, bridging a conceptual gap.",
+    "tags": [
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ef059f84ed662feb01e92405b61a3c4b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.06329v1",
+    "arxiv_id": "2608.06329v1",
+    "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
+    "authors": [
+      "Noam Koren",
+      "Roy Bar-Haim",
+      "Abigail Goldsteen"
+    ],
+    "published": "2026-08-06",
+    "curated_at": "2026-08-09",
+    "headline": "Assessing Benchmark Quality for Task-Oriented Conversational Agents",
+    "tldr": "We propose a reference-free framework that uses LLM judges to evaluate benchmark consistency, complexity, and policy coverage for task-oriented conversational agents. This approach reveals flaws in existing benchmarks and offers a scalable, automated assessment method.",
+    "significance": "Reliable benchmark evaluation is essential for advancing conversational AI, and our framework provides the first systematic, automated way to audit benchmark quality.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "952498b84d59ae95813298fdbb6288db",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.06371v1",
@@ -1165,266 +1415,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "04540ee5d5d0fd52c496ebaf94fdeec0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02595v1",
-    "arxiv_id": "2608.02595v1",
-    "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
-    "authors": [
-      "Brandon Wang",
-      "Andrei S. Tyrin",
-      "Daniil A. Boiko"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "onepot-Bench 0: Lab-Aware In Silico Chemistry Benchmark for Language Models",
-    "tldr": "The onepot-Bench 0 benchmark evaluates language models on laboratory science tasks such as experiment planning, execution, and analysis. It addresses the challenge of measuring both problem-solving skills and domain intuition required for in silico chemistry.",
-    "significance": "It provides a standardized, lab-aware test for assessing LLMs in chemistry, guiding future model development.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bf468a989bc62cf5161ba96631e096c1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02593v1",
-    "arxiv_id": "2608.02593v1",
-    "title": "Exact Likelihood and Sampling for Riemannian Gaussian Distributions on Correlation Matrices",
-    "authors": [
-      "Kisung You"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Exact Likelihood for Riemannian Gaussian Models on Correlation Matrices",
-    "tldr": "The paper introduces a proper Riemannian Gaussian distribution for full‑rank correlation matrices, deriving exact score equations and finite radial moments. It also presents quotient‑affine geometry techniques to handle normalization and scale profiling.",
-    "significance": "It provides a mathematically rigorous framework for probabilistic modeling of correlation structures with practical implications for statistical inference.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "43eca6d7828a00f19cad786bdd7fb77e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02591v1",
-    "arxiv_id": "2608.02591v1",
-    "title": "Testing for subgroup treatment effect consistency in the Cox model",
-    "authors": [
-      "Lukas Koletzko",
-      "Holger Dette",
-      "Björn Bornkamp"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Assessing Subgroup Consistency of Treatment Effects in Cox Models: A Practical Guide",
-    "tldr": "This article introduces a new approach for testing whether treatment effects are consistent across patient subgroups in survival analysis. It extends conventional interaction tests by evaluating the magnitude of differences rather than just equality.",
-    "significance": "The method enables clinicians to determine if population-level efficacy can be reliably applied to specific subpopulations, improving personalized treatment decisions.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "588e5f17387c41c0ac1db97a53238f9b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02590v1",
-    "arxiv_id": "2608.02590v1",
-    "title": "Optimal Quantum de Finetti Theorems via Argmax Rounding",
-    "authors": [
-      "Fernando Granha Jeronimo",
-      "Pei Wu",
-      "Haochen Xu"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Optimal Quantum de Finetti Bounds Achieved",
-    "tldr": "We prove tight finite de Finetti bounds for bosonic states, achieving a 1/(N-1) scaling in trace norm, and extend to arbitrary exchangeable states.",
-    "significance": "This resolves a long-standing open problem in quantum information theory.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c151488946e9e13a570cf4688238b2a1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02589v1",
-    "arxiv_id": "2608.02589v1",
-    "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
-    "authors": [
-      "Zhipeng Liu",
-      "Haochen Wang",
-      "Zhaoxiang Zhang"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "CAPEval: Separating Caption Coverage and Reliability for Better Multimodal Evaluation",
-    "tldr": "CAPEval introduces a decoupled framework that separately measures how much visual content a caption describes and how well the image supports those claims. This approach provides clearer diagnostics for both multimodal understanding models and text‑to‑image generation systems.",
-    "significance": "By disentangling coverage and reliability, CAPEval enables more precise model improvement and fairer benchmarking across vision‑language tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "36f2f2d35b7d8fe995a531171830061f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02588v1",
-    "arxiv_id": "2608.02588v1",
-    "title": "The Condition-Number Barrier in Sparse Least Squares",
-    "authors": [
-      "Honghao Lin",
-      "Vahab Mirrokni",
-      "David P. Woodruff"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Condition-Number Barrier Proven for Sparse Least Squares Under Small-Set Expansion Hypothesis",
-    "tldr": "The authors establish the conjectured lower bound on the dependence on the restricted condition number for sparse least‑squares objectives, assuming the randomized exact‑volume Small‑Set Expansion Hypothesis. This result shows that no polynomial‑time algorithm can beat the linear dependence on the condition number in this setting.",
-    "significance": "It confirms a long‑standing conjecture, delineating the limits of efficient sparse convex optimization.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ac5bd68ee2613ecd159a58976efe770e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02585v1",
-    "arxiv_id": "2608.02585v1",
-    "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
-    "authors": [
-      "Zhaoxin Yu",
-      "Qi Shen",
-      "Hengli Li"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "GradCuit: Credit-Assigned Gradient Flow for Robust Test-Time Latent Reasoning in Large Language Models",
-    "tldr": "GradCuit introduces a credit-assigned gradient flow that directly links latent state updates to reasoning steps, improving LLM outputs without retraining. By assigning credit at the token level, it offers clearer interpretability and robust performance across diverse prompts.",
-    "significance": "This method enhances LLM reasoning by providing transparent, test-time optimization that preserves model weights and improves accuracy.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b9059f3161bc320c3357b0c4b7bcb107",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29684v1",
-    "arxiv_id": "2607.29684v1",
-    "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
-    "authors": [
-      "Muyao Niu",
-      "Mingze Ma",
-      "Yifan Zhan"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "3D-Aware RGB-NIR Imaging Boosts Low-Light Performance with Robust Neural Modeling",
-    "tldr": "This study introduces a 3D-aware neural framework for RGB-NIR low-light imaging, improving robustness across varied scenarios. By integrating depth cues, the method surpasses traditional paired-data approaches, offering better enhancement in dark environments.",
-    "significance": "It demonstrates that incorporating 3D structure into RGB-NIR fusion yields more reliable low-light enhancement, potentially benefiting surveillance and autonomous systems.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "real-time",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0228a07f5b8a9319a7d543c1616f2603",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29683v1",
-    "arxiv_id": "2607.29683v1",
-    "title": "Emulating the nonlinear effects of modified gravity on the matter power spectrum for reconstruction",
-    "authors": [
-      "Lanyang Yi",
-      "Kazuya Koyama",
-      "Qi Xiong"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "Fast Neural Emulation of Nonlinear Modified Gravity Effects on Matter Power Spectrum",
-    "tldr": "We build a neural-network emulator to predict the nonlinear matter power spectrum in modified gravity models, drastically speeding up likelihood evaluations. This enables efficient exploration of high-dimensional parameter spaces and improves model-independent reconstruction of MG functions.",
-    "significance": "The emulator reduces computational cost by orders of magnitude, allowing comprehensive testing of modified gravity theories against cosmological data.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e651e465185505243b79cd1c22054423",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29682v1",
-    "arxiv_id": "2607.29682v1",
-    "title": "Dark Photons from Perturbative Decay of a Misaligned Higgs Field",
-    "authors": [
-      "James M. Cline",
-      "Gonzalo Herrera",
-      "Jean-Samuel Roux"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "Dark Photons from Misaligned Higgs Decay: A Predictive Dark Matter Model",
-    "tldr": "We propose that dark photons arise from the perturbative decay of a misaligned dark Higgs field generated during inflation. The resulting relic abundance is tightly constrained by structure formation and isocurvature limits, offering a testable dark matter scenario.",
-    "significance": "This framework links inflationary physics to observable dark matter properties, providing a clear target for future cosmological probes.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "aed04f4d457d68dba0cc6e26e9937d14",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2607.29679v1",
-    "arxiv_id": "2607.29679v1",
-    "title": "Scaling Properties of Text Conditioning in Visual Generation",
-    "authors": [
-      "Zilong Chen",
-      "Chaorui Deng",
-      "Kunchang Li"
-    ],
-    "published": "2026-07-31",
-    "curated_at": "2026-08-03",
-    "headline": "Scaling Text Conditioning in Diffusion Models: Structured Language Drives Loss",
-    "tldr": "The study measures how diffusion loss scales with the amount of structured language in prompts, revealing that more structured prompts lead to lower loss. This finding challenges previous assumptions that token count alone governs diffusion performance and provides a new metric for prompt design.",
-    "significance": "Understanding the scaling of structured language informs better prompt engineering for generative AI, potentially improving image quality and efficiency.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
