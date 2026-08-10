@@ -1,5 +1,311 @@
 [
   {
+    "uid": "8efcc40b5cf774d77a3b8d16b3dd2108",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07470v1",
+    "arxiv_id": "2608.07470v1",
+    "title": "HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars",
+    "authors": [
+      "William Sheu",
+      "Tommaso Treu",
+      "Adriano Agnello"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "HST Imaging and Pipeline Modeling Deliver Precise Time-Delay Predictions for 17 Lensed Quasars",
+    "tldr": "Using Hubble Space Telescope imaging and advanced pipeline modeling, researchers predict time delays for 17 lensed quasars, providing a new geometric probe of the Hubble constant. These measurements could help resolve the Hubble-Lemaître tension between early- and late-Universe observations.",
+    "significance": "This work offers a critical test of cosmological models by refining independent measurements of H0 through strong lensing time delays.",
+    "tags": [
+      "satellite-imagery",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9f298c4042c99a1b04b6a742e1e0650b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07468v1",
+    "arxiv_id": "2608.07468v1",
+    "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
+    "authors": [
+      "Zongchuang Zhao",
+      "Xin Zhou",
+      "Tianyang Xu"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "SimWAM: Simplifying World Action Models for Autonomous Driving without Costly Future Generation",
+    "tldr": "SimWAM leverages video generation only during training to improve action prediction in autonomous driving. By jointly training a pretrained video expert and a lightweight action expert with flow matching, it eliminates the need for expensive future video generation at inference.",
+    "significance": "This approach reduces computational cost and complexity of end-to-end driving models while maintaining performance.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "093ce69ad47c8a423fc9abfc97ed894b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07467v1",
+    "arxiv_id": "2608.07467v1",
+    "title": "Quantum de Sitter and Analytically Continued Chern Simons Theory",
+    "authors": [
+      "Stephon Alexander",
+      "Kenneth Blakey"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "Quantum de Sitter Space via Analytic Continuation of Chern–Simons Theory",
+    "tldr": "We provide a Lefschetz thimble formulation of the Chern–Simons–Kodama wavefunction for Lorentzian self‑dual gravity with positive cosmological constant. By analytically continuing the Chern–Simons theory, the integral is defined on a complex contour attached to the self‑dual de Sitter saddle, resolving conditional convergence issues.",
+    "significance": "This work offers a mathematically rigorous path integral definition for quantum de Sitter space, bridging topological field theory and quantum gravity.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "34bf171887aa1e0848350a5e4fd123ac",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07466v1",
+    "arxiv_id": "2608.07466v1",
+    "title": "Characterization of a prototype parallel-plate $^{238}$U fission chamber with DD and DT fusion neutron sources",
+    "authors": [
+      "V. Hagenlocker",
+      "R. A. Tinguely",
+      "X. Wang"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "Prototype 238U Parallel-Plate Fission Chamber Validated for DT Fusion Neutron Monitoring",
+    "tldr": "A prototype 238U fission chamber with parallel-plate geometry and borated polyethylene collimation has been tested using DD and DT neutron sources. The results confirm its suitability for monitoring high-yield fusion plasmas in the SPARC tokamak.",
+    "significance": "This validation demonstrates the chamber’s capability to accurately detect unscattered fusion neutrons, enabling reliable neutron yield monitoring in next‑generation tokamaks.",
+    "tags": [
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "672e32f23c9bfe8d2fba6fd856f680a0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07465v1",
+    "arxiv_id": "2608.07465v1",
+    "title": "Entanglement Mpemba Effect",
+    "authors": [
+      "Ruicheng Bao",
+      "Yue Liu"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "Fast Entanglement Generation via Mpemba Effect for Quantum Systems Applications",
+    "tldr": "Researchers have discovered that an initially less entangled state can overtake a more entangled one during dissipative preparation, speeding up entanglement generation. This Mpemba-like effect could dramatically reduce the time required for quantum information processing.",
+    "significance": "This breakthrough offers a faster route to reliable entanglement, a cornerstone for scalable quantum technologies.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1d9017c2182010b02d4d4a3e5167ea1c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07463v1",
+    "arxiv_id": "2608.07463v1",
+    "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+    "authors": [
+      "Youjun Zhao",
+      "Alex Warren",
+      "Gary K. L. Tam"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "MirrorWorld: Enhancing Video Diffusion Models for Accurate Mirror Reflection Generation",
+    "tldr": "Recent advances in video diffusion models enable high-fidelity synthesis, yet mirror reflections remain problematic due to scene-mirror consistency. MirrorWorld introduces a specialized approach that enforces spatial coherence, producing realistic reflections aligned with the surrounding environment.",
+    "significance": "This work bridges a critical gap in realistic video rendering, enabling applications from virtual production to augmented reality.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6c125bff93b9169e7741f6639e57f1d9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07462v1",
+    "arxiv_id": "2608.07462v1",
+    "title": "SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation",
+    "authors": [
+      "Hanke Xie",
+      "Haopeng Lin",
+      "Jiale Qian"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "Improving SemBridge: Anchoring Semantic Tokens for Continuous-Latent Autoregressive Speech Generation",
+    "tldr": "SemBridge introduces a method to anchor semantic tokens within continuous latent spaces, enabling autoregressive language models to learn linguistic structure without explicit token-level targets. This approach preserves richer acoustic information while reducing quantization loss, improving the quality of continuous-latent speech generation.",
+    "significance": "By bridging continuous acoustic representations with discrete linguistic anchors, SemBridge advances the fidelity and efficiency of speech generation models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d54ed383c93fc0ea8b46597df8051047",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07461v1",
+    "arxiv_id": "2608.07461v1",
+    "title": "A clear detection of proper motion confirms that the claimed $\\mathbf{z\\simeq32}$ galaxy candidate, \"Capotauro'', is a Y-type brown dwarf",
+    "authors": [
+      "F. -Y. F. Liu",
+      "D. J. McLeod",
+      "B. J. Sutlieff"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "Proper Motion Confirms Capotauro Is a Nearby Brown Dwarf, Not a z≈32 Galaxy",
+    "tldr": "JWST proper motion measurements reveal Capotauro’s motion across the sky, ruling out a distant galaxy. The source is instead a cool Y‑type brown dwarf within ~500 pc of the Sun.",
+    "significance": "This finding refines our understanding of the population of faint, red objects in JWST data and prevents misidentification of nearby brown dwarfs as high‑redshift galaxies.",
+    "tags": [
+      "object-detection",
+      "change-detection",
+      "time-series"
+    ],
+    "readtime": 1,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "d7e0a7960c9e47b1f4f96f26ed2a4657",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07460v1",
+    "arxiv_id": "2608.07460v1",
+    "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+    "authors": [
+      "Ananya Sahu",
+      "Mohit Bansal",
+      "Elias Stengel-Eskin"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "CreativeInstruct: Instruction‑Tuning LLMs to Preserve Creativity and Diversity",
+    "tldr": "Post‑training often reduces output diversity, hurting creative tasks. CreativeInstruct offers a scalable instruction‑tuning approach that balances quality, creativity, and diversity in LLM outputs.",
+    "significance": "This method enables LLMs to maintain creative flexibility while delivering high‑quality results, benefiting applications from storytelling to RL.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a418d8b3f0719cfe8e2b5fff0722bfcf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07459v1",
+    "arxiv_id": "2608.07459v1",
+    "title": "Equality of Dual Immaculate Functions Under Automorphisms",
+    "authors": [
+      "Maria Esipova",
+      "Stephanie van Willigenburg"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "Classification of Dual Immaculate Functions Under Involutions ρ, ψ, ω",
+    "tldr": "The paper determines precisely when applying the involutions ρ, ψ, or ω to a dual immaculate function yields another dual immaculate function. It also identifies the leading term of the transition matrix and gives necessary and sufficient conditions for the existence of immaculate tableaux.",
+    "significance": "It provides a complete structural understanding of dual immaculate functions under key algebraic symmetries, enriching the theory of quasisymmetric functions.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e7ae8dff4a703befbee941f5204dddc9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07457v1",
+    "arxiv_id": "2608.07457v1",
+    "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+    "authors": [
+      "Bella Xinrui Li",
+      "Frank Yingjie Huo",
+      "Neil F Johnson"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "Boss AI Drives Subordinate into Novel Behavior Through Message Streams",
+    "tldr": "When a dominant AI repeatedly sends commands while ignoring replies, the subordinate AI transitions into a new behavioral state not seen in isolation. This demonstrates that inter-agent communication can induce out-of-equilibrium dynamics, opening avenues for physics-inspired AI research.",
+    "significance": "It shows that AI interactions can generate emergent behaviors, challenging assumptions about isolated model performance.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "94a19c72403490efc11d61cf8afa869c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07455v1",
+    "arxiv_id": "2608.07455v1",
+    "title": "White Dwarf Kicks via Episodic Mass Ejection from Red Giant Stars",
+    "authors": [
+      "Jim Fuller"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "White Dwarf Kicks Explained by Episodic Mass Loss from Red Giants",
+    "tldr": "Recent observations show white dwarfs receive ~1 km/s kicks as their red giant progenitors shed envelopes. These kicks arise from asymmetric, episodic mass loss events that eject ~10^-4 solar masses.",
+    "significance": "Understanding these kicks informs stellar evolution and the dynamics of binary systems.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a7f6c716936753feb1eba4b65e4a04d3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.07454v1",
+    "arxiv_id": "2608.07454v1",
+    "title": "Strategy-first synthesis planning for complex natural products",
+    "authors": [
+      "Daniel Armstrong",
+      "Xuan-Vu Nguyen",
+      "Octavian Susanu"
+    ],
+    "published": "2026-08-07",
+    "curated_at": "2026-08-10",
+    "headline": "Strategy-First AI Planning for Complex Natural Product Synthesis Using Large Language Models",
+    "tldr": "This paper presents a strategy-first approach to automated retrosynthetic planning for complex natural products, leveraging large language models to generate multi-step synthetic routes. The authors demonstrate the method on challenging targets, achieving high success rates and revealing new synthetic pathways.",
+    "significance": "It advances AI-driven chemistry by enabling efficient, creative synthesis planning for complex molecules.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "11109e875cf738951ed5a952066cc6d4",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.06373v1",
@@ -1100,320 +1406,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "92680d520eeced52b908cabf720f329c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.04006v1",
-    "arxiv_id": "2608.04006v1",
-    "title": "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education",
-    "authors": [
-      "Adam Coscia",
-      "Sujata Duwal",
-      "Langdon Holmes"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "Co-Designing Trust Metrics to Evaluate LLMs for Educational Use Effectively",
-    "tldr": "This study proposes a structured framework for assessing LLM trustworthiness in educational contexts, integrating pedagogical alignment metrics. By co-designing visualizations and benchmarks, it enables educators and developers to identify and mitigate potential disruptions.",
-    "significance": "It bridges the gap between technical LLM evaluation and pedagogical needs, fostering safer AI integration in learning environments.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "52e8e80d61242c4f807846f546f9d4b3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.04004v1",
-    "arxiv_id": "2608.04004v1",
-    "title": "Localizing polymers promotes the centre-mode elastic instability",
-    "authors": [
-      "Shailendra Kumar Yadav",
-      "Jason R. Picardo"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "Localizing Polymers Amplifies Centre-Mode Elastic Instability in Dilute Solutions",
-    "tldr": "The centre-mode elastic instability can arise without inertia in dilute polymer flows. This study shows that nonuniform polymer distributions, such as a polymer-laden core between solvent streams, significantly enhance the instability.",
-    "significance": "Understanding how polymer localization drives instability informs design of microfluidic devices and improves control of polymer processing.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "826c4c121d014fb580f4fe3eaad33d40",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.04002v1",
-    "arxiv_id": "2608.04002v1",
-    "title": "Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Language Models",
-    "authors": [
-      "Adam Coscia",
-      "Zeyu Hua",
-      "Eric Krokos"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "Semantic Bundling: Interactive Node and Edge Bundling for Knowledge Graph Simplification with LLMs",
-    "tldr": "We introduce Semantic Bundling, a visual analytics method that uses large language models to guide interactive node and edge bundling in knowledge graphs, making large corpora easier to interpret. The approach preserves semantic relationships while reducing visual clutter, enabling analysts to explore document collections more efficiently.",
-    "significance": "Semantic Bundling bridges LLM-driven semantic understanding with graph visualization, offering a scalable solution for interpreting complex knowledge graphs.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0b22690c50b2b80769c8dd66809d9f69",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.04003v1",
-    "arxiv_id": "2608.04003v1",
-    "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
-    "authors": [
-      "Shuhan Xue",
-      "Zixin Ding",
-      "Yichen Shen"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "PAST-Bench: Measuring Recursive Self-Improvement in Personal AI Agents for Future Capabilities",
-    "tldr": "PAST-Bench evaluates whether personal AI agents can turn their accumulated experience into better future behavior. The benchmark tracks preference retention, task history, tool usage, and skill learning across sessions to systematically test recursive self-improvement.",
-    "significance": "This work provides the first systematic test of recursive self-improvement in personal agents, offering a foundation for future AI safety and capability research.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a69cc2b3a1e9e12f20728e18aac3b81a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.04001v1",
-    "arxiv_id": "2608.04001v1",
-    "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
-    "authors": [
-      "Mohsen Hariri",
-      "Weicong Chen",
-      "Nahal Shahini"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "Test-Time Scaling Boosts Reasoning in Large Language Models by Extending Inference Algorithms",
-    "tldr": "Large language models can solve harder reasoning tasks by scaling inference time. Various algorithms—trajectory extension, candidate sampling, partial state search—improve performance, but their statistical properties differ.",
-    "significance": "This work clarifies how inference regimes affect reasoning accuracy, guiding reproducible benchmarking of LLMs.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e8e174ee80a8b38d52d97409a56968ef",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.03999v1",
-    "arxiv_id": "2608.03999v1",
-    "title": "Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation",
-    "authors": [
-      "Junhao Chen",
-      "Mingjin Chen",
-      "Jingjia Mao"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "Agogic: Evaluating Music Tokenization Impact on LLM-Based Text-to-Music Generation Across Seven Representations",
-    "tldr": "The study isolates the effect of music tokenization by swapping representations while keeping the Qwen3.5 model, data, and decoding constant. Results show that token choice significantly alters performance, with some tokenizations approaching the model-free ceiling.",
-    "significance": "It provides the first quantitative benchmark of tokenization strategies for symbolic music generation, guiding future LLM design.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c0860a770b30630961b0cc272185053a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.03994v1",
-    "arxiv_id": "2608.03994v1",
-    "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
-    "authors": [
-      "Christopher Schröder",
-      "Lukas Gienapp",
-      "Ferdinand Schlatt"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "Floating-Point Underflow Undermines ALiBi Positional Encoding in Large Language Models",
-    "tldr": "The study uncovers that ALiBi’s linear bias scaling can underflow floating-point precision, causing many attention weights to zero out and rendering some heads partially blind. It analyzes the impact, proposes four mitigation strategies, and demonstrates the issue in state-of-the-art models.",
-    "significance": "This finding highlights a critical, previously overlooked vulnerability in a widely used positional encoding technique, affecting the reliability of modern foundation models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "afc44f3f2dbf9e9c59650d4ce4a2d435",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02603v1",
-    "arxiv_id": "2608.02603v1",
-    "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
-    "authors": [
-      "Yuxue Yang",
-      "Shuyao Shang",
-      "Jiahe Wang"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Benchmarking World Models: From Video Appearance to Inherent Reactivity Evaluation",
-    "tldr": "Controllable video generation models are being used as world models, requiring evaluation beyond visual fidelity to include the model's ability to infer and generate plausible world reactions. The paper proposes a benchmark that tests both appearance and inherent reactivity of such models.",
-    "significance": "This benchmark advances the assessment of generative models by incorporating dynamic reasoning, enabling more realistic and useful AI-driven simulations.",
-    "tags": [
-      "diffusion-models",
-      "benchmark",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d9dad21e27f18951917d8ae867af1547",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02601v1",
-    "arxiv_id": "2608.02601v1",
-    "title": "Discovery of the Distant, Ultra-Faint Milky Way Satellite Aquarius IV with the Vera C. Rubin Observatory Early Data Preview 2",
-    "authors": [
-      "William Cerny",
-      "Aashay Pai",
-      "Alex Drlica-Wagner"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Discovery of Ultra-Faint Milky Way Satellite Aquarius IV Using Vera C. Rubin Observatory Data",
-    "tldr": "Astronomers identified Aquarius IV, a faint Milky Way satellite, with 8σ significance in Rubin Observatory Early Data Preview 2 and confirmed it at 6σ using Dark Energy Camera imagery. This marks the first satellite found using Rubin data, expanding our knowledge of the Galaxy’s outskirts.",
-    "significance": "It demonstrates the Rubin Observatory’s power to uncover extremely faint celestial objects, opening new avenues for studying the Milky Way’s structure.",
-    "tags": [
-      "satellite-imagery",
-      "object-detection",
-      "open-source",
-      "remote-sensing"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b93d7e16ff61832ba00c6da4ca5126a6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02599v1",
-    "arxiv_id": "2608.02599v1",
-    "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
-    "authors": [
-      "Junjie Yin",
-      "Buxin She",
-      "Xinyu Feng"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Hands‑On AI Framework Bridges Power Systems Education Gap",
-    "tldr": "The paper introduces an executable AI framework that makes power system modeling, forecasting, and control accessible to students and interdisciplinary researchers. It provides reusable modules and hands‑on exercises, filling a gap left by specialized, non‑reusable AI studies.",
-    "significance": "By offering a reusable, hands‑on AI toolkit, the framework democratizes power systems education and accelerates interdisciplinary innovation.",
-    "tags": [
-      "open-source",
-      "time-series",
-      "real-time",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "782168e4faacd06e1f7c6fe68d50086b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02598v1",
-    "arxiv_id": "2608.02598v1",
-    "title": "VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification",
-    "authors": [
-      "Chao Ji",
-      "Shiyu Xuan",
-      "Zechao Li"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "VR3D: Robust 3D Representation for Aerial‑Ground Person Re‑Identification Across Viewpoints",
-    "tldr": "Aerial‑ground person re‑identification suffers from viewpoint variations causing occlusion and deformation. VR3D introduces a view‑robust 3D representation learning framework that decouples viewpoint bias, improving cross‑platform matching.",
-    "significance": "By learning view‑invariant 3D features, VR3D enables more reliable person re‑identification between aerial and ground cameras, a critical capability for surveillance and search‑and‑rescue operations.",
-    "tags": [
-      "remote-sensing",
-      "point-cloud",
-      "object-detection",
-      "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "22d9edb20f0e3c948180e4398a1c0c62",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02597v1",
-    "arxiv_id": "2608.02597v1",
-    "title": "SDSS-V Local Volume Mapper (LVM): Dithered Data Cube Reconstruction with 3dcubegen",
-    "authors": [
-      "H. J. Ibarra-Medel",
-      "A. Z. Lugo-Aranda",
-      "R. de J. Zermeño"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Reconstructing SDSS-V LVM Data Cubes: Dithered Observations and 3dcubegen Techniques",
-    "tldr": "The SDSS-V Local Volume Mapper uses multiple dithered observations to achieve full spatial coverage of nearby galaxies. The 3dcubegen software reconstructs these observations into high-resolution data cubes for scientific analysis.",
-    "significance": "This approach enhances spatial sampling and spectral depth, enabling unprecedented studies of the Milky Way and nearby galaxies.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7428dc5ce3f263a114b1fea0e666ddd1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.02596v1",
-    "arxiv_id": "2608.02596v1",
-    "title": "Staying Productive Under the Palm Trees. On Graded Coeffect Typing in the Tropical Semiring",
-    "authors": [
-      "Rémy Cerda",
-      "Ugo Dal Lago"
-    ],
-    "published": "2026-08-03",
-    "curated_at": "2026-08-04",
-    "headline": "Modeling Time and Productivity with Graded Coeffect Typing in the Tropical Semiring",
-    "tldr": "We present a graded coeffect typing system that uses the tropical semiring over natural numbers to model time delays in function parameters. This approach guarantees productivity of well-typed programs while faithfully representing temporal availability of resources.",
-    "significance": "This work provides a rigorous framework for reasoning about time-dependent resource availability in functional programming, bridging type theory and temporal logic.",
-    "tags": [
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
