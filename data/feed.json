@@ -1,5 +1,315 @@
 [
   {
+    "uid": "6597f8858b0f97288537ed0663913abf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09932v1",
+    "arxiv_id": "2608.09932v1",
+    "title": "Cell Natural Orbitals in Interacting Topological Bands",
+    "authors": [
+      "Nishchhal Verma",
+      "Harshitra Mahalingam",
+      "Daniel Muñoz-Segovia"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Singular-Value Decomposition of Density Form Factors for Topological Band Interactions",
+    "tldr": "Topological bands lack exponentially localized Wannier functions, complicating interaction representations. We propose a singular-value decomposition of projected density form factors to capture quantum geometry and form factors accurately.",
+    "significance": "This method provides a systematic way to represent interactions in topological bands, enabling more accurate modeling of correlated topological phases.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e30e418ab67b47f380a4841924807bc1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09931v1",
+    "arxiv_id": "2608.09931v1",
+    "title": "Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots",
+    "authors": [
+      "Shravan Venkatraman",
+      "Omkar Thawakar",
+      "Ritesh Thawkar"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Self-Contained Visual Distillation for Multimodal LLMs via Counterfactual Blind Spots",
+    "tldr": "The paper introduces CVPD, a method for visual distillation that uses counterfactual blind spots to provide dense token-level supervision without external annotations. This approach enables self‑improvement of multimodal large language models with richer feedback than traditional reward‑based methods.",
+    "significance": "CVPD offers a scalable, annotation‑free way to enhance multimodal LLMs, potentially accelerating advances in vision‑language AI.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "segmentation"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d5a33b7ec33ce09b9b0584f28dc15cab",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09930v1",
+    "arxiv_id": "2608.09930v1",
+    "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+    "authors": [
+      "Oluwanifemi Bamgbose",
+      "Simon Rosen",
+      "Jash Shah"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Evaluating TTS Quality: A Linguistically Grounded Analysis of Automated Naturalness Metrics",
+    "tldr": "This study dissects the concept of naturalness in TTS by creating a 10‑dimension annotation schema and tests whether popular MOS predictors and Audio‑LLM judges capture these dimensions. Results show that while some models correlate with overall naturalness, they miss key linguistic cues, highlighting the need for more nuanced benchmarks.",
+    "significance": "The findings reveal gaps in current automated TTS evaluation tools, guiding future development of more accurate, linguistically informed benchmarks.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3b7daac2a5f4267270a3d677b6876f2d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09929v1",
+    "arxiv_id": "2608.09929v1",
+    "title": "Realization Variance of Gravitational Wave Background Anisotropies from Shot Noise for Pulsar Timing Arrays",
+    "authors": [
+      "Meng-Xiang Lin",
+      "Adam Lidz",
+      "Chung-Pei Ma"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Shot-Noise Anisotropies in the nHz Gravitational Wave Background for Pulsar Timing Arrays",
+    "tldr": "Shot-noise anisotropies in the nanohertz gravitational wave background are a promising target for pulsar timing arrays. If the background originates from merging supermassive black hole binaries, the shot-noise signal could reach order unity at ~1 yr⁻¹, providing a powerful probe of the SMBHB population.",
+    "significance": "Detecting these anisotropies would directly constrain the merger rate and mass distribution of supermassive black hole binaries, offering a new window into galaxy evolution.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cb325bc3a9abc1d12cba032b48c74ffb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09928v1",
+    "arxiv_id": "2608.09928v1",
+    "title": "Multimodal Model Diffing for Feature Discovery and Control",
+    "authors": [
+      "Hunar Batra",
+      "Lachin Naghashyar",
+      "Ashkan Khakzar"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Unveiling Hidden Features in Multimodal LLMs for Improved Control and Transparency",
+    "tldr": "Researchers propose a method to decompose hidden states of multimodal large language models into interpretable feature directions using sparse autoencoders. This approach enables identification and control of features altered by multimodal training, aiding auditability and transparency.",
+    "significance": "The technique offers a new tool for auditing and steering multimodal LLMs, addressing a critical gap in model interpretability.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1b53eeb9dcc7d522989563b4cb61d4fa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09927v1",
+    "arxiv_id": "2608.09927v1",
+    "title": "Dynamic $e$-closure for online hypotheses with any-time-valid evidence: closure principles and projective mergers",
+    "authors": [
+      "Rianne de Heide"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Dynamic e-Closure for Online Hypothesis Testing with Any-Time-Valid Evidence",
+    "tldr": "We introduce a dynamic e-closure framework that accommodates both arriving hypotheses and evolving evidence, ensuring any-time-valid inference. The method leverages future-extension coherence to provide certificates for the random active true-null intersection at global stopping times.",
+    "significance": "This framework unifies sequential hypothesis testing across two dimensions, enabling robust real-time decision making in dynamic research settings.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1bd56ab6721083974a37774bf3f24e5e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09926v1",
+    "arxiv_id": "2608.09926v1",
+    "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+    "authors": [
+      "Haodong Li",
+      "Shaoteng Liu",
+      "Tianyu Wang"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Modeling Video Dynamics with Latent Dynamics Reasoning for Accurate Future Frame Prediction",
+    "tldr": "Latent Dynamics Reasoning (LDR) explicitly models latent transitions in video diffusion models, capturing pixel-level dynamics over time. This allows for accurate future frame predictions that adhere to the underlying laws of motion.",
+    "significance": "By integrating explicit latent dynamics, LDR improves the physical fidelity of video generation, bridging the gap between visual plausibility and dynamical correctness.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "38c6e29f35c2e7094d67e037a80382d3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09925v1",
+    "arxiv_id": "2608.09925v1",
+    "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
+    "authors": [
+      "Laurens Samson",
+      "Iva Gornishka",
+      "Gossa Lô"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Evaluating Dutch Government LLMs: From Values to a Practical Benchmark",
+    "tldr": "The 'Grip on LLMs' framework offers a systematic way to assess large language models for Dutch governmental use, aligning technical performance with public administration values. Developed with municipal experts, it provides a multilingual, open-source benchmark that can guide policy and deployment decisions.",
+    "significance": "It bridges the gap between AI evaluation and Dutch public sector needs, ensuring responsible and context‑appropriate LLM deployment.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "75bd13248abdad1fdd17cb296704ec4f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09922v1",
+    "arxiv_id": "2608.09922v1",
+    "title": "The quadratic growth of Krylov spread complexity in the BTZ black hole",
+    "authors": [
+      "Aranya Bhattacharya",
+      "Mario Flory",
+      "Michal P. Heller"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Quadratic Growth of Krylov Spread Complexity in BTZ Black Holes",
+    "tldr": "The study demonstrates that Krylov spread complexity grows quadratically in BTZ black holes, using a partition-function approach for thermofield-double states. This provides a dimension‑independent boundary reconstruction from semiclassical holographic partition functions.",
+    "significance": "It offers a new quantitative tool to probe black‑hole interior dynamics beyond 2D dilaton gravity.",
+    "tags": [
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c0a24d87404e5e260ab1c503cce69691",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09921v1",
+    "arxiv_id": "2608.09921v1",
+    "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
+    "authors": [
+      "Alban Puech",
+      "Matteo Mazzonelli",
+      "Tamara R. Govindasamy"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "GENCO: A Unified Neural Solver for Real-Time Steady-State Power Grid Analysis",
+    "tldr": "GENCO integrates foundation-model techniques into a development framework to solve power flow and optimal power flow problems with physical consistency. It offers real-time performance and open-source accessibility, setting a new benchmark for neural power grid solvers.",
+    "significance": "GENCO demonstrates that foundation models can reliably enforce physical constraints in power system analysis, enabling faster and more accurate grid operation tools.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c75c947a27640a21cbe03e38fa1a81ba",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09920v1",
+    "arxiv_id": "2608.09920v1",
+    "title": "IPA: Morphology and Kinematics of Molecular Hydrogen Winds in Five Young Protostars across the Mass Spectrum Observed with JWST",
+    "authors": [
+      "Himanshu Tyagi",
+      "P. Manoj",
+      "Mayank Narang"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "JWST Reveals Molecular Hydrogen Winds in Protostars Across Mass Range",
+    "tldr": "Using JWST's NIRSpec/IFU and MIRI/MRS, we mapped H2 emission in five protostars spanning 0.2–10^4 L☉, revealing diverse wind morphologies and kinematics. These observations suggest molecular outflows play a key role in angular momentum transport during early stellar evolution.",
+    "significance": "The study provides the first high-resolution, multi-wavelength view of protostellar molecular winds, informing models of star formation across the mass spectrum.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "705a318e4c0e2354db96071cd0048ec4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09919v1",
+    "arxiv_id": "2608.09919v1",
+    "title": "Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models",
+    "authors": [
+      "Jonhnanthan Oliveira",
+      "Rohit Gheyi",
+      "Márcio Ribeiro"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Using Foundation Models to Detect Behavioral Shifts in Python Refactoring",
+    "tldr": "Automated refactoring of Python code can inadvertently alter behavior. This study applies foundation models to identify such changes, improving reliability of refactoring tools.",
+    "significance": "Detecting behavioral changes ensures safer automated refactoring, reducing bugs in evolving codebases.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5013afa88ba7dc815cd16046d21e53c6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.09918v1",
+    "arxiv_id": "2608.09918v1",
+    "title": "Ricci-flat metrics from gauged linear $σ$-models without RG flow",
+    "authors": [
+      "Dmitri Bykov",
+      "Ondrej Hulik",
+      "Ulf Lindström"
+    ],
+    "published": "2026-08-10",
+    "curated_at": "2026-08-11",
+    "headline": "Explicit Ricci-flat Kähler Metrics via GLSMs with Indefinite Signatures on Generalized Conifolds",
+    "tldr": "We construct Ricci-flat Kähler metrics on complex cones over products of projective spaces using gauged linear sigma models that include negatively signed superfields. These explicit metrics are obtained without invoking renormalization group flow, offering new tools for studying generalized conifolds.",
+    "significance": "This work supplies closed-form Ricci-flat metrics on a broad class of noncompact Calabi–Yau spaces, advancing both mathematical physics and complex geometry.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "8efcc40b5cf774d77a3b8d16b3dd2108",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.07470v1",
@@ -1093,316 +1403,6 @@
       "foundation-models",
       "LLM",
       "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0bc575c0c9974ceba89a2d6624415153",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05148v1",
-    "arxiv_id": "2608.05148v1",
-    "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
-    "authors": [
-      "Damien Sileo",
-      "Valentin Lacombe",
-      "Dimitri Kachler"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Reasoning Core: 50 Procedural Generators for Training LLMs in AI Research",
-    "tldr": "We present Reasoning Core, a suite of 50 procedural generators covering math, logic, planning, and more, enabling scalable, verifiable reasoning data for completion-supervised fine-tuning. Each generator includes semantic scoring, difficulty knobs, and task evaluators to support robust LLM training.",
-    "significance": "Reasoning Core provides the first large, open-source benchmark of procedurally generated reasoning tasks, accelerating LLM development.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "42d58e5653f3d9175f95e981daafac6c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05147v1",
-    "arxiv_id": "2608.05147v1",
-    "title": "Fast Quantum Interconnects via Neutral Atom Ensembles",
-    "authors": [
-      "Sina Zeytinoglu",
-      "Wenchao Xu",
-      "Thomas Pohl"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Fast Quantum Interconnects via Neutral Atom Ensembles for Scalable Quantum Computing",
-    "tldr": "We present a scalable quantum interconnect that generates remote entanglement at rates compatible with current neutral-atom processors, leveraging strong dipole-dipole interactions between Rydberg states. This approach promises high-rate entanglement distribution essential for scalable quantum computing.",
-    "significance": "This work enables high-speed entanglement distribution, bridging the gap between local gate operations and long-distance quantum communication.",
-    "tags": [
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1cb277694d8210111482f2799f546f0b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05145v1",
-    "arxiv_id": "2608.05145v1",
-    "title": "Objects as Audio-Visual Modal Sound Fields",
-    "authors": [
-      "Zisen Shao",
-      "Zihao Wei",
-      "Derong Jin"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Integrating Impact Sounds into 3D Reconstruction for Material and Structural Insight",
-    "tldr": "Modern 3D reconstruction focuses on geometry but neglects acoustic cues. By modeling impact sounds, we can infer material properties and structural integrity without costly simulations or massive datasets.",
-    "significance": "This approach enables richer, physics-informed scene understanding by combining visual and auditory data.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8024c6f9aeade08d7c13460e3a20fd4e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05144v1",
-    "arxiv_id": "2608.05144v1",
-    "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
-    "authors": [
-      "Boxiu Li",
-      "Zimo Wen",
-      "Yijia Fan"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Argus: A Persistent Agentic Runtime Framework for Long-Horizon AI Reasoning",
-    "tldr": "Argus is a self‑evolving runtime that lets AI agents persist with a current approach when evidence supports it, but pivot when measurements indicate failure or hidden constraints. It orchestrates Manager, Planner, Engineer, and Reviewer components to execute bounded missions over durable project state, enabling robust long‑horizon reasoning.",
-    "significance": "Argus advances long‑horizon AI by providing a modular, persistent runtime that balances stability and adaptability, crucial for complex, multi‑step tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "18612cc4fb0c8d44c2e6f1ec2271fc1b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05141v1",
-    "arxiv_id": "2608.05141v1",
-    "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
-    "authors": [
-      "Indraneil Paul",
-      "Falko Helm",
-      "Goran Glavaš"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "OctoLong Boosts Long-Context Language Models During Cross-Repository Code Training for",
-    "tldr": "OctoLong introduces a mid-training strategy that leverages cross-repository code contexts to improve long-context modeling in language models. By exposing models to diverse, long-distance dependencies across codebases, it enhances in-context learning and agentic workflows.",
-    "significance": "This approach expands the effective training corpus for long-context LMs, enabling more robust reasoning over extended sequences.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d836a2e8a00b97507af7b4ac88fce78e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05139v1",
-    "arxiv_id": "2608.05139v1",
-    "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
-    "authors": [
-      "Yinghui He",
-      "Ling Yang",
-      "Jiarui Liu"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Skill Entropy: Benchmarking Cross-Skill Long-Horizon Reasoning in LLMs",
-    "tldr": "Researchers introduce skill entropy as a metric to evaluate how well large language models switch between distinct reasoning skills in multi-step tasks. The framework also guides training to improve long-horizon problem solving.",
-    "significance": "It provides a systematic way to assess and enhance LLMs' ability to handle complex, multi-skill reasoning.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a53188c7981e65ca0fbfcbc90fe92d49",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05138v1",
-    "arxiv_id": "2608.05138v1",
-    "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
-    "authors": [
-      "Ayoub Kirouane",
-      "Christos Petrocheilos"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Adapting Nemotron Retrieval for Modern Greek: Corpus Mining, Synthetic Supervision, and RAG",
-    "tldr": "We extend NVIDIA’s Nemotron retrieval stack to Modern Greek by mining a large multilingual corpus, generating synthetic supervision, and training a retrieval model that improves retrieval-augmented generation in legal, energy, financial, and medical domains. The resulting open-source benchmark demonstrates significant gains over existing multilingual models.",
-    "significance": "This work fills a critical gap in multilingual retrieval, enabling high-quality RAG for Greek-speaking professionals across specialized sectors.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ebf2a82d77af5c59c048b73933eb94c9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05137v1",
-    "arxiv_id": "2608.05137v1",
-    "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
-    "authors": [
-      "Yue Zhang",
-      "Yingzhao Jian",
-      "Yunqiu Xu"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "SmartMage: Adaptive Modality Switching for Real‑Time 3D Scene Understanding with Large Language Models",
-    "tldr": "SmartMage introduces a dynamic modality orchestration framework that selects the most relevant visual and geometric cues for each query, enabling more accurate 3D scene understanding. By integrating multimodal large language models with adaptive sensor fusion, it outperforms fixed‑modality baselines on benchmark tasks.",
-    "significance": "This work demonstrates that query‑dependent modality selection can substantially improve multimodal reasoning in embodied AI, paving the way for more efficient and context‑aware perception systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "33f5d4ad258d828529704c2da4672b06",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05136v1",
-    "arxiv_id": "2608.05136v1",
-    "title": "The Loss Does Not See the Basis, but Adam Does",
-    "authors": [
-      "Devender Singh"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Gradient Descent's Low-Rank Bias vs Adam: The Role of Gauge Symmetry in Factored Models",
-    "tldr": "When training factored models, gradient descent naturally favors low-rank solutions due to gauge-equivariant dynamics, whereas Adam lacks this bias. The difference stems from the loss's invariance under simultaneous rotations of U and V, affecting how optimizers explore the parameter space.",
-    "significance": "Understanding this bias informs optimizer choice for efficient training of large-scale matrix factorization tasks.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "605a5a2a67991c1294f3c66a17d94236",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05133v1",
-    "arxiv_id": "2608.05133v1",
-    "title": "Near-Field Velocity Estimation and Doppler-Aware Localization in OFDM Massive MIMO",
-    "authors": [
-      "Qing Zhang",
-      "Dario Tagliaferri",
-      "Robbert Beerten"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Doppler-Aware Near-Field Localization in OFDM Massive MIMO: Low-Complexity Recursive Estimation",
-    "tldr": "Target motion in OFDM massive MIMO creates antenna-dependent Doppler shifts that degrade near-field localization if ignored. This paper introduces a low-complexity recursive framework that jointly estimates velocity and localization, improving accuracy.",
-    "significance": "Accurate near-field localization in massive MIMO systems is critical for high-resolution sensing and communication, and this work provides a practical method to mitigate Doppler-induced errors.",
-    "tags": [
-      "remote-sensing",
-      "object-detection",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6c12b83d5b0fac7631d7ae15b518acef",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.04010v1",
-    "arxiv_id": "2608.04010v1",
-    "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
-    "authors": [
-      "Yang Yang",
-      "Qinyu Zhao",
-      "Mouxiang Chen"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "ParVL: Parallel Scaling for Multimodal LLMs with Dynamic Compute Allocation",
-    "tldr": "ParVL introduces a parallel scaling framework that allows separate, task‑specific allocation of compute resources between vision and language modules in multimodal LLMs. This reduces memory and latency overhead while enabling flexible, efficient inference across diverse applications.",
-    "significance": "By decoupling vision and language compute budgets, ParVL offers a scalable, low‑latency alternative to monolithic MLLM scaling, facilitating real‑time multimodal AI.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e9c19bd80743b1698c3dc87dfbf1fcc4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.04008v1",
-    "arxiv_id": "2608.04008v1",
-    "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
-    "authors": [
-      "Zhenran Wang",
-      "Zhonghan Bian",
-      "Jinsong Li"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "Live Forecasting: Evaluating LLMs During the 2026 FIFA World Cup",
-    "tldr": "Researchers tested six cutting‑edge LLMs in real time over the 2026 FIFA World Cup, measuring their predictive accuracy without relying on post‑event data. The study demonstrates a novel, leakage‑free benchmark that captures true forecasting performance.",
-    "significance": "This work establishes the first live, prospective benchmark for LLM forecasting, revealing how well models generalize to unfolding events.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f8f533ccd06a6ddcef87a15bb6c020c7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.04007v1",
-    "arxiv_id": "2608.04007v1",
-    "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
-    "authors": [
-      "Changle Qu",
-      "Sunhao Dai",
-      "Hengyi Cai"
-    ],
-    "published": "2026-08-04",
-    "curated_at": "2026-08-05",
-    "headline": "TurnSight: Fine-Grained Self-Distillation Boosts Tool-Integrated Reasoning for Complex Tasks in LLMs",
-    "tldr": "TurnSight introduces turn-level hindsight self-distillation, providing dense credit signals during iterative tool use. This approach improves long-horizon reasoning in large language models without requiring trajectory-level supervision.",
-    "significance": "By enabling fine-grained learning signals, TurnSight advances the efficiency and accuracy of tool-integrated reasoning systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
