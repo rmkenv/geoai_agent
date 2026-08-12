@@ -1,5 +1,213 @@
 [
   {
+    "uid": "d4446b2d5754997795eb525cfaead966",
+    "source": "web",
+    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
+    "arxiv_id": "",
+    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "2025 GeoAI Breakthroughs: From Real-Time Flood Detection to Urban Planning AI",
+    "tldr": "In 2025, GeoAI harnesses satellite imagery and LLMs to deliver real-time flood alerts and autonomous urban planning. These advances accelerate climate resilience and smart city development worldwide.",
+    "significance": "These innovations enable faster, data-driven responses to environmental crises and urban growth.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "urban-AI",
+      "flood-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
+    "arxiv_id": "",
+    "title": "Towards the next generation of Geospatial Artificial Intelligence",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "Charting the Future of Geospatial AI: From Integration to Innovation",
+    "tldr": "Geospatial AI blends spatial science with machine learning, rapidly evolving into a leading research frontier. This paper reviews recent progress and outlines future directions for the field.",
+    "significance": "Understanding GeoAI's trajectory is essential for leveraging spatial data to address global challenges.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
+    "source": "web",
+    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
+    "arxiv_id": "",
+    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "Top 5 GeoAI Trends to Watch in 2025: From Urban Planning to Agriculture",
+    "tldr": "GeoAI blends GIS and AI to unlock insights across sectors. In 2025, five key trends—urban AI, crop monitoring, flood detection, change detection, and real-time analytics—will shape the industry.",
+    "significance": "These trends will drive smarter decision-making and operational efficiency across urban, agricultural, and environmental domains.",
+    "tags": [
+      "urban-AI",
+      "crop-monitoring",
+      "flood-detection",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "079f3198282271621f612e9d277c56ab",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
+    "arxiv_id": "",
+    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "GeoAI Revolutionizes Geospatial Insights: AI Meets Satellite Data for Smarter Decision-Making",
+    "tldr": "Artificial intelligence is transforming the geospatial industry by combining data, sensors, and AI-driven analysis. This shift, known as GeoAI, promises more accurate and actionable insights for organizations worldwide.",
+    "significance": "GeoAI is poised to redefine how organizations capture and interpret spatial information, unlocking new levels of efficiency and insight.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c372756dc3050e8979c1ab5331fba6b3",
+    "source": "web",
+    "url": "https://github.com/topics/remote-sensing",
+    "arxiv_id": "",
+    "title": "remote-sensing · GitHub Topics · GitHub",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "Remote Sensing Change Detection: Datasets, Tools, Methods, and Competitions Overview",
+    "tldr": "This repository aggregates the latest datasets, tools, and research for remote sensing change detection. It serves as a go-to resource for researchers and practitioners seeking benchmarks and competitions.",
+    "significance": "It accelerates progress in monitoring environmental and urban changes by centralizing essential resources.",
+    "tags": [
+      "remote-sensing",
+      "change-detection",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1785692639303012acc70ffb83d999f5",
+    "source": "web",
+    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
+    "arxiv_id": "",
+    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "NASA Unveils Galileo, Open-Source Multimodal Model for Earth Observation and Analysis",
+    "tldr": "NASA has released Galileo, an open-source foundation model that processes satellite imagery, time-series, and tabular data in a unified architecture. The model’s patch-based tokenization enables advanced tasks like change detection, segmentation, and urban AI applications.",
+    "significance": "Galileo democratizes multimodal Earth observation, enabling researchers worldwide to perform complex analyses without proprietary software.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d7f2f215fb0c6f21acbef1a9b7ee0e6f",
+    "source": "web",
+    "url": "https://evermx.com/open-source/geoai-geospatial-artificial-intelligence",
+    "arxiv_id": "",
+    "title": "GeoAI - Open Source AI Project - Evermx",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "GeoAI: Bridging AI and Geospatial Analysis with Open-Source Deep Learning",
+    "tldr": "GeoAI is a Python package that unifies deep learning with satellite imagery and aerial photos, enabling advanced geospatial analysis and visualization. Developed by the opengeos community, it offers a flexible framework for tasks like segmentation, object detection, and change detection.",
+    "significance": "It democratizes AI-driven geospatial insights by providing an open-source, extensible platform for researchers and practitioners.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "762c83592693d584bfc0fba64f7899ac",
+    "source": "web",
+    "url": "https://github.com/mbzuai-oryx/ThinkGeo",
+    "arxiv_id": "",
+    "title": "GitHub - mbzuai-oryx/ThinkGeo: [CVPR 2026 ] ThinkGeo is a ...",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "ThinkGeo: A New Benchmark for LLMs on Remote Sensing Tasks",
+    "tldr": "ThinkGeo evaluates language model agents on complex satellite and aerial imagery tasks using structured tool use and step‑by‑step reasoning. It offers human‑curated queries across real‑world domains like disaster response, urban planning, and environmental monitoring.",
+    "significance": "It bridges the gap between natural language processing and geospatial intelligence, enabling more robust AI solutions for real‑world remote sensing challenges.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "benchmark",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "57bbba71b7a72c67542b239374b0f3de",
+    "source": "web",
+    "url": "https://rastervision.io/",
+    "arxiv_id": "",
+    "title": "Raster Vision: An open-source machine learning library for deep ...",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "Raster Vision: Open-Source GIS Meets Deep Learning for Vision Tasks",
+    "tldr": "Raster Vision is an open-source framework that integrates GIS data with deep learning models for tasks such as semantic segmentation, object detection, and chip classification. It offers a configurable pipeline that simplifies the deployment of computer vision models on geospatial imagery.",
+    "significance": "It enables researchers and practitioners to apply state‑of‑the‑art deep learning to geospatial data without reinventing the wheel.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "76a848462cb579374f52b6c2e4ea0f19",
+    "source": "web",
+    "url": "https://sourceforge.net/directory/?q=remote%20sensing",
+    "arxiv_id": "",
+    "title": "remote sensing free download - SourceForge",
+    "authors": [],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-12",
+    "headline": "Free Remote Sensing Toolkit on SourceForge: Code, Papers, and Hands-On Tools",
+    "tldr": "This guide offers free remote sensing resources from SourceForge, including code snippets, research papers, and practical tools. It serves researchers, engineers, and enthusiasts seeking to apply geospatial AI techniques.",
+    "significance": "It democratizes access to advanced remote sensing tools, enabling broader innovation in geospatial AI.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "6597f8858b0f97288537ed0663913abf",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.09932v1",
@@ -1167,244 +1375,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "4f363f8af3a990c25330526f9e84f22a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06374v1",
-    "arxiv_id": "2608.06374v1",
-    "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
-    "authors": [
-      "Junfeng Li",
-      "Junjie He",
-      "Zhide Zhong"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "DyPES-VLA: Shared Dynamics Priors for Cross-Embodiment Robot Manipulation",
-    "tldr": "DyPES-VLA introduces a framework that learns shared dynamics priors across diverse robot embodiments while tailoring control policies to each embodiment. This approach improves cross-embodiment transfer and reduces the need for extensive manual data collection.",
-    "significance": "By leveraging shared dynamics priors, DyPES-VLA enables more efficient and scalable training of vision-language-action models for heterogeneous robots, accelerating deployment in real-world manipulation tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c84dcbfaf5c0fb4b86c3c9d2af927323",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06370v1",
-    "arxiv_id": "2608.06370v1",
-    "title": "The Bitter Lesson of Tool Calling",
-    "authors": [
-      "Ishan Patel",
-      "Sahil Sen",
-      "Elias Lumer"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "Evaluating Tool Calling in LLMs: A Benchmark for Code-Capable Models",
-    "tldr": "Tool calling turns LLMs into agents that can act beyond their training data. Yet, no systematic benchmark exists to evaluate code-based tool use across model generations in real-world tasks.",
-    "significance": "This study provides the first comprehensive benchmark for tool calling in LLMs, guiding future model development.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0baf9d10f8f2fffd12f4ef8bf220cebf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06366v1",
-    "arxiv_id": "2608.06366v1",
-    "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
-    "authors": [
-      "Soorya Ram Shimgekar",
-      "Michelle Hu",
-      "Dorisa Shehi"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "Tracing the Heart: Building an Evidence-Linked Pipeline for Heart‑Failure EHR Feature Engineering",
-    "tldr": "EHR feature engineering consumes nearly half of data scientists’ effort, especially for heart failure. This paper presents a rule‑based and LLM‑augmented pipeline that links guideline‑driven reasoning to structured data, accelerating model development.",
-    "significance": "By automating feature extraction, the pipeline reduces bottlenecks and enables faster, evidence‑based heart‑failure research.",
-    "tags": [
-      "LLM",
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "04beebc83f4f0c434e2bc0e4ca47837a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06363v1",
-    "arxiv_id": "2608.06363v1",
-    "title": "An Optimal Agnostic PAC Algorithm",
-    "authors": [
-      "Markus Engelund Mathiasen",
-      "Jian Qian",
-      "Nikita Zhivotovskiy"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "Optimal Agnostic PAC Learning for Finite VC Classes",
-    "tldr": "The paper introduces an algorithm that achieves the statistically optimal risk bound for any hypothesis class with finite VC dimension, matching the minimax lower bound up to constant factors.",
-    "significance": "It provides the first practical learner that attains the best possible error rate in agnostic learning settings.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2509187d28000d2dd8e0883626dbcca5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06362v1",
-    "arxiv_id": "2608.06362v1",
-    "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
-    "authors": [
-      "Boning Li",
-      "Yu Chen",
-      "Longbo Huang"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "AV-AIVAT Cuts Agent Evaluation Cost 74× with Anytime-Valid Stopping in Games",
-    "tldr": "AV-AIVAT introduces a statistically sound anytime-valid stopping rule that dramatically reduces the number of games required to compare agents in imperfect-information settings. The method achieves a 74× cost reduction while maintaining rigorous confidence guarantees, making large-scale agent benchmarking more affordable and reliable.",
-    "significance": "This breakthrough enables rapid, cost-effective evaluation of AI agents, accelerating research and deployment in strategic games and beyond.",
-    "tags": [
-      "benchmark",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0aaacbf0a83bc53ca6b478b6bdf20702",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06361v1",
-    "arxiv_id": "2608.06361v1",
-    "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
-    "authors": [
-      "Sarvesh Baskar",
-      "Zikui Cai",
-      "Shayan Shabihi"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "Low-Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
-    "tldr": "Video language models struggle to accurately count and timestamp low-frequency events because existing benchmarks conflate event count, rate, duration, and visual complexity. We propose a trace‑grounded parametric benchmark that audits reported events against executable ground truth, isolating failure modes.",
-    "significance": "This work provides a clearer diagnostic tool for improving video language models, enabling more reliable event detection in real-world applications.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "aa924a02e9739296881ccf8b0bf9680f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06360v1",
-    "arxiv_id": "2608.06360v1",
-    "title": "PyOMES: an open-source framework for biochemical process modelling",
-    "authors": [
-      "Ethan Errington",
-      "Tom Vinestock",
-      "Jaewook Lee"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "PyOMES: Open-Source Framework for Dynamic Biochemical Process Modelling",
-    "tldr": "PyOMES is a Python-based, open-source environment that simplifies dynamic and steady-state biochemical process modelling through a modular, generalized framework. It supports a wide range of biological, chemical, and biochemical systems under a single, accessible platform.",
-    "significance": "By providing a unified, modular toolkit, PyOMES accelerates research and development across diverse biochemical engineering domains.",
-    "tags": [
-      "open-source",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "52b7d4c1ca4be88685b307208539d432",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06358v1",
-    "arxiv_id": "2608.06358v1",
-    "title": "Universality in random graphs via optimal linking systems: trees and beyond",
-    "authors": [
-      "Asaf Cohen Antonir",
-      "Lyuben Lichev",
-      "Maksim Zhukovskii"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "Random Graphs Achieve Universal Tree Embedding",
-    "tldr": "Researchers prove that a sparse random graph with edge probability C ln n/n contains every bounded-degree tree on n vertices. This resolves a question posed by Montgomery and advances our understanding of universality in random graphs.",
-    "significance": "It establishes a tight threshold for embedding all bounded-degree trees, a fundamental problem in graph theory.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "aa866d9a1cb9aaacf7ddb2864c0e7516",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05150v1",
-    "arxiv_id": "2608.05150v1",
-    "title": "The QCD Axion and Neutrino Masses",
-    "authors": [
-      "Hridoy Debnath",
-      "Pavel Fileviez Perez",
-      "Grace Miller"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "Linking the QCD Axion to Neutrino Masses: A Unified BSM Insight",
-    "tldr": "The Peccei-Quinn mechanism solves the strong CP problem by predicting the QCD axion, while neutrino masses hint at new physics. We investigate a framework where both phenomena arise from a common underlying symmetry, offering testable predictions.",
-    "significance": "This work proposes a novel unification of two major BSM puzzles, potentially guiding future experiments in axion searches and neutrino physics.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6ab02b8edeb7dea8aecdf2a9a41d1a4c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.05149v1",
-    "arxiv_id": "2608.05149v1",
-    "title": "CoCo-IR: Contextual Composed Image Retrieval",
-    "authors": [
-      "Shengcao Cao",
-      "Tanmaya Shekhar Dabral",
-      "Zhongli Ding"
-    ],
-    "published": "2026-08-05",
-    "curated_at": "2026-08-06",
-    "headline": "CoCo-IR: Enabling Iterative Contextual Composed Image Retrieval for Complex Visual Searches",
-    "tldr": "We introduce CoCo-IR, a novel task that allows users to iteratively refine image search results through contextual interactions. Our approach leverages instruction-based retrieval and demonstrates improved performance over single-turn systems.",
-    "significance": "CoCo-IR addresses the limitation of single-turn retrieval, enabling more natural and effective visual search experiences.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
