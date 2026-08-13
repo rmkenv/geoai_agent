@@ -1,5 +1,191 @@
 [
   {
+    "uid": "bf625323a3ed37feca6ff70c775d8b8a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.12319v1",
+    "arxiv_id": "2608.12319v1",
+    "title": "Emergent heavy fermion and superconductivity near Mott transition in twisted bilayer graphene",
+    "authors": [
+      "Ya-Hui Zhang"
+    ],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-13",
+    "headline": "Heavy-Fermion Behavior and Superconductivity Near Mott Transition in Twisted Bilayer Graphene",
+    "tldr": "We demonstrate that near a bandwidth‑tuned Mott transition in twisted bilayer graphene, the Fermi velocity and quasiparticle residue vanish, revealing heavy‑fermion physics. This emergent framework predicts superconductivity at integer fillings without invoking remote bands.",
+    "significance": "It provides a unified heavy‑fermion description of correlated states in twisted bilayer graphene, linking Mott physics to superconductivity.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ca24aa477b08d9c136e615fc39a9f0ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.12316v1",
+    "arxiv_id": "2608.12316v1",
+    "title": "Near optimal three-fold additive energy bound for points on convex curves",
+    "authors": [
+      "Adam Cushman",
+      "Ciprian Demeter",
+      "Shukun Wu"
+    ],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-13",
+    "headline": "Three-Fold Additive Energy Bound for Convex Curve Points Achieves Near-Optimal Growth",
+    "tldr": "The authors prove that the three-fold additive energy of points on a strictly convex curve is bounded by |X|^{3+ε}. This leads to improved lower bounds for sumsets of convex sequences, namely |A−A|≫|A|^{5/3−ε} and |A+A|≫|A|^{8/5−ε}.",
+    "significance": "These results sharpen our understanding of additive combinatorics on convex sets, approaching the conjectured optimal exponent.",
+    "tags": [
+      "spatial-reasoning",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d403eee9e9bc9946ce35f616296457aa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.12313v1",
+    "arxiv_id": "2608.12313v1",
+    "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+    "authors": [
+      "Chuyue Li",
+      "Jinpeng Yu",
+      "Haozhe Wang"
+    ],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-13",
+    "headline": "Agentic Video Auto-Encoder Enables Cinematic Video Learning for AI Agents",
+    "tldr": "The AVA-Encoder introduces a structured video representation that captures film-level semantics, allowing agents to reason and manipulate video content directly. It combines auto-encoding with agentic objectives, bridging the gap between cinematic data and agentic reasoning.",
+    "significance": "It provides the first agent-native video representation that supports high-level cinematic reasoning and manipulation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6742686a00129397567be58505c27b10",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.12311v1",
+    "arxiv_id": "2608.12311v1",
+    "title": "The Role Specialization Model (RSM): Coordinating LLM-Based Tools in Agentic Software Development - An Exploratory Case Study",
+    "authors": [
+      "Carlos Alberto Fernández-y-Fernández",
+      "Jorge R. Aguilar-Cisneros"
+    ],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-13",
+    "headline": "Coordinating LLM Tools in Agentic Software Development: The Role Specialization Model",
+    "tldr": "This study explores how three LLM-based tools—Antigravity, Gemini CLI, and Q—can be coordinated using the Role Specialization Model to support autonomous software development. The findings suggest that specialized roles improve efficiency and human oversight in Agentic SE 3.0.",
+    "significance": "By demonstrating a practical coordination framework, the paper advances the feasibility of fully autonomous software engineering under human supervision.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "14ac309b9740d39063f0153a20fc360a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.12308v1",
+    "arxiv_id": "2608.12308v1",
+    "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+    "authors": [
+      "Yan Deng",
+      "Fei Xu"
+    ],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-13",
+    "headline": "DreamFly: Enhancing Aerial Vision-Language Navigation with Causal Memory and Diffusion Planning",
+    "tldr": "DreamFly introduces a causal memory module and a receding-horizon diffusion planner to improve aerial vision-language navigation under partial observability. By integrating long-term visual context and planning over future actions, the system outperforms existing models on aerial VLN benchmarks.",
+    "significance": "This work bridges the gap between vision-language navigation and aerial robotics, enabling more reliable navigation in complex, partially observable environments.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8267d3dd141336e27ce4b8a9b26b29ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.12307v1",
+    "arxiv_id": "2608.12307v1",
+    "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+    "authors": [
+      "Cheng Qian",
+      "Wenting Zhao",
+      "Liangwei Yang"
+    ],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-13",
+    "headline": "Test-Time Transfer: Strong Models Build Weak Ones on the Fly",
+    "tldr": "The authors show that a strong model can generate test-time harnesses to steer a weaker model during inference. This approach transfers capabilities without updating parameters, offering a new paradigm for model distillation.",
+    "significance": "It introduces a novel test-time distillation paradigm that could reduce the need for costly retraining of smaller models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "be6d2b0d47cba6abfe2a243b8a31c1c6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.12304v1",
+    "arxiv_id": "2608.12304v1",
+    "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+    "authors": [
+      "Saman Marandi",
+      "Yu-Shu Hu",
+      "Mohammad Modarres"
+    ],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-13",
+    "headline": "Automating Dynamic Master Logic Models with Retrieval-Augmented LLMs for Complex System Diagnostics",
+    "tldr": "This paper introduces a framework that automatically builds Dynamic Master Logic models—hierarchical knowledge graphs linking objectives to system components—using retrieval-augmented large language models. The approach reduces reliance on expert interpretation, enabling scalable diagnostics for complex engineered systems.",
+    "significance": "By automating DML construction, the method accelerates system understanding and fault diagnosis, paving the way for more efficient maintenance of intricate infrastructures.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "186db57daced4f831d740281eb51beb4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.12302v1",
+    "arxiv_id": "2608.12302v1",
+    "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
+    "authors": [
+      "Di Yang Shi",
+      "W. Bradley Knox"
+    ],
+    "published": "2026-08-12",
+    "curated_at": "2026-08-13",
+    "headline": "Framework for Human‑Aligned Reward Functions from Natural‑Language Objectives and Iterative Design",
+    "tldr": "We propose a three‑step process that turns a natural‑language task description into a linear reward function aligned with human preferences. The method distills objectives, measures outcomes, and iteratively refines the reward to match desired behavior.",
+    "significance": "This framework democratizes reward engineering, enabling non‑experts to create robust, preference‑aligned policies for complex AI systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d4446b2d5754997795eb525cfaead966",
     "source": "web",
     "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
@@ -1186,194 +1372,6 @@
       "open-source"
     ],
     "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "82b6d47144c4f326255faf6e1227b1e6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06351v1",
-    "arxiv_id": "2608.06351v1",
-    "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
-    "authors": [
-      "Jerzy Stefanowski"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "Evaluating XAI: Human‑Grounded Tests and Adaptive Explanations in Image Recognition",
-    "tldr": "The paper critiques current XAI evaluation practices, using DetoxAI to highlight bias detection and concept unlearning gaps. It demonstrates a human‑grounded assessment of image‑classification explanations and proposes adaptive methods to improve explanation quality.",
-    "significance": "It underscores the need for rigorous, human‑centered evaluation frameworks to ensure trustworthy AI explanations in visual tasks.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "abe2065837483f5e2c4abcbfeb327cf0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06350v1",
-    "arxiv_id": "2608.06350v1",
-    "title": "Clump Migration in Disk Galaxies: Revisiting Chandrasekhar's Dynamical Friction",
-    "authors": [
-      "Pushpak Pandey",
-      "Kanak Saha"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "Reassessing Dynamical Friction: Clump Migration in Disk Galaxies and Bulge Growth",
-    "tldr": "We test Chandrasekhar’s dynamical friction against N‑body simulations of massive clumps in realistic disk galaxies. The classic formula overestimates inspiral times by up to a factor of two, indicating the need for revised models.",
-    "significance": "Accurate clump inspiral times are essential for understanding bulge formation and the secular evolution of disk galaxies.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "006fedc345d9e483ee6e15e5d300977a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06347v1",
-    "arxiv_id": "2608.06347v1",
-    "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
-    "authors": [
-      "Xinye Wang",
-      "Junxiao Liu",
-      "Shujian Huang"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "Reasoning-Pivot Guided Self-Distillation Enhances Multilingual LLM Reasoning for Cross-Language Transfer",
-    "tldr": "The paper introduces RP-OPSD, a self-distillation framework that prioritizes reasoning signals to improve multilingual reasoning in LLMs. It demonstrates that guiding distillation with reasoning pivots yields better cross-lingual transfer than existing methods.",
-    "significance": "It offers a new way to extend reasoning capabilities of LLMs to low-resource languages.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e1a9238e50376636182f973ce8133e10",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06346v1",
-    "arxiv_id": "2608.06346v1",
-    "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
-    "authors": [
-      "Yunjia Qi",
-      "Zehua Yin",
-      "Xintong Shi"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "Tracing Early Errors in Long-Horizon LLM Agent Trajectories with TRAJDEBUG",
-    "tldr": "TRAJDEBUG introduces a method to pinpoint the earliest error step causing failure in long agent trajectories, enabling targeted debugging of LLM-based systems. It leverages error lifecycle analysis to improve reliability in complex, multi-step tasks.",
-    "significance": "This work provides a systematic approach to reduce cascading failures in autonomous agents, enhancing safety and robustness.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "911049fd99013326b5ec7d1d9232bcce",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06345v1",
-    "arxiv_id": "2608.06345v1",
-    "title": "Dimension-Free Polylogarithmic Quantum Shadow Tomography from Sequential Pretty-Good Measurements",
-    "authors": [
-      "Fernando Granha Jeronimo",
-      "Qizhao Huang",
-      "Lenny Liu"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "New Dimension-Free Polylogarithmic Quantum Shadow Tomography Achieves Efficient Expectation Estimation",
-    "tldr": "The paper presents a quantum shadow tomography algorithm that scales polylogarithmically with dimension, eliminating the curse of dimensionality. It uses sequential pretty-good measurements to estimate all expectation values with high probability and additive accuracy ε.",
-    "significance": "This breakthrough enables practical quantum state characterization for high-dimensional systems, paving the way for scalable quantum technologies.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "25d06857e7a9a6ab3b3004f1952e33a2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06377v1",
-    "arxiv_id": "2608.06377v1",
-    "title": "Learning When to Trust via Selective Context Preference Optimization",
-    "authors": [
-      "Xian Sun",
-      "Wei Chow",
-      "Yingshuo Wang"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "Selective Trust in LLMs: Optimizing Context Preference for Reliable Answers",
-    "tldr": "This paper introduces MIST, a benchmark that tests language models' ability to selectively trust contextual signals. By optimizing context preference, models can avoid misleading cues while still leveraging useful information.",
-    "significance": "It provides a framework to balance robustness and usefulness in LLMs, addressing a key failure mode in current models.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7d94637bd8de67047dfce1b1f216d56f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06376v1",
-    "arxiv_id": "2608.06376v1",
-    "title": "A Tale of Two Compact Bosons",
-    "authors": [
-      "Christian Ferko",
-      "Vishnu Jejjala",
-      "Brandon Robinson"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "Neural Network Field Theory Unifies Compact Bosons via Mixed Latent Variables",
-    "tldr": "Neural network field theory (NN-FT) models field theories using network architectures and latent variable distributions, extending to compact theories by summing over discrete topological sectors. The paper applies this mixed continuous/discrete latent-variable construction to two compact boson models, illustrating the framework’s power.",
-    "significance": "This work bridges machine learning and quantum field theory, offering a novel, data-driven approach to studying topologically nontrivial compact bosonic systems.",
-    "tags": [
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "54da12bda445f5ef5b96a11436e07011",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06375v1",
-    "arxiv_id": "2608.06375v1",
-    "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
-    "authors": [
-      "Zhe Li",
-      "Zhenzhe Zhang",
-      "Yangyang Wei"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-07",
-    "headline": "ω-0: Unified Latent Predictive Model for Concurrent Humanoid Locomotion and Manipulation",
-    "tldr": "The paper introduces ω-0, a latent predictive world-action model that jointly learns locomotion, posture, balance, and manipulation for humanoid robots. By integrating whole-body dynamics into a single latent space, ω-0 enables real-time coordinated behavior, outperforming prior decomposed policies.",
-    "significance": "ω-0 bridges the gap between separate locomotion and manipulation modules, enabling more natural and efficient humanoid task execution.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "advanced"
   }
 ]
