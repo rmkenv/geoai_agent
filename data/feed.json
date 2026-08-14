@@ -1,5 +1,313 @@
 [
   {
+    "uid": "632ce6facfc21a96a2338f14e4d65124",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13561v1",
+    "arxiv_id": "2608.13561v1",
+    "title": "Experimental Quantum Key Distribution in an Indefinite Causal Order",
+    "authors": [
+      "Yann Valibouse",
+      "Martí Cladera-Rosselló",
+      "Michael Antesberger"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "Quantum Key Distribution Achieves Indefinite Causal Order: A New BB84 Protocol Realized",
+    "tldr": "Researchers implemented a BB84-like quantum cryptography protocol using processes with indefinite causal order, demonstrating that superposed operation sequences can serve as a quantum resource. This experiment opens avenues for more secure quantum communication and novel quantum information processing techniques.",
+    "significance": "The work shows that indefinite causal order can be harnessed for practical quantum cryptography, potentially enhancing security and efficiency beyond conventional protocols.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2ef1f178455ee0fe451f4ebf1c4c6560",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13560v1",
+    "arxiv_id": "2608.13560v1",
+    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "authors": [
+      "Yaxin Luo",
+      "Haobin Jiang",
+      "Jialv Zou"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "AutoDesign: Optimizing Meta-Harness for Long-Horizon Agentic Multimodal Design Systems Innovation",
+    "tldr": "AutoDesign proposes a meta-harness framework that treats multimodal source transformation as a long-horizon agentic process, enabling recursive self-improvement aligned with human design priors. By continuously learning from empirical exploration, the system surpasses static paradigms and delivers more adaptive, reusable design solutions.",
+    "significance": "This framework advances autonomous design by embedding adaptive learning loops, promising smarter, more efficient multimodal content creation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "299cf106103d6fcb526f4dd677aed66f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13558v1",
+    "arxiv_id": "2608.13558v1",
+    "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+    "authors": [
+      "Bobo Li",
+      "Hao Fei",
+      "Tianjie Ju"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "OmniScientist: Leveraging Foundation Models to Automate End-to-End Scientific Discovery Across Disciplines",
+    "tldr": "OmniScientist uses foundation models to automate the full research cycle, from hypothesis generation to manuscript drafting. However, current systems lack direct access to raw evidence, limiting the depth of scientific insight.",
+    "significance": "This work demonstrates how omni-modal AI can streamline research workflows, but highlights the need for evidence-aware reasoning.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3d3c1eaee546998d3988975e6a7c6e2b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13557v1",
+    "arxiv_id": "2608.13557v1",
+    "title": "Localised Horizons and Holographic Thermodynamics: Supercooling in the 1/D Expansion",
+    "authors": [
+      "Prateek Agrawal",
+      "Gaurang Ramakant Kane",
+      "Vazha Loladze"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "1/D Expansion Reveals Supercooling Dynamics in Holographic Confinement Transitions",
+    "tldr": "Using a 1/D expansion in higher-dimensional Einstein-scalar gravity, the study predicts the thermal confinement transition in non-conformal gauge theories. The analysis uncovers a supercooling regime, offering a new framework for understanding phase transitions in holographic models.",
+    "significance": "This work provides a systematic, predictive tool for mapping confinement transitions in strongly coupled gauge theories, bridging holography and large-D techniques.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0d1efc42a00886155b260674eb84638c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13556v1",
+    "arxiv_id": "2608.13556v1",
+    "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+    "authors": [
+      "Minghui Guo",
+      "Shengqiong Wu",
+      "Hao Fei"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "Reimagining Video Latent Spaces: V-RAE for Better Generation and Control",
+    "tldr": "V-RAE proposes a new video autoencoder that optimizes latent space for generative tasks rather than pixel reconstruction. This leads to richer semantic organization and improved performance in video generation.",
+    "significance": "By decoupling reconstruction from semantic fidelity, V-RAE enables more expressive generative models, advancing video synthesis capabilities.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "83913d736d9a0a002de2442c26ee8970",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13554v1",
+    "arxiv_id": "2608.13554v1",
+    "title": "Defensive Boosting for Online Probabilistic Forecasting",
+    "authors": [
+      "Georgy Noarov",
+      "Aaron Roth"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "Defensive Boosting Enhances Online Probabilistic Forecasting for Adaptive Adversaries",
+    "tldr": "This paper introduces a defensive boosting framework that improves online probabilistic forecasting of binary outcomes against adaptive adversaries. It achieves two incomparable guarantees—Brier score competitiveness and span-based prediction quality—using efficient boosting techniques.",
+    "significance": "It advances online learning by providing robust, high-performance probabilistic predictions in adversarial settings.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9d25957528e6202a17b3bd295f388132",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13552v1",
+    "arxiv_id": "2608.13552v1",
+    "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+    "authors": [
+      "Kaixin Ding",
+      "Xi Chen",
+      "Minghong Cai"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "PlayWorld: Benchmarking Video World Models via Long-Horizon Agent Interaction for Realistic Evaluation",
+    "tldr": "PlayWorld introduces a benchmark that uses agent players to evaluate video world models over long horizons, addressing the difficulty of fair comparison. The framework measures consistency, controllability, and task success in interactive settings.",
+    "significance": "This work provides a standardized, human-like evaluation protocol that can accelerate the development of more reliable and controllable video world models.",
+    "tags": [
+      "benchmark",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "17232683643997d3aaff0f23f0002981",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13549v1",
+    "arxiv_id": "2608.13549v1",
+    "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
+    "authors": [
+      "Mingyuan Zhang"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "Calibrating Multi‑Label Jaccard: An Exponential Convex Dimension Analysis",
+    "tldr": "This work establishes the nonsingularity of Jaccard‑based loss matrices and derives their affine dimension, providing a theoretical foundation for multi‑label evaluation. It also introduces a shifted‑loss formulation that preserves calibration properties while simplifying analysis.",
+    "significance": "It offers a rigorous mathematical framework that improves the reliability of multi‑label segmentation metrics used in computer vision and remote sensing.",
+    "tags": [
+      "segmentation",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7b8a3923832505494462202ebd2c073b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13547v1",
+    "arxiv_id": "2608.13547v1",
+    "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+    "authors": [
+      "Shangao Li",
+      "Yao Zhang",
+      "Volker Tresp"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "QuoteBench Reveals Hidden Command-Path Failures in LLM Coding Agents Evaluation",
+    "tldr": "QuoteBench demonstrates that matched execution scores can mask failures introduced after LLM-generated Bash commands, by performing exact final-state validation across 56 one-shot tasks from 14 incident-derived families. The benchmark highlights the need for end-to-end validation to ensure reliable deployment of LLM coding agents.",
+    "significance": "This work exposes a critical blind spot in current LLM evaluation practices, urging the community to adopt stricter, state-based validation for safer automation.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "edf3e53a74af46b174bf25f1dd771b9b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13546v1",
+    "arxiv_id": "2608.13546v1",
+    "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+    "authors": [
+      "Yuanyang Yin",
+      "Gongxuan Wang",
+      "Yifan Zhan"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "Alaya-EVOKE: Scaling Interactive World Models for Persistent Memory and Low-Latency Interaction",
+    "tldr": "Alaya‑EVOKE introduces a framework that balances long‑horizon generation with real‑time responsiveness by optimizing denoiser context and key‑value cache usage. The approach enables interactive world models to maintain persistent memory without sacrificing latency, paving the way for more immersive AI experiences.",
+    "significance": "This work addresses a core bottleneck in deploying large foundation models for real‑time, memory‑intensive applications, offering a scalable solution that could transform interactive AI systems.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9574133815db3bae958ac7ba0cbaefea",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13545v1",
+    "arxiv_id": "2608.13545v1",
+    "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+    "authors": [
+      "Fanfei Li",
+      "Jana Zeller",
+      "Manuel Prada-Corral"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "Curated Elementary Curriculum for Language Model Training",
+    "tldr": "We introduce LITTLECURRICULUM, an 88B-token corpus of U.S. elementary school material, explicitly excluding advanced concepts to control knowledge exposure. This enables systematic study of how language models acquire knowledge and skills.",
+    "significance": "It offers a controlled benchmark for probing and improving LLM learning processes.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cb5944ea16d7e5b6da83c9d4baeae265",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13544v1",
+    "arxiv_id": "2608.13544v1",
+    "title": "Skew Hives, Skew Skeps, Skew Schur Log-Concavity",
+    "authors": [
+      "Tuong Le",
+      "Son Nguyen"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "Skew Hives and Skew Skeps: A Unified Approach to Schur Log-Concavity",
+    "tldr": "We introduce skew hive and skew skep models that generalize both hives and skeps, and use them to prove a new skew Schur log-concavity theorem extending the Lam–Postnikov–Pylyavskyy result.",
+    "significance": "This work unifies two combinatorial frameworks and establishes a broad log-concavity property for skew Schur functions, advancing our understanding of symmetric function theory.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b293c9af4885e98d14968832431a1b3f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13541v1",
+    "arxiv_id": "2608.13541v1",
+    "title": "SCULPT: Subtractive Composition for 3D Part Generation",
+    "authors": [
+      "Sikuang Li",
+      "Chen Yang",
+      "Jiemin Fang"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-14",
+    "headline": "SCULPT: Subtractive Composition for Generating Editable 3D Parts in a Single Pass",
+    "tldr": "SCULPT introduces a subtractive approach that integrates part-awareness directly into the 3D generation loop, eliminating the need for post-hoc segmentation. The method produces coherent, editable parts that can be reused or animated, improving workflow efficiency for designers.",
+    "significance": "By embedding part structure during generation, SCULPT streamlines the creation of modular 3D assets, reducing time and computational overhead compared to segmentation-based pipelines.",
+    "tags": [
+      "diffusion-models",
+      "segmentation",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "bf625323a3ed37feca6ff70c775d8b8a",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.12319v1",
@@ -1071,305 +1379,6 @@
       "benchmark",
       "open-source",
       "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "551540031907841fb1ac04b8c4e37dd1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06355v1",
-    "arxiv_id": "2608.06355v1",
-    "title": "On generalised d'Alembert-type integral representations for damped wave equations on the quarter-plane",
-    "authors": [
-      "Andreas Chatziafratis",
-      "Claudio Giorgi",
-      "Alain Miranville"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Generalized d'Alembert Integral Solutions for Damped Wave Equations on the Quarter-Plane",
-    "tldr": "The paper derives closed-form integral representations for the damped wave equation on a quarter-plane with general initial and boundary data. It rigorously verifies these solutions in classical function spaces, extending the d'Alembert method to hyperbolic heat and telegrapher equations.",
-    "significance": "It provides a unified analytic framework that simplifies the analysis of damped wave phenomena in engineering and physics.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "baf242657baaf79d2e551a622f36fbe7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06352v1",
-    "arxiv_id": "2608.06352v1",
-    "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
-    "authors": [
-      "Fanzhe Meng",
-      "Guoxin Chen",
-      "Jiale Zhao"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "CalibForge: Automating Task Synthesis with Verified Solver Calibration for Agent Learning",
-    "tldr": "CalibForge automatically generates terminal tasks that are not only solvable but also appropriately challenging by calibrating tasks against solver performance. It uses verified solver behavior to iteratively revise candidate tasks, enabling scalable training of learnable agents.",
-    "significance": "This approach enables efficient scaling of agent training by ensuring tasks are both executable and optimally challenging, reducing wasted effort on trivial or infeasible problems.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a9e0d4818aeb98d8b550055c41080246",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06342v1",
-    "arxiv_id": "2608.06342v1",
-    "title": "Vector Edge Solitons and Domain Walls in a Nonlinear Mechanical Topological Insulator",
-    "authors": [
-      "David D. J. M. Snee",
-      "Yi-Ping Ma"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Nonlinear Edge Solitons and Domain Walls in a Mechanical Topological Insulator",
-    "tldr": "We demonstrate that nonlinear interactions between edge modes in a 2D mechanical topological insulator can be captured by a coupled nonlinear Schrödinger equation, leading to stable soliton-like waves and domain walls. These findings provide a new platform for exploring topological phenomena in nonlinear mechanical systems.",
-    "significance": "This work bridges nonlinear dynamics and topological physics, opening avenues for robust waveguiding and information processing in mechanical metamaterials.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "93eddd005b6472b1d137eff7b201eff5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06341v1",
-    "arxiv_id": "2608.06341v1",
-    "title": "Distributed coordination for transmission-distribution systems with nonlinear flexibility aggregation",
-    "authors": [
-      "Xinliang Dai",
-      "Yanlin Jiang",
-      "Frederik Zahn"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Optimizing Transmission-Distribution Coordination with Nonlinear Flexibility Aggregation for DER-Rich Networks",
-    "tldr": "This paper proposes a scalable method for aggregating distribution-level flexibility using nonlinear models, addressing misclassifications inherent in linear approaches. It demonstrates improved feasibility and cost-efficiency in multi-period integrated transmission-distribution coordination.",
-    "significance": "It enables more accurate and efficient integration of high DER penetration into grid operations, reducing operational costs and enhancing reliability.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8d458749f535d59abe4244bd2a5ba6aa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06340v1",
-    "arxiv_id": "2608.06340v1",
-    "title": "Scalable estimation of VARMA models",
-    "authors": [
-      "Daniel Paulin",
-      "Victor Elvira"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Scalable Estimation of VARMA Models: A New Efficient Likelihood Approach",
-    "tldr": "We present a scalable algorithm for estimating VARMA models that overcomes non-convexity and high dimensionality. The method achieves comparable accuracy to full likelihood while reducing computational cost dramatically.",
-    "significance": "This work enables practical use of VARMA models in high-dimensional time-series analysis, improving forecasting accuracy with fewer parameters.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "280cda50f1568b773b4a35103b1feb59",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06338v1",
-    "arxiv_id": "2608.06338v1",
-    "title": "Circular sorting in the alternating group",
-    "authors": [
-      "Melanie Ferreri",
-      "Eric Swartz",
-      "Nicholas J. Werner"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Circular Sorting in the Alternating Group: Max Adjacent Swaps on a Circle",
-    "tldr": "Researchers Adin, Alon, and Roichman derived a formula for the maximum number of adjacent swaps needed to sort n points arranged on a circle. This result connects the problem to the number of adjacent transpositions required to transform any permutation in the alternating group.",
-    "significance": "The formula provides a precise bound for circular sorting, enriching our understanding of permutation sorting complexity in group theory.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5ff5dc7bd1d6839014a04a52f492d7b8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06334v1",
-    "arxiv_id": "2608.06334v1",
-    "title": "A Regression-Based Framework for the ACF, PACF, Durbin-Levinson Recursion, and One-Step-Ahead Prediction",
-    "authors": [
-      "Kellen Gong",
-      "Fang Li"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Unified Regression Framework for ACF, PACF, Durbin–Levinson, and One-Step Prediction",
-    "tldr": "This note presents a regression-based approach to derive the autocorrelation function, partial autocorrelation, and Durbin–Levinson recursion, linking them to familiar linear regression concepts. It also demonstrates how to use this framework for efficient one-step-ahead forecasting.",
-    "significance": "By framing these classic time‑series tools within regression, the article makes them more accessible to students and practitioners, bridging a conceptual gap.",
-    "tags": [
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ef059f84ed662feb01e92405b61a3c4b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06329v1",
-    "arxiv_id": "2608.06329v1",
-    "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
-    "authors": [
-      "Noam Koren",
-      "Roy Bar-Haim",
-      "Abigail Goldsteen"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Assessing Benchmark Quality for Task-Oriented Conversational Agents",
-    "tldr": "We propose a reference-free framework that uses LLM judges to evaluate benchmark consistency, complexity, and policy coverage for task-oriented conversational agents. This approach reveals flaws in existing benchmarks and offers a scalable, automated assessment method.",
-    "significance": "Reliable benchmark evaluation is essential for advancing conversational AI, and our framework provides the first systematic, automated way to audit benchmark quality.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "952498b84d59ae95813298fdbb6288db",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06371v1",
-    "arxiv_id": "2608.06371v1",
-    "title": "Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion",
-    "authors": [
-      "Monica Conti",
-      "Andrea Giorgini",
-      "Greta Ricchi"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "Weak Solutions for Cahn-Hilliard with Degenerate Mobility and Singular Diffusion",
-    "tldr": "The paper establishes existence of global weak solutions for a Cahn-Hilliard equation with degenerate mobility and singular diffusion. The analysis is carried out in three-dimensional convex domains, extending previous results.",
-    "significance": "It advances mathematical understanding of phase separation models relevant to polymer blends.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "516e33a33c89286a2aa522468dc1c4b4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06364v1",
-    "arxiv_id": "2608.06364v1",
-    "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
-    "authors": [
-      "George Grispos",
-      "Sajda Qureshi"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "AI in Nigerian Mobile Shopping Apps: Assessing Digital Sovereignty and Platform Transparency",
-    "tldr": "This study explores how AI-driven features in Nigerian e‑commerce apps influence users' digital sovereignty, focusing on transparency and control. Findings highlight gaps in platform accountability and suggest policy measures to safeguard consumer autonomy.",
-    "significance": "Understanding AI's impact on digital sovereignty is crucial for protecting Nigerian consumers from opaque algorithmic practices.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0b34f0908d3aa342b12d02ceb35da881",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06356v1",
-    "arxiv_id": "2608.06356v1",
-    "title": "Structured coherence: A modern perspective on optical coherence as a resource",
-    "authors": [
-      "Ayman F. Abouraddy",
-      "Bahaa E. A. Saleh"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "Optical Coherence as a Modern Resource: From Theory to Practical Discrete Modes",
-    "tldr": "Optical coherence traditionally relies on continuous spatial and temporal correlation functions, yet real-world applications only access discrete degrees of freedom. This paper reinterprets coherence as a resource, enabling deterministic mode exploitation in practical optical systems.",
-    "significance": "It bridges fundamental coherence theory with actionable strategies for engineering optical devices in discrete settings.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3b60a49c273bd95b9db54a5e423fc30d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06354v1",
-    "arxiv_id": "2608.06354v1",
-    "title": "A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber",
-    "authors": [
-      "Omar Curiel",
-      "Jing-Yuan Huang",
-      "Po-Chih Chen"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "MR‑Safe Master‑Slave Robot Enables Precise Needle Teleoperation Inside MRI Scanners",
-    "tldr": "We developed an MR‑safe master‑slave robotic system that allows surgeons to steer a needle inside an MRI chamber using a fluid‑coupled 2+1‑DoF master and slave. The system provides multimodal control and real‑time force feedback, improving precision for abdominal interventions.",
-    "significance": "This platform enables safe, high‑precision needle interventions in MRI environments, potentially improving outcomes for image‑guided therapies.",
-    "tags": [
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "682fe91247a4f22832fe19342ca97b99",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06353v1",
-    "arxiv_id": "2608.06353v1",
-    "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
-    "authors": [
-      "Praphul Chandra",
-      "Sujit Gujar",
-      "Ganesh Ghalme"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-08",
-    "headline": "Resourced Authority: A Mechanism-Design Model for Continuous AI Governance Through Compute Budgets",
-    "tldr": "We propose a mechanism design framework that uses compute budgets to enforce authorization for deployed AI agents, enabling continuous participatory governance. By treating compute as a governance lever, the model aligns AI behavior with safety objectives while allowing stakeholders to adjust resource allocation in real time.",
-    "significance": "This approach offers a scalable, self-enforcing method to ensure AI agents remain aligned with human values without requiring constant oversight.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
     ],
     "readtime": 2,
     "difficulty": "advanced"
