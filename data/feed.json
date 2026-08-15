@@ -1,5 +1,109 @@
 [
   {
+    "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
+    "arxiv_id": "",
+    "title": "GeoAI | Geo Week News",
+    "authors": [],
+    "published": "2026-08-15",
+    "curated_at": "2026-08-15",
+    "headline": "GeoAI Revolutionizes Geospatial Work with AI-Driven Feature Extraction and Predictive Analytics",
+    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction and classifying point clouds. These advances enable predictive analysis across the entire data pipeline, unlocking new applications for imagery, LiDAR, and spatial datasets.",
+    "significance": "GeoAI's integration of AI and geospatial data accelerates insights, driving smarter decision-making in fields from urban planning to environmental monitoring.",
+    "tags": [
+      "remote-sensing",
+      "LiDAR",
+      "point-cloud",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "779e0a05d5e0e30b6641ab27ced03d9b",
+    "source": "web",
+    "url": "https://events.ornl.gov/acmsigspatial-geoai2025/",
+    "arxiv_id": "",
+    "title": "ACMSIGSPATIAL-GEOAI 2025 - Conference Tagline",
+    "authors": [],
+    "published": "2026-08-15",
+    "curated_at": "2026-08-15",
+    "headline": "Harnessing AI for Geospatial Insight: From Satellite to Society, Transforming Data and Decision Making",
+    "tldr": "ACMSIGSPATIAL-GEOAI 2025 showcases breakthroughs in AI-driven geospatial analysis, emphasizing multimodal data integration and real-time decision support. Attendees will explore cutting-edge techniques from satellite imagery to LiDAR, unlocking new possibilities for societal impact.",
+    "significance": "This conference accelerates the adoption of AI in geospatial science, enabling faster, more accurate solutions to global challenges.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "LiDAR",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5726a3b43144d7ef941cae3b32cb3288",
+    "source": "web",
+    "url": "https://github.com/RSandAI",
+    "arxiv_id": "",
+    "title": "Remote Sensing AI · GitHub",
+    "authors": [],
+    "published": "2026-08-15",
+    "curated_at": "2026-08-15",
+    "headline": "Open-Source Remote Sensing AI Toolkit for Historical Maps and Satellite Imagery",
+    "tldr": "Our GitHub repository hosts code and papers on geospatial AI, focusing on remote sensing data and historical maps. Researchers and students collaborate on projects since 2016, providing open-source tools and benchmarks.",
+    "significance": "This repository accelerates research by offering reproducible, open-source AI solutions for analyzing remote sensing data across time and space.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7552b12f31b674cbeff5b9e5449247e6",
+    "source": "web",
+    "url": "https://gebeta.net/free-gis-remote-sensing-toolkit/",
+    "arxiv_id": "",
+    "title": "Free GIS & Remote‑Sensing Toolkit | Gebeta Media",
+    "authors": [],
+    "published": "2026-08-15",
+    "curated_at": "2026-08-15",
+    "headline": "Explore Free GIS & Remote‑Sensing Tools: Desktop, Cloud, Data, and ML Libraries",
+    "tldr": "Discover a curated list of free and open‑source GIS and remote‑sensing resources, from desktop software to cloud platforms. The toolkit also includes open data sources and machine‑learning libraries for advanced spatial analysis.",
+    "significance": "This guide empowers users to access powerful spatial tools without cost, accelerating research and application development.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "satellite-imagery"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "882a820adbc3b88ebebc5ad1f2e5b99e",
+    "source": "web",
+    "url": "https://www.conservation.cam.ac.uk/news/tessera-open-source-satellite-remote-sensing-foundation-model-researchers",
+    "arxiv_id": "",
+    "title": "TESSERA: An open-source satellite remote-sensing foundation model for ...",
+    "authors": [],
+    "published": "2026-08-15",
+    "curated_at": "2026-08-15",
+    "headline": "TESSERA: Open-Source Satellite Foundation Model for Habitat Mapping and Conservation",
+    "tldr": "TESSERA is an open-source foundation model that processes satellite imagery to support diverse environmental applications such as habitat mapping and carbon accounting. It provides a unified framework for researchers to develop and benchmark remote-sensing tools.",
+    "significance": "By offering a freely available, high-performance model, TESSERA democratizes access to advanced satellite analytics for conservation science.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "632ce6facfc21a96a2338f14e4d65124",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.13561v1",
@@ -1270,117 +1374,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "94a19c72403490efc11d61cf8afa869c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07455v1",
-    "arxiv_id": "2608.07455v1",
-    "title": "White Dwarf Kicks via Episodic Mass Ejection from Red Giant Stars",
-    "authors": [
-      "Jim Fuller"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "White Dwarf Kicks Explained by Episodic Mass Loss from Red Giants",
-    "tldr": "Recent observations show white dwarfs receive ~1 km/s kicks as their red giant progenitors shed envelopes. These kicks arise from asymmetric, episodic mass loss events that eject ~10^-4 solar masses.",
-    "significance": "Understanding these kicks informs stellar evolution and the dynamics of binary systems.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a7f6c716936753feb1eba4b65e4a04d3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07454v1",
-    "arxiv_id": "2608.07454v1",
-    "title": "Strategy-first synthesis planning for complex natural products",
-    "authors": [
-      "Daniel Armstrong",
-      "Xuan-Vu Nguyen",
-      "Octavian Susanu"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "Strategy-First AI Planning for Complex Natural Product Synthesis Using Large Language Models",
-    "tldr": "This paper presents a strategy-first approach to automated retrosynthetic planning for complex natural products, leveraging large language models to generate multi-step synthetic routes. The authors demonstrate the method on challenging targets, achieving high success rates and revealing new synthetic pathways.",
-    "significance": "It advances AI-driven chemistry by enabling efficient, creative synthesis planning for complex molecules.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "11109e875cf738951ed5a952066cc6d4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06373v1",
-    "arxiv_id": "2608.06373v1",
-    "title": "A Coprimality Topology on the Gaussian Integers: Kolmogorov Quotient and Gaussian Prime Density",
-    "authors": [
-      "Souvik Mandal"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Coprimality Topology on Gaussian Integers: Kolmogorov Quotient and Prime Density",
-    "tldr": "We introduce a topology on non‑zero Gaussian integers where basic open sets consist of elements coprime to a fixed Gaussian integer. By examining prime supports, we identify indistinguishable points, prove hyperconnectedness, and compute the density of Gaussian primes in this topological space.",
-    "significance": "This work links number theory with topological concepts, offering new insights into the structure of Gaussian integers and their prime distribution.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "951eec4c8a47000a8c95b303dbd9ba34",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06372v1",
-    "arxiv_id": "2608.06372v1",
-    "title": "Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links",
-    "authors": [
-      "Michal Jablonowski"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "Squarefree Matrix Formulas for CWR Invariant of Alternating Knots",
-    "tldr": "We present weighted-matrix formulas that compute the components of the CWR invariant for oriented non-split alternating links. By attaching independent commuting variables to each vertex of a consolidated Tait graph and extracting the squarefree part of the trace, we isolate simple cycles, yielding a uniform construction for all k.",
-    "significance": "These formulas provide a unified algebraic framework for computing higher-order CWR invariants, advancing the study of knot invariants in low-dimensional topology.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "181b560520edbd48a7e1bb6cea53e0fe",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.06357v1",
-    "arxiv_id": "2608.06357v1",
-    "title": "Phonon spectral functions of low-density polaron metals",
-    "authors": [
-      "Luis Walther",
-      "Alberto Nocera",
-      "Mona Berciu"
-    ],
-    "published": "2026-08-06",
-    "curated_at": "2026-08-09",
-    "headline": "First Low-Density Polaron Metal Phonon Spectra via DMRG Reveal Electron-Phonon Coupling Effects",
-    "tldr": "Using DMRG, we computed phonon spectral functions for a one-dimensional Holstein model at low carrier densities (x ≤ 0.15). The results show how electron‑phonon coupling λ shapes the low‑energy excitations, providing the first benchmark data in this regime.",
-    "significance": "These findings offer a critical benchmark for theoretical models of polaronic metals and guide future experimental investigations of low‑density electron‑phonon systems.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
