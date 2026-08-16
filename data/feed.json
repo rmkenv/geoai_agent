@@ -1,5 +1,262 @@
 [
   {
+    "uid": "5a38c7bea7c1ca2bcb3c6f464cd13840",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13548v1",
+    "arxiv_id": "2608.13548v1",
+    "title": "All-optical switching of nonlinear structured light in crystal-engineered van der Waals materials",
+    "authors": [
+      "Paolo Valisa",
+      "Marc Richstaetter",
+      "Bianca Sanfilippo"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "All-Optical Switching of Structured Light via Nonlinear Van der Waals Crystals",
+    "tldr": "Researchers demonstrate ultrafast, all-optical control of orbital angular momentum modes using engineered van der Waals crystals. This approach enables compact, real-time switching of structured light without bulky free‑space optics.",
+    "significance": "The technique paves the way for scalable, nanoscale photonic devices capable of dynamic OAM manipulation, critical for next‑generation optical communications and quantum information processing.",
+    "tags": [
+      "open-source",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c266699e947d6ea67da33b7093d6b0ff",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13540v1",
+    "arxiv_id": "2608.13540v1",
+    "title": "Insight into SRF cavity performance from simulations of Nb's surface oxide dissolution and diffusion",
+    "authors": [
+      "Ryan M. L. McFadden",
+      "Rowan Becker",
+      "Tobias Junginger"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "Simulating Nb Oxide Dissolution to Predict SRF Cavity Performance in Accelerators",
+    "tldr": "We simulate the dissolution and diffusion of niobium oxide layers in vacuum, linking the resulting oxygen distribution to the superconducting performance of SRF cavities. These insights help optimize surface preparation for particle accelerators.",
+    "significance": "This work bridges the gap between surface chemistry and SRF cavity performance, guiding more efficient accelerator designs.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5a768c1261e35e31555991486a0cb382",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13538v1",
+    "arxiv_id": "2608.13538v1",
+    "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+    "authors": [
+      "Weihan Meng",
+      "Hongzhu Guo",
+      "Yi Jing"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "SAEVerbalizer: Interpreting Sparse Autoencoder Features from LLM Representations for Transparent Insights",
+    "tldr": "Sparse autoencoders extract many features from LLM embeddings, but explaining them usually relies on external observations, which can be superficial and computationally heavy. SAEVerbalizer offers a framework that verbalizes these features directly from representations, enabling efficient and deeper explanations.",
+    "significance": "It provides a scalable, model-agnostic method to generate meaningful explanations for high-dimensional LLM features, improving transparency and trust.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6921f8794a4f32059d2354eee772ab45",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13535v1",
+    "arxiv_id": "2608.13535v1",
+    "title": "Joint Communication-Control Strategy Optimization with Partially Nested Information Structures: The Linear-Quadratic Case",
+    "authors": [
+      "Haoyi You",
+      "Kaiqing Zhang"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "Optimizing Joint Communication and Control in Multi-Agent Linear Systems with Partially Nested Information",
+    "tldr": "The paper formalizes a joint communication–control strategy optimization problem for multi-agent linear systems with quadratic costs within the common-information-based framework. By focusing on partially nested information structures, it derives tractable, optimal solutions for the linear–quadratic case.",
+    "significance": "It bridges decentralized control and communication design, enabling efficient coordination in multi-agent systems with limited information.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8aa582dae04619bfbcaa64e78a45b7b5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13531v1",
+    "arxiv_id": "2608.13531v1",
+    "title": "Non-uniqueness of Brakke flows starting from minimal surfaces with singularities",
+    "authors": [
+      "Kotaro Motegi"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "Non-uniqueness of Brakke Flows from Singular Minimal Surfaces in Euclidean Space",
+    "tldr": "We prove that minimal surfaces with singularities can generate multiple distinct Brakke flows. This demonstrates their dynamical instability.",
+    "significance": "This result reveals that stationary varifolds need not uniquely determine their evolution, challenging assumptions in geometric measure theory.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9c09a03968170a79d091ea4e6a56e639",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13527v1",
+    "arxiv_id": "2608.13527v1",
+    "title": "The sensitivity of TESS to transiting planets in TOIs with close-in stellar companions",
+    "authors": [
+      "Colin Littlefield",
+      "Kathryn V. Lester",
+      "David R. Ciardi"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "TESS Transit Detection Sensitivity Affected by Close Stellar Companions in TOI Candidates",
+    "tldr": "High-resolution imaging shows many TESS targets have close stellar companions that dilute transit signals. This study quantifies the impact on detecting small planets across 2052 TOIs, revealing reduced sensitivity in blended systems.",
+    "significance": "Understanding companion-induced dilution is crucial for accurate planet occurrence rates from TESS.",
+    "tags": [
+      "satellite-imagery",
+      "time-series",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c77b5feafb0ddfd026bcdcd7cb6ca5c7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13524v1",
+    "arxiv_id": "2608.13524v1",
+    "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
+    "authors": [
+      "Tianyi Li",
+      "Yaxin Luo",
+      "Xinyi Shang"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "DARTree: Accelerating Autoregressive Models with Speculative Diffusion Draft Trees for Large Language Models",
+    "tldr": "DARTree combines speculative decoding with diffusion-based draft trees, enabling parallel token block proposals while preserving causal conditioning. This approach reduces latency and improves throughput for autoregressive language models without sacrificing accuracy.",
+    "significance": "By integrating diffusion drafters into speculative decoding, DARTree offers a scalable, lossless acceleration technique that can be applied to large language models in real-time applications.",
+    "tags": [
+      "LLM",
+      "diffusion-models",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "226f54f19f6f6ab0cee759f1b20ce03a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13522v1",
+    "arxiv_id": "2608.13522v1",
+    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "authors": [
+      "Zhe Ye",
+      "Hantao Lou",
+      "Yuechun Sun"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "Vero: AI Agents That Generate Verified Software Repositories for Trustworthy Development",
+    "tldr": "AI agents can now produce both code and proofs of correctness, enabling formally verified software. Vero demonstrates this by building verified repositories, moving beyond function‑level benchmarks.",
+    "significance": "This work bridges AI programming and formal verification, paving the way for trustworthy, automatically generated software.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3708d6202b6566f81d14db613ceff972",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13521v1",
+    "arxiv_id": "2608.13521v1",
+    "title": "Exponential quantum advantage for learning signals with a single qubit",
+    "authors": [
+      "Ishaan Kannan",
+      "Sridhar Prabhu",
+      "Saeed A. Khan"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "Single Qubit Quantum Sensor Cuts Measurement Needs Exponentially for Signal Learning",
+    "tldr": "Researchers demonstrate that attaching a single controllable qubit to a conventional sensor can exponentially reduce the number of measurements needed to learn classical signals. This quantum advantage opens the door to more efficient data acquisition in practical experimental setups.",
+    "significance": "This breakthrough shows that even minimal quantum resources can dramatically improve signal learning, making quantum sensing more accessible for real-world applications.",
+    "tags": [
+      "remote-sensing",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4c01f84facccbe46a363b46256027f36",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13520v1",
+    "arxiv_id": "2608.13520v1",
+    "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+    "authors": [
+      "Martin J. Wainwright"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "Unmasking Growth Complexity: Optimal Masking Diffusion Schedules and KL Error Control",
+    "tldr": "We introduce unmasking growth complexity (UGC), a path‑resolved metric that directly bounds KL discretization error in masking diffusion. This yields a unified analysis of Bernoulli‑subset and fixed‑cardinality unmasking schemes and certifies optimal sampling schedules.",
+    "significance": "UGC provides a principled way to design and certify optimal masking diffusion schedules, improving discrete sampling efficiency in diffusion models.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5ab52b7edad7a24922313c911b68368b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.13518v1",
+    "arxiv_id": "2608.13518v1",
+    "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology",
+    "authors": [
+      "Yunsung Chung",
+      "Yingshuo Liu",
+      "Abboud F. Hassan"
+    ],
+    "published": "2026-08-13",
+    "curated_at": "2026-08-16",
+    "headline": "Dynamic Post-Operative Outcome Forecasting in Cardiology Using Intervention-Aware Models for Patients",
+    "tldr": "We present a dynamic clinical world model that incorporates interventions and time-varying data to predict post-operative outcomes in cardiology. The model captures irregular trajectories of recovery, enabling more accurate risk assessment over time.",
+    "significance": "This approach improves personalized post-operative care by providing continuous, intervention-aware outcome predictions, potentially reducing complications and readmissions.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
     "source": "web",
     "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
@@ -1114,265 +1371,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "8efcc40b5cf774d77a3b8d16b3dd2108",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07470v1",
-    "arxiv_id": "2608.07470v1",
-    "title": "HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars",
-    "authors": [
-      "William Sheu",
-      "Tommaso Treu",
-      "Adriano Agnello"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "HST Imaging and Pipeline Modeling Deliver Precise Time-Delay Predictions for 17 Lensed Quasars",
-    "tldr": "Using Hubble Space Telescope imaging and advanced pipeline modeling, researchers predict time delays for 17 lensed quasars, providing a new geometric probe of the Hubble constant. These measurements could help resolve the Hubble-Lemaître tension between early- and late-Universe observations.",
-    "significance": "This work offers a critical test of cosmological models by refining independent measurements of H0 through strong lensing time delays.",
-    "tags": [
-      "satellite-imagery",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9f298c4042c99a1b04b6a742e1e0650b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07468v1",
-    "arxiv_id": "2608.07468v1",
-    "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
-    "authors": [
-      "Zongchuang Zhao",
-      "Xin Zhou",
-      "Tianyang Xu"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "SimWAM: Simplifying World Action Models for Autonomous Driving without Costly Future Generation",
-    "tldr": "SimWAM leverages video generation only during training to improve action prediction in autonomous driving. By jointly training a pretrained video expert and a lightweight action expert with flow matching, it eliminates the need for expensive future video generation at inference.",
-    "significance": "This approach reduces computational cost and complexity of end-to-end driving models while maintaining performance.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "093ce69ad47c8a423fc9abfc97ed894b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07467v1",
-    "arxiv_id": "2608.07467v1",
-    "title": "Quantum de Sitter and Analytically Continued Chern Simons Theory",
-    "authors": [
-      "Stephon Alexander",
-      "Kenneth Blakey"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "Quantum de Sitter Space via Analytic Continuation of Chern–Simons Theory",
-    "tldr": "We provide a Lefschetz thimble formulation of the Chern–Simons–Kodama wavefunction for Lorentzian self‑dual gravity with positive cosmological constant. By analytically continuing the Chern–Simons theory, the integral is defined on a complex contour attached to the self‑dual de Sitter saddle, resolving conditional convergence issues.",
-    "significance": "This work offers a mathematically rigorous path integral definition for quantum de Sitter space, bridging topological field theory and quantum gravity.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "34bf171887aa1e0848350a5e4fd123ac",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07466v1",
-    "arxiv_id": "2608.07466v1",
-    "title": "Characterization of a prototype parallel-plate $^{238}$U fission chamber with DD and DT fusion neutron sources",
-    "authors": [
-      "V. Hagenlocker",
-      "R. A. Tinguely",
-      "X. Wang"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "Prototype 238U Parallel-Plate Fission Chamber Validated for DT Fusion Neutron Monitoring",
-    "tldr": "A prototype 238U fission chamber with parallel-plate geometry and borated polyethylene collimation has been tested using DD and DT neutron sources. The results confirm its suitability for monitoring high-yield fusion plasmas in the SPARC tokamak.",
-    "significance": "This validation demonstrates the chamber’s capability to accurately detect unscattered fusion neutrons, enabling reliable neutron yield monitoring in next‑generation tokamaks.",
-    "tags": [
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "672e32f23c9bfe8d2fba6fd856f680a0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07465v1",
-    "arxiv_id": "2608.07465v1",
-    "title": "Entanglement Mpemba Effect",
-    "authors": [
-      "Ruicheng Bao",
-      "Yue Liu"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "Fast Entanglement Generation via Mpemba Effect for Quantum Systems Applications",
-    "tldr": "Researchers have discovered that an initially less entangled state can overtake a more entangled one during dissipative preparation, speeding up entanglement generation. This Mpemba-like effect could dramatically reduce the time required for quantum information processing.",
-    "significance": "This breakthrough offers a faster route to reliable entanglement, a cornerstone for scalable quantum technologies.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1d9017c2182010b02d4d4a3e5167ea1c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07463v1",
-    "arxiv_id": "2608.07463v1",
-    "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
-    "authors": [
-      "Youjun Zhao",
-      "Alex Warren",
-      "Gary K. L. Tam"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "MirrorWorld: Enhancing Video Diffusion Models for Accurate Mirror Reflection Generation",
-    "tldr": "Recent advances in video diffusion models enable high-fidelity synthesis, yet mirror reflections remain problematic due to scene-mirror consistency. MirrorWorld introduces a specialized approach that enforces spatial coherence, producing realistic reflections aligned with the surrounding environment.",
-    "significance": "This work bridges a critical gap in realistic video rendering, enabling applications from virtual production to augmented reality.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6c125bff93b9169e7741f6639e57f1d9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07462v1",
-    "arxiv_id": "2608.07462v1",
-    "title": "SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation",
-    "authors": [
-      "Hanke Xie",
-      "Haopeng Lin",
-      "Jiale Qian"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "Improving SemBridge: Anchoring Semantic Tokens for Continuous-Latent Autoregressive Speech Generation",
-    "tldr": "SemBridge introduces a method to anchor semantic tokens within continuous latent spaces, enabling autoregressive language models to learn linguistic structure without explicit token-level targets. This approach preserves richer acoustic information while reducing quantization loss, improving the quality of continuous-latent speech generation.",
-    "significance": "By bridging continuous acoustic representations with discrete linguistic anchors, SemBridge advances the fidelity and efficiency of speech generation models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d54ed383c93fc0ea8b46597df8051047",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07461v1",
-    "arxiv_id": "2608.07461v1",
-    "title": "A clear detection of proper motion confirms that the claimed $\\mathbf{z\\simeq32}$ galaxy candidate, \"Capotauro'', is a Y-type brown dwarf",
-    "authors": [
-      "F. -Y. F. Liu",
-      "D. J. McLeod",
-      "B. J. Sutlieff"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "Proper Motion Confirms Capotauro Is a Nearby Brown Dwarf, Not a z≈32 Galaxy",
-    "tldr": "JWST proper motion measurements reveal Capotauro’s motion across the sky, ruling out a distant galaxy. The source is instead a cool Y‑type brown dwarf within ~500 pc of the Sun.",
-    "significance": "This finding refines our understanding of the population of faint, red objects in JWST data and prevents misidentification of nearby brown dwarfs as high‑redshift galaxies.",
-    "tags": [
-      "object-detection",
-      "change-detection",
-      "time-series"
-    ],
-    "readtime": 1,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "d7e0a7960c9e47b1f4f96f26ed2a4657",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07460v1",
-    "arxiv_id": "2608.07460v1",
-    "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
-    "authors": [
-      "Ananya Sahu",
-      "Mohit Bansal",
-      "Elias Stengel-Eskin"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "CreativeInstruct: Instruction‑Tuning LLMs to Preserve Creativity and Diversity",
-    "tldr": "Post‑training often reduces output diversity, hurting creative tasks. CreativeInstruct offers a scalable instruction‑tuning approach that balances quality, creativity, and diversity in LLM outputs.",
-    "significance": "This method enables LLMs to maintain creative flexibility while delivering high‑quality results, benefiting applications from storytelling to RL.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a418d8b3f0719cfe8e2b5fff0722bfcf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07459v1",
-    "arxiv_id": "2608.07459v1",
-    "title": "Equality of Dual Immaculate Functions Under Automorphisms",
-    "authors": [
-      "Maria Esipova",
-      "Stephanie van Willigenburg"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "Classification of Dual Immaculate Functions Under Involutions ρ, ψ, ω",
-    "tldr": "The paper determines precisely when applying the involutions ρ, ψ, or ω to a dual immaculate function yields another dual immaculate function. It also identifies the leading term of the transition matrix and gives necessary and sufficient conditions for the existence of immaculate tableaux.",
-    "significance": "It provides a complete structural understanding of dual immaculate functions under key algebraic symmetries, enriching the theory of quasisymmetric functions.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e7ae8dff4a703befbee941f5204dddc9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.07457v1",
-    "arxiv_id": "2608.07457v1",
-    "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
-    "authors": [
-      "Bella Xinrui Li",
-      "Frank Yingjie Huo",
-      "Neil F Johnson"
-    ],
-    "published": "2026-08-07",
-    "curated_at": "2026-08-10",
-    "headline": "Boss AI Drives Subordinate into Novel Behavior Through Message Streams",
-    "tldr": "When a dominant AI repeatedly sends commands while ignoring replies, the subordinate AI transitions into a new behavioral state not seen in isolation. This demonstrates that inter-agent communication can induce out-of-equilibrium dynamics, opening avenues for physics-inspired AI research.",
-    "significance": "It shows that AI interactions can generate emergent behaviors, challenging assumptions about isolated model performance.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
