@@ -1,5 +1,169 @@
 [
   {
+    "uid": "898507b2639540014e546a36a16bbc3c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.14549v1",
+    "arxiv_id": "2608.14549v1",
+    "title": "Blazar Boosted Dark Matter in IceCube",
+    "authors": [
+      "Alberto M. Gago",
+      "Jaime Hoefken Zink",
+      "Joel Jones-Pérez"
+    ],
+    "published": "2026-08-14",
+    "curated_at": "2026-08-17",
+    "headline": "IceCube Probes Blazar-Boosted Dark Matter with 324 Blazar Sample",
+    "tldr": "We evaluate IceCube's sensitivity to dark matter accelerated by blazar jets, modeling 324 blazars with inferred proton spectra. Our analysis shows that conservative dark matter spike profiles still allow detectable neutrino fluxes, setting new constraints on fermionic dark matter with vector mediators.",
+    "significance": "This study links high-energy astrophysics and particle physics, offering a novel probe of dark matter interactions via blazar environments.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "81a8bccd50e186c542cba6b48ef55d8d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.14548v1",
+    "arxiv_id": "2608.14548v1",
+    "title": "Forging Self-Funded Marketplaces among Strategic Agents",
+    "authors": [
+      "Yuan Deng",
+      "Vasilis Gkatzelis",
+      "Xizhi Tan"
+    ],
+    "published": "2026-08-14",
+    "curated_at": "2026-08-17",
+    "headline": "Designing Incentive Mechanisms for Self-Funded Marketplaces Among Strategic Agents in Competitive Environments",
+    "tldr": "We study how to design mechanisms that motivate agents to invest effort in a marketplace that they collectively fund. By modeling effort costs and revenues, we characterize conditions under which self-sustaining equilibria exist.",
+    "significance": "This work provides foundational insights for building decentralized platforms where participants jointly finance and sustain economic activity.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "15644d7e813183c55810be07bdef9fe2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.14546v1",
+    "arxiv_id": "2608.14546v1",
+    "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+    "authors": [
+      "Qinye Zhou",
+      "Jun Zheng",
+      "Yongchao Du"
+    ],
+    "published": "2026-08-14",
+    "curated_at": "2026-08-17",
+    "headline": "CPI-Bench: A Comprehensive, Practical, Intelligent Benchmark for Real-World Image Editing Models",
+    "tldr": "CPI-Bench introduces a comprehensive, practical, and intelligent benchmark designed to evaluate image editing models in real-world scenarios. It expands beyond single-image tasks, offering diverse coverage dimensions to better differentiate performance across advanced models.",
+    "significance": "By providing a more realistic assessment framework, CPI-Bench accelerates the deployment of cutting-edge image editing technologies in practical applications.",
+    "tags": [
+      "benchmark",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8f7f1c788727b3fb48137985eb46d24e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.14545v1",
+    "arxiv_id": "2608.14545v1",
+    "title": "Compressive Domains and a Bound for the Number of Components of the Fixed Locus of a Self-Map of the Berkovich Line",
+    "authors": [
+      "Xander Faber",
+      "Niladri Patra"
+    ],
+    "published": "2026-08-14",
+    "curated_at": "2026-08-17",
+    "headline": "Bound on Fixed Locus Components via Compressive Domains",
+    "tldr": "We define compressive domains for rational maps on the Berkovich line, show they contain a classical fixed point, and use this to bound the number of connected components of the fixed locus.",
+    "significance": "Provides a sharp upper bound on fixed locus components, advancing understanding of dynamics on nonarchimedean analytic spaces.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "085cfd95424db6b5ced51ababde7353a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.14539v1",
+    "arxiv_id": "2608.14539v1",
+    "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+    "authors": [
+      "Karel Becerra",
+      "Boris Mederos",
+      "Dean Snow"
+    ],
+    "published": "2026-08-14",
+    "curated_at": "2026-08-17",
+    "headline": "Uncertainty-Aware Deep Learning Decodes Sex of Prehistoric Hand Stencil Artists",
+    "tldr": "We present a deep learning framework that incorporates uncertainty estimation to classify the biological sex of artists who created Upper Paleolithic hand stencils, overcoming challenges like lack of ground truth and image degradation. The model leverages transfer learning from contemporary populations and outputs probabilistic predictions, offering a robust tool for archaeologists.",
+    "significance": "This approach provides archaeologists with a statistically grounded method to infer gender roles in prehistoric societies, bridging a critical gap in cultural anthropology.",
+    "tags": [
+      "foundation-models",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ab026b8348810672faee3ae13e526f85",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.14533v1",
+    "arxiv_id": "2608.14533v1",
+    "title": "Finding Vulnerabilities via LLM-Augmented Semantics-Aware Type-Checking",
+    "authors": [
+      "Ruizhe Wang",
+      "Meng Xu",
+      "N. Asokan"
+    ],
+    "published": "2026-08-14",
+    "curated_at": "2026-08-17",
+    "headline": "Leveraging LLMs for Semantics-Aware Type-Checking and Improved Vulnerability Detection in Complex Codebases",
+    "tldr": "Traditional static analysis relies on syntactic rules, missing semantic cues like variable names. This study introduces an LLM-augmented type-checker that captures semantic context, improving vulnerability detection accuracy.",
+    "significance": "By integrating LLMs, the approach bridges the gap between syntax and semantics, enabling more precise security analysis.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e7d75a33d0e17491b2f289fac8e33f11",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.14532v1",
+    "arxiv_id": "2608.14532v1",
+    "title": "Trust Without Boundaries: An Architectural Analysis of Satellite Flight Software",
+    "authors": [
+      "Jack Vanlyssel",
+      "Gruia-Catalin Roman",
+      "Kendra Cook"
+    ],
+    "published": "2026-08-14",
+    "curated_at": "2026-08-17",
+    "headline": "Breaking the Trust Barrier: Analyzing Satellite Flight Software Architecture for Secure Operations",
+    "tldr": "Onboard flight software is a critical security boundary in modern spacecraft. Our analysis of NASA's Core Flight Software reveals that treating components as trusted peers limits isolation and access control, exposing vulnerabilities.",
+    "significance": "Understanding these architectural weaknesses is essential for designing resilient, secure satellite systems.",
+    "tags": [
+      "open-source",
+      "real-time",
+      "remote-sensing"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "5a38c7bea7c1ca2bcb3c6f464cd13840",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.13548v1",
@@ -1201,175 +1365,6 @@
       "real-time"
     ],
     "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1bd56ab6721083974a37774bf3f24e5e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09926v1",
-    "arxiv_id": "2608.09926v1",
-    "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
-    "authors": [
-      "Haodong Li",
-      "Shaoteng Liu",
-      "Tianyu Wang"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Modeling Video Dynamics with Latent Dynamics Reasoning for Accurate Future Frame Prediction",
-    "tldr": "Latent Dynamics Reasoning (LDR) explicitly models latent transitions in video diffusion models, capturing pixel-level dynamics over time. This allows for accurate future frame predictions that adhere to the underlying laws of motion.",
-    "significance": "By integrating explicit latent dynamics, LDR improves the physical fidelity of video generation, bridging the gap between visual plausibility and dynamical correctness.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "38c6e29f35c2e7094d67e037a80382d3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09925v1",
-    "arxiv_id": "2608.09925v1",
-    "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
-    "authors": [
-      "Laurens Samson",
-      "Iva Gornishka",
-      "Gossa Lô"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Evaluating Dutch Government LLMs: From Values to a Practical Benchmark",
-    "tldr": "The 'Grip on LLMs' framework offers a systematic way to assess large language models for Dutch governmental use, aligning technical performance with public administration values. Developed with municipal experts, it provides a multilingual, open-source benchmark that can guide policy and deployment decisions.",
-    "significance": "It bridges the gap between AI evaluation and Dutch public sector needs, ensuring responsible and context‑appropriate LLM deployment.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "75bd13248abdad1fdd17cb296704ec4f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09922v1",
-    "arxiv_id": "2608.09922v1",
-    "title": "The quadratic growth of Krylov spread complexity in the BTZ black hole",
-    "authors": [
-      "Aranya Bhattacharya",
-      "Mario Flory",
-      "Michal P. Heller"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Quadratic Growth of Krylov Spread Complexity in BTZ Black Holes",
-    "tldr": "The study demonstrates that Krylov spread complexity grows quadratically in BTZ black holes, using a partition-function approach for thermofield-double states. This provides a dimension‑independent boundary reconstruction from semiclassical holographic partition functions.",
-    "significance": "It offers a new quantitative tool to probe black‑hole interior dynamics beyond 2D dilaton gravity.",
-    "tags": [
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c0a24d87404e5e260ab1c503cce69691",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09921v1",
-    "arxiv_id": "2608.09921v1",
-    "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
-    "authors": [
-      "Alban Puech",
-      "Matteo Mazzonelli",
-      "Tamara R. Govindasamy"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "GENCO: A Unified Neural Solver for Real-Time Steady-State Power Grid Analysis",
-    "tldr": "GENCO integrates foundation-model techniques into a development framework to solve power flow and optimal power flow problems with physical consistency. It offers real-time performance and open-source accessibility, setting a new benchmark for neural power grid solvers.",
-    "significance": "GENCO demonstrates that foundation models can reliably enforce physical constraints in power system analysis, enabling faster and more accurate grid operation tools.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c75c947a27640a21cbe03e38fa1a81ba",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09920v1",
-    "arxiv_id": "2608.09920v1",
-    "title": "IPA: Morphology and Kinematics of Molecular Hydrogen Winds in Five Young Protostars across the Mass Spectrum Observed with JWST",
-    "authors": [
-      "Himanshu Tyagi",
-      "P. Manoj",
-      "Mayank Narang"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "JWST Reveals Molecular Hydrogen Winds in Protostars Across Mass Range",
-    "tldr": "Using JWST's NIRSpec/IFU and MIRI/MRS, we mapped H2 emission in five protostars spanning 0.2–10^4 L☉, revealing diverse wind morphologies and kinematics. These observations suggest molecular outflows play a key role in angular momentum transport during early stellar evolution.",
-    "significance": "The study provides the first high-resolution, multi-wavelength view of protostellar molecular winds, informing models of star formation across the mass spectrum.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "705a318e4c0e2354db96071cd0048ec4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09919v1",
-    "arxiv_id": "2608.09919v1",
-    "title": "Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models",
-    "authors": [
-      "Jonhnanthan Oliveira",
-      "Rohit Gheyi",
-      "Márcio Ribeiro"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Using Foundation Models to Detect Behavioral Shifts in Python Refactoring",
-    "tldr": "Automated refactoring of Python code can inadvertently alter behavior. This study applies foundation models to identify such changes, improving reliability of refactoring tools.",
-    "significance": "Detecting behavioral changes ensures safer automated refactoring, reducing bugs in evolving codebases.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5013afa88ba7dc815cd16046d21e53c6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09918v1",
-    "arxiv_id": "2608.09918v1",
-    "title": "Ricci-flat metrics from gauged linear $σ$-models without RG flow",
-    "authors": [
-      "Dmitri Bykov",
-      "Ondrej Hulik",
-      "Ulf Lindström"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Explicit Ricci-flat Kähler Metrics via GLSMs with Indefinite Signatures on Generalized Conifolds",
-    "tldr": "We construct Ricci-flat Kähler metrics on complex cones over products of projective spaces using gauged linear sigma models that include negatively signed superfields. These explicit metrics are obtained without invoking renormalization group flow, offering new tools for studying generalized conifolds.",
-    "significance": "This work supplies closed-form Ricci-flat metrics on a broad class of noncompact Calabi–Yau spaces, advancing both mathematical physics and complex geometry.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
     "difficulty": "advanced"
   }
 ]
