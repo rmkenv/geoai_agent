@@ -1,5 +1,286 @@
 [
   {
+    "uid": "6aa02640c0bc11997dbe7bdac562f003",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16889v1",
+    "arxiv_id": "2608.16889v1",
+    "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+    "authors": [
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Emilio Ferrara"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "LLM-Powered Subtask Planning Boosts Long-Horizon Robot Manipulation by Freezing Vision-Language Models",
+    "tldr": "The authors freeze vision-language-action models and let an LLM agent plan subtask sequences in language. This approach reduces error compounding and allows robots to execute long-horizon manipulation chains more reliably.",
+    "significance": "It demonstrates that LLM-driven subtask planning can overcome limitations of end-to-end VLA models in complex, multi-stage robotic tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "62f8b0a013dbd18585c66afc3537cdad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16888v1",
+    "arxiv_id": "2608.16888v1",
+    "title": "Q-based Variational Inverse Reinforcement Learning",
+    "authors": [
+      "Ondrej Bajgar",
+      "Peter Tisnikar",
+      "Alessandro Abate"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Q-Based Variational Inverse Reinforcement Learning: A Bayesian Approach to Preference Inference",
+    "tldr": "Q-based Variational IRL (QVIRL) introduces a Bayesian framework that infers reward functions from expert behavior using Q-functions. The method improves safety and alignment in AI by learning human preferences more efficiently.",
+    "significance": "QVIRL offers a principled way to align AI systems with human values, enhancing both safety and performance.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "56aa85a80d738b3dcecd655eaf6352b9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16887v1",
+    "arxiv_id": "2608.16887v1",
+    "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+    "authors": [
+      "Dengyang Jiang",
+      "Ruoyi Du",
+      "Zhennan Chen"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Training Pixel-Space Diffusion Models to Rival Latent Counterparts: An Empirical Guide",
+    "tldr": "This study presents a practical recipe for training pixel-space text-to-image diffusion models that match or surpass latent-space models. Through extensive experiments, the authors identify key architectural and training choices that yield state-of-the-art performance.",
+    "significance": "It bridges the gap between pixel-space and latent-space diffusion, providing a reproducible framework for high-quality image generation.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5e20cf4ce7816722d59e2ad63bedf4a6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16886v1",
+    "arxiv_id": "2608.16886v1",
+    "title": "Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs",
+    "authors": [
+      "Qi Zhao",
+      "Marjory Pineda",
+      "Ketul Chhaya"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Collective Assessment of AI-Generated Business Plans for Resource-Constrained Entrepreneurs in Emerging Markets",
+    "tldr": "Entrepreneurs rely on generative AI for critical documents, but errors can jeopardize funding. This study explores collaborative evaluation methods beyond the screen to improve accuracy for resource-constrained users.",
+    "significance": "The research offers a scalable framework for improving AI-generated business plan reliability, crucial for small business financing.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4b1ef3c012dd1107f03e872ec41629a9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16885v1",
+    "arxiv_id": "2608.16885v1",
+    "title": "$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+    "authors": [
+      "Xiaowei Cai",
+      "Yunuo Cai",
+      "Bingao Chen"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "τ0-VLA: Hierarchical Robot Foundation Model with Adaptive Test-Time Computation for Long-Horizon Tasks",
+    "tldr": "τ0-VLA introduces a hierarchical vision-language-action framework that allocates extra computation to challenging decisions, improving long-horizon robot manipulation. By leveraging a world model at test time, it dynamically balances speed and accuracy for complex tasks.",
+    "significance": "This approach enables more reliable and efficient robot planning by adaptively investing computational resources where they matter most.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b28d2df9de2cd85a8fab7df93f1d102c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16881v1",
+    "arxiv_id": "2608.16881v1",
+    "title": "Simplicial Actions for Distributed Protocols",
+    "authors": [
+      "Philip Sink"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Simplicial Action Models for Distributed Protocols: Advancing Modal Logic in Complex Systems",
+    "tldr": "This paper extends the semantics of belief revision in simplicial complexes by integrating action models, enabling dynamic epistemic reasoning in distributed protocols. The authors demonstrate how these models capture protocol updates and provide a framework for analyzing knowledge evolution in multi-agent systems.",
+    "significance": "By bridging simplicial semantics with action models, the work offers a novel tool for formal verification of distributed protocols, enhancing robustness and transparency.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "823bf87346a91b7bf1b5dbb63a0f93e1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16878v1",
+    "arxiv_id": "2608.16878v1",
+    "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
+    "authors": [
+      "Yunbum Kook",
+      "Santosh S. Vempala"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Spectral Gap Bounds for Hit-and-Run and Coordinate Hit-and-Run in Convex Bodies",
+    "tldr": "The paper establishes a lower bound on the spectral gap of the Hit‑and‑Run algorithm in terms of the Poincaré constant of the target distribution over a convex body. It also extends the analysis to the Coordinate Hit‑and‑Run variant, yielding similar convergence guarantees.",
+    "significance": "These results provide the first rigorous mixing time bounds for Hit‑and‑Run in high dimensions, improving our understanding of random walk sampling algorithms.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "100c33e9fc743622c131f35b5f60e0d2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16879v1",
+    "arxiv_id": "2608.16879v1",
+    "title": "On the relations between several notions of symmetry for the second order linear differential equation",
+    "authors": [
+      "David Blázquez-Sanz",
+      "Santiago Alexis Aguirre Agudelo"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Symmetry Correspondence in Second-Order Linear ODEs",
+    "tldr": "The paper establishes explicit links between Lie point, vertical, and operator symmetries for second-order linear differential equations, and describes the Lie algebra of infinite symmetries.",
+    "significance": "It unifies disparate symmetry concepts, facilitating deeper analysis of linear ODEs.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b7704ef46eb50dfb501d581a103295e9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16874v1",
+    "arxiv_id": "2608.16874v1",
+    "title": "Size matters more than packing in bimodal colloidal gel compositions",
+    "authors": [
+      "Robert A. Campbell",
+      "Ziye Zhuang",
+      "Ali Mohraz"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Particle Size Trumps Packing in Bimodal Colloidal Gels",
+    "tldr": "Simulations of bimodal colloidal gels with a 1:2 size ratio show that increasing the proportion of large particles enhances gel strength more than changes in local packing density. The study highlights particle size as the dominant factor in determining mechanical properties of depletion gels.",
+    "significance": "This work challenges the conventional focus on packing density, emphasizing particle size as the key design parameter for colloidal gel formulations.",
+    "tags": [
+      "diffusion-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "885d9d50bab3f8d832a35891de85ae50",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16872v1",
+    "arxiv_id": "2608.16872v1",
+    "title": "Impression Share Prediction: An Offline Evaluation Task for Ranking Systems",
+    "authors": [
+      "Mohsen Malmir",
+      "Houssam Nassif",
+      "Danish Nasir Shaikh"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Predicting Impression Share: Offline Evaluation for Ranking System Effectiveness",
+    "tldr": "Offline metrics often miss how ranking models shift impression distribution, potentially harming downstream outcomes. This paper proposes a method to predict impression share shifts, enabling better pre-deployment assessment.",
+    "significance": "Accurately forecasting impression share changes allows practitioners to avoid costly online failures and align models with business goals.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "33d0e33937866703c74583af676a2670",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16871v1",
+    "arxiv_id": "2608.16871v1",
+    "title": "Biophysics-informed deep operator learning for inverse problems with application to electrophysiological source reconstruction",
+    "authors": [
+      "Eardi Lila",
+      "Erica R. Peterson",
+      "Alexis N. Bosseler"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Deep Operator Learning Illuminates Neural Source Reconstruction from Noisy Brain Signals",
+    "tldr": "By integrating biophysical constraints into deep operator networks, researchers can more accurately recover hidden neural activity from indirect, noisy measurements. This approach improves the stability and speed of electrophysiological source reconstruction.",
+    "significance": "It offers a robust, physics-informed framework that could enhance real-time brain mapping for clinical and research applications.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "031f35eda818d0bc018d6af3451fe479",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.16870v1",
+    "arxiv_id": "2608.16870v1",
+    "title": "Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning",
+    "authors": [
+      "Serena Su",
+      "Yifan Wang",
+      "Senwei Liang"
+    ],
+    "published": "2026-08-17",
+    "curated_at": "2026-08-18",
+    "headline": "Data-Efficient Deep Learning Classifies Tumor Cell Phenotypes from Microfluidic Trajectories",
+    "tldr": "The study presents a data‑efficient deep‑learning framework that interprets the kinematic trajectories of circulating tumor cells in microfluidic obstacle courses to classify phenotypes. By leveraging limited labeled data and explainable model components, it offers a rapid, label‑free diagnostic tool for metastatic potential assessment.",
+    "significance": "This approach enables rapid, interpretable phenotyping of circulating tumor cells without labeling, potentially accelerating personalized cancer diagnostics.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "898507b2639540014e546a36a16bbc3c",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.14549v1",
@@ -1099,272 +1380,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "c372756dc3050e8979c1ab5331fba6b3",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "Remote Sensing Change Detection: Datasets, Tools, Methods, and Competitions Overview",
-    "tldr": "This repository aggregates the latest datasets, tools, and research for remote sensing change detection. It serves as a go-to resource for researchers and practitioners seeking benchmarks and competitions.",
-    "significance": "It accelerates progress in monitoring environmental and urban changes by centralizing essential resources.",
-    "tags": [
-      "remote-sensing",
-      "change-detection",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1785692639303012acc70ffb83d999f5",
-    "source": "web",
-    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
-    "arxiv_id": "",
-    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "NASA Unveils Galileo, Open-Source Multimodal Model for Earth Observation and Analysis",
-    "tldr": "NASA has released Galileo, an open-source foundation model that processes satellite imagery, time-series, and tabular data in a unified architecture. The model’s patch-based tokenization enables advanced tasks like change detection, segmentation, and urban AI applications.",
-    "significance": "Galileo democratizes multimodal Earth observation, enabling researchers worldwide to perform complex analyses without proprietary software.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d7f2f215fb0c6f21acbef1a9b7ee0e6f",
-    "source": "web",
-    "url": "https://evermx.com/open-source/geoai-geospatial-artificial-intelligence",
-    "arxiv_id": "",
-    "title": "GeoAI - Open Source AI Project - Evermx",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "GeoAI: Bridging AI and Geospatial Analysis with Open-Source Deep Learning",
-    "tldr": "GeoAI is a Python package that unifies deep learning with satellite imagery and aerial photos, enabling advanced geospatial analysis and visualization. Developed by the opengeos community, it offers a flexible framework for tasks like segmentation, object detection, and change detection.",
-    "significance": "It democratizes AI-driven geospatial insights by providing an open-source, extensible platform for researchers and practitioners.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "762c83592693d584bfc0fba64f7899ac",
-    "source": "web",
-    "url": "https://github.com/mbzuai-oryx/ThinkGeo",
-    "arxiv_id": "",
-    "title": "GitHub - mbzuai-oryx/ThinkGeo: [CVPR 2026 ] ThinkGeo is a ...",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "ThinkGeo: A New Benchmark for LLMs on Remote Sensing Tasks",
-    "tldr": "ThinkGeo evaluates language model agents on complex satellite and aerial imagery tasks using structured tool use and step‑by‑step reasoning. It offers human‑curated queries across real‑world domains like disaster response, urban planning, and environmental monitoring.",
-    "significance": "It bridges the gap between natural language processing and geospatial intelligence, enabling more robust AI solutions for real‑world remote sensing challenges.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "benchmark",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "Raster Vision: Open-Source GIS Meets Deep Learning for Vision Tasks",
-    "tldr": "Raster Vision is an open-source framework that integrates GIS data with deep learning models for tasks such as semantic segmentation, object detection, and chip classification. It offers a configurable pipeline that simplifies the deployment of computer vision models on geospatial imagery.",
-    "significance": "It enables researchers and practitioners to apply state‑of‑the‑art deep learning to geospatial data without reinventing the wheel.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "76a848462cb579374f52b6c2e4ea0f19",
-    "source": "web",
-    "url": "https://sourceforge.net/directory/?q=remote%20sensing",
-    "arxiv_id": "",
-    "title": "remote sensing free download - SourceForge",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "Free Remote Sensing Toolkit on SourceForge: Code, Papers, and Hands-On Tools",
-    "tldr": "This guide offers free remote sensing resources from SourceForge, including code snippets, research papers, and practical tools. It serves researchers, engineers, and enthusiasts seeking to apply geospatial AI techniques.",
-    "significance": "It democratizes access to advanced remote sensing tools, enabling broader innovation in geospatial AI.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6597f8858b0f97288537ed0663913abf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09932v1",
-    "arxiv_id": "2608.09932v1",
-    "title": "Cell Natural Orbitals in Interacting Topological Bands",
-    "authors": [
-      "Nishchhal Verma",
-      "Harshitra Mahalingam",
-      "Daniel Muñoz-Segovia"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Singular-Value Decomposition of Density Form Factors for Topological Band Interactions",
-    "tldr": "Topological bands lack exponentially localized Wannier functions, complicating interaction representations. We propose a singular-value decomposition of projected density form factors to capture quantum geometry and form factors accurately.",
-    "significance": "This method provides a systematic way to represent interactions in topological bands, enabling more accurate modeling of correlated topological phases.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e30e418ab67b47f380a4841924807bc1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09931v1",
-    "arxiv_id": "2608.09931v1",
-    "title": "Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots",
-    "authors": [
-      "Shravan Venkatraman",
-      "Omkar Thawakar",
-      "Ritesh Thawkar"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Self-Contained Visual Distillation for Multimodal LLMs via Counterfactual Blind Spots",
-    "tldr": "The paper introduces CVPD, a method for visual distillation that uses counterfactual blind spots to provide dense token-level supervision without external annotations. This approach enables self‑improvement of multimodal large language models with richer feedback than traditional reward‑based methods.",
-    "significance": "CVPD offers a scalable, annotation‑free way to enhance multimodal LLMs, potentially accelerating advances in vision‑language AI.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d5a33b7ec33ce09b9b0584f28dc15cab",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09930v1",
-    "arxiv_id": "2608.09930v1",
-    "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
-    "authors": [
-      "Oluwanifemi Bamgbose",
-      "Simon Rosen",
-      "Jash Shah"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Evaluating TTS Quality: A Linguistically Grounded Analysis of Automated Naturalness Metrics",
-    "tldr": "This study dissects the concept of naturalness in TTS by creating a 10‑dimension annotation schema and tests whether popular MOS predictors and Audio‑LLM judges capture these dimensions. Results show that while some models correlate with overall naturalness, they miss key linguistic cues, highlighting the need for more nuanced benchmarks.",
-    "significance": "The findings reveal gaps in current automated TTS evaluation tools, guiding future development of more accurate, linguistically informed benchmarks.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3b7daac2a5f4267270a3d677b6876f2d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09929v1",
-    "arxiv_id": "2608.09929v1",
-    "title": "Realization Variance of Gravitational Wave Background Anisotropies from Shot Noise for Pulsar Timing Arrays",
-    "authors": [
-      "Meng-Xiang Lin",
-      "Adam Lidz",
-      "Chung-Pei Ma"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Shot-Noise Anisotropies in the nHz Gravitational Wave Background for Pulsar Timing Arrays",
-    "tldr": "Shot-noise anisotropies in the nanohertz gravitational wave background are a promising target for pulsar timing arrays. If the background originates from merging supermassive black hole binaries, the shot-noise signal could reach order unity at ~1 yr⁻¹, providing a powerful probe of the SMBHB population.",
-    "significance": "Detecting these anisotropies would directly constrain the merger rate and mass distribution of supermassive black hole binaries, offering a new window into galaxy evolution.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cb325bc3a9abc1d12cba032b48c74ffb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09928v1",
-    "arxiv_id": "2608.09928v1",
-    "title": "Multimodal Model Diffing for Feature Discovery and Control",
-    "authors": [
-      "Hunar Batra",
-      "Lachin Naghashyar",
-      "Ashkan Khakzar"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Unveiling Hidden Features in Multimodal LLMs for Improved Control and Transparency",
-    "tldr": "Researchers propose a method to decompose hidden states of multimodal large language models into interpretable feature directions using sparse autoencoders. This approach enables identification and control of features altered by multimodal training, aiding auditability and transparency.",
-    "significance": "The technique offers a new tool for auditing and steering multimodal LLMs, addressing a critical gap in model interpretability.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1b53eeb9dcc7d522989563b4cb61d4fa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.09927v1",
-    "arxiv_id": "2608.09927v1",
-    "title": "Dynamic $e$-closure for online hypotheses with any-time-valid evidence: closure principles and projective mergers",
-    "authors": [
-      "Rianne de Heide"
-    ],
-    "published": "2026-08-10",
-    "curated_at": "2026-08-11",
-    "headline": "Dynamic e-Closure for Online Hypothesis Testing with Any-Time-Valid Evidence",
-    "tldr": "We introduce a dynamic e-closure framework that accommodates both arriving hypotheses and evolving evidence, ensuring any-time-valid inference. The method leverages future-extension coherence to provide certificates for the random active true-null intersection at global stopping times.",
-    "significance": "This framework unifies sequential hypothesis testing across two dimensions, enabling robust real-time decision making in dynamic research settings.",
-    "tags": [
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
