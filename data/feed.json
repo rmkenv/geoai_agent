@@ -1,5 +1,332 @@
 [
   {
+    "uid": "c2d11f9baa24f89673303789ce891b9b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18077v1",
+    "arxiv_id": "2608.18077v1",
+    "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
+    "authors": [
+      "Hongyu Li",
+      "Bowen Wen",
+      "Xinghao Zhu"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Hydra-0: Generalist World Model Using Action Flow for Cross-Embodiment Control",
+    "tldr": "We present Hydra-0, a generalist world model that encodes robot actions as pixel motion, enabling shared visual interfaces across embodiments and tasks. The model achieves significant reductions in robot- and object-motion error compared to prior methods.",
+    "significance": "Hydra-0 demonstrates that action flow can unify world modeling and control across diverse robots and environments, paving the way for more adaptable autonomous systems.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6e9a8b56f711a38f255a31f15bf6ce8b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18076v1",
+    "arxiv_id": "2608.18076v1",
+    "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+    "authors": [
+      "Xingjian Wang",
+      "Zhao Wang",
+      "Taihang Hu"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Designing Data for Generalist Image Generation: A Capability-Centric Pipeline Approach",
+    "tldr": "The paper introduces a new data design paradigm that aligns heterogeneous supervision with interdependent generative capabilities, enabling more efficient training of generalist image generation models. By curating corpora in a capability-centric manner, the authors demonstrate improved performance across multiple generation tasks compared to conventional task-specific datasets.",
+    "significance": "This work provides a scalable framework for building versatile image generation systems that can adapt to diverse tasks without retraining separate models.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "76a35a6b779ce9ceeff12a6d1d181e68",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18073v1",
+    "arxiv_id": "2608.18073v1",
+    "title": "Analytic Continuation of Conformal Integrals in Momentum Space",
+    "authors": [
+      "Jonathan Gräfe",
+      "Prashanth Raman",
+      "Denis Werth"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Analytic Continuation of Conformal Triple‑K Integrals for Higher‑Point Correlators in Momentum Space",
+    "tldr": "This work extends the analytic continuation of triple‑K integrals, key building blocks of conformal correlators, to arbitrary complex dimensions. The results provide a systematic framework for evaluating higher‑point functions in momentum space.",
+    "significance": "It offers a unified method to compute conformal correlators, enhancing our ability to test holographic dualities and conformal bootstrap techniques.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e302b607149830db25b629f8af2b676e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18072v1",
+    "arxiv_id": "2608.18072v1",
+    "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+    "authors": [
+      "Iryna Hartsock",
+      "Cesar Lam",
+      "Christopher Otteni"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Multi-Agent AI System Enhances Radiology Report Structuring and Quality Assurance",
+    "tldr": "We developed a locally deployed multi-agent AI pipeline that structures and verifies radiology reports from CT scans. Evaluation on 638 reports from 15 radiologists shows improved consistency and reduced errors.",
+    "significance": "This study demonstrates that a multi-agent AI framework can reliably standardize radiology documentation, potentially improving clinical workflow and patient safety.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4d4e0b4db3596b18cb1eccc73c06fcc8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18071v1",
+    "arxiv_id": "2608.18071v1",
+    "title": "Ultrafast and high resolution spatial light modulation for cold atoms",
+    "authors": [
+      "Alexander Dennisovich Deters",
+      "Yanfei Li",
+      "Alexander Douglas"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Ultrafast, High-Resolution Spatial Light Modulation Enables Precise Control of Cold Atom Arrays",
+    "tldr": "A new ultrafast spatial light modulator provides high-resolution optical shaping, allowing precise local control of programmable ultracold atom arrays. This advancement accelerates quantum computation and simulation by enabling rapid, accurate manipulation of atomic qubits.",
+    "significance": "The technology dramatically improves the scalability and fidelity of quantum processors based on cold atoms.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5629cd707d52dc8cfee09a11d3555109",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18069v1",
+    "arxiv_id": "2608.18069v1",
+    "title": "Revisiting the Intra-Team Communication Method to Elicit Level-k Reasoning in Beauty Contests and 11-20 Games",
+    "authors": [
+      "Zitian Wang",
+      "Istiak Ahmed",
+      "Patarasate Unjitwattana"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Revisiting Intra-Team Communication for Level‑k Reasoning in Beauty Contests and 11‑20 Games",
+    "tldr": "We use intra‑team communication to uncover level‑0 strategies in beauty contests and 11‑20 games. The results show how higher‑level players evaluate these baseline actions.",
+    "significance": "It advances understanding of bounded rationality by linking communication methods to level‑k modeling.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b9a2d7e8e616f4256ddc9e7a13a249bd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18067v1",
+    "arxiv_id": "2608.18067v1",
+    "title": "Planning Against Learning in Rank-1 Games",
+    "authors": [
+      "William Overman"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Strategic Planning Against Learners in Rank‑1 Games: Optimizing for Replicator Dynamics",
+    "tldr": "In repeated multi‑agent settings, a player can anticipate and shape a learner’s future actions by planning against the learner’s adaptation dynamics. The paper shows that optimizing against the continuous‑time Replicator Dynamics is computationally tractable for rank‑1 games.",
+    "significance": "This work bridges game theory and online learning, enabling opponents to strategically influence learning agents in a tractable manner.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6ea7d66b9327f048ebe52d6d776527af",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18066v1",
+    "arxiv_id": "2608.18066v1",
+    "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "authors": [
+      "Qinyuan Ye",
+      "Yu Li",
+      "Yada Pruksachatkun"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Assessing the Reliability and Fragility of Memory‑Based Self‑Improving Agents in Online Learning",
+    "tldr": "This study re‑examines two memory‑based self‑improving agents, revealing significant variance due to task order and underspecification. The findings highlight the need for robust benchmarks and clearer specifications to ensure reliable performance.",
+    "significance": "It underscores that without careful evaluation, self‑improving agents may exhibit unpredictable behavior, jeopardizing their deployment.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "27296223a9d25f1e8a11e14fa1c08661",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18065v1",
+    "arxiv_id": "2608.18065v1",
+    "title": "Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States",
+    "authors": [
+      "Adil Attar",
+      "Amine M. Aboussalah",
+      "Mohamed Hibat-Allah"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Stabilizing Recurrent Neural Quantum States with Quantum Geometric Tensor Preconditioning",
+    "tldr": "This work introduces a preconditioning scheme based on the quantum geometric tensor to mitigate instability in training recurrent neural quantum states. Experiments demonstrate improved convergence and accuracy for ground-state estimation in many-body systems.",
+    "significance": "The method enables reliable training of autoregressive neural quantum states, advancing scalable quantum many-body simulations.",
+    "tags": [
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d977d460c803c72171fe9d298c94918c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18063v1",
+    "arxiv_id": "2608.18063v1",
+    "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
+    "authors": [
+      "Jiayi Song",
+      "Shijie Huang",
+      "Fangtai Wu"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "EDITBRIDGE: Efficient Ultra-High-Resolution Diffusion Editing Without Two-Stage Pipelines for Professional Workflows",
+    "tldr": "EDITBRIDGE introduces a novel diffusion-based framework that directly edits images at resolutions exceeding 4K, bypassing the memory bottleneck of traditional attention mechanisms. The method achieves high fidelity and speed, outperforming conventional two-stage low-resolution editing plus super-resolution pipelines on benchmark datasets.",
+    "significance": "By enabling faithful, efficient editing at ultra-high resolutions, EDITBRIDGE advances professional image processing and opens new possibilities for large-scale visual content creation.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "92740510984d00207e146213784edadd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18062v1",
+    "arxiv_id": "2608.18062v1",
+    "title": "TokEval: A Tokenizer Evaluation Suite",
+    "authors": [
+      "Clara Meister"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "TokEval: A Comprehensive Suite for Evaluating Language Model Tokenizers and Their Impact",
+    "tldr": "TokEval introduces a set of metrics that assess tokenizer design choices beyond token count, providing insights into how these choices influence downstream LLM performance. By offering a systematic evaluation framework, TokEval helps practitioners select tokenizers that align with specific model capabilities and application needs.",
+    "significance": "This framework enables more informed tokenizer selection, potentially improving LLM efficiency and effectiveness across diverse tasks.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6eb020335f7feca08a6f373a0ec0a5a8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18061v1",
+    "arxiv_id": "2608.18061v1",
+    "title": "The concentration game: Bayesian updating, regret, and information",
+    "authors": [
+      "Akshay Balsubramani"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Bayesian Updating Meets Regret Minimization in a Two-Player Zero-Sum Game",
+    "tldr": "We present a zero-sum repeated game where a learner updates beliefs via Bayesian inference while minimizing exponential-weight regret. The framework unifies concentration inequalities by linking terminal payoff to the maximum gain achievable under a fixed relative entropy constraint.",
+    "significance": "This work bridges game theory, Bayesian learning, and concentration results, offering a unified perspective on adaptive decision-making under uncertainty.",
+    "tags": [
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "016b0f2c9a3ab1399caef6bfbe41f3fc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18058v1",
+    "arxiv_id": "2608.18058v1",
+    "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
+    "authors": [
+      "Daria Leshchikova",
+      "Valentina V. Kuskova",
+      "Dmitry Zaytsev"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "When Users Accept Agentic Dating: Measuring Two‑Sided Receptivity in Online Matchmaking",
+    "tldr": "Autonomous LLM agents are increasingly used to converse on behalf of users in dating apps, but their success hinges on users’ willingness to both delegate and receive agent‑mediated messages. Our survey of 2,894 active users reveals a significant asymmetry in receptivity, highlighting the need for balanced design in agentic recommender systems.",
+    "significance": "Understanding this asymmetry is crucial for designing effective and user‑acceptable agentic matchmaking platforms.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1bb172711fbbc0147c11d6fa59ff4cc7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18056v1",
+    "arxiv_id": "2608.18056v1",
+    "title": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
+    "authors": [
+      "Xiao Wang",
+      "Shun Ren Yang",
+      "Hui Nien Hung"
+    ],
+    "published": "2026-08-18",
+    "curated_at": "2026-08-19",
+    "headline": "Hybrid Live-Forecast Vehicle Rerouting for Real-Time Congestion Avoidance",
+    "tldr": "Urban traffic congestion hampers productivity and raises costs. HLSR selectively reroutes vehicles by combining live edge speeds with short-horizon forecasts, improving real-time routing efficiency.",
+    "significance": "HLSR offers a practical, scalable solution that balances computational load with routing accuracy, enabling smarter traffic management in real-world settings.",
+    "tags": [
+      "urban-AI",
+      "real-time",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "6aa02640c0bc11997dbe7bdac562f003",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.16889v1",
@@ -1063,320 +1390,6 @@
       "LLM",
       "benchmark",
       "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cb5944ea16d7e5b6da83c9d4baeae265",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13544v1",
-    "arxiv_id": "2608.13544v1",
-    "title": "Skew Hives, Skew Skeps, Skew Schur Log-Concavity",
-    "authors": [
-      "Tuong Le",
-      "Son Nguyen"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "Skew Hives and Skew Skeps: A Unified Approach to Schur Log-Concavity",
-    "tldr": "We introduce skew hive and skew skep models that generalize both hives and skeps, and use them to prove a new skew Schur log-concavity theorem extending the Lam–Postnikov–Pylyavskyy result.",
-    "significance": "This work unifies two combinatorial frameworks and establishes a broad log-concavity property for skew Schur functions, advancing our understanding of symmetric function theory.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b293c9af4885e98d14968832431a1b3f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13541v1",
-    "arxiv_id": "2608.13541v1",
-    "title": "SCULPT: Subtractive Composition for 3D Part Generation",
-    "authors": [
-      "Sikuang Li",
-      "Chen Yang",
-      "Jiemin Fang"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "SCULPT: Subtractive Composition for Generating Editable 3D Parts in a Single Pass",
-    "tldr": "SCULPT introduces a subtractive approach that integrates part-awareness directly into the 3D generation loop, eliminating the need for post-hoc segmentation. The method produces coherent, editable parts that can be reused or animated, improving workflow efficiency for designers.",
-    "significance": "By embedding part structure during generation, SCULPT streamlines the creation of modular 3D assets, reducing time and computational overhead compared to segmentation-based pipelines.",
-    "tags": [
-      "diffusion-models",
-      "segmentation",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bf625323a3ed37feca6ff70c775d8b8a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.12319v1",
-    "arxiv_id": "2608.12319v1",
-    "title": "Emergent heavy fermion and superconductivity near Mott transition in twisted bilayer graphene",
-    "authors": [
-      "Ya-Hui Zhang"
-    ],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-13",
-    "headline": "Heavy-Fermion Behavior and Superconductivity Near Mott Transition in Twisted Bilayer Graphene",
-    "tldr": "We demonstrate that near a bandwidth‑tuned Mott transition in twisted bilayer graphene, the Fermi velocity and quasiparticle residue vanish, revealing heavy‑fermion physics. This emergent framework predicts superconductivity at integer fillings without invoking remote bands.",
-    "significance": "It provides a unified heavy‑fermion description of correlated states in twisted bilayer graphene, linking Mott physics to superconductivity.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ca24aa477b08d9c136e615fc39a9f0ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.12316v1",
-    "arxiv_id": "2608.12316v1",
-    "title": "Near optimal three-fold additive energy bound for points on convex curves",
-    "authors": [
-      "Adam Cushman",
-      "Ciprian Demeter",
-      "Shukun Wu"
-    ],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-13",
-    "headline": "Three-Fold Additive Energy Bound for Convex Curve Points Achieves Near-Optimal Growth",
-    "tldr": "The authors prove that the three-fold additive energy of points on a strictly convex curve is bounded by |X|^{3+ε}. This leads to improved lower bounds for sumsets of convex sequences, namely |A−A|≫|A|^{5/3−ε} and |A+A|≫|A|^{8/5−ε}.",
-    "significance": "These results sharpen our understanding of additive combinatorics on convex sets, approaching the conjectured optimal exponent.",
-    "tags": [
-      "spatial-reasoning",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d403eee9e9bc9946ce35f616296457aa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.12313v1",
-    "arxiv_id": "2608.12313v1",
-    "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-    "authors": [
-      "Chuyue Li",
-      "Jinpeng Yu",
-      "Haozhe Wang"
-    ],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-13",
-    "headline": "Agentic Video Auto-Encoder Enables Cinematic Video Learning for AI Agents",
-    "tldr": "The AVA-Encoder introduces a structured video representation that captures film-level semantics, allowing agents to reason and manipulate video content directly. It combines auto-encoding with agentic objectives, bridging the gap between cinematic data and agentic reasoning.",
-    "significance": "It provides the first agent-native video representation that supports high-level cinematic reasoning and manipulation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6742686a00129397567be58505c27b10",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.12311v1",
-    "arxiv_id": "2608.12311v1",
-    "title": "The Role Specialization Model (RSM): Coordinating LLM-Based Tools in Agentic Software Development - An Exploratory Case Study",
-    "authors": [
-      "Carlos Alberto Fernández-y-Fernández",
-      "Jorge R. Aguilar-Cisneros"
-    ],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-13",
-    "headline": "Coordinating LLM Tools in Agentic Software Development: The Role Specialization Model",
-    "tldr": "This study explores how three LLM-based tools—Antigravity, Gemini CLI, and Q—can be coordinated using the Role Specialization Model to support autonomous software development. The findings suggest that specialized roles improve efficiency and human oversight in Agentic SE 3.0.",
-    "significance": "By demonstrating a practical coordination framework, the paper advances the feasibility of fully autonomous software engineering under human supervision.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "14ac309b9740d39063f0153a20fc360a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.12308v1",
-    "arxiv_id": "2608.12308v1",
-    "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
-    "authors": [
-      "Yan Deng",
-      "Fei Xu"
-    ],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-13",
-    "headline": "DreamFly: Enhancing Aerial Vision-Language Navigation with Causal Memory and Diffusion Planning",
-    "tldr": "DreamFly introduces a causal memory module and a receding-horizon diffusion planner to improve aerial vision-language navigation under partial observability. By integrating long-term visual context and planning over future actions, the system outperforms existing models on aerial VLN benchmarks.",
-    "significance": "This work bridges the gap between vision-language navigation and aerial robotics, enabling more reliable navigation in complex, partially observable environments.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8267d3dd141336e27ce4b8a9b26b29ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.12307v1",
-    "arxiv_id": "2608.12307v1",
-    "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-    "authors": [
-      "Cheng Qian",
-      "Wenting Zhao",
-      "Liangwei Yang"
-    ],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-13",
-    "headline": "Test-Time Transfer: Strong Models Build Weak Ones on the Fly",
-    "tldr": "The authors show that a strong model can generate test-time harnesses to steer a weaker model during inference. This approach transfers capabilities without updating parameters, offering a new paradigm for model distillation.",
-    "significance": "It introduces a novel test-time distillation paradigm that could reduce the need for costly retraining of smaller models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "be6d2b0d47cba6abfe2a243b8a31c1c6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.12304v1",
-    "arxiv_id": "2608.12304v1",
-    "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
-    "authors": [
-      "Saman Marandi",
-      "Yu-Shu Hu",
-      "Mohammad Modarres"
-    ],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-13",
-    "headline": "Automating Dynamic Master Logic Models with Retrieval-Augmented LLMs for Complex System Diagnostics",
-    "tldr": "This paper introduces a framework that automatically builds Dynamic Master Logic models—hierarchical knowledge graphs linking objectives to system components—using retrieval-augmented large language models. The approach reduces reliance on expert interpretation, enabling scalable diagnostics for complex engineered systems.",
-    "significance": "By automating DML construction, the method accelerates system understanding and fault diagnosis, paving the way for more efficient maintenance of intricate infrastructures.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "186db57daced4f831d740281eb51beb4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.12302v1",
-    "arxiv_id": "2608.12302v1",
-    "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
-    "authors": [
-      "Di Yang Shi",
-      "W. Bradley Knox"
-    ],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-13",
-    "headline": "Framework for Human‑Aligned Reward Functions from Natural‑Language Objectives and Iterative Design",
-    "tldr": "We propose a three‑step process that turns a natural‑language task description into a linear reward function aligned with human preferences. The method distills objectives, measures outcomes, and iteratively refines the reward to match desired behavior.",
-    "significance": "This framework democratizes reward engineering, enabling non‑experts to create robust, preference‑aligned policies for complex AI systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d4446b2d5754997795eb525cfaead966",
-    "source": "web",
-    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
-    "arxiv_id": "",
-    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "2025 GeoAI Breakthroughs: From Real-Time Flood Detection to Urban Planning AI",
-    "tldr": "In 2025, GeoAI harnesses satellite imagery and LLMs to deliver real-time flood alerts and autonomous urban planning. These advances accelerate climate resilience and smart city development worldwide.",
-    "significance": "These innovations enable faster, data-driven responses to environmental crises and urban growth.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "urban-AI",
-      "flood-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "Charting the Future of Geospatial AI: From Integration to Innovation",
-    "tldr": "Geospatial AI blends spatial science with machine learning, rapidly evolving into a leading research frontier. This paper reviews recent progress and outlines future directions for the field.",
-    "significance": "Understanding GeoAI's trajectory is essential for leveraging spatial data to address global challenges.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
-    "source": "web",
-    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
-    "arxiv_id": "",
-    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "Top 5 GeoAI Trends to Watch in 2025: From Urban Planning to Agriculture",
-    "tldr": "GeoAI blends GIS and AI to unlock insights across sectors. In 2025, five key trends—urban AI, crop monitoring, flood detection, change detection, and real-time analytics—will shape the industry.",
-    "significance": "These trends will drive smarter decision-making and operational efficiency across urban, agricultural, and environmental domains.",
-    "tags": [
-      "urban-AI",
-      "crop-monitoring",
-      "flood-detection",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "079f3198282271621f612e9d277c56ab",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
-    "arxiv_id": "",
-    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
-    "authors": [],
-    "published": "2026-08-12",
-    "curated_at": "2026-08-12",
-    "headline": "GeoAI Revolutionizes Geospatial Insights: AI Meets Satellite Data for Smarter Decision-Making",
-    "tldr": "Artificial intelligence is transforming the geospatial industry by combining data, sensors, and AI-driven analysis. This shift, known as GeoAI, promises more accurate and actionable insights for organizations worldwide.",
-    "significance": "GeoAI is poised to redefine how organizations capture and interpret spatial information, unlocking new levels of efficiency and insight.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
