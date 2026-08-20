@@ -1,5 +1,212 @@
 [
   {
+    "uid": "5d8be4bb2f4eaf7ed12eb1642612e878",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19198v1",
+    "arxiv_id": "2608.19198v1",
+    "title": "Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows",
+    "authors": [
+      "Venkatkrishna Karumanchi",
+      "Ziv Goldfeld",
+      "Kengo Kato"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "Probabilistic Gromov–Wasserstein Gradient Flow Convergence",
+    "tldr": "The paper derives a probabilistic representation for the inner product Gromov–Wasserstein gradient flow of relative entropy with respect to a Gaussian measure, proving convergence and connecting it to diffusion processes and PDEs.",
+    "significance": "It links optimal transport theory with stochastic PDEs, providing new analytical tools for metric measure spaces.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "394d3defbb2904990c39bb08d35b1631",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19197v1",
+    "arxiv_id": "2608.19197v1",
+    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+    "authors": [
+      "Bo Liu",
+      "Simon Yu",
+      "Yiding Jiang"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "SPADE: Self-Play RL for Adaptive Synthetic Environments with LLMs",
+    "tldr": "SPADE introduces a self-play reinforcement learning framework that lets a single large language model generate and solve increasingly diverse synthetic goals. By continuously expanding its goal pool, the agent adapts to scaling challenges and improves performance without external supervision.",
+    "significance": "This approach enables language agents to autonomously evolve their training curriculum, overcoming the limitations of static goal distributions.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "09e25925e763339592af1c0ae0e55d60",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19194v1",
+    "arxiv_id": "2608.19194v1",
+    "title": "Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act",
+    "authors": [
+      "Nicola Fabiano"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "Using Qualified Cross-References to Verify EU AI Act Compliance Framework",
+    "tldr": "The paper proposes a method for representing legal cross-references with qualified links that capture legal character, supporting provisions, and conditions. This approach ensures consistency and verifiability across the EU AI Act’s normative environment.",
+    "significance": "It offers a systematic way to encode and verify legal relationships, enhancing transparency and compliance in AI governance.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "884d91bfc8f8dbb3cb1247a11378747d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19191v1",
+    "arxiv_id": "2608.19191v1",
+    "title": "The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications",
+    "authors": [
+      "Luis Adrián Lizama-Pérez"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "Reconstructing Primes from Totient Products: The Structured Totient Preimage Problem",
+    "tldr": "The Structured Totient Preimage (STP) problem asks to recover k distinct λ‑bit primes given only the product of their decremented values, x = ∏(p_i−1). While verifiable efficiently, the problem’s reconstruction hardness has implications for cryptographic constructions.",
+    "significance": "STP provides a new hard problem that could underpin cryptographic primitives and offers insight into prime reconstruction challenges.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "977adff93e202c1832846550a6131174",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19190v1",
+    "arxiv_id": "2608.19190v1",
+    "title": "SiNMULI: Novel Signed Network Approach for Malicious URL Identification",
+    "authors": [
+      "Avijit Gayen",
+      "Sayan Mondal",
+      "Angshuman Jana"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "SiNMULI: Signed Network Model Enhances Detection of Malicious URLs in Real-Time",
+    "tldr": "SiNMULI introduces a novel signed network framework that captures relationships between URLs and user interactions, improving phishing detection accuracy. The model leverages graph-based features and achieves state‑of‑the‑art performance on benchmark datasets.",
+    "significance": "By modeling malicious URL propagation as a signed network, SiNMULI offers a scalable, interpretable solution that outperforms traditional machine‑learning classifiers.",
+    "tags": [
+      "benchmark",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "27ab5fbf60ec6439698ffb116940ef5f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19188v1",
+    "arxiv_id": "2608.19188v1",
+    "title": "PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views",
+    "authors": [
+      "Ayush Kaura",
+      "Vignesh Vembar",
+      "Md Faizal Karim"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "PartialBiGrasp: Inferring Hidden Geometry for Dual-Arm Grasping from Partial Views",
+    "tldr": "PartialBiGrasp introduces a method to infer hidden local geometry for bimanual grasping using only partial point cloud views. By predicting sparse graspable regions from incomplete data, it enables dual-arm robots to manipulate large, complex objects that were previously ungraspable with single-arm approaches.",
+    "significance": "This approach expands the capability of dual-arm robots to handle large, geometrically complex objects by overcoming the limitation of incomplete sensor data.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "71c89dcaef3dc0fa0ddcb9242b819aab",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19186v1",
+    "arxiv_id": "2608.19186v1",
+    "title": "Diffuse HI emission in the circumgalactic medium of NGC891 and NGC4565 - III: azimuthal profiles",
+    "authors": [
+      "Mary Rickel",
+      "Sanskriti Das",
+      "Nickolas M. Pingel"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "Azimuthal Profiles of Diffuse HI Emission in the CGM of NGC891 and NGC4565",
+    "tldr": "The study maps the inner neutral circumgalactic medium around NGC891 and NGC4565, revealing a 360° view of HI inflows and co-rotation within 25–30 kpc. It confirms that minor‑axis inflows and major‑axis co‑rotation persist across the full azimuthal range.",
+    "significance": "These observations provide the most complete azimuthal characterization of neutral gas in nearby galaxy halos, refining models of gas accretion and disk–halo interaction.",
+    "tags": [
+      "remote-sensing",
+      "time-series",
+      "change-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7805745f348e8175d342fdec4f426def",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19184v1",
+    "arxiv_id": "2608.19184v1",
+    "title": "A Fast Deterministic Algorithm for $(Δ+1)$-edge coloring in CONGEST",
+    "authors": [
+      "Sebastian Brandt",
+      "Ananth Narayanan",
+      "Alexandre Nolin"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "Deterministic (Δ+1)-Edge Coloring Achieved in Polylogarithmic Rounds on CONGEST in Distributed Setting",
+    "tldr": "A recent deterministic algorithm finds a (Δ+1)-edge coloring in poly(Δ, log n) rounds in the CONGEST model, improving upon previous randomized methods. The technique leverages new combinatorial insights to overcome communication bottlenecks.",
+    "significance": "This result demonstrates that optimal edge coloring can be achieved deterministically in near-linear time on distributed networks, closing a long-standing gap between theory and practice.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f8a6f4d2cb3f3a4fcac4aa9e0bbc9406",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.19183v1",
+    "arxiv_id": "2608.19183v1",
+    "title": "The regular pentagon is canonically Ramsey",
+    "authors": [
+      "Benedict Randall Shaw"
+    ],
+    "published": "2026-08-19",
+    "curated_at": "2026-08-20",
+    "headline": "Canonical Ramsey Property of the Regular Pentagon Revealed",
+    "tldr": "Researchers proved that any colouring of a sufficiently large point set contains either a monochromatic or rainbow copy of a regular pentagon. This extends the canonical Ramsey theory beyond triangles to more complex polygons.",
+    "significance": "The result deepens our understanding of geometric configurations in combinatorial geometry, showing that even regular pentagons exhibit canonical Ramsey behaviour.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "c2d11f9baa24f89673303789ce891b9b",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.18077v1",
@@ -1179,219 +1386,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "299cf106103d6fcb526f4dd677aed66f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13558v1",
-    "arxiv_id": "2608.13558v1",
-    "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
-    "authors": [
-      "Bobo Li",
-      "Hao Fei",
-      "Tianjie Ju"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "OmniScientist: Leveraging Foundation Models to Automate End-to-End Scientific Discovery Across Disciplines",
-    "tldr": "OmniScientist uses foundation models to automate the full research cycle, from hypothesis generation to manuscript drafting. However, current systems lack direct access to raw evidence, limiting the depth of scientific insight.",
-    "significance": "This work demonstrates how omni-modal AI can streamline research workflows, but highlights the need for evidence-aware reasoning.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3d3c1eaee546998d3988975e6a7c6e2b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13557v1",
-    "arxiv_id": "2608.13557v1",
-    "title": "Localised Horizons and Holographic Thermodynamics: Supercooling in the 1/D Expansion",
-    "authors": [
-      "Prateek Agrawal",
-      "Gaurang Ramakant Kane",
-      "Vazha Loladze"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "1/D Expansion Reveals Supercooling Dynamics in Holographic Confinement Transitions",
-    "tldr": "Using a 1/D expansion in higher-dimensional Einstein-scalar gravity, the study predicts the thermal confinement transition in non-conformal gauge theories. The analysis uncovers a supercooling regime, offering a new framework for understanding phase transitions in holographic models.",
-    "significance": "This work provides a systematic, predictive tool for mapping confinement transitions in strongly coupled gauge theories, bridging holography and large-D techniques.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0d1efc42a00886155b260674eb84638c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13556v1",
-    "arxiv_id": "2608.13556v1",
-    "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
-    "authors": [
-      "Minghui Guo",
-      "Shengqiong Wu",
-      "Hao Fei"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "Reimagining Video Latent Spaces: V-RAE for Better Generation and Control",
-    "tldr": "V-RAE proposes a new video autoencoder that optimizes latent space for generative tasks rather than pixel reconstruction. This leads to richer semantic organization and improved performance in video generation.",
-    "significance": "By decoupling reconstruction from semantic fidelity, V-RAE enables more expressive generative models, advancing video synthesis capabilities.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "83913d736d9a0a002de2442c26ee8970",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13554v1",
-    "arxiv_id": "2608.13554v1",
-    "title": "Defensive Boosting for Online Probabilistic Forecasting",
-    "authors": [
-      "Georgy Noarov",
-      "Aaron Roth"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "Defensive Boosting Enhances Online Probabilistic Forecasting for Adaptive Adversaries",
-    "tldr": "This paper introduces a defensive boosting framework that improves online probabilistic forecasting of binary outcomes against adaptive adversaries. It achieves two incomparable guarantees—Brier score competitiveness and span-based prediction quality—using efficient boosting techniques.",
-    "significance": "It advances online learning by providing robust, high-performance probabilistic predictions in adversarial settings.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9d25957528e6202a17b3bd295f388132",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13552v1",
-    "arxiv_id": "2608.13552v1",
-    "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-    "authors": [
-      "Kaixin Ding",
-      "Xi Chen",
-      "Minghong Cai"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "PlayWorld: Benchmarking Video World Models via Long-Horizon Agent Interaction for Realistic Evaluation",
-    "tldr": "PlayWorld introduces a benchmark that uses agent players to evaluate video world models over long horizons, addressing the difficulty of fair comparison. The framework measures consistency, controllability, and task success in interactive settings.",
-    "significance": "This work provides a standardized, human-like evaluation protocol that can accelerate the development of more reliable and controllable video world models.",
-    "tags": [
-      "benchmark",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "17232683643997d3aaff0f23f0002981",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13549v1",
-    "arxiv_id": "2608.13549v1",
-    "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
-    "authors": [
-      "Mingyuan Zhang"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "Calibrating Multi‑Label Jaccard: An Exponential Convex Dimension Analysis",
-    "tldr": "This work establishes the nonsingularity of Jaccard‑based loss matrices and derives their affine dimension, providing a theoretical foundation for multi‑label evaluation. It also introduces a shifted‑loss formulation that preserves calibration properties while simplifying analysis.",
-    "significance": "It offers a rigorous mathematical framework that improves the reliability of multi‑label segmentation metrics used in computer vision and remote sensing.",
-    "tags": [
-      "segmentation",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7b8a3923832505494462202ebd2c073b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13547v1",
-    "arxiv_id": "2608.13547v1",
-    "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
-    "authors": [
-      "Shangao Li",
-      "Yao Zhang",
-      "Volker Tresp"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "QuoteBench Reveals Hidden Command-Path Failures in LLM Coding Agents Evaluation",
-    "tldr": "QuoteBench demonstrates that matched execution scores can mask failures introduced after LLM-generated Bash commands, by performing exact final-state validation across 56 one-shot tasks from 14 incident-derived families. The benchmark highlights the need for end-to-end validation to ensure reliable deployment of LLM coding agents.",
-    "significance": "This work exposes a critical blind spot in current LLM evaluation practices, urging the community to adopt stricter, state-based validation for safer automation.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "edf3e53a74af46b174bf25f1dd771b9b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13546v1",
-    "arxiv_id": "2608.13546v1",
-    "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
-    "authors": [
-      "Yuanyang Yin",
-      "Gongxuan Wang",
-      "Yifan Zhan"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "Alaya-EVOKE: Scaling Interactive World Models for Persistent Memory and Low-Latency Interaction",
-    "tldr": "Alaya‑EVOKE introduces a framework that balances long‑horizon generation with real‑time responsiveness by optimizing denoiser context and key‑value cache usage. The approach enables interactive world models to maintain persistent memory without sacrificing latency, paving the way for more immersive AI experiences.",
-    "significance": "This work addresses a core bottleneck in deploying large foundation models for real‑time, memory‑intensive applications, offering a scalable solution that could transform interactive AI systems.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9574133815db3bae958ac7ba0cbaefea",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13545v1",
-    "arxiv_id": "2608.13545v1",
-    "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
-    "authors": [
-      "Fanfei Li",
-      "Jana Zeller",
-      "Manuel Prada-Corral"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "Curated Elementary Curriculum for Language Model Training",
-    "tldr": "We introduce LITTLECURRICULUM, an 88B-token corpus of U.S. elementary school material, explicitly excluding advanced concepts to control knowledge exposure. This enables systematic study of how language models acquire knowledge and skills.",
-    "significance": "It offers a controlled benchmark for probing and improving LLM learning processes.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
