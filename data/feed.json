@@ -1,5 +1,287 @@
 [
   {
+    "uid": "5e03fc980df3865496d5eae5c4babf3d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20339v1",
+    "arxiv_id": "2608.20339v1",
+    "title": "An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors",
+    "authors": [
+      "Tiger Yu-Yang Hsiao",
+      "Danielle A. Berg",
+      "Steven L. Finkelstein"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "High Electron Densities Mimic Extremely Metal-Poor Galaxies: An Optical Illusion",
+    "tldr": "JWST observations revealed galaxies that appear extremely metal-poor, but high electron densities can mimic low metallicity signatures. This study shows that careful analysis of ionized gas conditions is essential to avoid misclassifying galaxies as first-generation systems.",
+    "significance": "The work cautions against overinterpreting low-metallicity signatures in early galaxies, refining the search for truly primordial galaxies.",
+    "tags": [
+      "remote-sensing",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "37e8e8a4bd1732b074c2e3845ce7c3fd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20338v1",
+    "arxiv_id": "2608.20338v1",
+    "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+    "authors": [
+      "Sahil Kale",
+      "Ian Harris"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "ConceptGuard: A New Benchmark for Context‑Sensitive Unlearning in Large Language Models",
+    "tldr": "ConceptGuard introduces a realistic evaluation framework that tests LLMs’ ability to forget context‑dependent knowledge without compromising unrelated facts. It moves beyond simple fact recall, addressing the nuanced demands of real‑world unlearning.",
+    "significance": "By revealing gaps in current unlearning methods, ConceptGuard pushes the development of safer, more controllable language models.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dbbde64fb7448b5e07d4aa5e8fa5d0fc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20335v1",
+    "arxiv_id": "2608.20335v1",
+    "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+    "authors": [
+      "Yudong Jin",
+      "Tao Xie",
+      "Qihang Zhang"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "4DAnyone: Reconstructing 4D Humans from Uncalibrated Monocular Video",
+    "tldr": "4DAnyone generates reconstruction‑grade, multiview‑consistent videos from a casual monocular clip and lifts them into 4D Gaussian Splatting, enabling 4D human reconstruction without camera calibration. It overcomes the view‑consistency limitations of existing diffusion models when scaling to dozens of target views.",
+    "significance": "This framework democratizes high‑fidelity 4D human reconstruction, allowing realistic avatars to be created from everyday videos without specialized hardware.",
+    "tags": [
+      "diffusion-models",
+      "point-cloud",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "25a8b8a7d4e97172a10d73c963f73e7e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20336v1",
+    "arxiv_id": "2608.20336v1",
+    "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+    "authors": [
+      "Hengyuan Xu",
+      "Qixun Wang",
+      "Yiji Cheng"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+    "tldr": "WithEveryone introduces a unified framework that simultaneously plans spatial layout and grounds identities for group image generation, ensuring each specified person appears in the correct location with accurate facial features. The method aligns noisy predicted faces through training-time identity losses, improving reliability over existing models.",
+    "significance": "This approach addresses a key limitation in multi-person image synthesis, enabling more accurate and scalable generation of complex scenes with multiple identities.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ce4d44fb8d2a543a4d8aa64d0c27e3af",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20334v1",
+    "arxiv_id": "2608.20334v1",
+    "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
+    "authors": [
+      "Taihang Hu",
+      "Zhao Wang",
+      "Zuan Gao"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "Swift-Image: Compact Unified Diffusion Model for Text-to-Image and Editing",
+    "tldr": "Swift-Image is a 6B single-stream DiT that unifies text-to-image generation and image editing in a single compact model. Through a progressive training pipeline and systematic engineering, it pushes the performance frontier while staying within a constrained computational budget.",
+    "significance": "It demonstrates that small, efficient diffusion models can achieve competitive performance across multiple vision tasks, enabling broader deployment.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2eafc01de16af90350a0a429796a0f06",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20329v1",
+    "arxiv_id": "2608.20329v1",
+    "title": "Production of quarkonium pairs via the fragmentation mechanism",
+    "authors": [
+      "Franco Barattini",
+      "Benjamin Guiot",
+      "Marat Siddikov"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "Fragmentation Mechanisms Drive Quarkonium Pair Production in High-Energy Collisions and Beyond",
+    "tldr": "We analyze how fragmentation processes contribute to the production of quarkonium pairs in hadronic collisions. A microscopic perturbative model for dihadron fragmentation functions is developed to quantify the double-hadron mechanism.",
+    "significance": "This work provides a quantitative framework for understanding quarkonium pair production, essential for interpreting LHC data and testing QCD factorization.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "33db22ad86c63e8f48cb297f31bc4fac",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20328v1",
+    "arxiv_id": "2608.20328v1",
+    "title": "The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics",
+    "authors": [
+      "Jiming Zheng",
+      "Zhiyue Lu"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "Memory Effects in Non-Markovian Jump Dynamics: A Trajectory-Level Fluctuation-Response Theory",
+    "tldr": "We formulate a fluctuation-response framework for non-Markovian jump processes directly on the event record, deriving exact stochastic equations for transition counts. This approach reveals how memory destroys closed master equations yet still permits precise response inequalities.",
+    "significance": "The work provides a rigorous tool to analyze memory-driven nonequilibrium systems, bridging trajectory statistics and response theory.",
+    "tags": [
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d26ee451b33304cf09b012c5db41ed70",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20327v1",
+    "arxiv_id": "2608.20327v1",
+    "title": "Competing triangular and stripe supersolid orders in a dipolar quantum gas",
+    "authors": [
+      "Karthik Chandrashekara",
+      "Christian Gölzhäuser",
+      "Lily Platt"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "Competing Triangular and Stripe Supersolid Orders Observed in a Dipolar Quantum Gas",
+    "tldr": "Researchers have experimentally realized two distinct supersolid patterns—triangular and stripe—in a dipolar quantum gas. This observation confirms theoretical predictions and opens avenues for exploring exotic quantum phases.",
+    "significance": "The discovery provides the first experimental evidence of competing spatial orders in dipolar supersolids, validating complex phase diagrams predicted by theory.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "076e75093f5105d907ee40687f2328ab",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20326v1",
+    "arxiv_id": "2608.20326v1",
+    "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+    "authors": [
+      "Parampreet Singh",
+      "Anushka Singh",
+      "Sumit Kumar"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "Margin‑Controlled Confidence Estimation for Reliable Music Retrieval",
+    "tldr": "Deep neural networks often overestimate confidence, misleading users. The proposed TCP_α method trains a lightweight auxiliary head to generate more reliable confidence scores for music information retrieval tasks.",
+    "significance": "TCP_α offers a practical, post‑hoc solution to improve trustworthiness of MIR predictions by controlling confidence margins.",
+    "tags": [
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ba56353d3396eb6230538eccc52b896c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20325v1",
+    "arxiv_id": "2608.20325v1",
+    "title": "Strange Metal Hall Effect in Underdoped BaFe$_2$(As$_{1-x}$P$_x$)$_2$",
+    "authors": [
+      "Augusto Ghiotto",
+      "Darian Hall",
+      "Yuanqi Lyu"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "Hall Effect Reveals Doping-Independent Behavior in Strange Metal BaFe2(As1−xPx)2",
+    "tldr": "The study measures the Hall effect in underdoped BaFe2(As1−xPx)2 and finds a doping‑independent contribution that persists across a wide temperature range. This suggests a universal transport mechanism in strange metals beyond the quasiparticle picture.",
+    "significance": "It provides new insight into the fundamental physics of high‑temperature superconductors by identifying a universal Hall response in the strange metal regime.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "16422fe4751f0846068b2a136475769d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20323v1",
+    "arxiv_id": "2608.20323v1",
+    "title": "Spin-torque microwave detectors of positive rectangular pulse signals",
+    "authors": [
+      "V. Prokopenko",
+      "O. Shtanko",
+      "I. Sotnyk"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "Spin-Torque Microwave Detectors Operate in Linear and Nonlinear Pulse Regimes",
+    "tldr": "We study spin-torque microwave detectors driven by positive rectangular current pulses and identify linear and nonlinear operation regimes. The time-averaged voltage scales linearly with pulse amplitude in the linear regime and shows distinct behavior in the nonlinear regime.",
+    "significance": "This work provides a framework for optimizing spin-torque detectors for high-speed microwave sensing applications.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "585d232d103437a051483ae1aa3e92b5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20322v1",
+    "arxiv_id": "2608.20322v1",
+    "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
+    "authors": [
+      "Anton Lambrecht",
+      "Reda El Hail",
+      "Xianjun Jiao"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-21",
+    "headline": "Comparing Ceiling-Mounted FMCW, IR-UWB, and Wi-Fi Radar for Bedside Activity Monitoring",
+    "tldr": "This study evaluates three RF sensing technologies—FMCW radar, IR-UWB, and Wi-Fi—in identical bedroom setups to detect human activity and sleep interruptions. Results highlight trade-offs in accuracy, latency, and deployment complexity, guiding future contact‑free health monitoring systems.",
+    "significance": "It provides the first side‑by‑side benchmark of these radar modalities under controlled conditions, informing design choices for non‑intrusive sleep and activity monitoring.",
+    "tags": [
+      "remote-sensing",
+      "benchmark",
+      "real-time",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "5d8be4bb2f4eaf7ed12eb1642612e878",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.19198v1",
@@ -1117,274 +1399,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "c77b5feafb0ddfd026bcdcd7cb6ca5c7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13524v1",
-    "arxiv_id": "2608.13524v1",
-    "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
-    "authors": [
-      "Tianyi Li",
-      "Yaxin Luo",
-      "Xinyi Shang"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "DARTree: Accelerating Autoregressive Models with Speculative Diffusion Draft Trees for Large Language Models",
-    "tldr": "DARTree combines speculative decoding with diffusion-based draft trees, enabling parallel token block proposals while preserving causal conditioning. This approach reduces latency and improves throughput for autoregressive language models without sacrificing accuracy.",
-    "significance": "By integrating diffusion drafters into speculative decoding, DARTree offers a scalable, lossless acceleration technique that can be applied to large language models in real-time applications.",
-    "tags": [
-      "LLM",
-      "diffusion-models",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "226f54f19f6f6ab0cee759f1b20ce03a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13522v1",
-    "arxiv_id": "2608.13522v1",
-    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
-    "authors": [
-      "Zhe Ye",
-      "Hantao Lou",
-      "Yuechun Sun"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "Vero: AI Agents That Generate Verified Software Repositories for Trustworthy Development",
-    "tldr": "AI agents can now produce both code and proofs of correctness, enabling formally verified software. Vero demonstrates this by building verified repositories, moving beyond function‑level benchmarks.",
-    "significance": "This work bridges AI programming and formal verification, paving the way for trustworthy, automatically generated software.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3708d6202b6566f81d14db613ceff972",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13521v1",
-    "arxiv_id": "2608.13521v1",
-    "title": "Exponential quantum advantage for learning signals with a single qubit",
-    "authors": [
-      "Ishaan Kannan",
-      "Sridhar Prabhu",
-      "Saeed A. Khan"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "Single Qubit Quantum Sensor Cuts Measurement Needs Exponentially for Signal Learning",
-    "tldr": "Researchers demonstrate that attaching a single controllable qubit to a conventional sensor can exponentially reduce the number of measurements needed to learn classical signals. This quantum advantage opens the door to more efficient data acquisition in practical experimental setups.",
-    "significance": "This breakthrough shows that even minimal quantum resources can dramatically improve signal learning, making quantum sensing more accessible for real-world applications.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4c01f84facccbe46a363b46256027f36",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13520v1",
-    "arxiv_id": "2608.13520v1",
-    "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
-    "authors": [
-      "Martin J. Wainwright"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "Unmasking Growth Complexity: Optimal Masking Diffusion Schedules and KL Error Control",
-    "tldr": "We introduce unmasking growth complexity (UGC), a path‑resolved metric that directly bounds KL discretization error in masking diffusion. This yields a unified analysis of Bernoulli‑subset and fixed‑cardinality unmasking schemes and certifies optimal sampling schedules.",
-    "significance": "UGC provides a principled way to design and certify optimal masking diffusion schedules, improving discrete sampling efficiency in diffusion models.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5ab52b7edad7a24922313c911b68368b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13518v1",
-    "arxiv_id": "2608.13518v1",
-    "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology",
-    "authors": [
-      "Yunsung Chung",
-      "Yingshuo Liu",
-      "Abboud F. Hassan"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "Dynamic Post-Operative Outcome Forecasting in Cardiology Using Intervention-Aware Models for Patients",
-    "tldr": "We present a dynamic clinical world model that incorporates interventions and time-varying data to predict post-operative outcomes in cardiology. The model captures irregular trajectories of recovery, enabling more accurate risk assessment over time.",
-    "significance": "This approach improves personalized post-operative care by providing continuous, intervention-aware outcome predictions, potentially reducing complications and readmissions.",
-    "tags": [
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
-    "arxiv_id": "",
-    "title": "GeoAI | Geo Week News",
-    "authors": [],
-    "published": "2026-08-15",
-    "curated_at": "2026-08-15",
-    "headline": "GeoAI Revolutionizes Geospatial Work with AI-Driven Feature Extraction and Predictive Analytics",
-    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction and classifying point clouds. These advances enable predictive analysis across the entire data pipeline, unlocking new applications for imagery, LiDAR, and spatial datasets.",
-    "significance": "GeoAI's integration of AI and geospatial data accelerates insights, driving smarter decision-making in fields from urban planning to environmental monitoring.",
-    "tags": [
-      "remote-sensing",
-      "LiDAR",
-      "point-cloud",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "779e0a05d5e0e30b6641ab27ced03d9b",
-    "source": "web",
-    "url": "https://events.ornl.gov/acmsigspatial-geoai2025/",
-    "arxiv_id": "",
-    "title": "ACMSIGSPATIAL-GEOAI 2025 - Conference Tagline",
-    "authors": [],
-    "published": "2026-08-15",
-    "curated_at": "2026-08-15",
-    "headline": "Harnessing AI for Geospatial Insight: From Satellite to Society, Transforming Data and Decision Making",
-    "tldr": "ACMSIGSPATIAL-GEOAI 2025 showcases breakthroughs in AI-driven geospatial analysis, emphasizing multimodal data integration and real-time decision support. Attendees will explore cutting-edge techniques from satellite imagery to LiDAR, unlocking new possibilities for societal impact.",
-    "significance": "This conference accelerates the adoption of AI in geospatial science, enabling faster, more accurate solutions to global challenges.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "LiDAR",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5726a3b43144d7ef941cae3b32cb3288",
-    "source": "web",
-    "url": "https://github.com/RSandAI",
-    "arxiv_id": "",
-    "title": "Remote Sensing AI · GitHub",
-    "authors": [],
-    "published": "2026-08-15",
-    "curated_at": "2026-08-15",
-    "headline": "Open-Source Remote Sensing AI Toolkit for Historical Maps and Satellite Imagery",
-    "tldr": "Our GitHub repository hosts code and papers on geospatial AI, focusing on remote sensing data and historical maps. Researchers and students collaborate on projects since 2016, providing open-source tools and benchmarks.",
-    "significance": "This repository accelerates research by offering reproducible, open-source AI solutions for analyzing remote sensing data across time and space.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7552b12f31b674cbeff5b9e5449247e6",
-    "source": "web",
-    "url": "https://gebeta.net/free-gis-remote-sensing-toolkit/",
-    "arxiv_id": "",
-    "title": "Free GIS & Remote‑Sensing Toolkit | Gebeta Media",
-    "authors": [],
-    "published": "2026-08-15",
-    "curated_at": "2026-08-15",
-    "headline": "Explore Free GIS & Remote‑Sensing Tools: Desktop, Cloud, Data, and ML Libraries",
-    "tldr": "Discover a curated list of free and open‑source GIS and remote‑sensing resources, from desktop software to cloud platforms. The toolkit also includes open data sources and machine‑learning libraries for advanced spatial analysis.",
-    "significance": "This guide empowers users to access powerful spatial tools without cost, accelerating research and application development.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "satellite-imagery"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "882a820adbc3b88ebebc5ad1f2e5b99e",
-    "source": "web",
-    "url": "https://www.conservation.cam.ac.uk/news/tessera-open-source-satellite-remote-sensing-foundation-model-researchers",
-    "arxiv_id": "",
-    "title": "TESSERA: An open-source satellite remote-sensing foundation model for ...",
-    "authors": [],
-    "published": "2026-08-15",
-    "curated_at": "2026-08-15",
-    "headline": "TESSERA: Open-Source Satellite Foundation Model for Habitat Mapping and Conservation",
-    "tldr": "TESSERA is an open-source foundation model that processes satellite imagery to support diverse environmental applications such as habitat mapping and carbon accounting. It provides a unified framework for researchers to develop and benchmark remote-sensing tools.",
-    "significance": "By offering a freely available, high-performance model, TESSERA democratizes access to advanced satellite analytics for conservation science.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "632ce6facfc21a96a2338f14e4d65124",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13561v1",
-    "arxiv_id": "2608.13561v1",
-    "title": "Experimental Quantum Key Distribution in an Indefinite Causal Order",
-    "authors": [
-      "Yann Valibouse",
-      "Martí Cladera-Rosselló",
-      "Michael Antesberger"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "Quantum Key Distribution Achieves Indefinite Causal Order: A New BB84 Protocol Realized",
-    "tldr": "Researchers implemented a BB84-like quantum cryptography protocol using processes with indefinite causal order, demonstrating that superposed operation sequences can serve as a quantum resource. This experiment opens avenues for more secure quantum communication and novel quantum information processing techniques.",
-    "significance": "The work shows that indefinite causal order can be harnessed for practical quantum cryptography, potentially enhancing security and efficiency beyond conventional protocols.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2ef1f178455ee0fe451f4ebf1c4c6560",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13560v1",
-    "arxiv_id": "2608.13560v1",
-    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-    "authors": [
-      "Yaxin Luo",
-      "Haobin Jiang",
-      "Jialv Zou"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-14",
-    "headline": "AutoDesign: Optimizing Meta-Harness for Long-Horizon Agentic Multimodal Design Systems Innovation",
-    "tldr": "AutoDesign proposes a meta-harness framework that treats multimodal source transformation as a long-horizon agentic process, enabling recursive self-improvement aligned with human design priors. By continuously learning from empirical exploration, the system surpasses static paradigms and delivers more adaptive, reusable design solutions.",
-    "significance": "This framework advances autonomous design by embedding adaptive learning loops, promising smarter, more efficient multimodal content creation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
