@@ -1,5 +1,287 @@
 [
   {
+    "uid": "1e87ffaac7753507af26c7cf5ed0c3b4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20340v1",
+    "arxiv_id": "2608.20340v1",
+    "title": "Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations",
+    "authors": [
+      "Antti Peltola",
+      "Olli Siltanen",
+      "Kimmo Luoma"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Group-Theoretic Approach to Multi-Excitation Strong Light-Matter Coupling",
+    "tldr": "The paper extends polariton theory beyond single-excitation limits by employing group-theoretic methods, enabling accurate modeling of many-excitation dynamics. This framework paves the way for exploring complex light-matter phenomena in microcavities.",
+    "significance": "It provides a powerful mathematical tool to capture multi-excitation physics, crucial for designing next-generation photonic devices.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3a0f14d99ddfa8da2d8b680320aaf662",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20331v1",
+    "arxiv_id": "2608.20331v1",
+    "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+    "authors": [
+      "Shiao Xie",
+      "Siyu Chen",
+      "Jianwei Lv"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "G-CARL: Grounded Checklist-Aligned Reward Learning for Personalized Medical Report Interpretation",
+    "tldr": "We present G-CARL, a framework that aligns reward learning with evidence-based checklists to generate patient-friendly interpretations of medical reports. The approach combines foundation model capabilities with grounded factuality and context-aware communication, addressing gaps in current vision-language tasks.",
+    "significance": "G-CARL advances patient-centered care by ensuring medical reports are both factually accurate and easily understood by patients.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d682c826a814bd77e60cf1532eda64d1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20321v1",
+    "arxiv_id": "2608.20321v1",
+    "title": "Large Sample Properties of Higher Order Markov Models",
+    "authors": [
+      "Tuhin Majumder",
+      "Donald E. K. Martin",
+      "Soumendra N. Lahiri"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Central Limit Theorem for Growing-Order Markov Chains on Finite Alphabets",
+    "tldr": "We prove a central limit theorem for additive functionals of Markov chains whose order grows with sample size. The result uses return-time decompositions and requires mild ergodicity and sparsity conditions.",
+    "significance": "The work extends classical Markov chain asymptotics to high-order models, enabling rigorous inference for complex time-series data.",
+    "tags": [
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "68f0439835745e415c6fa12b51b49c38",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20320v1",
+    "arxiv_id": "2608.20320v1",
+    "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+    "authors": [
+      "Narges Ahmadi",
+      "Yubo Jiao",
+      "Jônatas Augusto Manzolli"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Agentic Workflow Combines Chatbot Data Collection and Predictive Modeling for Travel",
+    "tldr": "This study introduces a three-agent system that merges conversational data gathering, structured data processing, and behavior prediction for travel mode choices. A chatbot-administered, image-augmented survey demonstrates its effectiveness in real-world data collection.",
+    "significance": "By integrating data collection and modeling, the approach reduces evaluation gaps and enhances predictive accuracy in travel behavior research.",
+    "tags": [
+      "LLM",
+      "time-series",
+      "urban-AI"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ffe07a420416fb18f11499d196c92edc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20318v1",
+    "arxiv_id": "2608.20318v1",
+    "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+    "authors": [
+      "Yizhe Chi",
+      "Wenyi Li",
+      "Deyao Hong"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "AI4AI-Bench: Evaluating LLM Agents for Recursive Self-Improvement in Algorithmic Design",
+    "tldr": "Recursive self‑improvement asks whether an AI can enhance the training algorithm that creates future AIs, thereby improving the compute‑capability exchange rate. AI4AI‑Bench tests LLM agents on this process, measuring how better objectives or update rules propagate across successive runs.",
+    "significance": "Benchmarking RSI in LLM agents provides a systematic way to assess whether training improvements can be self‑propagated, informing safe and efficient AI evolution.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ae209e53962acb1cb2504633cb6c4bd8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20317v1",
+    "arxiv_id": "2608.20317v1",
+    "title": "Projecting BrowseComp-Plus onto ClimbMix: Toward More Realistic Corpora for Agentic Search",
+    "authors": [
+      "Sahel Sharifymoghaddam",
+      "Lingwei Gu",
+      "Yijun Ge"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Expanding BrowseComp-Plus with ClimbMix for Realistic Agentic Search Corpora",
+    "tldr": "The BrowseComp-Plus benchmark replaced web search with a 100K‑document corpus, but its evidence and distractors were both drawn from the benchmark’s own queries. By projecting this corpus onto ClimbMix, researchers aim to create more realistic, diverse datasets for evaluating agentic search systems.",
+    "significance": "This work enhances benchmark realism, enabling more robust evaluation of language models in open‑domain search tasks.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "55b62b4dcda26d8f1b4463f8104c9dc5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20316v1",
+    "arxiv_id": "2608.20316v1",
+    "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+    "authors": [
+      "Adam Fisch",
+      "Shubhendu Trivedi",
+      "Fantine Huot"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Efficient AI Routing: Balancing Specialist Selection and Estimation Costs for Low-Cost Queries",
+    "tldr": "Routing queries to specialist AI models can improve performance, but estimating each model’s value incurs cost. This paper proposes a cost‑aware routing framework that balances estimation expense against expected gains, enabling efficient, low‑cost query handling.",
+    "significance": "It demonstrates a practical method for deploying heterogeneous AI systems that optimally allocate queries while accounting for the cost of value estimation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "65354d289e63623132af410bd0283737",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20315v1",
+    "arxiv_id": "2608.20315v1",
+    "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
+    "authors": [
+      "Jun Ni Du",
+      "Lukas Adamek",
+      "Maxim Kryukov"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Explainable BERT for Predicting Clinical Outcomes from Structured EHR Timelines",
+    "tldr": "BERT-LER is a transformer model pretrained on 75M patient EHR timelines that incorporates quantitative lab data and provides event‑level interpretability for clinical prediction tasks. The model achieves state‑of‑the‑art performance on multiple outcome prediction benchmarks while allowing clinicians to trace predictions back to specific medical events.",
+    "significance": "It demonstrates that large‑scale transformer models can be both accurate and interpretable for real‑world EHR data.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "06871d4b1f80eb0a91dbc108d3daf74f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20314v1",
+    "arxiv_id": "2608.20314v1",
+    "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+    "authors": [
+      "Fengqing Jiang",
+      "Yite Wang",
+      "Boyi Liu"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "MidTool: Enhancing LLMs with Mid-Training Data Synthesis for Tool Use",
+    "tldr": "MidTool presents a novel mid-training data synthesis approach that enhances LLMs' tool-use capabilities. The method improves reasoning-intensive tasks and agentic performance in software engineering contexts.",
+    "significance": "This work demonstrates that targeted mid-training can substantially elevate LLMs' practical tool-use abilities, paving the way for more autonomous AI systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "59cf96420fdcc8645000a40975ed2d35",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20312v1",
+    "arxiv_id": "2608.20312v1",
+    "title": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
+    "authors": [
+      "Liang Xu",
+      "Chengqun Yang",
+      "Zili Lin"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Inter-X++: A Comprehensive Multimodal Benchmark Dataset for Human-Human Interaction Analysis",
+    "tldr": "Inter-X++ introduces a richly annotated, high-fidelity multimodal dataset capturing human-human interactions, addressing gaps in kinematics and hand gesture representation. The benchmark enables robust evaluation of models for interaction understanding and paves the way for advanced digital human systems.",
+    "significance": "By providing high-quality multimodal annotations and a standardized evaluation protocol, Inter-X++ accelerates research toward more natural and context-aware digital humans.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cda02327323dcdde15e96452f1b24323",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20311v1",
+    "arxiv_id": "2608.20311v1",
+    "title": "Imaging the vacuum fluctuations of a quantum field",
+    "authors": [
+      "Yansheng Zhang",
+      "Feiyang Wang",
+      "Yi Jiang"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Visualizing Quantum Vacuum Fluctuations in Field Snapshots Using Advanced Imaging Techniques",
+    "tldr": "Quantum fields exhibit random spatial patterns even in vacuum due to Heisenberg uncertainty. New imaging methods capture these fluctuations, revealing fundamental physics and potential applications.",
+    "significance": "Imaging vacuum fluctuations provides direct insight into quantum vacuum energy and informs technologies ranging from precision measurement to quantum computing.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b79309cbae5f86a53297404deeef3370",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20309v1",
+    "arxiv_id": "2608.20309v1",
+    "title": "The Additive Arithmetic of Linear Orders",
+    "authors": [
+      "Garrett Ervin",
+      "Eric Paul"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-22",
+    "headline": "Arithmetic of Linear Orders: Euclidean Algorithm and Lindenbaum Division in Theory",
+    "tldr": "We develop a systematic arithmetic for the class of linear orders under ordered sum, introducing a Euclidean algorithm for pairs that almost commute. The work unifies classical theorems, including Lindenbaum's division, and yields new results on additive structure.",
+    "significance": "This framework provides a unified algebraic foundation for linear order theory, extending classical results and enabling new insights into additive combinatorics.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "5e03fc980df3865496d5eae5c4babf3d",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.20339v1",
@@ -1119,285 +1401,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "81a8bccd50e186c542cba6b48ef55d8d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.14548v1",
-    "arxiv_id": "2608.14548v1",
-    "title": "Forging Self-Funded Marketplaces among Strategic Agents",
-    "authors": [
-      "Yuan Deng",
-      "Vasilis Gkatzelis",
-      "Xizhi Tan"
-    ],
-    "published": "2026-08-14",
-    "curated_at": "2026-08-17",
-    "headline": "Designing Incentive Mechanisms for Self-Funded Marketplaces Among Strategic Agents in Competitive Environments",
-    "tldr": "We study how to design mechanisms that motivate agents to invest effort in a marketplace that they collectively fund. By modeling effort costs and revenues, we characterize conditions under which self-sustaining equilibria exist.",
-    "significance": "This work provides foundational insights for building decentralized platforms where participants jointly finance and sustain economic activity.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "15644d7e813183c55810be07bdef9fe2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.14546v1",
-    "arxiv_id": "2608.14546v1",
-    "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
-    "authors": [
-      "Qinye Zhou",
-      "Jun Zheng",
-      "Yongchao Du"
-    ],
-    "published": "2026-08-14",
-    "curated_at": "2026-08-17",
-    "headline": "CPI-Bench: A Comprehensive, Practical, Intelligent Benchmark for Real-World Image Editing Models",
-    "tldr": "CPI-Bench introduces a comprehensive, practical, and intelligent benchmark designed to evaluate image editing models in real-world scenarios. It expands beyond single-image tasks, offering diverse coverage dimensions to better differentiate performance across advanced models.",
-    "significance": "By providing a more realistic assessment framework, CPI-Bench accelerates the deployment of cutting-edge image editing technologies in practical applications.",
-    "tags": [
-      "benchmark",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8f7f1c788727b3fb48137985eb46d24e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.14545v1",
-    "arxiv_id": "2608.14545v1",
-    "title": "Compressive Domains and a Bound for the Number of Components of the Fixed Locus of a Self-Map of the Berkovich Line",
-    "authors": [
-      "Xander Faber",
-      "Niladri Patra"
-    ],
-    "published": "2026-08-14",
-    "curated_at": "2026-08-17",
-    "headline": "Bound on Fixed Locus Components via Compressive Domains",
-    "tldr": "We define compressive domains for rational maps on the Berkovich line, show they contain a classical fixed point, and use this to bound the number of connected components of the fixed locus.",
-    "significance": "Provides a sharp upper bound on fixed locus components, advancing understanding of dynamics on nonarchimedean analytic spaces.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "085cfd95424db6b5ced51ababde7353a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.14539v1",
-    "arxiv_id": "2608.14539v1",
-    "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
-    "authors": [
-      "Karel Becerra",
-      "Boris Mederos",
-      "Dean Snow"
-    ],
-    "published": "2026-08-14",
-    "curated_at": "2026-08-17",
-    "headline": "Uncertainty-Aware Deep Learning Decodes Sex of Prehistoric Hand Stencil Artists",
-    "tldr": "We present a deep learning framework that incorporates uncertainty estimation to classify the biological sex of artists who created Upper Paleolithic hand stencils, overcoming challenges like lack of ground truth and image degradation. The model leverages transfer learning from contemporary populations and outputs probabilistic predictions, offering a robust tool for archaeologists.",
-    "significance": "This approach provides archaeologists with a statistically grounded method to infer gender roles in prehistoric societies, bridging a critical gap in cultural anthropology.",
-    "tags": [
-      "foundation-models",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ab026b8348810672faee3ae13e526f85",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.14533v1",
-    "arxiv_id": "2608.14533v1",
-    "title": "Finding Vulnerabilities via LLM-Augmented Semantics-Aware Type-Checking",
-    "authors": [
-      "Ruizhe Wang",
-      "Meng Xu",
-      "N. Asokan"
-    ],
-    "published": "2026-08-14",
-    "curated_at": "2026-08-17",
-    "headline": "Leveraging LLMs for Semantics-Aware Type-Checking and Improved Vulnerability Detection in Complex Codebases",
-    "tldr": "Traditional static analysis relies on syntactic rules, missing semantic cues like variable names. This study introduces an LLM-augmented type-checker that captures semantic context, improving vulnerability detection accuracy.",
-    "significance": "By integrating LLMs, the approach bridges the gap between syntax and semantics, enabling more precise security analysis.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e7d75a33d0e17491b2f289fac8e33f11",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.14532v1",
-    "arxiv_id": "2608.14532v1",
-    "title": "Trust Without Boundaries: An Architectural Analysis of Satellite Flight Software",
-    "authors": [
-      "Jack Vanlyssel",
-      "Gruia-Catalin Roman",
-      "Kendra Cook"
-    ],
-    "published": "2026-08-14",
-    "curated_at": "2026-08-17",
-    "headline": "Breaking the Trust Barrier: Analyzing Satellite Flight Software Architecture for Secure Operations",
-    "tldr": "Onboard flight software is a critical security boundary in modern spacecraft. Our analysis of NASA's Core Flight Software reveals that treating components as trusted peers limits isolation and access control, exposing vulnerabilities.",
-    "significance": "Understanding these architectural weaknesses is essential for designing resilient, secure satellite systems.",
-    "tags": [
-      "open-source",
-      "real-time",
-      "remote-sensing"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5a38c7bea7c1ca2bcb3c6f464cd13840",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13548v1",
-    "arxiv_id": "2608.13548v1",
-    "title": "All-optical switching of nonlinear structured light in crystal-engineered van der Waals materials",
-    "authors": [
-      "Paolo Valisa",
-      "Marc Richstaetter",
-      "Bianca Sanfilippo"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "All-Optical Switching of Structured Light via Nonlinear Van der Waals Crystals",
-    "tldr": "Researchers demonstrate ultrafast, all-optical control of orbital angular momentum modes using engineered van der Waals crystals. This approach enables compact, real-time switching of structured light without bulky free‑space optics.",
-    "significance": "The technique paves the way for scalable, nanoscale photonic devices capable of dynamic OAM manipulation, critical for next‑generation optical communications and quantum information processing.",
-    "tags": [
-      "open-source",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c266699e947d6ea67da33b7093d6b0ff",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13540v1",
-    "arxiv_id": "2608.13540v1",
-    "title": "Insight into SRF cavity performance from simulations of Nb's surface oxide dissolution and diffusion",
-    "authors": [
-      "Ryan M. L. McFadden",
-      "Rowan Becker",
-      "Tobias Junginger"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "Simulating Nb Oxide Dissolution to Predict SRF Cavity Performance in Accelerators",
-    "tldr": "We simulate the dissolution and diffusion of niobium oxide layers in vacuum, linking the resulting oxygen distribution to the superconducting performance of SRF cavities. These insights help optimize surface preparation for particle accelerators.",
-    "significance": "This work bridges the gap between surface chemistry and SRF cavity performance, guiding more efficient accelerator designs.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5a768c1261e35e31555991486a0cb382",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13538v1",
-    "arxiv_id": "2608.13538v1",
-    "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
-    "authors": [
-      "Weihan Meng",
-      "Hongzhu Guo",
-      "Yi Jing"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "SAEVerbalizer: Interpreting Sparse Autoencoder Features from LLM Representations for Transparent Insights",
-    "tldr": "Sparse autoencoders extract many features from LLM embeddings, but explaining them usually relies on external observations, which can be superficial and computationally heavy. SAEVerbalizer offers a framework that verbalizes these features directly from representations, enabling efficient and deeper explanations.",
-    "significance": "It provides a scalable, model-agnostic method to generate meaningful explanations for high-dimensional LLM features, improving transparency and trust.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6921f8794a4f32059d2354eee772ab45",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13535v1",
-    "arxiv_id": "2608.13535v1",
-    "title": "Joint Communication-Control Strategy Optimization with Partially Nested Information Structures: The Linear-Quadratic Case",
-    "authors": [
-      "Haoyi You",
-      "Kaiqing Zhang"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "Optimizing Joint Communication and Control in Multi-Agent Linear Systems with Partially Nested Information",
-    "tldr": "The paper formalizes a joint communication–control strategy optimization problem for multi-agent linear systems with quadratic costs within the common-information-based framework. By focusing on partially nested information structures, it derives tractable, optimal solutions for the linear–quadratic case.",
-    "significance": "It bridges decentralized control and communication design, enabling efficient coordination in multi-agent systems with limited information.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8aa582dae04619bfbcaa64e78a45b7b5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13531v1",
-    "arxiv_id": "2608.13531v1",
-    "title": "Non-uniqueness of Brakke flows starting from minimal surfaces with singularities",
-    "authors": [
-      "Kotaro Motegi"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "Non-uniqueness of Brakke Flows from Singular Minimal Surfaces in Euclidean Space",
-    "tldr": "We prove that minimal surfaces with singularities can generate multiple distinct Brakke flows. This demonstrates their dynamical instability.",
-    "significance": "This result reveals that stationary varifolds need not uniquely determine their evolution, challenging assumptions in geometric measure theory.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9c09a03968170a79d091ea4e6a56e639",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.13527v1",
-    "arxiv_id": "2608.13527v1",
-    "title": "The sensitivity of TESS to transiting planets in TOIs with close-in stellar companions",
-    "authors": [
-      "Colin Littlefield",
-      "Kathryn V. Lester",
-      "David R. Ciardi"
-    ],
-    "published": "2026-08-13",
-    "curated_at": "2026-08-16",
-    "headline": "TESS Transit Detection Sensitivity Affected by Close Stellar Companions in TOI Candidates",
-    "tldr": "High-resolution imaging shows many TESS targets have close stellar companions that dilute transit signals. This study quantifies the impact on detecting small planets across 2052 TOIs, revealing reduced sensitivity in blended systems.",
-    "significance": "Understanding companion-induced dilution is crucial for accurate planet occurrence rates from TESS.",
-    "tags": [
-      "satellite-imagery",
-      "time-series",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
