@@ -1,5 +1,261 @@
 [
   {
+    "uid": "08e7250461cf1b46110771647a3396d8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20319v1",
+    "arxiv_id": "2608.20319v1",
+    "title": "Inducing Task Models from Computer-Use Traces",
+    "authors": [
+      "Yucheng Jiang",
+      "Zora Zhiruo Wang",
+      "Ruishi Chen"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Learning Task Models from Naturalistic Computer-Use Traces for Auditable AI Agents",
+    "tldr": "By passively recording screenshots, mouse, and keyboard actions, we can derive symbolic models of everyday work. These models enable AI agents to learn real task flows and allow organizations to audit and reuse work knowledge.",
+    "significance": "This approach bridges the gap between human workflow understanding and AI automation, ensuring transparency and reusability in workplace AI.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5936905539a6d36e66b3e2f68f0d5757",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20308v1",
+    "arxiv_id": "2608.20308v1",
+    "title": "DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery",
+    "authors": [
+      "Yufei Liu",
+      "Xixi Wang",
+      "Hao Li"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "DreamHand: Recovering 3D Hand Motion from Occluded Egocentric Video Using Video Diffusion Models",
+    "tldr": "DreamHand repurposes video diffusion models to robustly recover metric 3D hand trajectories from egocentric videos, even with severe occlusion and out-of-sight gaps. It achieves this by leveraging efficient inference techniques that avoid heavy, stochastic multi-step sampling.",
+    "significance": "This approach enables scalable, accurate hand motion capture for embodied AI without requiring extensive labeled data or complex multi-view setups.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5ac671ff5a7a02d1d448f414bf9eaf6f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20307v1",
+    "arxiv_id": "2608.20307v1",
+    "title": "The Nearby Star Formation and Supernova Histories Reconstructed from Young Star Clusters",
+    "authors": [
+      "Cameren Swiggum",
+      "Catherine Zucker",
+      "Michelangelo Pantaleoni González"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Reconstructing Solar Neighborhood Star Formation and Supernova Histories Using Young Star Clusters",
+    "tldr": "By integrating the past trajectories of Gaia-based young star clusters, we infer the recent star formation rate and core‑collapse supernova frequency in the Solar Neighborhood. The study links cluster ages, masses, and velocities to an axisymmetric Galactic potential to reconstruct a detailed time‑series of local stellar deaths.",
+    "significance": "This work provides the first high‑resolution reconstruction of local star formation and supernova activity, offering a benchmark for Galactic evolution models.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fba021dea60e8c14d5a1ceb86ef037ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20306v1",
+    "arxiv_id": "2608.20306v1",
+    "title": "Computational Methods of Wave Propagation for Semiclassical Models of High Harmonic Generation in Bulk Solids",
+    "authors": [
+      "Ava N. Hejazi",
+      "Nicholas Karpowicz",
+      "Gregory D. Scholes"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Self‑Consistent Maxwell–Bloch Simulation of High‑Order Harmonic Generation in Bulk Solids",
+    "tldr": "We develop a self‑consistent computational framework that couples Maxwell’s equations with semiconductor Bloch equations to model nonlinear light‑matter interactions in bulk semiconductors. The method captures high‑order harmonic generation and its propagation, revealing distinct reflected and transmitted harmonic spectra.",
+    "significance": "This approach provides a predictive tool for designing solid‑state high‑harmonic sources and understanding ultrafast light propagation in materials.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3441556ebf46aa41f3fa9443062ecb5e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20301v1",
+    "arxiv_id": "2608.20301v1",
+    "title": "A two-point phase recovering with spherical wave reference",
+    "authors": [
+      "R. G. Novikov",
+      "V. N. Sivkin"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Two-Point Phase Recovery Using Spherical Reference Waves in Helmholtz Exterior Problems",
+    "tldr": "The paper presents two-point formulas to approximate the phase of a radiation solution by measuring the intensity of the combined total solution with a spherical reference wave. These formulas enable phase reconstruction in exterior Helmholtz problems without direct phase measurements.",
+    "significance": "It offers a practical method for phase retrieval in wave propagation problems, aiding imaging and inverse scattering applications.",
+    "tags": [
+      "remote-sensing",
+      "SAR",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a676d298f0ae637e932d645b028cbe8f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20298v1",
+    "arxiv_id": "2608.20298v1",
+    "title": "Zero-Sum Power Factor Games",
+    "authors": [
+      "Cameron Khanpour",
+      "Samuel Talkington",
+      "Mathieu Dahan"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Zero-Sum Power Factor Games: Controlling Voltage with Reactive Power Pre-Selection",
+    "tldr": "Operators can limit voltage deviations by remotely setting DER reactive power before active injections occur. This zero-sum game ensures constant power factor compliance per IEEE 1547-2018 while mitigating unpredictable active power fluctuations.",
+    "significance": "It provides a proactive strategy to maintain grid stability amid volatile renewable generation.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "045200e797373ab98fc4d3b085e348ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20296v1",
+    "arxiv_id": "2608.20296v1",
+    "title": "A blind spot in transverse BAO calibration",
+    "authors": [
+      "Domenico Sapone"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Blind Spot in Transverse BAO Calibration: Hidden Degeneracy with r_d h",
+    "tldr": "Transverse BAO measurements rely on a calibration that cannot be constrained by cosmological data alone. A constant error in the BAO scale is degenerate with r_d h, making it invisible to standard analyses.",
+    "significance": "This hidden degeneracy can bias cosmological parameter estimates, undermining the precision of BAO-based constraints.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a088c4cea67f470ae7cf9f921aa1a81c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20295v1",
+    "arxiv_id": "2608.20295v1",
+    "title": "Physical-Support Confidence Sets for Highly Coherent Dictionaries",
+    "authors": [
+      "Guan-Ju Peng"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Resolving Physical Support Conflicts in Highly Coherent Dictionaries for Sparse Pursuit",
+    "tldr": "We introduce a resolution-aware method that constructs confidence sets for the physical support of dictionary atoms, even when the dictionary is highly coherent. This approach reconciles calibration inconsistencies and yields more reliable interpretations in sparse pursuit applications.",
+    "significance": "By providing statistically grounded support confidence sets, the method improves the interpretability and robustness of dictionary-based signal recovery in noisy, highly coherent settings.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6d78ff5de9be13db57c0494611793feb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20294v1",
+    "arxiv_id": "2608.20294v1",
+    "title": "QED radiative effects in semi-inclusive deep-inelastic scattering: traditional and factorized approaches",
+    "authors": [
+      "Igor Akushevich",
+      "Haiyan Gao",
+      "Alexander Ilyichev"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Comparing Traditional and Factorized QED Radiative Corrections for SIDIS Nucleon Structure",
+    "tldr": "This study compares traditional and factorized approaches to QED radiative corrections in semi‑inclusive deep‑inelastic scattering. The authors find that the factorized method provides a more accurate extraction of parton distributions, especially at low transverse momentum.",
+    "significance": "Accurate treatment of QED radiation is essential for precise determination of parton distribution functions from SIDIS experiments.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c3cd5e647dede8a0356c8e49b5879871",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20293v1",
+    "arxiv_id": "2608.20293v1",
+    "title": "Non-Minimally Coupled Warm Inflation in the Defining Frame",
+    "authors": [
+      "Adrián Casado-Turrión",
+      "Paulo B. Ferraz",
+      "Mindaugas Karčiauskas"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Warm Inflation Dynamics in F(Φ)R Theories: Defining vs Einstein Frame Analysis",
+    "tldr": "We study warm inflation in scalar‑tensor F(Φ)R gravity in the defining frame and translate the dynamics to the Einstein frame. The dissipation ratio is reduced by modified‑gravity effects, showing that the effective warm‑inflation behavior can be consistently described in either frame.",
+    "significance": "This work clarifies how modified gravity influences dissipation during warm inflation, aiding the interpretation of early‑universe models.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5ce940ae892682fc359597a89a5e5cdd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.20291v1",
+    "arxiv_id": "2608.20291v1",
+    "title": "Programmable cavity QED with a fiber-integrated atomic array",
+    "authors": [
+      "Stephan Roschinski",
+      "Johannes Schabbauer",
+      "Franz von Silva-Tarouca"
+    ],
+    "published": "2026-08-20",
+    "curated_at": "2026-08-23",
+    "headline": "Fiber-Integrated Tweezer Array Enables Programmable Cavity QED with Rubidium Atoms",
+    "tldr": "Researchers integrated a twelve‑site ^87Rb optical tweezer array into a high‑cooperativity fiber cavity, achieving strong, site‑resolved atom‑photon coupling. This platform opens pathways for scalable quantum networks and programmable quantum optics experiments.",
+    "significance": "It demonstrates a scalable, controllable interface between neutral atoms and cavity QED, bridging tweezer arrays and high‑cooperativity cavities.",
+    "tags": [
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "1e87ffaac7753507af26c7cf5ed0c3b4",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.20340v1",
@@ -1145,261 +1401,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "56aa85a80d738b3dcecd655eaf6352b9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16887v1",
-    "arxiv_id": "2608.16887v1",
-    "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
-    "authors": [
-      "Dengyang Jiang",
-      "Ruoyi Du",
-      "Zhennan Chen"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Training Pixel-Space Diffusion Models to Rival Latent Counterparts: An Empirical Guide",
-    "tldr": "This study presents a practical recipe for training pixel-space text-to-image diffusion models that match or surpass latent-space models. Through extensive experiments, the authors identify key architectural and training choices that yield state-of-the-art performance.",
-    "significance": "It bridges the gap between pixel-space and latent-space diffusion, providing a reproducible framework for high-quality image generation.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5e20cf4ce7816722d59e2ad63bedf4a6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16886v1",
-    "arxiv_id": "2608.16886v1",
-    "title": "Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs",
-    "authors": [
-      "Qi Zhao",
-      "Marjory Pineda",
-      "Ketul Chhaya"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Collective Assessment of AI-Generated Business Plans for Resource-Constrained Entrepreneurs in Emerging Markets",
-    "tldr": "Entrepreneurs rely on generative AI for critical documents, but errors can jeopardize funding. This study explores collaborative evaluation methods beyond the screen to improve accuracy for resource-constrained users.",
-    "significance": "The research offers a scalable framework for improving AI-generated business plan reliability, crucial for small business financing.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4b1ef3c012dd1107f03e872ec41629a9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16885v1",
-    "arxiv_id": "2608.16885v1",
-    "title": "$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
-    "authors": [
-      "Xiaowei Cai",
-      "Yunuo Cai",
-      "Bingao Chen"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "τ0-VLA: Hierarchical Robot Foundation Model with Adaptive Test-Time Computation for Long-Horizon Tasks",
-    "tldr": "τ0-VLA introduces a hierarchical vision-language-action framework that allocates extra computation to challenging decisions, improving long-horizon robot manipulation. By leveraging a world model at test time, it dynamically balances speed and accuracy for complex tasks.",
-    "significance": "This approach enables more reliable and efficient robot planning by adaptively investing computational resources where they matter most.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b28d2df9de2cd85a8fab7df93f1d102c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16881v1",
-    "arxiv_id": "2608.16881v1",
-    "title": "Simplicial Actions for Distributed Protocols",
-    "authors": [
-      "Philip Sink"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Simplicial Action Models for Distributed Protocols: Advancing Modal Logic in Complex Systems",
-    "tldr": "This paper extends the semantics of belief revision in simplicial complexes by integrating action models, enabling dynamic epistemic reasoning in distributed protocols. The authors demonstrate how these models capture protocol updates and provide a framework for analyzing knowledge evolution in multi-agent systems.",
-    "significance": "By bridging simplicial semantics with action models, the work offers a novel tool for formal verification of distributed protocols, enhancing robustness and transparency.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "823bf87346a91b7bf1b5dbb63a0f93e1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16878v1",
-    "arxiv_id": "2608.16878v1",
-    "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
-    "authors": [
-      "Yunbum Kook",
-      "Santosh S. Vempala"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Spectral Gap Bounds for Hit-and-Run and Coordinate Hit-and-Run in Convex Bodies",
-    "tldr": "The paper establishes a lower bound on the spectral gap of the Hit‑and‑Run algorithm in terms of the Poincaré constant of the target distribution over a convex body. It also extends the analysis to the Coordinate Hit‑and‑Run variant, yielding similar convergence guarantees.",
-    "significance": "These results provide the first rigorous mixing time bounds for Hit‑and‑Run in high dimensions, improving our understanding of random walk sampling algorithms.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "100c33e9fc743622c131f35b5f60e0d2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16879v1",
-    "arxiv_id": "2608.16879v1",
-    "title": "On the relations between several notions of symmetry for the second order linear differential equation",
-    "authors": [
-      "David Blázquez-Sanz",
-      "Santiago Alexis Aguirre Agudelo"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Symmetry Correspondence in Second-Order Linear ODEs",
-    "tldr": "The paper establishes explicit links between Lie point, vertical, and operator symmetries for second-order linear differential equations, and describes the Lie algebra of infinite symmetries.",
-    "significance": "It unifies disparate symmetry concepts, facilitating deeper analysis of linear ODEs.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b7704ef46eb50dfb501d581a103295e9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16874v1",
-    "arxiv_id": "2608.16874v1",
-    "title": "Size matters more than packing in bimodal colloidal gel compositions",
-    "authors": [
-      "Robert A. Campbell",
-      "Ziye Zhuang",
-      "Ali Mohraz"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Particle Size Trumps Packing in Bimodal Colloidal Gels",
-    "tldr": "Simulations of bimodal colloidal gels with a 1:2 size ratio show that increasing the proportion of large particles enhances gel strength more than changes in local packing density. The study highlights particle size as the dominant factor in determining mechanical properties of depletion gels.",
-    "significance": "This work challenges the conventional focus on packing density, emphasizing particle size as the key design parameter for colloidal gel formulations.",
-    "tags": [
-      "diffusion-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "885d9d50bab3f8d832a35891de85ae50",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16872v1",
-    "arxiv_id": "2608.16872v1",
-    "title": "Impression Share Prediction: An Offline Evaluation Task for Ranking Systems",
-    "authors": [
-      "Mohsen Malmir",
-      "Houssam Nassif",
-      "Danish Nasir Shaikh"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Predicting Impression Share: Offline Evaluation for Ranking System Effectiveness",
-    "tldr": "Offline metrics often miss how ranking models shift impression distribution, potentially harming downstream outcomes. This paper proposes a method to predict impression share shifts, enabling better pre-deployment assessment.",
-    "significance": "Accurately forecasting impression share changes allows practitioners to avoid costly online failures and align models with business goals.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "33d0e33937866703c74583af676a2670",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16871v1",
-    "arxiv_id": "2608.16871v1",
-    "title": "Biophysics-informed deep operator learning for inverse problems with application to electrophysiological source reconstruction",
-    "authors": [
-      "Eardi Lila",
-      "Erica R. Peterson",
-      "Alexis N. Bosseler"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Deep Operator Learning Illuminates Neural Source Reconstruction from Noisy Brain Signals",
-    "tldr": "By integrating biophysical constraints into deep operator networks, researchers can more accurately recover hidden neural activity from indirect, noisy measurements. This approach improves the stability and speed of electrophysiological source reconstruction.",
-    "significance": "It offers a robust, physics-informed framework that could enhance real-time brain mapping for clinical and research applications.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "031f35eda818d0bc018d6af3451fe479",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16870v1",
-    "arxiv_id": "2608.16870v1",
-    "title": "Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning",
-    "authors": [
-      "Serena Su",
-      "Yifan Wang",
-      "Senwei Liang"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Data-Efficient Deep Learning Classifies Tumor Cell Phenotypes from Microfluidic Trajectories",
-    "tldr": "The study presents a data‑efficient deep‑learning framework that interprets the kinematic trajectories of circulating tumor cells in microfluidic obstacle courses to classify phenotypes. By leveraging limited labeled data and explainable model components, it offers a rapid, label‑free diagnostic tool for metastatic potential assessment.",
-    "significance": "This approach enables rapid, interpretable phenotyping of circulating tumor cells without labeling, potentially accelerating personalized cancer diagnostics.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "898507b2639540014e546a36a16bbc3c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.14549v1",
-    "arxiv_id": "2608.14549v1",
-    "title": "Blazar Boosted Dark Matter in IceCube",
-    "authors": [
-      "Alberto M. Gago",
-      "Jaime Hoefken Zink",
-      "Joel Jones-Pérez"
-    ],
-    "published": "2026-08-14",
-    "curated_at": "2026-08-17",
-    "headline": "IceCube Probes Blazar-Boosted Dark Matter with 324 Blazar Sample",
-    "tldr": "We evaluate IceCube's sensitivity to dark matter accelerated by blazar jets, modeling 324 blazars with inferred proton spectra. Our analysis shows that conservative dark matter spike profiles still allow detectable neutrino fluxes, setting new constraints on fermionic dark matter with vector mediators.",
-    "significance": "This study links high-energy astrophysics and particle physics, offering a novel probe of dark matter interactions via blazar environments.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
