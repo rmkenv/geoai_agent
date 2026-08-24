@@ -1,5 +1,193 @@
 [
   {
+    "uid": "d4446b2d5754997795eb525cfaead966",
+    "source": "web",
+    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
+    "arxiv_id": "",
+    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "2025 GeoAI Breakthroughs: Predictive Analytics, Automation, and Climate Solutions for Urban and Global Challenges",
+    "tldr": "The year 2025 saw GeoAI models harness satellite imagery and LLMs to deliver real-time flood detection, crop monitoring, and urban planning insights. These advancements enable cities and policymakers to proactively address climate risks and optimize resource allocation.",
+    "significance": "These innovations mark a pivotal shift toward data-driven resilience, empowering stakeholders to mitigate environmental threats and enhance sustainable development.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "urban-AI"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
+    "arxiv_id": "",
+    "title": "Towards the next generation of Geospatial Artificial Intelligence",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "Charting the Future of Geospatial Artificial Intelligence: Trends, Challenges, and Opportunities",
+    "tldr": "GeoAI merges geospatial science with AI, rapidly evolving across spatial data science and geography. Understanding recent advances and future directions is essential for leveraging its transformative potential.",
+    "significance": "This work highlights the critical need to map GeoAI's evolving landscape to guide research and application.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
+    "source": "web",
+    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
+    "arxiv_id": "",
+    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "Top 5 GeoAI Trends Shaping 2025: From Foundation Models to Real-Time Flood Detection",
+    "tldr": "GeoAI is rapidly evolving, with foundation models unlocking new analytical capabilities across satellite imagery and urban planning. Key trends for 2025 include real-time flood detection, precision crop monitoring, and AI-driven change detection in city landscapes.",
+    "significance": "These trends promise to transform how we monitor and manage Earth's resources, driving smarter decisions in agriculture, urban development, and disaster response.",
+    "tags": [
+      "foundation-models",
+      "satellite-imagery",
+      "urban-AI",
+      "flood-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "079f3198282271621f612e9d277c56ab",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
+    "arxiv_id": "",
+    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "GeoAI Revolutionizes Geospatial Analysis: Merging Data, Sensors, and AI for Smarter Insights",
+    "tldr": "Artificial intelligence is reshaping geospatial science by integrating diverse data sources and advanced analytics. GeoAI empowers organizations to capture, analyze, and act on spatial information faster and more accurately than ever before.",
+    "significance": "GeoAI unlocks unprecedented precision and speed in mapping, monitoring, and decision-making across sectors.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5726a3b43144d7ef941cae3b32cb3288",
+    "source": "web",
+    "url": "https://github.com/RSandAI",
+    "arxiv_id": "",
+    "title": "Remote Sensing AI · GitHub",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "RSandAI GitHub: GeoAI Research Outputs from Istanbul Technical University and Beyond",
+    "tldr": "The RSandAI GitHub page hosts a collection of remote sensing and AI research outputs supervised by Prof. Dr. Elif SERTEL at Istanbul Technical University. It includes datasets, code, and results that showcase state‑of‑the‑art GeoAI techniques.",
+    "significance": "It provides an open, reproducible resource for researchers and practitioners to advance GeoAI applications.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c372756dc3050e8979c1ab5331fba6b3",
+    "source": "web",
+    "url": "https://github.com/topics/remote-sensing",
+    "arxiv_id": "",
+    "title": "remote-sensing · GitHub Topics · GitHub",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "Remote Sensing Change Detection: A Curated Collection of Datasets, Tools, and Competitions",
+    "tldr": "This repository compiles the latest datasets, tools, methods, review papers, and competitions for remote sensing change detection. It serves as a go-to resource for researchers and practitioners to stay updated and benchmark their models.",
+    "significance": "It accelerates research by centralizing high-quality resources, enabling faster development and evaluation of change detection algorithms.",
+    "tags": [
+      "remote-sensing",
+      "change-detection",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "05673d0fa14b4f02d093dfad57f9cfcf",
+    "source": "web",
+    "url": "https://ruview.online/",
+    "arxiv_id": "",
+    "title": "RuView Free AI WiFi Sensing, ESP32 CSI Radar & Spatial Intelligence",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "RuView: Open-Source AI WiFi Sensing with ESP32 CSI Radar for Spatial Intelligence",
+    "tldr": "RuView is an open‑source, edge‑native AI WiFi sensing platform that transforms everyday ESP32 microcontrollers into long‑range spatial radar arrays. By converting ambient high‑frequency radio waves into detailed environmental telemetry, it enables real‑time spatial intelligence without cameras.",
+    "significance": "RuView democratizes advanced radar sensing, making high‑resolution spatial awareness accessible on low‑cost hardware.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "76a848462cb579374f52b6c2e4ea0f19",
+    "source": "web",
+    "url": "https://sourceforge.net/directory/?q=remote%20sensing",
+    "arxiv_id": "",
+    "title": "remote sensing free download - SourceForge",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "Explore 38 Open-Source Remote Sensing Projects on SourceForge for Data Scientists",
+    "tldr": "SourceForge hosts 38 open-source remote sensing projects, offering tools for building production-ready AI agents and models. Users can filter projects and access over 200 Google and third‑party AI models to accelerate development.",
+    "significance": "These resources empower developers to rapidly prototype and deploy remote sensing solutions without licensing barriers.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "satellite-imagery",
+      "segmentation"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "57bbba71b7a72c67542b239374b0f3de",
+    "source": "web",
+    "url": "https://rastervision.io/",
+    "arxiv_id": "",
+    "title": "Raster Vision: An open-source machine learning library for deep ...",
+    "authors": [],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-24",
+    "headline": "Raster Vision: Open-Source GIS and Deep Learning Pipeline for Satellite Image Analysis",
+    "tldr": "Raster Vision is an open-source framework that unifies GIS and deep learning for remote sensing tasks. It offers configurable pipelines for chip classification, semantic segmentation, and object detection on satellite imagery.",
+    "significance": "It empowers researchers and developers to build scalable, reproducible computer vision models for Earth observation without reinventing the wheel.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "08e7250461cf1b46110771647a3396d8",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.20319v1",
@@ -1188,218 +1376,6 @@
       "benchmark"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6ea7d66b9327f048ebe52d6d776527af",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18066v1",
-    "arxiv_id": "2608.18066v1",
-    "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
-    "authors": [
-      "Qinyuan Ye",
-      "Yu Li",
-      "Yada Pruksachatkun"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Assessing the Reliability and Fragility of Memory‑Based Self‑Improving Agents in Online Learning",
-    "tldr": "This study re‑examines two memory‑based self‑improving agents, revealing significant variance due to task order and underspecification. The findings highlight the need for robust benchmarks and clearer specifications to ensure reliable performance.",
-    "significance": "It underscores that without careful evaluation, self‑improving agents may exhibit unpredictable behavior, jeopardizing their deployment.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "27296223a9d25f1e8a11e14fa1c08661",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18065v1",
-    "arxiv_id": "2608.18065v1",
-    "title": "Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States",
-    "authors": [
-      "Adil Attar",
-      "Amine M. Aboussalah",
-      "Mohamed Hibat-Allah"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Stabilizing Recurrent Neural Quantum States with Quantum Geometric Tensor Preconditioning",
-    "tldr": "This work introduces a preconditioning scheme based on the quantum geometric tensor to mitigate instability in training recurrent neural quantum states. Experiments demonstrate improved convergence and accuracy for ground-state estimation in many-body systems.",
-    "significance": "The method enables reliable training of autoregressive neural quantum states, advancing scalable quantum many-body simulations.",
-    "tags": [
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d977d460c803c72171fe9d298c94918c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18063v1",
-    "arxiv_id": "2608.18063v1",
-    "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
-    "authors": [
-      "Jiayi Song",
-      "Shijie Huang",
-      "Fangtai Wu"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "EDITBRIDGE: Efficient Ultra-High-Resolution Diffusion Editing Without Two-Stage Pipelines for Professional Workflows",
-    "tldr": "EDITBRIDGE introduces a novel diffusion-based framework that directly edits images at resolutions exceeding 4K, bypassing the memory bottleneck of traditional attention mechanisms. The method achieves high fidelity and speed, outperforming conventional two-stage low-resolution editing plus super-resolution pipelines on benchmark datasets.",
-    "significance": "By enabling faithful, efficient editing at ultra-high resolutions, EDITBRIDGE advances professional image processing and opens new possibilities for large-scale visual content creation.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "92740510984d00207e146213784edadd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18062v1",
-    "arxiv_id": "2608.18062v1",
-    "title": "TokEval: A Tokenizer Evaluation Suite",
-    "authors": [
-      "Clara Meister"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "TokEval: A Comprehensive Suite for Evaluating Language Model Tokenizers and Their Impact",
-    "tldr": "TokEval introduces a set of metrics that assess tokenizer design choices beyond token count, providing insights into how these choices influence downstream LLM performance. By offering a systematic evaluation framework, TokEval helps practitioners select tokenizers that align with specific model capabilities and application needs.",
-    "significance": "This framework enables more informed tokenizer selection, potentially improving LLM efficiency and effectiveness across diverse tasks.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6eb020335f7feca08a6f373a0ec0a5a8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18061v1",
-    "arxiv_id": "2608.18061v1",
-    "title": "The concentration game: Bayesian updating, regret, and information",
-    "authors": [
-      "Akshay Balsubramani"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Bayesian Updating Meets Regret Minimization in a Two-Player Zero-Sum Game",
-    "tldr": "We present a zero-sum repeated game where a learner updates beliefs via Bayesian inference while minimizing exponential-weight regret. The framework unifies concentration inequalities by linking terminal payoff to the maximum gain achievable under a fixed relative entropy constraint.",
-    "significance": "This work bridges game theory, Bayesian learning, and concentration results, offering a unified perspective on adaptive decision-making under uncertainty.",
-    "tags": [
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "016b0f2c9a3ab1399caef6bfbe41f3fc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18058v1",
-    "arxiv_id": "2608.18058v1",
-    "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
-    "authors": [
-      "Daria Leshchikova",
-      "Valentina V. Kuskova",
-      "Dmitry Zaytsev"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "When Users Accept Agentic Dating: Measuring Two‑Sided Receptivity in Online Matchmaking",
-    "tldr": "Autonomous LLM agents are increasingly used to converse on behalf of users in dating apps, but their success hinges on users’ willingness to both delegate and receive agent‑mediated messages. Our survey of 2,894 active users reveals a significant asymmetry in receptivity, highlighting the need for balanced design in agentic recommender systems.",
-    "significance": "Understanding this asymmetry is crucial for designing effective and user‑acceptable agentic matchmaking platforms.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1bb172711fbbc0147c11d6fa59ff4cc7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18056v1",
-    "arxiv_id": "2608.18056v1",
-    "title": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
-    "authors": [
-      "Xiao Wang",
-      "Shun Ren Yang",
-      "Hui Nien Hung"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Hybrid Live-Forecast Vehicle Rerouting for Real-Time Congestion Avoidance",
-    "tldr": "Urban traffic congestion hampers productivity and raises costs. HLSR selectively reroutes vehicles by combining live edge speeds with short-horizon forecasts, improving real-time routing efficiency.",
-    "significance": "HLSR offers a practical, scalable solution that balances computational load with routing accuracy, enabling smarter traffic management in real-world settings.",
-    "tags": [
-      "urban-AI",
-      "real-time",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6aa02640c0bc11997dbe7bdac562f003",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16889v1",
-    "arxiv_id": "2608.16889v1",
-    "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
-    "authors": [
-      "Bingxin Xu",
-      "Yuzhang Shang",
-      "Emilio Ferrara"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "LLM-Powered Subtask Planning Boosts Long-Horizon Robot Manipulation by Freezing Vision-Language Models",
-    "tldr": "The authors freeze vision-language-action models and let an LLM agent plan subtask sequences in language. This approach reduces error compounding and allows robots to execute long-horizon manipulation chains more reliably.",
-    "significance": "It demonstrates that LLM-driven subtask planning can overcome limitations of end-to-end VLA models in complex, multi-stage robotic tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "62f8b0a013dbd18585c66afc3537cdad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.16888v1",
-    "arxiv_id": "2608.16888v1",
-    "title": "Q-based Variational Inverse Reinforcement Learning",
-    "authors": [
-      "Ondrej Bajgar",
-      "Peter Tisnikar",
-      "Alessandro Abate"
-    ],
-    "published": "2026-08-17",
-    "curated_at": "2026-08-18",
-    "headline": "Q-Based Variational Inverse Reinforcement Learning: A Bayesian Approach to Preference Inference",
-    "tldr": "Q-based Variational IRL (QVIRL) introduces a Bayesian framework that infers reward functions from expert behavior using Q-functions. The method improves safety and alignment in AI by learning human preferences more efficiently.",
-    "significance": "QVIRL offers a principled way to align AI systems with human values, enhancing both safety and performance.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
