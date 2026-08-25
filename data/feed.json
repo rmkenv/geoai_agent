@@ -1,5 +1,288 @@
 [
   {
+    "uid": "4a8ddac5ba596c59e37075e4f0890882",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23566v1",
+    "arxiv_id": "2608.23566v1",
+    "title": "How to Train a Critic Stably and Efficiently",
+    "authors": [
+      "Penghui Qi",
+      "Xiangxin Zhou",
+      "Wee Sun Lee"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Stable Critic Training for Large Language Models",
+    "tldr": "We analyze why critic-based RL for LLMs is unstable and propose BPCO, a stable, efficient training recipe. The method allows token-level advantage estimation from a single response, reducing sampling overhead.",
+    "significance": "This work enables reliable, efficient RL fine-tuning of LLMs without costly multi-response sampling.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f6525a623814616e64a7e3997e0d9c7c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23565v1",
+    "arxiv_id": "2608.23565v1",
+    "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+    "authors": [
+      "Zhifei Chen",
+      "Luozhou Wang",
+      "Guibao Shen"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "ReWorld: Interactive World Model Balances Short-Term Control with Long-Term Memory",
+    "tldr": "ReWorld introduces an interactive world model that tracks user actions and remembers past scenes in real time. By separating short‑term control and long‑term memory during training and using mixed attention windows, it achieves bounded inference while preserving unbounded memory.",
+    "significance": "It enables real‑time, long‑horizon interaction for applications like virtual exploration and simulation.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "857a42f31450a62de23f8e61699c60f5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23564v1",
+    "arxiv_id": "2608.23564v1",
+    "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+    "authors": [
+      "Deyao Hong",
+      "Yizhe Chi",
+      "Wenyi Li"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "SWE Refactor Bench: Testing Autonomous Stack Migration with Coding Agents",
+    "tldr": "The SWE Refactor Bench evaluates whether coding agents can autonomously migrate an entire repository's technology stack, a task beyond current benchmarks that only test functional correctness. This benchmark measures long-horizon, whole-repository changes to assess real-world automation potential.",
+    "significance": "It bridges the gap between bug-fixing capabilities and large-scale refactoring, offering a realistic test for future AI-driven software maintenance.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "90f04cff0aa8005e57dac0dc6a88c074",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23562v1",
+    "arxiv_id": "2608.23562v1",
+    "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+    "authors": [
+      "Yuanyuan Zhang",
+      "Yida Zhang",
+      "Jiahui Li"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Physics-Constrained Deep Learning for Contactless Blood Pressure Monitoring via Triaxial Bodyseismography",
+    "tldr": "This study introduces a physics-constrained deep learning framework that extracts blood pressure signals from triaxial bodyseismography data, overcoming variability in body-bed interactions. The model demonstrates robust, real-time BP estimation suitable for long-term, unobtrusive monitoring.",
+    "significance": "By integrating physical constraints, the model achieves accurate, generalizable blood pressure monitoring without contact, paving the way for continuous health surveillance.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6a90a791ef18a59bcd829bc6a0439b75",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23561v1",
+    "arxiv_id": "2608.23561v1",
+    "title": "Flux-induced Aharonov-Bohm Oscillation in the Tunneling Spectroscopy of Kitaev Spin Liquids",
+    "authors": [
+      "Wen-Han Kao",
+      "Elio J. König"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Flux-Induced Aharonov-Bohm Oscillations Reveal Majorana Interference in Kitaev Spin Liquids",
+    "tldr": "We demonstrate that a single π flux in a Kitaev spin liquid produces an Aharonov-Bohm-like interference pattern in the Majorana continuum, observable via inelastic electron tunneling spectroscopy. This provides a direct probe of flux excitations and their mutual statistics with itinerant Majorana fermions.",
+    "significance": "The work offers a novel spectroscopic fingerprint for detecting emergent gauge fluxes, advancing experimental access to exotic quasiparticles in quantum spin liquids.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ab2cd4384685d665b4e8bd41bdf219df",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23556v1",
+    "arxiv_id": "2608.23556v1",
+    "title": "Quaternionic Hermitian Band Geometry in Four Dimensions: Realization on $S^4$ and Obstruction on $T^4$",
+    "authors": [
+      "Dongju Hwang",
+      "Minjae Yu",
+      "Gil Young Cho"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Quaternionic Hermitian Band Geometry: Realization on S⁴ and Obstruction on T⁴",
+    "tldr": "We prove that the minimal‑charge lowest Landau level on the four‑sphere S⁴ provides a global realization of quaternionic Hermitian band geometry, while a saturated, nondegenerate realization induced by a single occupied quaternionic band is topologically obstructed on the four‑torus T⁴. The obstruction arises from an antiunitary symmetry τ satisfying τ²=−1, which forces a nontrivial second Chern class on T⁴.",
+    "significance": "This work establishes a clear realization–obstruction dichotomy for quaternionic band topology in four dimensions, linking geometric quantization on S⁴ with topological constraints on T⁴.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7ee4c9323d3df15033c0f1126c8f1869",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23555v1",
+    "arxiv_id": "2608.23555v1",
+    "title": "Two-loop renormalisation and Higgs phenomenology in the five-dimensional MSSM",
+    "authors": [
+      "Ammar Abdalgabar",
+      "Alan S. Cornell",
+      "Aldo Deandrea"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Two-loop 5D MSSM Analysis Illuminates Higgs Mass Generation",
+    "tldr": "A comprehensive two-loop study of the five-dimensional MSSM shows that power-law running can naturally generate a large stop trilinear coupling. This allows the observed Higgs mass to be reproduced without requiring an excessively heavy supersymmetric spectrum.",
+    "significance": "It demonstrates that extra-dimensional supersymmetry can reconcile the Higgs mass with a relatively light superpartner spectrum.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "044b021e624a5f2b633a9bc31a8c20e0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23554v1",
+    "arxiv_id": "2608.23554v1",
+    "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+    "authors": [
+      "Daniil Dmitriev",
+      "Zhihan Huang",
+      "Yuting Wei"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Adaptive Sampling in Discrete Diffusion Models for Uniform and Remasking",
+    "tldr": "This paper introduces a provably adaptive sampling scheme for discrete diffusion models that works efficiently under both uniform and remasking forward processes. The authors prove that their sampler achieves near‑optimal complexity, breaking the linear‑dimension lower bound that plagues existing τ‑leaping methods.",
+    "significance": "It resolves a key bottleneck in diffusion‑based generation, enabling faster, scalable sampling for large‑scale generative tasks.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "cd4289dec338228e640626cfb3f66b4d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23552v1",
+    "arxiv_id": "2608.23552v1",
+    "title": "Prime Agent: A Self-Improving RLM Harness",
+    "authors": [
+      "Seth Karten",
+      "Alex L. Zhang",
+      "Kevin Thomas"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Prime Agent: Open-Source Harness for Long-Horizon Language Model Agency Evaluation and Workflow",
+    "tldr": "Prime Agent introduces a persistent IPython REPL that extends recursive language models with external compute, enabling long-horizon evaluation and coding-agent workflows. The open-source harness supports continual learning and real-time reasoning beyond the model’s internal context.",
+    "significance": "It bridges the gap between sequential language models and real-world agency by providing a modular, testable framework for long-horizon tasks.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "723cc1246491b771d96ddbbfc2fba156",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23550v1",
+    "arxiv_id": "2608.23550v1",
+    "title": "When \"Do Not\" Is Not Deny: Security Rules in CLAUDE.md vs Built-In Controls",
+    "authors": [
+      "Ting Yan"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Do Not vs Deny: Comparing CLAUDE.md Natural Language Rules to Built-In Controls",
+    "tldr": "We analyze how natural-language 'do not' directives in CLAUDE.md differ from Claude Code's built-in deny controls. Our study of 481 public files shows a measurable gap between the two approaches.",
+    "significance": "Understanding this gap informs better design of LLM safety mechanisms and policy compliance.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "aab6e1de945279901ec3577822998a59",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23549v1",
+    "arxiv_id": "2608.23549v1",
+    "title": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
+    "authors": [
+      "Khiem Vuong",
+      "Deva Ramanan",
+      "Srinivasa Narasimhan"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Refining 3D-Consistent Rendering via Video Generative Priors for Sparse View Artifacts",
+    "tldr": "This paper introduces a method that uses diffusion-based generative priors to refine 3D rendering across sparse input views, achieving consistent results across representations like Gaussian Splatting and NeRF. By leveraging video generative models, the approach generalizes across different 3D representations without custom architectures.",
+    "significance": "It offers a unified, architecture-agnostic solution to reduce rendering artifacts in sparse-view 3D scenes, advancing realistic view synthesis.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "point-cloud",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "60bd2a95a2f0a8c76be2323850e59a88",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.23548v1",
+    "arxiv_id": "2608.23548v1",
+    "title": "Preparing for the Early eVolution Explorer: The Impact of Flare Temperature on Ozone Column Depth in Earth-Like Atmospheres",
+    "authors": [
+      "Jaime S. Crouse",
+      "Nicholas F. Wogan",
+      "Ward S. Howard"
+    ],
+    "published": "2026-08-24",
+    "curated_at": "2026-08-25",
+    "headline": "Stellar Flare Temperature Variability and Its Effect on Ozone in Earth‑Like Atmospheres",
+    "tldr": "Atmospheric models often use a 9,000 K flare spectrum, but observations show flare temperatures ranging from 4,000 to 40,000 K. This study simulates how such temperature variations influence ozone column depth over time.",
+    "significance": "Understanding flare temperature impacts is crucial for assessing exoplanet habitability and atmospheric chemistry.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d4446b2d5754997795eb525cfaead966",
     "source": "web",
     "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
@@ -1096,286 +1379,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "977adff93e202c1832846550a6131174",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19190v1",
-    "arxiv_id": "2608.19190v1",
-    "title": "SiNMULI: Novel Signed Network Approach for Malicious URL Identification",
-    "authors": [
-      "Avijit Gayen",
-      "Sayan Mondal",
-      "Angshuman Jana"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "SiNMULI: Signed Network Model Enhances Detection of Malicious URLs in Real-Time",
-    "tldr": "SiNMULI introduces a novel signed network framework that captures relationships between URLs and user interactions, improving phishing detection accuracy. The model leverages graph-based features and achieves state‑of‑the‑art performance on benchmark datasets.",
-    "significance": "By modeling malicious URL propagation as a signed network, SiNMULI offers a scalable, interpretable solution that outperforms traditional machine‑learning classifiers.",
-    "tags": [
-      "benchmark",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "27ab5fbf60ec6439698ffb116940ef5f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19188v1",
-    "arxiv_id": "2608.19188v1",
-    "title": "PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views",
-    "authors": [
-      "Ayush Kaura",
-      "Vignesh Vembar",
-      "Md Faizal Karim"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "PartialBiGrasp: Inferring Hidden Geometry for Dual-Arm Grasping from Partial Views",
-    "tldr": "PartialBiGrasp introduces a method to infer hidden local geometry for bimanual grasping using only partial point cloud views. By predicting sparse graspable regions from incomplete data, it enables dual-arm robots to manipulate large, complex objects that were previously ungraspable with single-arm approaches.",
-    "significance": "This approach expands the capability of dual-arm robots to handle large, geometrically complex objects by overcoming the limitation of incomplete sensor data.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "71c89dcaef3dc0fa0ddcb9242b819aab",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19186v1",
-    "arxiv_id": "2608.19186v1",
-    "title": "Diffuse HI emission in the circumgalactic medium of NGC891 and NGC4565 - III: azimuthal profiles",
-    "authors": [
-      "Mary Rickel",
-      "Sanskriti Das",
-      "Nickolas M. Pingel"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "Azimuthal Profiles of Diffuse HI Emission in the CGM of NGC891 and NGC4565",
-    "tldr": "The study maps the inner neutral circumgalactic medium around NGC891 and NGC4565, revealing a 360° view of HI inflows and co-rotation within 25–30 kpc. It confirms that minor‑axis inflows and major‑axis co‑rotation persist across the full azimuthal range.",
-    "significance": "These observations provide the most complete azimuthal characterization of neutral gas in nearby galaxy halos, refining models of gas accretion and disk–halo interaction.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "change-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7805745f348e8175d342fdec4f426def",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19184v1",
-    "arxiv_id": "2608.19184v1",
-    "title": "A Fast Deterministic Algorithm for $(Δ+1)$-edge coloring in CONGEST",
-    "authors": [
-      "Sebastian Brandt",
-      "Ananth Narayanan",
-      "Alexandre Nolin"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "Deterministic (Δ+1)-Edge Coloring Achieved in Polylogarithmic Rounds on CONGEST in Distributed Setting",
-    "tldr": "A recent deterministic algorithm finds a (Δ+1)-edge coloring in poly(Δ, log n) rounds in the CONGEST model, improving upon previous randomized methods. The technique leverages new combinatorial insights to overcome communication bottlenecks.",
-    "significance": "This result demonstrates that optimal edge coloring can be achieved deterministically in near-linear time on distributed networks, closing a long-standing gap between theory and practice.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f8a6f4d2cb3f3a4fcac4aa9e0bbc9406",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19183v1",
-    "arxiv_id": "2608.19183v1",
-    "title": "The regular pentagon is canonically Ramsey",
-    "authors": [
-      "Benedict Randall Shaw"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "Canonical Ramsey Property of the Regular Pentagon Revealed",
-    "tldr": "Researchers proved that any colouring of a sufficiently large point set contains either a monochromatic or rainbow copy of a regular pentagon. This extends the canonical Ramsey theory beyond triangles to more complex polygons.",
-    "significance": "The result deepens our understanding of geometric configurations in combinatorial geometry, showing that even regular pentagons exhibit canonical Ramsey behaviour.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c2d11f9baa24f89673303789ce891b9b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18077v1",
-    "arxiv_id": "2608.18077v1",
-    "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
-    "authors": [
-      "Hongyu Li",
-      "Bowen Wen",
-      "Xinghao Zhu"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Hydra-0: Generalist World Model Using Action Flow for Cross-Embodiment Control",
-    "tldr": "We present Hydra-0, a generalist world model that encodes robot actions as pixel motion, enabling shared visual interfaces across embodiments and tasks. The model achieves significant reductions in robot- and object-motion error compared to prior methods.",
-    "significance": "Hydra-0 demonstrates that action flow can unify world modeling and control across diverse robots and environments, paving the way for more adaptable autonomous systems.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6e9a8b56f711a38f255a31f15bf6ce8b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18076v1",
-    "arxiv_id": "2608.18076v1",
-    "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-    "authors": [
-      "Xingjian Wang",
-      "Zhao Wang",
-      "Taihang Hu"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Designing Data for Generalist Image Generation: A Capability-Centric Pipeline Approach",
-    "tldr": "The paper introduces a new data design paradigm that aligns heterogeneous supervision with interdependent generative capabilities, enabling more efficient training of generalist image generation models. By curating corpora in a capability-centric manner, the authors demonstrate improved performance across multiple generation tasks compared to conventional task-specific datasets.",
-    "significance": "This work provides a scalable framework for building versatile image generation systems that can adapt to diverse tasks without retraining separate models.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "76a35a6b779ce9ceeff12a6d1d181e68",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18073v1",
-    "arxiv_id": "2608.18073v1",
-    "title": "Analytic Continuation of Conformal Integrals in Momentum Space",
-    "authors": [
-      "Jonathan Gräfe",
-      "Prashanth Raman",
-      "Denis Werth"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Analytic Continuation of Conformal Triple‑K Integrals for Higher‑Point Correlators in Momentum Space",
-    "tldr": "This work extends the analytic continuation of triple‑K integrals, key building blocks of conformal correlators, to arbitrary complex dimensions. The results provide a systematic framework for evaluating higher‑point functions in momentum space.",
-    "significance": "It offers a unified method to compute conformal correlators, enhancing our ability to test holographic dualities and conformal bootstrap techniques.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e302b607149830db25b629f8af2b676e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18072v1",
-    "arxiv_id": "2608.18072v1",
-    "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
-    "authors": [
-      "Iryna Hartsock",
-      "Cesar Lam",
-      "Christopher Otteni"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Multi-Agent AI System Enhances Radiology Report Structuring and Quality Assurance",
-    "tldr": "We developed a locally deployed multi-agent AI pipeline that structures and verifies radiology reports from CT scans. Evaluation on 638 reports from 15 radiologists shows improved consistency and reduced errors.",
-    "significance": "This study demonstrates that a multi-agent AI framework can reliably standardize radiology documentation, potentially improving clinical workflow and patient safety.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4d4e0b4db3596b18cb1eccc73c06fcc8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18071v1",
-    "arxiv_id": "2608.18071v1",
-    "title": "Ultrafast and high resolution spatial light modulation for cold atoms",
-    "authors": [
-      "Alexander Dennisovich Deters",
-      "Yanfei Li",
-      "Alexander Douglas"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Ultrafast, High-Resolution Spatial Light Modulation Enables Precise Control of Cold Atom Arrays",
-    "tldr": "A new ultrafast spatial light modulator provides high-resolution optical shaping, allowing precise local control of programmable ultracold atom arrays. This advancement accelerates quantum computation and simulation by enabling rapid, accurate manipulation of atomic qubits.",
-    "significance": "The technology dramatically improves the scalability and fidelity of quantum processors based on cold atoms.",
-    "tags": [
-      "spatial-reasoning",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5629cd707d52dc8cfee09a11d3555109",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18069v1",
-    "arxiv_id": "2608.18069v1",
-    "title": "Revisiting the Intra-Team Communication Method to Elicit Level-k Reasoning in Beauty Contests and 11-20 Games",
-    "authors": [
-      "Zitian Wang",
-      "Istiak Ahmed",
-      "Patarasate Unjitwattana"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Revisiting Intra-Team Communication for Level‑k Reasoning in Beauty Contests and 11‑20 Games",
-    "tldr": "We use intra‑team communication to uncover level‑0 strategies in beauty contests and 11‑20 games. The results show how higher‑level players evaluate these baseline actions.",
-    "significance": "It advances understanding of bounded rationality by linking communication methods to level‑k modeling.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b9a2d7e8e616f4256ddc9e7a13a249bd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.18067v1",
-    "arxiv_id": "2608.18067v1",
-    "title": "Planning Against Learning in Rank-1 Games",
-    "authors": [
-      "William Overman"
-    ],
-    "published": "2026-08-18",
-    "curated_at": "2026-08-19",
-    "headline": "Strategic Planning Against Learners in Rank‑1 Games: Optimizing for Replicator Dynamics",
-    "tldr": "In repeated multi‑agent settings, a player can anticipate and shape a learner’s future actions by planning against the learner’s adaptation dynamics. The paper shows that optimizing against the continuous‑time Replicator Dynamics is computationally tractable for rank‑1 games.",
-    "significance": "This work bridges game theory and online learning, enabling opponents to strategically influence learning agents in a tractable manner.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
