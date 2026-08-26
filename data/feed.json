@@ -1,5 +1,215 @@
 [
   {
+    "uid": "af85bbcba1905cd4e6958a2145d9c784",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24885v1",
+    "arxiv_id": "2608.24885v1",
+    "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+    "authors": [
+      "Sixiang Chen",
+      "Jiaming Liu",
+      "Jixian Wu"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "Evaluating Action-Conditioned World Models: Do They Truly Follow Robot Actions?",
+    "tldr": "This study introduces a benchmark to test whether action-conditioned world models accurately simulate futures for arbitrary actions. Findings reveal gaps in action fidelity, prompting alignment techniques to improve policy learning.",
+    "significance": "Accurate action simulation is critical for safe and efficient robotic policy development, and this work provides the first systematic evaluation and alignment framework.",
+    "tags": [
+      "benchmark",
+      "foundation-models",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "125271245b81d8501e4f22efee22fd6f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24882v1",
+    "arxiv_id": "2608.24882v1",
+    "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
+    "authors": [
+      "Xiang Li",
+      "Yupeng Zheng",
+      "Songen Gu"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "Latent Action Intention Boosts World Action Models, Reducing Latency but Hitting Generalization Limits",
+    "tldr": "World Action Models predict future observations for robot control, yet generating them at test time is slow. Fast-WAM eliminates this step, improving speed but sacrificing generalization, especially with limited data and out-of-distribution cases.",
+    "significance": "This study highlights the trade-off between real-time efficiency and robustness in future-aware robotic models.",
+    "tags": [
+      "real-time",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0e242242120378aca4e2acba85f56182",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24881v1",
+    "arxiv_id": "2608.24881v1",
+    "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+    "authors": [
+      "Hao Chen"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "Uncovering Hidden Flaws in FID: New Methods for Generative Model Evaluation",
+    "tldr": "The paper shows that Fréchet Inception Distance (FID) can miss significant distributional differences because it only uses first two moments. It proposes alternative diagnostics and ranking strategies that better capture deviations in generative models.",
+    "significance": "By exposing FID's blind spots, the work guides researchers toward more reliable generative model benchmarks.",
+    "tags": [
+      "diffusion-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2f9a56493bd4034588f928deb8bad1bc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24877v1",
+    "arxiv_id": "2608.24877v1",
+    "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
+    "authors": [
+      "Jiangning Zhang",
+      "Haojun Chen",
+      "Yong Liu"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "Smart Glasses: From Capture Devices to First-Person Intelligence Platforms Enabling Real-Time Interaction",
+    "tldr": "Smart glasses are transforming into first-person intelligence platforms that fuse human perception with persistent context and actionable outputs. They must balance power, heat, privacy, and feedback while delivering real-time, context-aware insights.",
+    "significance": "This evolution unlocks new possibilities for immersive, context-sensitive human-computer interaction across diverse domains.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "object-detection",
+      "segmentation"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "df19e623e28c91e1a119cead72cbb8a3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24876v1",
+    "arxiv_id": "2608.24876v1",
+    "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+    "authors": [
+      "Zhaochen Yu",
+      "Yingcheng Wu",
+      "Zhenfei Yin"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "Recursive Experiential‑Working Memory Boosts Long‑Horizon Agent Performance by Guiding Skill Selection",
+    "tldr": "Recuris introduces a recursive Experiential‑Working Memory that tracks task progress and informs skill selection, aligning agent behavior with current needs. This architecture improves long‑horizon task performance by mitigating history‑induced misalignment.",
+    "significance": "It offers a scalable solution to the recursive self‑improvement challenge in complex, long‑duration tasks.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7de59a2a51c12e52cf57de792d3eea71",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24872v1",
+    "arxiv_id": "2608.24872v1",
+    "title": "Binary Hypothesis Testing: A Robust Framework Against the Look Elsewhere Effect",
+    "authors": [
+      "Han Zhang",
+      "Xue-feng Ding",
+      "Yu-Feng Li"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "Robust Binary Testing Mitigates Look-Elsewhere Effect in Particle Physics Discoveries",
+    "tldr": "This paper presents a robust binary hypothesis testing framework that accounts for the look‑elsewhere effect, ensuring that discovery claims are not inflated by scanning over parameter space. By distinguishing between pre‑specified and exploratory tests, the method provides a more reliable significance assessment for particle physics experiments.",
+    "significance": "The framework improves the credibility of 5σ discovery claims by rigorously correcting for multiple testing across the search space.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9c9c07eeb8e01da6bc159d0da32b9537",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24871v1",
+    "arxiv_id": "2608.24871v1",
+    "title": "NatPar: Natural Parametric Modeling",
+    "authors": [
+      "Hirbod Assa"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "NatPar: Parametric Insurance Models for Natural Catastrophes in the Insurance Industry",
+    "tldr": "We propose NatPar, a parametric insurance framework that replaces indemnity loss adjustments with contractual indices, building on NatCat modeling. The approach aims for practical, industry-standard solutions rather than theoretical optimal contracts.",
+    "significance": "NatPar offers a scalable, industry-friendly method to monetize natural hazard exposure, bridging the gap between catastrophe modeling and parametric insurance products.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "65a81055da6a29b020622aed3cacd81a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24870v1",
+    "arxiv_id": "2608.24870v1",
+    "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+    "authors": [
+      "Kai Ruan",
+      "Jinghao Lin",
+      "Qianshan Wei"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "SPO++: Streamlined Policy Optimization for Asynchronous Agentic RL",
+    "tldr": "SPO++ removes the need for sibling rollouts by using a persistent prompt-level value estimate, enabling efficient asynchronous RL. The method also demonstrates that trajectory centering improves performance over token-mean actor loss.",
+    "significance": "This approach accelerates training of agentic RL systems, making them more practical for long, variable tool-use tasks.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "aafbe4a532ec43b3ae2a85bb7a482eea",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.24867v1",
+    "arxiv_id": "2608.24867v1",
+    "title": "Fast generation of spectrally-shaped disorder, on the sphere",
+    "authors": [
+      "Mathias Casiulis",
+      "Stefano Martiniani"
+    ],
+    "published": "2026-08-25",
+    "curated_at": "2026-08-26",
+    "headline": "Rapid Generation of Spectrally-Shaped Disordered Point Patterns on the Sphere",
+    "tldr": "This work introduces a fast algorithm for creating spectrally-shaped disordered point patterns on spherical domains, enabling efficient exploration of material and computational designs. The method leverages spherical harmonics to enforce Fourier-space constraints while maintaining computational scalability.",
+    "significance": "It opens new avenues for designing materials and algorithms that require controlled disorder on curved surfaces.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "4a8ddac5ba596c59e37075e4f0890882",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.23566v1",
@@ -1168,216 +1378,6 @@
       "time-series"
     ],
     "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d26ee451b33304cf09b012c5db41ed70",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20327v1",
-    "arxiv_id": "2608.20327v1",
-    "title": "Competing triangular and stripe supersolid orders in a dipolar quantum gas",
-    "authors": [
-      "Karthik Chandrashekara",
-      "Christian Gölzhäuser",
-      "Lily Platt"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "Competing Triangular and Stripe Supersolid Orders Observed in a Dipolar Quantum Gas",
-    "tldr": "Researchers have experimentally realized two distinct supersolid patterns—triangular and stripe—in a dipolar quantum gas. This observation confirms theoretical predictions and opens avenues for exploring exotic quantum phases.",
-    "significance": "The discovery provides the first experimental evidence of competing spatial orders in dipolar supersolids, validating complex phase diagrams predicted by theory.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "076e75093f5105d907ee40687f2328ab",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20326v1",
-    "arxiv_id": "2608.20326v1",
-    "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
-    "authors": [
-      "Parampreet Singh",
-      "Anushka Singh",
-      "Sumit Kumar"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "Margin‑Controlled Confidence Estimation for Reliable Music Retrieval",
-    "tldr": "Deep neural networks often overestimate confidence, misleading users. The proposed TCP_α method trains a lightweight auxiliary head to generate more reliable confidence scores for music information retrieval tasks.",
-    "significance": "TCP_α offers a practical, post‑hoc solution to improve trustworthiness of MIR predictions by controlling confidence margins.",
-    "tags": [
-      "time-series",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ba56353d3396eb6230538eccc52b896c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20325v1",
-    "arxiv_id": "2608.20325v1",
-    "title": "Strange Metal Hall Effect in Underdoped BaFe$_2$(As$_{1-x}$P$_x$)$_2$",
-    "authors": [
-      "Augusto Ghiotto",
-      "Darian Hall",
-      "Yuanqi Lyu"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "Hall Effect Reveals Doping-Independent Behavior in Strange Metal BaFe2(As1−xPx)2",
-    "tldr": "The study measures the Hall effect in underdoped BaFe2(As1−xPx)2 and finds a doping‑independent contribution that persists across a wide temperature range. This suggests a universal transport mechanism in strange metals beyond the quasiparticle picture.",
-    "significance": "It provides new insight into the fundamental physics of high‑temperature superconductors by identifying a universal Hall response in the strange metal regime.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "16422fe4751f0846068b2a136475769d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20323v1",
-    "arxiv_id": "2608.20323v1",
-    "title": "Spin-torque microwave detectors of positive rectangular pulse signals",
-    "authors": [
-      "V. Prokopenko",
-      "O. Shtanko",
-      "I. Sotnyk"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "Spin-Torque Microwave Detectors Operate in Linear and Nonlinear Pulse Regimes",
-    "tldr": "We study spin-torque microwave detectors driven by positive rectangular current pulses and identify linear and nonlinear operation regimes. The time-averaged voltage scales linearly with pulse amplitude in the linear regime and shows distinct behavior in the nonlinear regime.",
-    "significance": "This work provides a framework for optimizing spin-torque detectors for high-speed microwave sensing applications.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "585d232d103437a051483ae1aa3e92b5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20322v1",
-    "arxiv_id": "2608.20322v1",
-    "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
-    "authors": [
-      "Anton Lambrecht",
-      "Reda El Hail",
-      "Xianjun Jiao"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "Comparing Ceiling-Mounted FMCW, IR-UWB, and Wi-Fi Radar for Bedside Activity Monitoring",
-    "tldr": "This study evaluates three RF sensing technologies—FMCW radar, IR-UWB, and Wi-Fi—in identical bedroom setups to detect human activity and sleep interruptions. Results highlight trade-offs in accuracy, latency, and deployment complexity, guiding future contact‑free health monitoring systems.",
-    "significance": "It provides the first side‑by‑side benchmark of these radar modalities under controlled conditions, informing design choices for non‑intrusive sleep and activity monitoring.",
-    "tags": [
-      "remote-sensing",
-      "benchmark",
-      "real-time",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5d8be4bb2f4eaf7ed12eb1642612e878",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19198v1",
-    "arxiv_id": "2608.19198v1",
-    "title": "Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows",
-    "authors": [
-      "Venkatkrishna Karumanchi",
-      "Ziv Goldfeld",
-      "Kengo Kato"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "Probabilistic Gromov–Wasserstein Gradient Flow Convergence",
-    "tldr": "The paper derives a probabilistic representation for the inner product Gromov–Wasserstein gradient flow of relative entropy with respect to a Gaussian measure, proving convergence and connecting it to diffusion processes and PDEs.",
-    "significance": "It links optimal transport theory with stochastic PDEs, providing new analytical tools for metric measure spaces.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "394d3defbb2904990c39bb08d35b1631",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19197v1",
-    "arxiv_id": "2608.19197v1",
-    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
-    "authors": [
-      "Bo Liu",
-      "Simon Yu",
-      "Yiding Jiang"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "SPADE: Self-Play RL for Adaptive Synthetic Environments with LLMs",
-    "tldr": "SPADE introduces a self-play reinforcement learning framework that lets a single large language model generate and solve increasingly diverse synthetic goals. By continuously expanding its goal pool, the agent adapts to scaling challenges and improves performance without external supervision.",
-    "significance": "This approach enables language agents to autonomously evolve their training curriculum, overcoming the limitations of static goal distributions.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "09e25925e763339592af1c0ae0e55d60",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19194v1",
-    "arxiv_id": "2608.19194v1",
-    "title": "Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act",
-    "authors": [
-      "Nicola Fabiano"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "Using Qualified Cross-References to Verify EU AI Act Compliance Framework",
-    "tldr": "The paper proposes a method for representing legal cross-references with qualified links that capture legal character, supporting provisions, and conditions. This approach ensures consistency and verifiability across the EU AI Act’s normative environment.",
-    "significance": "It offers a systematic way to encode and verify legal relationships, enhancing transparency and compliance in AI governance.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "884d91bfc8f8dbb3cb1247a11378747d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.19191v1",
-    "arxiv_id": "2608.19191v1",
-    "title": "The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications",
-    "authors": [
-      "Luis Adrián Lizama-Pérez"
-    ],
-    "published": "2026-08-19",
-    "curated_at": "2026-08-20",
-    "headline": "Reconstructing Primes from Totient Products: The Structured Totient Preimage Problem",
-    "tldr": "The Structured Totient Preimage (STP) problem asks to recover k distinct λ‑bit primes given only the product of their decremented values, x = ∏(p_i−1). While verifiable efficiently, the problem’s reconstruction hardness has implications for cryptographic constructions.",
-    "significance": "STP provides a new hard problem that could underpin cryptographic primitives and offers insight into prime reconstruction challenges.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "advanced"
   }
 ]
