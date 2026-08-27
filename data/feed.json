@@ -1,5 +1,339 @@
 [
   {
+    "uid": "9a44d550a3f23df8ce069fceb392c6fe",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26105v1",
+    "arxiv_id": "2608.26105v1",
+    "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "authors": [
+      "Junxiang Xu",
+      "Ruisi Wang",
+      "Fanyi Pu"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "VBVR-Pro: Scalable, Verifiable Visual Reasoning Suite for Generative Substrate Benchmarking",
+    "tldr": "VBVR-Pro introduces a scalable framework for native visual reasoning, treating images and videos as problem‑solving substrates rather than mere inputs or outputs. It provides reliable feedback mechanisms and controlled comparisons across generative models, enabling systematic evaluation of visual reasoning capabilities.",
+    "significance": "By formalizing visual reasoning as a first‑class substrate, VBVR‑Pro unlocks new avenues for AI systems to solve complex tasks directly through visual generation, bridging a critical gap between perception and action.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fc7254bbc5656b9fca53f22c2c5d34c0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26104v1",
+    "arxiv_id": "2608.26104v1",
+    "title": "Multicomponent Magnetic Domain Walls in Rhombohedral Graphene",
+    "authors": [
+      "Mainak Das",
+      "Nemin Wei",
+      "Chunli Huang"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Exploring Multicomponent Magnetic Domain Walls in Rhombohedral Graphene and Their Microscopic Properties",
+    "tldr": "We investigate a one-dimensional domain wall in valley-imbalanced quarter-filled rhombohedral multilayer graphene, revealing rich spin-valley textures. The study provides microscopic insights into novel magnetic spatial structures that could guide future spintronic applications.",
+    "significance": "This work uncovers new multicomponent magnetic textures in graphene, opening pathways for valleytronic and spintronic device engineering.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4a284e01fe5dc931b77ee54517016162",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26103v1",
+    "arxiv_id": "2608.26103v1",
+    "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+    "authors": [
+      "Jiaming Zhou",
+      "Qihang Zhang",
+      "Gangwei Xu"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Zero-WAM: Using Human Videos for Zero-Shot Task Generalization in Robotics",
+    "tldr": "Zero-WAM introduces an in-context learning framework that leverages human demonstration videos to enable robots to perform unseen manipulation tasks without retraining. The method demonstrates strong zero-shot cross-task generalization, showing that task specification alone can drive policy execution.",
+    "significance": "It shows that large language model style in-context learning can be extended to embodied agents, enabling flexible, zero-shot task execution.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ff5cd360bf38ccda9acd6fe60c2a16db",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26101v1",
+    "arxiv_id": "2608.26101v1",
+    "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+    "authors": [
+      "Bojia Zi",
+      "Xiaoyan Yang",
+      "Yu Zhou"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "RefVideo-6M: A Robust Reference-Based Large-Scale Dataset for Instructional Video Editing",
+    "tldr": "The authors present RefVideo-6M, a 6‑million‑sample dataset that supplies artifact‑free target videos and multimodal instruction signals for video editing tasks. This resource addresses the shortcomings of prior datasets that rely on automatic editing models and limited textual guidance.",
+    "significance": "By offering high‑quality, reference‑based training data, RefVideo-6M establishes a new benchmark that can accelerate the development of reliable instruction‑driven video editing models.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "950f017dbdcad8143c2470995fc26b19",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26100v1",
+    "arxiv_id": "2608.26100v1",
+    "title": "Integrated Hardware Annealing based on Langevin Dynamics for Ising Machines",
+    "authors": [
+      "Yongchao Liu",
+      "Lianlong Sun",
+      "Michael Huang"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Hardware Annealing with Langevin Dynamics Accelerates Ising Machine Optimization for Complex Problems",
+    "tldr": "This study introduces a hardware annealing algorithm based on Langevin dynamics to enhance Ising machines' ability to escape local minima. Experimental results show faster convergence and improved solution quality compared to conventional annealing.",
+    "significance": "It demonstrates a practical method to overcome energy landscape traps, boosting Ising machines' efficiency for combinatorial optimization.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3b242026b260b2489eeaafcbbda7eb44",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26099v1",
+    "arxiv_id": "2608.26099v1",
+    "title": "Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model",
+    "authors": [
+      "Isaac Tesfaye",
+      "André Eckardt"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Exact Spectrum and Quantum Geometry of the Quarter‑Flux Harper‑Hofstadter Four‑Band Model",
+    "tldr": "We derive closed‑form expressions for the energy spectrum and quantum geometric tensors of a four‑band Harper‑Hofstadter model at quarter flux. These results provide a rare analytical benchmark for topological band theory beyond two‑band systems.",
+    "significance": "Providing analytical solutions for a four‑band topological model deepens our understanding of quantum geometry and offers a benchmark for future studies.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ae246233305a633b1c118431f98aa953",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26098v1",
+    "arxiv_id": "2608.26098v1",
+    "title": "Probing the Properties of Neutral Clouds in the Vicinity of the Local Bubble: Linking three-dimensional Dust with Neutral Hydrogen Absorption",
+    "authors": [
+      "Aishani Das-Ghosh",
+      "Nickolas Pingel",
+      "Snežana Stanimirović"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Mapping Tiny-Scale Hydrogen Structures Near the Local Bubble Using 3D Dust and Pulsar Absorption",
+    "tldr": "Scientists used pulsar observations to detect variations in neutral hydrogen absorption, revealing tiny-scale structures within the Local Bubble. By correlating these variations with 3D dust maps, they uncovered the spatial distribution of interstellar clouds near the bubble’s walls.",
+    "significance": "This study provides the first direct link between small-scale hydrogen structures and dust distribution, improving our understanding of the Local Bubble’s internal composition.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "remote-sensing"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "98206b2d24b57681203ae0e4fbfff13c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26097v1",
+    "arxiv_id": "2608.26097v1",
+    "title": "The Isotopic and Elemental Abundances of Planet-Host Star TRAPPIST-1",
+    "authors": [
+      "Darío González Picos",
+      "Ian J. M. Crossfield",
+      "David Coria"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "TRAPPIST-1 Star’s Isotopic Fingerprint Reveals Planet Formation and Galactic Evolution Secrets",
+    "tldr": "The study measures the elemental and isotopic composition of TRAPPIST-1, a very low-mass star hosting seven Earth-sized planets. These measurements provide insights into the star’s natal material and the processes that shaped its planetary system.",
+    "significance": "By preserving its natal composition, TRAPPIST-1 offers a unique window into the chemical conditions that gave rise to its compact, habitable-zone planets.",
+    "tags": [
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b1f982a56af7b4eb1bcddfae2eb2f07b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26096v1",
+    "arxiv_id": "2608.26096v1",
+    "title": "Torsion balances as operational probes of semiclassical gravity: Matched-filter bounds, torque-diffusion constraints, and quantum-noise benchmarks",
+    "authors": [
+      "Jyotirmaya Mohanta",
+      "Yutaka Shikano"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Torsion Balance Experiments Set New Bounds on Semiclassical Gravity via Matched-Filter Analysis",
+    "tldr": "Using calibrated torsion-balance spectra, researchers derive matched-filter and Cramér-Rao bounds to constrain deterministic and stochastic deviations from Newtonian gravity. The study also establishes torque-diffusion limits and quantum-noise benchmarks, advancing precision tests of semiclassical gravity.",
+    "significance": "This work tightens experimental limits on quantum gravity effects, guiding future theoretical and experimental research.",
+    "tags": [
+      "benchmark",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "77f964ea1458e4ddf4d8fa382f8cda0d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26095v1",
+    "arxiv_id": "2608.26095v1",
+    "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+    "authors": [
+      "Kaichen Li",
+      "Zhilin Zhu",
+      "Jianhao Huang"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Enhancing Multimodal LLMs with Visual Dependence-Aware Unsupervised Continual Post-Training for Streaming Data Evolution",
+    "tldr": "The paper introduces a framework that incorporates token-level visual dependence into unsupervised post-training for multimodal large language models, allowing them to adapt continuously to streaming unlabeled data. This approach outperforms traditional uniform token optimization methods by better leveraging visual context.",
+    "significance": "It overcomes a critical limitation in current unsupervised post-training, enabling more effective continual learning for multimodal LLMs.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "29f20a772277cbeaa933d839f41b07a2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26094v1",
+    "arxiv_id": "2608.26094v1",
+    "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+    "authors": [
+      "Hao Yin",
+      "Paritosh Parmar",
+      "Lijun Gu"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "MyoMechanix: Biomechanically Grounded Feedback for Weight-Loaded Actions Using Multimodal Data",
+    "tldr": "MyoMechanix introduces a multimodal framework that fuses motion capture, muscle dynamics, and physiological signals to assess action quality in weight-loaded tasks. The system provides fine-grained, biomechanically grounded coaching feedback in real time.",
+    "significance": "It enables precise, personalized training guidance that surpasses visual-only assessments, advancing sports science and rehabilitation.",
+    "tags": [
+      "time-series",
+      "segmentation",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 1,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6645cca87e52a060c156123a3e31f8ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26093v1",
+    "arxiv_id": "2608.26093v1",
+    "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+    "authors": [
+      "Ahmad Khan",
+      "Akram Bin Sediq",
+      "Sara Azadegi Naeini"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Autonomous AI Agent Designs Wireless Power Control Algorithms, Eliminating Manual ML Engineering",
+    "tldr": "We show that an AI coding agent can autonomously design and train machine learning models for cell‑edge power control, removing the need for hand‑crafted architecture, loss functions, and training recipes. Using an autoresearch protocol, the agent edits scripts, runs experiments within a fixed budget, and iteratively improves performance.",
+    "significance": "This work demonstrates a paradigm shift where AI agents take over the entire ML design cycle for wireless resource management, potentially accelerating deployment and reducing human labor.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a801e8dacf1f16ec8cfe40ded14afdd9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26090v1",
+    "arxiv_id": "2608.26090v1",
+    "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+    "authors": [
+      "Raphaël Bonnet-Guerrini",
+      "Johann Ioannou-Nikolaides",
+      "Inar Timiryasov"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "Sparse Autoencoders Reveal Physical Concepts in IceCube Neutrino Foundation Model",
+    "tldr": "Researchers applied sparse autoencoders to a pretrained IceCube neutrino foundation model, uncovering a validated atlas of physical concepts within its latent space. The method uses strict held‑out tests and nuisance controls, demonstrating mechanistic interpretability for direction reconstruction.",
+    "significance": "This work provides the first mechanistic interpretability framework for particle‑physics foundation models, enabling transparent, physics‑grounded analysis of complex neural representations.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "dab30c5f988be48afff66978d8a9fbea",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26089v1",
+    "arxiv_id": "2608.26089v1",
+    "title": "From Producing to Validating: How AI Is Deskilling Freelancers",
+    "authors": [
+      "Nakul Rajpal"
+    ],
+    "published": "2026-08-26",
+    "curated_at": "2026-08-27",
+    "headline": "AI's Rise: How Generative Models Are Deskilling Freelancers in the Gig Economy",
+    "tldr": "Generative AI promises productivity gains but disproportionately harms freelancers who lack formal upskilling pathways. The resulting deskilling threatens both skill development and job security in the gig economy.",
+    "significance": "Understanding AI's uneven impact is crucial for designing equitable workforce policies.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "af85bbcba1905cd4e6958a2145d9c784",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.24885v1",
@@ -1052,332 +1386,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "ae209e53962acb1cb2504633cb6c4bd8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20317v1",
-    "arxiv_id": "2608.20317v1",
-    "title": "Projecting BrowseComp-Plus onto ClimbMix: Toward More Realistic Corpora for Agentic Search",
-    "authors": [
-      "Sahel Sharifymoghaddam",
-      "Lingwei Gu",
-      "Yijun Ge"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Expanding BrowseComp-Plus with ClimbMix for Realistic Agentic Search Corpora",
-    "tldr": "The BrowseComp-Plus benchmark replaced web search with a 100K‑document corpus, but its evidence and distractors were both drawn from the benchmark’s own queries. By projecting this corpus onto ClimbMix, researchers aim to create more realistic, diverse datasets for evaluating agentic search systems.",
-    "significance": "This work enhances benchmark realism, enabling more robust evaluation of language models in open‑domain search tasks.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "55b62b4dcda26d8f1b4463f8104c9dc5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20316v1",
-    "arxiv_id": "2608.20316v1",
-    "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
-    "authors": [
-      "Adam Fisch",
-      "Shubhendu Trivedi",
-      "Fantine Huot"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Efficient AI Routing: Balancing Specialist Selection and Estimation Costs for Low-Cost Queries",
-    "tldr": "Routing queries to specialist AI models can improve performance, but estimating each model’s value incurs cost. This paper proposes a cost‑aware routing framework that balances estimation expense against expected gains, enabling efficient, low‑cost query handling.",
-    "significance": "It demonstrates a practical method for deploying heterogeneous AI systems that optimally allocate queries while accounting for the cost of value estimation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "65354d289e63623132af410bd0283737",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20315v1",
-    "arxiv_id": "2608.20315v1",
-    "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
-    "authors": [
-      "Jun Ni Du",
-      "Lukas Adamek",
-      "Maxim Kryukov"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Explainable BERT for Predicting Clinical Outcomes from Structured EHR Timelines",
-    "tldr": "BERT-LER is a transformer model pretrained on 75M patient EHR timelines that incorporates quantitative lab data and provides event‑level interpretability for clinical prediction tasks. The model achieves state‑of‑the‑art performance on multiple outcome prediction benchmarks while allowing clinicians to trace predictions back to specific medical events.",
-    "significance": "It demonstrates that large‑scale transformer models can be both accurate and interpretable for real‑world EHR data.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "06871d4b1f80eb0a91dbc108d3daf74f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20314v1",
-    "arxiv_id": "2608.20314v1",
-    "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
-    "authors": [
-      "Fengqing Jiang",
-      "Yite Wang",
-      "Boyi Liu"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "MidTool: Enhancing LLMs with Mid-Training Data Synthesis for Tool Use",
-    "tldr": "MidTool presents a novel mid-training data synthesis approach that enhances LLMs' tool-use capabilities. The method improves reasoning-intensive tasks and agentic performance in software engineering contexts.",
-    "significance": "This work demonstrates that targeted mid-training can substantially elevate LLMs' practical tool-use abilities, paving the way for more autonomous AI systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "59cf96420fdcc8645000a40975ed2d35",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20312v1",
-    "arxiv_id": "2608.20312v1",
-    "title": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
-    "authors": [
-      "Liang Xu",
-      "Chengqun Yang",
-      "Zili Lin"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Inter-X++: A Comprehensive Multimodal Benchmark Dataset for Human-Human Interaction Analysis",
-    "tldr": "Inter-X++ introduces a richly annotated, high-fidelity multimodal dataset capturing human-human interactions, addressing gaps in kinematics and hand gesture representation. The benchmark enables robust evaluation of models for interaction understanding and paves the way for advanced digital human systems.",
-    "significance": "By providing high-quality multimodal annotations and a standardized evaluation protocol, Inter-X++ accelerates research toward more natural and context-aware digital humans.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cda02327323dcdde15e96452f1b24323",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20311v1",
-    "arxiv_id": "2608.20311v1",
-    "title": "Imaging the vacuum fluctuations of a quantum field",
-    "authors": [
-      "Yansheng Zhang",
-      "Feiyang Wang",
-      "Yi Jiang"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Visualizing Quantum Vacuum Fluctuations in Field Snapshots Using Advanced Imaging Techniques",
-    "tldr": "Quantum fields exhibit random spatial patterns even in vacuum due to Heisenberg uncertainty. New imaging methods capture these fluctuations, revealing fundamental physics and potential applications.",
-    "significance": "Imaging vacuum fluctuations provides direct insight into quantum vacuum energy and informs technologies ranging from precision measurement to quantum computing.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b79309cbae5f86a53297404deeef3370",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20309v1",
-    "arxiv_id": "2608.20309v1",
-    "title": "The Additive Arithmetic of Linear Orders",
-    "authors": [
-      "Garrett Ervin",
-      "Eric Paul"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Arithmetic of Linear Orders: Euclidean Algorithm and Lindenbaum Division in Theory",
-    "tldr": "We develop a systematic arithmetic for the class of linear orders under ordered sum, introducing a Euclidean algorithm for pairs that almost commute. The work unifies classical theorems, including Lindenbaum's division, and yields new results on additive structure.",
-    "significance": "This framework provides a unified algebraic foundation for linear order theory, extending classical results and enabling new insights into additive combinatorics.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5e03fc980df3865496d5eae5c4babf3d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20339v1",
-    "arxiv_id": "2608.20339v1",
-    "title": "An Optical Illusion: High Electron Densities Create Extremely Metal-Poor Galaxy Impostors",
-    "authors": [
-      "Tiger Yu-Yang Hsiao",
-      "Danielle A. Berg",
-      "Steven L. Finkelstein"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "High Electron Densities Mimic Extremely Metal-Poor Galaxies: An Optical Illusion",
-    "tldr": "JWST observations revealed galaxies that appear extremely metal-poor, but high electron densities can mimic low metallicity signatures. This study shows that careful analysis of ionized gas conditions is essential to avoid misclassifying galaxies as first-generation systems.",
-    "significance": "The work cautions against overinterpreting low-metallicity signatures in early galaxies, refining the search for truly primordial galaxies.",
-    "tags": [
-      "remote-sensing",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "37e8e8a4bd1732b074c2e3845ce7c3fd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20338v1",
-    "arxiv_id": "2608.20338v1",
-    "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
-    "authors": [
-      "Sahil Kale",
-      "Ian Harris"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "ConceptGuard: A New Benchmark for Context‑Sensitive Unlearning in Large Language Models",
-    "tldr": "ConceptGuard introduces a realistic evaluation framework that tests LLMs’ ability to forget context‑dependent knowledge without compromising unrelated facts. It moves beyond simple fact recall, addressing the nuanced demands of real‑world unlearning.",
-    "significance": "By revealing gaps in current unlearning methods, ConceptGuard pushes the development of safer, more controllable language models.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dbbde64fb7448b5e07d4aa5e8fa5d0fc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20335v1",
-    "arxiv_id": "2608.20335v1",
-    "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-    "authors": [
-      "Yudong Jin",
-      "Tao Xie",
-      "Qihang Zhang"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "4DAnyone: Reconstructing 4D Humans from Uncalibrated Monocular Video",
-    "tldr": "4DAnyone generates reconstruction‑grade, multiview‑consistent videos from a casual monocular clip and lifts them into 4D Gaussian Splatting, enabling 4D human reconstruction without camera calibration. It overcomes the view‑consistency limitations of existing diffusion models when scaling to dozens of target views.",
-    "significance": "This framework democratizes high‑fidelity 4D human reconstruction, allowing realistic avatars to be created from everyday videos without specialized hardware.",
-    "tags": [
-      "diffusion-models",
-      "point-cloud",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "25a8b8a7d4e97172a10d73c963f73e7e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20336v1",
-    "arxiv_id": "2608.20336v1",
-    "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-    "authors": [
-      "Hengyuan Xu",
-      "Qixun Wang",
-      "Yiji Cheng"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-    "tldr": "WithEveryone introduces a unified framework that simultaneously plans spatial layout and grounds identities for group image generation, ensuring each specified person appears in the correct location with accurate facial features. The method aligns noisy predicted faces through training-time identity losses, improving reliability over existing models.",
-    "significance": "This approach addresses a key limitation in multi-person image synthesis, enabling more accurate and scalable generation of complex scenes with multiple identities.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ce4d44fb8d2a543a4d8aa64d0c27e3af",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20334v1",
-    "arxiv_id": "2608.20334v1",
-    "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
-    "authors": [
-      "Taihang Hu",
-      "Zhao Wang",
-      "Zuan Gao"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "Swift-Image: Compact Unified Diffusion Model for Text-to-Image and Editing",
-    "tldr": "Swift-Image is a 6B single-stream DiT that unifies text-to-image generation and image editing in a single compact model. Through a progressive training pipeline and systematic engineering, it pushes the performance frontier while staying within a constrained computational budget.",
-    "significance": "It demonstrates that small, efficient diffusion models can achieve competitive performance across multiple vision tasks, enabling broader deployment.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2eafc01de16af90350a0a429796a0f06",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20329v1",
-    "arxiv_id": "2608.20329v1",
-    "title": "Production of quarkonium pairs via the fragmentation mechanism",
-    "authors": [
-      "Franco Barattini",
-      "Benjamin Guiot",
-      "Marat Siddikov"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "Fragmentation Mechanisms Drive Quarkonium Pair Production in High-Energy Collisions and Beyond",
-    "tldr": "We analyze how fragmentation processes contribute to the production of quarkonium pairs in hadronic collisions. A microscopic perturbative model for dihadron fragmentation functions is developed to quantify the double-hadron mechanism.",
-    "significance": "This work provides a quantitative framework for understanding quarkonium pair production, essential for interpreting LHC data and testing QCD factorization.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "33db22ad86c63e8f48cb297f31bc4fac",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20328v1",
-    "arxiv_id": "2608.20328v1",
-    "title": "The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics",
-    "authors": [
-      "Jiming Zheng",
-      "Zhiyue Lu"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-21",
-    "headline": "Memory Effects in Non-Markovian Jump Dynamics: A Trajectory-Level Fluctuation-Response Theory",
-    "tldr": "We formulate a fluctuation-response framework for non-Markovian jump processes directly on the event record, deriving exact stochastic equations for transition counts. This approach reveals how memory destroys closed master equations yet still permits precise response inequalities.",
-    "significance": "The work provides a rigorous tool to analyze memory-driven nonequilibrium systems, bridging trajectory statistics and response theory.",
-    "tags": [
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
