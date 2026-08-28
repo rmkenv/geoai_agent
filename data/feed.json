@@ -1,5 +1,287 @@
 [
   {
+    "uid": "97b6824839f54728a22f2fb48c58793e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27457v1",
+    "arxiv_id": "2608.27457v1",
+    "title": "Spectral Fingerprints of Gauge Theories on a Quantum Computer",
+    "authors": [
+      "Graham Van Goffrier",
+      "Debasish Banerjee",
+      "Bipasha Chakraborty"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "Quantum Spectral Sampling Unveils Gauge Theory Fingerprints, Enabling Precise Energy Landscape Mapping",
+    "tldr": "We present an unbiased quantum algorithm that samples the spectrum of a Hamiltonian, enabling extraction of finite-resolution spectral distributions across the entire energy range. By focusing on specific spectral regions, the method reveals the full fingerprint of gauge theories, including ground state properties and excited state dynamics.",
+    "significance": "This approach provides a scalable, quantum-enabled tool for probing complex gauge models, potentially accelerating discoveries in high-energy physics and quantum field theory.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fa89a352ed1c813c8620728c78688c3f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27456v1",
+    "arxiv_id": "2608.27456v1",
+    "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+    "authors": [
+      "Tianjie Ju",
+      "Zheng Wu",
+      "Yueqing Sun"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "UrbanGround: From Local Perception to Spatial Agency in Real-Scale City Navigation",
+    "tldr": "UrbanGround introduces a sandbox environment to evaluate how multimodal large language models translate street-level perception into actionable navigation in real-scale cities. The study demonstrates current MLLM limitations and highlights the need for improved spatial reasoning capabilities.",
+    "significance": "This work provides the first systematic benchmark for assessing urban agency in multimodal LLMs, guiding future research toward more reliable city-scale navigation.",
+    "tags": [
+      "foundation-models",
+      "urban-AI",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b1ac45a3cb1c4b3d342bde2d29817245",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27455v1",
+    "arxiv_id": "2608.27455v1",
+    "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+    "authors": [
+      "Yufan Wu",
+      "Yinghui He",
+      "Zhengyi Hu"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "CritICL: Efficient Inference-Time Reasoning for Small LLMs",
+    "tldr": "CritICL introduces a lightweight inference-time framework that leverages small language model failure modes to boost reasoning accuracy. It achieves this without repeated generation or external verification, maintaining high efficiency.",
+    "significance": "This work demonstrates that small LLMs can attain strong reasoning performance through inference-time adaptations, reducing computational overhead.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b61e42d8e1d4f8197d269caf8605d535",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27454v1",
+    "arxiv_id": "2608.27454v1",
+    "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+    "authors": [
+      "Liyan Tang",
+      "Cyrus Rashtchian",
+      "Chun-Sung Ferng"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "WikiSkill: Turning Agent Experience into Reusable Skills for Continuous Learning",
+    "tldr": "WikiSkill automatically extracts reusable skill modules from an agent's optimization history, enabling the agent to adapt and evolve its capabilities over time. By consolidating scattered insights into a persistent knowledge base, the system promotes systematic reuse and accelerates skill development.",
+    "significance": "This approach bridges the gap between episodic learning and long-term knowledge accumulation, making AI agents more efficient and adaptable.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e2fe173f4f62b11d2cd95550d6660472",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27452v1",
+    "arxiv_id": "2608.27452v1",
+    "title": "Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment",
+    "authors": [
+      "Binayyak Bhusan Roy",
+      "Jay Deep Sau",
+      "Sumanta Tewari"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "Quantum Capacitance Reveals Majorana Modes in Topological Superconducting Wires and Distinguishes Normal Segments",
+    "tldr": "A quantum-dot interferometer measures the quantum capacitance of a superconducting wire, allowing detection of Majorana zero modes at its ends. The distinct resonance patterns and magnetic flux dependence differentiate a topological wire from a trivial normal segment.",
+    "significance": "This technique provides a non-invasive probe to confirm Majorana modes, a key step toward topological quantum computing.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "29c29c7bdc5cea43469be0da8f2ec111",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27451v1",
+    "arxiv_id": "2608.27451v1",
+    "title": "Tacet: A Language and Type System for Automatic Statistical Validity Accounting",
+    "authors": [
+      "Chiké Abuah"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "Tacet: Automating Statistical Validity with a Dedicated Language and Type System",
+    "tldr": "Tacet introduces a programming language and type system that automatically tracks statistical validity across empirical comparisons. By encoding analysis structure, it enables rigorous multiple‑comparison correction without manual p‑value bookkeeping.",
+    "significance": "This work provides a principled framework for ensuring statistical soundness in empirical computer science research, reducing false discoveries.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "17b103cb3ede80fa07bb9f3172401f9e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27449v1",
+    "arxiv_id": "2608.27449v1",
+    "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+    "authors": [
+      "Dewu Zheng",
+      "Ruizhe Ye",
+      "Yanlin Wang"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "SWE-Prime: Reducing Trajectory Volume Improves LLM Performance on Software Tasks",
+    "tldr": "SWE-Prime demonstrates that selectively curating fewer, higher-quality agent trajectories yields superior fine-tuning of large language models for software engineering tasks. By filtering out redundant or risky steps, the approach achieves better performance with less data.",
+    "significance": "This work challenges the assumption that more data always leads to better LLMs, offering a more efficient path to high-performing software engineering assistants.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3324872f04dd96d27e07b03f2c541d46",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27448v1",
+    "arxiv_id": "2608.27448v1",
+    "title": "TTPO: Test-Time Policy Optimization",
+    "authors": [
+      "Aozhe Wang",
+      "Zhengxi Lu",
+      "Jianze Wang"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "Test-Time Policy Optimization Enhancing LLM Reasoning Without Ground Truth for Large Models",
+    "tldr": "This paper introduces Test-Time Policy Optimization (TTPO), a method that replaces reliance on ground-truth labels with majority-vote pseudo-labels to enable test-time training of large language models. TTPO improves mathematical reasoning performance while mitigating the fragility of pseudo-labels.",
+    "significance": "TTPO offers a practical approach to adapt LLMs during inference, reducing dependency on labeled data and advancing real-time reasoning capabilities.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2190cd27edec5012962e032fff9cf8a0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27447v1",
+    "arxiv_id": "2608.27447v1",
+    "title": "Proof of the AGT Conjecture at Generic $β$",
+    "authors": [
+      "Le-Feng Chen",
+      "Kilar Zhang"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "All-Level Proof of AGT Conjecture via Selberg Averages",
+    "tldr": "The paper presents a complete proof of the four-point SU(2) AGT correspondence at generic β by establishing a factorization formula for Selberg averages of generalized Jack polynomials. It derives one-box matrix elements through a Jack limit of the Macdonald Pieri rule.",
+    "significance": "It resolves a long-standing problem in mathematical physics by providing a rigorous foundation for the AGT correspondence at arbitrary deformation parameters.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "97b61162df5a1127171c5934e5e33804",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27443v1",
+    "arxiv_id": "2608.27443v1",
+    "title": "Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?",
+    "authors": [
+      "Ting Yan"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "User-Authored Permission Policies Reduce AI Agent Overreach and Enhance Trust",
+    "tldr": "AI agents can act across many services, but users often lack control. This study shows that allowing users to author simple allow/ask/never policies improves protection against overreach.",
+    "significance": "The findings suggest that user-friendly policy frameworks can make AI interactions safer and more transparent.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a44b5bee048085e663bec333da0d87df",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27442v1",
+    "arxiv_id": "2608.27442v1",
+    "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+    "authors": [
+      "Dewu Zheng",
+      "Yanlin Wang",
+      "Xiwen Wang"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "Benchmarking Dynamic Code Review with MCR-Bench: From Static to Interactive LLMs",
+    "tldr": "MCR-Bench introduces a multi-round code review benchmark that captures real-world developer interactions. It demonstrates how large language models can be evaluated and improved for dynamic, iterative code review tasks.",
+    "significance": "This benchmark bridges the gap between simplistic static evaluations and the complex, iterative nature of real code reviews, guiding future LLM development.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "31d12bfdcbed9a430cbd894aa83fce0f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27439v1",
+    "arxiv_id": "2608.27439v1",
+    "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+    "authors": [
+      "Junjie Zhang",
+      "Hui Liu",
+      "Kecheng Chen"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-28",
+    "headline": "RedEvoAgent: Evolving Red-Teaming Agents for LLM Security Testing via Experience-Driven Skill Evolution",
+    "tldr": "RedEvoAgent automates red-teaming of large language model agents by learning from attack trajectories, surpassing static attack methods. It demonstrates how coordinated jailbreak tools can induce harmful tool use and state changes, highlighting new security risks.",
+    "significance": "This work reveals that dynamic, experience-driven attackers pose a greater threat than fixed attacks, necessitating more robust defenses for LLM-based systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "9a44d550a3f23df8ce069fceb392c6fe",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.26105v1",
@@ -1110,281 +1392,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "3441556ebf46aa41f3fa9443062ecb5e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20301v1",
-    "arxiv_id": "2608.20301v1",
-    "title": "A two-point phase recovering with spherical wave reference",
-    "authors": [
-      "R. G. Novikov",
-      "V. N. Sivkin"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Two-Point Phase Recovery Using Spherical Reference Waves in Helmholtz Exterior Problems",
-    "tldr": "The paper presents two-point formulas to approximate the phase of a radiation solution by measuring the intensity of the combined total solution with a spherical reference wave. These formulas enable phase reconstruction in exterior Helmholtz problems without direct phase measurements.",
-    "significance": "It offers a practical method for phase retrieval in wave propagation problems, aiding imaging and inverse scattering applications.",
-    "tags": [
-      "remote-sensing",
-      "SAR",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a676d298f0ae637e932d645b028cbe8f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20298v1",
-    "arxiv_id": "2608.20298v1",
-    "title": "Zero-Sum Power Factor Games",
-    "authors": [
-      "Cameron Khanpour",
-      "Samuel Talkington",
-      "Mathieu Dahan"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Zero-Sum Power Factor Games: Controlling Voltage with Reactive Power Pre-Selection",
-    "tldr": "Operators can limit voltage deviations by remotely setting DER reactive power before active injections occur. This zero-sum game ensures constant power factor compliance per IEEE 1547-2018 while mitigating unpredictable active power fluctuations.",
-    "significance": "It provides a proactive strategy to maintain grid stability amid volatile renewable generation.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "045200e797373ab98fc4d3b085e348ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20296v1",
-    "arxiv_id": "2608.20296v1",
-    "title": "A blind spot in transverse BAO calibration",
-    "authors": [
-      "Domenico Sapone"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Blind Spot in Transverse BAO Calibration: Hidden Degeneracy with r_d h",
-    "tldr": "Transverse BAO measurements rely on a calibration that cannot be constrained by cosmological data alone. A constant error in the BAO scale is degenerate with r_d h, making it invisible to standard analyses.",
-    "significance": "This hidden degeneracy can bias cosmological parameter estimates, undermining the precision of BAO-based constraints.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a088c4cea67f470ae7cf9f921aa1a81c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20295v1",
-    "arxiv_id": "2608.20295v1",
-    "title": "Physical-Support Confidence Sets for Highly Coherent Dictionaries",
-    "authors": [
-      "Guan-Ju Peng"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Resolving Physical Support Conflicts in Highly Coherent Dictionaries for Sparse Pursuit",
-    "tldr": "We introduce a resolution-aware method that constructs confidence sets for the physical support of dictionary atoms, even when the dictionary is highly coherent. This approach reconciles calibration inconsistencies and yields more reliable interpretations in sparse pursuit applications.",
-    "significance": "By providing statistically grounded support confidence sets, the method improves the interpretability and robustness of dictionary-based signal recovery in noisy, highly coherent settings.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6d78ff5de9be13db57c0494611793feb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20294v1",
-    "arxiv_id": "2608.20294v1",
-    "title": "QED radiative effects in semi-inclusive deep-inelastic scattering: traditional and factorized approaches",
-    "authors": [
-      "Igor Akushevich",
-      "Haiyan Gao",
-      "Alexander Ilyichev"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Comparing Traditional and Factorized QED Radiative Corrections for SIDIS Nucleon Structure",
-    "tldr": "This study compares traditional and factorized approaches to QED radiative corrections in semi‑inclusive deep‑inelastic scattering. The authors find that the factorized method provides a more accurate extraction of parton distributions, especially at low transverse momentum.",
-    "significance": "Accurate treatment of QED radiation is essential for precise determination of parton distribution functions from SIDIS experiments.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c3cd5e647dede8a0356c8e49b5879871",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20293v1",
-    "arxiv_id": "2608.20293v1",
-    "title": "Non-Minimally Coupled Warm Inflation in the Defining Frame",
-    "authors": [
-      "Adrián Casado-Turrión",
-      "Paulo B. Ferraz",
-      "Mindaugas Karčiauskas"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Warm Inflation Dynamics in F(Φ)R Theories: Defining vs Einstein Frame Analysis",
-    "tldr": "We study warm inflation in scalar‑tensor F(Φ)R gravity in the defining frame and translate the dynamics to the Einstein frame. The dissipation ratio is reduced by modified‑gravity effects, showing that the effective warm‑inflation behavior can be consistently described in either frame.",
-    "significance": "This work clarifies how modified gravity influences dissipation during warm inflation, aiding the interpretation of early‑universe models.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5ce940ae892682fc359597a89a5e5cdd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20291v1",
-    "arxiv_id": "2608.20291v1",
-    "title": "Programmable cavity QED with a fiber-integrated atomic array",
-    "authors": [
-      "Stephan Roschinski",
-      "Johannes Schabbauer",
-      "Franz von Silva-Tarouca"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Fiber-Integrated Tweezer Array Enables Programmable Cavity QED with Rubidium Atoms",
-    "tldr": "Researchers integrated a twelve‑site ^87Rb optical tweezer array into a high‑cooperativity fiber cavity, achieving strong, site‑resolved atom‑photon coupling. This platform opens pathways for scalable quantum networks and programmable quantum optics experiments.",
-    "significance": "It demonstrates a scalable, controllable interface between neutral atoms and cavity QED, bridging tweezer arrays and high‑cooperativity cavities.",
-    "tags": [
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1e87ffaac7753507af26c7cf5ed0c3b4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20340v1",
-    "arxiv_id": "2608.20340v1",
-    "title": "Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations",
-    "authors": [
-      "Antti Peltola",
-      "Olli Siltanen",
-      "Kimmo Luoma"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Group-Theoretic Approach to Multi-Excitation Strong Light-Matter Coupling",
-    "tldr": "The paper extends polariton theory beyond single-excitation limits by employing group-theoretic methods, enabling accurate modeling of many-excitation dynamics. This framework paves the way for exploring complex light-matter phenomena in microcavities.",
-    "significance": "It provides a powerful mathematical tool to capture multi-excitation physics, crucial for designing next-generation photonic devices.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3a0f14d99ddfa8da2d8b680320aaf662",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20331v1",
-    "arxiv_id": "2608.20331v1",
-    "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-    "authors": [
-      "Shiao Xie",
-      "Siyu Chen",
-      "Jianwei Lv"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "G-CARL: Grounded Checklist-Aligned Reward Learning for Personalized Medical Report Interpretation",
-    "tldr": "We present G-CARL, a framework that aligns reward learning with evidence-based checklists to generate patient-friendly interpretations of medical reports. The approach combines foundation model capabilities with grounded factuality and context-aware communication, addressing gaps in current vision-language tasks.",
-    "significance": "G-CARL advances patient-centered care by ensuring medical reports are both factually accurate and easily understood by patients.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d682c826a814bd77e60cf1532eda64d1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20321v1",
-    "arxiv_id": "2608.20321v1",
-    "title": "Large Sample Properties of Higher Order Markov Models",
-    "authors": [
-      "Tuhin Majumder",
-      "Donald E. K. Martin",
-      "Soumendra N. Lahiri"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Central Limit Theorem for Growing-Order Markov Chains on Finite Alphabets",
-    "tldr": "We prove a central limit theorem for additive functionals of Markov chains whose order grows with sample size. The result uses return-time decompositions and requires mild ergodicity and sparsity conditions.",
-    "significance": "The work extends classical Markov chain asymptotics to high-order models, enabling rigorous inference for complex time-series data.",
-    "tags": [
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "68f0439835745e415c6fa12b51b49c38",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20320v1",
-    "arxiv_id": "2608.20320v1",
-    "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
-    "authors": [
-      "Narges Ahmadi",
-      "Yubo Jiao",
-      "Jônatas Augusto Manzolli"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "Agentic Workflow Combines Chatbot Data Collection and Predictive Modeling for Travel",
-    "tldr": "This study introduces a three-agent system that merges conversational data gathering, structured data processing, and behavior prediction for travel mode choices. A chatbot-administered, image-augmented survey demonstrates its effectiveness in real-world data collection.",
-    "significance": "By integrating data collection and modeling, the approach reduces evaluation gaps and enhances predictive accuracy in travel behavior research.",
-    "tags": [
-      "LLM",
-      "time-series",
-      "urban-AI"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ffe07a420416fb18f11499d196c92edc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20318v1",
-    "arxiv_id": "2608.20318v1",
-    "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
-    "authors": [
-      "Yizhe Chi",
-      "Wenyi Li",
-      "Deyao Hong"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-22",
-    "headline": "AI4AI-Bench: Evaluating LLM Agents for Recursive Self-Improvement in Algorithmic Design",
-    "tldr": "Recursive self‑improvement asks whether an AI can enhance the training algorithm that creates future AIs, thereby improving the compute‑capability exchange rate. AI4AI‑Bench tests LLM agents on this process, measuring how better objectives or update rules propagate across successive runs.",
-    "significance": "Benchmarking RSI in LLM agents provides a systematic way to assess whether training improvements can be self‑propagated, informing safe and efficient AI evolution.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
