@@ -1,5 +1,188 @@
 [
   {
+    "uid": "6d4ff52eaa6647ba9e101446e44cb24b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27458v1",
+    "arxiv_id": "2608.27458v1",
+    "title": "The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6",
+    "authors": [
+      "Darby M. Kramer",
+      "Alexander van Engelen",
+      "Frank J. Qu"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-29",
+    "headline": "ATC Telescope Tightens Bounds on CMB Anisotropic Screening & Birefringence",
+    "tldr": "The Atacama Cosmology Telescope’s DR6 observations provide the most stringent constraints yet on anisotropic screening caused by Thomson scattering of CMB photons. They also limit the rotation of CMB polarization due to cosmic birefringence, tightening bounds on parity‑violating physics beyond the Standard Model.",
+    "significance": "These results sharpen constraints on early‑universe physics and potential new interactions that could leave imprints on the CMB.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "434e0013b58f70addf5325f999bc6f8a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27438v1",
+    "arxiv_id": "2608.27438v1",
+    "title": "Graded Ehrhart theory for hypersimplices",
+    "authors": [
+      "Nathaniel Libman",
+      "Weston Miller"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-29",
+    "headline": "Graded Ehrhart Theory for Hypersimplices: q-Ehrhart Series and Orbit Harmonics",
+    "tldr": "We prove that the q-Ehrhart series of a hyperplane slice of a cube is a rational function with an explicit denominator satisfying q-reciprocity, confirming a conjecture of Reiner and Rhoades. We also find a generating set for the orbit harmonics ideal, yielding the Hilbert series and graded Frobenius characteristic of the quotient.",
+    "significance": "This work resolves a conjecture in combinatorial geometry and provides new tools for studying orbit harmonics and graded Frobenius characteristics.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "941f4950aa6a696c7e844d6e350d0c07",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27437v1",
+    "arxiv_id": "2608.27437v1",
+    "title": "The JWST/NIRCam Scattered Light Disks GTO 2780 program: panchromatic coronagraphic imaging of the HD 10647, HD 32297, HD 61005, HD 107146, and HD 181327 debris disk systems",
+    "authors": [
+      "András Gáspár",
+      "Jarron M. Leisenring",
+      "Schuyler Grace Wolff"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-29",
+    "headline": "JWST Reveals Fine Structures in Five Debris Disk Systems with NIRCam Coronagraphy",
+    "tldr": "The James Webb Space Telescope’s NIRCam instrument captured high‑contrast, panchromatic images of five nearby debris disks, revealing intricate rings, gaps, and asymmetries that hint at unseen planets. These observations provide unprecedented detail on dust composition and dynamics, advancing our understanding of planetary system evolution.",
+    "significance": "This study delivers the most detailed scattered‑light view of multiple debris disks, offering critical constraints on planet–disk interactions.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "91f406ebec968c4c5311245e53356751",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27435v1",
+    "arxiv_id": "2608.27435v1",
+    "title": "Free Novikov-Zinbiel algebra",
+    "authors": [
+      "A. Dauletiyarova",
+      "F. Mashurov",
+      "B. Sartayev"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-29",
+    "headline": "Constructing a Basis for Novikov‑Zinbiel Algebras via Graded Rational Functions",
+    "tldr": "We consider a commutative associative algebra with an invertible derivation and define two operations that give a Novikov‑Zinbiel algebra. Using a graded model we represent monomials by rational functions and explicitly build a basis for the resulting space.",
+    "significance": "This provides an explicit combinatorial description of Novikov‑Zinbiel algebras, facilitating further algebraic and representation‑theoretic investigations.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0ef6659e8d1481fa85fc99902e91d8cd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27431v1",
+    "arxiv_id": "2608.27431v1",
+    "title": "Monotonicity of the propagation speed with respect to the diffusion in a Lotka-Volterra competition-diffusion system",
+    "authors": [
+      "Cyrille Kenne"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-29",
+    "headline": "Monotonicity of Propagation Speed in Lotka-Volterra Competition-Diffusion Systems",
+    "tldr": "The study demonstrates how diffusion ratios influence the speed of traveling fronts in strongly competing species, revealing a smooth, monotonic relationship. This determines which species successfully invades the other's territory.",
+    "significance": "Understanding diffusion-driven invasion dynamics informs ecological management and predictive modeling of species spread.",
+    "tags": [
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f2216e40e84938cb95fa590f4b0e342e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27429v1",
+    "arxiv_id": "2608.27429v1",
+    "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+    "authors": [
+      "Nguyen Xuan-Vu",
+      "Octavian Susanu",
+      "Daniel Armstrong"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-29",
+    "headline": "MAELLE: Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+    "tldr": "MAELLE introduces a novel mechanistic framework that predicts chemical reactions by modeling electron rearrangements as discrete flow matching on graph-structured electron occupancy. This approach moves beyond heuristic graph edits, enabling more accurate and interpretable reaction predictions.",
+    "significance": "By directly modeling electron dynamics, MAELLE offers a more faithful representation of reaction mechanisms, potentially accelerating drug discovery and materials design.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f5eee2bcfc092af3a0385597245d6ffb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27428v1",
+    "arxiv_id": "2608.27428v1",
+    "title": "Stochastic Estimation of Transduced Language Models",
+    "authors": [
+      "Vésteinn Snæbjarnarson",
+      "Samuel Kiegeland",
+      "Manuel de Prada Corral"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-29",
+    "headline": "Stochastic Estimation of Transduced Language Models via Finite-State Transducers for Target Strings",
+    "tldr": "Transduced language models combine a pretrained source language model with a finite-state transducer to generate a language model over target strings. Estimating target prefix probabilities requires summing source probabilities over all source strings mapped to target prefixes, which can be computationally expensive.",
+    "significance": "This approach enables efficient probabilistic modeling of transformed language outputs, bridging pretrained models and structured mapping.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "93d2aeada826ab62cac1fd29c56bcdab",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27424v1",
+    "arxiv_id": "2608.27424v1",
+    "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
+    "authors": [
+      "Qianlong Lan",
+      "Vinothini Pandurangan",
+      "Anuj Kaul"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-29",
+    "headline": "Assessing AI Model Security Scanners: Coverage, Failure Recovery, and Benchmarking",
+    "tldr": "We benchmark three static AI model scanners—ModelScan, ModelAudit, and Fickling—on a synthetic corpus of 170 Pickle and PyTorch artifacts. The study reveals gaps in coverage and failure recovery, highlighting the need for standardized evaluation metrics.",
+    "significance": "This work provides the first systematic evaluation of AI model security scanners, guiding developers toward more robust artifact safety practices.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "97b6824839f54728a22f2fb48c58793e",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.27457v1",
@@ -1211,186 +1394,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "c372756dc3050e8979c1ab5331fba6b3",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "Remote Sensing Change Detection: A Curated Collection of Datasets, Tools, and Competitions",
-    "tldr": "This repository compiles the latest datasets, tools, methods, review papers, and competitions for remote sensing change detection. It serves as a go-to resource for researchers and practitioners to stay updated and benchmark their models.",
-    "significance": "It accelerates research by centralizing high-quality resources, enabling faster development and evaluation of change detection algorithms.",
-    "tags": [
-      "remote-sensing",
-      "change-detection",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "05673d0fa14b4f02d093dfad57f9cfcf",
-    "source": "web",
-    "url": "https://ruview.online/",
-    "arxiv_id": "",
-    "title": "RuView Free AI WiFi Sensing, ESP32 CSI Radar & Spatial Intelligence",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "RuView: Open-Source AI WiFi Sensing with ESP32 CSI Radar for Spatial Intelligence",
-    "tldr": "RuView is an open‑source, edge‑native AI WiFi sensing platform that transforms everyday ESP32 microcontrollers into long‑range spatial radar arrays. By converting ambient high‑frequency radio waves into detailed environmental telemetry, it enables real‑time spatial intelligence without cameras.",
-    "significance": "RuView democratizes advanced radar sensing, making high‑resolution spatial awareness accessible on low‑cost hardware.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "76a848462cb579374f52b6c2e4ea0f19",
-    "source": "web",
-    "url": "https://sourceforge.net/directory/?q=remote%20sensing",
-    "arxiv_id": "",
-    "title": "remote sensing free download - SourceForge",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "Explore 38 Open-Source Remote Sensing Projects on SourceForge for Data Scientists",
-    "tldr": "SourceForge hosts 38 open-source remote sensing projects, offering tools for building production-ready AI agents and models. Users can filter projects and access over 200 Google and third‑party AI models to accelerate development.",
-    "significance": "These resources empower developers to rapidly prototype and deploy remote sensing solutions without licensing barriers.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "satellite-imagery",
-      "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "Raster Vision: Open-Source GIS and Deep Learning Pipeline for Satellite Image Analysis",
-    "tldr": "Raster Vision is an open-source framework that unifies GIS and deep learning for remote sensing tasks. It offers configurable pipelines for chip classification, semantic segmentation, and object detection on satellite imagery.",
-    "significance": "It empowers researchers and developers to build scalable, reproducible computer vision models for Earth observation without reinventing the wheel.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "08e7250461cf1b46110771647a3396d8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20319v1",
-    "arxiv_id": "2608.20319v1",
-    "title": "Inducing Task Models from Computer-Use Traces",
-    "authors": [
-      "Yucheng Jiang",
-      "Zora Zhiruo Wang",
-      "Ruishi Chen"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Learning Task Models from Naturalistic Computer-Use Traces for Auditable AI Agents",
-    "tldr": "By passively recording screenshots, mouse, and keyboard actions, we can derive symbolic models of everyday work. These models enable AI agents to learn real task flows and allow organizations to audit and reuse work knowledge.",
-    "significance": "This approach bridges the gap between human workflow understanding and AI automation, ensuring transparency and reusability in workplace AI.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5936905539a6d36e66b3e2f68f0d5757",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20308v1",
-    "arxiv_id": "2608.20308v1",
-    "title": "DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery",
-    "authors": [
-      "Yufei Liu",
-      "Xixi Wang",
-      "Hao Li"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "DreamHand: Recovering 3D Hand Motion from Occluded Egocentric Video Using Video Diffusion Models",
-    "tldr": "DreamHand repurposes video diffusion models to robustly recover metric 3D hand trajectories from egocentric videos, even with severe occlusion and out-of-sight gaps. It achieves this by leveraging efficient inference techniques that avoid heavy, stochastic multi-step sampling.",
-    "significance": "This approach enables scalable, accurate hand motion capture for embodied AI without requiring extensive labeled data or complex multi-view setups.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5ac671ff5a7a02d1d448f414bf9eaf6f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20307v1",
-    "arxiv_id": "2608.20307v1",
-    "title": "The Nearby Star Formation and Supernova Histories Reconstructed from Young Star Clusters",
-    "authors": [
-      "Cameren Swiggum",
-      "Catherine Zucker",
-      "Michelangelo Pantaleoni González"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Reconstructing Solar Neighborhood Star Formation and Supernova Histories Using Young Star Clusters",
-    "tldr": "By integrating the past trajectories of Gaia-based young star clusters, we infer the recent star formation rate and core‑collapse supernova frequency in the Solar Neighborhood. The study links cluster ages, masses, and velocities to an axisymmetric Galactic potential to reconstruct a detailed time‑series of local stellar deaths.",
-    "significance": "This work provides the first high‑resolution reconstruction of local star formation and supernova activity, offering a benchmark for Galactic evolution models.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fba021dea60e8c14d5a1ceb86ef037ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.20306v1",
-    "arxiv_id": "2608.20306v1",
-    "title": "Computational Methods of Wave Propagation for Semiclassical Models of High Harmonic Generation in Bulk Solids",
-    "authors": [
-      "Ava N. Hejazi",
-      "Nicholas Karpowicz",
-      "Gregory D. Scholes"
-    ],
-    "published": "2026-08-20",
-    "curated_at": "2026-08-23",
-    "headline": "Self‑Consistent Maxwell–Bloch Simulation of High‑Order Harmonic Generation in Bulk Solids",
-    "tldr": "We develop a self‑consistent computational framework that couples Maxwell’s equations with semiconductor Bloch equations to model nonlinear light‑matter interactions in bulk semiconductors. The method captures high‑order harmonic generation and its propagation, revealing distinct reflected and transmitted harmonic spectra.",
-    "significance": "This approach provides a predictive tool for designing solid‑state high‑harmonic sources and understanding ultrafast light propagation in materials.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
