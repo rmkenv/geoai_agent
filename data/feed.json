@@ -1,5 +1,189 @@
 [
   {
+    "uid": "f583d97fc32d862be38182c9c04c7a47",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27427v1",
+    "arxiv_id": "2608.27427v1",
+    "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+    "authors": [
+      "Yisen Xi"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-30",
+    "headline": "Separating Persona and Execution for Auditable LLM Agents in Governed Environments",
+    "tldr": "This paper introduces Persona‑Execution Separation, a pattern that splits an LLM agent’s persona and its execution into distinct trust domains linked by a governed contract bridge. It enables the persona to evolve freely while keeping stateful work auditable and traceable.",
+    "significance": "It provides a scalable, cost‑effective way to balance flexibility and governance for LLM agents in regulated organizations.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d88783eadac0c50a781e5d18eb241885",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27425v1",
+    "arxiv_id": "2608.27425v1",
+    "title": "Leading term strandings for webs",
+    "authors": [
+      "Michael Bo",
+      "Madelyn Burns",
+      "Junyang Chen"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-30",
+    "headline": "Identifying Leading Term Strandings in sl_n Webs: A New Construction Approach",
+    "tldr": "This paper introduces a method to identify leading term strandings in sl_n webs, which encode the dominant monomial of the invariant vector. By providing an algorithmic construction, it facilitates explicit computations in quantum group representation theory.",
+    "significance": "The technique streamlines the extraction of leading terms, aiding both theoretical analysis and computational applications in quantum algebra.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8676b735066442dd86cb90af9943a9e0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27423v1",
+    "arxiv_id": "2608.27423v1",
+    "title": "High-order stabilized matrix-free simulation of rotating mixing devices using the Mortar Element Method",
+    "authors": [
+      "B. Campos",
+      "P. Munch",
+      "V. O. Ferreira"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-30",
+    "headline": "High-Order Matrix-Free Simulation of Rotating Mixers via Mortar Element Method",
+    "tldr": "We develop a high-order continuous Galerkin framework for rotating mixers, employing a matrix-free Navier-Stokes solver and Mortar Element domain decomposition. The method uses ALE to handle rotor-stator motion, enabling efficient, stabilized simulations of complex mixing devices.",
+    "significance": "This approach enables accurate, scalable simulations of rotating mixers without assembling large matrices, improving design and optimization of industrial mixing processes.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5c1b37af023d6c500af161153240a26f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27422v1",
+    "arxiv_id": "2608.27422v1",
+    "title": "misi: a Metric Inverted Sample Index",
+    "authors": [
+      "Edgar Chavez"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-30",
+    "headline": "MISI: Efficient Inverted Sample Index for Approximate Nearest-Neighbor Search in Metric Spaces",
+    "tldr": "MISI introduces a lightweight inverted index that samples database points to enable fast approximate nearest-neighbor queries in any metric space. By representing each object with its nearest sample points and using IDF-weighted shared-neighbor voting, it achieves high recall with minimal verification cost.",
+    "significance": "MISI offers a scalable, open-source solution that reduces ANN search time while maintaining accuracy across diverse metric spaces.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6189164039b82d19ac05b872c9201b07",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27421v1",
+    "arxiv_id": "2608.27421v1",
+    "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
+    "authors": [
+      "Kevin Zhu",
+      "Ryan Zhang",
+      "Baraa Abed"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-30",
+    "headline": "Continuous Sepsis Severity Score Learned from Patient Trajectories Across Two Hospitals",
+    "tldr": "We developed a continuous sepsis severity score using deep learning on longitudinal vital signs, without hourly labels, and validated it on 29,116 and 7,691 patients from two hospitals. The model outperformed existing fixed indices and offers a data‑driven alternative for real‑time clinical decision support.",
+    "significance": "This study provides a scalable, data‑driven sepsis severity metric that can adapt to modern ICU populations and improve early detection.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e7e927dbdf8db5875d60c12c7b782f9a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27420v1",
+    "arxiv_id": "2608.27420v1",
+    "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
+    "authors": [
+      "Xingyu Shen",
+      "Huishuai Zhang",
+      "Peng Li"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-30",
+    "headline": "Weak-Model Guidance Enhances LLM Exploration in RLVR",
+    "tldr": "RLVR improves LLM reasoning but reduces policy entropy, limiting coverage. Introducing weak-model guidance restores entropy and boosts pass@k.",
+    "significance": "This method expands reasoning diversity in large language models without sacrificing performance.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e7977c16d93c960f855206ba9e57b2fd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27418v1",
+    "arxiv_id": "2608.27418v1",
+    "title": "Value distribution of multiplicative functions along linear fractional sequences",
+    "authors": [
+      "Sun-Kai Leung"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-30",
+    "headline": "Characterizing Limit Points of Multiplicative Functions on Linear Fractional Sequences",
+    "tldr": "We provide a full description of the limit points of any unimodular multiplicative function evaluated on the rational values of a linear fractional transformation. The result hinges on the multiplicative recurrence of the resulting set and yields a complete classification.",
+    "significance": "This work resolves a long-standing question about the asymptotic behavior of multiplicative functions on rational sequences, bridging analytic number theory and dynamical systems.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "43930037ea2895e24c0bedbd44e9ea32",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.27417v1",
+    "arxiv_id": "2608.27417v1",
+    "title": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
+    "authors": [
+      "Chanho Park",
+      "Daehyeon Choi",
+      "Jihyun Lee"
+    ],
+    "published": "2026-08-27",
+    "curated_at": "2026-08-30",
+    "headline": "Visual Retrieval Heads Reveal How VLMs Locate and Extract Image Regions",
+    "tldr": "We show that vision‑language models contain visual retrieval heads that can locate image regions referenced by text. These heads enable the model to route visual evidence to the output, revealing a new mechanism for spatial reasoning.",
+    "significance": "This discovery uncovers the internal mechanism behind VLMs’ ability to perform grounded language tasks, opening avenues for more interpretable and controllable multimodal AI.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "6d4ff52eaa6647ba9e101446e44cb24b",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.27458v1",
@@ -1214,181 +1398,6 @@
     "significance": "It bridges the gap between sequential language models and real-world agency by providing a modular, testable framework for long-horizon tasks.",
     "tags": [
       "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "723cc1246491b771d96ddbbfc2fba156",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23550v1",
-    "arxiv_id": "2608.23550v1",
-    "title": "When \"Do Not\" Is Not Deny: Security Rules in CLAUDE.md vs Built-In Controls",
-    "authors": [
-      "Ting Yan"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Do Not vs Deny: Comparing CLAUDE.md Natural Language Rules to Built-In Controls",
-    "tldr": "We analyze how natural-language 'do not' directives in CLAUDE.md differ from Claude Code's built-in deny controls. Our study of 481 public files shows a measurable gap between the two approaches.",
-    "significance": "Understanding this gap informs better design of LLM safety mechanisms and policy compliance.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "aab6e1de945279901ec3577822998a59",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23549v1",
-    "arxiv_id": "2608.23549v1",
-    "title": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
-    "authors": [
-      "Khiem Vuong",
-      "Deva Ramanan",
-      "Srinivasa Narasimhan"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Refining 3D-Consistent Rendering via Video Generative Priors for Sparse View Artifacts",
-    "tldr": "This paper introduces a method that uses diffusion-based generative priors to refine 3D rendering across sparse input views, achieving consistent results across representations like Gaussian Splatting and NeRF. By leveraging video generative models, the approach generalizes across different 3D representations without custom architectures.",
-    "significance": "It offers a unified, architecture-agnostic solution to reduce rendering artifacts in sparse-view 3D scenes, advancing realistic view synthesis.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "point-cloud",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "60bd2a95a2f0a8c76be2323850e59a88",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23548v1",
-    "arxiv_id": "2608.23548v1",
-    "title": "Preparing for the Early eVolution Explorer: The Impact of Flare Temperature on Ozone Column Depth in Earth-Like Atmospheres",
-    "authors": [
-      "Jaime S. Crouse",
-      "Nicholas F. Wogan",
-      "Ward S. Howard"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Stellar Flare Temperature Variability and Its Effect on Ozone in Earth‑Like Atmospheres",
-    "tldr": "Atmospheric models often use a 9,000 K flare spectrum, but observations show flare temperatures ranging from 4,000 to 40,000 K. This study simulates how such temperature variations influence ozone column depth over time.",
-    "significance": "Understanding flare temperature impacts is crucial for assessing exoplanet habitability and atmospheric chemistry.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d4446b2d5754997795eb525cfaead966",
-    "source": "web",
-    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
-    "arxiv_id": "",
-    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "2025 GeoAI Breakthroughs: Predictive Analytics, Automation, and Climate Solutions for Urban and Global Challenges",
-    "tldr": "The year 2025 saw GeoAI models harness satellite imagery and LLMs to deliver real-time flood detection, crop monitoring, and urban planning insights. These advancements enable cities and policymakers to proactively address climate risks and optimize resource allocation.",
-    "significance": "These innovations mark a pivotal shift toward data-driven resilience, empowering stakeholders to mitigate environmental threats and enhance sustainable development.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "urban-AI"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "Charting the Future of Geospatial Artificial Intelligence: Trends, Challenges, and Opportunities",
-    "tldr": "GeoAI merges geospatial science with AI, rapidly evolving across spatial data science and geography. Understanding recent advances and future directions is essential for leveraging its transformative potential.",
-    "significance": "This work highlights the critical need to map GeoAI's evolving landscape to guide research and application.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
-    "source": "web",
-    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
-    "arxiv_id": "",
-    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "Top 5 GeoAI Trends Shaping 2025: From Foundation Models to Real-Time Flood Detection",
-    "tldr": "GeoAI is rapidly evolving, with foundation models unlocking new analytical capabilities across satellite imagery and urban planning. Key trends for 2025 include real-time flood detection, precision crop monitoring, and AI-driven change detection in city landscapes.",
-    "significance": "These trends promise to transform how we monitor and manage Earth's resources, driving smarter decisions in agriculture, urban development, and disaster response.",
-    "tags": [
-      "foundation-models",
-      "satellite-imagery",
-      "urban-AI",
-      "flood-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "079f3198282271621f612e9d277c56ab",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
-    "arxiv_id": "",
-    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "GeoAI Revolutionizes Geospatial Analysis: Merging Data, Sensors, and AI for Smarter Insights",
-    "tldr": "Artificial intelligence is reshaping geospatial science by integrating diverse data sources and advanced analytics. GeoAI empowers organizations to capture, analyze, and act on spatial information faster and more accurately than ever before.",
-    "significance": "GeoAI unlocks unprecedented precision and speed in mapping, monitoring, and decision-making across sectors.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5726a3b43144d7ef941cae3b32cb3288",
-    "source": "web",
-    "url": "https://github.com/RSandAI",
-    "arxiv_id": "",
-    "title": "Remote Sensing AI · GitHub",
-    "authors": [],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-24",
-    "headline": "RSandAI GitHub: GeoAI Research Outputs from Istanbul Technical University and Beyond",
-    "tldr": "The RSandAI GitHub page hosts a collection of remote sensing and AI research outputs supervised by Prof. Dr. Elif SERTEL at Istanbul Technical University. It includes datasets, code, and results that showcase state‑of‑the‑art GeoAI techniques.",
-    "significance": "It provides an open, reproducible resource for researchers and practitioners to advance GeoAI applications.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
       "open-source",
       "benchmark"
     ],
