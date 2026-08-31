@@ -1,5 +1,285 @@
 [
   {
+    "uid": "e3e4a76d97395c6ba80e46ffaf9ed2fb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28589v1",
+    "arxiv_id": "2608.28589v1",
+    "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+    "authors": [
+      "Vaibhav Mehandiratta",
+      "Saket Ramchandra"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "QGPINNs: Neural Networks Solve Nonlocal Differential Equations on Quantum Graphs",
+    "tldr": "We introduce QGPINNs, a PyTorch-based physics-informed neural network framework that approximates solutions on each edge of a quantum graph. A unified graph-based loss enforces governing equations, enabling efficient numerical solutions for nonlocal differential equations.",
+    "significance": "QGPINNs provide a scalable, open-source tool for solving complex nonlocal PDEs on network structures, bridging physics, machine learning, and quantum graph theory.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1fc1291b738929684896b4a146325794",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28587v1",
+    "arxiv_id": "2608.28587v1",
+    "title": "A Similarity Theorem and Its Breakdown in Atomic Black Hole Accretion",
+    "authors": [
+      "Marcus DuPont"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Similarity Theorem in Atomic Black Hole Accretion and Its Breakdown",
+    "tldr": "The study demonstrates that atomic gas around a point-mass follows an exact similarity scaling with mass and density, preserving key dimensionless profiles over time. However, this similarity fails when certain radiation and feedback processes are introduced, revealing limits to the model.",
+    "significance": "It provides a fundamental scaling framework for modeling accretion flows, but also delineates its applicability limits in realistic astrophysical environments.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "84cf634fcd8d39f66e3ed0ef0a763f51",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28584v1",
+    "arxiv_id": "2608.28584v1",
+    "title": "Bounds for inertialess dynamo",
+    "authors": [
+      "Ali Arslan",
+      "Hezekiah Grayer"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Inertialess Dynamo Bounds in Rapidly Rotating Convection: New Theoretical Limits",
+    "tldr": "We derive necessary conditions for instantaneous dynamo action in rotating convection without inertia or viscosity. The study links magnetic evolution to an inertialess force balance, extending kinematic dynamo theory.",
+    "significance": "These bounds provide critical insight into magnetic field generation in planetary cores and astrophysical plasmas.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "dbce0c55808e1c4eff0dc4a1aa94b233",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28581v1",
+    "arxiv_id": "2608.28581v1",
+    "title": "Renormalization-guided cascade upscaling for lattice field generation",
+    "authors": [
+      "Anna Hasenfratz",
+      "Ethan T. Neil",
+      "Letizia Parato"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Renormalization-Guided Upscaling Enhances Lattice Field Generation with Normalizing Flow and Rapid Rethermalization",
+    "tldr": "We present a renormalization-group guided machine-learning algorithm that uses a perfect blocking construction to generate equilibrated long-distance modes, then reconstructs short-distance details via a conditional normalizing flow, and finally applies brief rethermalization to remove residual errors. In 2D φ^4 theory at criticality, the method achieves accurate field generation with reduced computational cost.",
+    "significance": "This approach provides a scalable, physics-informed framework for generating high-fidelity lattice field configurations, potentially accelerating critical phenomena studies.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f08b45cb7b2f55f8e4f29137e7ea34bc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28580v1",
+    "arxiv_id": "2608.28580v1",
+    "title": "Renormalization-guided inverse blocking for lattice field generation: construction and validation",
+    "authors": [
+      "Anna Hasenfratz",
+      "Ethan T. Neil",
+      "Letizia Parato"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Efficient Lattice Field Generation via Renormalization-Guided Inverse Blocking for Accurate Simulations",
+    "tldr": "We introduce a renormalization-group guided inverse blocking algorithm that reconstructs fine-grained lattice configurations from coarse actions. Validation shows the method reproduces key observables with high fidelity while reducing computational cost.",
+    "significance": "This approach provides a scalable, accurate tool for lattice field theory simulations, potentially accelerating research in high-energy physics.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "923c36c3a7cb149138f47990a49a3333",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28578v1",
+    "arxiv_id": "2608.28578v1",
+    "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+    "authors": [
+      "Nan Wang",
+      "Mohit Yadav",
+      "Jonathan Wulff"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Aero Hand Open: Affordable Tendon-Driven Hand for Realistic Dexterous Manipulation",
+    "tldr": "Aero Hand Open presents a low-cost, tendon-driven robotic hand that can be simulated and built with off-the-shelf components. Its design allows a single motor to drive multiple joints, enabling realistic dexterous manipulation for research and education.",
+    "significance": "This hand democratizes access to advanced robotic manipulation research by reducing cost and complexity.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ea6a1ce85b2d3667379e40bb8033daa7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28577v1",
+    "arxiv_id": "2608.28577v1",
+    "title": "How Long-Range Tails Reshape Non-Hermitian Spectra",
+    "authors": [
+      "Ding Gu",
+      "Zhanpeng Fu",
+      "Yu-Min Hu"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Long-Range Hopping Rewrites Non-Hermitian Spectra Under Open Boundaries",
+    "tldr": "Even infinitesimal long-range hoppings can drastically alter the spectrum and eigenstates of short-range non-Hermitian systems. This effect challenges the common truncation approximation used in realistic tight-binding models.",
+    "significance": "The study reveals that truncating long-range interactions can lead to qualitatively incorrect predictions in non-Hermitian physics, impacting design and analysis of open quantum systems.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c4fc80b80ed13f2ac20b4282c35ab23c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28576v1",
+    "arxiv_id": "2608.28576v1",
+    "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+    "authors": [
+      "Chengpiao Huang",
+      "Kaizheng Wang"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Balancing Synthetic Data and Real Observations for Reliable Statistical Inference",
+    "tldr": "Synthetic data can boost inference when real data are scarce, but treating them as real can bias results. We propose a framework that quantifies synthetic augmentation by count and weight, enabling reliable inference across related tasks.",
+    "significance": "This framework offers a principled way to integrate synthetic data, reducing bias and improving inference quality in data-limited settings.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "867318a169eeddce91af8ebcef233d42",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28574v1",
+    "arxiv_id": "2608.28574v1",
+    "title": "Super-resolution Control of Two-dimensional Quantum Emitters",
+    "authors": [
+      "Bosai Lyu",
+      "Valeria Vento",
+      "Ludivine Fausten"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Precise Spatial Control of 2D Quantum Emitters via Super-Resolution Techniques",
+    "tldr": "Localized interlayer excitons in TMD heterobilayers act as quantum emitters with static dipole moments, enabling nanoscale charge sensing. This study demonstrates electrically tunable, spin-valley selective emitters with super-resolution spatial control, paving the way for probing correlated quantum phases.",
+    "significance": "Enabling deterministic spatial placement of quantum emitters unlocks precise probing of quantum many-body states in adjacent layers.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "18bb47e38f0f0c5aaf8bc66d25910ed0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28573v1",
+    "arxiv_id": "2608.28573v1",
+    "title": "Quantum Fourier transform toolbox",
+    "authors": [
+      "Carli Bruinsma",
+      "Pietro M. Posta",
+      "Joppe Stokvis"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "New Quantum Fourier Transform Toolbox Enables Efficient Non-Abelian Group Circuits",
+    "tldr": "We present a toolbox that constructs efficient QFT circuits for non-abelian groups using Mackey and Clifford theory. The framework supports rapid prototyping and benchmarking of quantum algorithms.",
+    "significance": "This advances quantum algorithm design by providing scalable QFT implementations for previously intractable group families.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a46641ca55b7d08106c5fa27f2157861",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28572v1",
+    "arxiv_id": "2608.28572v1",
+    "title": "PULSAR: Pooled Unified Late-Interaction Search and Retrieval for Enterprise Visual Document RAG",
+    "authors": [
+      "Benjamin Constable",
+      "Anup Roy",
+      "Vishal Sharma"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "PULSAR: Vision-First Retrieval System for Enterprise Pitch Decks at Mubadala",
+    "tldr": "PULSAR is a vision-first retrieval system that indexes page images of pitch decks and board packs, enabling instant search without costly OCR refreshes. Deployed at Mubadala Investment Company, it uses a frozen ColPali-style backbone for real-time, high-fidelity retrieval.",
+    "significance": "PULSAR dramatically reduces latency and cost for visual document search, preserving chart detail for time-sensitive investment decisions.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b912aa48ace811f5549958832ad39068",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.28571v1",
+    "arxiv_id": "2608.28571v1",
+    "title": "Learning to Decode Concatenated Quantum Codes with Hierarchical Message Passing",
+    "authors": [
+      "Jiahui Wu",
+      "Chao Zhang",
+      "Zipeng Wu"
+    ],
+    "published": "2026-08-28",
+    "curated_at": "2026-08-31",
+    "headline": "Neural Message Passing Boosts Decoding of Concatenated Quantum Hamming Codes",
+    "tldr": "We propose a lightweight neural message-passing decoder for concatenated stabilizer codes, where soft beliefs flow bidirectionally across levels. Applied to the [[15,7,3]] quantum Hamming code, it achieves significantly higher error thresholds than existing bidirectional decoders.",
+    "significance": "This work demonstrates that simple neural aggregation can dramatically improve quantum error correction thresholds, paving the way for more efficient quantum computing.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "f583d97fc32d862be38182c9c04c7a47",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.27427v1",
@@ -1122,286 +1402,6 @@
       "benchmark"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9c9c07eeb8e01da6bc159d0da32b9537",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24871v1",
-    "arxiv_id": "2608.24871v1",
-    "title": "NatPar: Natural Parametric Modeling",
-    "authors": [
-      "Hirbod Assa"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "NatPar: Parametric Insurance Models for Natural Catastrophes in the Insurance Industry",
-    "tldr": "We propose NatPar, a parametric insurance framework that replaces indemnity loss adjustments with contractual indices, building on NatCat modeling. The approach aims for practical, industry-standard solutions rather than theoretical optimal contracts.",
-    "significance": "NatPar offers a scalable, industry-friendly method to monetize natural hazard exposure, bridging the gap between catastrophe modeling and parametric insurance products.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "65a81055da6a29b020622aed3cacd81a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24870v1",
-    "arxiv_id": "2608.24870v1",
-    "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
-    "authors": [
-      "Kai Ruan",
-      "Jinghao Lin",
-      "Qianshan Wei"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "SPO++: Streamlined Policy Optimization for Asynchronous Agentic RL",
-    "tldr": "SPO++ removes the need for sibling rollouts by using a persistent prompt-level value estimate, enabling efficient asynchronous RL. The method also demonstrates that trajectory centering improves performance over token-mean actor loss.",
-    "significance": "This approach accelerates training of agentic RL systems, making them more practical for long, variable tool-use tasks.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "aafbe4a532ec43b3ae2a85bb7a482eea",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24867v1",
-    "arxiv_id": "2608.24867v1",
-    "title": "Fast generation of spectrally-shaped disorder, on the sphere",
-    "authors": [
-      "Mathias Casiulis",
-      "Stefano Martiniani"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "Rapid Generation of Spectrally-Shaped Disordered Point Patterns on the Sphere",
-    "tldr": "This work introduces a fast algorithm for creating spectrally-shaped disordered point patterns on spherical domains, enabling efficient exploration of material and computational designs. The method leverages spherical harmonics to enforce Fourier-space constraints while maintaining computational scalability.",
-    "significance": "It opens new avenues for designing materials and algorithms that require controlled disorder on curved surfaces.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4a8ddac5ba596c59e37075e4f0890882",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23566v1",
-    "arxiv_id": "2608.23566v1",
-    "title": "How to Train a Critic Stably and Efficiently",
-    "authors": [
-      "Penghui Qi",
-      "Xiangxin Zhou",
-      "Wee Sun Lee"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Stable Critic Training for Large Language Models",
-    "tldr": "We analyze why critic-based RL for LLMs is unstable and propose BPCO, a stable, efficient training recipe. The method allows token-level advantage estimation from a single response, reducing sampling overhead.",
-    "significance": "This work enables reliable, efficient RL fine-tuning of LLMs without costly multi-response sampling.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f6525a623814616e64a7e3997e0d9c7c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23565v1",
-    "arxiv_id": "2608.23565v1",
-    "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
-    "authors": [
-      "Zhifei Chen",
-      "Luozhou Wang",
-      "Guibao Shen"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "ReWorld: Interactive World Model Balances Short-Term Control with Long-Term Memory",
-    "tldr": "ReWorld introduces an interactive world model that tracks user actions and remembers past scenes in real time. By separating short‑term control and long‑term memory during training and using mixed attention windows, it achieves bounded inference while preserving unbounded memory.",
-    "significance": "It enables real‑time, long‑horizon interaction for applications like virtual exploration and simulation.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "857a42f31450a62de23f8e61699c60f5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23564v1",
-    "arxiv_id": "2608.23564v1",
-    "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-    "authors": [
-      "Deyao Hong",
-      "Yizhe Chi",
-      "Wenyi Li"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "SWE Refactor Bench: Testing Autonomous Stack Migration with Coding Agents",
-    "tldr": "The SWE Refactor Bench evaluates whether coding agents can autonomously migrate an entire repository's technology stack, a task beyond current benchmarks that only test functional correctness. This benchmark measures long-horizon, whole-repository changes to assess real-world automation potential.",
-    "significance": "It bridges the gap between bug-fixing capabilities and large-scale refactoring, offering a realistic test for future AI-driven software maintenance.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "90f04cff0aa8005e57dac0dc6a88c074",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23562v1",
-    "arxiv_id": "2608.23562v1",
-    "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
-    "authors": [
-      "Yuanyuan Zhang",
-      "Yida Zhang",
-      "Jiahui Li"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Physics-Constrained Deep Learning for Contactless Blood Pressure Monitoring via Triaxial Bodyseismography",
-    "tldr": "This study introduces a physics-constrained deep learning framework that extracts blood pressure signals from triaxial bodyseismography data, overcoming variability in body-bed interactions. The model demonstrates robust, real-time BP estimation suitable for long-term, unobtrusive monitoring.",
-    "significance": "By integrating physical constraints, the model achieves accurate, generalizable blood pressure monitoring without contact, paving the way for continuous health surveillance.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6a90a791ef18a59bcd829bc6a0439b75",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23561v1",
-    "arxiv_id": "2608.23561v1",
-    "title": "Flux-induced Aharonov-Bohm Oscillation in the Tunneling Spectroscopy of Kitaev Spin Liquids",
-    "authors": [
-      "Wen-Han Kao",
-      "Elio J. König"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Flux-Induced Aharonov-Bohm Oscillations Reveal Majorana Interference in Kitaev Spin Liquids",
-    "tldr": "We demonstrate that a single π flux in a Kitaev spin liquid produces an Aharonov-Bohm-like interference pattern in the Majorana continuum, observable via inelastic electron tunneling spectroscopy. This provides a direct probe of flux excitations and their mutual statistics with itinerant Majorana fermions.",
-    "significance": "The work offers a novel spectroscopic fingerprint for detecting emergent gauge fluxes, advancing experimental access to exotic quasiparticles in quantum spin liquids.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ab2cd4384685d665b4e8bd41bdf219df",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23556v1",
-    "arxiv_id": "2608.23556v1",
-    "title": "Quaternionic Hermitian Band Geometry in Four Dimensions: Realization on $S^4$ and Obstruction on $T^4$",
-    "authors": [
-      "Dongju Hwang",
-      "Minjae Yu",
-      "Gil Young Cho"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Quaternionic Hermitian Band Geometry: Realization on S⁴ and Obstruction on T⁴",
-    "tldr": "We prove that the minimal‑charge lowest Landau level on the four‑sphere S⁴ provides a global realization of quaternionic Hermitian band geometry, while a saturated, nondegenerate realization induced by a single occupied quaternionic band is topologically obstructed on the four‑torus T⁴. The obstruction arises from an antiunitary symmetry τ satisfying τ²=−1, which forces a nontrivial second Chern class on T⁴.",
-    "significance": "This work establishes a clear realization–obstruction dichotomy for quaternionic band topology in four dimensions, linking geometric quantization on S⁴ with topological constraints on T⁴.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7ee4c9323d3df15033c0f1126c8f1869",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23555v1",
-    "arxiv_id": "2608.23555v1",
-    "title": "Two-loop renormalisation and Higgs phenomenology in the five-dimensional MSSM",
-    "authors": [
-      "Ammar Abdalgabar",
-      "Alan S. Cornell",
-      "Aldo Deandrea"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Two-loop 5D MSSM Analysis Illuminates Higgs Mass Generation",
-    "tldr": "A comprehensive two-loop study of the five-dimensional MSSM shows that power-law running can naturally generate a large stop trilinear coupling. This allows the observed Higgs mass to be reproduced without requiring an excessively heavy supersymmetric spectrum.",
-    "significance": "It demonstrates that extra-dimensional supersymmetry can reconcile the Higgs mass with a relatively light superpartner spectrum.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "044b021e624a5f2b633a9bc31a8c20e0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23554v1",
-    "arxiv_id": "2608.23554v1",
-    "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
-    "authors": [
-      "Daniil Dmitriev",
-      "Zhihan Huang",
-      "Yuting Wei"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Adaptive Sampling in Discrete Diffusion Models for Uniform and Remasking",
-    "tldr": "This paper introduces a provably adaptive sampling scheme for discrete diffusion models that works efficiently under both uniform and remasking forward processes. The authors prove that their sampler achieves near‑optimal complexity, breaking the linear‑dimension lower bound that plagues existing τ‑leaping methods.",
-    "significance": "It resolves a key bottleneck in diffusion‑based generation, enabling faster, scalable sampling for large‑scale generative tasks.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "cd4289dec338228e640626cfb3f66b4d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.23552v1",
-    "arxiv_id": "2608.23552v1",
-    "title": "Prime Agent: A Self-Improving RLM Harness",
-    "authors": [
-      "Seth Karten",
-      "Alex L. Zhang",
-      "Kevin Thomas"
-    ],
-    "published": "2026-08-24",
-    "curated_at": "2026-08-25",
-    "headline": "Prime Agent: Open-Source Harness for Long-Horizon Language Model Agency Evaluation and Workflow",
-    "tldr": "Prime Agent introduces a persistent IPython REPL that extends recursive language models with external compute, enabling long-horizon evaluation and coding-agent workflows. The open-source harness supports continual learning and real-time reasoning beyond the model’s internal context.",
-    "significance": "It bridges the gap between sequential language models and real-world agency by providing a modular, testable framework for long-horizon tasks.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
