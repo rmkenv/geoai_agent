@@ -1,5 +1,190 @@
 [
   {
+    "uid": "ec1d65cf202c953d6ac44bc392f75bda",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.31169v1",
+    "arxiv_id": "2608.31169v1",
+    "title": "Strain-Tunable Spin Relaxation in Germanium from First Principles",
+    "authors": [
+      "Lauren A. Tan",
+      "Shaelyn Iyer",
+      "Ivan Maliyov"
+    ],
+    "published": "2026-08-31",
+    "curated_at": "2026-09-01",
+    "headline": "First-Principles Prediction of Strain-Tunable Spin Relaxation in Germanium for Quantum Devices",
+    "tldr": "Using hybrid-functional band structures and fully relativistic electron-phonon interactions, we compute spin relaxation times in bulk germanium under strain. The results reveal a strong tunability of spin lifetimes, offering a pathway to optimize spin qubits without phenomenological assumptions.",
+    "significance": "This work provides the first ab initio framework for engineering spin lifetimes in germanium, a key material for scalable quantum technologies.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3763f7a5f4d6623f0b70cc1038dcc00a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.31166v1",
+    "arxiv_id": "2608.31166v1",
+    "title": "Constant Individual Regret in General Games",
+    "authors": [
+      "Mingyang Liu",
+      "Gabriele Farina",
+      "Asuman Ozdaglar"
+    ],
+    "published": "2026-08-31",
+    "curated_at": "2026-09-01",
+    "headline": "ECHO-OFTRL Achieves Constant Individual Regret in Finite N-Player Games",
+    "tldr": "The paper introduces ECHO-OFTRL, an optimistic follow-the-regularized-leader algorithm with an EMA cascade that eliminates the polylogarithmic horizon dependence in constant individual regret. It guarantees efficient, decentralized convergence for any finite normal-form game under full-information feedback.",
+    "significance": "This work provides the first horizon-independent regret bounds for decentralized learning in general games, enabling faster and more reliable equilibrium convergence.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "799ce73efb81aa7f627a9d0c465f223c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.31167v1",
+    "arxiv_id": "2608.31167v1",
+    "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+    "authors": [
+      "Weiqi Wang",
+      "Zhi Li",
+      "Yudong Lei"
+    ],
+    "published": "2026-08-31",
+    "curated_at": "2026-09-01",
+    "headline": "SUN: Bridging Control and Learning with Language-Grounded Persistent Programs for Long-Horizon Manipulation",
+    "tldr": "The SUN framework integrates typed, language-grounded programs to unify model-based control and learned policies for long-horizon manipulation tasks. By preserving task semantics, SUN eliminates hand-crafted rewards and ensures policies remain faithful to verified control behavior.",
+    "significance": "SUN enables reliable, interpretable, and efficient policy learning that stays aligned with formal control objectives, advancing long-horizon robotic manipulation.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "47943adcf366063b99faec7b71d46bcb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.31163v1",
+    "arxiv_id": "2608.31163v1",
+    "title": "Evolution of Cosmic String Loops under Gravitational Backreaction",
+    "authors": [
+      "Lasse Gerblich",
+      "Richard A. Battye",
+      "E. P. S. Shellard"
+    ],
+    "published": "2026-08-31",
+    "curated_at": "2026-09-01",
+    "headline": "Gravitational Backreaction Alters Cosmic String Cusp Signals in the Early Universe",
+    "tldr": "Cosmic string loops generate strong gravitational wave bursts at cusps, but gravitational backreaction smooths the string, reducing burst amplitude. This alters the strain spectrum and affects gravitational wave search strategies.",
+    "significance": "Understanding backreaction is crucial for accurate predictions of gravitational wave signals from cosmic strings.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0ef0d2cccf6897929d09e6265f6b5b10",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.31162v1",
+    "arxiv_id": "2608.31162v1",
+    "title": "Trinomial containment in polynomial ideals is undecidable",
+    "authors": [
+      "Tobias Boege",
+      "Anna Hofer",
+      "Thomas Kahle"
+    ],
+    "published": "2026-08-31",
+    "curated_at": "2026-09-01",
+    "headline": "Undecidability of Trinomial Containment in Polynomial Ideals via MRDP Reduction",
+    "tldr": "We show that deciding whether an ideal in a polynomial ring over Q contains a trinomial is undecidable. By constructing an ideal from an integer polynomial, we reduce the existence of integral zeros to trinomial containment, invoking the MRDP theorem.",
+    "significance": "This result establishes a new class of undecidable problems in computational algebra, linking Diophantine equations to ideal membership questions.",
+    "tags": [
+      "open-source",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "91afd13ccf0bdae8cca031fb92af1743",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.31161v1",
+    "arxiv_id": "2608.31161v1",
+    "title": "Agentic research is oxymoronic",
+    "authors": [
+      "Natalie B. Hogg"
+    ],
+    "published": "2026-08-31",
+    "curated_at": "2026-09-01",
+    "headline": "Agentic AI in Research: An Oxymoron That Threatens Scientific Trust",
+    "tldr": "Agentic large language models can bypass human interpretation, potentially eroding trust in scientific findings. This raises concerns about the reliability of AI-driven research outputs.",
+    "significance": "The article highlights the risk that fully autonomous AI research may undermine confidence in scientific literature.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "efa6ba1cb54fb75008aba7ecd8ffc587",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.31159v1",
+    "arxiv_id": "2608.31159v1",
+    "title": "BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting",
+    "authors": [
+      "Yiling Yao",
+      "Wenjuan Zhang",
+      "Bowen Wang"
+    ],
+    "published": "2026-08-31",
+    "curated_at": "2026-09-01",
+    "headline": "Efficient Hyperspectral BRF Modeling with 3D Gaussian Splatting for Multi-Angle Terrestrial Surface Imaging",
+    "tldr": "This study introduces a novel method for modeling bidirectional reflectance factor (BRF) using 3D Gaussian Splatting, enabling rapid generation of multi-angle hyperspectral imagery. By replacing computationally intensive radiative transfer solvers with efficient point‑cloud rendering, the approach significantly reduces processing time while maintaining high fidelity.",
+    "significance": "The method accelerates hyperspectral remote sensing analysis, facilitating real‑time applications in environmental monitoring and land cover classification.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "point-cloud",
+      "LiDAR"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "19471a1e71198fa1c613c6bcb0167df5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2608.31157v1",
+    "arxiv_id": "2608.31157v1",
+    "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+    "authors": [
+      "Shijun Zhang"
+    ],
+    "published": "2026-08-31",
+    "curated_at": "2026-09-01",
+    "headline": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+    "tldr": "This work establishes sharp theoretical bounds on how well neural networks whose parameters are generated from low-dimensional latent vectors can approximate target functions. The results show that affine latent parameterizations achieve near-optimal approximation rates while dramatically reducing parameter count.",
+    "significance": "It provides a rigorous foundation for designing efficient large-scale models that can be generated from compact latent codes, bridging theory and practical parameter-efficient architectures.",
+    "tags": [
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "e3e4a76d97395c6ba80e46ffaf9ed2fb",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.28589v1",
@@ -1215,193 +1400,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "a801e8dacf1f16ec8cfe40ded14afdd9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26090v1",
-    "arxiv_id": "2608.26090v1",
-    "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
-    "authors": [
-      "Raphaël Bonnet-Guerrini",
-      "Johann Ioannou-Nikolaides",
-      "Inar Timiryasov"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Sparse Autoencoders Reveal Physical Concepts in IceCube Neutrino Foundation Model",
-    "tldr": "Researchers applied sparse autoencoders to a pretrained IceCube neutrino foundation model, uncovering a validated atlas of physical concepts within its latent space. The method uses strict held‑out tests and nuisance controls, demonstrating mechanistic interpretability for direction reconstruction.",
-    "significance": "This work provides the first mechanistic interpretability framework for particle‑physics foundation models, enabling transparent, physics‑grounded analysis of complex neural representations.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "dab30c5f988be48afff66978d8a9fbea",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26089v1",
-    "arxiv_id": "2608.26089v1",
-    "title": "From Producing to Validating: How AI Is Deskilling Freelancers",
-    "authors": [
-      "Nakul Rajpal"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "AI's Rise: How Generative Models Are Deskilling Freelancers in the Gig Economy",
-    "tldr": "Generative AI promises productivity gains but disproportionately harms freelancers who lack formal upskilling pathways. The resulting deskilling threatens both skill development and job security in the gig economy.",
-    "significance": "Understanding AI's uneven impact is crucial for designing equitable workforce policies.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "af85bbcba1905cd4e6958a2145d9c784",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24885v1",
-    "arxiv_id": "2608.24885v1",
-    "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
-    "authors": [
-      "Sixiang Chen",
-      "Jiaming Liu",
-      "Jixian Wu"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "Evaluating Action-Conditioned World Models: Do They Truly Follow Robot Actions?",
-    "tldr": "This study introduces a benchmark to test whether action-conditioned world models accurately simulate futures for arbitrary actions. Findings reveal gaps in action fidelity, prompting alignment techniques to improve policy learning.",
-    "significance": "Accurate action simulation is critical for safe and efficient robotic policy development, and this work provides the first systematic evaluation and alignment framework.",
-    "tags": [
-      "benchmark",
-      "foundation-models",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "125271245b81d8501e4f22efee22fd6f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24882v1",
-    "arxiv_id": "2608.24882v1",
-    "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
-    "authors": [
-      "Xiang Li",
-      "Yupeng Zheng",
-      "Songen Gu"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "Latent Action Intention Boosts World Action Models, Reducing Latency but Hitting Generalization Limits",
-    "tldr": "World Action Models predict future observations for robot control, yet generating them at test time is slow. Fast-WAM eliminates this step, improving speed but sacrificing generalization, especially with limited data and out-of-distribution cases.",
-    "significance": "This study highlights the trade-off between real-time efficiency and robustness in future-aware robotic models.",
-    "tags": [
-      "real-time",
-      "time-series",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0e242242120378aca4e2acba85f56182",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24881v1",
-    "arxiv_id": "2608.24881v1",
-    "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
-    "authors": [
-      "Hao Chen"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "Uncovering Hidden Flaws in FID: New Methods for Generative Model Evaluation",
-    "tldr": "The paper shows that Fréchet Inception Distance (FID) can miss significant distributional differences because it only uses first two moments. It proposes alternative diagnostics and ranking strategies that better capture deviations in generative models.",
-    "significance": "By exposing FID's blind spots, the work guides researchers toward more reliable generative model benchmarks.",
-    "tags": [
-      "diffusion-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2f9a56493bd4034588f928deb8bad1bc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24877v1",
-    "arxiv_id": "2608.24877v1",
-    "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
-    "authors": [
-      "Jiangning Zhang",
-      "Haojun Chen",
-      "Yong Liu"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "Smart Glasses: From Capture Devices to First-Person Intelligence Platforms Enabling Real-Time Interaction",
-    "tldr": "Smart glasses are transforming into first-person intelligence platforms that fuse human perception with persistent context and actionable outputs. They must balance power, heat, privacy, and feedback while delivering real-time, context-aware insights.",
-    "significance": "This evolution unlocks new possibilities for immersive, context-sensitive human-computer interaction across diverse domains.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "object-detection",
-      "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "df19e623e28c91e1a119cead72cbb8a3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24876v1",
-    "arxiv_id": "2608.24876v1",
-    "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-    "authors": [
-      "Zhaochen Yu",
-      "Yingcheng Wu",
-      "Zhenfei Yin"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "Recursive Experiential‑Working Memory Boosts Long‑Horizon Agent Performance by Guiding Skill Selection",
-    "tldr": "Recuris introduces a recursive Experiential‑Working Memory that tracks task progress and informs skill selection, aligning agent behavior with current needs. This architecture improves long‑horizon task performance by mitigating history‑induced misalignment.",
-    "significance": "It offers a scalable solution to the recursive self‑improvement challenge in complex, long‑duration tasks.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7de59a2a51c12e52cf57de792d3eea71",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.24872v1",
-    "arxiv_id": "2608.24872v1",
-    "title": "Binary Hypothesis Testing: A Robust Framework Against the Look Elsewhere Effect",
-    "authors": [
-      "Han Zhang",
-      "Xue-feng Ding",
-      "Yu-Feng Li"
-    ],
-    "published": "2026-08-25",
-    "curated_at": "2026-08-26",
-    "headline": "Robust Binary Testing Mitigates Look-Elsewhere Effect in Particle Physics Discoveries",
-    "tldr": "This paper presents a robust binary hypothesis testing framework that accounts for the look‑elsewhere effect, ensuring that discovery claims are not inflated by scanning over parameter space. By distinguishing between pre‑specified and exploratory tests, the method provides a more reliable significance assessment for particle physics experiments.",
-    "significance": "The framework improves the credibility of 5σ discovery claims by rigorously correcting for multiple testing across the search space.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
