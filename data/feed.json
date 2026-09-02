@@ -1,5 +1,288 @@
 [
   {
+    "uid": "2296b2c7fe8afb4d03710904eba5393a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01607v1",
+    "arxiv_id": "2609.01607v1",
+    "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
+    "authors": [
+      "Penghao Wu",
+      "Haiwen Diao",
+      "Weichen Fan"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Synergy Between Understanding and Generation in Unified Multimodal Models Explored",
+    "tldr": "This study examines how visual understanding and generation tasks interact within native unified multimodal models, analyzing their interplay at representation, task, and system levels. The results reveal that while synergy can exist, the two objectives may also compete for capacity, highlighting the need for balanced training strategies.",
+    "significance": "Understanding the balance between comprehension and generation in multimodal models is crucial for designing more efficient and capable AI systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "segmentation",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f94395dd21766d3a3fd179edd485c085",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01606v1",
+    "arxiv_id": "2609.01606v1",
+    "title": "Observable- and state-selective prethermalization and bounds on prethermal lifetimes",
+    "authors": [
+      "C. L. Sriram",
+      "Soumya Kanti Pal",
+      "Lea F. Santos"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Prethermalization: When Energy Scale Separation Fails to Produce Long-Lived Plateaus",
+    "tldr": "The study shows that merely having distinct energy scales does not guarantee a prethermal plateau. Certain observables can still relax rapidly, indicating that additional conditions are required for long-lived intermediate states.",
+    "significance": "Understanding the precise conditions for prethermalization informs the design of experiments and the control of non-equilibrium dynamics in quantum systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "369d31a63ea3f11c3c8298dd472eb524",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01605v1",
+    "arxiv_id": "2609.01605v1",
+    "title": "Depth-1 expanders on the unitary group and applications",
+    "authors": [
+      "Anurag Anshu",
+      "Shankar Balasubramanian",
+      "Jonas Haferkamp"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Depth-1 Quantum Expanders Achieve Optimal Entanglement Gap in 1D Hamiltonians",
+    "tldr": "We construct a constant-degree, constant-gap quantum expander realizable by depth‑1 1D circuits of Pauli and CNOT gates. This expander yields a family of frustration‑free 1D Hamiltonians whose ground‑state entanglement scales as Θ(Δ^{-1/2}), matching the conjectured optimal bound.",
+    "significance": "It provides the first depth‑1 quantum expander with optimal entanglement‑gap scaling, bridging quantum complexity and many‑body physics.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0e397f3ce70ff9fc5ffb8b03fed8e867",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01604v1",
+    "arxiv_id": "2609.01604v1",
+    "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+    "authors": [
+      "Himil Vasava",
+      "Ming Jiang"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Decoding LLM Judges: How Language Models Score Summaries and Why It Matters",
+    "tldr": "This study dissects how large language models evaluate summary quality, revealing the hidden decision process behind their ratings. By applying an eight-attack perturbation taxonomy across readability and adequacy, the authors show how specific linguistic changes influence model scores.",
+    "significance": "Understanding LLM evaluation mechanisms is crucial for developing reliable automated metrics and improving NLG system training.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d1190f65278b52f6720ea46c5f9428e7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01602v1",
+    "arxiv_id": "2609.01602v1",
+    "title": "Singular Weak-Field Thermodynamics of 2D Superconductors",
+    "authors": [
+      "Guopeng Xu",
+      "Chunli Huang"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Size-Dependent Lower Critical Field in Two-Dimensional Superconductors Reveals Singular Weak-Field Thermodynamics",
+    "tldr": "In bulk 3D type-II superconductors, the lower critical field is a material constant, but in 2D systems it decreases with sample size. This study shows that the first vortex in a 2D disk appears at a field that scales inversely with area, making the lower critical field inherently size-dependent.",
+    "significance": "Understanding size-dependent vortex nucleation in 2D superconductors is essential for designing nanoscale quantum devices and could impact future superconducting technologies.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "52c2c8189bdeb3ad13cf5a3b4f56ad3c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01600v1",
+    "arxiv_id": "2609.01600v1",
+    "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+    "authors": [
+      "Damien Sileo",
+      "Dimitri Kachler"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Evaluating LLMs on Component Lifecycle Reasoning in Dynamic Agent Harnesses with CordisBench",
+    "tldr": "CordisBench presents 1,200 questions testing whether language models can track changes in software components and their dependencies during execution. The benchmark highlights the added reasoning burden of dynamic agent harnesses and offers a controlled setting for evaluating lifecycle reasoning.",
+    "significance": "It provides the first systematic evaluation of LLMs' ability to manage component lifecycles, a critical capability for self-modifying agents.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 1,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f7bfcd149b8b15fa665a323a7d411ddb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01598v1",
+    "arxiv_id": "2609.01598v1",
+    "title": "UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture",
+    "authors": [
+      "Asees Kaur",
+      "Suzanne S. Sindi",
+      "Erica M. Rutter"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "UI-VISA: Enhancing Vascular Segmentation in DSA Images with U-Net Initialization",
+    "tldr": "UI-VISA introduces a U-Net initialized architecture that improves continuity of thin vascular predictions in digital subtraction angiography. The model leverages explicit vessel connectivity constraints to reduce fragmentation and enhance segmentation accuracy.",
+    "significance": "This approach addresses a key limitation in medical image segmentation, enabling more reliable vessel delineation for clinical analysis.",
+    "tags": [
+      "segmentation",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "043caee0ab3d6d432faa21274e68925c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01597v1",
+    "arxiv_id": "2609.01597v1",
+    "title": "The Rise of Verbal Reinforcement Learning",
+    "authors": [
+      "Kshitij Tayal",
+      "Arun Sharma",
+      "Genta Indra Winata"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Verbal Reinforcement Learning: Harnessing Natural Language Feedback for AI Agents",
+    "tldr": "Verbal Reinforcement Learning (VRL) uses natural language as a primary feedback channel, enabling agents to learn intent, preferences, and causal structure. This paper presents a unified framework and demonstrates VRL's potential across diverse tasks.",
+    "significance": "VRL offers a scalable, interpretable method to align language models with human intent, potentially accelerating AI deployment.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "97c8155c9734947bed9496e2f7db8121",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01596v1",
+    "arxiv_id": "2609.01596v1",
+    "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
+    "authors": [
+      "Haoyuan Deng",
+      "Haichao Liu",
+      "Wenkai Guo"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Facet-0: A Foundation Model for Precise Contact-Rich Robotic Manipulation Assembly",
+    "tldr": "Facet-0 is a robotic foundation model that predicts contact outcomes and optimizes actions for sub-millimeter precision. It combines multimodal representation learning with reinforcement learning to handle compliant interactions and contact failures in real-world assembly.",
+    "significance": "Facet-0 advances robotic manipulation by enabling robust, precise assembly at sub-millimeter tolerances through predictive contact modeling.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "bba1564556d2b166ef943fd14dd4e652",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01595v1",
+    "arxiv_id": "2609.01595v1",
+    "title": "Mechanism Design for Alignment and Control",
+    "authors": [
+      "Dirk Bergemann",
+      "Andrew Koh",
+      "Stephen Morris"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Designing Incentives for Unknown AI Agents: Aligning Preferences and Capabilities",
+    "tldr": "We propose a mechanism design framework that accounts for unknown preferences and capabilities of AI agents, ensuring both honesty and obedience. Using a one-sided imitation structure, we establish a revelation principle that characterizes implementable mechanisms.",
+    "significance": "This framework enables reliable delegation of tasks to AI agents even when their internal states are hidden, advancing trustworthy AI deployment.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7da024a496889ed82e95e1aa16cb2340",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01591v1",
+    "arxiv_id": "2609.01591v1",
+    "title": "StudentSim: Training LLM-based Student Simulators",
+    "authors": [
+      "Ke Yang",
+      "Chenglong Wang",
+      "Michel Galley"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "StudentSim: Leveraging LLMs to Simulate Student Learning for Adaptive Tutoring",
+    "tldr": "StudentSim trains large language models to act as student simulators, providing a scalable proxy for real learner data. This enables rapid evaluation of personalized tutoring strategies without costly human trials.",
+    "significance": "By offering a realistic, data-driven simulation of student responses, StudentSim accelerates the development of effective, individualized AI tutoring systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5f07bf88397ae4f3a77ec6d58867fe58",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.01588v1",
+    "arxiv_id": "2609.01588v1",
+    "title": "Designing Proactive Thought Partners for Writing",
+    "authors": [
+      "Chao Zhang",
+      "Abe Davis",
+      "Chih-Wei Chen"
+    ],
+    "published": "2026-09-01",
+    "curated_at": "2026-09-02",
+    "headline": "Proactive Thought Partners: AI Agents That Anticipate Writers' Needs and Enhance Creativity",
+    "tldr": "This paper explores how AI can proactively support writers by offering context‑aware suggestions at the right moments. It outlines a design space for proactive thought partners, moving beyond generic autocomplete to personalized, timely assistance.",
+    "significance": "By redefining AI assistance as a proactive thought partner, the study opens new avenues for more engaging and effective writing tools.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "ec1d65cf202c953d6ac44bc392f75bda",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2608.31169v1",
@@ -1111,294 +1394,6 @@
       "benchmark"
     ],
     "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9a44d550a3f23df8ce069fceb392c6fe",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26105v1",
-    "arxiv_id": "2608.26105v1",
-    "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-    "authors": [
-      "Junxiang Xu",
-      "Ruisi Wang",
-      "Fanyi Pu"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "VBVR-Pro: Scalable, Verifiable Visual Reasoning Suite for Generative Substrate Benchmarking",
-    "tldr": "VBVR-Pro introduces a scalable framework for native visual reasoning, treating images and videos as problem‑solving substrates rather than mere inputs or outputs. It provides reliable feedback mechanisms and controlled comparisons across generative models, enabling systematic evaluation of visual reasoning capabilities.",
-    "significance": "By formalizing visual reasoning as a first‑class substrate, VBVR‑Pro unlocks new avenues for AI systems to solve complex tasks directly through visual generation, bridging a critical gap between perception and action.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "fc7254bbc5656b9fca53f22c2c5d34c0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26104v1",
-    "arxiv_id": "2608.26104v1",
-    "title": "Multicomponent Magnetic Domain Walls in Rhombohedral Graphene",
-    "authors": [
-      "Mainak Das",
-      "Nemin Wei",
-      "Chunli Huang"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Exploring Multicomponent Magnetic Domain Walls in Rhombohedral Graphene and Their Microscopic Properties",
-    "tldr": "We investigate a one-dimensional domain wall in valley-imbalanced quarter-filled rhombohedral multilayer graphene, revealing rich spin-valley textures. The study provides microscopic insights into novel magnetic spatial structures that could guide future spintronic applications.",
-    "significance": "This work uncovers new multicomponent magnetic textures in graphene, opening pathways for valleytronic and spintronic device engineering.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4a284e01fe5dc931b77ee54517016162",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26103v1",
-    "arxiv_id": "2608.26103v1",
-    "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
-    "authors": [
-      "Jiaming Zhou",
-      "Qihang Zhang",
-      "Gangwei Xu"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Zero-WAM: Using Human Videos for Zero-Shot Task Generalization in Robotics",
-    "tldr": "Zero-WAM introduces an in-context learning framework that leverages human demonstration videos to enable robots to perform unseen manipulation tasks without retraining. The method demonstrates strong zero-shot cross-task generalization, showing that task specification alone can drive policy execution.",
-    "significance": "It shows that large language model style in-context learning can be extended to embodied agents, enabling flexible, zero-shot task execution.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ff5cd360bf38ccda9acd6fe60c2a16db",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26101v1",
-    "arxiv_id": "2608.26101v1",
-    "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
-    "authors": [
-      "Bojia Zi",
-      "Xiaoyan Yang",
-      "Yu Zhou"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "RefVideo-6M: A Robust Reference-Based Large-Scale Dataset for Instructional Video Editing",
-    "tldr": "The authors present RefVideo-6M, a 6‑million‑sample dataset that supplies artifact‑free target videos and multimodal instruction signals for video editing tasks. This resource addresses the shortcomings of prior datasets that rely on automatic editing models and limited textual guidance.",
-    "significance": "By offering high‑quality, reference‑based training data, RefVideo-6M establishes a new benchmark that can accelerate the development of reliable instruction‑driven video editing models.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "950f017dbdcad8143c2470995fc26b19",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26100v1",
-    "arxiv_id": "2608.26100v1",
-    "title": "Integrated Hardware Annealing based on Langevin Dynamics for Ising Machines",
-    "authors": [
-      "Yongchao Liu",
-      "Lianlong Sun",
-      "Michael Huang"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Hardware Annealing with Langevin Dynamics Accelerates Ising Machine Optimization for Complex Problems",
-    "tldr": "This study introduces a hardware annealing algorithm based on Langevin dynamics to enhance Ising machines' ability to escape local minima. Experimental results show faster convergence and improved solution quality compared to conventional annealing.",
-    "significance": "It demonstrates a practical method to overcome energy landscape traps, boosting Ising machines' efficiency for combinatorial optimization.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3b242026b260b2489eeaafcbbda7eb44",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26099v1",
-    "arxiv_id": "2608.26099v1",
-    "title": "Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model",
-    "authors": [
-      "Isaac Tesfaye",
-      "André Eckardt"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Exact Spectrum and Quantum Geometry of the Quarter‑Flux Harper‑Hofstadter Four‑Band Model",
-    "tldr": "We derive closed‑form expressions for the energy spectrum and quantum geometric tensors of a four‑band Harper‑Hofstadter model at quarter flux. These results provide a rare analytical benchmark for topological band theory beyond two‑band systems.",
-    "significance": "Providing analytical solutions for a four‑band topological model deepens our understanding of quantum geometry and offers a benchmark for future studies.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ae246233305a633b1c118431f98aa953",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26098v1",
-    "arxiv_id": "2608.26098v1",
-    "title": "Probing the Properties of Neutral Clouds in the Vicinity of the Local Bubble: Linking three-dimensional Dust with Neutral Hydrogen Absorption",
-    "authors": [
-      "Aishani Das-Ghosh",
-      "Nickolas Pingel",
-      "Snežana Stanimirović"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Mapping Tiny-Scale Hydrogen Structures Near the Local Bubble Using 3D Dust and Pulsar Absorption",
-    "tldr": "Scientists used pulsar observations to detect variations in neutral hydrogen absorption, revealing tiny-scale structures within the Local Bubble. By correlating these variations with 3D dust maps, they uncovered the spatial distribution of interstellar clouds near the bubble’s walls.",
-    "significance": "This study provides the first direct link between small-scale hydrogen structures and dust distribution, improving our understanding of the Local Bubble’s internal composition.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "remote-sensing"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "98206b2d24b57681203ae0e4fbfff13c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26097v1",
-    "arxiv_id": "2608.26097v1",
-    "title": "The Isotopic and Elemental Abundances of Planet-Host Star TRAPPIST-1",
-    "authors": [
-      "Darío González Picos",
-      "Ian J. M. Crossfield",
-      "David Coria"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "TRAPPIST-1 Star’s Isotopic Fingerprint Reveals Planet Formation and Galactic Evolution Secrets",
-    "tldr": "The study measures the elemental and isotopic composition of TRAPPIST-1, a very low-mass star hosting seven Earth-sized planets. These measurements provide insights into the star’s natal material and the processes that shaped its planetary system.",
-    "significance": "By preserving its natal composition, TRAPPIST-1 offers a unique window into the chemical conditions that gave rise to its compact, habitable-zone planets.",
-    "tags": [
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b1f982a56af7b4eb1bcddfae2eb2f07b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26096v1",
-    "arxiv_id": "2608.26096v1",
-    "title": "Torsion balances as operational probes of semiclassical gravity: Matched-filter bounds, torque-diffusion constraints, and quantum-noise benchmarks",
-    "authors": [
-      "Jyotirmaya Mohanta",
-      "Yutaka Shikano"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Torsion Balance Experiments Set New Bounds on Semiclassical Gravity via Matched-Filter Analysis",
-    "tldr": "Using calibrated torsion-balance spectra, researchers derive matched-filter and Cramér-Rao bounds to constrain deterministic and stochastic deviations from Newtonian gravity. The study also establishes torque-diffusion limits and quantum-noise benchmarks, advancing precision tests of semiclassical gravity.",
-    "significance": "This work tightens experimental limits on quantum gravity effects, guiding future theoretical and experimental research.",
-    "tags": [
-      "benchmark",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "77f964ea1458e4ddf4d8fa382f8cda0d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26095v1",
-    "arxiv_id": "2608.26095v1",
-    "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
-    "authors": [
-      "Kaichen Li",
-      "Zhilin Zhu",
-      "Jianhao Huang"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Enhancing Multimodal LLMs with Visual Dependence-Aware Unsupervised Continual Post-Training for Streaming Data Evolution",
-    "tldr": "The paper introduces a framework that incorporates token-level visual dependence into unsupervised post-training for multimodal large language models, allowing them to adapt continuously to streaming unlabeled data. This approach outperforms traditional uniform token optimization methods by better leveraging visual context.",
-    "significance": "It overcomes a critical limitation in current unsupervised post-training, enabling more effective continual learning for multimodal LLMs.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "29f20a772277cbeaa933d839f41b07a2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26094v1",
-    "arxiv_id": "2608.26094v1",
-    "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
-    "authors": [
-      "Hao Yin",
-      "Paritosh Parmar",
-      "Lijun Gu"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "MyoMechanix: Biomechanically Grounded Feedback for Weight-Loaded Actions Using Multimodal Data",
-    "tldr": "MyoMechanix introduces a multimodal framework that fuses motion capture, muscle dynamics, and physiological signals to assess action quality in weight-loaded tasks. The system provides fine-grained, biomechanically grounded coaching feedback in real time.",
-    "significance": "It enables precise, personalized training guidance that surpasses visual-only assessments, advancing sports science and rehabilitation.",
-    "tags": [
-      "time-series",
-      "segmentation",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 1,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6645cca87e52a060c156123a3e31f8ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.26093v1",
-    "arxiv_id": "2608.26093v1",
-    "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
-    "authors": [
-      "Ahmad Khan",
-      "Akram Bin Sediq",
-      "Sara Azadegi Naeini"
-    ],
-    "published": "2026-08-26",
-    "curated_at": "2026-08-27",
-    "headline": "Autonomous AI Agent Designs Wireless Power Control Algorithms, Eliminating Manual ML Engineering",
-    "tldr": "We show that an AI coding agent can autonomously design and train machine learning models for cell‑edge power control, removing the need for hand‑crafted architecture, loss functions, and training recipes. Using an autoresearch protocol, the agent edits scripts, runs experiments within a fixed budget, and iteratively improves performance.",
-    "significance": "This work demonstrates a paradigm shift where AI agents take over the entire ML design cycle for wireless resource management, potentially accelerating deployment and reducing human labor.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
     "difficulty": "advanced"
   }
 ]
