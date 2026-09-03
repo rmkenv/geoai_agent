@@ -1,5 +1,242 @@
 [
   {
+    "uid": "17dc69955b978ac1ed1b002bb6b5eb82",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02888v1",
+    "arxiv_id": "2609.02888v1",
+    "title": "POSEIDON III: The Aligned Orbit of the Hot Neptune Around the Hot Star WASP-195",
+    "authors": [
+      "Juan I. Espinoza-Retamal",
+      "Joshua N. Winn",
+      "Rafael Brahm"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "WASP-195 Hot Neptune Reveals Aligned Orbit Around Its Hot Star via Rossiter-McLaughlin Effect",
+    "tldr": "Observations of the Rossiter-McLaughlin effect show that the hot Neptune orbiting WASP-195 is well aligned with its host star's spin axis. This alignment provides clues to the planet's migration history and challenges theories that hot Neptunes around hot stars are typically misaligned.",
+    "significance": "This measurement expands the limited sample of aligned hot Neptunes around hot stars, informing models of planetary system evolution.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cf58b079b0710fc9ca1de8c9125aa80e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02887v1",
+    "arxiv_id": "2609.02887v1",
+    "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+    "authors": [
+      "Dulhan Jayalath",
+      "Benjamin Ballyk",
+      "Oiwi Parker Jones"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "Standardizing Progress in Speech Brain‑Computer Interfaces: A Call for Unified Benchmarks",
+    "tldr": "Speech BCIs translate neural signals into language, promising speech restoration and new HCI. However, progress is hard to gauge due to varied datasets, recording methods, and vocabularies, underscoring the need for a common benchmark.",
+    "significance": "Establishing a shared metric will accelerate development and enable fair comparison across speech BCI systems.",
+    "tags": [
+      "benchmark",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "de1abcbe1bc73ea47698e5e52a7634f0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02886v1",
+    "arxiv_id": "2609.02886v1",
+    "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+    "authors": [
+      "Junchao Huang",
+      "Guian Fang",
+      "Shengju Qian"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "SolarWM: Scalable Open Foundation for Interactive Long-Horizon Video World Models",
+    "tldr": "We present SolarWM, an open foundation that spans data preparation to long-horizon inference for interactive video world models. It addresses challenges of heterogeneous datasets and diverse video backbones, enabling scalable training across varied temporal scales, camera geometries, and visual qualities.",
+    "significance": "SolarWM democratizes the development of video world models by providing a unified, scalable framework that bridges data heterogeneity and model diversity.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1b2f0675e00ff3430f33ea191affd311",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02885v1",
+    "arxiv_id": "2609.02885v1",
+    "title": "Discriminative World Models for Web Agents",
+    "authors": [
+      "Kelvin Li",
+      "Dhruv Pendharkar",
+      "Anish Pahilajani"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "Discriminative World Models Improve Web Agent Decision-Making Beyond Next-State Prediction",
+    "tldr": "Web agents often rely on world models trained to predict next web states, but this objective misaligns with actual task performance. By adopting discriminative training that directly optimizes action ranking, agents achieve more accurate and efficient decision-making.",
+    "significance": "This approach bridges the gap between model training objectives and real-world agent success, enabling more reliable web automation.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "770d4c0fa34e94a02347375981fd13d4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02883v1",
+    "arxiv_id": "2609.02883v1",
+    "title": "Repairing PBE-Spurious Metallicity for HSE06-Level Screening of 2D Photocatalysts for Green Hydrogen Production",
+    "authors": [
+      "Ritam Chakraborty",
+      "Arpan Das"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "Fixing PBE-Identified Metallicities with HSE06 Δ-Learning for 2D Photocatalyst Screening",
+    "tldr": "PBE calculations incorrectly label many narrow-gap semiconductors as metals, eliminating promising photocatalysts. We correct this by combining leakage-aware repair with HSE06–PBE Δ-learning, improving the reliability of 2D material screening.",
+    "significance": "This approach enhances the accuracy of high-throughput 2D photocatalyst discovery, accelerating green hydrogen production.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ba2702cda82269f798fcbe5457303cfb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02881v1",
+    "arxiv_id": "2609.02881v1",
+    "title": "Graph Machine: Towards Better Pretraining via Edges",
+    "authors": [
+      "Lintai Hou"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "Graph Machine: Edge‑Based Pretraining for Scalable Graph Models and Efficient Routing",
+    "tldr": "We propose the Graph Machine, an architecture that keeps an O(n)-sized state and accesses it via differentiable edge pointers, enabling dynamic routing without sacrificing sparsity. This design preserves linear complexity while allowing the model to learn richer graph representations, improving pretraining performance on large-scale graph tasks.",
+    "significance": "It offers a scalable, flexible foundation for graph-based AI, bridging the gap between fixed-size state models and static sparse routing.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "52850a6356b1b81f487b7e6157d534de",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02876v1",
+    "arxiv_id": "2609.02876v1",
+    "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+    "authors": [
+      "Alessio Spurio Mancini"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "GRADSOLVE: GPU-Accelerated Exact Gradient Computation for ODE Ensembles in Reverse Mode",
+    "tldr": "GRADSOLVE delivers fast, exact reverse-mode gradients for large ensembles of ODEs on GPUs, matching the speed of forward solves. This enables efficient training of physics-informed models and real-time sensitivity analysis without sacrificing performance.",
+    "significance": "By bridging the speed gap between GPU ODE solvers and differentiation, GRADSOLVE accelerates scientific computing and machine learning workflows that rely on accurate gradient information.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "724ba39cee13f0dc459e5378096603a4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02877v1",
+    "arxiv_id": "2609.02877v1",
+    "title": "Controlling a digital twin of the CEBAF injector from EPICS",
+    "authors": [
+      "Jude Doredant",
+      "Volker Ziemann"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "Controlling a Digital Twin of the CEBAF Injector Using EPICS on a Raspberry Pi",
+    "tldr": "This article presents a prototype that uses EPICS installed on a laptop or Raspberry Pi to control beam optics simulations of the CEBAF injector. The system demonstrates real‑time interaction between accelerator hardware and virtual models over a local network.",
+    "significance": "It shows how low‑cost, open‑source control systems can enable rapid prototyping and testing of accelerator physics models.",
+    "tags": [
+      "open-source",
+      "real-time",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0a9465fb132229a3342e61c659ab7924",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02875v1",
+    "arxiv_id": "2609.02875v1",
+    "title": "Learning CNN Filters via Generalized Stein's Method",
+    "authors": [
+      "Guang Yang",
+      "Wei Shi",
+      "Yuan Cao"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "Statistical Estimation of CNN Filters Using Generalized Stein's Method for Image Analysis",
+    "tldr": "The paper introduces a statistical framework that employs Generalized Stein's Method to estimate convolutional filters, offering theoretical guarantees and empirical validation on image datasets. It demonstrates accurate filter recovery and provides insights into filter interpretability.",
+    "significance": "This work bridges statistical theory and deep learning, enabling principled filter estimation that can improve model interpretability and reduce reliance on large training datasets.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c6aa603c2ce5f926f8204205c3cc76f8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.02871v1",
+    "arxiv_id": "2609.02871v1",
+    "title": "Estimating the number of real zeros of linear combinations of radicals of polynomials",
+    "authors": [
+      "Gal Binyamini",
+      "Avner Kiro",
+      "Alexander Logunov"
+    ],
+    "published": "2026-09-02",
+    "curated_at": "2026-09-03",
+    "headline": "Polynomial Bounds for Real Zeros of Radical Polynomial Combinations in Functions",
+    "tldr": "We provide new polynomial upper bounds on the number of real zeros of sums of radical polynomial terms. This improves previous exponential estimates and applies to functions where each polynomial factor is non‑negative on the interval of interest.",
+    "significance": "These results sharpen our understanding of the complexity of algebraic–radical functions and have implications for symbolic computation and real algebraic geometry.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "2296b2c7fe8afb4d03710904eba5393a",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.01607v1",
@@ -1161,239 +1398,6 @@
       "benchmark"
     ],
     "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b1ac45a3cb1c4b3d342bde2d29817245",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27455v1",
-    "arxiv_id": "2608.27455v1",
-    "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-    "authors": [
-      "Yufan Wu",
-      "Yinghui He",
-      "Zhengyi Hu"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "CritICL: Efficient Inference-Time Reasoning for Small LLMs",
-    "tldr": "CritICL introduces a lightweight inference-time framework that leverages small language model failure modes to boost reasoning accuracy. It achieves this without repeated generation or external verification, maintaining high efficiency.",
-    "significance": "This work demonstrates that small LLMs can attain strong reasoning performance through inference-time adaptations, reducing computational overhead.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b61e42d8e1d4f8197d269caf8605d535",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27454v1",
-    "arxiv_id": "2608.27454v1",
-    "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-    "authors": [
-      "Liyan Tang",
-      "Cyrus Rashtchian",
-      "Chun-Sung Ferng"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "WikiSkill: Turning Agent Experience into Reusable Skills for Continuous Learning",
-    "tldr": "WikiSkill automatically extracts reusable skill modules from an agent's optimization history, enabling the agent to adapt and evolve its capabilities over time. By consolidating scattered insights into a persistent knowledge base, the system promotes systematic reuse and accelerates skill development.",
-    "significance": "This approach bridges the gap between episodic learning and long-term knowledge accumulation, making AI agents more efficient and adaptable.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e2fe173f4f62b11d2cd95550d6660472",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27452v1",
-    "arxiv_id": "2608.27452v1",
-    "title": "Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment",
-    "authors": [
-      "Binayyak Bhusan Roy",
-      "Jay Deep Sau",
-      "Sumanta Tewari"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "Quantum Capacitance Reveals Majorana Modes in Topological Superconducting Wires and Distinguishes Normal Segments",
-    "tldr": "A quantum-dot interferometer measures the quantum capacitance of a superconducting wire, allowing detection of Majorana zero modes at its ends. The distinct resonance patterns and magnetic flux dependence differentiate a topological wire from a trivial normal segment.",
-    "significance": "This technique provides a non-invasive probe to confirm Majorana modes, a key step toward topological quantum computing.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "29c29c7bdc5cea43469be0da8f2ec111",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27451v1",
-    "arxiv_id": "2608.27451v1",
-    "title": "Tacet: A Language and Type System for Automatic Statistical Validity Accounting",
-    "authors": [
-      "Chiké Abuah"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "Tacet: Automating Statistical Validity with a Dedicated Language and Type System",
-    "tldr": "Tacet introduces a programming language and type system that automatically tracks statistical validity across empirical comparisons. By encoding analysis structure, it enables rigorous multiple‑comparison correction without manual p‑value bookkeeping.",
-    "significance": "This work provides a principled framework for ensuring statistical soundness in empirical computer science research, reducing false discoveries.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "17b103cb3ede80fa07bb9f3172401f9e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27449v1",
-    "arxiv_id": "2608.27449v1",
-    "title": "SWE-Prime: Fewer Trajectories, Better Performance",
-    "authors": [
-      "Dewu Zheng",
-      "Ruizhe Ye",
-      "Yanlin Wang"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "SWE-Prime: Reducing Trajectory Volume Improves LLM Performance on Software Tasks",
-    "tldr": "SWE-Prime demonstrates that selectively curating fewer, higher-quality agent trajectories yields superior fine-tuning of large language models for software engineering tasks. By filtering out redundant or risky steps, the approach achieves better performance with less data.",
-    "significance": "This work challenges the assumption that more data always leads to better LLMs, offering a more efficient path to high-performing software engineering assistants.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3324872f04dd96d27e07b03f2c541d46",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27448v1",
-    "arxiv_id": "2608.27448v1",
-    "title": "TTPO: Test-Time Policy Optimization",
-    "authors": [
-      "Aozhe Wang",
-      "Zhengxi Lu",
-      "Jianze Wang"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "Test-Time Policy Optimization Enhancing LLM Reasoning Without Ground Truth for Large Models",
-    "tldr": "This paper introduces Test-Time Policy Optimization (TTPO), a method that replaces reliance on ground-truth labels with majority-vote pseudo-labels to enable test-time training of large language models. TTPO improves mathematical reasoning performance while mitigating the fragility of pseudo-labels.",
-    "significance": "TTPO offers a practical approach to adapt LLMs during inference, reducing dependency on labeled data and advancing real-time reasoning capabilities.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2190cd27edec5012962e032fff9cf8a0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27447v1",
-    "arxiv_id": "2608.27447v1",
-    "title": "Proof of the AGT Conjecture at Generic $β$",
-    "authors": [
-      "Le-Feng Chen",
-      "Kilar Zhang"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "All-Level Proof of AGT Conjecture via Selberg Averages",
-    "tldr": "The paper presents a complete proof of the four-point SU(2) AGT correspondence at generic β by establishing a factorization formula for Selberg averages of generalized Jack polynomials. It derives one-box matrix elements through a Jack limit of the Macdonald Pieri rule.",
-    "significance": "It resolves a long-standing problem in mathematical physics by providing a rigorous foundation for the AGT correspondence at arbitrary deformation parameters.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "97b61162df5a1127171c5934e5e33804",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27443v1",
-    "arxiv_id": "2608.27443v1",
-    "title": "Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?",
-    "authors": [
-      "Ting Yan"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "User-Authored Permission Policies Reduce AI Agent Overreach and Enhance Trust",
-    "tldr": "AI agents can act across many services, but users often lack control. This study shows that allowing users to author simple allow/ask/never policies improves protection against overreach.",
-    "significance": "The findings suggest that user-friendly policy frameworks can make AI interactions safer and more transparent.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a44b5bee048085e663bec333da0d87df",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27442v1",
-    "arxiv_id": "2608.27442v1",
-    "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
-    "authors": [
-      "Dewu Zheng",
-      "Yanlin Wang",
-      "Xiwen Wang"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "Benchmarking Dynamic Code Review with MCR-Bench: From Static to Interactive LLMs",
-    "tldr": "MCR-Bench introduces a multi-round code review benchmark that captures real-world developer interactions. It demonstrates how large language models can be evaluated and improved for dynamic, iterative code review tasks.",
-    "significance": "This benchmark bridges the gap between simplistic static evaluations and the complex, iterative nature of real code reviews, guiding future LLM development.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "31d12bfdcbed9a430cbd894aa83fce0f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27439v1",
-    "arxiv_id": "2608.27439v1",
-    "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
-    "authors": [
-      "Junjie Zhang",
-      "Hui Liu",
-      "Kecheng Chen"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "RedEvoAgent: Evolving Red-Teaming Agents for LLM Security Testing via Experience-Driven Skill Evolution",
-    "tldr": "RedEvoAgent automates red-teaming of large language model agents by learning from attack trajectories, surpassing static attack methods. It demonstrates how coordinated jailbreak tools can induce harmful tool use and state changes, highlighting new security risks.",
-    "significance": "This work reveals that dynamic, experience-driven attackers pose a greater threat than fixed attacks, necessitating more robust defenses for LLM-based systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "advanced"
   }
 ]
