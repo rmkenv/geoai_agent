@@ -1,5 +1,340 @@
 [
   {
+    "uid": "6e072b1139ff8341da7c8b320d2478b7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04203v1",
+    "arxiv_id": "2609.04203v1",
+    "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+    "authors": [
+      "Shravan Venkatraman",
+      "Wenshuai Zhao",
+      "Mohammad Hassan Vali"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Self-Distillation for Continuous Video State Tracking Without Supervision Using Temporal Sampling Density as Privileged Information",
+    "tldr": "We propose S^3T, a self-supervised framework that learns to track visual states in videos by distilling knowledge from densely sampled clips to sparser ones. This approach enables continuous, real-time state tracking without labeled data.",
+    "significance": "S^3T eliminates the need for manual annotations, enabling scalable, real-time video state monitoring across diverse domains.",
+    "tags": [
+      "time-series",
+      "object-detection",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5c775cf299000e9ab2ce3c7265602f0a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04202v1",
+    "arxiv_id": "2609.04202v1",
+    "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+    "authors": [
+      "Adeela Islam",
+      "Zorah Lähner",
+      "Vittorio Murino"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "TokenMatch: Curvature-Guided Transformer for Robust 3D Mesh Correspondence",
+    "tldr": "TokenMatch introduces a transformer-based framework that tokenises 3D meshes using curvature cues, enabling accurate correspondence even under partial views and non-isometric deformations. The method outperforms hand-crafted descriptors and generative functional map models while maintaining efficient inference.",
+    "significance": "It advances 3D shape matching by combining transformer architecture with geometry-aware tokenisation, addressing key challenges in partial and deformed data.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1d1e5ddb9f6ae20d5ac93ead7f6fce42",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04201v1",
+    "arxiv_id": "2609.04201v1",
+    "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+    "authors": [
+      "Chin-Yang Lin",
+      "Yang-Che Sun",
+      "Cheng Sun"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Scal3R: Multi-Relative Pose Query Boosts Online 3D Reconstruction for Long Videos",
+    "tldr": "Scal3R learns to query multiple relative poses instead of a single fixed anchor, reducing drift in long video 3D reconstruction. By leveraging stable per‑frame depth, the method maintains local geometry while scaling to longer sequences.",
+    "significance": "It enables robust, scalable online 3D reconstruction, overcoming drift-induced collapse in long‑sequence videos.",
+    "tags": [
+      "point-cloud",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "297f553113f3c829e95fbe0d5edc1161",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04200v1",
+    "arxiv_id": "2609.04200v1",
+    "title": "Principia: Relational Physics Tests for Video Models",
+    "authors": [
+      "Varun Varma Thozhiyoor",
+      "Shivam Tripathi",
+      "Venkatesh Babu Radhakrishnan"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Principia: A Relational Physics Benchmark for Evaluating Video Models and Their Reasoning",
+    "tldr": "Evaluating physical reasoning in video models is hard due to ambiguous motion metrics. Principia introduces relational physics tests that compare motion relationships between objects, providing a calibration‑free benchmark.",
+    "significance": "Principia offers a practical, calibration‑independent framework that can accelerate progress in physically grounded video understanding.",
+    "tags": [
+      "benchmark",
+      "spatial-reasoning",
+      "object-detection",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1d13505572e9c3ca70b7f0e6a06ba271",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04199v1",
+    "arxiv_id": "2609.04199v1",
+    "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+    "authors": [
+      "Yuntian Deng",
+      "Pengyu Nie",
+      "Stuart Shieber"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Compile by Training: Converting Natural Language Specs into Efficient Local Neural Functions",
+    "tldr": "Compile by training transforms natural-language specifications into reusable local neural functions, eliminating the need for repetitive remote calls. Teacher models generate task-specific examples at compile time, enabling efficient, low-latency inference.",
+    "significance": "This approach reduces cost, latency, and provider dependency while enabling scalable, on-device text processing.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e3820741dbe677636d578185a2d84cdb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04198v1",
+    "arxiv_id": "2609.04198v1",
+    "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+    "authors": [
+      "Haoyaun Zhu",
+      "Jie Zhang"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "LLM Judges Fail Reliability Test: Same Prompt, Different Outcomes on Shared Endpoints",
+    "tldr": "Researchers preregistered two campaigns to test the assumption that identical LLM queries yield consistent results. Their audits revealed significant variability, undermining the reliability of LLM-based judges.",
+    "significance": "The study exposes a critical flaw in using black-box LLM observers as stable measurement tools, calling into question many current benchmark practices.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b5c35d81a1122b39431186e8c81bafab",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04197v1",
+    "arxiv_id": "2609.04197v1",
+    "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+    "authors": [
+      "Lihao Liu",
+      "Peng Tang",
+      "Kunwar Yashraj Singh"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "ESPO: Eliminating Prompt Bloat through Error-Structured Optimization for Large Language Models",
+    "tldr": "ESPO addresses prompt bloat in evolutionary optimizers by diagnosing errors, diversifying search, and stabilizing selection. The method reduces prompt length while improving accuracy for large language models.",
+    "significance": "By curbing prompt bloat, ESPO enhances efficiency and reliability of prompt engineering for LLMs.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f529f4007f99318f815ce9d6f16a84ac",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04196v1",
+    "arxiv_id": "2609.04196v1",
+    "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+    "authors": [
+      "Kang Liao",
+      "Yihang Luo",
+      "Xiao-Ming Wu"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Puffin-World: Unified Multimodal Model for Real-Time 3D World Generation and Interaction",
+    "tldr": "Puffin-World integrates physics, geometry, and appearance into a single architecture, enabling on-the-fly 3D world construction and interaction without external modules. The model jointly learns gravity, depth, and image representations, allowing seamless simulation and reconstruction in real time.",
+    "significance": "By unifying physical, geometric, and visual states, Puffin-World eliminates the need for offline pipelines, accelerating development of immersive AI applications.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "390e4309a4df71e266cdad25d3c31bb1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04194v1",
+    "arxiv_id": "2609.04194v1",
+    "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+    "authors": [
+      "Kevin Du",
+      "Alexander Hoyle",
+      "Laura Ruis"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Chain-of-Thought Legibility vs Interpretability: Evaluating Judged vs Actual Importance in LLMs",
+    "tldr": "Researchers show that the legible reasoning steps produced by chain-of-thought models do not always reflect the true importance of those steps. By comparing human-judged importance with model-internal relevance, they find a mismatch that challenges current evaluation practices.",
+    "significance": "This work highlights a critical gap between perceived and actual reasoning, urging a rethink of how we assess and train chain-of-thought models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "68a498ad060a2f5b6f794a9ae5695952",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04195v1",
+    "arxiv_id": "2609.04195v1",
+    "title": "Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter",
+    "authors": [
+      "Cheng Bi",
+      "Jipeng Sun"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Axonal Delays Shape Neuronal Temporal Coding and Column Size in the Brain",
+    "tldr": "The study shows that axonal delay dispersion determines whether a neuron responds to a single synchronous volley or to a specific sequence of inputs, linking temporal coding to cortical column diameter. These findings suggest that column size may be tuned to the temporal resolution required by different sensory tasks.",
+    "significance": "It provides a mechanistic link between axonal conduction properties, temporal coding strategies, and the physical architecture of cortical columns.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6bacc1fc78c464acde4878535fc0bcb8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04193v1",
+    "arxiv_id": "2609.04193v1",
+    "title": "GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation",
+    "authors": [
+      "Yupeng Zheng",
+      "Xiang Li",
+      "Songen Gu"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Bridging the Action‑Sufficiency Gap in Robot Vision with Guided Feature Training",
+    "tldr": "Vision‑language pretraining gives robots rich visual features, yet these often miss essential task structure, creating an action‑sufficiency gap. GIFT introduces action‑oriented structural supervision to align intermediate features with control‑relevant signals, improving robotic manipulation.",
+    "significance": "By aligning visual features with action goals, GIFT enhances the efficiency and reliability of robot manipulation tasks, addressing a key limitation of current vision‑language models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c52652621f1dc2ac54af639d7f2a144e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04191v1",
+    "arxiv_id": "2609.04191v1",
+    "title": "Baby-universe state dependence of the wormhole-induced gravi-axion mass gap",
+    "authors": [
+      "Amin Rezaei Akbarieh"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Wormhole-Induced Gravi-Axion Mass Gap Depends on Baby-Universe State",
+    "tldr": "Euclidean wormholes break axion shift symmetry, creating a periodic potential whose curvature determines the axion mass. This study shows that the mass is not uniquely fixed by the wormhole alone but depends on the state of the baby universe.",
+    "significance": "The finding challenges the assumption that wormholes uniquely set axion masses, with implications for axion dark matter models.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "232c56eb0326b0035a21884ee7a70c7f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04192v1",
+    "arxiv_id": "2609.04192v1",
+    "title": "Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies",
+    "authors": [
+      "Euclid Collaboration",
+      "L. Pizzuti",
+      "G. Y. Ferron"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Exploring Halo Profile Shapes in ΛCDM and Alternative Cosmologies",
+    "tldr": "This study analyzes three-dimensional and projected dark-matter halo profiles from N-body simulations across ΛCDM, massive neutrinos, f(R) gravity, and dynamical dark energy models. The comparison of density, mass, velocity dispersion, and excess surface density reveals how non-standard physics alters halo structure.",
+    "significance": "The results provide critical benchmarks for testing modified gravity and neutrino effects in large-scale structure formation.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fe06fbeab949e92ed701b1b6c8152d5d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04188v1",
+    "arxiv_id": "2609.04188v1",
+    "title": "Computation of Strong Solutions to Stochastic Variational Inequalities",
+    "authors": [
+      "Yao Ji",
+      "Guanghui Lan",
+      "Jason Zhu"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-04",
+    "headline": "Efficient Strong Solutions for Stochastic Variational Inequalities via Accumulative Regularization",
+    "tldr": "This paper introduces an accumulative regularization framework for computing strong solutions to monotone variational inequalities with Lipschitz operators in stochastic settings. Using unbiased stochastic oracles with bounded variance, the method achieves expected convergence guarantees.",
+    "significance": "It provides a scalable, theoretically grounded algorithm for solving stochastic VIs, a core problem in optimization and machine learning.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "17dc69955b978ac1ed1b002bb6b5eb82",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.02888v1",
@@ -1073,331 +1408,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "6189164039b82d19ac05b872c9201b07",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27421v1",
-    "arxiv_id": "2608.27421v1",
-    "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
-    "authors": [
-      "Kevin Zhu",
-      "Ryan Zhang",
-      "Baraa Abed"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-30",
-    "headline": "Continuous Sepsis Severity Score Learned from Patient Trajectories Across Two Hospitals",
-    "tldr": "We developed a continuous sepsis severity score using deep learning on longitudinal vital signs, without hourly labels, and validated it on 29,116 and 7,691 patients from two hospitals. The model outperformed existing fixed indices and offers a data‑driven alternative for real‑time clinical decision support.",
-    "significance": "This study provides a scalable, data‑driven sepsis severity metric that can adapt to modern ICU populations and improve early detection.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e7e927dbdf8db5875d60c12c7b782f9a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27420v1",
-    "arxiv_id": "2608.27420v1",
-    "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
-    "authors": [
-      "Xingyu Shen",
-      "Huishuai Zhang",
-      "Peng Li"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-30",
-    "headline": "Weak-Model Guidance Enhances LLM Exploration in RLVR",
-    "tldr": "RLVR improves LLM reasoning but reduces policy entropy, limiting coverage. Introducing weak-model guidance restores entropy and boosts pass@k.",
-    "significance": "This method expands reasoning diversity in large language models without sacrificing performance.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e7977c16d93c960f855206ba9e57b2fd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27418v1",
-    "arxiv_id": "2608.27418v1",
-    "title": "Value distribution of multiplicative functions along linear fractional sequences",
-    "authors": [
-      "Sun-Kai Leung"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-30",
-    "headline": "Characterizing Limit Points of Multiplicative Functions on Linear Fractional Sequences",
-    "tldr": "We provide a full description of the limit points of any unimodular multiplicative function evaluated on the rational values of a linear fractional transformation. The result hinges on the multiplicative recurrence of the resulting set and yields a complete classification.",
-    "significance": "This work resolves a long-standing question about the asymptotic behavior of multiplicative functions on rational sequences, bridging analytic number theory and dynamical systems.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "43930037ea2895e24c0bedbd44e9ea32",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27417v1",
-    "arxiv_id": "2608.27417v1",
-    "title": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
-    "authors": [
-      "Chanho Park",
-      "Daehyeon Choi",
-      "Jihyun Lee"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-30",
-    "headline": "Visual Retrieval Heads Reveal How VLMs Locate and Extract Image Regions",
-    "tldr": "We show that vision‑language models contain visual retrieval heads that can locate image regions referenced by text. These heads enable the model to route visual evidence to the output, revealing a new mechanism for spatial reasoning.",
-    "significance": "This discovery uncovers the internal mechanism behind VLMs’ ability to perform grounded language tasks, opening avenues for more interpretable and controllable multimodal AI.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6d4ff52eaa6647ba9e101446e44cb24b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27458v1",
-    "arxiv_id": "2608.27458v1",
-    "title": "The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6",
-    "authors": [
-      "Darby M. Kramer",
-      "Alexander van Engelen",
-      "Frank J. Qu"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-29",
-    "headline": "ATC Telescope Tightens Bounds on CMB Anisotropic Screening & Birefringence",
-    "tldr": "The Atacama Cosmology Telescope’s DR6 observations provide the most stringent constraints yet on anisotropic screening caused by Thomson scattering of CMB photons. They also limit the rotation of CMB polarization due to cosmic birefringence, tightening bounds on parity‑violating physics beyond the Standard Model.",
-    "significance": "These results sharpen constraints on early‑universe physics and potential new interactions that could leave imprints on the CMB.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "434e0013b58f70addf5325f999bc6f8a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27438v1",
-    "arxiv_id": "2608.27438v1",
-    "title": "Graded Ehrhart theory for hypersimplices",
-    "authors": [
-      "Nathaniel Libman",
-      "Weston Miller"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-29",
-    "headline": "Graded Ehrhart Theory for Hypersimplices: q-Ehrhart Series and Orbit Harmonics",
-    "tldr": "We prove that the q-Ehrhart series of a hyperplane slice of a cube is a rational function with an explicit denominator satisfying q-reciprocity, confirming a conjecture of Reiner and Rhoades. We also find a generating set for the orbit harmonics ideal, yielding the Hilbert series and graded Frobenius characteristic of the quotient.",
-    "significance": "This work resolves a conjecture in combinatorial geometry and provides new tools for studying orbit harmonics and graded Frobenius characteristics.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "941f4950aa6a696c7e844d6e350d0c07",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27437v1",
-    "arxiv_id": "2608.27437v1",
-    "title": "The JWST/NIRCam Scattered Light Disks GTO 2780 program: panchromatic coronagraphic imaging of the HD 10647, HD 32297, HD 61005, HD 107146, and HD 181327 debris disk systems",
-    "authors": [
-      "András Gáspár",
-      "Jarron M. Leisenring",
-      "Schuyler Grace Wolff"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-29",
-    "headline": "JWST Reveals Fine Structures in Five Debris Disk Systems with NIRCam Coronagraphy",
-    "tldr": "The James Webb Space Telescope’s NIRCam instrument captured high‑contrast, panchromatic images of five nearby debris disks, revealing intricate rings, gaps, and asymmetries that hint at unseen planets. These observations provide unprecedented detail on dust composition and dynamics, advancing our understanding of planetary system evolution.",
-    "significance": "This study delivers the most detailed scattered‑light view of multiple debris disks, offering critical constraints on planet–disk interactions.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "91f406ebec968c4c5311245e53356751",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27435v1",
-    "arxiv_id": "2608.27435v1",
-    "title": "Free Novikov-Zinbiel algebra",
-    "authors": [
-      "A. Dauletiyarova",
-      "F. Mashurov",
-      "B. Sartayev"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-29",
-    "headline": "Constructing a Basis for Novikov‑Zinbiel Algebras via Graded Rational Functions",
-    "tldr": "We consider a commutative associative algebra with an invertible derivation and define two operations that give a Novikov‑Zinbiel algebra. Using a graded model we represent monomials by rational functions and explicitly build a basis for the resulting space.",
-    "significance": "This provides an explicit combinatorial description of Novikov‑Zinbiel algebras, facilitating further algebraic and representation‑theoretic investigations.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0ef6659e8d1481fa85fc99902e91d8cd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27431v1",
-    "arxiv_id": "2608.27431v1",
-    "title": "Monotonicity of the propagation speed with respect to the diffusion in a Lotka-Volterra competition-diffusion system",
-    "authors": [
-      "Cyrille Kenne"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-29",
-    "headline": "Monotonicity of Propagation Speed in Lotka-Volterra Competition-Diffusion Systems",
-    "tldr": "The study demonstrates how diffusion ratios influence the speed of traveling fronts in strongly competing species, revealing a smooth, monotonic relationship. This determines which species successfully invades the other's territory.",
-    "significance": "Understanding diffusion-driven invasion dynamics informs ecological management and predictive modeling of species spread.",
-    "tags": [
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f2216e40e84938cb95fa590f4b0e342e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27429v1",
-    "arxiv_id": "2608.27429v1",
-    "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
-    "authors": [
-      "Nguyen Xuan-Vu",
-      "Octavian Susanu",
-      "Daniel Armstrong"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-29",
-    "headline": "MAELLE: Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
-    "tldr": "MAELLE introduces a novel mechanistic framework that predicts chemical reactions by modeling electron rearrangements as discrete flow matching on graph-structured electron occupancy. This approach moves beyond heuristic graph edits, enabling more accurate and interpretable reaction predictions.",
-    "significance": "By directly modeling electron dynamics, MAELLE offers a more faithful representation of reaction mechanisms, potentially accelerating drug discovery and materials design.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f5eee2bcfc092af3a0385597245d6ffb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27428v1",
-    "arxiv_id": "2608.27428v1",
-    "title": "Stochastic Estimation of Transduced Language Models",
-    "authors": [
-      "Vésteinn Snæbjarnarson",
-      "Samuel Kiegeland",
-      "Manuel de Prada Corral"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-29",
-    "headline": "Stochastic Estimation of Transduced Language Models via Finite-State Transducers for Target Strings",
-    "tldr": "Transduced language models combine a pretrained source language model with a finite-state transducer to generate a language model over target strings. Estimating target prefix probabilities requires summing source probabilities over all source strings mapped to target prefixes, which can be computationally expensive.",
-    "significance": "This approach enables efficient probabilistic modeling of transformed language outputs, bridging pretrained models and structured mapping.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "93d2aeada826ab62cac1fd29c56bcdab",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27424v1",
-    "arxiv_id": "2608.27424v1",
-    "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
-    "authors": [
-      "Qianlong Lan",
-      "Vinothini Pandurangan",
-      "Anuj Kaul"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-29",
-    "headline": "Assessing AI Model Security Scanners: Coverage, Failure Recovery, and Benchmarking",
-    "tldr": "We benchmark three static AI model scanners—ModelScan, ModelAudit, and Fickling—on a synthetic corpus of 170 Pickle and PyTorch artifacts. The study reveals gaps in coverage and failure recovery, highlighting the need for standardized evaluation metrics.",
-    "significance": "This work provides the first systematic evaluation of AI model security scanners, guiding developers toward more robust artifact safety practices.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "97b6824839f54728a22f2fb48c58793e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27457v1",
-    "arxiv_id": "2608.27457v1",
-    "title": "Spectral Fingerprints of Gauge Theories on a Quantum Computer",
-    "authors": [
-      "Graham Van Goffrier",
-      "Debasish Banerjee",
-      "Bipasha Chakraborty"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "Quantum Spectral Sampling Unveils Gauge Theory Fingerprints, Enabling Precise Energy Landscape Mapping",
-    "tldr": "We present an unbiased quantum algorithm that samples the spectrum of a Hamiltonian, enabling extraction of finite-resolution spectral distributions across the entire energy range. By focusing on specific spectral regions, the method reveals the full fingerprint of gauge theories, including ground state properties and excited state dynamics.",
-    "significance": "This approach provides a scalable, quantum-enabled tool for probing complex gauge models, potentially accelerating discoveries in high-energy physics and quantum field theory.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "fa89a352ed1c813c8620728c78688c3f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27456v1",
-    "arxiv_id": "2608.27456v1",
-    "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
-    "authors": [
-      "Tianjie Ju",
-      "Zheng Wu",
-      "Yueqing Sun"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-28",
-    "headline": "UrbanGround: From Local Perception to Spatial Agency in Real-Scale City Navigation",
-    "tldr": "UrbanGround introduces a sandbox environment to evaluate how multimodal large language models translate street-level perception into actionable navigation in real-scale cities. The study demonstrates current MLLM limitations and highlights the need for improved spatial reasoning capabilities.",
-    "significance": "This work provides the first systematic benchmark for assessing urban agency in multimodal LLMs, guiding future research toward more reliable city-scale navigation.",
-    "tags": [
-      "foundation-models",
-      "urban-AI",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
