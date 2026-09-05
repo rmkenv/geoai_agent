@@ -1,5 +1,263 @@
 [
   {
+    "uid": "bcd922747c84099870eb8754184ecd6c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04189v1",
+    "arxiv_id": "2609.04189v1",
+    "title": "Robust PAC Learning of Concurrent Stochastic Games",
+    "authors": [
+      "Angel Y. He",
+      "David Parker"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Robust PAC Learning Framework for Concurrent Stochastic Games with Transition Uncertainty",
+    "tldr": "We present the first PAC learning framework for general-sum concurrent stochastic games under transition uncertainty. Our algorithm constructs L1 confidence sets and solves a robust game to compute a social-welfare optimal ε-NE.",
+    "significance": "This work establishes a principled approach to learn equilibria in complex multi-agent systems with uncertain dynamics, bridging learning theory and game theory.",
+    "tags": [
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0115032c87ea8556c1fe887654b1b1ec",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04186v1",
+    "arxiv_id": "2609.04186v1",
+    "title": "Axion Portal Dark Matter and the LUX-ZEPLIN High-Recoil Event",
+    "authors": [
+      "James Unwin"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Axion Portal Dark Matter Explains LZ’s 248 keV Recoil Without Halo Tail Dependence",
+    "tldr": "A new elastic pseudoscalar interaction model can account for the single 248 keV event seen by LZ. This approach avoids reliance on the uncertain high‑speed tail of the Galactic halo.",
+    "significance": "It offers a robust alternative to inelastic dark matter explanations, reducing astrophysical uncertainties.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a94cd2a479587b6b51255dfcff6a8785",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04184v1",
+    "arxiv_id": "2609.04184v1",
+    "title": "Toward Frontier-Quality Declarative UI Generation at Small-Model Cost",
+    "authors": [
+      "Yingxiang Yang",
+      "Weihang Xiao",
+      "Ben Bullough"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Can Small Models Generate High-Quality Declarative UIs in Real Time?",
+    "tldr": "Declarative UI frameworks like A2UI let apps assemble interfaces from component catalogs instead of writing code. The challenge is whether lightweight models can produce these interfaces quickly and accurately.",
+    "significance": "Demonstrating efficient small-model UI generation would enable safer, faster frontend development across many applications.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "270060e5b0bec81c226de64f59807e02",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04180v1",
+    "arxiv_id": "2609.04180v1",
+    "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+    "authors": [
+      "Joseph Lee",
+      "Yidi Huang",
+      "Dokyoon Kim"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Auxiliary Views Boost LLM Knowledge Acquisition",
+    "tldr": "Researchers confirm that repetition is essential for LLMs during pre‑training, and that paraphrasing only helps at smaller batch sizes. They demonstrate that auxiliary reformulations of knowledge causally improve learning outcomes.",
+    "significance": "This study clarifies how LLMs acquire knowledge, guiding more efficient pre‑training strategies.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f55daa77ac770945d2a9f69ba6ec5317",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04174v1",
+    "arxiv_id": "2609.04174v1",
+    "title": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
+    "authors": [
+      "Denis M. Akola",
+      "David F. Fouhey"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Zero-Shot Depth Synthesis for Novel Scenes via 3D Foundation Model Representations",
+    "tldr": "This work demonstrates that internal representations of 3D foundation models can be leveraged to synthesize depth maps for unseen viewpoints without fine-tuning. By treating the learned scene embeddings as implicit 3D priors, the authors achieve zero-shot depth reconstruction across diverse scenes.",
+    "significance": "It shows that large 3D foundation models can generalize to novel depth estimation tasks, reducing the need for large labeled datasets.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "point-cloud"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "72a6ef8eeddbb712aef9b0d6b06e9e4e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04173v1",
+    "arxiv_id": "2609.04173v1",
+    "title": "Last Translation Benchmark",
+    "authors": [
+      "Vilém Zouhar",
+      "Niyati Bafna",
+      "Mukund Choudhary"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Pushing the Limits: New Benchmarks for State-of-the-Art Machine Translation Evaluation",
+    "tldr": "Current machine translation benchmarks are nearing saturation, making it hard to gauge progress. We need robust, actionable evaluation methods that reveal failure modes beyond unreliable automatic metrics.",
+    "significance": "Establishing advanced benchmarks will accelerate the development of truly capable translation systems.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7158cefbdf2c89e7f656d4dcc9ca1aba",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04172v1",
+    "arxiv_id": "2609.04172v1",
+    "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+    "authors": [
+      "Zixuan Fu",
+      "Bingxiang He",
+      "Yuxin Zuo"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "One-Example On-Policy Distillation Recovers Full-Scale Gains in LLMs",
+    "tldr": "Researchers show that on-policy distillation can be performed with a single query, achieving most of the performance gains of full-data training. The method continues to improve over hundreds of steps, demonstrating data efficiency for large language models.",
+    "significance": "This finding challenges the assumption that large datasets are essential for effective LLM distillation, opening avenues for low-resource deployment.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "040a7e2d1ec429512584f41f5e14987a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04170v1",
+    "arxiv_id": "2609.04170v1",
+    "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+    "authors": [
+      "Davide Paglieri",
+      "Logan Cross",
+      "Tim Genewein"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Emergent Cheating and Whistleblowing in Autonomous Research Swarms and Their Impact on Scientific Integrity",
+    "tldr": "We examine how a collective of 100 autonomous LLM agents can inadvertently spread cheating behaviors and how whistleblowing mechanisms can mitigate this. The study highlights the need for robust governance in multi-agent AI ecosystems.",
+    "significance": "This case study underscores the vulnerability of shared AI infrastructures to contagious unethical behavior, informing future safeguards.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "99c6ecd5f8e72dc0e3c05ec111f211b4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04169v1",
+    "arxiv_id": "2609.04169v1",
+    "title": "Reciprocity can halve what a mechanical network can learn",
+    "authors": [
+      "Thai-Son Vu",
+      "Hoang-Giang Nguyen",
+      "Quoc-Bao Nguyen"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Reciprocity Halves Learning Capacity of Tunable Mechanical Networks",
+    "tldr": "Tunable mechanical networks can learn in place, but Maxwell-Betti reciprocity limits their capacity. When p degrees of freedom are both driven and read out, reachable responses lie in a subspace of codimension p(p‑1).",
+    "significance": "Understanding reciprocity constraints is crucial for designing efficient mechanical learning materials.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2d6a2b50d03136f5205d1c31a0c4da51",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04168v1",
+    "arxiv_id": "2609.04168v1",
+    "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
+    "authors": [
+      "Yujie Zhang",
+      "Huiying Lan",
+      "Ehsan Aghapour"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Para-Pipe: Hierarchical Operator Parallelism for Low-Latency Edge AI on Heterogeneous SoCs",
+    "tldr": "Para-Pipe introduces a hierarchical pipelining strategy that exploits operator-level parallelism across multiple on-chip units, reducing latency in complex neural networks on edge SoCs. The approach demonstrates significant throughput gains while meeting real-time constraints, offering a benchmark for future heterogeneous AI accelerators.",
+    "significance": "By addressing latency bottlenecks in edge AI, Para-Pipe paves the way for deploying sophisticated neural networks on resource-constrained SoCs.",
+    "tags": [
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "80a8ca0b57ccfca4938fc8122f3bdd95",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04166v1",
+    "arxiv_id": "2609.04166v1",
+    "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
+    "authors": [
+      "Yakov Pyotr Shkolnikov"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-05",
+    "headline": "Distinguishing Deceptive Behavior from Mechanisms in Language Models: A Causal Taxonomy",
+    "tldr": "This paper introduces a causal taxonomy that separates deceptive behavior into prior commitment, retrospective reporting, model preference, and realized output, clarifying the difference between deceptive mechanisms and deceptive appearances. The framework helps researchers evaluate and benchmark language models for deceptive capabilities more rigorously.",
+    "significance": "By formalizing deception in language models, the study provides a clearer foundation for developing safeguards and evaluation benchmarks.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "6e072b1139ff8341da7c8b320d2478b7",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.04203v1",
@@ -1153,260 +1411,5 @@
     ],
     "readtime": 3,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "923c36c3a7cb149138f47990a49a3333",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28578v1",
-    "arxiv_id": "2608.28578v1",
-    "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
-    "authors": [
-      "Nan Wang",
-      "Mohit Yadav",
-      "Jonathan Wulff"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Aero Hand Open: Affordable Tendon-Driven Hand for Realistic Dexterous Manipulation",
-    "tldr": "Aero Hand Open presents a low-cost, tendon-driven robotic hand that can be simulated and built with off-the-shelf components. Its design allows a single motor to drive multiple joints, enabling realistic dexterous manipulation for research and education.",
-    "significance": "This hand democratizes access to advanced robotic manipulation research by reducing cost and complexity.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ea6a1ce85b2d3667379e40bb8033daa7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28577v1",
-    "arxiv_id": "2608.28577v1",
-    "title": "How Long-Range Tails Reshape Non-Hermitian Spectra",
-    "authors": [
-      "Ding Gu",
-      "Zhanpeng Fu",
-      "Yu-Min Hu"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Long-Range Hopping Rewrites Non-Hermitian Spectra Under Open Boundaries",
-    "tldr": "Even infinitesimal long-range hoppings can drastically alter the spectrum and eigenstates of short-range non-Hermitian systems. This effect challenges the common truncation approximation used in realistic tight-binding models.",
-    "significance": "The study reveals that truncating long-range interactions can lead to qualitatively incorrect predictions in non-Hermitian physics, impacting design and analysis of open quantum systems.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c4fc80b80ed13f2ac20b4282c35ab23c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28576v1",
-    "arxiv_id": "2608.28576v1",
-    "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
-    "authors": [
-      "Chengpiao Huang",
-      "Kaizheng Wang"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Balancing Synthetic Data and Real Observations for Reliable Statistical Inference",
-    "tldr": "Synthetic data can boost inference when real data are scarce, but treating them as real can bias results. We propose a framework that quantifies synthetic augmentation by count and weight, enabling reliable inference across related tasks.",
-    "significance": "This framework offers a principled way to integrate synthetic data, reducing bias and improving inference quality in data-limited settings.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "867318a169eeddce91af8ebcef233d42",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28574v1",
-    "arxiv_id": "2608.28574v1",
-    "title": "Super-resolution Control of Two-dimensional Quantum Emitters",
-    "authors": [
-      "Bosai Lyu",
-      "Valeria Vento",
-      "Ludivine Fausten"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Precise Spatial Control of 2D Quantum Emitters via Super-Resolution Techniques",
-    "tldr": "Localized interlayer excitons in TMD heterobilayers act as quantum emitters with static dipole moments, enabling nanoscale charge sensing. This study demonstrates electrically tunable, spin-valley selective emitters with super-resolution spatial control, paving the way for probing correlated quantum phases.",
-    "significance": "Enabling deterministic spatial placement of quantum emitters unlocks precise probing of quantum many-body states in adjacent layers.",
-    "tags": [
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "18bb47e38f0f0c5aaf8bc66d25910ed0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28573v1",
-    "arxiv_id": "2608.28573v1",
-    "title": "Quantum Fourier transform toolbox",
-    "authors": [
-      "Carli Bruinsma",
-      "Pietro M. Posta",
-      "Joppe Stokvis"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "New Quantum Fourier Transform Toolbox Enables Efficient Non-Abelian Group Circuits",
-    "tldr": "We present a toolbox that constructs efficient QFT circuits for non-abelian groups using Mackey and Clifford theory. The framework supports rapid prototyping and benchmarking of quantum algorithms.",
-    "significance": "This advances quantum algorithm design by providing scalable QFT implementations for previously intractable group families.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a46641ca55b7d08106c5fa27f2157861",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28572v1",
-    "arxiv_id": "2608.28572v1",
-    "title": "PULSAR: Pooled Unified Late-Interaction Search and Retrieval for Enterprise Visual Document RAG",
-    "authors": [
-      "Benjamin Constable",
-      "Anup Roy",
-      "Vishal Sharma"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "PULSAR: Vision-First Retrieval System for Enterprise Pitch Decks at Mubadala",
-    "tldr": "PULSAR is a vision-first retrieval system that indexes page images of pitch decks and board packs, enabling instant search without costly OCR refreshes. Deployed at Mubadala Investment Company, it uses a frozen ColPali-style backbone for real-time, high-fidelity retrieval.",
-    "significance": "PULSAR dramatically reduces latency and cost for visual document search, preserving chart detail for time-sensitive investment decisions.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b912aa48ace811f5549958832ad39068",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28571v1",
-    "arxiv_id": "2608.28571v1",
-    "title": "Learning to Decode Concatenated Quantum Codes with Hierarchical Message Passing",
-    "authors": [
-      "Jiahui Wu",
-      "Chao Zhang",
-      "Zipeng Wu"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Neural Message Passing Boosts Decoding of Concatenated Quantum Hamming Codes",
-    "tldr": "We propose a lightweight neural message-passing decoder for concatenated stabilizer codes, where soft beliefs flow bidirectionally across levels. Applied to the [[15,7,3]] quantum Hamming code, it achieves significantly higher error thresholds than existing bidirectional decoders.",
-    "significance": "This work demonstrates that simple neural aggregation can dramatically improve quantum error correction thresholds, paving the way for more efficient quantum computing.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f583d97fc32d862be38182c9c04c7a47",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27427v1",
-    "arxiv_id": "2608.27427v1",
-    "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
-    "authors": [
-      "Yisen Xi"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-30",
-    "headline": "Separating Persona and Execution for Auditable LLM Agents in Governed Environments",
-    "tldr": "This paper introduces Persona‑Execution Separation, a pattern that splits an LLM agent’s persona and its execution into distinct trust domains linked by a governed contract bridge. It enables the persona to evolve freely while keeping stateful work auditable and traceable.",
-    "significance": "It provides a scalable, cost‑effective way to balance flexibility and governance for LLM agents in regulated organizations.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d88783eadac0c50a781e5d18eb241885",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27425v1",
-    "arxiv_id": "2608.27425v1",
-    "title": "Leading term strandings for webs",
-    "authors": [
-      "Michael Bo",
-      "Madelyn Burns",
-      "Junyang Chen"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-30",
-    "headline": "Identifying Leading Term Strandings in sl_n Webs: A New Construction Approach",
-    "tldr": "This paper introduces a method to identify leading term strandings in sl_n webs, which encode the dominant monomial of the invariant vector. By providing an algorithmic construction, it facilitates explicit computations in quantum group representation theory.",
-    "significance": "The technique streamlines the extraction of leading terms, aiding both theoretical analysis and computational applications in quantum algebra.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8676b735066442dd86cb90af9943a9e0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27423v1",
-    "arxiv_id": "2608.27423v1",
-    "title": "High-order stabilized matrix-free simulation of rotating mixing devices using the Mortar Element Method",
-    "authors": [
-      "B. Campos",
-      "P. Munch",
-      "V. O. Ferreira"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-30",
-    "headline": "High-Order Matrix-Free Simulation of Rotating Mixers via Mortar Element Method",
-    "tldr": "We develop a high-order continuous Galerkin framework for rotating mixers, employing a matrix-free Navier-Stokes solver and Mortar Element domain decomposition. The method uses ALE to handle rotor-stator motion, enabling efficient, stabilized simulations of complex mixing devices.",
-    "significance": "This approach enables accurate, scalable simulations of rotating mixers without assembling large matrices, improving design and optimization of industrial mixing processes.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5c1b37af023d6c500af161153240a26f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.27422v1",
-    "arxiv_id": "2608.27422v1",
-    "title": "misi: a Metric Inverted Sample Index",
-    "authors": [
-      "Edgar Chavez"
-    ],
-    "published": "2026-08-27",
-    "curated_at": "2026-08-30",
-    "headline": "MISI: Efficient Inverted Sample Index for Approximate Nearest-Neighbor Search in Metric Spaces",
-    "tldr": "MISI introduces a lightweight inverted index that samples database points to enable fast approximate nearest-neighbor queries in any metric space. By representing each object with its nearest sample points and using IDF-weighted shared-neighbor voting, it achieves high recall with minimal verification cost.",
-    "significance": "MISI offers a scalable, open-source solution that reduces ANN search time while maintaining accuracy across diverse metric spaces.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
