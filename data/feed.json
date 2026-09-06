@@ -1,5 +1,303 @@
 [
   {
+    "uid": "6f99264034a4d6023d617000ac4d956f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04185v1",
+    "arxiv_id": "2609.04185v1",
+    "title": "Atmospheric neutrino up-scattering explanation of LZ 2026 excess",
+    "authors": [
+      "Sk Jeesun",
+      "Anirban Majumdar"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Atmospheric Neutrinos May Explain LZ 2026's Unexpected 248 keV Nuclear Recoil",
+    "tldr": "A recent isolated nuclear recoil observed by LZ at 248 keV challenges Standard Model predictions. This study proposes atmospheric neutrino up-scattering as a plausible explanation.",
+    "significance": "If confirmed, this mechanism could reshape our understanding of neutrino interactions and dark matter searches.",
+    "tags": [
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "133f144eba81e357b16919acdb16eb03",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04178v1",
+    "arxiv_id": "2609.04178v1",
+    "title": "Measurements on the separated subsystems of an entangled state",
+    "authors": [
+      "Gregory D. Scholes"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Understanding Measurements on Separated Subsystems in Entangled Quantum States and Their Implications",
+    "tldr": "Entangled quantum systems can be physically separated, yet measurements on each part must be described by local Hilbert space vectors. The paper clarifies how to formulate these measurements consistently, resolving a longstanding ambiguity.",
+    "significance": "This work provides a rigorous framework for interpreting local measurements in entangled systems, essential for quantum communication and foundational tests.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "510adea93ebac1c6caa469063cdc5e90",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04177v1",
+    "arxiv_id": "2609.04177v1",
+    "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+    "authors": [
+      "Rafal Urbaniak",
+      "Sam Witty",
+      "Daniel Waxman"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Scalable Causal Probabilistic Explanation: A Feasible Framework for Real-World Models",
+    "tldr": "This paper introduces a computationally efficient framework that bridges the gap between rigorous causal theories and scalable attribution methods. By combining counterfactual enumeration with probabilistic scoring, it offers actionable blame and credit assignments for complex models.",
+    "significance": "It enables practical causal analysis in large-scale AI systems, improving transparency and accountability.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a0667cf0d24ec5d11eb408a47ab9b900",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04164v1",
+    "arxiv_id": "2609.04164v1",
+    "title": "A Superconducting Peierls Instability",
+    "authors": [
+      "Pramodh Senarath Yapa",
+      "Joseph Maciejko",
+      "Frank Marsiglio"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Superconducting Peierls Instability: From Metal to Insulator via Lattice Distortion",
+    "tldr": "The Peierls instability shows how electron-phonon coupling can open a gap at the Fermi level in a one-dimensional metal, turning it into an insulator. In superconducting systems, this mechanism competes with Cooper pairing, leading to rich phase diagrams.",
+    "significance": "Understanding the superconducting Peierls instability provides insight into the interplay between lattice distortions and electronic correlations in low-dimensional materials.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0eba52d99063c631a31ceb924f187712",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04163v1",
+    "arxiv_id": "2609.04163v1",
+    "title": "TeV Higgsino Interpretation of the LZ High-Recoil Event with Intermediate-Scale Electroweak Gauginos",
+    "authors": [
+      "Xiaokang Du",
+      "Fei Wang"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "TeV Higgsinos Explain LZ High-Recoil Event with Heavy Electroweak Gauginos",
+    "tldr": "A TeV-scale Higgsino with a sub-MeV neutralino mass splitting can account for the LZ high-recoil event. The required electroweak gaugino masses (~10^7 GeV) arise from a non‑universal GUT boundary condition that cancels bino–wino contributions.",
+    "significance": "This work links dark‑matter direct‑detection anomalies to high‑scale supersymmetry, offering testable predictions for future experiments.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d127ec92e1db834b5ef9876933aa3fce",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04162v1",
+    "arxiv_id": "2609.04162v1",
+    "title": "Thermodynamic Concentration Inequalities: Controlling Uncertainty in Finite-Time and Small-Sample Thermodynamic Inference",
+    "authors": [
+      "Rick Bebon",
+      "Aljaž Godec"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Nonasymptotic Concentration Bounds for Generalized Currents in Geometrically Ergodic Diffusions",
+    "tldr": "We establish finite-time, nonasymptotic upper bounds on deviations of generalized currents from their stationary mean for any observation time or sample size. These results provide a universal concentration-of-measure framework governed by the system’s relaxation time.",
+    "significance": "The work delivers a rigorous, universally applicable tool for quantifying uncertainty in thermodynamic inference, bridging theory and practical finite-data scenarios.",
+    "tags": [
+      "time-series",
+      "diffusion-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "870e37cca10ce6c7148277e6a60f978a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04161v1",
+    "arxiv_id": "2609.04161v1",
+    "title": "Minimizing the makespan in job shop scheduling under conflict graph constraints",
+    "authors": [
+      "Nour Elhouda Tellache",
+      "Abdenour Azerine"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Conflict-Graph Job Shop Scheduling: Complexity, Makespan Minimization, and Constraint Analysis",
+    "tldr": "We analyze the computational complexity of job shop scheduling with conflict graph constraints. The study shows that minimizing makespan remains NP-hard even when jobs share additional resources.",
+    "significance": "This result informs the design of efficient scheduling algorithms for systems where jobs compete for shared resources.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "dd374c835f2eb2976ca9c3de39710915",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04160v1",
+    "arxiv_id": "2609.04160v1",
+    "title": "Vanilla Exact Synthesis of CNOT Circuits is NP-hard",
+    "authors": [
+      "Chenjian Li",
+      "Ji Guan"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Exact CNOT Circuit Synthesis Is NP-Hard, Even Without Connectivity Constraints",
+    "tldr": "The paper shows that finding the smallest CNOT circuit implementing an arbitrary invertible linear transformation is NP-hard, even in the simplest setting with identity input and no intermediate variables. This result closes a gap in the complexity landscape of quantum circuit synthesis.",
+    "significance": "It establishes that even the most basic CNOT synthesis problem is computationally intractable, guiding future algorithmic research toward approximation or heuristic methods.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e45ab0daa77412371ac47f7d005c3c55",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04159v1",
+    "arxiv_id": "2609.04159v1",
+    "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+    "authors": [
+      "Uday Vallabhaneni",
+      "Cassie L. Cagwin",
+      "David J. Wild"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Sentinel-RL Offloads Topological Reasoning from LLM Agents for Scalable SOC Operations",
+    "tldr": "Sentinel-RL introduces a method to offload complex topological reasoning from large language model agents, enabling them to handle multi-thousand-host authentication graphs in security operations centers. By separating topology management from free-form generation, the system ensures consistent containment actions and scales to enterprise environments.",
+    "significance": "This approach addresses critical scalability and reliability challenges of LLM-based SOC analysts, paving the way for more robust, real-time threat detection and response.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "89d963a9f17a54e2b24bd3f4f6040c88",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04158v1",
+    "arxiv_id": "2609.04158v1",
+    "title": "Formation Matrix and Energy-based Control of Multi-Agent Systems",
+    "authors": [
+      "Martín Crespo",
+      "Sergio Junco",
+      "Matías Nacusse"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Energy-Based Spring-Damper Control for Multi-Agent Robotic Formation on Planar Surfaces",
+    "tldr": "This paper introduces an energy-based controller that models inter-agent interactions as spring-damper networks, enabling robots to achieve and maintain a desired planar formation while avoiding collisions. The controller's de-energized states correspond to the target formation, and simulations demonstrate its effectiveness in dynamic environments.",
+    "significance": "It provides a scalable, physics-inspired framework for coordinated multi-robot motion, improving formation stability and collision avoidance.",
+    "tags": [
+      "real-time",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a284ca9c130f06a8d71e0943fda6802a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04154v1",
+    "arxiv_id": "2609.04154v1",
+    "title": "B(E2) Serves as a Robust Signature of N = 32,34 Shell Evolution",
+    "authors": [
+      "Jia Liu",
+      "Yi Fei Niu",
+      "Xiao Hua Lia"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "B(E2) Transitions Reveal New Shell Structure at N=32,34 in Exotic Nuclei",
+    "tldr": "Electric quadrupole transition probabilities B(E2) are sensitive to orbital radii, providing a clear signature of shell evolution at neutron numbers 32 and 34. The study uses a relativistic Hartree-Fock model to show how effective charges vary with orbital size, resolving anomalies in exotic nuclei.",
+    "significance": "This work offers a robust, model-independent method to identify new magic numbers in nuclei far from stability.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "348447e5d105c6ea7476973d3f78dc1a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04153v1",
+    "arxiv_id": "2609.04153v1",
+    "title": "Smooth autonomous fast dynamo action on the three-torus",
+    "authors": [
+      "Michele Coti Zelati",
+      "Massimo Sorella",
+      "David Villringer"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Fast Dynamo Action on the Three-Torus via Stretch–Fold–Shear",
+    "tldr": "The paper constructs a smooth, autonomous, divergence-free velocity field on the 3‑torus that generates fast dynamos, resolving a long‑standing conjecture. It extends a time‑periodic fast dynamo construction to a fully autonomous setting using a novel stretch‑fold‑shear mechanism.",
+    "significance": "It provides the first rigorous example of a smooth autonomous fast dynamo on a compact manifold, settling the Fast Dynamo Conjecture.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "22925c6acd013425b206125c5829ac56",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.04151v1",
+    "arxiv_id": "2609.04151v1",
+    "title": "Persistent Identity Preservation in Generative Image Models: A Benchmark and Evaluation System",
+    "authors": [
+      "Mengwei Ren",
+      "Xuaner Zhang",
+      "Zhihao Xia"
+    ],
+    "published": "2026-09-03",
+    "curated_at": "2026-09-06",
+    "headline": "Benchmarking Identity Preservation in Diffusion Models for Generative Images",
+    "tldr": "Generative models excel at high‑quality image creation but often lose subject identity when editing or generating new poses. This paper introduces a comprehensive benchmark and evaluation system to measure and improve identity consistency.",
+    "significance": "It provides the first systematic framework to assess and enhance subject fidelity in modern generative image models.",
+    "tags": [
+      "diffusion-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "bcd922747c84099870eb8754184ecd6c",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.04189v1",
@@ -1111,305 +1409,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "ec1d65cf202c953d6ac44bc392f75bda",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.31169v1",
-    "arxiv_id": "2608.31169v1",
-    "title": "Strain-Tunable Spin Relaxation in Germanium from First Principles",
-    "authors": [
-      "Lauren A. Tan",
-      "Shaelyn Iyer",
-      "Ivan Maliyov"
-    ],
-    "published": "2026-08-31",
-    "curated_at": "2026-09-01",
-    "headline": "First-Principles Prediction of Strain-Tunable Spin Relaxation in Germanium for Quantum Devices",
-    "tldr": "Using hybrid-functional band structures and fully relativistic electron-phonon interactions, we compute spin relaxation times in bulk germanium under strain. The results reveal a strong tunability of spin lifetimes, offering a pathway to optimize spin qubits without phenomenological assumptions.",
-    "significance": "This work provides the first ab initio framework for engineering spin lifetimes in germanium, a key material for scalable quantum technologies.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3763f7a5f4d6623f0b70cc1038dcc00a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.31166v1",
-    "arxiv_id": "2608.31166v1",
-    "title": "Constant Individual Regret in General Games",
-    "authors": [
-      "Mingyang Liu",
-      "Gabriele Farina",
-      "Asuman Ozdaglar"
-    ],
-    "published": "2026-08-31",
-    "curated_at": "2026-09-01",
-    "headline": "ECHO-OFTRL Achieves Constant Individual Regret in Finite N-Player Games",
-    "tldr": "The paper introduces ECHO-OFTRL, an optimistic follow-the-regularized-leader algorithm with an EMA cascade that eliminates the polylogarithmic horizon dependence in constant individual regret. It guarantees efficient, decentralized convergence for any finite normal-form game under full-information feedback.",
-    "significance": "This work provides the first horizon-independent regret bounds for decentralized learning in general games, enabling faster and more reliable equilibrium convergence.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "799ce73efb81aa7f627a9d0c465f223c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.31167v1",
-    "arxiv_id": "2608.31167v1",
-    "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
-    "authors": [
-      "Weiqi Wang",
-      "Zhi Li",
-      "Yudong Lei"
-    ],
-    "published": "2026-08-31",
-    "curated_at": "2026-09-01",
-    "headline": "SUN: Bridging Control and Learning with Language-Grounded Persistent Programs for Long-Horizon Manipulation",
-    "tldr": "The SUN framework integrates typed, language-grounded programs to unify model-based control and learned policies for long-horizon manipulation tasks. By preserving task semantics, SUN eliminates hand-crafted rewards and ensures policies remain faithful to verified control behavior.",
-    "significance": "SUN enables reliable, interpretable, and efficient policy learning that stays aligned with formal control objectives, advancing long-horizon robotic manipulation.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "47943adcf366063b99faec7b71d46bcb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.31163v1",
-    "arxiv_id": "2608.31163v1",
-    "title": "Evolution of Cosmic String Loops under Gravitational Backreaction",
-    "authors": [
-      "Lasse Gerblich",
-      "Richard A. Battye",
-      "E. P. S. Shellard"
-    ],
-    "published": "2026-08-31",
-    "curated_at": "2026-09-01",
-    "headline": "Gravitational Backreaction Alters Cosmic String Cusp Signals in the Early Universe",
-    "tldr": "Cosmic string loops generate strong gravitational wave bursts at cusps, but gravitational backreaction smooths the string, reducing burst amplitude. This alters the strain spectrum and affects gravitational wave search strategies.",
-    "significance": "Understanding backreaction is crucial for accurate predictions of gravitational wave signals from cosmic strings.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0ef0d2cccf6897929d09e6265f6b5b10",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.31162v1",
-    "arxiv_id": "2608.31162v1",
-    "title": "Trinomial containment in polynomial ideals is undecidable",
-    "authors": [
-      "Tobias Boege",
-      "Anna Hofer",
-      "Thomas Kahle"
-    ],
-    "published": "2026-08-31",
-    "curated_at": "2026-09-01",
-    "headline": "Undecidability of Trinomial Containment in Polynomial Ideals via MRDP Reduction",
-    "tldr": "We show that deciding whether an ideal in a polynomial ring over Q contains a trinomial is undecidable. By constructing an ideal from an integer polynomial, we reduce the existence of integral zeros to trinomial containment, invoking the MRDP theorem.",
-    "significance": "This result establishes a new class of undecidable problems in computational algebra, linking Diophantine equations to ideal membership questions.",
-    "tags": [
-      "open-source",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "91afd13ccf0bdae8cca031fb92af1743",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.31161v1",
-    "arxiv_id": "2608.31161v1",
-    "title": "Agentic research is oxymoronic",
-    "authors": [
-      "Natalie B. Hogg"
-    ],
-    "published": "2026-08-31",
-    "curated_at": "2026-09-01",
-    "headline": "Agentic AI in Research: An Oxymoron That Threatens Scientific Trust",
-    "tldr": "Agentic large language models can bypass human interpretation, potentially eroding trust in scientific findings. This raises concerns about the reliability of AI-driven research outputs.",
-    "significance": "The article highlights the risk that fully autonomous AI research may undermine confidence in scientific literature.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "efa6ba1cb54fb75008aba7ecd8ffc587",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.31159v1",
-    "arxiv_id": "2608.31159v1",
-    "title": "BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting",
-    "authors": [
-      "Yiling Yao",
-      "Wenjuan Zhang",
-      "Bowen Wang"
-    ],
-    "published": "2026-08-31",
-    "curated_at": "2026-09-01",
-    "headline": "Efficient Hyperspectral BRF Modeling with 3D Gaussian Splatting for Multi-Angle Terrestrial Surface Imaging",
-    "tldr": "This study introduces a novel method for modeling bidirectional reflectance factor (BRF) using 3D Gaussian Splatting, enabling rapid generation of multi-angle hyperspectral imagery. By replacing computationally intensive radiative transfer solvers with efficient point‑cloud rendering, the approach significantly reduces processing time while maintaining high fidelity.",
-    "significance": "The method accelerates hyperspectral remote sensing analysis, facilitating real‑time applications in environmental monitoring and land cover classification.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "point-cloud",
-      "LiDAR"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "19471a1e71198fa1c613c6bcb0167df5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.31157v1",
-    "arxiv_id": "2608.31157v1",
-    "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
-    "authors": [
-      "Shijun Zhang"
-    ],
-    "published": "2026-08-31",
-    "curated_at": "2026-09-01",
-    "headline": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
-    "tldr": "This work establishes sharp theoretical bounds on how well neural networks whose parameters are generated from low-dimensional latent vectors can approximate target functions. The results show that affine latent parameterizations achieve near-optimal approximation rates while dramatically reducing parameter count.",
-    "significance": "It provides a rigorous foundation for designing efficient large-scale models that can be generated from compact latent codes, bridging theory and practical parameter-efficient architectures.",
-    "tags": [
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e3e4a76d97395c6ba80e46ffaf9ed2fb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28589v1",
-    "arxiv_id": "2608.28589v1",
-    "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
-    "authors": [
-      "Vaibhav Mehandiratta",
-      "Saket Ramchandra"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "QGPINNs: Neural Networks Solve Nonlocal Differential Equations on Quantum Graphs",
-    "tldr": "We introduce QGPINNs, a PyTorch-based physics-informed neural network framework that approximates solutions on each edge of a quantum graph. A unified graph-based loss enforces governing equations, enabling efficient numerical solutions for nonlocal differential equations.",
-    "significance": "QGPINNs provide a scalable, open-source tool for solving complex nonlocal PDEs on network structures, bridging physics, machine learning, and quantum graph theory.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1fc1291b738929684896b4a146325794",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28587v1",
-    "arxiv_id": "2608.28587v1",
-    "title": "A Similarity Theorem and Its Breakdown in Atomic Black Hole Accretion",
-    "authors": [
-      "Marcus DuPont"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Similarity Theorem in Atomic Black Hole Accretion and Its Breakdown",
-    "tldr": "The study demonstrates that atomic gas around a point-mass follows an exact similarity scaling with mass and density, preserving key dimensionless profiles over time. However, this similarity fails when certain radiation and feedback processes are introduced, revealing limits to the model.",
-    "significance": "It provides a fundamental scaling framework for modeling accretion flows, but also delineates its applicability limits in realistic astrophysical environments.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "84cf634fcd8d39f66e3ed0ef0a763f51",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28584v1",
-    "arxiv_id": "2608.28584v1",
-    "title": "Bounds for inertialess dynamo",
-    "authors": [
-      "Ali Arslan",
-      "Hezekiah Grayer"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Inertialess Dynamo Bounds in Rapidly Rotating Convection: New Theoretical Limits",
-    "tldr": "We derive necessary conditions for instantaneous dynamo action in rotating convection without inertia or viscosity. The study links magnetic evolution to an inertialess force balance, extending kinematic dynamo theory.",
-    "significance": "These bounds provide critical insight into magnetic field generation in planetary cores and astrophysical plasmas.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "dbce0c55808e1c4eff0dc4a1aa94b233",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28581v1",
-    "arxiv_id": "2608.28581v1",
-    "title": "Renormalization-guided cascade upscaling for lattice field generation",
-    "authors": [
-      "Anna Hasenfratz",
-      "Ethan T. Neil",
-      "Letizia Parato"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Renormalization-Guided Upscaling Enhances Lattice Field Generation with Normalizing Flow and Rapid Rethermalization",
-    "tldr": "We present a renormalization-group guided machine-learning algorithm that uses a perfect blocking construction to generate equilibrated long-distance modes, then reconstructs short-distance details via a conditional normalizing flow, and finally applies brief rethermalization to remove residual errors. In 2D φ^4 theory at criticality, the method achieves accurate field generation with reduced computational cost.",
-    "significance": "This approach provides a scalable, physics-informed framework for generating high-fidelity lattice field configurations, potentially accelerating critical phenomena studies.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f08b45cb7b2f55f8e4f29137e7ea34bc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2608.28580v1",
-    "arxiv_id": "2608.28580v1",
-    "title": "Renormalization-guided inverse blocking for lattice field generation: construction and validation",
-    "authors": [
-      "Anna Hasenfratz",
-      "Ethan T. Neil",
-      "Letizia Parato"
-    ],
-    "published": "2026-08-28",
-    "curated_at": "2026-08-31",
-    "headline": "Efficient Lattice Field Generation via Renormalization-Guided Inverse Blocking for Accurate Simulations",
-    "tldr": "We introduce a renormalization-group guided inverse blocking algorithm that reconstructs fine-grained lattice configurations from coarse actions. Validation shows the method reproduces key observables with high fidelity while reducing computational cost.",
-    "significance": "This approach provides a scalable, accurate tool for lattice field theory simulations, potentially accelerating research in high-energy physics.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
