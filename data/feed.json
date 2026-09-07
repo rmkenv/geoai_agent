@@ -1,5 +1,337 @@
 [
   {
+    "uid": "a8b64da3f0d38d85a28701b0705350fc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05416v1",
+    "arxiv_id": "2609.05416v1",
+    "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+    "authors": [
+      "Muyao Niu",
+      "Jixuan He",
+      "Ruihan Yu"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "WorldSculpt: Generating Detailed 3D Object Meshes from Grounded Video Scenes",
+    "tldr": "WorldSculpt learns to decompose cluttered video scenes into individual 3D meshes, enabling realistic scene reconstruction. The method handles hundreds of objects, paving the way for gaming, AR/VR, and robotics applications.",
+    "significance": "It provides a scalable solution for building compositional 3D worlds from everyday video footage.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "19109b85d19cac3684a191f62100e42f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05415v1",
+    "arxiv_id": "2609.05415v1",
+    "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+    "authors": [
+      "Linzhan Mou",
+      "Jiahui Lei",
+      "Zhiyang Dou"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "UniMate: Unified Foundation Model for Real-Time Animation of Diverse Skeletons",
+    "tldr": "UniMate eliminates topology constraints by generating articulated motion for any skeleton type without per-skeleton fine-tuning. It enables scalable, animation-ready 3D assets across varied categories in real time.",
+    "significance": "It transforms how diverse 3D characters are animated, removing the need for template-based rigs and accelerating content creation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "437da557ced714a663967fe962f5f9b2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05412v1",
+    "arxiv_id": "2609.05412v1",
+    "title": "Tracing the Cosmic Origins: Machine Learning Reconstruction of the Primordial Density Field from EoR Observations",
+    "authors": [
+      "Anchal Saxena",
+      "P. Daniel Meerburg",
+      "Guochao Sun"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "Reconstructing the Universe's Initial Conditions with 3D U-Net from EoR Intensity Maps",
+    "tldr": "Using simulated 21‑cm and CO(1‑0) line‑intensity maps at z≈8, we train a 3‑D U‑Net to recover the primordial density field at z≈300. This demonstrates the feasibility of machine‑learning reconstruction of the Universe’s initial conditions from late‑time observations.",
+    "significance": "Accurately retrieving the primordial density field unlocks cosmological information erased by nonlinear evolution, enabling tighter constraints on fundamental physics.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "spatial-reasoning"
+    ],
+    "readtime": 4,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3e9d7756d64fab2536700e1de7b1c7ee",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05410v1",
+    "arxiv_id": "2609.05410v1",
+    "title": "Early against Late: A contrast on dark energy in the light of DESI DR2",
+    "authors": [
+      "Miguel A. Zapata",
+      "Karim Carrion",
+      "Gabriela Garcia-Arroyo"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "DESI DR2 Uncovers Early–Late Tension in Dark Energy Models Analysis",
+    "tldr": "Recent DESI DR2 BAO measurements, combined with supernovae and CMB data, show parameter-level deviations from ΛCDM. Bayesian evidence highlights a stark early‑late time dichotomy, suggesting new physics may be required.",
+    "significance": "These findings challenge the standard cosmological model and point to possible new physics in the dark energy sector.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ededdb1fba55ff105226cbcac81d78c2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05408v1",
+    "arxiv_id": "2609.05408v1",
+    "title": "Towards Scaling Quantum Fine-Tuning of Foundational Time Series Models for Classification",
+    "authors": [
+      "Sang Hyub Kim",
+      "Julien Baglio",
+      "Rajiv Krishnakumar"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "Quantum Fine‑Tuning of Time‑Series Foundation Models for Power‑Grid Event Classification",
+    "tldr": "We fine‑tune the Chronos time‑series foundation model with a quantum head to classify power‑grid events. Grouping embeddings by sensor type before summarization already outperforms the best classical baselines.",
+    "significance": "This demonstrates that hybrid classical‑quantum architectures can leverage rich foundation‑model embeddings to achieve state‑of‑the‑art performance on real‑world time‑series classification.",
+    "tags": [
+      "time-series",
+      "foundation-models",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "82c3dae3519b8edf84191aa64d91c0ee",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05407v1",
+    "arxiv_id": "2609.05407v1",
+    "title": "Nonlinear evolution in Galileon EFTs: Regularization and screening",
+    "authors": [
+      "Farid Thaalba",
+      "Aaron Held",
+      "Ramiro Cayuso"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "Nonlinear Dynamics, Screening, and Regularization in Galileon Effective Field Theories",
+    "tldr": "We analyze spherically symmetric classical nonlinear dynamics in Galileon EFTs, distinguishing strong-field from derivative expansions. By comparing two perturbatively related models, we uncover screening mechanisms and regularization effects.",
+    "significance": "This work clarifies how higher-derivative terms influence screening, informing the construction of consistent modified gravity theories.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "69350086e2fe73ae05a00f5f40f56c82",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05406v1",
+    "arxiv_id": "2609.05406v1",
+    "title": "Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
+    "authors": [
+      "Meiyi Li"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "Quantifying GPU Workload Flexibility for Grid Load Relief: A 185-Day Study",
+    "tldr": "We reconstructed hourly power traces from 155,410 GPUs over 185 days to derive a workload‑semantic flexibility envelope, revealing how much eligible load persists across event durations and cluster co‑movement. This provides a data‑driven foundation for more accurate grid flexibility models.",
+    "significance": "The study offers a realistic, trace‑based benchmark for evaluating data‑center flexibility in power grid operations.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "12ad2d570dd8a7c6be07abe7b9e3c65f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05405v1",
+    "arxiv_id": "2609.05405v1",
+    "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+    "authors": [
+      "Ji Soo Lee",
+      "Xilun Chen",
+      "Pierce Chuang"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "WearableQA: Benchmarking AI Reasoning on Real-World Wearable Data for Health",
+    "tldr": "WearableQA introduces a large-scale benchmark of 4,084 multiple-choice questions derived from real users' wearable time series, blood biomarkers, and demographics. It evaluates AI systems' ability to reason longitudinally over health data, bridging a gap in current health AI benchmarks.",
+    "significance": "This benchmark enables rigorous assessment of AI reasoning capabilities on authentic, longitudinal health data, fostering more reliable health AI applications.",
+    "tags": [
+      "benchmark",
+      "time-series",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "045d4c11618269ad805d7d2c10d8ed1e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05404v1",
+    "arxiv_id": "2609.05404v1",
+    "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+    "authors": [
+      "Sihwa Park"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "Diffusion TV: Tangible Antenna Controls Bring AI Denoising to Life",
+    "tldr": "Diffusion TV lets users physically tune a CRT TV’s antenna to control the clarity of AI-generated images and sounds, embodying the denoising steps of diffusion models. The installation demonstrates how interactive hardware can make abstract AI processes tangible and engaging.",
+    "significance": "It bridges the gap between complex AI algorithms and public perception by turning algorithmic noise reduction into a hands‑on, sensory experience.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "8f083926cdb248479f47525aa09a3e25",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05403v1",
+    "arxiv_id": "2609.05403v1",
+    "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+    "authors": [
+      "Quoc H. Nguyen",
+      "Ali Lafzi",
+      "Abhijeet Phatak"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "RegionFed: Federated Learning Tailors Retail Search to Regional Query Patterns",
+    "tldr": "RegionFed introduces a federated learning framework that personalizes query understanding for diverse retail regions while preserving user privacy. By training region-specific models, it outperforms global models in accuracy and relevance across heterogeneous vocabularies and product preferences.",
+    "significance": "This approach enables privacy‑preserving, region‑aware personalization in large‑scale retail search systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "03a55157926ac4fda317e5e6d85598c1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05401v1",
+    "arxiv_id": "2609.05401v1",
+    "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+    "authors": [
+      "Wonje Jeung",
+      "Sangyeon Yoon",
+      "Hyesoo Hong"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "Robotic Rewards Break Paraphrase Invariance for Vision-Language Models: A Benchmark Study",
+    "tldr": "Vision-language models are increasingly used as reward functions in robotics, yet they often fail to give consistent scores when goal descriptions are paraphrased. Our benchmark demonstrates that minor wording changes can drastically alter predicted progress, highlighting a critical flaw in current reward models.",
+    "significance": "This reveals a fundamental vulnerability in VLM-based reward systems that could undermine reliable robotic learning.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d10a753a78ef514fd40d95b91afdd46a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05400v1",
+    "arxiv_id": "2609.05400v1",
+    "title": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+    "authors": [
+      "Reza Rajabli",
+      "D. Louis Collins"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "Compact Transfer‑Learning Feature Extractor Boosts Alzheimer’s MRI Analysis Across Diverse Datasets",
+    "tldr": "We propose a lightweight, supervised pretrained model that extracts robust features from brain MRI, enabling accurate Alzheimer’s classification without task‑specific retraining. The model generalizes across multiple datasets, demonstrating the feasibility of transfer learning in neuroimaging.",
+    "significance": "This work demonstrates that a single pretrained feature extractor can reliably support diverse Alzheimer’s MRI tasks, reducing the need for large labeled datasets.",
+    "tags": [
+      "foundation-models",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0a08f556a03a479a6351495b00f6c5da",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05399v1",
+    "arxiv_id": "2609.05399v1",
+    "title": "From Interpretability Methods to Interpretable Models",
+    "authors": [
+      "Julien Colin",
+      "Nuria Oliver",
+      "Thomas Serre"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "From Interpretability Tools to Interpretable Models: Assessing Progress in XAI",
+    "tldr": "While XAI has produced a rich toolbox of attribution, visualization, and concept methods, the field has largely focused on method comparison rather than evaluating model interpretability. This paper argues for a shift toward measuring interpretability and tracking progress as models evolve.",
+    "significance": "It highlights a critical gap in XAI research and proposes a framework for assessing interpretability in evolving models.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ee2ed0ff04a9f49151094c3b867c9005",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05398v1",
+    "arxiv_id": "2609.05398v1",
+    "title": "Metallicity dependence of Wolf-Rayet binaries using detailed binary models: An absence of long-period systems at low metallicity",
+    "authors": [
+      "Max M. Briel",
+      "Eirini Kasdagli",
+      "Tassos Fragos"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-07",
+    "headline": "Metallicity Shapes Wolf‑Rayet Binary Periods: Short‑Period Preference in Low‑Metallicity Galaxies",
+    "tldr": "In the Small and Large Magellanic Clouds, Wolf‑Rayet binaries are almost exclusively found in short‑period orbits, while longer periods are missing. This trend is weaker in the Milky Way, suggesting metallicity influences binary evolution and mass‑loss rates.",
+    "significance": "The study reveals that lower metallicity environments suppress the formation or survival of long‑period Wolf‑Rayet binaries, impacting our understanding of massive star evolution and supernova progenitors.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "6f99264034a4d6023d617000ac4d956f",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.04185v1",
@@ -1076,336 +1408,6 @@
       "real-time",
       "benchmark",
       "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0a9465fb132229a3342e61c659ab7924",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02875v1",
-    "arxiv_id": "2609.02875v1",
-    "title": "Learning CNN Filters via Generalized Stein's Method",
-    "authors": [
-      "Guang Yang",
-      "Wei Shi",
-      "Yuan Cao"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "Statistical Estimation of CNN Filters Using Generalized Stein's Method for Image Analysis",
-    "tldr": "The paper introduces a statistical framework that employs Generalized Stein's Method to estimate convolutional filters, offering theoretical guarantees and empirical validation on image datasets. It demonstrates accurate filter recovery and provides insights into filter interpretability.",
-    "significance": "This work bridges statistical theory and deep learning, enabling principled filter estimation that can improve model interpretability and reduce reliance on large training datasets.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c6aa603c2ce5f926f8204205c3cc76f8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02871v1",
-    "arxiv_id": "2609.02871v1",
-    "title": "Estimating the number of real zeros of linear combinations of radicals of polynomials",
-    "authors": [
-      "Gal Binyamini",
-      "Avner Kiro",
-      "Alexander Logunov"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "Polynomial Bounds for Real Zeros of Radical Polynomial Combinations in Functions",
-    "tldr": "We provide new polynomial upper bounds on the number of real zeros of sums of radical polynomial terms. This improves previous exponential estimates and applies to functions where each polynomial factor is non‑negative on the interval of interest.",
-    "significance": "These results sharpen our understanding of the complexity of algebraic–radical functions and have implications for symbolic computation and real algebraic geometry.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2296b2c7fe8afb4d03710904eba5393a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01607v1",
-    "arxiv_id": "2609.01607v1",
-    "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
-    "authors": [
-      "Penghao Wu",
-      "Haiwen Diao",
-      "Weichen Fan"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Synergy Between Understanding and Generation in Unified Multimodal Models Explored",
-    "tldr": "This study examines how visual understanding and generation tasks interact within native unified multimodal models, analyzing their interplay at representation, task, and system levels. The results reveal that while synergy can exist, the two objectives may also compete for capacity, highlighting the need for balanced training strategies.",
-    "significance": "Understanding the balance between comprehension and generation in multimodal models is crucial for designing more efficient and capable AI systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "segmentation",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f94395dd21766d3a3fd179edd485c085",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01606v1",
-    "arxiv_id": "2609.01606v1",
-    "title": "Observable- and state-selective prethermalization and bounds on prethermal lifetimes",
-    "authors": [
-      "C. L. Sriram",
-      "Soumya Kanti Pal",
-      "Lea F. Santos"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Prethermalization: When Energy Scale Separation Fails to Produce Long-Lived Plateaus",
-    "tldr": "The study shows that merely having distinct energy scales does not guarantee a prethermal plateau. Certain observables can still relax rapidly, indicating that additional conditions are required for long-lived intermediate states.",
-    "significance": "Understanding the precise conditions for prethermalization informs the design of experiments and the control of non-equilibrium dynamics in quantum systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "369d31a63ea3f11c3c8298dd472eb524",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01605v1",
-    "arxiv_id": "2609.01605v1",
-    "title": "Depth-1 expanders on the unitary group and applications",
-    "authors": [
-      "Anurag Anshu",
-      "Shankar Balasubramanian",
-      "Jonas Haferkamp"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Depth-1 Quantum Expanders Achieve Optimal Entanglement Gap in 1D Hamiltonians",
-    "tldr": "We construct a constant-degree, constant-gap quantum expander realizable by depth‑1 1D circuits of Pauli and CNOT gates. This expander yields a family of frustration‑free 1D Hamiltonians whose ground‑state entanglement scales as Θ(Δ^{-1/2}), matching the conjectured optimal bound.",
-    "significance": "It provides the first depth‑1 quantum expander with optimal entanglement‑gap scaling, bridging quantum complexity and many‑body physics.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0e397f3ce70ff9fc5ffb8b03fed8e867",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01604v1",
-    "arxiv_id": "2609.01604v1",
-    "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
-    "authors": [
-      "Himil Vasava",
-      "Ming Jiang"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Decoding LLM Judges: How Language Models Score Summaries and Why It Matters",
-    "tldr": "This study dissects how large language models evaluate summary quality, revealing the hidden decision process behind their ratings. By applying an eight-attack perturbation taxonomy across readability and adequacy, the authors show how specific linguistic changes influence model scores.",
-    "significance": "Understanding LLM evaluation mechanisms is crucial for developing reliable automated metrics and improving NLG system training.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d1190f65278b52f6720ea46c5f9428e7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01602v1",
-    "arxiv_id": "2609.01602v1",
-    "title": "Singular Weak-Field Thermodynamics of 2D Superconductors",
-    "authors": [
-      "Guopeng Xu",
-      "Chunli Huang"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Size-Dependent Lower Critical Field in Two-Dimensional Superconductors Reveals Singular Weak-Field Thermodynamics",
-    "tldr": "In bulk 3D type-II superconductors, the lower critical field is a material constant, but in 2D systems it decreases with sample size. This study shows that the first vortex in a 2D disk appears at a field that scales inversely with area, making the lower critical field inherently size-dependent.",
-    "significance": "Understanding size-dependent vortex nucleation in 2D superconductors is essential for designing nanoscale quantum devices and could impact future superconducting technologies.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "52c2c8189bdeb3ad13cf5a3b4f56ad3c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01600v1",
-    "arxiv_id": "2609.01600v1",
-    "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
-    "authors": [
-      "Damien Sileo",
-      "Dimitri Kachler"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Evaluating LLMs on Component Lifecycle Reasoning in Dynamic Agent Harnesses with CordisBench",
-    "tldr": "CordisBench presents 1,200 questions testing whether language models can track changes in software components and their dependencies during execution. The benchmark highlights the added reasoning burden of dynamic agent harnesses and offers a controlled setting for evaluating lifecycle reasoning.",
-    "significance": "It provides the first systematic evaluation of LLMs' ability to manage component lifecycles, a critical capability for self-modifying agents.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 1,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f7bfcd149b8b15fa665a323a7d411ddb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01598v1",
-    "arxiv_id": "2609.01598v1",
-    "title": "UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture",
-    "authors": [
-      "Asees Kaur",
-      "Suzanne S. Sindi",
-      "Erica M. Rutter"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "UI-VISA: Enhancing Vascular Segmentation in DSA Images with U-Net Initialization",
-    "tldr": "UI-VISA introduces a U-Net initialized architecture that improves continuity of thin vascular predictions in digital subtraction angiography. The model leverages explicit vessel connectivity constraints to reduce fragmentation and enhance segmentation accuracy.",
-    "significance": "This approach addresses a key limitation in medical image segmentation, enabling more reliable vessel delineation for clinical analysis.",
-    "tags": [
-      "segmentation",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "043caee0ab3d6d432faa21274e68925c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01597v1",
-    "arxiv_id": "2609.01597v1",
-    "title": "The Rise of Verbal Reinforcement Learning",
-    "authors": [
-      "Kshitij Tayal",
-      "Arun Sharma",
-      "Genta Indra Winata"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Verbal Reinforcement Learning: Harnessing Natural Language Feedback for AI Agents",
-    "tldr": "Verbal Reinforcement Learning (VRL) uses natural language as a primary feedback channel, enabling agents to learn intent, preferences, and causal structure. This paper presents a unified framework and demonstrates VRL's potential across diverse tasks.",
-    "significance": "VRL offers a scalable, interpretable method to align language models with human intent, potentially accelerating AI deployment.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "97c8155c9734947bed9496e2f7db8121",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01596v1",
-    "arxiv_id": "2609.01596v1",
-    "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
-    "authors": [
-      "Haoyuan Deng",
-      "Haichao Liu",
-      "Wenkai Guo"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Facet-0: A Foundation Model for Precise Contact-Rich Robotic Manipulation Assembly",
-    "tldr": "Facet-0 is a robotic foundation model that predicts contact outcomes and optimizes actions for sub-millimeter precision. It combines multimodal representation learning with reinforcement learning to handle compliant interactions and contact failures in real-world assembly.",
-    "significance": "Facet-0 advances robotic manipulation by enabling robust, precise assembly at sub-millimeter tolerances through predictive contact modeling.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "bba1564556d2b166ef943fd14dd4e652",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01595v1",
-    "arxiv_id": "2609.01595v1",
-    "title": "Mechanism Design for Alignment and Control",
-    "authors": [
-      "Dirk Bergemann",
-      "Andrew Koh",
-      "Stephen Morris"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Designing Incentives for Unknown AI Agents: Aligning Preferences and Capabilities",
-    "tldr": "We propose a mechanism design framework that accounts for unknown preferences and capabilities of AI agents, ensuring both honesty and obedience. Using a one-sided imitation structure, we establish a revelation principle that characterizes implementable mechanisms.",
-    "significance": "This framework enables reliable delegation of tasks to AI agents even when their internal states are hidden, advancing trustworthy AI deployment.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7da024a496889ed82e95e1aa16cb2340",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01591v1",
-    "arxiv_id": "2609.01591v1",
-    "title": "StudentSim: Training LLM-based Student Simulators",
-    "authors": [
-      "Ke Yang",
-      "Chenglong Wang",
-      "Michel Galley"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "StudentSim: Leveraging LLMs to Simulate Student Learning for Adaptive Tutoring",
-    "tldr": "StudentSim trains large language models to act as student simulators, providing a scalable proxy for real learner data. This enables rapid evaluation of personalized tutoring strategies without costly human trials.",
-    "significance": "By offering a realistic, data-driven simulation of student responses, StudentSim accelerates the development of effective, individualized AI tutoring systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5f07bf88397ae4f3a77ec6d58867fe58",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.01588v1",
-    "arxiv_id": "2609.01588v1",
-    "title": "Designing Proactive Thought Partners for Writing",
-    "authors": [
-      "Chao Zhang",
-      "Abe Davis",
-      "Chih-Wei Chen"
-    ],
-    "published": "2026-09-01",
-    "curated_at": "2026-09-02",
-    "headline": "Proactive Thought Partners: AI Agents That Anticipate Writers' Needs and Enhance Creativity",
-    "tldr": "This paper explores how AI can proactively support writers by offering context‑aware suggestions at the right moments. It outlines a design space for proactive thought partners, moving beyond generic autocomplete to personalized, timely assistance.",
-    "significance": "By redefining AI assistance as a proactive thought partner, the study opens new avenues for more engaging and effective writing tools.",
-    "tags": [
-      "foundation-models",
-      "LLM"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
