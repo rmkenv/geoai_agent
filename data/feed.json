@@ -1,5 +1,264 @@
 [
   {
+    "uid": "b4d314ab09b5f4607d37fd3365d5de99",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05413v1",
+    "arxiv_id": "2609.05413v1",
+    "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert",
+    "authors": [
+      "A. Castro-González",
+      "O. Barragán",
+      "D. J. Armstrong"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Two Highly Irradiated Sub-Neptunes Near the Neptunian Desert Edge",
+    "tldr": "Using TESS data and 147 HARPS radial velocities, we confirm TOI-426 b and TOI-1839 b as volatile-rich sub-Neptunes orbiting solar-type stars. Advanced Gaussian process modeling of stellar activity allowed precise orbital and physical characterization.",
+    "significance": "These planets provide key insights into atmospheric retention and migration processes at the lower boundary of the Neptunian desert.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "932c61ff61219f682a167cf144505b29",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05397v1",
+    "arxiv_id": "2609.05397v1",
+    "title": "CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation",
+    "authors": [
+      "Samer Abualhanud",
+      "Max Mehltretter"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Geometry-Constrained Attention Enhances Multi-View Surround Depth Estimation",
+    "tldr": "CrossDepth introduces a geometry-constrained attention mechanism that leverages sparse inter-view correspondences to improve depth estimation across surround camera rigs. The method achieves state-of-the-art performance on benchmark datasets while remaining computationally efficient for real‑time deployment.",
+    "significance": "It enables more accurate and generalizable depth maps for autonomous driving with minimal computational overhead.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "17b625d0078e48d8fb0d64d7496cca79",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05396v1",
+    "arxiv_id": "2609.05396v1",
+    "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
+    "authors": [
+      "Yuxiao Li",
+      "Keke Hu",
+      "Santiago Mazuelas"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Generative Model for Synthesizing Labeled Wireless Signals Using Diffusion Techniques",
+    "tldr": "We propose a diffusion-based generative model that produces realistic wireless signals paired with accurate position labels, reducing the need for costly real-world data collection. The model outperforms traditional simulation-based approaches in both fidelity and labeling accuracy.",
+    "significance": "This approach enables scalable, cost-effective training of wireless sensing models, accelerating research and deployment in real-world scenarios.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a1efe3db3d4aed750544649e8320e959",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05393v1",
+    "arxiv_id": "2609.05393v1",
+    "title": "Ion abundances in the plasma tail of 3I/ATLAS show that it is N2-rich",
+    "authors": [
+      "Lea Ferellec",
+      "Cyrielle Opitom",
+      "Colin Snodgrass"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "3I/ATLAS plasma tail rich in nitrogen, revealing interstellar comet composition",
+    "tldr": "Spectroscopic analysis of 3I/ATLAS's plasma tail shows high N2 ion abundances, indicating a nitrogen-rich composition. This finding provides insight into the volatile inventory of interstellar comets and their formation environments.",
+    "significance": "It demonstrates that interstellar comets can retain primordial nitrogen, offering clues about the chemistry of their parent systems.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "38be2d3d0985794c56451a4110ef4da2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05390v1",
+    "arxiv_id": "2609.05390v1",
+    "title": "Energy-Efficient Waveform Design for ISAC Systems: An Ambiguity-Domain QoS Perspective",
+    "authors": [
+      "Ngoc-Son Duong",
+      "Trung-Hieu Nguyen",
+      "Quang-Truong Can"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Optimizing Energy‑Efficient ISAC Waveforms via Ambiguity‑Domain QoS Metrics for Future 6G Networks",
+    "tldr": "This study introduces a novel ambiguity‑domain QoS metric to jointly optimize communication quality and sensing performance while minimizing transmit power in ISAC systems. The proposed discrete‑time waveform design demonstrates significant power savings and improved sensing accuracy compared to conventional approaches.",
+    "significance": "It offers a practical framework for designing low‑power ISAC waveforms that meet both communication and sensing requirements, paving the way for energy‑efficient 6G deployments.",
+    "tags": [
+      "remote-sensing",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "acc0f744b38868d42ce12b1f9dee8ca6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05388v1",
+    "arxiv_id": "2609.05388v1",
+    "title": "Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks",
+    "authors": [
+      "Homayoun Afshari",
+      "Pietro Basci",
+      "Alessandro Russo"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Neuro‑Symbolic Visual Reasoning: Combining Vision‑Language Models with Dynamic Logic Tensor Networks",
+    "tldr": "The paper introduces a Neuro‑Symbolic framework that integrates Vision‑Language Models to automatically induce first‑order logic rules and Dynamic Logic Tensor Networks to enforce these constraints during visual reasoning. This hybrid approach achieves state‑of‑the‑art performance on visual reasoning benchmarks while offering interpretability and formal guarantees.",
+    "significance": "It bridges neural perception and symbolic reasoning, enabling interpretable and formally grounded visual understanding.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b9bfdb676af4e4bdb6fecd230a40e56c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05386v1",
+    "arxiv_id": "2609.05386v1",
+    "title": "The coordinate ring of the k-fold iterated commutator locus for 2x2 matrices",
+    "authors": [
+      "Jan Snellman"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Coordinate Ring of k-Fold Iterated Commutator Locus for 2×2 Matrices",
+    "tldr": "We determine the defining ideal of the variety of iterated commutators of k 2×2 matrices over any field of characteristic not equal to two. The proof yields four independent results, each established separately.",
+    "significance": "This provides a complete algebraic description of a fundamental noncommutative locus, with implications for invariant theory and representation theory.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "bb4da107f57050004db2057b66f723d9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05385v1",
+    "arxiv_id": "2609.05385v1",
+    "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+    "authors": [
+      "Urja Pawar",
+      "Rajitha Ramanayake",
+      "Nabeel Kemal"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Assessing LLM Explanations: Are They Truly Aligned With Behaviour in Decision-Making?",
+    "tldr": "This study tests whether LLM-generated explanations reflect actual decision behaviour by comparing them to observable outputs. The results show that explanations can be necessary but not always sufficient, highlighting the need for behavioural validation.",
+    "significance": "Validating LLM explanations against behaviour is crucial for trustworthy AI systems that rely on interpretability for monitoring and error diagnosis.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1e67b62e7e26c60f91cfd1397e1d61cc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05382v1",
+    "arxiv_id": "2609.05382v1",
+    "title": "Reflection-aware Generative Novel View Synthesis",
+    "authors": [
+      "GeonU Kim",
+      "Shin Dong-Yeon",
+      "Tae-Hyun Oh"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Reflection-Aware Diffusion for Mirror Scene Novel View Synthesis",
+    "tldr": "We introduce Ref-GeNVS, a training-free diffusion approach that treats mirror images as complementary views. This allows accurate novel view synthesis in mirror scenes without additional training.",
+    "significance": "It resolves a key limitation of multi-view diffusion models by leveraging reflected content for realistic scene generation.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7b1ee3104693626e566360055c938d04",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05381v1",
+    "arxiv_id": "2609.05381v1",
+    "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+    "authors": [
+      "Matthias Busch",
+      "Marius Tacke",
+      "Sviatlana V. Lamaka"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "Molecular Déjà Vu: LLMs Often Retrieve Published Values Instead of Predicting Chemistry",
+    "tldr": "Researchers audited 22 frontier language models across 12 molecular property benchmarks and found widespread verbatim retrieval of published values. The phenomenon varies by dataset, with over half of models retrieving exact numbers on five datasets, raising concerns about evaluation reliability.",
+    "significance": "The study highlights that current benchmark scores may overestimate true predictive capabilities of LLMs in chemistry.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5a4f95b4443e1a43838d0d9dadfed2a7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.05380v1",
+    "arxiv_id": "2609.05380v1",
+    "title": "Propagation Model for SSC attacks: Why SBOM (tools) don't tell the whole truth",
+    "authors": [
+      "Ljubica Grgic",
+      "Lazar Maksimovic",
+      "Pavel Laskov"
+    ],
+    "published": "2026-09-04",
+    "curated_at": "2026-09-08",
+    "headline": "SBOM Tools Fall Short: Uncovering Hidden Vulnerabilities in Software Supply Chains",
+    "tldr": "SBOM tools provide visibility into software components but lack depth in detecting exploitability. Without robust vulnerability interpretation, supply chain risks remain hidden.",
+    "significance": "Understanding SBOM limitations is critical for protecting organizations against sophisticated supply chain attacks.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "a8b64da3f0d38d85a28701b0705350fc",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.05416v1",
@@ -1152,264 +1411,6 @@
       "real-time"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c52652621f1dc2ac54af639d7f2a144e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04191v1",
-    "arxiv_id": "2609.04191v1",
-    "title": "Baby-universe state dependence of the wormhole-induced gravi-axion mass gap",
-    "authors": [
-      "Amin Rezaei Akbarieh"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Wormhole-Induced Gravi-Axion Mass Gap Depends on Baby-Universe State",
-    "tldr": "Euclidean wormholes break axion shift symmetry, creating a periodic potential whose curvature determines the axion mass. This study shows that the mass is not uniquely fixed by the wormhole alone but depends on the state of the baby universe.",
-    "significance": "The finding challenges the assumption that wormholes uniquely set axion masses, with implications for axion dark matter models.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "232c56eb0326b0035a21884ee7a70c7f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04192v1",
-    "arxiv_id": "2609.04192v1",
-    "title": "Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies",
-    "authors": [
-      "Euclid Collaboration",
-      "L. Pizzuti",
-      "G. Y. Ferron"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Exploring Halo Profile Shapes in ΛCDM and Alternative Cosmologies",
-    "tldr": "This study analyzes three-dimensional and projected dark-matter halo profiles from N-body simulations across ΛCDM, massive neutrinos, f(R) gravity, and dynamical dark energy models. The comparison of density, mass, velocity dispersion, and excess surface density reveals how non-standard physics alters halo structure.",
-    "significance": "The results provide critical benchmarks for testing modified gravity and neutrino effects in large-scale structure formation.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "fe06fbeab949e92ed701b1b6c8152d5d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04188v1",
-    "arxiv_id": "2609.04188v1",
-    "title": "Computation of Strong Solutions to Stochastic Variational Inequalities",
-    "authors": [
-      "Yao Ji",
-      "Guanghui Lan",
-      "Jason Zhu"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Efficient Strong Solutions for Stochastic Variational Inequalities via Accumulative Regularization",
-    "tldr": "This paper introduces an accumulative regularization framework for computing strong solutions to monotone variational inequalities with Lipschitz operators in stochastic settings. Using unbiased stochastic oracles with bounded variance, the method achieves expected convergence guarantees.",
-    "significance": "It provides a scalable, theoretically grounded algorithm for solving stochastic VIs, a core problem in optimization and machine learning.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "17dc69955b978ac1ed1b002bb6b5eb82",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02888v1",
-    "arxiv_id": "2609.02888v1",
-    "title": "POSEIDON III: The Aligned Orbit of the Hot Neptune Around the Hot Star WASP-195",
-    "authors": [
-      "Juan I. Espinoza-Retamal",
-      "Joshua N. Winn",
-      "Rafael Brahm"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "WASP-195 Hot Neptune Reveals Aligned Orbit Around Its Hot Star via Rossiter-McLaughlin Effect",
-    "tldr": "Observations of the Rossiter-McLaughlin effect show that the hot Neptune orbiting WASP-195 is well aligned with its host star's spin axis. This alignment provides clues to the planet's migration history and challenges theories that hot Neptunes around hot stars are typically misaligned.",
-    "significance": "This measurement expands the limited sample of aligned hot Neptunes around hot stars, informing models of planetary system evolution.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cf58b079b0710fc9ca1de8c9125aa80e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02887v1",
-    "arxiv_id": "2609.02887v1",
-    "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
-    "authors": [
-      "Dulhan Jayalath",
-      "Benjamin Ballyk",
-      "Oiwi Parker Jones"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "Standardizing Progress in Speech Brain‑Computer Interfaces: A Call for Unified Benchmarks",
-    "tldr": "Speech BCIs translate neural signals into language, promising speech restoration and new HCI. However, progress is hard to gauge due to varied datasets, recording methods, and vocabularies, underscoring the need for a common benchmark.",
-    "significance": "Establishing a shared metric will accelerate development and enable fair comparison across speech BCI systems.",
-    "tags": [
-      "benchmark",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "de1abcbe1bc73ea47698e5e52a7634f0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02886v1",
-    "arxiv_id": "2609.02886v1",
-    "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
-    "authors": [
-      "Junchao Huang",
-      "Guian Fang",
-      "Shengju Qian"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "SolarWM: Scalable Open Foundation for Interactive Long-Horizon Video World Models",
-    "tldr": "We present SolarWM, an open foundation that spans data preparation to long-horizon inference for interactive video world models. It addresses challenges of heterogeneous datasets and diverse video backbones, enabling scalable training across varied temporal scales, camera geometries, and visual qualities.",
-    "significance": "SolarWM democratizes the development of video world models by providing a unified, scalable framework that bridges data heterogeneity and model diversity.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1b2f0675e00ff3430f33ea191affd311",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02885v1",
-    "arxiv_id": "2609.02885v1",
-    "title": "Discriminative World Models for Web Agents",
-    "authors": [
-      "Kelvin Li",
-      "Dhruv Pendharkar",
-      "Anish Pahilajani"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "Discriminative World Models Improve Web Agent Decision-Making Beyond Next-State Prediction",
-    "tldr": "Web agents often rely on world models trained to predict next web states, but this objective misaligns with actual task performance. By adopting discriminative training that directly optimizes action ranking, agents achieve more accurate and efficient decision-making.",
-    "significance": "This approach bridges the gap between model training objectives and real-world agent success, enabling more reliable web automation.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "770d4c0fa34e94a02347375981fd13d4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02883v1",
-    "arxiv_id": "2609.02883v1",
-    "title": "Repairing PBE-Spurious Metallicity for HSE06-Level Screening of 2D Photocatalysts for Green Hydrogen Production",
-    "authors": [
-      "Ritam Chakraborty",
-      "Arpan Das"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "Fixing PBE-Identified Metallicities with HSE06 Δ-Learning for 2D Photocatalyst Screening",
-    "tldr": "PBE calculations incorrectly label many narrow-gap semiconductors as metals, eliminating promising photocatalysts. We correct this by combining leakage-aware repair with HSE06–PBE Δ-learning, improving the reliability of 2D material screening.",
-    "significance": "This approach enhances the accuracy of high-throughput 2D photocatalyst discovery, accelerating green hydrogen production.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ba2702cda82269f798fcbe5457303cfb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02881v1",
-    "arxiv_id": "2609.02881v1",
-    "title": "Graph Machine: Towards Better Pretraining via Edges",
-    "authors": [
-      "Lintai Hou"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "Graph Machine: Edge‑Based Pretraining for Scalable Graph Models and Efficient Routing",
-    "tldr": "We propose the Graph Machine, an architecture that keeps an O(n)-sized state and accesses it via differentiable edge pointers, enabling dynamic routing without sacrificing sparsity. This design preserves linear complexity while allowing the model to learn richer graph representations, improving pretraining performance on large-scale graph tasks.",
-    "significance": "It offers a scalable, flexible foundation for graph-based AI, bridging the gap between fixed-size state models and static sparse routing.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "52850a6356b1b81f487b7e6157d534de",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02876v1",
-    "arxiv_id": "2609.02876v1",
-    "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
-    "authors": [
-      "Alessio Spurio Mancini"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "GRADSOLVE: GPU-Accelerated Exact Gradient Computation for ODE Ensembles in Reverse Mode",
-    "tldr": "GRADSOLVE delivers fast, exact reverse-mode gradients for large ensembles of ODEs on GPUs, matching the speed of forward solves. This enables efficient training of physics-informed models and real-time sensitivity analysis without sacrificing performance.",
-    "significance": "By bridging the speed gap between GPU ODE solvers and differentiation, GRADSOLVE accelerates scientific computing and machine learning workflows that rely on accurate gradient information.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "724ba39cee13f0dc459e5378096603a4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.02877v1",
-    "arxiv_id": "2609.02877v1",
-    "title": "Controlling a digital twin of the CEBAF injector from EPICS",
-    "authors": [
-      "Jude Doredant",
-      "Volker Ziemann"
-    ],
-    "published": "2026-09-02",
-    "curated_at": "2026-09-03",
-    "headline": "Controlling a Digital Twin of the CEBAF Injector Using EPICS on a Raspberry Pi",
-    "tldr": "This article presents a prototype that uses EPICS installed on a laptop or Raspberry Pi to control beam optics simulations of the CEBAF injector. The system demonstrates real‑time interaction between accelerator hardware and virtual models over a local network.",
-    "significance": "It shows how low‑cost, open‑source control systems can enable rapid prototyping and testing of accelerator physics models.",
-    "tags": [
-      "open-source",
-      "real-time",
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
