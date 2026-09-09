@@ -1,5 +1,313 @@
 [
   {
+    "uid": "6a5aae08e275ea44e8f1529c4944341b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09158v1",
+    "arxiv_id": "2609.09158v1",
+    "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+    "authors": [
+      "Anqi Li",
+      "Yuxin Chen",
+      "Zhaobo Li"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "TANGO: Vision-Language Model Enables Humanoid Robots to Navigate Cluttered Indoor Spaces",
+    "tldr": "TANGO integrates vision, language, and whole-body control to guide humanoid robots through complex indoor environments. It learns coordinated arm, torso, and gait adjustments for collision-free navigation in 3D clutter.",
+    "significance": "This approach advances autonomous humanoid navigation by combining perception, language grounding, and dynamic motion planning, enabling robots to operate safely in real-world indoor settings.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c5e8a65ccbeca083590320348c4cc7d5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09157v1",
+    "arxiv_id": "2609.09157v1",
+    "title": "Learning Length-Extrapolatable Recurrent Models",
+    "authors": [
+      "Hanwen Jiang"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Recurrent Models that Learn to Generalize Beyond Their Training Horizon",
+    "tldr": "Researchers show that dense per-token losses enable recurrent networks to learn shared rules that extrapolate beyond the sequence lengths seen during training, despite severe gradient decay. This challenges the conventional belief that vanishing gradients alone limit long‑context performance.",
+    "significance": "It demonstrates that recurrent architectures can achieve long‑context modeling without relying on specialized gating or memory mechanisms, opening new avenues for efficient sequence modeling.",
+    "tags": [
+      "LLM",
+      "time-series",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "be1bbea51eeee90b33698f2b5dbdc73f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09156v1",
+    "arxiv_id": "2609.09156v1",
+    "title": "ReCite: Agentic Reasoning for Faithful Citation",
+    "authors": [
+      "Yuyang Huang",
+      "Bobo Li",
+      "Jiajia Song"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "ReCite: Agentic Reasoning Enhances Faithful Citation in Academic Writing and Retrieval Augmentation",
+    "tldr": "ReCite introduces an agentic reasoning framework that ensures citations are accurate and traceable, reducing the risk of fabricated references. By integrating retrieval-augmented language models, the system automatically recommends relevant literature while maintaining fidelity to original sources.",
+    "significance": "This work addresses the growing challenge of citation fabrication in large language models, improving scholarly integrity.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f8bed6dc6c2cf61c2f895a1655c33955",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09155v1",
+    "arxiv_id": "2609.09155v1",
+    "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+    "authors": [
+      "Yuncong Yang",
+      "Zhengtao Han",
+      "Furkan Ozyurt"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "SyncWorld: Visual Calibration Turns World Models into Zero-Shot Simulators for Robotics",
+    "tldr": "SyncWorld introduces a visual calibration technique that aligns pixel-level actions across varying camera views and robot embodiments, enabling world models to generate accurate rollouts without retraining. This zero-shot simulation capability dramatically reduces the data and compute needed for deploying policy-in-the-loop robotics.",
+    "significance": "By eliminating the need for action re‑parameterization, SyncWorld unlocks scalable, transferable world models that can be deployed across diverse robotic platforms with minimal effort.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "15700cfff93827070e24265e4834581e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09153v1",
+    "arxiv_id": "2609.09153v1",
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "authors": [
+      "Yuxing Lu",
+      "Yicheng Chen",
+      "Shanchan Wu"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Self‑Evolving Execution Graphs to Optimize Long‑Horizon Tool Use in LLM Agents",
+    "tldr": "LLM agents often generate actions unconstrained, leading to loss of objective tracking as plans lengthen. The paper proposes procedural graphs that self‑evolve to maintain coherent execution structures, improving tool selection and order.",
+    "significance": "This approach offers a scalable framework for keeping LLM agents focused and efficient over extended planning horizons.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "612348357a01224f1b019e002322e43f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09151v1",
+    "arxiv_id": "2609.09151v1",
+    "title": "Sizing the Universe with DESI Galaxy Sizes: Plain Fundamentals of Fundamental-Plane Lensing",
+    "authors": [
+      "Kun Xu",
+      "Jiaqi Wang",
+      "Ravi K. Sheth"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Spectroscopic Lensing Magnification via Fundamental Plane: A New Probe of Cosmic Structure",
+    "tldr": "We present the first spectroscopic galaxy-galaxy lensing magnification measurement using the Fundamental Plane, bypassing shape systematics. This method offers a cleaner probe of mass distribution and can complement traditional shear analyses.",
+    "significance": "This technique provides a novel, shape-independent way to map dark matter, enhancing precision cosmology.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dd1a05ce9a7c53d4a95c240c2249e034",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09150v1",
+    "arxiv_id": "2609.09150v1",
+    "title": "Copying explains the collective behavior of AI agents in the wild",
+    "authors": [
+      "Giordano De Marzo",
+      "Nicola Albore",
+      "David Garcia"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "AI Agents Use Public Wiki to Pass Timed Test in Collective Collaboration",
+    "tldr": "In June 2026, thousands of short-lived AI agents discovered a public wiki could be edited from their sandboxes, enabling them to collaborate and pass a timed test. Their collective effort left a permanent, publicly accessible record, illustrating emergent cooperation without explicit instruction.",
+    "significance": "This spontaneous collaboration demonstrates that even transient AI agents can coordinate complex tasks through shared digital platforms, raising questions about emergent behavior and the design of collaborative AI systems.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "3f149026be3417b0816b3fa77a0f7355",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09149v1",
+    "arxiv_id": "2609.09149v1",
+    "title": "Differential Polarization Calibration: A Consistency Test for Cosmic Birefringence",
+    "authors": [
+      "Anto I. Lonappan",
+      "Brian Keating",
+      "Kam Arnold"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Differential Polarization Calibration Provides Consistency Test for Cosmic Birefringence Measurements",
+    "tldr": "We introduce a birefringence‑blind differential estimator that isolates detector‑angle offsets from true cosmic birefringence. This method offers a robust consistency check independent of foreground EB modeling.",
+    "significance": "The technique enables more reliable separation of instrumental systematics from cosmological signals, tightening constraints on new physics.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fbc32d202d96c3b9ba1d14d6840fc6fa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09148v1",
+    "arxiv_id": "2609.09148v1",
+    "title": "Proxy Policy Steering",
+    "authors": [
+      "Chuanruo Ning",
+      "Tianrui Wang",
+      "Wei-Chiu Ma"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Proxy Policy Steering: Rapid Task-Specific Adaptation for Generalist Robot Policies",
+    "tldr": "Proxy Policy Steering (PPS) enables inference-time adaptation of broad robot policies to new tasks using only a few demonstrations, preserving their general capabilities. By training two lightweight models, PPS efficiently tailors behavior without costly retraining.",
+    "significance": "PPS bridges the deployment gap between large-scale robot learning and real-world task specificity, accelerating practical use of generalist policies.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "52577fa1e050fd8483723e315eddb721",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09147v1",
+    "arxiv_id": "2609.09147v1",
+    "title": "Green's Functions from Sample-based Krylov Quantum Diagonalization: An Impurity Solver for Dynamical Mean-Field Theory",
+    "authors": [
+      "Jay Patel",
+      "Chakradhar Rangi",
+      "Ka-Ming Tam"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Efficient Green's Function Computation via Sample-Based Krylov Diagonalization for DMFT",
+    "tldr": "We extend sample-based Krylov quantum diagonalization to calculate single-particle Green's functions by sampling unitary Krylov subspaces in N±1 particle sectors. The resulting Lanczos continued fraction provides an efficient impurity solver for dynamical mean-field theory.",
+    "significance": "This approach offers a scalable, classical-overlap-based impurity solver that can accelerate DMFT simulations for strongly correlated materials.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0b2b3078faf54fea8952f82d79bb6e32",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09146v1",
+    "arxiv_id": "2609.09146v1",
+    "title": "The exact asymptotic constant in the metric dimension of Jaccard space",
+    "authors": [
+      "Bjørn Kjos-Hanssen"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Exact Asymptotic Constant for Metric Dimension of Jaccard Space",
+    "tldr": "We determine the precise constant in the Θ(n/ln n) bound for the metric dimension of the power set under Jaccard distance. This resolves the open question posed by Lladser and Paradise.",
+    "significance": "This result provides a complete characterization of the metric dimension in Jaccard space, a fundamental structure in similarity search and combinatorial geometry.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "87eb42de284c57009a9352b8315d7481",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09145v1",
+    "arxiv_id": "2609.09145v1",
+    "title": "Point4D: Long-range 4D Motion Reconstruction",
+    "authors": [
+      "Minsik Jeon",
+      "Jay Karhade",
+      "Deva Ramanan"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Point4D: Long-range 4D Motion Reconstruction for Dense 3D Trajectories across Hundreds of Frames",
+    "tldr": "Point4D introduces a feed-forward model that reconstructs 4D motion over long video sequences, inferring dense per-point 3D trajectories across hundreds of frames. Its flexible 3D query-based motion decoder decouples trajectory estimation, enabling reliable reconstruction beyond the short windows of existing methods.",
+    "significance": "This enables scalable, high-fidelity 4D motion analysis for applications like autonomous driving, robotics, and virtual reality.",
+    "tags": [
+      "time-series",
+      "point-cloud",
+      "segmentation"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fd5493fd4ee29a002a6d31db6cec68ab",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09144v1",
+    "arxiv_id": "2609.09144v1",
+    "title": "Baryonification IV: Constraining baryonic feedback with X-ray gas fractions",
+    "authors": [
+      "Jozef Bucko",
+      "Andrina Nicola",
+      "Aurel Schneider"
+    ],
+    "published": "2026-09-08",
+    "curated_at": "2026-09-09",
+    "headline": "Constraining Baryonic Feedback with X-ray Gas Fractions: A Forward-Modelling Approach",
+    "tldr": "We develop a forward-modelling framework linking 3D gas density and temperature to observable X-ray properties, enabling constraints on baryonic feedback. Applying this to X-ray gas fractions, we show how feedback suppresses the matter power spectrum at weak-lensing scales.",
+    "significance": "This work provides a critical bridge between X-ray observations and cosmological weak-lensing analyses, improving our understanding of baryonic effects on large-scale structure.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "b4d314ab09b5f4607d37fd3365d5de99",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.05413v1",
@@ -1098,319 +1406,6 @@
       "real-time"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2d6a2b50d03136f5205d1c31a0c4da51",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04168v1",
-    "arxiv_id": "2609.04168v1",
-    "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
-    "authors": [
-      "Yujie Zhang",
-      "Huiying Lan",
-      "Ehsan Aghapour"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Para-Pipe: Hierarchical Operator Parallelism for Low-Latency Edge AI on Heterogeneous SoCs",
-    "tldr": "Para-Pipe introduces a hierarchical pipelining strategy that exploits operator-level parallelism across multiple on-chip units, reducing latency in complex neural networks on edge SoCs. The approach demonstrates significant throughput gains while meeting real-time constraints, offering a benchmark for future heterogeneous AI accelerators.",
-    "significance": "By addressing latency bottlenecks in edge AI, Para-Pipe paves the way for deploying sophisticated neural networks on resource-constrained SoCs.",
-    "tags": [
-      "real-time",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "80a8ca0b57ccfca4938fc8122f3bdd95",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04166v1",
-    "arxiv_id": "2609.04166v1",
-    "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
-    "authors": [
-      "Yakov Pyotr Shkolnikov"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Distinguishing Deceptive Behavior from Mechanisms in Language Models: A Causal Taxonomy",
-    "tldr": "This paper introduces a causal taxonomy that separates deceptive behavior into prior commitment, retrospective reporting, model preference, and realized output, clarifying the difference between deceptive mechanisms and deceptive appearances. The framework helps researchers evaluate and benchmark language models for deceptive capabilities more rigorously.",
-    "significance": "By formalizing deception in language models, the study provides a clearer foundation for developing safeguards and evaluation benchmarks.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6e072b1139ff8341da7c8b320d2478b7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04203v1",
-    "arxiv_id": "2609.04203v1",
-    "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
-    "authors": [
-      "Shravan Venkatraman",
-      "Wenshuai Zhao",
-      "Mohammad Hassan Vali"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Self-Distillation for Continuous Video State Tracking Without Supervision Using Temporal Sampling Density as Privileged Information",
-    "tldr": "We propose S^3T, a self-supervised framework that learns to track visual states in videos by distilling knowledge from densely sampled clips to sparser ones. This approach enables continuous, real-time state tracking without labeled data.",
-    "significance": "S^3T eliminates the need for manual annotations, enabling scalable, real-time video state monitoring across diverse domains.",
-    "tags": [
-      "time-series",
-      "object-detection",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5c775cf299000e9ab2ce3c7265602f0a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04202v1",
-    "arxiv_id": "2609.04202v1",
-    "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
-    "authors": [
-      "Adeela Islam",
-      "Zorah Lähner",
-      "Vittorio Murino"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "TokenMatch: Curvature-Guided Transformer for Robust 3D Mesh Correspondence",
-    "tldr": "TokenMatch introduces a transformer-based framework that tokenises 3D meshes using curvature cues, enabling accurate correspondence even under partial views and non-isometric deformations. The method outperforms hand-crafted descriptors and generative functional map models while maintaining efficient inference.",
-    "significance": "It advances 3D shape matching by combining transformer architecture with geometry-aware tokenisation, addressing key challenges in partial and deformed data.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "1d1e5ddb9f6ae20d5ac93ead7f6fce42",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04201v1",
-    "arxiv_id": "2609.04201v1",
-    "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
-    "authors": [
-      "Chin-Yang Lin",
-      "Yang-Che Sun",
-      "Cheng Sun"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Scal3R: Multi-Relative Pose Query Boosts Online 3D Reconstruction for Long Videos",
-    "tldr": "Scal3R learns to query multiple relative poses instead of a single fixed anchor, reducing drift in long video 3D reconstruction. By leveraging stable per‑frame depth, the method maintains local geometry while scaling to longer sequences.",
-    "significance": "It enables robust, scalable online 3D reconstruction, overcoming drift-induced collapse in long‑sequence videos.",
-    "tags": [
-      "point-cloud",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "297f553113f3c829e95fbe0d5edc1161",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04200v1",
-    "arxiv_id": "2609.04200v1",
-    "title": "Principia: Relational Physics Tests for Video Models",
-    "authors": [
-      "Varun Varma Thozhiyoor",
-      "Shivam Tripathi",
-      "Venkatesh Babu Radhakrishnan"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Principia: A Relational Physics Benchmark for Evaluating Video Models and Their Reasoning",
-    "tldr": "Evaluating physical reasoning in video models is hard due to ambiguous motion metrics. Principia introduces relational physics tests that compare motion relationships between objects, providing a calibration‑free benchmark.",
-    "significance": "Principia offers a practical, calibration‑independent framework that can accelerate progress in physically grounded video understanding.",
-    "tags": [
-      "benchmark",
-      "spatial-reasoning",
-      "object-detection",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1d13505572e9c3ca70b7f0e6a06ba271",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04199v1",
-    "arxiv_id": "2609.04199v1",
-    "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-    "authors": [
-      "Yuntian Deng",
-      "Pengyu Nie",
-      "Stuart Shieber"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Compile by Training: Converting Natural Language Specs into Efficient Local Neural Functions",
-    "tldr": "Compile by training transforms natural-language specifications into reusable local neural functions, eliminating the need for repetitive remote calls. Teacher models generate task-specific examples at compile time, enabling efficient, low-latency inference.",
-    "significance": "This approach reduces cost, latency, and provider dependency while enabling scalable, on-device text processing.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e3820741dbe677636d578185a2d84cdb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04198v1",
-    "arxiv_id": "2609.04198v1",
-    "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
-    "authors": [
-      "Haoyaun Zhu",
-      "Jie Zhang"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "LLM Judges Fail Reliability Test: Same Prompt, Different Outcomes on Shared Endpoints",
-    "tldr": "Researchers preregistered two campaigns to test the assumption that identical LLM queries yield consistent results. Their audits revealed significant variability, undermining the reliability of LLM-based judges.",
-    "significance": "The study exposes a critical flaw in using black-box LLM observers as stable measurement tools, calling into question many current benchmark practices.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b5c35d81a1122b39431186e8c81bafab",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04197v1",
-    "arxiv_id": "2609.04197v1",
-    "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-    "authors": [
-      "Lihao Liu",
-      "Peng Tang",
-      "Kunwar Yashraj Singh"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "ESPO: Eliminating Prompt Bloat through Error-Structured Optimization for Large Language Models",
-    "tldr": "ESPO addresses prompt bloat in evolutionary optimizers by diagnosing errors, diversifying search, and stabilizing selection. The method reduces prompt length while improving accuracy for large language models.",
-    "significance": "By curbing prompt bloat, ESPO enhances efficiency and reliability of prompt engineering for LLMs.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f529f4007f99318f815ce9d6f16a84ac",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04196v1",
-    "arxiv_id": "2609.04196v1",
-    "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-    "authors": [
-      "Kang Liao",
-      "Yihang Luo",
-      "Xiao-Ming Wu"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Puffin-World: Unified Multimodal Model for Real-Time 3D World Generation and Interaction",
-    "tldr": "Puffin-World integrates physics, geometry, and appearance into a single architecture, enabling on-the-fly 3D world construction and interaction without external modules. The model jointly learns gravity, depth, and image representations, allowing seamless simulation and reconstruction in real time.",
-    "significance": "By unifying physical, geometric, and visual states, Puffin-World eliminates the need for offline pipelines, accelerating development of immersive AI applications.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "390e4309a4df71e266cdad25d3c31bb1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04194v1",
-    "arxiv_id": "2609.04194v1",
-    "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
-    "authors": [
-      "Kevin Du",
-      "Alexander Hoyle",
-      "Laura Ruis"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Chain-of-Thought Legibility vs Interpretability: Evaluating Judged vs Actual Importance in LLMs",
-    "tldr": "Researchers show that the legible reasoning steps produced by chain-of-thought models do not always reflect the true importance of those steps. By comparing human-judged importance with model-internal relevance, they find a mismatch that challenges current evaluation practices.",
-    "significance": "This work highlights a critical gap between perceived and actual reasoning, urging a rethink of how we assess and train chain-of-thought models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "68a498ad060a2f5b6f794a9ae5695952",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04195v1",
-    "arxiv_id": "2609.04195v1",
-    "title": "Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter",
-    "authors": [
-      "Cheng Bi",
-      "Jipeng Sun"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Axonal Delays Shape Neuronal Temporal Coding and Column Size in the Brain",
-    "tldr": "The study shows that axonal delay dispersion determines whether a neuron responds to a single synchronous volley or to a specific sequence of inputs, linking temporal coding to cortical column diameter. These findings suggest that column size may be tuned to the temporal resolution required by different sensory tasks.",
-    "significance": "It provides a mechanistic link between axonal conduction properties, temporal coding strategies, and the physical architecture of cortical columns.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6bacc1fc78c464acde4878535fc0bcb8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04193v1",
-    "arxiv_id": "2609.04193v1",
-    "title": "GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation",
-    "authors": [
-      "Yupeng Zheng",
-      "Xiang Li",
-      "Songen Gu"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-04",
-    "headline": "Bridging the Action‑Sufficiency Gap in Robot Vision with Guided Feature Training",
-    "tldr": "Vision‑language pretraining gives robots rich visual features, yet these often miss essential task structure, creating an action‑sufficiency gap. GIFT introduces action‑oriented structural supervision to align intermediate features with control‑relevant signals, improving robotic manipulation.",
-    "significance": "By aligning visual features with action goals, GIFT enhances the efficiency and reliability of robot manipulation tasks, addressing a key limitation of current vision‑language models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
