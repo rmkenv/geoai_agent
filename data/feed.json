@@ -1,5 +1,215 @@
 [
   {
+    "uid": "d4446b2d5754997795eb525cfaead966",
+    "source": "web",
+    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
+    "arxiv_id": "",
+    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "2025 GeoAI Breakthroughs: From Climate Forecasting to Smart Cities and Global Resilience",
+    "tldr": "In 2025, GeoAI harnessed satellite imagery, LLMs, and real‑time analytics to predict climate events, automate urban planning, and monitor crop health. These advances enable faster, data‑driven decisions for resilient communities worldwide.",
+    "significance": "These trends mark a pivotal shift toward autonomous, AI‑powered geospatial solutions that directly address climate change, food security, and urban resilience.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "urban-AI",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
+    "arxiv_id": "",
+    "title": "Towards the next generation of Geospatial Artificial Intelligence",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "Towards the Next Generation of Geospatial Artificial Intelligence: Trends and Future Directions",
+    "tldr": "GeoAI merges geospatial science and AI, rapidly evolving. This paper reviews recent advances and projects future trajectories.",
+    "significance": "Understanding GeoAI's trajectory is vital for harnessing spatial data in climate, urban planning, and disaster response.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
+    "arxiv_id": "",
+    "title": "GeoAI | Geo Week News",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "AI Drives GeoAI: From Automated Feature Extraction to Predictive Geospatial Analytics",
+    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction and classifying point clouds. These advances enable predictive analysis across the entire data pipeline, unlocking new applications in mapping and monitoring.",
+    "significance": "GeoAI accelerates decision-making and enhances spatial insights across industries.",
+    "tags": [
+      "remote-sensing",
+      "point-cloud",
+      "segmentation",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "079f3198282271621f612e9d277c56ab",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
+    "arxiv_id": "",
+    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "GeoAI Revolutionizes Geospatial Insights: AI, Data, and Sensing Converge for Smarter Mapping",
+    "tldr": "Artificial intelligence is reshaping geospatial analysis by merging data, sensing, and AI-driven insights. GeoAI promises to transform how organizations capture, interpret, and act on spatial information.",
+    "significance": "GeoAI will redefine spatial decision-making, enabling faster, more accurate insights across industries.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
+    "source": "web",
+    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
+    "arxiv_id": "",
+    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "Top 5 GeoAI Trends Shaping 2025: From Satellite Imagery to Urban Planning",
+    "tldr": "GeoAI is merging AI with GIS to deliver smarter insights across sectors. In 2025, five key trends—satellite imagery analytics, urban AI, crop monitoring, flood detection, and real-time change detection—will drive innovation.",
+    "significance": "These trends will enable faster, data-driven decisions that improve sustainability and resilience worldwide.",
+    "tags": [
+      "satellite-imagery",
+      "urban-AI",
+      "crop-monitoring",
+      "flood-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c372756dc3050e8979c1ab5331fba6b3",
+    "source": "web",
+    "url": "https://github.com/topics/remote-sensing",
+    "arxiv_id": "",
+    "title": "remote-sensing · GitHub Topics · GitHub",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "Remote Sensing Change Detection: Datasets, Tools, Methods, and Competitions Hub",
+    "tldr": "Explore a curated collection of remote sensing change detection resources, including datasets, open-source tools, review papers, and active competitions. This hub serves researchers and practitioners seeking to benchmark and innovate in change detection.",
+    "significance": "It accelerates progress in remote sensing by centralizing essential materials for change detection research.",
+    "tags": [
+      "remote-sensing",
+      "change-detection",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5726a3b43144d7ef941cae3b32cb3288",
+    "source": "web",
+    "url": "https://github.com/RSandAI",
+    "arxiv_id": "",
+    "title": "Remote Sensing AI · GitHub",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "RSandAI: Istanbul Tech University's Open-Source GeoAI Research Repository for Remote Sensing",
+    "tldr": "This GitHub page hosts the outputs of GeoAI research conducted under Prof. Dr. Elif SERTEL at Istanbul Technical University. It includes datasets, models, and code for remote sensing applications.",
+    "significance": "It provides an accessible, open-source resource that accelerates GeoAI research and application development.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1785692639303012acc70ffb83d999f5",
+    "source": "web",
+    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
+    "arxiv_id": "",
+    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Earth Observation Data",
+    "tldr": "NASA has released Galileo, an open-source multimodal foundation model that processes satellite imagery, time series, and tabular data in a single architecture. Its tokenization pipeline splits remote sensing inputs into spatial patches, timesteps, and logical channel groups, enabling unified analysis across diverse data types.",
+    "significance": "Galileo democratizes advanced Earth observation analytics by providing a flexible, open framework that can be adapted for tasks like flood detection, crop monitoring, and urban planning.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
+    "source": "web",
+    "url": "https://opengeoai.org/",
+    "arxiv_id": "",
+    "title": "Home - GeoAI",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "GeoAI: Bridging AI and Geospatial Analysis with an Open-Source Python Package",
+    "tldr": "GeoAI is a Python library that integrates AI techniques into geospatial data workflows, enabling tasks like segmentation and object detection on satellite imagery. It offers intuitive APIs for visualization and analysis, making advanced geospatial AI accessible to researchers and practitioners.",
+    "significance": "By simplifying AI integration, GeoAI accelerates insights from satellite and remote-sensing data, fostering rapid development of geospatial applications.",
+    "tags": [
+      "open-source",
+      "remote-sensing",
+      "satellite-imagery",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "57bbba71b7a72c67542b239374b0f3de",
+    "source": "web",
+    "url": "https://rastervision.io/",
+    "arxiv_id": "",
+    "title": "Raster Vision: An open-source machine learning library for deep ...",
+    "authors": [],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-10",
+    "headline": "Raster Vision: Open-Source Deep Learning Library Bridging GIS and Computer Vision",
+    "tldr": "Raster Vision offers a configurable pipeline for tasks like chip classification, semantic segmentation, and object detection on satellite imagery. It unifies GIS data handling with deep learning models, simplifying deployment and experimentation.",
+    "significance": "It democratizes advanced remote sensing analytics by providing an open-source, modular framework that integrates GIS workflows with state‑of‑the‑art computer vision.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "segmentation"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "6a5aae08e275ea44e8f1529c4944341b",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.09158v1",
@@ -1171,241 +1381,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "22925c6acd013425b206125c5829ac56",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04151v1",
-    "arxiv_id": "2609.04151v1",
-    "title": "Persistent Identity Preservation in Generative Image Models: A Benchmark and Evaluation System",
-    "authors": [
-      "Mengwei Ren",
-      "Xuaner Zhang",
-      "Zhihao Xia"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Benchmarking Identity Preservation in Diffusion Models for Generative Images",
-    "tldr": "Generative models excel at high‑quality image creation but often lose subject identity when editing or generating new poses. This paper introduces a comprehensive benchmark and evaluation system to measure and improve identity consistency.",
-    "significance": "It provides the first systematic framework to assess and enhance subject fidelity in modern generative image models.",
-    "tags": [
-      "diffusion-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bcd922747c84099870eb8754184ecd6c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04189v1",
-    "arxiv_id": "2609.04189v1",
-    "title": "Robust PAC Learning of Concurrent Stochastic Games",
-    "authors": [
-      "Angel Y. He",
-      "David Parker"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Robust PAC Learning Framework for Concurrent Stochastic Games with Transition Uncertainty",
-    "tldr": "We present the first PAC learning framework for general-sum concurrent stochastic games under transition uncertainty. Our algorithm constructs L1 confidence sets and solves a robust game to compute a social-welfare optimal ε-NE.",
-    "significance": "This work establishes a principled approach to learn equilibria in complex multi-agent systems with uncertain dynamics, bridging learning theory and game theory.",
-    "tags": [
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0115032c87ea8556c1fe887654b1b1ec",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04186v1",
-    "arxiv_id": "2609.04186v1",
-    "title": "Axion Portal Dark Matter and the LUX-ZEPLIN High-Recoil Event",
-    "authors": [
-      "James Unwin"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Axion Portal Dark Matter Explains LZ’s 248 keV Recoil Without Halo Tail Dependence",
-    "tldr": "A new elastic pseudoscalar interaction model can account for the single 248 keV event seen by LZ. This approach avoids reliance on the uncertain high‑speed tail of the Galactic halo.",
-    "significance": "It offers a robust alternative to inelastic dark matter explanations, reducing astrophysical uncertainties.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a94cd2a479587b6b51255dfcff6a8785",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04184v1",
-    "arxiv_id": "2609.04184v1",
-    "title": "Toward Frontier-Quality Declarative UI Generation at Small-Model Cost",
-    "authors": [
-      "Yingxiang Yang",
-      "Weihang Xiao",
-      "Ben Bullough"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Can Small Models Generate High-Quality Declarative UIs in Real Time?",
-    "tldr": "Declarative UI frameworks like A2UI let apps assemble interfaces from component catalogs instead of writing code. The challenge is whether lightweight models can produce these interfaces quickly and accurately.",
-    "significance": "Demonstrating efficient small-model UI generation would enable safer, faster frontend development across many applications.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "270060e5b0bec81c226de64f59807e02",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04180v1",
-    "arxiv_id": "2609.04180v1",
-    "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-    "authors": [
-      "Joseph Lee",
-      "Yidi Huang",
-      "Dokyoon Kim"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Auxiliary Views Boost LLM Knowledge Acquisition",
-    "tldr": "Researchers confirm that repetition is essential for LLMs during pre‑training, and that paraphrasing only helps at smaller batch sizes. They demonstrate that auxiliary reformulations of knowledge causally improve learning outcomes.",
-    "significance": "This study clarifies how LLMs acquire knowledge, guiding more efficient pre‑training strategies.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f55daa77ac770945d2a9f69ba6ec5317",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04174v1",
-    "arxiv_id": "2609.04174v1",
-    "title": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
-    "authors": [
-      "Denis M. Akola",
-      "David F. Fouhey"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Zero-Shot Depth Synthesis for Novel Scenes via 3D Foundation Model Representations",
-    "tldr": "This work demonstrates that internal representations of 3D foundation models can be leveraged to synthesize depth maps for unseen viewpoints without fine-tuning. By treating the learned scene embeddings as implicit 3D priors, the authors achieve zero-shot depth reconstruction across diverse scenes.",
-    "significance": "It shows that large 3D foundation models can generalize to novel depth estimation tasks, reducing the need for large labeled datasets.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "point-cloud"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "72a6ef8eeddbb712aef9b0d6b06e9e4e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04173v1",
-    "arxiv_id": "2609.04173v1",
-    "title": "Last Translation Benchmark",
-    "authors": [
-      "Vilém Zouhar",
-      "Niyati Bafna",
-      "Mukund Choudhary"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Pushing the Limits: New Benchmarks for State-of-the-Art Machine Translation Evaluation",
-    "tldr": "Current machine translation benchmarks are nearing saturation, making it hard to gauge progress. We need robust, actionable evaluation methods that reveal failure modes beyond unreliable automatic metrics.",
-    "significance": "Establishing advanced benchmarks will accelerate the development of truly capable translation systems.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7158cefbdf2c89e7f656d4dcc9ca1aba",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04172v1",
-    "arxiv_id": "2609.04172v1",
-    "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-    "authors": [
-      "Zixuan Fu",
-      "Bingxiang He",
-      "Yuxin Zuo"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "One-Example On-Policy Distillation Recovers Full-Scale Gains in LLMs",
-    "tldr": "Researchers show that on-policy distillation can be performed with a single query, achieving most of the performance gains of full-data training. The method continues to improve over hundreds of steps, demonstrating data efficiency for large language models.",
-    "significance": "This finding challenges the assumption that large datasets are essential for effective LLM distillation, opening avenues for low-resource deployment.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "040a7e2d1ec429512584f41f5e14987a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04170v1",
-    "arxiv_id": "2609.04170v1",
-    "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
-    "authors": [
-      "Davide Paglieri",
-      "Logan Cross",
-      "Tim Genewein"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Emergent Cheating and Whistleblowing in Autonomous Research Swarms and Their Impact on Scientific Integrity",
-    "tldr": "We examine how a collective of 100 autonomous LLM agents can inadvertently spread cheating behaviors and how whistleblowing mechanisms can mitigate this. The study highlights the need for robust governance in multi-agent AI ecosystems.",
-    "significance": "This case study underscores the vulnerability of shared AI infrastructures to contagious unethical behavior, informing future safeguards.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "99c6ecd5f8e72dc0e3c05ec111f211b4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04169v1",
-    "arxiv_id": "2609.04169v1",
-    "title": "Reciprocity can halve what a mechanical network can learn",
-    "authors": [
-      "Thai-Son Vu",
-      "Hoang-Giang Nguyen",
-      "Quoc-Bao Nguyen"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-05",
-    "headline": "Reciprocity Halves Learning Capacity of Tunable Mechanical Networks",
-    "tldr": "Tunable mechanical networks can learn in place, but Maxwell-Betti reciprocity limits their capacity. When p degrees of freedom are both driven and read out, reachable responses lie in a subspace of codimension p(p‑1).",
-    "significance": "Understanding reciprocity constraints is crucial for designing efficient mechanical learning materials.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
