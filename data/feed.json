@@ -1,5 +1,242 @@
 [
   {
+    "uid": "4e1efc45465a3b9f314f8c4a1ab4f21d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11929v1",
+    "arxiv_id": "2609.11929v1",
+    "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+    "authors": [
+      "Haiwen Diao",
+      "Jiahao Wang",
+      "Chenjing Ding"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "SenseNova-U1.5 8B-MoT Unified Visual AI Without Encoders or VAEs for Spatially Coherent Patch Reconstruction",
+    "tldr": "SenseNova-U1.5 is an 8B multimodal transformer that generates and understands visual content without relying on encoders or VAEs. It achieves spatially coherent patch reconstruction and scales training with curated generation and editing data, improved task formulation, and structural prompt enhancement.",
+    "significance": "By eliminating traditional encoder and VAE components, SenseNova-U1.5 offers a more efficient and flexible foundation for unified visual intelligence tasks.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "12ef4595ac8e90245d5e7512cb62c7a0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11922v1",
+    "arxiv_id": "2609.11922v1",
+    "title": "A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons",
+    "authors": [
+      "Yu-Xuan Fu",
+      "He-Yu Shen",
+      "Ke-Ming Hu"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "Quantum Chip-Scale Space‑Time Multiplexed Gaussian Boson Sampler Surpasses 10,000 Photons",
+    "tldr": "A new chip‑scale architecture uses space‑time multiplexing to achieve more than 10,000 photons in Gaussian boson sampling, overcoming alignment and phase stability issues. This breakthrough brings scalable quantum advantage closer to practical deployment.",
+    "significance": "It demonstrates a scalable, programmable platform that could accelerate quantum computational advantage demonstrations and enable complex photonic quantum simulations.",
+    "tags": [
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c480d2d94f1b7af5b89fac7e29b0e783",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11921v1",
+    "arxiv_id": "2609.11921v1",
+    "title": "Teleparallel torsion and white dwarf structure in \\(f(T)=T+ΞT^2\\) gravity",
+    "authors": [
+      "Edson Otoniel",
+      "Jonathan A. Reboucas",
+      "Iarley P. Lobo"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "Teleparallel Torsion Modifies White Dwarf Structure in Quadratic f(T) Gravity",
+    "tldr": "We explore how a quadratic torsion term in f(T) gravity changes the mass-radius relation of cold carbon white dwarfs. The study shows that torsion can significantly alter equilibrium configurations compared to general relativity.",
+    "significance": "This work demonstrates that modified teleparallel gravity can impact compact star physics, offering new tests for alternative gravity theories.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "76ee99162eb12ea49a4a357231e1160f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11920v1",
+    "arxiv_id": "2609.11920v1",
+    "title": "EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking",
+    "authors": [
+      "Dexter Ong",
+      "Vijay Kumar",
+      "Pratik Chaudhari"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "EVPeriscope: Event-Based Propeller Tracking for Robust Aerial‑Ground Localization",
+    "tldr": "EVPeriscope uses event cameras to detect and track propeller motion, enabling accurate relative pose estimation between drones and ground robots in real time. The system overcomes motion blur and lighting issues that limit conventional cameras, demonstrating reliable localization in challenging environments.",
+    "significance": "It provides a lightweight, real‑time solution for tightly coordinated heterogeneous robot teams, improving safety and operational efficiency.",
+    "tags": [
+      "object-detection",
+      "real-time",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f96005066d3d4e3057f7858028d9e28c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11917v1",
+    "arxiv_id": "2609.11917v1",
+    "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+    "authors": [
+      "Atindra Jha",
+      "Margaret Li",
+      "Jure Leskovec"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "MoE Models Overfit to Repeated Data: Data Scarcity Amplifies Sparsity Issues",
+    "tldr": "When training data is repeated, Mixture-of-Experts models tend to overfit more than dense Transformers. This study shows that data repetition exacerbates sparsity-related overfitting, affecting model generalization.",
+    "significance": "Understanding MoE overfitting to repeated data informs better training strategies for large language models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bcbafaad3d8bd12b7af41237c1ab145e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11916v1",
+    "arxiv_id": "2609.11916v1",
+    "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+    "authors": [
+      "William Zhou",
+      "Mayukha Siripuram",
+      "Xiao Yan"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "Edge-Deployable Vision‑Language Models Successfully Identify Wildlife Species in Camera Traps",
+    "tldr": "Researchers evaluated 2–8 B parameter VLMs on camera‑trap images and found they can recognize species with high accuracy. This shows that small, locally deployable models are viable for wildlife monitoring.",
+    "significance": "The study proves that lightweight VLMs can replace large models for real‑time species identification on edge devices, enabling scalable wildlife conservation.",
+    "tags": [
+      "foundation-models",
+      "object-detection",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "69e14723b03f5b060f119fff5c9482a5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11914v1",
+    "arxiv_id": "2609.11914v1",
+    "title": "Anomalous Dimensions, Matching, and Phenomenology of Dirac Fermionic Dark Matter Effective Interactions",
+    "authors": [
+      "Subhajit Kala",
+      "Lipika Kolay",
+      "Soumitra Nandi"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "Renormalisation-Group Analysis of Dirac Dark Matter Effective Operators",
+    "tldr": "The paper derives the anomalous-dimension matrix for dimension‑five and –six operators coupling Dirac fermionic dark matter to the Standard Model. This framework enables consistent RG evolution and phenomenological studies of dark matter interactions.",
+    "significance": "It provides the first complete RG framework for Dirac fermionic dark matter, essential for accurate predictions in collider and direct detection experiments.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "494a9cbcfd9c47cfd1ebecc2bfb698fb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11913v1",
+    "arxiv_id": "2609.11913v1",
+    "title": "Distance generalization in transformers: why bother with positional encoding?",
+    "authors": [
+      "Daniel Henrik Nevermann",
+      "Claudius Gros"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "Distance Generalization in Transformers: Rethinking Positional Encoding for Out-of-Distribution Contexts",
+    "tldr": "This study investigates how transformers handle changes in inter-token distances when trained on short contexts and tested on longer or differently spaced contexts, challenging the reliance on positional encodings. By introducing synthetic delay copy tasks, the authors demonstrate that distance generalization can be achieved without explicit positional signals, offering insights for more robust language models.",
+    "significance": "The findings suggest that transformers can learn to generalize across token spacing, potentially reducing the need for complex positional encoding schemes and improving model robustness to varied input structures.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "249ae6548c7e0a6af8189aae2343c9a7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11911v1",
+    "arxiv_id": "2609.11911v1",
+    "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+    "authors": [
+      "Yakov Pyotr Shkolnikov"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "Artificial ID: Internal Drives for Persistent Alignment in Agentic AI",
+    "tldr": "Agentic AI systems increasingly operate beyond single tasks, creating a control problem that current external harnesses struggle to manage. We propose an artificial ID—a self‑generated internal drive that continuously aligns goals and behavior, reducing reliance on hand‑crafted rules.",
+    "significance": "By embedding persistent alignment mechanisms, the artificial ID could enable safer, more autonomous AI that adapts across tasks without constant human oversight.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "bb1a8d76db07ba98fd70bef2eeae471a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.11910v1",
+    "arxiv_id": "2609.11910v1",
+    "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
+    "authors": [
+      "Nitesh V. Chawla",
+      "Paulo Benanti"
+    ],
+    "published": "2026-09-10",
+    "curated_at": "2026-09-11",
+    "headline": "AI as a Tool for Social Accountability: From Protocols to Evidence",
+    "tldr": "AI can expose institutional shortcomings and act as an intervention, but it may also worsen or hide failures. Responsible AI requires evaluating both the system and its impact on society.",
+    "significance": "Understanding AI’s dual role is essential for ensuring it serves the common good rather than perpetuating injustice.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d4446b2d5754997795eb525cfaead966",
     "source": "web",
     "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
@@ -1145,237 +1382,6 @@
     "tldr": "Entangled quantum systems can be physically separated, yet measurements on each part must be described by local Hilbert space vectors. The paper clarifies how to formulate these measurements consistently, resolving a longstanding ambiguity.",
     "significance": "This work provides a rigorous framework for interpreting local measurements in entangled systems, essential for quantum communication and foundational tests.",
     "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "510adea93ebac1c6caa469063cdc5e90",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04177v1",
-    "arxiv_id": "2609.04177v1",
-    "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
-    "authors": [
-      "Rafal Urbaniak",
-      "Sam Witty",
-      "Daniel Waxman"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Scalable Causal Probabilistic Explanation: A Feasible Framework for Real-World Models",
-    "tldr": "This paper introduces a computationally efficient framework that bridges the gap between rigorous causal theories and scalable attribution methods. By combining counterfactual enumeration with probabilistic scoring, it offers actionable blame and credit assignments for complex models.",
-    "significance": "It enables practical causal analysis in large-scale AI systems, improving transparency and accountability.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a0667cf0d24ec5d11eb408a47ab9b900",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04164v1",
-    "arxiv_id": "2609.04164v1",
-    "title": "A Superconducting Peierls Instability",
-    "authors": [
-      "Pramodh Senarath Yapa",
-      "Joseph Maciejko",
-      "Frank Marsiglio"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Superconducting Peierls Instability: From Metal to Insulator via Lattice Distortion",
-    "tldr": "The Peierls instability shows how electron-phonon coupling can open a gap at the Fermi level in a one-dimensional metal, turning it into an insulator. In superconducting systems, this mechanism competes with Cooper pairing, leading to rich phase diagrams.",
-    "significance": "Understanding the superconducting Peierls instability provides insight into the interplay between lattice distortions and electronic correlations in low-dimensional materials.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0eba52d99063c631a31ceb924f187712",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04163v1",
-    "arxiv_id": "2609.04163v1",
-    "title": "TeV Higgsino Interpretation of the LZ High-Recoil Event with Intermediate-Scale Electroweak Gauginos",
-    "authors": [
-      "Xiaokang Du",
-      "Fei Wang"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "TeV Higgsinos Explain LZ High-Recoil Event with Heavy Electroweak Gauginos",
-    "tldr": "A TeV-scale Higgsino with a sub-MeV neutralino mass splitting can account for the LZ high-recoil event. The required electroweak gaugino masses (~10^7 GeV) arise from a non‑universal GUT boundary condition that cancels bino–wino contributions.",
-    "significance": "This work links dark‑matter direct‑detection anomalies to high‑scale supersymmetry, offering testable predictions for future experiments.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d127ec92e1db834b5ef9876933aa3fce",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04162v1",
-    "arxiv_id": "2609.04162v1",
-    "title": "Thermodynamic Concentration Inequalities: Controlling Uncertainty in Finite-Time and Small-Sample Thermodynamic Inference",
-    "authors": [
-      "Rick Bebon",
-      "Aljaž Godec"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Nonasymptotic Concentration Bounds for Generalized Currents in Geometrically Ergodic Diffusions",
-    "tldr": "We establish finite-time, nonasymptotic upper bounds on deviations of generalized currents from their stationary mean for any observation time or sample size. These results provide a universal concentration-of-measure framework governed by the system’s relaxation time.",
-    "significance": "The work delivers a rigorous, universally applicable tool for quantifying uncertainty in thermodynamic inference, bridging theory and practical finite-data scenarios.",
-    "tags": [
-      "time-series",
-      "diffusion-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "870e37cca10ce6c7148277e6a60f978a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04161v1",
-    "arxiv_id": "2609.04161v1",
-    "title": "Minimizing the makespan in job shop scheduling under conflict graph constraints",
-    "authors": [
-      "Nour Elhouda Tellache",
-      "Abdenour Azerine"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Conflict-Graph Job Shop Scheduling: Complexity, Makespan Minimization, and Constraint Analysis",
-    "tldr": "We analyze the computational complexity of job shop scheduling with conflict graph constraints. The study shows that minimizing makespan remains NP-hard even when jobs share additional resources.",
-    "significance": "This result informs the design of efficient scheduling algorithms for systems where jobs compete for shared resources.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "dd374c835f2eb2976ca9c3de39710915",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04160v1",
-    "arxiv_id": "2609.04160v1",
-    "title": "Vanilla Exact Synthesis of CNOT Circuits is NP-hard",
-    "authors": [
-      "Chenjian Li",
-      "Ji Guan"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Exact CNOT Circuit Synthesis Is NP-Hard, Even Without Connectivity Constraints",
-    "tldr": "The paper shows that finding the smallest CNOT circuit implementing an arbitrary invertible linear transformation is NP-hard, even in the simplest setting with identity input and no intermediate variables. This result closes a gap in the complexity landscape of quantum circuit synthesis.",
-    "significance": "It establishes that even the most basic CNOT synthesis problem is computationally intractable, guiding future algorithmic research toward approximation or heuristic methods.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e45ab0daa77412371ac47f7d005c3c55",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04159v1",
-    "arxiv_id": "2609.04159v1",
-    "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
-    "authors": [
-      "Uday Vallabhaneni",
-      "Cassie L. Cagwin",
-      "David J. Wild"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Sentinel-RL Offloads Topological Reasoning from LLM Agents for Scalable SOC Operations",
-    "tldr": "Sentinel-RL introduces a method to offload complex topological reasoning from large language model agents, enabling them to handle multi-thousand-host authentication graphs in security operations centers. By separating topology management from free-form generation, the system ensures consistent containment actions and scales to enterprise environments.",
-    "significance": "This approach addresses critical scalability and reliability challenges of LLM-based SOC analysts, paving the way for more robust, real-time threat detection and response.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "89d963a9f17a54e2b24bd3f4f6040c88",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04158v1",
-    "arxiv_id": "2609.04158v1",
-    "title": "Formation Matrix and Energy-based Control of Multi-Agent Systems",
-    "authors": [
-      "Martín Crespo",
-      "Sergio Junco",
-      "Matías Nacusse"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Energy-Based Spring-Damper Control for Multi-Agent Robotic Formation on Planar Surfaces",
-    "tldr": "This paper introduces an energy-based controller that models inter-agent interactions as spring-damper networks, enabling robots to achieve and maintain a desired planar formation while avoiding collisions. The controller's de-energized states correspond to the target formation, and simulations demonstrate its effectiveness in dynamic environments.",
-    "significance": "It provides a scalable, physics-inspired framework for coordinated multi-robot motion, improving formation stability and collision avoidance.",
-    "tags": [
-      "real-time",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a284ca9c130f06a8d71e0943fda6802a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04154v1",
-    "arxiv_id": "2609.04154v1",
-    "title": "B(E2) Serves as a Robust Signature of N = 32,34 Shell Evolution",
-    "authors": [
-      "Jia Liu",
-      "Yi Fei Niu",
-      "Xiao Hua Lia"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "B(E2) Transitions Reveal New Shell Structure at N=32,34 in Exotic Nuclei",
-    "tldr": "Electric quadrupole transition probabilities B(E2) are sensitive to orbital radii, providing a clear signature of shell evolution at neutron numbers 32 and 34. The study uses a relativistic Hartree-Fock model to show how effective charges vary with orbital size, resolving anomalies in exotic nuclei.",
-    "significance": "This work offers a robust, model-independent method to identify new magic numbers in nuclei far from stability.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "348447e5d105c6ea7476973d3f78dc1a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04153v1",
-    "arxiv_id": "2609.04153v1",
-    "title": "Smooth autonomous fast dynamo action on the three-torus",
-    "authors": [
-      "Michele Coti Zelati",
-      "Massimo Sorella",
-      "David Villringer"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Fast Dynamo Action on the Three-Torus via Stretch–Fold–Shear",
-    "tldr": "The paper constructs a smooth, autonomous, divergence-free velocity field on the 3‑torus that generates fast dynamos, resolving a long‑standing conjecture. It extends a time‑periodic fast dynamo construction to a fully autonomous setting using a novel stretch‑fold‑shear mechanism.",
-    "significance": "It provides the first rigorous example of a smooth autonomous fast dynamo on a compact manifold, settling the Fast Dynamo Conjecture.",
-    "tags": [
-      "spatial-reasoning",
       "open-source",
       "benchmark"
     ],
