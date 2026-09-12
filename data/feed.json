@@ -1,5 +1,107 @@
 [
   {
+    "uid": "26038ac1b7fbeb16e362e046d7d626fe",
+    "source": "web",
+    "url": "https://www.geography2050.org/2025",
+    "arxiv_id": "",
+    "title": "2025: GeoAI — GEOGRAPHY 2050",
+    "authors": [],
+    "published": "2026-09-12",
+    "curated_at": "2026-09-12",
+    "headline": "GeoAI 2050: Building Foundation Models for Real-Time Global Geospatial Insight",
+    "tldr": "Foundation models trained on massive geospatial datasets promise real‑time insights into Earth’s changing landscapes. Yet scaling these models to capture every observation remains a daunting challenge.",
+    "significance": "These models could transform how we monitor climate, urban growth, and disaster response worldwide.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "715b2f09148aeec3e1b1bd9503ec034a",
+    "source": "web",
+    "url": "https://www.geoconnexion.com/publication-articles/the-limits-of-geoai",
+    "arxiv_id": "",
+    "title": "The limits of GeoAI | GeoConnexion",
+    "authors": [],
+    "published": "2026-09-12",
+    "curated_at": "2026-09-12",
+    "headline": "AlphaEarth Foundations Sets New GeoAI Benchmark, Driving Proprietary Embedding Adoption",
+    "tldr": "Google and DeepMind’s AlphaEarth Foundations redefined geospatial AI, prompting firms to craft custom embeddings. This shift accelerates AI integration across mapping, monitoring, and decision‑making.",
+    "significance": "It marks the first industry‑wide standard for geospatial embeddings, reshaping how spatial data is leveraged.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b2fe11aa9e51c042a3380c37c003f9c0",
+    "source": "web",
+    "url": "https://github.com/topics/remote-sensing?o=desc&s=updated",
+    "arxiv_id": "",
+    "title": "remote-sensing · GitHub Topics · GitHub",
+    "authors": [],
+    "published": "2026-09-12",
+    "curated_at": "2026-09-12",
+    "headline": "AI-Driven Crop Monitoring: Sentinel-2, GIS Zones, Sensor Fusion, and Autonomous Drones",
+    "tldr": "This system integrates Sentinel‑2 satellite imagery with GIS‑derived management zones to provide real‑time crop intelligence. It fuses multiple sensors, offers explainable recommendations, and plans autonomous drone missions for precision agriculture.",
+    "significance": "It enables farmers to optimize yields and resource use through AI‑enhanced, data‑driven decision making.",
+    "tags": [
+      "remote-sensing",
+      "crop-monitoring",
+      "satellite-imagery"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "76a848462cb579374f52b6c2e4ea0f19",
+    "source": "web",
+    "url": "https://sourceforge.net/directory/?q=remote%20sensing",
+    "arxiv_id": "",
+    "title": "remote sensing free download - SourceForge",
+    "authors": [],
+    "published": "2026-09-12",
+    "curated_at": "2026-09-12",
+    "headline": "Free Remote Sensing Tools on SourceForge: Code, Papers, and Hands-On Resources",
+    "tldr": "This guide aggregates free remote sensing software from SourceForge, complete with code snippets and research links. It serves as a practical hub for researchers, engineers, and enthusiasts in geospatial AI.",
+    "significance": "Providing open access to a curated collection of remote sensing tools accelerates research and application development in geospatial AI.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "05673d0fa14b4f02d093dfad57f9cfcf",
+    "source": "web",
+    "url": "https://ruview.online/",
+    "arxiv_id": "",
+    "title": "RuView Free AI WiFi Sensing, ESP32 CSI Radar & Spatial Intelligence",
+    "authors": [],
+    "published": "2026-09-12",
+    "curated_at": "2026-09-12",
+    "headline": "RuView: Open-Source WiFi Radar Platform Turns ESP32 into Long-Range Spatial Sensor",
+    "tldr": "RuView is an open-source, edge-native AI WiFi sensing platform that transforms everyday ESP32 microcontrollers into long-range spatial radar arrays. By converting ambient high-frequency radio waves into detailed environmental telemetry, it enables real-time spatial intelligence without cameras.",
+    "significance": "RuView democratizes spatial sensing by providing a low-cost, camera-free solution that can be deployed on commodity hardware for applications ranging from indoor monitoring to outdoor environmental sensing.",
+    "tags": [
+      "open-source",
+      "remote-sensing",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "4e1efc45465a3b9f314f8c4a1ab4f21d",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.11929v1",
@@ -1274,118 +1376,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "d10a753a78ef514fd40d95b91afdd46a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05400v1",
-    "arxiv_id": "2609.05400v1",
-    "title": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
-    "authors": [
-      "Reza Rajabli",
-      "D. Louis Collins"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "Compact Transfer‑Learning Feature Extractor Boosts Alzheimer’s MRI Analysis Across Diverse Datasets",
-    "tldr": "We propose a lightweight, supervised pretrained model that extracts robust features from brain MRI, enabling accurate Alzheimer’s classification without task‑specific retraining. The model generalizes across multiple datasets, demonstrating the feasibility of transfer learning in neuroimaging.",
-    "significance": "This work demonstrates that a single pretrained feature extractor can reliably support diverse Alzheimer’s MRI tasks, reducing the need for large labeled datasets.",
-    "tags": [
-      "foundation-models",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0a08f556a03a479a6351495b00f6c5da",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05399v1",
-    "arxiv_id": "2609.05399v1",
-    "title": "From Interpretability Methods to Interpretable Models",
-    "authors": [
-      "Julien Colin",
-      "Nuria Oliver",
-      "Thomas Serre"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "From Interpretability Tools to Interpretable Models: Assessing Progress in XAI",
-    "tldr": "While XAI has produced a rich toolbox of attribution, visualization, and concept methods, the field has largely focused on method comparison rather than evaluating model interpretability. This paper argues for a shift toward measuring interpretability and tracking progress as models evolve.",
-    "significance": "It highlights a critical gap in XAI research and proposes a framework for assessing interpretability in evolving models.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ee2ed0ff04a9f49151094c3b867c9005",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05398v1",
-    "arxiv_id": "2609.05398v1",
-    "title": "Metallicity dependence of Wolf-Rayet binaries using detailed binary models: An absence of long-period systems at low metallicity",
-    "authors": [
-      "Max M. Briel",
-      "Eirini Kasdagli",
-      "Tassos Fragos"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "Metallicity Shapes Wolf‑Rayet Binary Periods: Short‑Period Preference in Low‑Metallicity Galaxies",
-    "tldr": "In the Small and Large Magellanic Clouds, Wolf‑Rayet binaries are almost exclusively found in short‑period orbits, while longer periods are missing. This trend is weaker in the Milky Way, suggesting metallicity influences binary evolution and mass‑loss rates.",
-    "significance": "The study reveals that lower metallicity environments suppress the formation or survival of long‑period Wolf‑Rayet binaries, impacting our understanding of massive star evolution and supernova progenitors.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6f99264034a4d6023d617000ac4d956f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04185v1",
-    "arxiv_id": "2609.04185v1",
-    "title": "Atmospheric neutrino up-scattering explanation of LZ 2026 excess",
-    "authors": [
-      "Sk Jeesun",
-      "Anirban Majumdar"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Atmospheric Neutrinos May Explain LZ 2026's Unexpected 248 keV Nuclear Recoil",
-    "tldr": "A recent isolated nuclear recoil observed by LZ at 248 keV challenges Standard Model predictions. This study proposes atmospheric neutrino up-scattering as a plausible explanation.",
-    "significance": "If confirmed, this mechanism could reshape our understanding of neutrino interactions and dark matter searches.",
-    "tags": [
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "133f144eba81e357b16919acdb16eb03",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.04178v1",
-    "arxiv_id": "2609.04178v1",
-    "title": "Measurements on the separated subsystems of an entangled state",
-    "authors": [
-      "Gregory D. Scholes"
-    ],
-    "published": "2026-09-03",
-    "curated_at": "2026-09-06",
-    "headline": "Understanding Measurements on Separated Subsystems in Entangled Quantum States and Their Implications",
-    "tldr": "Entangled quantum systems can be physically separated, yet measurements on each part must be described by local Hilbert space vectors. The paper clarifies how to formulate these measurements consistently, resolving a longstanding ambiguity.",
-    "significance": "This work provides a rigorous framework for interpreting local measurements in entangled systems, essential for quantum communication and foundational tests.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
