@@ -1,5 +1,68 @@
 [
   {
+    "uid": "03756eb83b4b4c31c6befb1ea4c71cd7",
+    "source": "web",
+    "url": "https://geoai.org/",
+    "arxiv_id": "",
+    "title": "GeoAI",
+    "authors": [],
+    "published": "2026-09-13",
+    "curated_at": "2026-09-13",
+    "headline": "GeoAI: Merging Geospatial Data with AI for Smarter Spatial Insights",
+    "tldr": "GeoAI combines geospatial data with machine learning, computer vision, and NLP to analyze and generate actionable insights. It enables real-time decision-making across sectors like agriculture, urban planning, and disaster response.",
+    "significance": "GeoAI transforms raw spatial data into actionable intelligence, accelerating innovation and informed decision-making worldwide.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "urban-AI",
+      "change-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "26fa3243384f40ff7220879e19adbf53",
+    "source": "web",
+    "url": "https://github.com/opengeos/geoai",
+    "arxiv_id": "",
+    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GitHub",
+    "authors": [],
+    "published": "2026-09-13",
+    "curated_at": "2026-09-13",
+    "headline": "GeoAI: AI-Powered Toolkit for Satellite Imagery, Data Prep, and Training Dataset Generation",
+    "tldr": "GeoAI provides streamlined access to Sentinel, Landsat, NAIP, and other open satellite imagery, along with tools for downloading, mosaicking, and preprocessing. It also automates training dataset creation with image chips, labels, and vector-to-raster conversions, making AI workflows efficient.",
+    "significance": "GeoAI democratizes AI-driven geospatial analysis by simplifying data acquisition and preparation for machine learning models.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d7f2f215fb0c6f21acbef1a9b7ee0e6f",
+    "source": "web",
+    "url": "https://evermx.com/open-source/geoai-geospatial-artificial-intelligence",
+    "arxiv_id": "",
+    "title": "GeoAI - Open Source AI Project - Evermx",
+    "authors": [],
+    "published": "2026-09-13",
+    "curated_at": "2026-09-13",
+    "headline": "GeoAI: Open-Source Python Toolkit Uniting Deep Learning with Satellite Imagery Analysis",
+    "tldr": "GeoAI is a Python package that integrates deep learning models into geospatial workflows, enabling automated analysis of satellite imagery and aerial photos. Published by the opengeos community in 2026, it offers a unified, open-source framework for tasks such as segmentation, object detection, and change detection.",
+    "significance": "By providing a cohesive platform, GeoAI accelerates the adoption of AI in geospatial science, lowering barriers for researchers and practitioners.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "26038ac1b7fbeb16e362e046d7d626fe",
     "source": "web",
     "url": "https://www.geography2050.org/2025",
@@ -1303,76 +1366,6 @@
       "time-series",
       "LLM",
       "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "045d4c11618269ad805d7d2c10d8ed1e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05404v1",
-    "arxiv_id": "2609.05404v1",
-    "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
-    "authors": [
-      "Sihwa Park"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "Diffusion TV: Tangible Antenna Controls Bring AI Denoising to Life",
-    "tldr": "Diffusion TV lets users physically tune a CRT TV’s antenna to control the clarity of AI-generated images and sounds, embodying the denoising steps of diffusion models. The installation demonstrates how interactive hardware can make abstract AI processes tangible and engaging.",
-    "significance": "It bridges the gap between complex AI algorithms and public perception by turning algorithmic noise reduction into a hands‑on, sensory experience.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "8f083926cdb248479f47525aa09a3e25",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05403v1",
-    "arxiv_id": "2609.05403v1",
-    "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
-    "authors": [
-      "Quoc H. Nguyen",
-      "Ali Lafzi",
-      "Abhijeet Phatak"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "RegionFed: Federated Learning Tailors Retail Search to Regional Query Patterns",
-    "tldr": "RegionFed introduces a federated learning framework that personalizes query understanding for diverse retail regions while preserving user privacy. By training region-specific models, it outperforms global models in accuracy and relevance across heterogeneous vocabularies and product preferences.",
-    "significance": "This approach enables privacy‑preserving, region‑aware personalization in large‑scale retail search systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "03a55157926ac4fda317e5e6d85598c1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05401v1",
-    "arxiv_id": "2609.05401v1",
-    "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
-    "authors": [
-      "Wonje Jeung",
-      "Sangyeon Yoon",
-      "Hyesoo Hong"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "Robotic Rewards Break Paraphrase Invariance for Vision-Language Models: A Benchmark Study",
-    "tldr": "Vision-language models are increasingly used as reward functions in robotics, yet they often fail to give consistent scores when goal descriptions are paraphrased. Our benchmark demonstrates that minor wording changes can drastically alter predicted progress, highlighting a critical flaw in current reward models.",
-    "significance": "This reveals a fundamental vulnerability in VLM-based reward systems that could undermine reliable robotic learning.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
