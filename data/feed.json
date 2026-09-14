@@ -1,5 +1,46 @@
 [
   {
+    "uid": "00f316fd55d50dd9081dd376c766da13",
+    "source": "web",
+    "url": "https://science.nasa.gov/earth-science/earth-action/geoai/",
+    "arxiv_id": "",
+    "title": "Geospatial Artificial Intelligence (GeoAI) for Applications Development ...",
+    "authors": [],
+    "published": "2026-09-14",
+    "curated_at": "2026-09-14",
+    "headline": "GeoAI: Harnessing Machine Learning and Foundation Models to Turn Earth Observation into Actionable Insights",
+    "tldr": "GeoAI blends machine learning, foundation models, and agentic AI to convert vast Earth observation data into actionable insights. These insights empower decision-makers to tackle environmental, urban, and agricultural challenges.",
+    "significance": "By automating analysis of massive Earth data, GeoAI accelerates timely, data-driven responses to global problems.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3aaaab790e837cb133a4dfe443204198",
+    "source": "web",
+    "url": "https://colab.research.google.com/github/opengeos/geoai/blob/main/docs/workshops/GeoAI_Workshop_2025.ipynb",
+    "arxiv_id": "",
+    "title": "GeoAI_Workshop_2025.ipynb - Colab",
+    "authors": [],
+    "published": "2026-09-14",
+    "curated_at": "2026-09-14",
+    "headline": "Hands‑On GeoAI Workshop: Object Detection in Remote Sensing Imagery with Python",
+    "tldr": "This Colab notebook guides users through installing GeoAI, downloading data, visualizing satellite images, training an object detection model, and performing inference. It covers the entire pipeline from data preparation to real‑time predictions.",
+    "significance": "It enables rapid prototyping of AI models for monitoring urban and environmental changes using open‑source tools.",
+    "tags": [
+      "remote-sensing",
+      "object-detection",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "03756eb83b4b4c31c6befb1ea4c71cd7",
     "source": "web",
     "url": "https://geoai.org/",
@@ -1322,52 +1363,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "69350086e2fe73ae05a00f5f40f56c82",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05406v1",
-    "arxiv_id": "2609.05406v1",
-    "title": "Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
-    "authors": [
-      "Meiyi Li"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "Quantifying GPU Workload Flexibility for Grid Load Relief: A 185-Day Study",
-    "tldr": "We reconstructed hourly power traces from 155,410 GPUs over 185 days to derive a workload‑semantic flexibility envelope, revealing how much eligible load persists across event durations and cluster co‑movement. This provides a data‑driven foundation for more accurate grid flexibility models.",
-    "significance": "The study offers a realistic, trace‑based benchmark for evaluating data‑center flexibility in power grid operations.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "12ad2d570dd8a7c6be07abe7b9e3c65f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05405v1",
-    "arxiv_id": "2609.05405v1",
-    "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
-    "authors": [
-      "Ji Soo Lee",
-      "Xilun Chen",
-      "Pierce Chuang"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "WearableQA: Benchmarking AI Reasoning on Real-World Wearable Data for Health",
-    "tldr": "WearableQA introduces a large-scale benchmark of 4,084 multiple-choice questions derived from real users' wearable time series, blood biomarkers, and demographics. It evaluates AI systems' ability to reason longitudinally over health data, bridging a gap in current health AI benchmarks.",
-    "significance": "This benchmark enables rigorous assessment of AI reasoning capabilities on authentic, longitudinal health data, fostering more reliable health AI applications.",
-    "tags": [
-      "benchmark",
-      "time-series",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
