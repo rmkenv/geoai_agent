@@ -1,5 +1,47 @@
 [
   {
+    "uid": "dd88815e0c002a35e14dbd2fb460f20c",
+    "source": "web",
+    "url": "https://escholarship.org/uc/item/2nh2w5c8",
+    "arxiv_id": "",
+    "title": "Towards the next generation of Geospatial Artificial Intelligence",
+    "authors": [],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-15",
+    "headline": "Next-Gen GeoAI: Merging Foundation Models with Remote Sensing for Smarter Spatial Reasoning",
+    "tldr": "GeoAI is rapidly evolving, integrating advanced AI models with geospatial data to unlock new insights. This article explores recent breakthroughs and forecasts future directions for the field.",
+    "significance": "Understanding these trends is essential for researchers and practitioners aiming to harness GeoAI's transformative potential.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "424efee024fb3c5ce47a09c663a3bb6b",
+    "source": "web",
+    "url": "https://opensr.eu/",
+    "arxiv_id": "",
+    "title": "OpenSR - Trustworthy Super-Resolution",
+    "authors": [],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-15",
+    "headline": "OpenSR: Open-Source Super-Resolution for Trustworthy Remote Sensing Enabling High-Resolution Analysis Across Satellite Imagery",
+    "tldr": "OpenSR provides an open-source super-resolution pipeline that enhances satellite imagery quality. Its transparent code and model weights empower the remote sensing community to build reliable, high-resolution analyses.",
+    "significance": "By openly sharing its workflow and models, OpenSR democratizes advanced super-resolution, fostering innovation and trust in remote sensing applications.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "00f316fd55d50dd9081dd376c766da13",
     "source": "web",
     "url": "https://science.nasa.gov/earth-science/earth-action/geoai/",
@@ -1312,54 +1354,6 @@
     "tags": [
       "time-series",
       "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ededdb1fba55ff105226cbcac81d78c2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05408v1",
-    "arxiv_id": "2609.05408v1",
-    "title": "Towards Scaling Quantum Fine-Tuning of Foundational Time Series Models for Classification",
-    "authors": [
-      "Sang Hyub Kim",
-      "Julien Baglio",
-      "Rajiv Krishnakumar"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "Quantum Fine‑Tuning of Time‑Series Foundation Models for Power‑Grid Event Classification",
-    "tldr": "We fine‑tune the Chronos time‑series foundation model with a quantum head to classify power‑grid events. Grouping embeddings by sensor type before summarization already outperforms the best classical baselines.",
-    "significance": "This demonstrates that hybrid classical‑quantum architectures can leverage rich foundation‑model embeddings to achieve state‑of‑the‑art performance on real‑world time‑series classification.",
-    "tags": [
-      "time-series",
-      "foundation-models",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "82c3dae3519b8edf84191aa64d91c0ee",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05407v1",
-    "arxiv_id": "2609.05407v1",
-    "title": "Nonlinear evolution in Galileon EFTs: Regularization and screening",
-    "authors": [
-      "Farid Thaalba",
-      "Aaron Held",
-      "Ramiro Cayuso"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "Nonlinear Dynamics, Screening, and Regularization in Galileon Effective Field Theories",
-    "tldr": "We analyze spherically symmetric classical nonlinear dynamics in Galileon EFTs, distinguishing strong-field from derivative expansions. By comparing two perturbatively related models, we uncover screening mechanisms and regularization effects.",
-    "significance": "This work clarifies how higher-derivative terms influence screening, informing the construction of consistent modified gravity theories.",
-    "tags": [
-      "open-source",
-      "benchmark"
     ],
     "readtime": 2,
     "difficulty": "advanced"
