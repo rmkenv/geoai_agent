@@ -1,5 +1,325 @@
 [
   {
+    "uid": "ab3fb4b8a201347d0fd666da0435023f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17531v1",
+    "arxiv_id": "2609.17531v1",
+    "title": "$B$-sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations",
+    "authors": [
+      "Claudio Ranucci",
+      "Sébastien Pierre",
+      "Léo Vacher"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Robustness Testing of B-Mode Detection in CMB via Scattering Transforms",
+    "tldr": "The study introduces scattering transforms as a robustness test for tensor-to-scalar ratio estimation in CMB polarisation data, mitigating foreground contamination biases. It demonstrates that this method can reduce false detections of primordial B-modes, improving reliability of r measurements.",
+    "significance": "By providing a novel, data-driven technique to assess and mitigate foreground residuals, the work enhances the credibility of future B-mode detections and the quest for primordial gravitational waves.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9f53833583d14effe381f13413824546",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17530v1",
+    "arxiv_id": "2609.17530v1",
+    "title": "Vanilla Scotogenic Model at the future Muon Collider",
+    "authors": [
+      "Niloy Mondal",
+      "Dipankar Pradhan",
+      "Abhik Sarkar"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Exploring the Vanilla Scotogenic Model at a Future Muon Collider",
+    "tldr": "The vanilla scotogenic model links neutrino masses, dark matter, and baryogenesis, with a typical mass scale around 10 TeV. Future muon colliders could probe this regime, especially with enhanced second‑generation Yukawa couplings.",
+    "significance": "It offers a testable framework that unifies key cosmological puzzles within a reachable energy scale for upcoming collider experiments.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5a29f554c8bf1d503c548f2a5c87ae86",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17529v1",
+    "arxiv_id": "2609.17529v1",
+    "title": "An Alon-Boppana Bound for the Non-Backtracking Operator",
+    "authors": [
+      "Theo McKenzie"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "New Lower Bound on Non-Backtracking Eigenvalues Extends Alon-Boppana Theorem for Large Graphs",
+    "tldr": "The paper proves a universal lower bound on the k-th largest eigenvalue modulus of the non-backtracking matrix for graphs converging locally to a Galton-Watson tree. This extends the classical Alon-Boppana bound to the non-backtracking operator and applies to both deterministic and random graph families.",
+    "significance": "It provides a fundamental spectral limit that informs the design of graph-based algorithms and the analysis of network robustness.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "012666dc827dd36d1789af8bc66e1773",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17527v1",
+    "arxiv_id": "2609.17527v1",
+    "title": "Agentic Societies Need a Social Harness",
+    "authors": [
+      "Tapan Chugh",
+      "Vidushi Singh",
+      "Krish Jain"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Agentic Societies Require a New Social Harness to Coordinate Across Trust Boundaries",
+    "tldr": "We demonstrate that existing harnesses and messaging primitives fail to enable satisfactory coordination among autonomous AI agents, even when they are honest and competent. Faulty or malicious agents can stall progress, highlighting the need for a robust social harness.",
+    "significance": "This work reveals fundamental limitations in current agent coordination frameworks, underscoring the necessity for more resilient social harnesses in agentic societies.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "98b2f26c9bbcc358311e9f1dc05111cc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17525v1",
+    "arxiv_id": "2609.17525v1",
+    "title": "You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers",
+    "authors": [
+      "Santosh Gokul Narayanan",
+      "Giovanni Paladino",
+      "Chuqi Zhang"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Privacy‑First Kernel‑Level Anti‑Cheat: Tirith Protects Players Without Ring‑0 Intrusion for Competitive Gaming",
+    "tldr": "Tirith offers a kernel‑level anti‑cheat that respects user privacy by avoiding privileged ring‑0 components. It balances effective cheat detection with a privacy‑friendly architecture, making it suitable for personal PCs.",
+    "significance": "This work demonstrates that robust anti‑cheat can coexist with user privacy, challenging the prevailing assumption that kernel‑level protection must compromise personal data.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6794ff3c48b73114ce4edab3a4bc3a5c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17524v1",
+    "arxiv_id": "2609.17524v1",
+    "title": "Modality-Autoregressive World-Action Models",
+    "authors": [
+      "Adam Hung",
+      "Bardienus P. Duisterhof",
+      "Deva Ramanan"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Combining Depth, Features, and Point Tracks in World-Action Models for Future Prediction",
+    "tldr": "World-action models jointly predict future observations and actions, usually as RGB images. ModAR introduces a multimodal, autoregressive approach that fuses depth, pretrained visual features, and point tracks to improve geometric, semantic, and motion modeling.",
+    "significance": "ModAR demonstrates that integrating multiple visual modalities in world-action models yields more accurate and efficient future predictions, advancing autonomous decision-making.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "17f295ce698580ae165cb4f55614b059",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17523v1",
+    "arxiv_id": "2609.17523v1",
+    "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+    "authors": [
+      "Shuhan Xue",
+      "Jianyuan Zhong",
+      "Ziyuan Nan"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "ScienceBuddy: Continual Self-Improving AI Agents for Everyday Scientific Workflows",
+    "tldr": "ScienceBuddy is an interactive research workspace that deploys continually improving AI agents into researchers' daily workflows. By converting user requests, feedback, and execution evidence into tasks and evaluation rubrics, it enables recursive self‑improvement and continual learning.",
+    "significance": "It democratizes advanced AI research by embedding adaptive agents directly into scientific practice, accelerating discovery and reducing manual overhead.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9c450745db51f3eee06ae0353bc306c9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17522v1",
+    "arxiv_id": "2609.17522v1",
+    "title": "Coupling spherical p-spin systems",
+    "authors": [
+      "Riccardo Cipolloni",
+      "Leticia F. Cugliandolo"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Coupling Spherical p-Spin Systems: Cross-Correlations and Shared Aging Dynamics in Multi-Subsystem Models",
+    "tldr": "We derive closed-form two-time equations for coupled spherical p-spin systems with site-independent inter-system couplings and correlated quenched disorder. The analysis reveals how cross-correlations evolve and identifies shared aging scales across subsystems.",
+    "significance": "This work provides a controlled framework to study joint evolution and aging in coupled glassy systems, advancing theoretical understanding of complex dynamics.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a870a2ad12bced296d7d3e94c02a419b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17521v1",
+    "arxiv_id": "2609.17521v1",
+    "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+    "authors": [
+      "Chuhao Chen",
+      "Peter Wonka",
+      "Chaoyang Wang"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "PhysStream: Fine-Grained, Physics-Grounded Video Generation via Structured Scene Memory and Motion Control",
+    "tldr": "PhysStream introduces an autoregressive framework that generates physics-consistent video streams by maintaining structured scene memory and enabling fine-grained motion control. Unlike prior methods, it does not require a full control schedule upfront and operates in real-time, offering physically meaningful manipulation of dynamic scenes.",
+    "significance": "This work bridges the gap between coarse prompt-based video generation and physically grounded control, enabling more realistic and interactive video synthesis.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "89c3c7b405530348a752de00d59ea868",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17520v1",
+    "arxiv_id": "2609.17520v1",
+    "title": "Renormalizing small ball events for branching random walk",
+    "authors": [
+      "Vilas Winstein"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Renormalizing Small Ball Events in Branching Random Walks: Exponential Decay of Correlations",
+    "tldr": "We study a branching random walk conditioned on all endpoints lying in a small interval. Using renormalization group techniques we show that this conditioning forces exponential decay of correlations with a correlation length proportional to the interval radius.",
+    "significance": "The result provides a rigorous understanding of how conditioning on rare events shapes spatial correlations in stochastic processes, with implications for statistical physics and probabilistic modeling.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4c8b5b59d5ecee1e32c39d2d25fb18a0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17518v1",
+    "arxiv_id": "2609.17518v1",
+    "title": "Higher abelian gauge theory in BV formalism",
+    "authors": [
+      "Shuhan Jiang"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Constructing BV Structures for Zero-Mode Partition Functions in Higher Abelian Gauge Theories",
+    "tldr": "A BV framework is built for zero modes of quadratic elliptic higher abelian gauge theories. The resulting partition functions are independent of the chosen zero-mode Lagrangian.",
+    "significance": "This provides a robust method to compute zero-mode partition functions in higher gauge theories, enhancing our understanding of topological quantum field theories.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "54b8d1aa0e4f1cd8b626f1ebd3e66352",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17516v1",
+    "arxiv_id": "2609.17516v1",
+    "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+    "authors": [
+      "Ali Şenol"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "LLMs Should Abstain: Chain-of-Self-Questioning Enables Selective Risk Control",
+    "tldr": "The paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only method that lets LLMs decide whether to answer based on assessing required knowledge. Experiments on TruthfulQA show CoSQ variants improve safety and reduce hallucinations across diverse conditions.",
+    "significance": "CoSQ offers a lightweight, prompt-based strategy to curb LLM hallucinations without costly retraining.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d2925429ef0be7efacf080c0f7e0138c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17515v1",
+    "arxiv_id": "2609.17515v1",
+    "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+    "authors": [
+      "Congjing Zhang",
+      "Vashishtha Patil",
+      "Henning Lange"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "Pruning's Hidden Costs: Smart Home Tool Calls Fail Across LLM Architectures",
+    "tldr": "This study examines how pruning LLMs affects their ability to perform context‑grounded tool calling in smart‑home scenarios. Results show that depth and width pruning degrade performance differently across dense, hybrid, and Mixture‑of‑Experts models, highlighting architecture‑specific trade‑offs.",
+    "significance": "Understanding pruning-induced degradation informs efficient deployment of LLMs in resource‑constrained smart‑home devices.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "131c26f0e090aff730d7a84683091e4c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.17513v1",
+    "arxiv_id": "2609.17513v1",
+    "title": "Chern bounds and tangent geometry of polarized Calabi-Yau threefolds",
+    "authors": [
+      "Atsushi Kanazawa"
+    ],
+    "published": "2026-09-15",
+    "curated_at": "2026-09-16",
+    "headline": "New Quadratic Inequality Linking Degree and Chern Numbers for Polarized Calabi-Yau Threefolds",
+    "tldr": "We establish a new quadratic inequality between the degree and Chern numbers of a very ample polarized Calabi-Yau threefold by analyzing mixed intersections on the projectivized dual of its first jet bundle. This result refines the numerical geography of such varieties and connects tangent geometry with projective duality.",
+    "significance": "This inequality provides a sharper constraint on the geometry of Calabi-Yau threefolds, informing both theoretical classification and potential applications in string theory.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "dd88815e0c002a35e14dbd2fb460f20c",
     "source": "web",
     "url": "https://escholarship.org/uc/item/2nh2w5c8",
@@ -1025,337 +1345,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "932c61ff61219f682a167cf144505b29",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05397v1",
-    "arxiv_id": "2609.05397v1",
-    "title": "CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation",
-    "authors": [
-      "Samer Abualhanud",
-      "Max Mehltretter"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Geometry-Constrained Attention Enhances Multi-View Surround Depth Estimation",
-    "tldr": "CrossDepth introduces a geometry-constrained attention mechanism that leverages sparse inter-view correspondences to improve depth estimation across surround camera rigs. The method achieves state-of-the-art performance on benchmark datasets while remaining computationally efficient for real‑time deployment.",
-    "significance": "It enables more accurate and generalizable depth maps for autonomous driving with minimal computational overhead.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "17b625d0078e48d8fb0d64d7496cca79",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05396v1",
-    "arxiv_id": "2609.05396v1",
-    "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
-    "authors": [
-      "Yuxiao Li",
-      "Keke Hu",
-      "Santiago Mazuelas"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Generative Model for Synthesizing Labeled Wireless Signals Using Diffusion Techniques",
-    "tldr": "We propose a diffusion-based generative model that produces realistic wireless signals paired with accurate position labels, reducing the need for costly real-world data collection. The model outperforms traditional simulation-based approaches in both fidelity and labeling accuracy.",
-    "significance": "This approach enables scalable, cost-effective training of wireless sensing models, accelerating research and deployment in real-world scenarios.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a1efe3db3d4aed750544649e8320e959",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05393v1",
-    "arxiv_id": "2609.05393v1",
-    "title": "Ion abundances in the plasma tail of 3I/ATLAS show that it is N2-rich",
-    "authors": [
-      "Lea Ferellec",
-      "Cyrielle Opitom",
-      "Colin Snodgrass"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "3I/ATLAS plasma tail rich in nitrogen, revealing interstellar comet composition",
-    "tldr": "Spectroscopic analysis of 3I/ATLAS's plasma tail shows high N2 ion abundances, indicating a nitrogen-rich composition. This finding provides insight into the volatile inventory of interstellar comets and their formation environments.",
-    "significance": "It demonstrates that interstellar comets can retain primordial nitrogen, offering clues about the chemistry of their parent systems.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "38be2d3d0985794c56451a4110ef4da2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05390v1",
-    "arxiv_id": "2609.05390v1",
-    "title": "Energy-Efficient Waveform Design for ISAC Systems: An Ambiguity-Domain QoS Perspective",
-    "authors": [
-      "Ngoc-Son Duong",
-      "Trung-Hieu Nguyen",
-      "Quang-Truong Can"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Optimizing Energy‑Efficient ISAC Waveforms via Ambiguity‑Domain QoS Metrics for Future 6G Networks",
-    "tldr": "This study introduces a novel ambiguity‑domain QoS metric to jointly optimize communication quality and sensing performance while minimizing transmit power in ISAC systems. The proposed discrete‑time waveform design demonstrates significant power savings and improved sensing accuracy compared to conventional approaches.",
-    "significance": "It offers a practical framework for designing low‑power ISAC waveforms that meet both communication and sensing requirements, paving the way for energy‑efficient 6G deployments.",
-    "tags": [
-      "remote-sensing",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "acc0f744b38868d42ce12b1f9dee8ca6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05388v1",
-    "arxiv_id": "2609.05388v1",
-    "title": "Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks",
-    "authors": [
-      "Homayoun Afshari",
-      "Pietro Basci",
-      "Alessandro Russo"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Neuro‑Symbolic Visual Reasoning: Combining Vision‑Language Models with Dynamic Logic Tensor Networks",
-    "tldr": "The paper introduces a Neuro‑Symbolic framework that integrates Vision‑Language Models to automatically induce first‑order logic rules and Dynamic Logic Tensor Networks to enforce these constraints during visual reasoning. This hybrid approach achieves state‑of‑the‑art performance on visual reasoning benchmarks while offering interpretability and formal guarantees.",
-    "significance": "It bridges neural perception and symbolic reasoning, enabling interpretable and formally grounded visual understanding.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b9bfdb676af4e4bdb6fecd230a40e56c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05386v1",
-    "arxiv_id": "2609.05386v1",
-    "title": "The coordinate ring of the k-fold iterated commutator locus for 2x2 matrices",
-    "authors": [
-      "Jan Snellman"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Coordinate Ring of k-Fold Iterated Commutator Locus for 2×2 Matrices",
-    "tldr": "We determine the defining ideal of the variety of iterated commutators of k 2×2 matrices over any field of characteristic not equal to two. The proof yields four independent results, each established separately.",
-    "significance": "This provides a complete algebraic description of a fundamental noncommutative locus, with implications for invariant theory and representation theory.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "bb4da107f57050004db2057b66f723d9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05385v1",
-    "arxiv_id": "2609.05385v1",
-    "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
-    "authors": [
-      "Urja Pawar",
-      "Rajitha Ramanayake",
-      "Nabeel Kemal"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Assessing LLM Explanations: Are They Truly Aligned With Behaviour in Decision-Making?",
-    "tldr": "This study tests whether LLM-generated explanations reflect actual decision behaviour by comparing them to observable outputs. The results show that explanations can be necessary but not always sufficient, highlighting the need for behavioural validation.",
-    "significance": "Validating LLM explanations against behaviour is crucial for trustworthy AI systems that rely on interpretability for monitoring and error diagnosis.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1e67b62e7e26c60f91cfd1397e1d61cc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05382v1",
-    "arxiv_id": "2609.05382v1",
-    "title": "Reflection-aware Generative Novel View Synthesis",
-    "authors": [
-      "GeonU Kim",
-      "Shin Dong-Yeon",
-      "Tae-Hyun Oh"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Reflection-Aware Diffusion for Mirror Scene Novel View Synthesis",
-    "tldr": "We introduce Ref-GeNVS, a training-free diffusion approach that treats mirror images as complementary views. This allows accurate novel view synthesis in mirror scenes without additional training.",
-    "significance": "It resolves a key limitation of multi-view diffusion models by leveraging reflected content for realistic scene generation.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7b1ee3104693626e566360055c938d04",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05381v1",
-    "arxiv_id": "2609.05381v1",
-    "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
-    "authors": [
-      "Matthias Busch",
-      "Marius Tacke",
-      "Sviatlana V. Lamaka"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Molecular Déjà Vu: LLMs Often Retrieve Published Values Instead of Predicting Chemistry",
-    "tldr": "Researchers audited 22 frontier language models across 12 molecular property benchmarks and found widespread verbatim retrieval of published values. The phenomenon varies by dataset, with over half of models retrieving exact numbers on five datasets, raising concerns about evaluation reliability.",
-    "significance": "The study highlights that current benchmark scores may overestimate true predictive capabilities of LLMs in chemistry.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5a4f95b4443e1a43838d0d9dadfed2a7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05380v1",
-    "arxiv_id": "2609.05380v1",
-    "title": "Propagation Model for SSC attacks: Why SBOM (tools) don't tell the whole truth",
-    "authors": [
-      "Ljubica Grgic",
-      "Lazar Maksimovic",
-      "Pavel Laskov"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "SBOM Tools Fall Short: Uncovering Hidden Vulnerabilities in Software Supply Chains",
-    "tldr": "SBOM tools provide visibility into software components but lack depth in detecting exploitability. Without robust vulnerability interpretation, supply chain risks remain hidden.",
-    "significance": "Understanding SBOM limitations is critical for protecting organizations against sophisticated supply chain attacks.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a8b64da3f0d38d85a28701b0705350fc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05416v1",
-    "arxiv_id": "2609.05416v1",
-    "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
-    "authors": [
-      "Muyao Niu",
-      "Jixuan He",
-      "Ruihan Yu"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "WorldSculpt: Generating Detailed 3D Object Meshes from Grounded Video Scenes",
-    "tldr": "WorldSculpt learns to decompose cluttered video scenes into individual 3D meshes, enabling realistic scene reconstruction. The method handles hundreds of objects, paving the way for gaming, AR/VR, and robotics applications.",
-    "significance": "It provides a scalable solution for building compositional 3D worlds from everyday video footage.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "19109b85d19cac3684a191f62100e42f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05415v1",
-    "arxiv_id": "2609.05415v1",
-    "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-    "authors": [
-      "Linzhan Mou",
-      "Jiahui Lei",
-      "Zhiyang Dou"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "UniMate: Unified Foundation Model for Real-Time Animation of Diverse Skeletons",
-    "tldr": "UniMate eliminates topology constraints by generating articulated motion for any skeleton type without per-skeleton fine-tuning. It enables scalable, animation-ready 3D assets across varied categories in real time.",
-    "significance": "It transforms how diverse 3D characters are animated, removing the need for template-based rigs and accelerating content creation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "437da557ced714a663967fe962f5f9b2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05412v1",
-    "arxiv_id": "2609.05412v1",
-    "title": "Tracing the Cosmic Origins: Machine Learning Reconstruction of the Primordial Density Field from EoR Observations",
-    "authors": [
-      "Anchal Saxena",
-      "P. Daniel Meerburg",
-      "Guochao Sun"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "Reconstructing the Universe's Initial Conditions with 3D U-Net from EoR Intensity Maps",
-    "tldr": "Using simulated 21‑cm and CO(1‑0) line‑intensity maps at z≈8, we train a 3‑D U‑Net to recover the primordial density field at z≈300. This demonstrates the feasibility of machine‑learning reconstruction of the Universe’s initial conditions from late‑time observations.",
-    "significance": "Accurately retrieving the primordial density field unlocks cosmological information erased by nonlinear evolution, enabling tighter constraints on fundamental physics.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "spatial-reasoning"
-    ],
-    "readtime": 4,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3e9d7756d64fab2536700e1de7b1c7ee",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05410v1",
-    "arxiv_id": "2609.05410v1",
-    "title": "Early against Late: A contrast on dark energy in the light of DESI DR2",
-    "authors": [
-      "Miguel A. Zapata",
-      "Karim Carrion",
-      "Gabriela Garcia-Arroyo"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-07",
-    "headline": "DESI DR2 Uncovers Early–Late Tension in Dark Energy Models Analysis",
-    "tldr": "Recent DESI DR2 BAO measurements, combined with supernovae and CMB data, show parameter-level deviations from ΛCDM. Bayesian evidence highlights a stark early‑late time dichotomy, suggesting new physics may be required.",
-    "significance": "These findings challenge the standard cosmological model and point to possible new physics in the dark energy sector.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
