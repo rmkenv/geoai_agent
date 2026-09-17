@@ -1,5 +1,46 @@
 [
   {
+    "uid": "62f022639b33019f7564b1518f920235",
+    "source": "web",
+    "url": "https://openremotesensing.net/",
+    "arxiv_id": "",
+    "title": "Open Remote Sensing - Open Remote Sensing is a website aiming at the ...",
+    "authors": [],
+    "published": "2026-09-17",
+    "curated_at": "2026-09-17",
+    "headline": "Open Remote Sensing: A Hub for Hyperspectral Fusion, Deep Learning, and Cross-City Benchmarks",
+    "tldr": "Open Remote Sensing aggregates cutting‑edge research on hyperspectral pansharpening, deep‑learning image fusion, and a multimodal cross‑city benchmark for semantic segmentation. It serves as an open‑source platform for researchers to access datasets, tools, and protocols.",
+    "significance": "By consolidating state‑of‑the‑art methods and datasets, the platform accelerates reproducible research and practical deployment in urban and environmental monitoring.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "benchmark",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "47a9a41832d1ffd0ac4d5ddeb6229b55",
+    "source": "web",
+    "url": "https://pypi.org/project/geoai-py/",
+    "arxiv_id": "",
+    "title": "geoai-py · PyPI",
+    "authors": [],
+    "published": "2026-09-17",
+    "curated_at": "2026-09-17",
+    "headline": "GeoAI: A Python Toolkit Bridging AI and Geospatial Data Analysis",
+    "tldr": "GeoAI is a Python package that integrates AI and geospatial data analysis, offering intuitive tools for machine learning on geographic data. It supports a wide range of geospatial tasks, making advanced analytics accessible to researchers and practitioners.",
+    "significance": "GeoAI democratizes advanced geospatial AI techniques, enabling rapid development of location-based insights across diverse domains.",
+    "tags": [
+      "open-source",
+      "remote-sensing",
+      "satellite-imagery"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "ab3fb4b8a201347d0fd666da0435023f",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.17531v1",
@@ -1296,54 +1337,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "fd5493fd4ee29a002a6d31db6cec68ab",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09144v1",
-    "arxiv_id": "2609.09144v1",
-    "title": "Baryonification IV: Constraining baryonic feedback with X-ray gas fractions",
-    "authors": [
-      "Jozef Bucko",
-      "Andrina Nicola",
-      "Aurel Schneider"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Constraining Baryonic Feedback with X-ray Gas Fractions: A Forward-Modelling Approach",
-    "tldr": "We develop a forward-modelling framework linking 3D gas density and temperature to observable X-ray properties, enabling constraints on baryonic feedback. Applying this to X-ray gas fractions, we show how feedback suppresses the matter power spectrum at weak-lensing scales.",
-    "significance": "This work provides a critical bridge between X-ray observations and cosmological weak-lensing analyses, improving our understanding of baryonic effects on large-scale structure.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b4d314ab09b5f4607d37fd3365d5de99",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.05413v1",
-    "arxiv_id": "2609.05413v1",
-    "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert",
-    "authors": [
-      "A. Castro-González",
-      "O. Barragán",
-      "D. J. Armstrong"
-    ],
-    "published": "2026-09-04",
-    "curated_at": "2026-09-08",
-    "headline": "Two Highly Irradiated Sub-Neptunes Near the Neptunian Desert Edge",
-    "tldr": "Using TESS data and 147 HARPS radial velocities, we confirm TOI-426 b and TOI-1839 b as volatile-rich sub-Neptunes orbiting solar-type stars. Advanced Gaussian process modeling of stellar activity allowed precise orbital and physical characterization.",
-    "significance": "These planets provide key insights into atmospheric retention and migration processes at the lower boundary of the Neptunian desert.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
