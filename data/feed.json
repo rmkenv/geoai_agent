@@ -1,5 +1,46 @@
 [
   {
+    "uid": "edd7f39b69b1ee3dd2e00f383d1c9861",
+    "source": "web",
+    "url": "https://book.opengeoai.org/",
+    "arxiv_id": "",
+    "title": "GeoAI with Python",
+    "authors": [],
+    "published": "2026-09-18",
+    "curated_at": "2026-09-18",
+    "headline": "Open-Source GeoAI: Dr. Wu Bridges Remote Sensing, AI, and Earth Observation",
+    "tldr": "Dr. Wu's open-source GeoAI projects on GitHub are widely adopted by researchers, educators, and practitioners worldwide. They integrate remote sensing, Earth observation, and AI to make large-scale geospatial data more accessible, reproducible, and intelligent.",
+    "significance": "By combining remote sensing, AI, and open-source tools, Dr. Wu democratizes access to large-scale geospatial data, fostering innovation across research, education, and industry.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "satellite-imagery",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7552b12f31b674cbeff5b9e5449247e6",
+    "source": "web",
+    "url": "https://gebeta.net/free-gis-remote-sensing-toolkit/",
+    "arxiv_id": "",
+    "title": "Free GIS & Remote‑Sensing Toolkit | Gebeta Media",
+    "authors": [],
+    "published": "2026-09-18",
+    "curated_at": "2026-09-18",
+    "headline": "Explore Free GIS & Remote‑Sensing Tools: Desktop, Cloud, Data, and ML Libraries",
+    "tldr": "This guide lists top free and open‑source GIS and remote‑sensing software, cloud services, and data sources. It also highlights machine‑learning libraries for image analysis and spatial modeling.",
+    "significance": "Providing a consolidated resource empowers researchers and practitioners to access powerful tools without cost barriers.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "satellite-imagery"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "62f022639b33019f7564b1518f920235",
     "source": "web",
     "url": "https://openremotesensing.net/",
@@ -1289,51 +1330,6 @@
       "open-source",
       "benchmark",
       "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0b2b3078faf54fea8952f82d79bb6e32",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09146v1",
-    "arxiv_id": "2609.09146v1",
-    "title": "The exact asymptotic constant in the metric dimension of Jaccard space",
-    "authors": [
-      "Bjørn Kjos-Hanssen"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Exact Asymptotic Constant for Metric Dimension of Jaccard Space",
-    "tldr": "We determine the precise constant in the Θ(n/ln n) bound for the metric dimension of the power set under Jaccard distance. This resolves the open question posed by Lladser and Paradise.",
-    "significance": "This result provides a complete characterization of the metric dimension in Jaccard space, a fundamental structure in similarity search and combinatorial geometry.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "87eb42de284c57009a9352b8315d7481",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09145v1",
-    "arxiv_id": "2609.09145v1",
-    "title": "Point4D: Long-range 4D Motion Reconstruction",
-    "authors": [
-      "Minsik Jeon",
-      "Jay Karhade",
-      "Deva Ramanan"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Point4D: Long-range 4D Motion Reconstruction for Dense 3D Trajectories across Hundreds of Frames",
-    "tldr": "Point4D introduces a feed-forward model that reconstructs 4D motion over long video sequences, inferring dense per-point 3D trajectories across hundreds of frames. Its flexible 3D query-based motion decoder decouples trajectory estimation, enabling reliable reconstruction beyond the short windows of existing methods.",
-    "significance": "This enables scalable, high-fidelity 4D motion analysis for applications like autonomous driving, robotics, and virtual reality.",
-    "tags": [
-      "time-series",
-      "point-cloud",
-      "segmentation"
     ],
     "readtime": 2,
     "difficulty": "advanced"
