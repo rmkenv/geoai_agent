@@ -1,5 +1,47 @@
 [
   {
+    "uid": "779e0a05d5e0e30b6641ab27ced03d9b",
+    "source": "web",
+    "url": "https://events.ornl.gov/acmsigspatial-geoai2025/",
+    "arxiv_id": "",
+    "title": "ACMSIGSPATIAL-GEOAI 2025 - Conference Tagline",
+    "authors": [],
+    "published": "2026-09-19",
+    "curated_at": "2026-09-19",
+    "headline": "AI Accelerators Transform Geospatial Science: Deep Learning Drives Multimodal Data Insights",
+    "tldr": "Artificial intelligence and hardware accelerators are reshaping geospatial sciences, enabling automated learning from vast multimodal datasets. These breakthroughs promise transformative solutions to societal challenges.",
+    "significance": "This convergence accelerates the development of real‑time, high‑resolution geospatial analytics that can inform policy, disaster response, and sustainable development.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "satellite-imagery",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "762c83592693d584bfc0fba64f7899ac",
+    "source": "web",
+    "url": "https://github.com/mbzuai-oryx/ThinkGeo",
+    "arxiv_id": "",
+    "title": "GitHub - mbzuai-oryx/ThinkGeo: [CVPR 2026 ] ThinkGeo is a ...",
+    "authors": [],
+    "published": "2026-09-19",
+    "curated_at": "2026-09-19",
+    "headline": "ThinkGeo: A CVPR 2026 Benchmark for LLMs on Remote Sensing Tasks",
+    "tldr": "ThinkGeo provides a suite of human‑curated satellite queries that test language models' ability to reason step‑by‑step and use tools for complex remote‑sensing challenges. The benchmark covers disaster response, urban planning, and environmental monitoring, offering a structured evaluation framework for LLMs in geospatial AI.",
+    "significance": "It bridges natural language processing and geospatial analysis, enabling systematic assessment of LLMs on real‑world satellite imagery tasks.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "edd7f39b69b1ee3dd2e00f383d1c9861",
     "source": "web",
     "url": "https://book.opengeoai.org/",
@@ -1284,54 +1326,6 @@
       "open-source"
     ],
     "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "fbc32d202d96c3b9ba1d14d6840fc6fa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09148v1",
-    "arxiv_id": "2609.09148v1",
-    "title": "Proxy Policy Steering",
-    "authors": [
-      "Chuanruo Ning",
-      "Tianrui Wang",
-      "Wei-Chiu Ma"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Proxy Policy Steering: Rapid Task-Specific Adaptation for Generalist Robot Policies",
-    "tldr": "Proxy Policy Steering (PPS) enables inference-time adaptation of broad robot policies to new tasks using only a few demonstrations, preserving their general capabilities. By training two lightweight models, PPS efficiently tailors behavior without costly retraining.",
-    "significance": "PPS bridges the deployment gap between large-scale robot learning and real-world task specificity, accelerating practical use of generalist policies.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "52577fa1e050fd8483723e315eddb721",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09147v1",
-    "arxiv_id": "2609.09147v1",
-    "title": "Green's Functions from Sample-based Krylov Quantum Diagonalization: An Impurity Solver for Dynamical Mean-Field Theory",
-    "authors": [
-      "Jay Patel",
-      "Chakradhar Rangi",
-      "Ka-Ming Tam"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Efficient Green's Function Computation via Sample-Based Krylov Diagonalization for DMFT",
-    "tldr": "We extend sample-based Krylov quantum diagonalization to calculate single-particle Green's functions by sampling unitary Krylov subspaces in N±1 particle sectors. The resulting Lanczos continued fraction provides an efficient impurity solver for dynamical mean-field theory.",
-    "significance": "This approach offers a scalable, classical-overlap-based impurity solver that can accelerate DMFT simulations for strongly correlated materials.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
     "difficulty": "advanced"
   }
 ]
