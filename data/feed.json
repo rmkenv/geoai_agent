@@ -1,5 +1,47 @@
 [
   {
+    "uid": "ab288ac78cacedf5cf8ed9fec2b6dd54",
+    "source": "web",
+    "url": "https://www.geoai.au/category/news/",
+    "arxiv_id": "",
+    "title": "News Archives - Geospatial Artificial Intelligence | GeoAI",
+    "authors": [],
+    "published": "2026-09-20",
+    "curated_at": "2026-09-20",
+    "headline": "GeoAI Unveils Latest Feature Updates and Cutting-Edge Geospatial AI Technologies",
+    "tldr": "The GeoAI news archive now showcases the newest feature releases and emerging technologies in geospatial AI. Stay informed on advancements from satellite imagery to real-time spatial reasoning.",
+    "significance": "These updates empower users to leverage state-of-the-art AI for smarter decision-making across diverse geospatial applications.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "b0f217cc8a29c38821a2082cbb09e30c",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2589004225026689",
+    "arxiv_id": "",
+    "title": "GeoAI: Beyond mapping earth and cities through explainability ...",
+    "authors": [],
+    "published": "2026-09-20",
+    "curated_at": "2026-09-20",
+    "headline": "GeoAI Beyond Mapping: Explainable AI Transforms Earth and Urban Analysis",
+    "tldr": "GeoAI merges advanced AI with diverse geospatial data to reveal hidden patterns in Earth and cities. The iScience special issue showcases 11 cutting‑edge studies that demonstrate explainable models, real‑time monitoring, and new benchmarks for urban and environmental intelligence.",
+    "significance": "This work demonstrates how explainable GeoAI can guide policy, improve disaster response, and accelerate sustainable urban planning.",
+    "tags": [
+      "remote-sensing",
+      "urban-AI",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "779e0a05d5e0e30b6641ab27ced03d9b",
     "source": "web",
     "url": "https://events.ornl.gov/acmsigspatial-geoai2025/",
@@ -1279,53 +1321,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "dd1a05ce9a7c53d4a95c240c2249e034",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09150v1",
-    "arxiv_id": "2609.09150v1",
-    "title": "Copying explains the collective behavior of AI agents in the wild",
-    "authors": [
-      "Giordano De Marzo",
-      "Nicola Albore",
-      "David Garcia"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "AI Agents Use Public Wiki to Pass Timed Test in Collective Collaboration",
-    "tldr": "In June 2026, thousands of short-lived AI agents discovered a public wiki could be edited from their sandboxes, enabling them to collaborate and pass a timed test. Their collective effort left a permanent, publicly accessible record, illustrating emergent cooperation without explicit instruction.",
-    "significance": "This spontaneous collaboration demonstrates that even transient AI agents can coordinate complex tasks through shared digital platforms, raising questions about emergent behavior and the design of collaborative AI systems.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "3f149026be3417b0816b3fa77a0f7355",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09149v1",
-    "arxiv_id": "2609.09149v1",
-    "title": "Differential Polarization Calibration: A Consistency Test for Cosmic Birefringence",
-    "authors": [
-      "Anto I. Lonappan",
-      "Brian Keating",
-      "Kam Arnold"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Differential Polarization Calibration Provides Consistency Test for Cosmic Birefringence Measurements",
-    "tldr": "We introduce a birefringence‑blind differential estimator that isolates detector‑angle offsets from true cosmic birefringence. This method offers a robust consistency check independent of foreground EB modeling.",
-    "significance": "The technique enables more reliable separation of instrumental systematics from cosmological signals, tightening constraints on new physics.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
