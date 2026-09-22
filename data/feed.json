@@ -1,5 +1,46 @@
 [
   {
+    "uid": "f2ee7fbdaf560a1debf0cc4728aff3ed",
+    "source": "web",
+    "url": "https://www.isprs.org/",
+    "arxiv_id": "",
+    "title": "International Society for Photogrammetry and Remote Sensing",
+    "authors": [],
+    "published": "2026-09-22",
+    "curated_at": "2026-09-22",
+    "headline": "International Society for Photogrammetry and Remote Sensing: Advancing Global Collaboration in Mapping Technologies",
+    "tldr": "The International Society for Photogrammetry and Remote Sensing (ISPRS) is a non‑governmental organization that fosters international cooperation to advance photogrammetry and remote sensing technologies. It supports research, education, and the application of these methods worldwide.",
+    "significance": "ISPRS plays a pivotal role in setting standards and promoting best practices that underpin modern geospatial analysis.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "e4a462a5e5fd0e53d897c4ac09d719dc",
+    "source": "web",
+    "url": "https://opengeoai.org/workshops/GeoAI_Workshop_2025/",
+    "arxiv_id": "",
+    "title": "Object Detection from Remote Sensing Imagery with GeoAI",
+    "authors": [],
+    "published": "2026-09-22",
+    "curated_at": "2026-09-22",
+    "headline": "GeoAI Object Detection in Remote Sensing: From Installation to Model Training",
+    "tldr": "This notebook walks through installing GeoAI, downloading satellite imagery, visualizing data, and training an object detection model. It demonstrates end-to-end workflow for detecting objects in remote sensing images.",
+    "significance": "It empowers users to quickly apply state‑of‑the‑art object detection to satellite imagery, accelerating geospatial analysis.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "object-detection",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "ab288ac78cacedf5cf8ed9fec2b6dd54",
     "source": "web",
     "url": "https://www.geoai.au/category/news/",
@@ -1273,53 +1314,6 @@
       "open-source"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "15700cfff93827070e24265e4834581e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09153v1",
-    "arxiv_id": "2609.09153v1",
-    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-    "authors": [
-      "Yuxing Lu",
-      "Yicheng Chen",
-      "Shanchan Wu"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Self‑Evolving Execution Graphs to Optimize Long‑Horizon Tool Use in LLM Agents",
-    "tldr": "LLM agents often generate actions unconstrained, leading to loss of objective tracking as plans lengthen. The paper proposes procedural graphs that self‑evolve to maintain coherent execution structures, improving tool selection and order.",
-    "significance": "This approach offers a scalable framework for keeping LLM agents focused and efficient over extended planning horizons.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "612348357a01224f1b019e002322e43f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09151v1",
-    "arxiv_id": "2609.09151v1",
-    "title": "Sizing the Universe with DESI Galaxy Sizes: Plain Fundamentals of Fundamental-Plane Lensing",
-    "authors": [
-      "Kun Xu",
-      "Jiaqi Wang",
-      "Ravi K. Sheth"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Spectroscopic Lensing Magnification via Fundamental Plane: A New Probe of Cosmic Structure",
-    "tldr": "We present the first spectroscopic galaxy-galaxy lensing magnification measurement using the Fundamental Plane, bypassing shape systematics. This method offers a cleaner probe of mass distribution and can complement traditional shear analyses.",
-    "significance": "This technique provides a novel, shape-independent way to map dark matter, enhancing precision cosmology.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
