@@ -1,5 +1,26 @@
 [
   {
+    "uid": "b3aa8a8a8cead5d3235b9715528479d9",
+    "source": "web",
+    "url": "https://github.com/wenhwu/awesome-remote-sensing-change-detection",
+    "arxiv_id": "",
+    "title": "Awesome Remote Sensing Change Detection - GitHub",
+    "authors": [],
+    "published": "2026-09-23",
+    "curated_at": "2026-09-23",
+    "headline": "Comprehensive Remote Sensing Change Detection Resource: Datasets, Tools, Methods, and Competitions",
+    "tldr": "This GitHub repository curates the latest datasets, tools, methods, review papers, and competitions for remote sensing change detection. It serves as a go-to reference for researchers and practitioners to stay updated and benchmark their solutions.",
+    "significance": "It accelerates research and application by centralizing essential resources for detecting changes in satellite imagery.",
+    "tags": [
+      "remote-sensing",
+      "change-detection",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "f2ee7fbdaf560a1debf0cc4728aff3ed",
     "source": "web",
     "url": "https://www.isprs.org/",
@@ -1287,31 +1308,6 @@
       "foundation-models",
       "LLM",
       "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f8bed6dc6c2cf61c2f895a1655c33955",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09155v1",
-    "arxiv_id": "2609.09155v1",
-    "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
-    "authors": [
-      "Yuncong Yang",
-      "Zhengtao Han",
-      "Furkan Ozyurt"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "SyncWorld: Visual Calibration Turns World Models into Zero-Shot Simulators for Robotics",
-    "tldr": "SyncWorld introduces a visual calibration technique that aligns pixel-level actions across varying camera views and robot embodiments, enabling world models to generate accurate rollouts without retraining. This zero-shot simulation capability dramatically reduces the data and compute needed for deploying policy-in-the-loop robotics.",
-    "significance": "By eliminating the need for action re‑parameterization, SyncWorld unlocks scalable, transferable world models that can be deployed across diverse robotic platforms with minimal effort.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "real-time",
-      "open-source"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
