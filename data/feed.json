@@ -1,5 +1,25 @@
 [
   {
+    "uid": "3d9596306ba64cf3a699aa93a3d50bbb",
+    "source": "web",
+    "url": "https://www.esri.com/about/newsroom/announcements/esri-releases-new-book-demonstrating-how-geoai-powers-greater-automation-prediction-and-optimization",
+    "arxiv_id": "",
+    "title": "Esri Releases New Book Demonstrating How GeoAI Powers Greater ...",
+    "authors": [],
+    "published": "2026-09-24",
+    "curated_at": "2026-09-24",
+    "headline": "Esri Publishes GeoAI Book Showcasing Real-World GIS AI Applications Across Industries",
+    "tldr": "Esri has released \"GeoAI: Artificial Intelligence in GIS\", a collection of real-life case studies illustrating how AI enhances geospatial analysis. The book covers applications from public to private sectors, demonstrating practical solutions to complex challenges.",
+    "significance": "This publication highlights the growing role of AI in GIS, offering actionable insights for professionals seeking to leverage geospatial intelligence.",
+    "tags": [
+      "remote-sensing",
+      "urban-AI",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
     "uid": "b3aa8a8a8cead5d3235b9715528479d9",
     "source": "web",
     "url": "https://github.com/wenhwu/awesome-remote-sensing-change-detection",
@@ -1284,30 +1304,6 @@
       "LLM",
       "time-series",
       "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "be1bbea51eeee90b33698f2b5dbdc73f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09156v1",
-    "arxiv_id": "2609.09156v1",
-    "title": "ReCite: Agentic Reasoning for Faithful Citation",
-    "authors": [
-      "Yuyang Huang",
-      "Bobo Li",
-      "Jiajia Song"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "ReCite: Agentic Reasoning Enhances Faithful Citation in Academic Writing and Retrieval Augmentation",
-    "tldr": "ReCite introduces an agentic reasoning framework that ensures citations are accurate and traceable, reducing the risk of fabricated references. By integrating retrieval-augmented language models, the system automatically recommends relevant literature while maintaining fidelity to original sources.",
-    "significance": "This work addresses the growing challenge of citation fabrication in large language models, improving scholarly integrity.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
