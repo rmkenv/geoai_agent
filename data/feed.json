@@ -1,5 +1,25 @@
 [
   {
+    "uid": "5ab5eede356b856d4b1bed7552008f21",
+    "source": "web",
+    "url": "https://github.com/ua-datalab/geospatial_2025",
+    "arxiv_id": "",
+    "title": "GitHub - ua-datalab/geospatial_2025",
+    "authors": [],
+    "published": "2026-09-25",
+    "curated_at": "2026-09-25",
+    "headline": "AI Models Transform GIS: From Advice to Autonomous Spatial Analysis Agents",
+    "tldr": "AI systems are evolving from providing guidance to executing GIS commands autonomously, reshaping how spatial data is analyzed. This shift promises faster, more accurate geospatial insights across remote sensing and GIS workflows.",
+    "significance": "This evolution enables real-time, code-free geospatial analysis, accelerating decision-making in fields like urban planning and environmental monitoring.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "remote-sensing"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "3d9596306ba64cf3a699aa93a3d50bbb",
     "source": "web",
     "url": "https://www.esri.com/about/newsroom/announcements/esri-releases-new-book-demonstrating-how-geoai-powers-greater-automation-prediction-and-optimization",
@@ -1285,27 +1305,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "c5e8a65ccbeca083590320348c4cc7d5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09157v1",
-    "arxiv_id": "2609.09157v1",
-    "title": "Learning Length-Extrapolatable Recurrent Models",
-    "authors": [
-      "Hanwen Jiang"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "Recurrent Models that Learn to Generalize Beyond Their Training Horizon",
-    "tldr": "Researchers show that dense per-token losses enable recurrent networks to learn shared rules that extrapolate beyond the sequence lengths seen during training, despite severe gradient decay. This challenges the conventional belief that vanishing gradients alone limit long‑context performance.",
-    "significance": "It demonstrates that recurrent architectures can achieve long‑context modeling without relying on specialized gating or memory mechanisms, opening new avenues for efficient sequence modeling.",
-    "tags": [
-      "LLM",
-      "time-series",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
