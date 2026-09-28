@@ -1,5 +1,67 @@
 [
   {
+    "uid": "31f297f88fe4500e8d54ba8b8b3549ff",
+    "source": "web",
+    "url": "https://spatialists.ch/posts/2025/03/25-geoai-state-of-play-in-2025/",
+    "arxiv_id": "",
+    "title": "GeoAI: State-of-play in 2025 - Spatialists - geospatial news",
+    "authors": [],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-28",
+    "headline": "Swiss GeoAI Landscape: Key Players, Innovations, and Three Core GIS Applications in 2025",
+    "tldr": "The Innovation Booster AI review maps the Swiss GeoAI ecosystem, spotlighting major providers and startups. It outlines three primary AI use cases in GIS, from remote sensing to urban planning and real-time analytics.",
+    "significance": "This report underscores Switzerland’s leadership in integrating AI into GIS, guiding stakeholders on emerging opportunities and best practices.",
+    "tags": [
+      "remote-sensing",
+      "urban-AI",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "98447cf0c583b80d7cbe074f9be4cc8a",
+    "source": "web",
+    "url": "https://blogs.lib.purdue.edu/news/2025/11/11/highlights-from-purdue-gis-day-2025-unlocking-geoai-data-and-tools/",
+    "arxiv_id": "",
+    "title": "Highlights from Purdue GIS Day 2025: Unlocking GeoAI Data and Tools",
+    "authors": [],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-28",
+    "headline": "Purdue GIS Day 2025 Highlights GeoAI Innovations and Industry Collaboration",
+    "tldr": "The event drew over 200 participants for talks, posters, and networking, showcasing the latest GeoAI tools. Key sessions covered foundation models, remote sensing, and open-source solutions.",
+    "significance": "It underscored Purdue's leadership in integrating AI with geospatial science, fostering cross-disciplinary partnerships.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "open-source",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e64deb34cb5a434ed49bc87e38ef283e",
+    "source": "web",
+    "url": "https://github.com/google-research/remote-sensing",
+    "arxiv_id": "",
+    "title": "️ Earth AI Remote Sensing Models - GitHub",
+    "authors": [],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-28",
+    "headline": "Earth AI Remote Sensing Models: Open-Source Satellite Image Analysis Toolkit",
+    "tldr": "Earth AI offers a suite of open-source models for analyzing satellite imagery, covering tasks like segmentation, object detection, and change detection. The repository provides pretrained weights, documentation, and benchmarks for researchers and developers.",
+    "significance": "It democratizes advanced remote sensing capabilities, enabling rapid deployment of AI solutions for environmental monitoring and urban planning.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "5ab5eede356b856d4b1bed7552008f21",
     "source": "web",
     "url": "https://github.com/ua-datalab/geospatial_2025",
@@ -1239,71 +1301,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
-    "source": "web",
-    "url": "https://opengeoai.org/",
-    "arxiv_id": "",
-    "title": "Home - GeoAI",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "GeoAI: Bridging AI and Geospatial Analysis with an Open-Source Python Package",
-    "tldr": "GeoAI is a Python library that integrates AI techniques into geospatial data workflows, enabling tasks like segmentation and object detection on satellite imagery. It offers intuitive APIs for visualization and analysis, making advanced geospatial AI accessible to researchers and practitioners.",
-    "significance": "By simplifying AI integration, GeoAI accelerates insights from satellite and remote-sensing data, fostering rapid development of geospatial applications.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "Raster Vision: Open-Source Deep Learning Library Bridging GIS and Computer Vision",
-    "tldr": "Raster Vision offers a configurable pipeline for tasks like chip classification, semantic segmentation, and object detection on satellite imagery. It unifies GIS data handling with deep learning models, simplifying deployment and experimentation.",
-    "significance": "It democratizes advanced remote sensing analytics by providing an open-source, modular framework that integrates GIS workflows with state‑of‑the‑art computer vision.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "6a5aae08e275ea44e8f1529c4944341b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.09158v1",
-    "arxiv_id": "2609.09158v1",
-    "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
-    "authors": [
-      "Anqi Li",
-      "Yuxin Chen",
-      "Zhaobo Li"
-    ],
-    "published": "2026-09-08",
-    "curated_at": "2026-09-09",
-    "headline": "TANGO: Vision-Language Model Enables Humanoid Robots to Navigate Cluttered Indoor Spaces",
-    "tldr": "TANGO integrates vision, language, and whole-body control to guide humanoid robots through complex indoor environments. It learns coordinated arm, torso, and gait adjustments for collision-free navigation in 3D clutter.",
-    "significance": "This approach advances autonomous humanoid navigation by combining perception, language grounding, and dynamic motion planning, enabling robots to operate safely in real-world indoor settings.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
