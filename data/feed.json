@@ -1,5 +1,338 @@
 [
   {
+    "uid": "1d81954fd9b44e119f7cc10885778e33",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35771v1",
+    "arxiv_id": "2609.35771v1",
+    "title": "From Density to Mass: A New Parametrized Framework for Dark Matter Environment Around Black Holes",
+    "authors": [
+      "Rajes Ghosh",
+      "Nicholas Speeney",
+      "Avijit Chowdhury"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Parametrized Dark Matter Halo Models Reveal New Black Hole Gravitational Wave Signatures",
+    "tldr": "We introduce a parametrized framework linking dark matter density profiles to black hole mass distributions, enabling predictions of modified quasinormal modes and tidal Love numbers. This approach offers a new tool for interpreting gravitational-wave observations and probing dark matter environments around astrophysical black holes.",
+    "significance": "The framework provides a systematic method to quantify how dark matter halos alter black hole spacetime, enhancing the interpretability of gravitational-wave data.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3f7b6b78a0467d1fda12f14a7c63290d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35770v1",
+    "arxiv_id": "2609.35770v1",
+    "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+    "authors": [
+      "Srinjay Sarkar",
+      "Prakhar Kaushik",
+      "Soumava Paul"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "FurE: Fast, Instance-Specific 3D Fur Reconstruction Without Dedicated Datasets for Animals",
+    "tldr": "FurE reconstructs realistic animal fur from multi-view images using a strand-based approach that does not rely on large animal-fur datasets. The method achieves high detail and editability while remaining computationally efficient.",
+    "significance": "It enables realistic fur modeling for diverse animal species without costly dataset collection, advancing digital content creation and scientific visualization.",
+    "tags": [
+      "segmentation",
+      "point-cloud",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ae68170b6fd50ad5c17cb930dfee5673",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35769v1",
+    "arxiv_id": "2609.35769v1",
+    "title": "Telescopic Language Models",
+    "authors": [
+      "Zhilin Guo",
+      "Boqiao Zhang",
+      "Hakan Aktas"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Telescopic Language Models: A Continuum of Transformer Capacities for Flexible Compute Budgets",
+    "tldr": "We introduce Telescopic Language Models (TLMs), nested-capacity Transformers trained with stochastic prefix supervision. This design allows a single model to serve a continuum of compute budgets, eliminating the need for separate training or compression for each target capacity.",
+    "significance": "TLMs provide a scalable, efficient solution for deploying language models across diverse hardware constraints, reducing training overhead and resource consumption.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a9e0ff1b939584f5a589b186f1c1686b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35768v1",
+    "arxiv_id": "2609.35768v1",
+    "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+    "authors": [
+      "Zimo Wang",
+      "Junkun Yuan",
+      "Angtian Wang"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "PDMD: Reducing Video Diffusion Evaluations with Projected Distribution Matching Distillation",
+    "tldr": "PDMD cuts the number of denoising steps needed for video diffusion models from dozens to just a few, while addressing training instability caused by critic errors. By projecting distribution matching onto the student updates, it stabilizes training and preserves visual quality.",
+    "significance": "This method enables faster, more stable video diffusion inference, making high‑quality video generation more practical.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b5c355ea188ad75efec6fca7499a4a0e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35767v1",
+    "arxiv_id": "2609.35767v1",
+    "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+    "authors": [
+      "Yijia Fan",
+      "Ziqi Huang",
+      "Zhongang Cai"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Unified Models Learn to Reflect and Repair Their Own Image Generation",
+    "tldr": "Unified multimodal models can diagnose and revise their own image outputs, learning the process jointly through interleaved reinforcement learning. This approach enables self-improvement of generation quality without external supervision.",
+    "significance": "It demonstrates a path toward self-correcting generative models that can iteratively refine outputs, reducing reliance on human feedback.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e783493e497d3a0f6a413a43dce9c9b8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35765v1",
+    "arxiv_id": "2609.35765v1",
+    "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+    "authors": [
+      "András Kovács",
+      "Alexander Conroy",
+      "Daniel Hershcovich"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Computational Retrieval of Biblical Intertextuality in Blixen's Seven Gothic Tales",
+    "tldr": "The study builds a benchmark of 189 annotated biblical references in Karen Blixen's Seven Gothic Tales and applies large language models to detect intertextual allusions despite paraphrase and translation. It demonstrates the feasibility of automated literary intertextuality detection and offers a resource for future computational literary scholarship.",
+    "significance": "This work provides the first computational benchmark for biblical intertextuality in Blixen's prose, enabling large-scale literary analysis and advancing NLP methods for nuanced textual comparison.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "947c0f69385937bd65849fa260a087d0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35764v1",
+    "arxiv_id": "2609.35764v1",
+    "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
+    "authors": [
+      "Zhilin Guo",
+      "Boqiao Zhang",
+      "Oszkár Urbán"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Accurate Lower-Body 3D Pose",
+    "tldr": "A new benchmark demonstrates that fusing earbud head IMUs with smart-insole foot IMUs yields reliable lower-body 3D pose estimates, even with consumer sensor drift and mounting variability. The study introduces a reliability-gated fusion strategy that mitigates firmware bias and stream dropouts.",
+    "significance": "This work enables robust, camera-free motion capture using inexpensive consumer wearables, paving the way for scalable human motion analytics.",
+    "tags": [
+      "benchmark",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "562d39a61e12bc26225c850919ee5a24",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35763v1",
+    "arxiv_id": "2609.35763v1",
+    "title": "Unifying Distributional Training for One-Step Visual Generation",
+    "authors": [
+      "Chi Zhang",
+      "Haoyang Shi",
+      "Yueyi Liu"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "One-Step Visual Generation via Unified Distributional Training",
+    "tldr": "The authors propose a unified theoretical framework that separates distribution modeling from discrepancy matching in frozen representation spaces. By linking global objectives to pointwise updates via Wasserstein gradient flow, they achieve efficient one-step visual generation.",
+    "significance": "It offers a principled, efficient approach to train generative models with minimal steps, potentially accelerating real-time image synthesis.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d71202a2777ca3ab92ce47d1df3776bc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35762v1",
+    "arxiv_id": "2609.35762v1",
+    "title": "Peppy: An AI-Assisted Workflow for Tight Convergence Analysis of Optimization Algorithms",
+    "authors": [
+      "Jaewook J. Suh",
+      "TaeHo Yoon",
+      "Edward Duc Hien Nguyen"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Peppy: AI Workflow for Tight Convergence Proofs in First-Order Optimization",
+    "tldr": "Peppy uses domain-specific knowledge and large language models to automatically generate tight, analytic convergence proofs for first-order optimization algorithms. By integrating with formal proof assistants, it streamlines the research workflow and reduces manual effort.",
+    "significance": "Peppy advances automated mathematical research by delivering precise convergence guarantees that were previously labor-intensive to obtain.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "60a9585c209ed8e86a03301e2015705a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35761v1",
+    "arxiv_id": "2609.35761v1",
+    "title": "DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations",
+    "authors": [
+      "Rui Zhou",
+      "Yibo Yuan",
+      "Junkai Zhao"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "DexRoam: Learning Mobile Bimanual Dexterous Manipulation via Egocentric Human Demonstrations",
+    "tldr": "DexRoam learns mobile bimanual manipulation by leveraging egocentric whole-body human demonstrations, preserving fine-grained coordination of locomotion, posture, and finger dexterity. The method enables robots to acquire complex, continuous trajectories without simplifying human motion.",
+    "significance": "This approach addresses the demonstration bottleneck in mobile manipulation, enabling robots to learn intricate, coupled motions directly from human data.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b14f396645bfde369e4c48ba0107b46c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35760v1",
+    "arxiv_id": "2609.35760v1",
+    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+    "authors": [
+      "Chaoqian Ouyang",
+      "Ling Yue",
+      "Libin Zheng"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Predicting Token Usage in LLM Agents: A New Forecasting Approach",
+    "tldr": "Token consumption by LLM agents can vary by an order of magnitude across runs, making cost estimation difficult. TokenCast introduces a forecasting model that predicts total token usage before execution, enabling better budgeting and resource planning.",
+    "significance": "Accurate token prediction reduces operational costs and improves scalability of LLM-driven applications.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "90ca7c999a5aca338d0066693b003e02",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35758v1",
+    "arxiv_id": "2609.35758v1",
+    "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+    "authors": [
+      "Min Kim",
+      "José Leonardo Brenes",
+      "Fred Hadaegh"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+    "tldr": "We propose a hard-EM framework that learns contractive dynamical representations to improve composite adaptive tracking control under coupled disturbances. By integrating a Kalman smoother into the hard-EM loop, the method achieves statistically principled disturbance rejection and enhanced tracking performance.",
+    "significance": "This approach bridges classical disturbance accommodation with modern adaptive learning, enabling more robust real-time control in dynamic environments.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1240564765fc301d3c2643c1131bc3ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35757v1",
+    "arxiv_id": "2609.35757v1",
+    "title": "Can Fingers of God be Resummed?",
+    "authors": [
+      "Shi-Fan Chen",
+      "Alejandro Aviles"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Resumming Fingers of God: Extending Effective Field Theory for Small-Scale Galaxy Clustering",
+    "tldr": "This study proposes a resummation technique for Fingers of God, mitigating their impact on redshift-space clustering models. By incorporating the resummed Doppler shifts into the effective field theory framework, the authors extend the predictive reach to smaller scales.",
+    "significance": "The work enables more accurate cosmological parameter inference from upcoming redshift surveys by overcoming a major systematic limitation.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6857ba2d10f3032036e30d028a16f483",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.35756v1",
+    "arxiv_id": "2609.35756v1",
+    "title": "Gauge Backreaction in Standard Model Warm Inflation",
+    "authors": [
+      "Rafid H. Dejrah",
+      "Anish Ghoshal"
+    ],
+    "published": "2026-09-28",
+    "curated_at": "2026-09-29",
+    "headline": "Gauge Plasma Dynamics Challenge Warm Inflation Models",
+    "tldr": "Standard-Model warm inflation links QCD dissipation to cosmology, but a slowly relaxing gauge-helicity response cannot be simplified into a friction term. The study evolves quark axial densities to capture this dynamical effect.",
+    "significance": "It shows that real-time gauge plasma behavior must be explicitly modeled to accurately predict inflationary dynamics.",
+    "tags": [
+      "real-time",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "31f297f88fe4500e8d54ba8b8b3549ff",
     "source": "web",
     "url": "https://spatialists.ch/posts/2025/03/25-geoai-state-of-play-in-2025/",
@@ -991,315 +1324,6 @@
       "benchmark"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f96005066d3d4e3057f7858028d9e28c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11917v1",
-    "arxiv_id": "2609.11917v1",
-    "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-    "authors": [
-      "Atindra Jha",
-      "Margaret Li",
-      "Jure Leskovec"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "MoE Models Overfit to Repeated Data: Data Scarcity Amplifies Sparsity Issues",
-    "tldr": "When training data is repeated, Mixture-of-Experts models tend to overfit more than dense Transformers. This study shows that data repetition exacerbates sparsity-related overfitting, affecting model generalization.",
-    "significance": "Understanding MoE overfitting to repeated data informs better training strategies for large language models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bcbafaad3d8bd12b7af41237c1ab145e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11916v1",
-    "arxiv_id": "2609.11916v1",
-    "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
-    "authors": [
-      "William Zhou",
-      "Mayukha Siripuram",
-      "Xiao Yan"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "Edge-Deployable Vision‑Language Models Successfully Identify Wildlife Species in Camera Traps",
-    "tldr": "Researchers evaluated 2–8 B parameter VLMs on camera‑trap images and found they can recognize species with high accuracy. This shows that small, locally deployable models are viable for wildlife monitoring.",
-    "significance": "The study proves that lightweight VLMs can replace large models for real‑time species identification on edge devices, enabling scalable wildlife conservation.",
-    "tags": [
-      "foundation-models",
-      "object-detection",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "69e14723b03f5b060f119fff5c9482a5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11914v1",
-    "arxiv_id": "2609.11914v1",
-    "title": "Anomalous Dimensions, Matching, and Phenomenology of Dirac Fermionic Dark Matter Effective Interactions",
-    "authors": [
-      "Subhajit Kala",
-      "Lipika Kolay",
-      "Soumitra Nandi"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "Renormalisation-Group Analysis of Dirac Dark Matter Effective Operators",
-    "tldr": "The paper derives the anomalous-dimension matrix for dimension‑five and –six operators coupling Dirac fermionic dark matter to the Standard Model. This framework enables consistent RG evolution and phenomenological studies of dark matter interactions.",
-    "significance": "It provides the first complete RG framework for Dirac fermionic dark matter, essential for accurate predictions in collider and direct detection experiments.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "494a9cbcfd9c47cfd1ebecc2bfb698fb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11913v1",
-    "arxiv_id": "2609.11913v1",
-    "title": "Distance generalization in transformers: why bother with positional encoding?",
-    "authors": [
-      "Daniel Henrik Nevermann",
-      "Claudius Gros"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "Distance Generalization in Transformers: Rethinking Positional Encoding for Out-of-Distribution Contexts",
-    "tldr": "This study investigates how transformers handle changes in inter-token distances when trained on short contexts and tested on longer or differently spaced contexts, challenging the reliance on positional encodings. By introducing synthetic delay copy tasks, the authors demonstrate that distance generalization can be achieved without explicit positional signals, offering insights for more robust language models.",
-    "significance": "The findings suggest that transformers can learn to generalize across token spacing, potentially reducing the need for complex positional encoding schemes and improving model robustness to varied input structures.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "249ae6548c7e0a6af8189aae2343c9a7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11911v1",
-    "arxiv_id": "2609.11911v1",
-    "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
-    "authors": [
-      "Yakov Pyotr Shkolnikov"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "Artificial ID: Internal Drives for Persistent Alignment in Agentic AI",
-    "tldr": "Agentic AI systems increasingly operate beyond single tasks, creating a control problem that current external harnesses struggle to manage. We propose an artificial ID—a self‑generated internal drive that continuously aligns goals and behavior, reducing reliance on hand‑crafted rules.",
-    "significance": "By embedding persistent alignment mechanisms, the artificial ID could enable safer, more autonomous AI that adapts across tasks without constant human oversight.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "bb1a8d76db07ba98fd70bef2eeae471a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11910v1",
-    "arxiv_id": "2609.11910v1",
-    "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
-    "authors": [
-      "Nitesh V. Chawla",
-      "Paulo Benanti"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "AI as a Tool for Social Accountability: From Protocols to Evidence",
-    "tldr": "AI can expose institutional shortcomings and act as an intervention, but it may also worsen or hide failures. Responsible AI requires evaluating both the system and its impact on society.",
-    "significance": "Understanding AI’s dual role is essential for ensuring it serves the common good rather than perpetuating injustice.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d4446b2d5754997795eb525cfaead966",
-    "source": "web",
-    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
-    "arxiv_id": "",
-    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "2025 GeoAI Breakthroughs: From Climate Forecasting to Smart Cities and Global Resilience",
-    "tldr": "In 2025, GeoAI harnessed satellite imagery, LLMs, and real‑time analytics to predict climate events, automate urban planning, and monitor crop health. These advances enable faster, data‑driven decisions for resilient communities worldwide.",
-    "significance": "These trends mark a pivotal shift toward autonomous, AI‑powered geospatial solutions that directly address climate change, food security, and urban resilience.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "urban-AI",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "Towards the Next Generation of Geospatial Artificial Intelligence: Trends and Future Directions",
-    "tldr": "GeoAI merges geospatial science and AI, rapidly evolving. This paper reviews recent advances and projects future trajectories.",
-    "significance": "Understanding GeoAI's trajectory is vital for harnessing spatial data in climate, urban planning, and disaster response.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5188ff55df1a92eb9d3df9687d0a88b8",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/archive/2025/",
-    "arxiv_id": "",
-    "title": "GeoAI | Geo Week News",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "AI Drives GeoAI: From Automated Feature Extraction to Predictive Geospatial Analytics",
-    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction and classifying point clouds. These advances enable predictive analysis across the entire data pipeline, unlocking new applications in mapping and monitoring.",
-    "significance": "GeoAI accelerates decision-making and enhances spatial insights across industries.",
-    "tags": [
-      "remote-sensing",
-      "point-cloud",
-      "segmentation",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "079f3198282271621f612e9d277c56ab",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
-    "arxiv_id": "",
-    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "GeoAI Revolutionizes Geospatial Insights: AI, Data, and Sensing Converge for Smarter Mapping",
-    "tldr": "Artificial intelligence is reshaping geospatial analysis by merging data, sensing, and AI-driven insights. GeoAI promises to transform how organizations capture, interpret, and act on spatial information.",
-    "significance": "GeoAI will redefine spatial decision-making, enabling faster, more accurate insights across industries.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
-    "source": "web",
-    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
-    "arxiv_id": "",
-    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "Top 5 GeoAI Trends Shaping 2025: From Satellite Imagery to Urban Planning",
-    "tldr": "GeoAI is merging AI with GIS to deliver smarter insights across sectors. In 2025, five key trends—satellite imagery analytics, urban AI, crop monitoring, flood detection, and real-time change detection—will drive innovation.",
-    "significance": "These trends will enable faster, data-driven decisions that improve sustainability and resilience worldwide.",
-    "tags": [
-      "satellite-imagery",
-      "urban-AI",
-      "crop-monitoring",
-      "flood-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c372756dc3050e8979c1ab5331fba6b3",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "Remote Sensing Change Detection: Datasets, Tools, Methods, and Competitions Hub",
-    "tldr": "Explore a curated collection of remote sensing change detection resources, including datasets, open-source tools, review papers, and active competitions. This hub serves researchers and practitioners seeking to benchmark and innovate in change detection.",
-    "significance": "It accelerates progress in remote sensing by centralizing essential materials for change detection research.",
-    "tags": [
-      "remote-sensing",
-      "change-detection",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5726a3b43144d7ef941cae3b32cb3288",
-    "source": "web",
-    "url": "https://github.com/RSandAI",
-    "arxiv_id": "",
-    "title": "Remote Sensing AI · GitHub",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "RSandAI: Istanbul Tech University's Open-Source GeoAI Research Repository for Remote Sensing",
-    "tldr": "This GitHub page hosts the outputs of GeoAI research conducted under Prof. Dr. Elif SERTEL at Istanbul Technical University. It includes datasets, models, and code for remote sensing applications.",
-    "significance": "It provides an accessible, open-source resource that accelerates GeoAI research and application development.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1785692639303012acc70ffb83d999f5",
-    "source": "web",
-    "url": "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/",
-    "arxiv_id": "",
-    "title": "NASA Releases Galileo: The Open-Source Multimodal Model Advancing Earth ...",
-    "authors": [],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-10",
-    "headline": "NASA Unveils Galileo: Open-Source Multimodal Model for Earth Observation Data",
-    "tldr": "NASA has released Galileo, an open-source multimodal foundation model that processes satellite imagery, time series, and tabular data in a single architecture. Its tokenization pipeline splits remote sensing inputs into spatial patches, timesteps, and logical channel groups, enabling unified analysis across diverse data types.",
-    "significance": "Galileo democratizes advanced Earth observation analytics by providing a flexible, open framework that can be adapted for tasks like flood detection, crop monitoring, and urban planning.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "time-series"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
