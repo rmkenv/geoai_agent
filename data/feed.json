@@ -1,5 +1,316 @@
 [
   {
+    "uid": "25371a464ed362c7e5bffbfb247a413c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38180v1",
+    "arxiv_id": "2609.38180v1",
+    "title": "Point2Part: Unified 3D Partitioning from Point Prompts",
+    "authors": [
+      "Hao-Tang Tsui",
+      "Yu-Rou Tuan",
+      "Xiaoxuan Ma"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Point2Part: Unified 3D Partitioning via Point Prompts for Complete Shape Coverage",
+    "tldr": "Point2Part introduces a novel approach to 3D part decomposition using point prompts, ensuring non-overlapping, fully covering partitions. This method improves downstream part-level tasks by eliminating gaps and overlaps present in prior techniques.",
+    "significance": "By guaranteeing complete, non-overlapping partitions, Point2Part enhances the reliability of part-based analysis for 3D models, benefiting applications from CAD to robotics.",
+    "tags": [
+      "point-cloud",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b420153e4986d0daa108dc8e3750d939",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38178v1",
+    "arxiv_id": "2609.38178v1",
+    "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+    "authors": [
+      "Zihang Rui",
+      "Renhao Wang",
+      "Haoxu Huang"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Robots Self-Improve on the Fly Using Foundation Models for Autonomous Policy Refinement",
+    "tldr": "This work demonstrates how robots can autonomously refine their policies in real-world environments by leveraging foundation models, reducing the need for human demonstrations. The approach scales across tasks, enabling continuous learning from new situations and failures.",
+    "significance": "By enabling robots to self-improve without human intervention, this method accelerates deployment and adaptability across diverse real-world scenarios.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "46c991cd051b364e093ff6d609a70e47",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38177v1",
+    "arxiv_id": "2609.38177v1",
+    "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+    "authors": [
+      "Jaewoo Jung",
+      "Hyeonseo Yu",
+      "Honggyu An"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Teaching MLLMs to Visualize 3D Scenes from Multi‑View Images Before Answering",
+    "tldr": "The paper introduces Imagine3D‑LLM, a framework that equips multimodal LLMs with 3D reasoning by integrating multi‑view image evidence into a coherent scene representation. Experiments show improved spatial understanding and answer accuracy across benchmark tasks.",
+    "significance": "It bridges the gap between 2D perception and 3D reasoning in LLMs, enabling more accurate contextual answers.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "57b1b327a362fec556dc879f0201cd76",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38176v1",
+    "arxiv_id": "2609.38176v1",
+    "title": "Breakdown of Local Denoising as Semantic Speciation",
+    "authors": [
+      "Guangkuo Liu",
+      "Mert Okyay",
+      "Yifan F. Zhang"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Exploring Local Denoising as Semantic Speciation in Generative Models and Their Dynamics",
+    "tldr": "The study identifies two temporal windows in generative model training: a speciation window where samples commit to semantic classes, and a nonlocality window where local context fails. It demonstrates that these windows co‑occur and analyzes their spatial distribution to better understand denoising behavior.",
+    "significance": "Understanding the interplay between local denoising and semantic commitment can improve generative model design and interpretability.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "327c20c48d02712acdf169420f70baf1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38173v1",
+    "arxiv_id": "2609.38173v1",
+    "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
+    "authors": [
+      "Minxing Li",
+      "Minghao Han",
+      "Weizhi Zhao"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Simplifying In-Context Robot Learning: A Democratized Approach to Manipulation Tasks",
+    "tldr": "This paper presents a streamlined framework for robotic in-context learning, enabling robots to infer tasks from visual demonstrations. By disentangling action trajectories, object semantics, and spatial relations, the authors provide an open-source recipe that democratizes manipulation learning for the community.",
+    "significance": "It offers a practical, open-source solution that lowers the barrier to entry for deploying in-context learning in real-world robotic manipulation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b6345f0e36be8e6e30e8740950c7deff",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38171v1",
+    "arxiv_id": "2609.38171v1",
+    "title": "Classification of topological phases of matter in stochastic systems",
+    "authors": [
+      "Dexin Li",
+      "Evelyn Tang"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Classifying Topological Phases in Stochastic Systems: A Markovian Symmetry-Dimension Framework",
+    "tldr": "Researchers have extended the classification of topological phases to stochastic systems, revealing how Markovian dynamics can support robust edge states. This framework bridges quantum and classical systems, offering new insights into biochemical processes and noise-resistant materials.",
+    "significance": "This work provides a unified theoretical foundation for understanding noise-protected phenomena in both quantum and classical stochastic environments.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f2cd4d9ba1a5c73e36468748db62a64c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38170v1",
+    "arxiv_id": "2609.38170v1",
+    "title": "Adversarial Training for Pixel Diffusion",
+    "authors": [
+      "Xin Lin",
+      "Zhifei Zhang",
+      "Yuqian Zhou"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Improving Pixel Diffusion with Adversarial Training for Better Fine-Scale Detail",
+    "tldr": "Pixel diffusion models generate images directly but often miss fine-scale statistics. Adding adversarial learning after pretraining corrects these deficiencies without altering the original diffusion objective.",
+    "significance": "This approach enhances pixel diffusion quality, making them competitive with autoencoder-based models while preserving training efficiency.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "77f6b4db3d562b2e79b36a0b849de7d1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38169v1",
+    "arxiv_id": "2609.38169v1",
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "authors": [
+      "Bingchen Yao",
+      "Haobo Xu",
+      "Haokun Lin"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "STEPQuant: Targeted Quantization for Efficient Linear Attention in Real-Time Models",
+    "tldr": "Linear attention models use recurrent states that grow memory usage during serving. STEPQuant identifies where quantization errors matter and selectively applies low-precision updates, reducing memory without sacrificing accuracy.",
+    "significance": "This method enables scalable, low-precision deployment of linear attention models in real-time applications.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7516ba85375d340052fefcf747fc34c9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38166v1",
+    "arxiv_id": "2609.38166v1",
+    "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+    "authors": [
+      "Yi Pan",
+      "Haocheng Xi",
+      "Kan Zhu"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "LeapQuant: Boosting Linear Attention Efficiency via Recurrent State Quantization for LLMs",
+    "tldr": "LeapQuant introduces a quantization scheme that compresses the recurrent state used in linear attention models, reducing inference overhead while preserving accuracy. The method achieves comparable performance to full-precision models with significantly lower memory and compute costs, making long-context processing more practical.",
+    "significance": "By efficiently quantizing recurrent states, LeapQuant enables faster, resource‑constrained deployment of large language models with linear attention.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7c65f83cff0cea39c49ddc4e49b19aa8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38165v1",
+    "arxiv_id": "2609.38165v1",
+    "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+    "authors": [
+      "Joseph Metcalfe",
+      "Sara Sharifzadeh",
+      "Fabio Caraffini"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Hybrid Transformer-Convolutional Model Improves Cropland Segmentation in Satellite Time Series",
+    "tldr": "The paper introduces Cropland PAtteRNS, a hybrid transformer‑convolutional architecture that leverages parallel dimensional attention and dataset‑disparity awareness to enhance cropland segmentation across satellite imagery time series. Experiments on multiple benchmark datasets demonstrate significant gains over state‑of‑the‑art methods while addressing class imbalance and temporal inconsistencies.",
+    "significance": "It advances crop monitoring by delivering more accurate, temporally consistent segmentation, enabling better resource management and policy decisions.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "crop-monitoring",
+      "segmentation"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "3bda4a965d44123c00e21d3a39ad70bc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38164v1",
+    "arxiv_id": "2609.38164v1",
+    "title": "Rho: A Foundation for Efficiently Adaptable VLA Models",
+    "authors": [
+      "Rho Team",
+      "Simran Bagaria",
+      "Daphne Chen"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Rho: Open-Weights VLA Models for Efficient Bimanual Manipulation",
+    "tldr": "Rho introduces a family of open-weights Vision-Language-Action models that seamlessly adapt to dual-arm robots across diverse embodiments. The framework enables data-light task adaptation, bridging broad visual and linguistic understanding with precise robotic control.",
+    "significance": "Rho provides a scalable foundation for versatile, low-data robotics applications, accelerating deployment across research and industry.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b78b8f50ef9e2deae20a9ba43ee06598",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38163v1",
+    "arxiv_id": "2609.38163v1",
+    "title": "Rethinking Representations for World-Action Modeling",
+    "authors": [
+      "Haoyi Jiang",
+      "Liu Liu",
+      "Xinjiang Wang"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "ReWAM: Rethinking Representation Spaces for Joint Policy Learning and Prediction",
+    "tldr": "World-action models link robot control with future observation prediction via a shared representation space. This study shows that neither reconstruction fidelity nor pre-trained perceptual features alone guarantee effective policy learning, leading to ReWAM, a representation‑centric framework that balances these aspects.",
+    "significance": "This work provides a principled approach to designing representation spaces that simultaneously support control and prediction, improving the effectiveness of world-action models.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d381ecd414c19dc94c42b9c41d1e5807",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.38161v1",
+    "arxiv_id": "2609.38161v1",
+    "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
+    "authors": [
+      "Jianru Shen"
+    ],
+    "published": "2026-09-29",
+    "curated_at": "2026-09-30",
+    "headline": "Spectral Bounds for Graph Reconstruction Errors in LLMs",
+    "tldr": "The study proves that the Wasserstein distance between Laplacian spectra of original and reconstructed graphs is tightly bounded by two edge-count metrics, offering a sharper diagnostic than a single aggregate distance. This theoretical result also provides an empirical framework for evaluating LLM-generated graph structures.",
+    "significance": "It gives a principled way to quantify and bound graph reconstruction errors in language models, improving interpretability and benchmarking.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "1d81954fd9b44e119f7cc10885778e33",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.35771v1",
@@ -1040,288 +1351,6 @@
       "foundation-models",
       "remote-sensing",
       "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3aaaab790e837cb133a4dfe443204198",
-    "source": "web",
-    "url": "https://colab.research.google.com/github/opengeos/geoai/blob/main/docs/workshops/GeoAI_Workshop_2025.ipynb",
-    "arxiv_id": "",
-    "title": "GeoAI_Workshop_2025.ipynb - Colab",
-    "authors": [],
-    "published": "2026-09-14",
-    "curated_at": "2026-09-14",
-    "headline": "Hands‑On GeoAI Workshop: Object Detection in Remote Sensing Imagery with Python",
-    "tldr": "This Colab notebook guides users through installing GeoAI, downloading data, visualizing satellite images, training an object detection model, and performing inference. It covers the entire pipeline from data preparation to real‑time predictions.",
-    "significance": "It enables rapid prototyping of AI models for monitoring urban and environmental changes using open‑source tools.",
-    "tags": [
-      "remote-sensing",
-      "object-detection",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "03756eb83b4b4c31c6befb1ea4c71cd7",
-    "source": "web",
-    "url": "https://geoai.org/",
-    "arxiv_id": "",
-    "title": "GeoAI",
-    "authors": [],
-    "published": "2026-09-13",
-    "curated_at": "2026-09-13",
-    "headline": "GeoAI: Merging Geospatial Data with AI for Smarter Spatial Insights",
-    "tldr": "GeoAI combines geospatial data with machine learning, computer vision, and NLP to analyze and generate actionable insights. It enables real-time decision-making across sectors like agriculture, urban planning, and disaster response.",
-    "significance": "GeoAI transforms raw spatial data into actionable intelligence, accelerating innovation and informed decision-making worldwide.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "urban-AI",
-      "change-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "26fa3243384f40ff7220879e19adbf53",
-    "source": "web",
-    "url": "https://github.com/opengeos/geoai",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GitHub",
-    "authors": [],
-    "published": "2026-09-13",
-    "curated_at": "2026-09-13",
-    "headline": "GeoAI: AI-Powered Toolkit for Satellite Imagery, Data Prep, and Training Dataset Generation",
-    "tldr": "GeoAI provides streamlined access to Sentinel, Landsat, NAIP, and other open satellite imagery, along with tools for downloading, mosaicking, and preprocessing. It also automates training dataset creation with image chips, labels, and vector-to-raster conversions, making AI workflows efficient.",
-    "significance": "GeoAI democratizes AI-driven geospatial analysis by simplifying data acquisition and preparation for machine learning models.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d7f2f215fb0c6f21acbef1a9b7ee0e6f",
-    "source": "web",
-    "url": "https://evermx.com/open-source/geoai-geospatial-artificial-intelligence",
-    "arxiv_id": "",
-    "title": "GeoAI - Open Source AI Project - Evermx",
-    "authors": [],
-    "published": "2026-09-13",
-    "curated_at": "2026-09-13",
-    "headline": "GeoAI: Open-Source Python Toolkit Uniting Deep Learning with Satellite Imagery Analysis",
-    "tldr": "GeoAI is a Python package that integrates deep learning models into geospatial workflows, enabling automated analysis of satellite imagery and aerial photos. Published by the opengeos community in 2026, it offers a unified, open-source framework for tasks such as segmentation, object detection, and change detection.",
-    "significance": "By providing a cohesive platform, GeoAI accelerates the adoption of AI in geospatial science, lowering barriers for researchers and practitioners.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "26038ac1b7fbeb16e362e046d7d626fe",
-    "source": "web",
-    "url": "https://www.geography2050.org/2025",
-    "arxiv_id": "",
-    "title": "2025: GeoAI — GEOGRAPHY 2050",
-    "authors": [],
-    "published": "2026-09-12",
-    "curated_at": "2026-09-12",
-    "headline": "GeoAI 2050: Building Foundation Models for Real-Time Global Geospatial Insight",
-    "tldr": "Foundation models trained on massive geospatial datasets promise real‑time insights into Earth’s changing landscapes. Yet scaling these models to capture every observation remains a daunting challenge.",
-    "significance": "These models could transform how we monitor climate, urban growth, and disaster response worldwide.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "715b2f09148aeec3e1b1bd9503ec034a",
-    "source": "web",
-    "url": "https://www.geoconnexion.com/publication-articles/the-limits-of-geoai",
-    "arxiv_id": "",
-    "title": "The limits of GeoAI | GeoConnexion",
-    "authors": [],
-    "published": "2026-09-12",
-    "curated_at": "2026-09-12",
-    "headline": "AlphaEarth Foundations Sets New GeoAI Benchmark, Driving Proprietary Embedding Adoption",
-    "tldr": "Google and DeepMind’s AlphaEarth Foundations redefined geospatial AI, prompting firms to craft custom embeddings. This shift accelerates AI integration across mapping, monitoring, and decision‑making.",
-    "significance": "It marks the first industry‑wide standard for geospatial embeddings, reshaping how spatial data is leveraged.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b2fe11aa9e51c042a3380c37c003f9c0",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing?o=desc&s=updated",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-09-12",
-    "curated_at": "2026-09-12",
-    "headline": "AI-Driven Crop Monitoring: Sentinel-2, GIS Zones, Sensor Fusion, and Autonomous Drones",
-    "tldr": "This system integrates Sentinel‑2 satellite imagery with GIS‑derived management zones to provide real‑time crop intelligence. It fuses multiple sensors, offers explainable recommendations, and plans autonomous drone missions for precision agriculture.",
-    "significance": "It enables farmers to optimize yields and resource use through AI‑enhanced, data‑driven decision making.",
-    "tags": [
-      "remote-sensing",
-      "crop-monitoring",
-      "satellite-imagery"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "76a848462cb579374f52b6c2e4ea0f19",
-    "source": "web",
-    "url": "https://sourceforge.net/directory/?q=remote%20sensing",
-    "arxiv_id": "",
-    "title": "remote sensing free download - SourceForge",
-    "authors": [],
-    "published": "2026-09-12",
-    "curated_at": "2026-09-12",
-    "headline": "Free Remote Sensing Tools on SourceForge: Code, Papers, and Hands-On Resources",
-    "tldr": "This guide aggregates free remote sensing software from SourceForge, complete with code snippets and research links. It serves as a practical hub for researchers, engineers, and enthusiasts in geospatial AI.",
-    "significance": "Providing open access to a curated collection of remote sensing tools accelerates research and application development in geospatial AI.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "05673d0fa14b4f02d093dfad57f9cfcf",
-    "source": "web",
-    "url": "https://ruview.online/",
-    "arxiv_id": "",
-    "title": "RuView Free AI WiFi Sensing, ESP32 CSI Radar & Spatial Intelligence",
-    "authors": [],
-    "published": "2026-09-12",
-    "curated_at": "2026-09-12",
-    "headline": "RuView: Open-Source WiFi Radar Platform Turns ESP32 into Long-Range Spatial Sensor",
-    "tldr": "RuView is an open-source, edge-native AI WiFi sensing platform that transforms everyday ESP32 microcontrollers into long-range spatial radar arrays. By converting ambient high-frequency radio waves into detailed environmental telemetry, it enables real-time spatial intelligence without cameras.",
-    "significance": "RuView democratizes spatial sensing by providing a low-cost, camera-free solution that can be deployed on commodity hardware for applications ranging from indoor monitoring to outdoor environmental sensing.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "4e1efc45465a3b9f314f8c4a1ab4f21d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11929v1",
-    "arxiv_id": "2609.11929v1",
-    "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
-    "authors": [
-      "Haiwen Diao",
-      "Jiahao Wang",
-      "Chenjing Ding"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "SenseNova-U1.5 8B-MoT Unified Visual AI Without Encoders or VAEs for Spatially Coherent Patch Reconstruction",
-    "tldr": "SenseNova-U1.5 is an 8B multimodal transformer that generates and understands visual content without relying on encoders or VAEs. It achieves spatially coherent patch reconstruction and scales training with curated generation and editing data, improved task formulation, and structural prompt enhancement.",
-    "significance": "By eliminating traditional encoder and VAE components, SenseNova-U1.5 offers a more efficient and flexible foundation for unified visual intelligence tasks.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "12ef4595ac8e90245d5e7512cb62c7a0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11922v1",
-    "arxiv_id": "2609.11922v1",
-    "title": "A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons",
-    "authors": [
-      "Yu-Xuan Fu",
-      "He-Yu Shen",
-      "Ke-Ming Hu"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "Quantum Chip-Scale Space‑Time Multiplexed Gaussian Boson Sampler Surpasses 10,000 Photons",
-    "tldr": "A new chip‑scale architecture uses space‑time multiplexing to achieve more than 10,000 photons in Gaussian boson sampling, overcoming alignment and phase stability issues. This breakthrough brings scalable quantum advantage closer to practical deployment.",
-    "significance": "It demonstrates a scalable, programmable platform that could accelerate quantum computational advantage demonstrations and enable complex photonic quantum simulations.",
-    "tags": [
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c480d2d94f1b7af5b89fac7e29b0e783",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11921v1",
-    "arxiv_id": "2609.11921v1",
-    "title": "Teleparallel torsion and white dwarf structure in \\(f(T)=T+ΞT^2\\) gravity",
-    "authors": [
-      "Edson Otoniel",
-      "Jonathan A. Reboucas",
-      "Iarley P. Lobo"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "Teleparallel Torsion Modifies White Dwarf Structure in Quadratic f(T) Gravity",
-    "tldr": "We explore how a quadratic torsion term in f(T) gravity changes the mass-radius relation of cold carbon white dwarfs. The study shows that torsion can significantly alter equilibrium configurations compared to general relativity.",
-    "significance": "This work demonstrates that modified teleparallel gravity can impact compact star physics, offering new tests for alternative gravity theories.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "76ee99162eb12ea49a4a357231e1160f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.11920v1",
-    "arxiv_id": "2609.11920v1",
-    "title": "EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking",
-    "authors": [
-      "Dexter Ong",
-      "Vijay Kumar",
-      "Pratik Chaudhari"
-    ],
-    "published": "2026-09-10",
-    "curated_at": "2026-09-11",
-    "headline": "EVPeriscope: Event-Based Propeller Tracking for Robust Aerial‑Ground Localization",
-    "tldr": "EVPeriscope uses event cameras to detect and track propeller motion, enabling accurate relative pose estimation between drones and ground robots in real time. The system overcomes motion blur and lighting issues that limit conventional cameras, demonstrating reliable localization in challenging environments.",
-    "significance": "It provides a lightweight, real‑time solution for tightly coordinated heterogeneous robot teams, improving safety and operational efficiency.",
-    "tags": [
-      "object-detection",
-      "real-time",
-      "time-series",
-      "benchmark"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
