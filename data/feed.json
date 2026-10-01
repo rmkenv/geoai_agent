@@ -1,5 +1,290 @@
 [
   {
+    "uid": "272fe4f0c8b40fe256dd93356b1f3470",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40363v1",
+    "arxiv_id": "2609.40363v1",
+    "title": "Probing the Reionization History and Bubble Sizes with JWST Lyman-$α$ Fraction Measurements",
+    "authors": [
+      "Aritra Kundu",
+      "Adam Lidz",
+      "Guochao Sun"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "JWST Ly‑α Fractions Reveal Reionization Bubble Sizes",
+    "tldr": "JWST observations of Ly‑α emission from galaxies at z~6–14 show a declining fraction of detectable lines, indicating increasing neutral hydrogen in the IGM. These measurements constrain the timing and patchiness of cosmic reionization, providing estimates of bubble sizes around early galaxies.",
+    "significance": "This study offers the first direct probe of reionization topology using JWST, refining models of early galaxy formation and the intergalactic medium.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "74081d9ba53f1fd93204e182eb307cac",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40362v1",
+    "arxiv_id": "2609.40362v1",
+    "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+    "authors": [
+      "Hongyuan Tao",
+      "Xinggang Wang",
+      "Lianghui Zhu"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "Multimodal Flow: Continuous Generative Modeling of Language and Vision in Embedding Spaces",
+    "tldr": "Multimodal Flow introduces a continuous generative framework that jointly models language and vision without quantization bottlenecks. By operating entirely in embedding space, it eliminates modality-specific objectives and sampling, enabling more seamless multimodal generation.",
+    "significance": "This approach removes the need for discrete tokenization and modality-dependent training, paving the way for more efficient and unified multimodal foundation models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4065fe6ec7451c5344e292adb990b7e5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40361v1",
+    "arxiv_id": "2609.40361v1",
+    "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+    "authors": [
+      "Tian Xia",
+      "Minghao Liu",
+      "Yiqing Liang"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "Optimizing Multimodal Clinical Diagnosis with Ranking‑Aware Prompting for AUROC in Healthcare",
+    "tldr": "We propose a ranking‑aware prompt optimization framework that directly optimizes AUROC for multimodal large language models in clinical diagnosis. This approach mitigates class imbalance and improves the clinical utility of predictions compared to accuracy‑centric pipelines.",
+    "significance": "By focusing on AUROC, the method ensures better ranking of true positives, directly benefiting high‑stakes medical decision‑making.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d0d9d8b164afff7c94ddecc544c1e49e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40360v1",
+    "arxiv_id": "2609.40360v1",
+    "title": "Semifactual Credit-Augmented Policy Optimization",
+    "authors": [
+      "Junshu Pan",
+      "Zhizhang Fu",
+      "Shulin Huang"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "Semifactual Prompt Interventions Expose Token Sensitivity in Reinforcement Learning with Verifiable Rewards",
+    "tldr": "We apply semifactual prompt interventions to RLVR, preserving the problem while altering irrelevant prompt features. Our analysis uncovers substantial token-level sensitivity, indicating that LLM predictions remain fragile to prompt design.",
+    "significance": "Understanding token-level sensitivity helps improve robustness of LLM-based RL systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fa9d7d0387ec51242189d8b35ec3a289",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40359v1",
+    "arxiv_id": "2609.40359v1",
+    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+    "authors": [
+      "Dulhan Jayalath",
+      "Oiwi Parker Jones"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "Eliminating Timing Biases Enhances Accuracy of Brain-to-Text Decoding Without Brain Data",
+    "tldr": "Researchers show that the impressive gains in decoding spoken words from non-invasive brain recordings can be largely reproduced using only the timing of the words, without any neural data. Removing these timing shortcuts reveals that the neural network's performance is largely driven by linguistic priors rather than genuine neural signals.",
+    "significance": "This finding challenges the validity of recent brain‑to‑text breakthroughs and underscores the need for rigorous controls in neural decoding research.",
+    "tags": [
+      "time-series",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5ebc4a67fdef192605fc3c84055959a7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40358v1",
+    "arxiv_id": "2609.40358v1",
+    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "authors": [
+      "Liming Lu",
+      "Xianzheng Ma",
+      "Wenkun He"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "Physis‑Lang: Self‑Evolving Language for Physical Video World Models",
+    "tldr": "The paper introduces Physis‑Lang, a language representation that evolves to encode physical dynamics, enabling video world models to generate physically consistent predictions without extra visual or latent cues. Experiments show improved adherence to physics while maintaining visual realism.",
+    "significance": "By embedding physics directly into language, Physis‑Lang reduces reliance on auxiliary signals and advances physically grounded video generation.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c4d74c0fb49f4634f180765d9bd8586c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40357v1",
+    "arxiv_id": "2609.40357v1",
+    "title": "Singularity of harmonic measures for hyperbolic lattices",
+    "authors": [
+      "Nikolay Bogachev"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "Singularity of Harmonic Measures for Hyperbolic Lattices: Random Walks on Convex Subgroups",
+    "tldr": "The paper proves that for a cocompact lattice in hyperbolic space containing a convex cocompact codimension‑one subgroup, any finitely supported admissible random walk has a hitting measure that is singular with respect to Lebesgue measure on the sphere at infinity. This extends Kosenko–Tiozzo’s method by replacing Fourier analysis with geometric arguments.",
+    "significance": "It establishes a new rigidity phenomenon for harmonic measures on hyperbolic lattices, deepening our understanding of random walks in negatively curved spaces.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ea462625e3f285b37fa933cbc7b4ae6a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40356v1",
+    "arxiv_id": "2609.40356v1",
+    "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+    "authors": [
+      "Xinghao Chen",
+      "Xiangbo Gao",
+      "Jiongze Yu"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "ViTeX-Bench: Evaluating High-Fidelity Video Scene Text Editing for Real-World Applications",
+    "tldr": "ViTeX-Bench introduces a comprehensive benchmark for assessing video scene text editing models, focusing on preserving scene dynamics while replacing on-surface text. The dataset includes diverse real-world scenarios and evaluation metrics that capture visual fidelity, motion consistency, and edit realism.",
+    "significance": "This benchmark enables systematic comparison of video editing approaches, accelerating progress toward realistic, controllable video manipulation.",
+    "tags": [
+      "benchmark",
+      "diffusion-models",
+      "segmentation",
+      "object-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1018f1f359c0a06eb7edbc055db9129b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40353v1",
+    "arxiv_id": "2609.40353v1",
+    "title": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
+    "authors": [
+      "Jiahao Zhang",
+      "Yeying Fan",
+      "Moitreya Chatterjee"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "AssemblyWorld: Evaluating General-Purpose Agents for 3D Object Assembly in Interactive Environments",
+    "tldr": "We introduce AssemblyWorld, an interactive 3D environment that tests whether pretrained general-purpose agents can assemble objects from visual input without task-specific fine-tuning. Our experiments show that while agents can perform basic manipulations, they struggle with complex spatial reasoning, highlighting the need for specialized training.",
+    "significance": "AssemblyWorld provides a benchmark for assessing the spatial reasoning capabilities of foundation models in physically grounded tasks.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "50115f9a62114eab78dc805f51797a82",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40349v1",
+    "arxiv_id": "2609.40349v1",
+    "title": "Efficient Calculation of Equilibrium Correlation Functions",
+    "authors": [
+      "Yizhi Shen",
+      "Roel Van Beeumen",
+      "Wibe A. de Jong"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "Quantum Algorithms for Fast Equilibrium Correlation Functions: A New Approach to Dynamic Quantities",
+    "tldr": "This paper introduces a novel quantum algorithm that efficiently computes equilibrium correlation functions, reducing resource overhead compared to traditional Hamiltonian simulation methods. The approach leverages linear-response theory and offers potential speedups for time-series analysis in quantum systems.",
+    "significance": "It provides a scalable method for evaluating key dynamical observables in quantum many-body systems, accelerating research in condensed matter and quantum chemistry.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6204b8cddc18fb7f95a81ccab993ac22",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40347v1",
+    "arxiv_id": "2609.40347v1",
+    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+    "authors": [
+      "Owais Iqbal",
+      "Sudipta Sarkar",
+      "Shyam Marjit"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "VideoMSN: Efficient Self-Supervised Video Representation via Masked Siamese Vision Transformers",
+    "tldr": "VideoMSN repurposes image Vision Transformers to learn video representations by treating videos as super images, enabling efficient self-supervised spatio-temporal learning without heavy 3D models. The framework achieves competitive performance while reducing computational cost, making it suitable for large-scale, unlabeled video datasets.",
+    "significance": "This approach democratizes video representation learning by leveraging lightweight image models, lowering barriers to entry for researchers and practitioners.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a8b41b83e373102c15552a49f82b6ddf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2609.40346v1",
+    "arxiv_id": "2609.40346v1",
+    "title": "Resonances control when multiterminal Josephson currents reduce to two-terminal couplings",
+    "authors": [
+      "A. Barış Özgüler"
+    ],
+    "published": "2026-09-30",
+    "curated_at": "2026-10-01",
+    "headline": "Resonances Determine When Multiterminal Josephson Currents Reduce to Two-Terminal Couplings",
+    "tldr": "The study compares pairwise two‑terminal models with genuine multiterminal processes in Josephson junctions, revealing that resonant conditions dictate when the simpler pairwise description suffices. This insight helps identify when reduced models accurately capture the physics of complex superconducting networks.",
+    "significance": "It clarifies the limits of reduced models for designing superconducting circuits, aiding accurate simulation of multiterminal devices.",
+    "tags": [
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "25371a464ed362c7e5bffbfb247a413c",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.38180v1",
@@ -1084,272 +1369,6 @@
     "tags": [
       "open-source",
       "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6794ff3c48b73114ce4edab3a4bc3a5c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17524v1",
-    "arxiv_id": "2609.17524v1",
-    "title": "Modality-Autoregressive World-Action Models",
-    "authors": [
-      "Adam Hung",
-      "Bardienus P. Duisterhof",
-      "Deva Ramanan"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Combining Depth, Features, and Point Tracks in World-Action Models for Future Prediction",
-    "tldr": "World-action models jointly predict future observations and actions, usually as RGB images. ModAR introduces a multimodal, autoregressive approach that fuses depth, pretrained visual features, and point tracks to improve geometric, semantic, and motion modeling.",
-    "significance": "ModAR demonstrates that integrating multiple visual modalities in world-action models yields more accurate and efficient future predictions, advancing autonomous decision-making.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "17f295ce698580ae165cb4f55614b059",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17523v1",
-    "arxiv_id": "2609.17523v1",
-    "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-    "authors": [
-      "Shuhan Xue",
-      "Jianyuan Zhong",
-      "Ziyuan Nan"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "ScienceBuddy: Continual Self-Improving AI Agents for Everyday Scientific Workflows",
-    "tldr": "ScienceBuddy is an interactive research workspace that deploys continually improving AI agents into researchers' daily workflows. By converting user requests, feedback, and execution evidence into tasks and evaluation rubrics, it enables recursive self‑improvement and continual learning.",
-    "significance": "It democratizes advanced AI research by embedding adaptive agents directly into scientific practice, accelerating discovery and reducing manual overhead.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9c450745db51f3eee06ae0353bc306c9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17522v1",
-    "arxiv_id": "2609.17522v1",
-    "title": "Coupling spherical p-spin systems",
-    "authors": [
-      "Riccardo Cipolloni",
-      "Leticia F. Cugliandolo"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Coupling Spherical p-Spin Systems: Cross-Correlations and Shared Aging Dynamics in Multi-Subsystem Models",
-    "tldr": "We derive closed-form two-time equations for coupled spherical p-spin systems with site-independent inter-system couplings and correlated quenched disorder. The analysis reveals how cross-correlations evolve and identifies shared aging scales across subsystems.",
-    "significance": "This work provides a controlled framework to study joint evolution and aging in coupled glassy systems, advancing theoretical understanding of complex dynamics.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a870a2ad12bced296d7d3e94c02a419b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17521v1",
-    "arxiv_id": "2609.17521v1",
-    "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-    "authors": [
-      "Chuhao Chen",
-      "Peter Wonka",
-      "Chaoyang Wang"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "PhysStream: Fine-Grained, Physics-Grounded Video Generation via Structured Scene Memory and Motion Control",
-    "tldr": "PhysStream introduces an autoregressive framework that generates physics-consistent video streams by maintaining structured scene memory and enabling fine-grained motion control. Unlike prior methods, it does not require a full control schedule upfront and operates in real-time, offering physically meaningful manipulation of dynamic scenes.",
-    "significance": "This work bridges the gap between coarse prompt-based video generation and physically grounded control, enabling more realistic and interactive video synthesis.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "89c3c7b405530348a752de00d59ea868",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17520v1",
-    "arxiv_id": "2609.17520v1",
-    "title": "Renormalizing small ball events for branching random walk",
-    "authors": [
-      "Vilas Winstein"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Renormalizing Small Ball Events in Branching Random Walks: Exponential Decay of Correlations",
-    "tldr": "We study a branching random walk conditioned on all endpoints lying in a small interval. Using renormalization group techniques we show that this conditioning forces exponential decay of correlations with a correlation length proportional to the interval radius.",
-    "significance": "The result provides a rigorous understanding of how conditioning on rare events shapes spatial correlations in stochastic processes, with implications for statistical physics and probabilistic modeling.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4c8b5b59d5ecee1e32c39d2d25fb18a0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17518v1",
-    "arxiv_id": "2609.17518v1",
-    "title": "Higher abelian gauge theory in BV formalism",
-    "authors": [
-      "Shuhan Jiang"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Constructing BV Structures for Zero-Mode Partition Functions in Higher Abelian Gauge Theories",
-    "tldr": "A BV framework is built for zero modes of quadratic elliptic higher abelian gauge theories. The resulting partition functions are independent of the chosen zero-mode Lagrangian.",
-    "significance": "This provides a robust method to compute zero-mode partition functions in higher gauge theories, enhancing our understanding of topological quantum field theories.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "54b8d1aa0e4f1cd8b626f1ebd3e66352",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17516v1",
-    "arxiv_id": "2609.17516v1",
-    "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-    "authors": [
-      "Ali Şenol"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "LLMs Should Abstain: Chain-of-Self-Questioning Enables Selective Risk Control",
-    "tldr": "The paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only method that lets LLMs decide whether to answer based on assessing required knowledge. Experiments on TruthfulQA show CoSQ variants improve safety and reduce hallucinations across diverse conditions.",
-    "significance": "CoSQ offers a lightweight, prompt-based strategy to curb LLM hallucinations without costly retraining.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d2925429ef0be7efacf080c0f7e0138c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17515v1",
-    "arxiv_id": "2609.17515v1",
-    "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
-    "authors": [
-      "Congjing Zhang",
-      "Vashishtha Patil",
-      "Henning Lange"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Pruning's Hidden Costs: Smart Home Tool Calls Fail Across LLM Architectures",
-    "tldr": "This study examines how pruning LLMs affects their ability to perform context‑grounded tool calling in smart‑home scenarios. Results show that depth and width pruning degrade performance differently across dense, hybrid, and Mixture‑of‑Experts models, highlighting architecture‑specific trade‑offs.",
-    "significance": "Understanding pruning-induced degradation informs efficient deployment of LLMs in resource‑constrained smart‑home devices.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "131c26f0e090aff730d7a84683091e4c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17513v1",
-    "arxiv_id": "2609.17513v1",
-    "title": "Chern bounds and tangent geometry of polarized Calabi-Yau threefolds",
-    "authors": [
-      "Atsushi Kanazawa"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "New Quadratic Inequality Linking Degree and Chern Numbers for Polarized Calabi-Yau Threefolds",
-    "tldr": "We establish a new quadratic inequality between the degree and Chern numbers of a very ample polarized Calabi-Yau threefold by analyzing mixed intersections on the projectivized dual of its first jet bundle. This result refines the numerical geography of such varieties and connects tangent geometry with projective duality.",
-    "significance": "This inequality provides a sharper constraint on the geometry of Calabi-Yau threefolds, informing both theoretical classification and potential applications in string theory.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "dd88815e0c002a35e14dbd2fb460f20c",
-    "source": "web",
-    "url": "https://escholarship.org/uc/item/2nh2w5c8",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-15",
-    "headline": "Next-Gen GeoAI: Merging Foundation Models with Remote Sensing for Smarter Spatial Reasoning",
-    "tldr": "GeoAI is rapidly evolving, integrating advanced AI models with geospatial data to unlock new insights. This article explores recent breakthroughs and forecasts future directions for the field.",
-    "significance": "Understanding these trends is essential for researchers and practitioners aiming to harness GeoAI's transformative potential.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "424efee024fb3c5ce47a09c663a3bb6b",
-    "source": "web",
-    "url": "https://opensr.eu/",
-    "arxiv_id": "",
-    "title": "OpenSR - Trustworthy Super-Resolution",
-    "authors": [],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-15",
-    "headline": "OpenSR: Open-Source Super-Resolution for Trustworthy Remote Sensing Enabling High-Resolution Analysis Across Satellite Imagery",
-    "tldr": "OpenSR provides an open-source super-resolution pipeline that enhances satellite imagery quality. Its transparent code and model weights empower the remote sensing community to build reliable, high-resolution analyses.",
-    "significance": "By openly sharing its workflow and models, OpenSR democratizes advanced super-resolution, fostering innovation and trust in remote sensing applications.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "00f316fd55d50dd9081dd376c766da13",
-    "source": "web",
-    "url": "https://science.nasa.gov/earth-science/earth-action/geoai/",
-    "arxiv_id": "",
-    "title": "Geospatial Artificial Intelligence (GeoAI) for Applications Development ...",
-    "authors": [],
-    "published": "2026-09-14",
-    "curated_at": "2026-09-14",
-    "headline": "GeoAI: Harnessing Machine Learning and Foundation Models to Turn Earth Observation into Actionable Insights",
-    "tldr": "GeoAI blends machine learning, foundation models, and agentic AI to convert vast Earth observation data into actionable insights. These insights empower decision-makers to tackle environmental, urban, and agricultural challenges.",
-    "significance": "By automating analysis of massive Earth data, GeoAI accelerates timely, data-driven responses to global problems.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
       "real-time"
     ],
     "readtime": 3,
