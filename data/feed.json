@@ -1,5 +1,234 @@
 [
   {
+    "uid": "d4446b2d5754997795eb525cfaead966",
+    "source": "web",
+    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
+    "arxiv_id": "",
+    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "2025 GeoAI Trends: Predictive Insights, Automation, and Climate Solutions for Cities and Global Challenges",
+    "tldr": "In 2025, GeoAI leverages foundation models and real-time satellite imagery to forecast climate impacts and optimize urban planning. These advancements enable faster decision-making across agriculture, disaster response, and infrastructure management.",
+    "significance": "These trends transform how governments and businesses anticipate and mitigate environmental risks, driving smarter, data‑driven policy.",
+    "tags": [
+      "foundation-models",
+      "remote-sensing",
+      "urban-AI",
+      "flood-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "76223bc4cde5435f8d85cf9277348f9a",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/",
+    "arxiv_id": "",
+    "title": "GeoAI | Geo Week News",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "GeoAI Revolutionizes Geospatial Work with AI-Driven Feature Extraction and Predictive Analytics",
+    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction from imagery and point clouds, and enabling predictive analysis across the data pipeline. These advances unlock new applications in urban planning, environmental monitoring, and disaster response.",
+    "significance": "By integrating AI with large-scale spatial data, GeoAI accelerates decision-making and opens up real-time, data-driven insights for a wide range of industries.",
+    "tags": [
+      "remote-sensing",
+      "point-cloud",
+      "segmentation",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
+    "source": "web",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
+    "arxiv_id": "",
+    "title": "Towards the next generation of Geospatial Artificial Intelligence",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "Charting the Future of GeoAI: Emerging Trends and Next-Gen Innovations",
+    "tldr": "GeoAI merges geospatial science with AI, rapidly evolving as a leading field in spatial data science. This paper reviews recent advances and projects future directions to guide researchers and practitioners.",
+    "significance": "Understanding GeoAI's trajectory is crucial for leveraging AI to solve spatial challenges across environmental, urban, and societal domains.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "079f3198282271621f612e9d277c56ab",
+    "source": "web",
+    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
+    "arxiv_id": "",
+    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "GeoAI Revolutionizes Geospatial Insights: AI, Data, and Sensors Converge for Smarter Mapping",
+    "tldr": "Artificial intelligence is reshaping geospatial analysis by integrating data, sensing technologies, and AI-driven insights. This GeoAI shift promises faster, more accurate mapping and decision-making across industries.",
+    "significance": "GeoAI will transform how organizations capture, analyze, and act on spatial information, enabling smarter, data-driven decisions.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "db9c5511e47427b8df045b8a80a91a99",
+    "source": "web",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2527316",
+    "arxiv_id": "",
+    "title": "Geospatial Artificial Intelligence (GeoAI) Is Widening the Digital ...",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "GeoAI Expands Digital Divide: Data Sovereignty, Power, and Literacy Gaps Grow",
+    "tldr": "GeoAI merges AI with spatial data, offering powerful insights but also deepening inequities in data control, computational resources, and essential literacy. The concentration of GeoAI capabilities risks widening the digital divide beyond mere access.",
+    "significance": "Understanding GeoAI's inequity risks is crucial for equitable technology deployment and policy.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "c372756dc3050e8979c1ab5331fba6b3",
+    "source": "web",
+    "url": "https://github.com/topics/remote-sensing",
+    "arxiv_id": "",
+    "title": "remote-sensing · GitHub Topics · GitHub",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "Remote Sensing Change Detection: Datasets, Tools, Methods, and Competitions Hub",
+    "tldr": "This GitHub topic aggregates up-to-date datasets, tools, and research for detecting changes in remote sensing imagery. It also highlights competitions and review papers to support practitioners and researchers.",
+    "significance": "It serves as a central resource accelerating progress in change detection across environmental and urban monitoring.",
+    "tags": [
+      "remote-sensing",
+      "change-detection",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "26fa3243384f40ff7220879e19adbf53",
+    "source": "web",
+    "url": "https://github.com/opengeos/geoai",
+    "arxiv_id": "",
+    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GitHub",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "GeoAI Toolkit: Streamlined Satellite Imagery Access & AI-ready Dataset Generation",
+    "tldr": "GeoAI provides easy access to Sentinel, Landsat, NAIP, and other open datasets, automating download, mosaicking, preprocessing, and generating labeled image chips for AI tasks. Its vector-to-raster utilities and data augmentation tools streamline the creation of high-quality training data for segmentation and object detection models.",
+    "significance": "By simplifying remote sensing data workflows, GeoAI accelerates AI research and deployment in geospatial applications.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
+    "source": "web",
+    "url": "https://opengeoai.org/",
+    "arxiv_id": "",
+    "title": "Home - GeoAI",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "GeoAI: A Python Package Uniting AI with Geospatial Data Analysis and Visualization",
+    "tldr": "GeoAI is a Python library that seamlessly integrates machine learning models into geospatial workflows, enabling tasks like segmentation, object detection, and change detection on satellite imagery. It offers intuitive APIs, visualization tools, and supports open‑source data formats for researchers and practitioners.",
+    "significance": "GeoAI democratizes advanced AI techniques for geospatial analysis, accelerating insights across environmental monitoring, urban planning, and disaster response.",
+    "tags": [
+      "open-source",
+      "remote-sensing",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "0a000f935aceec4a908e71d0fce3c7f0",
+    "source": "web",
+    "url": "https://www.grsg.org.uk/open-source-software",
+    "arxiv_id": "",
+    "title": "Open Source Software - The Geological Remote Sensing Group (GRSG)",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "GRSG: A Free, Open-Source Suite for Advanced Optical, SAR, and Hyperspectral Remote Sensing",
+    "tldr": "The Geological Remote Sensing Group (GRSG) aggregates free geospatial software and libraries for comprehensive remote sensing. It enables advanced image processing across optical, multispectral, SAR, and hyperspectral data for researchers and professionals.",
+    "significance": "GRSG democratizes cutting‑edge remote‑sensing capabilities by providing a unified, open‑source toolkit that supports diverse datasets and advanced analytics.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "SAR",
+      "satellite-imagery"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "57bbba71b7a72c67542b239374b0f3de",
+    "source": "web",
+    "url": "https://rastervision.io/",
+    "arxiv_id": "",
+    "title": "Raster Vision: An open-source machine learning library for deep ...",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "Raster Vision: Open-Source Library Bridging GIS and Deep Learning for Remote Sensing",
+    "tldr": "Raster Vision offers a configurable computer vision pipeline tailored for geospatial tasks such as chip classification, semantic segmentation, and object detection. Its open-source design enables researchers and practitioners to integrate GIS data with deep learning models seamlessly.",
+    "significance": "By unifying GIS workflows with state-of-the-art deep learning, Raster Vision accelerates the development of scalable, reproducible geospatial AI solutions.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "object-detection",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e5ef65dd55b3cbaac11af570a247ffb1",
+    "source": "web",
+    "url": "https://gisgeography.com/open-source-remote-sensing-software-packages/",
+    "arxiv_id": "",
+    "title": "13 Open Source Remote Sensing Software Packages",
+    "authors": [],
+    "published": "2026-10-02",
+    "curated_at": "2026-10-02",
+    "headline": "Explore 13 Free Remote Sensing Tools for Satellite Image Analysis",
+    "tldr": "This article lists 13 open‑source software packages that support satellite imagery processing, from basic GIS tools to advanced machine‑learning frameworks. Each entry highlights its core strengths, typical use cases, and installation guidance.",
+    "significance": "Open‑source remote sensing software empowers researchers and practitioners to conduct cost‑effective, reproducible geospatial analyses.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "satellite-imagery",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "272fe4f0c8b40fe256dd93356b1f3470",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2609.40363v1",
@@ -1129,246 +1358,6 @@
       "remote-sensing",
       "urban-AI",
       "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "779e0a05d5e0e30b6641ab27ced03d9b",
-    "source": "web",
-    "url": "https://events.ornl.gov/acmsigspatial-geoai2025/",
-    "arxiv_id": "",
-    "title": "ACMSIGSPATIAL-GEOAI 2025 - Conference Tagline",
-    "authors": [],
-    "published": "2026-09-19",
-    "curated_at": "2026-09-19",
-    "headline": "AI Accelerators Transform Geospatial Science: Deep Learning Drives Multimodal Data Insights",
-    "tldr": "Artificial intelligence and hardware accelerators are reshaping geospatial sciences, enabling automated learning from vast multimodal datasets. These breakthroughs promise transformative solutions to societal challenges.",
-    "significance": "This convergence accelerates the development of real‑time, high‑resolution geospatial analytics that can inform policy, disaster response, and sustainable development.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "satellite-imagery",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "762c83592693d584bfc0fba64f7899ac",
-    "source": "web",
-    "url": "https://github.com/mbzuai-oryx/ThinkGeo",
-    "arxiv_id": "",
-    "title": "GitHub - mbzuai-oryx/ThinkGeo: [CVPR 2026 ] ThinkGeo is a ...",
-    "authors": [],
-    "published": "2026-09-19",
-    "curated_at": "2026-09-19",
-    "headline": "ThinkGeo: A CVPR 2026 Benchmark for LLMs on Remote Sensing Tasks",
-    "tldr": "ThinkGeo provides a suite of human‑curated satellite queries that test language models' ability to reason step‑by‑step and use tools for complex remote‑sensing challenges. The benchmark covers disaster response, urban planning, and environmental monitoring, offering a structured evaluation framework for LLMs in geospatial AI.",
-    "significance": "It bridges natural language processing and geospatial analysis, enabling systematic assessment of LLMs on real‑world satellite imagery tasks.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "edd7f39b69b1ee3dd2e00f383d1c9861",
-    "source": "web",
-    "url": "https://book.opengeoai.org/",
-    "arxiv_id": "",
-    "title": "GeoAI with Python",
-    "authors": [],
-    "published": "2026-09-18",
-    "curated_at": "2026-09-18",
-    "headline": "Open-Source GeoAI: Dr. Wu Bridges Remote Sensing, AI, and Earth Observation",
-    "tldr": "Dr. Wu's open-source GeoAI projects on GitHub are widely adopted by researchers, educators, and practitioners worldwide. They integrate remote sensing, Earth observation, and AI to make large-scale geospatial data more accessible, reproducible, and intelligent.",
-    "significance": "By combining remote sensing, AI, and open-source tools, Dr. Wu democratizes access to large-scale geospatial data, fostering innovation across research, education, and industry.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "satellite-imagery",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7552b12f31b674cbeff5b9e5449247e6",
-    "source": "web",
-    "url": "https://gebeta.net/free-gis-remote-sensing-toolkit/",
-    "arxiv_id": "",
-    "title": "Free GIS & Remote‑Sensing Toolkit | Gebeta Media",
-    "authors": [],
-    "published": "2026-09-18",
-    "curated_at": "2026-09-18",
-    "headline": "Explore Free GIS & Remote‑Sensing Tools: Desktop, Cloud, Data, and ML Libraries",
-    "tldr": "This guide lists top free and open‑source GIS and remote‑sensing software, cloud services, and data sources. It also highlights machine‑learning libraries for image analysis and spatial modeling.",
-    "significance": "Providing a consolidated resource empowers researchers and practitioners to access powerful tools without cost barriers.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "satellite-imagery"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "62f022639b33019f7564b1518f920235",
-    "source": "web",
-    "url": "https://openremotesensing.net/",
-    "arxiv_id": "",
-    "title": "Open Remote Sensing - Open Remote Sensing is a website aiming at the ...",
-    "authors": [],
-    "published": "2026-09-17",
-    "curated_at": "2026-09-17",
-    "headline": "Open Remote Sensing: A Hub for Hyperspectral Fusion, Deep Learning, and Cross-City Benchmarks",
-    "tldr": "Open Remote Sensing aggregates cutting‑edge research on hyperspectral pansharpening, deep‑learning image fusion, and a multimodal cross‑city benchmark for semantic segmentation. It serves as an open‑source platform for researchers to access datasets, tools, and protocols.",
-    "significance": "By consolidating state‑of‑the‑art methods and datasets, the platform accelerates reproducible research and practical deployment in urban and environmental monitoring.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "benchmark",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "47a9a41832d1ffd0ac4d5ddeb6229b55",
-    "source": "web",
-    "url": "https://pypi.org/project/geoai-py/",
-    "arxiv_id": "",
-    "title": "geoai-py · PyPI",
-    "authors": [],
-    "published": "2026-09-17",
-    "curated_at": "2026-09-17",
-    "headline": "GeoAI: A Python Toolkit Bridging AI and Geospatial Data Analysis",
-    "tldr": "GeoAI is a Python package that integrates AI and geospatial data analysis, offering intuitive tools for machine learning on geographic data. It supports a wide range of geospatial tasks, making advanced analytics accessible to researchers and practitioners.",
-    "significance": "GeoAI democratizes advanced geospatial AI techniques, enabling rapid development of location-based insights across diverse domains.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "satellite-imagery"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "ab3fb4b8a201347d0fd666da0435023f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17531v1",
-    "arxiv_id": "2609.17531v1",
-    "title": "$B$-sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations",
-    "authors": [
-      "Claudio Ranucci",
-      "Sébastien Pierre",
-      "Léo Vacher"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Robustness Testing of B-Mode Detection in CMB via Scattering Transforms",
-    "tldr": "The study introduces scattering transforms as a robustness test for tensor-to-scalar ratio estimation in CMB polarisation data, mitigating foreground contamination biases. It demonstrates that this method can reduce false detections of primordial B-modes, improving reliability of r measurements.",
-    "significance": "By providing a novel, data-driven technique to assess and mitigate foreground residuals, the work enhances the credibility of future B-mode detections and the quest for primordial gravitational waves.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9f53833583d14effe381f13413824546",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17530v1",
-    "arxiv_id": "2609.17530v1",
-    "title": "Vanilla Scotogenic Model at the future Muon Collider",
-    "authors": [
-      "Niloy Mondal",
-      "Dipankar Pradhan",
-      "Abhik Sarkar"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Exploring the Vanilla Scotogenic Model at a Future Muon Collider",
-    "tldr": "The vanilla scotogenic model links neutrino masses, dark matter, and baryogenesis, with a typical mass scale around 10 TeV. Future muon colliders could probe this regime, especially with enhanced second‑generation Yukawa couplings.",
-    "significance": "It offers a testable framework that unifies key cosmological puzzles within a reachable energy scale for upcoming collider experiments.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5a29f554c8bf1d503c548f2a5c87ae86",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17529v1",
-    "arxiv_id": "2609.17529v1",
-    "title": "An Alon-Boppana Bound for the Non-Backtracking Operator",
-    "authors": [
-      "Theo McKenzie"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "New Lower Bound on Non-Backtracking Eigenvalues Extends Alon-Boppana Theorem for Large Graphs",
-    "tldr": "The paper proves a universal lower bound on the k-th largest eigenvalue modulus of the non-backtracking matrix for graphs converging locally to a Galton-Watson tree. This extends the classical Alon-Boppana bound to the non-backtracking operator and applies to both deterministic and random graph families.",
-    "significance": "It provides a fundamental spectral limit that informs the design of graph-based algorithms and the analysis of network robustness.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "012666dc827dd36d1789af8bc66e1773",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17527v1",
-    "arxiv_id": "2609.17527v1",
-    "title": "Agentic Societies Need a Social Harness",
-    "authors": [
-      "Tapan Chugh",
-      "Vidushi Singh",
-      "Krish Jain"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Agentic Societies Require a New Social Harness to Coordinate Across Trust Boundaries",
-    "tldr": "We demonstrate that existing harnesses and messaging primitives fail to enable satisfactory coordination among autonomous AI agents, even when they are honest and competent. Faulty or malicious agents can stall progress, highlighting the need for a robust social harness.",
-    "significance": "This work reveals fundamental limitations in current agent coordination frameworks, underscoring the necessity for more resilient social harnesses in agentic societies.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "98b2f26c9bbcc358311e9f1dc05111cc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.17525v1",
-    "arxiv_id": "2609.17525v1",
-    "title": "You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers",
-    "authors": [
-      "Santosh Gokul Narayanan",
-      "Giovanni Paladino",
-      "Chuqi Zhang"
-    ],
-    "published": "2026-09-15",
-    "curated_at": "2026-09-16",
-    "headline": "Privacy‑First Kernel‑Level Anti‑Cheat: Tirith Protects Players Without Ring‑0 Intrusion for Competitive Gaming",
-    "tldr": "Tirith offers a kernel‑level anti‑cheat that respects user privacy by avoiding privileged ring‑0 components. It balances effective cheat detection with a privacy‑friendly architecture, making it suitable for personal PCs.",
-    "significance": "This work demonstrates that robust anti‑cheat can coexist with user privacy, challenging the prevailing assumption that kernel‑level protection must compromise personal data.",
-    "tags": [
-      "open-source",
-      "benchmark",
       "real-time"
     ],
     "readtime": 3,
