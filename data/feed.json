@@ -1,5 +1,292 @@
 [
   {
+    "uid": "3f4ce700bab3b624040bbac6c77e2799",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02208v1",
+    "arxiv_id": "2610.02208v1",
+    "title": "Sphere Encoder 2",
+    "authors": [
+      "Kaiyu Yue",
+      "Sean McLeish",
+      "Ruchit Rawal"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "Improving Sphere Encoder: Bridging Latent Sphere Gaps for Better One-Step Image Generation",
+    "tldr": "The Sphere Encoder 2 paper addresses two key limitations of the original model: the concentration of latent points near the equator and the incomplete training rotation. By correcting these gaps, the model achieves higher quality, one-step image generation.",
+    "significance": "This work enhances autoencoder-based generative models, enabling more reliable and high-fidelity image synthesis from latent spheres.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7b9d76155c3647de8060677e64a7a6aa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02207v1",
+    "arxiv_id": "2610.02207v1",
+    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+    "authors": [
+      "Ramazan Fazylov",
+      "Stamatis Lefkimmiatis",
+      "Ivan Laptev"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "Fast Real-Time Avatar Animation via Gaussian Blendshape Distillation",
+    "tldr": "We show that pretrained 3D Gaussian avatars can be animated efficiently by approximating them with a linear combination of identity-independent blendshapes. Our GALA method distills neural inference into a lightweight linear model, enabling real-time avatar animation without sacrificing visual quality.",
+    "significance": "This approach dramatically reduces computational cost, making high-fidelity avatar animation feasible on consumer hardware.",
+    "tags": [
+      "real-time",
+      "open-source",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f312d3e31a7271efd9cc6d3c409acc19",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02206v1",
+    "arxiv_id": "2610.02206v1",
+    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "authors": [
+      "Pengfei Li",
+      "Naufal Suryanto",
+      "Sicheng Zhang"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "KaliBench: Benchmarking LLM-Generated Cybersecurity Commands on Kali Linux Without Runtime Overhead",
+    "tldr": "KaliBench introduces a fine-grained benchmark that evaluates LLMs on their ability to produce executable Kali Linux tool commands. The dataset includes runtime-free verifiable rewards, enabling objective measurement of tool invocation accuracy.",
+    "significance": "This benchmark bridges the gap between knowledge-based LLM evaluation and real-world cybersecurity tool usage, providing a practical metric for operational readiness.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f1e959a135a15e337441719a29bbd75b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02205v1",
+    "arxiv_id": "2610.02205v1",
+    "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+    "authors": [
+      "Zheng-Hui Huang",
+      "Guixu Lin",
+      "Yu-Ju Tsai"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "Evaluating Visual Fidelity of Programmable World Models in Next-Gen Game Engines",
+    "tldr": "Programmable world models separate dynamics from visual rendering, but their adherence to program rules is under-tested. This study introduces a benchmark to assess fine-grained visual fidelity in game engine contexts.",
+    "significance": "The benchmark provides a systematic way to ensure that visual outputs match explicit program specifications, advancing reliable game engine development.",
+    "tags": [
+      "benchmark",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "71d52f4f765879539b232a8afac08663",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02203v1",
+    "arxiv_id": "2610.02203v1",
+    "title": "Embedding Prediction Helps Image Generation",
+    "authors": [
+      "Sihan Xu",
+      "Ji Xie",
+      "Zilin Wang"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "Predicting Embeddings Boosts Diffusion Transformer Image Generation for High-Resolution Visuals",
+    "tldr": "NEPA trains a Transformer to predict the next continuous embedding, allowing the model to use predicted embeddings as conditioning during denoising. This reduces reliance on a fixed prompt and improves image generation quality and flexibility.",
+    "significance": "By enabling dynamic conditioning, NEPA enhances diffusion models' adaptability and opens new avenues for controllable image synthesis.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "94b8625876dc611e07cbff0ac663da51",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02202v1",
+    "arxiv_id": "2610.02202v1",
+    "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+    "authors": [
+      "Sohyeon Kim",
+      "Yoonho Lee",
+      "Bo Liu"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "ScholarCatalyst: Benchmarking Retrieval of Inspiring Papers for New Scientific Research",
+    "tldr": "ScholarCatalyst introduces a benchmark that evaluates AI systems' ability to retrieve prior papers that directly inspire new research, using curated datasets from researchers who cite foundational works. The benchmark highlights the gap between current AI retrieval models and human expertise in recognizing relevant scientific lineage.",
+    "significance": "It provides a rigorous test for AI systems to emulate the human skill of spotting pivotal prior research, crucial for accelerating scientific discovery.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bb389e1b4ce4cd956c362bd1c97acf87",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02201v1",
+    "arxiv_id": "2610.02201v1",
+    "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+    "authors": [
+      "Tianjiao Yu",
+      "Xinzhuo Li",
+      "Yifan Shen"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "SILSA: Sliding-Window Latents Preserve Topology for High-Res 3D Generation",
+    "tldr": "SILSA introduces a sliding-window slice latent approach that maintains surface continuity while reducing token fragmentation in voxel-based 3D generation. By preserving topology, it lowers computational cost and improves fidelity for thin or highly connected shapes.",
+    "significance": "This method enables more efficient, topologically consistent high-resolution 3D models, advancing realistic synthetic geometry creation.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0e5a46ee2e46f53ccfd080e8001d2d46",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02200v1",
+    "arxiv_id": "2610.02200v1",
+    "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+    "authors": [
+      "Qiushi Han",
+      "Keya Hu",
+      "Linlu Qiu"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "VISTA: Enabling Long-Horizon Vision for Multimodal Reasoning in Interactive Environments",
+    "tldr": "We demonstrate that multimodal models can excel at reasoning when provided with a visual harness that offers long-horizon vision. VISTA allows these models to directly perceive and process visual observations in interactive environments, unlocking their potential across diverse tasks.",
+    "significance": "VISTA bridges the gap between general-purpose multimodal models and complex interactive tasks, enabling more robust reasoning capabilities.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "aea525b40e2fbe2c75c657d9b61d44a8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02199v1",
+    "arxiv_id": "2610.02199v1",
+    "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+    "authors": [
+      "Jichao Jiang",
+      "Cristian McGee",
+      "El Houcine Bergou"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "TACO: Memory-Efficient Optimizer for Full-Parameter LLM Fine-Tuning, Reducing GPU Memory Footprint",
+    "tldr": "TACO introduces a ternary absolute-max column-wise one-sparse optimizer that dramatically cuts optimizer state memory for full-parameter fine-tuning of large language models. By leveraging sparse updates, it enables training larger models on existing GPUs without sacrificing convergence speed.",
+    "significance": "This work lowers the barrier to fine-tuning massive LLMs, making it feasible on commodity hardware and accelerating research.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9ccd7d57ef0d1f79fce9ddf9bc7a2a89",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02198v1",
+    "arxiv_id": "2610.02198v1",
+    "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+    "authors": [
+      "Sebastian Sanokowski",
+      "Alireza Sarmadi",
+      "Majid Khadiv"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "FERPO: Enhancing Reinforcement Learning with Forward Entropy-Regularized Policy Updates",
+    "tldr": "FERPO introduces a novel entropy-regularized policy optimization that leverages forward action gradients, addressing inaccuracies in critic-derived gradients. The method improves stability and performance in continuous control tasks compared to existing gradient-based RL algorithms.",
+    "significance": "By ensuring more reliable policy updates, FERPO advances the robustness of online RL in continuous control, potentially benefiting robotics and autonomous systems.",
+    "tags": [
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "96cfb7a87267d3a417f9508bf5dade80",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02197v1",
+    "arxiv_id": "2610.02197v1",
+    "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
+    "authors": [
+      "Tahira Kazimi",
+      "Shubhankar Borse",
+      "Munawar Hayat"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "Physically Plausible Video Generation with Hierarchical Alignment for Multi‑Principle Scenarios",
+    "tldr": "HiPhy introduces a hierarchical alignment framework that enforces multiple physical laws in video generation, enabling realistic simulations of complex interactions like buoyancy and gravity. The model demonstrates improved physical plausibility while maintaining high visual fidelity on benchmark datasets.",
+    "significance": "This work bridges the gap between visual realism and physical accuracy, paving the way for reliable AI‑driven simulations in science and entertainment.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e12d8be7e1c1634b86fa2aa01e736919",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02196v1",
+    "arxiv_id": "2610.02196v1",
+    "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+    "authors": [
+      "Zhuo Lin",
+      "Sirui Xu",
+      "Liuyu Bian"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-03",
+    "headline": "InterEvolve: Adapting Humanoid Controllers at Test Time for New Loco-Manipulation Tasks",
+    "tldr": "We demonstrate that a pre-trained humanoid controller can be repurposed for unseen tasks by evolving its reward program during deployment. This approach improves performance without retraining and retains learned skills.",
+    "significance": "This method enables rapid deployment of versatile humanoid robots in dynamic environments without costly retraining.",
+    "tags": [
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d4446b2d5754997795eb525cfaead966",
     "source": "web",
     "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
@@ -1112,255 +1399,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "1240564765fc301d3c2643c1131bc3ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35757v1",
-    "arxiv_id": "2609.35757v1",
-    "title": "Can Fingers of God be Resummed?",
-    "authors": [
-      "Shi-Fan Chen",
-      "Alejandro Aviles"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Resumming Fingers of God: Extending Effective Field Theory for Small-Scale Galaxy Clustering",
-    "tldr": "This study proposes a resummation technique for Fingers of God, mitigating their impact on redshift-space clustering models. By incorporating the resummed Doppler shifts into the effective field theory framework, the authors extend the predictive reach to smaller scales.",
-    "significance": "The work enables more accurate cosmological parameter inference from upcoming redshift surveys by overcoming a major systematic limitation.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6857ba2d10f3032036e30d028a16f483",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35756v1",
-    "arxiv_id": "2609.35756v1",
-    "title": "Gauge Backreaction in Standard Model Warm Inflation",
-    "authors": [
-      "Rafid H. Dejrah",
-      "Anish Ghoshal"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Gauge Plasma Dynamics Challenge Warm Inflation Models",
-    "tldr": "Standard-Model warm inflation links QCD dissipation to cosmology, but a slowly relaxing gauge-helicity response cannot be simplified into a friction term. The study evolves quark axial densities to capture this dynamical effect.",
-    "significance": "It shows that real-time gauge plasma behavior must be explicitly modeled to accurately predict inflationary dynamics.",
-    "tags": [
-      "real-time",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "31f297f88fe4500e8d54ba8b8b3549ff",
-    "source": "web",
-    "url": "https://spatialists.ch/posts/2025/03/25-geoai-state-of-play-in-2025/",
-    "arxiv_id": "",
-    "title": "GeoAI: State-of-play in 2025 - Spatialists - geospatial news",
-    "authors": [],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-28",
-    "headline": "Swiss GeoAI Landscape: Key Players, Innovations, and Three Core GIS Applications in 2025",
-    "tldr": "The Innovation Booster AI review maps the Swiss GeoAI ecosystem, spotlighting major providers and startups. It outlines three primary AI use cases in GIS, from remote sensing to urban planning and real-time analytics.",
-    "significance": "This report underscores Switzerland’s leadership in integrating AI into GIS, guiding stakeholders on emerging opportunities and best practices.",
-    "tags": [
-      "remote-sensing",
-      "urban-AI",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "98447cf0c583b80d7cbe074f9be4cc8a",
-    "source": "web",
-    "url": "https://blogs.lib.purdue.edu/news/2025/11/11/highlights-from-purdue-gis-day-2025-unlocking-geoai-data-and-tools/",
-    "arxiv_id": "",
-    "title": "Highlights from Purdue GIS Day 2025: Unlocking GeoAI Data and Tools",
-    "authors": [],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-28",
-    "headline": "Purdue GIS Day 2025 Highlights GeoAI Innovations and Industry Collaboration",
-    "tldr": "The event drew over 200 participants for talks, posters, and networking, showcasing the latest GeoAI tools. Key sessions covered foundation models, remote sensing, and open-source solutions.",
-    "significance": "It underscored Purdue's leadership in integrating AI with geospatial science, fostering cross-disciplinary partnerships.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "open-source",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e64deb34cb5a434ed49bc87e38ef283e",
-    "source": "web",
-    "url": "https://github.com/google-research/remote-sensing",
-    "arxiv_id": "",
-    "title": "️ Earth AI Remote Sensing Models - GitHub",
-    "authors": [],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-28",
-    "headline": "Earth AI Remote Sensing Models: Open-Source Satellite Image Analysis Toolkit",
-    "tldr": "Earth AI offers a suite of open-source models for analyzing satellite imagery, covering tasks like segmentation, object detection, and change detection. The repository provides pretrained weights, documentation, and benchmarks for researchers and developers.",
-    "significance": "It democratizes advanced remote sensing capabilities, enabling rapid deployment of AI solutions for environmental monitoring and urban planning.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5ab5eede356b856d4b1bed7552008f21",
-    "source": "web",
-    "url": "https://github.com/ua-datalab/geospatial_2025",
-    "arxiv_id": "",
-    "title": "GitHub - ua-datalab/geospatial_2025",
-    "authors": [],
-    "published": "2026-09-25",
-    "curated_at": "2026-09-25",
-    "headline": "AI Models Transform GIS: From Advice to Autonomous Spatial Analysis Agents",
-    "tldr": "AI systems are evolving from providing guidance to executing GIS commands autonomously, reshaping how spatial data is analyzed. This shift promises faster, more accurate geospatial insights across remote sensing and GIS workflows.",
-    "significance": "This evolution enables real-time, code-free geospatial analysis, accelerating decision-making in fields like urban planning and environmental monitoring.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "remote-sensing"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3d9596306ba64cf3a699aa93a3d50bbb",
-    "source": "web",
-    "url": "https://www.esri.com/about/newsroom/announcements/esri-releases-new-book-demonstrating-how-geoai-powers-greater-automation-prediction-and-optimization",
-    "arxiv_id": "",
-    "title": "Esri Releases New Book Demonstrating How GeoAI Powers Greater ...",
-    "authors": [],
-    "published": "2026-09-24",
-    "curated_at": "2026-09-24",
-    "headline": "Esri Publishes GeoAI Book Showcasing Real-World GIS AI Applications Across Industries",
-    "tldr": "Esri has released \"GeoAI: Artificial Intelligence in GIS\", a collection of real-life case studies illustrating how AI enhances geospatial analysis. The book covers applications from public to private sectors, demonstrating practical solutions to complex challenges.",
-    "significance": "This publication highlights the growing role of AI in GIS, offering actionable insights for professionals seeking to leverage geospatial intelligence.",
-    "tags": [
-      "remote-sensing",
-      "urban-AI",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "b3aa8a8a8cead5d3235b9715528479d9",
-    "source": "web",
-    "url": "https://github.com/wenhwu/awesome-remote-sensing-change-detection",
-    "arxiv_id": "",
-    "title": "Awesome Remote Sensing Change Detection - GitHub",
-    "authors": [],
-    "published": "2026-09-23",
-    "curated_at": "2026-09-23",
-    "headline": "Comprehensive Remote Sensing Change Detection Resource: Datasets, Tools, Methods, and Competitions",
-    "tldr": "This GitHub repository curates the latest datasets, tools, methods, review papers, and competitions for remote sensing change detection. It serves as a go-to reference for researchers and practitioners to stay updated and benchmark their solutions.",
-    "significance": "It accelerates research and application by centralizing essential resources for detecting changes in satellite imagery.",
-    "tags": [
-      "remote-sensing",
-      "change-detection",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "f2ee7fbdaf560a1debf0cc4728aff3ed",
-    "source": "web",
-    "url": "https://www.isprs.org/",
-    "arxiv_id": "",
-    "title": "International Society for Photogrammetry and Remote Sensing",
-    "authors": [],
-    "published": "2026-09-22",
-    "curated_at": "2026-09-22",
-    "headline": "International Society for Photogrammetry and Remote Sensing: Advancing Global Collaboration in Mapping Technologies",
-    "tldr": "The International Society for Photogrammetry and Remote Sensing (ISPRS) is a non‑governmental organization that fosters international cooperation to advance photogrammetry and remote sensing technologies. It supports research, education, and the application of these methods worldwide.",
-    "significance": "ISPRS plays a pivotal role in setting standards and promoting best practices that underpin modern geospatial analysis.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "e4a462a5e5fd0e53d897c4ac09d719dc",
-    "source": "web",
-    "url": "https://opengeoai.org/workshops/GeoAI_Workshop_2025/",
-    "arxiv_id": "",
-    "title": "Object Detection from Remote Sensing Imagery with GeoAI",
-    "authors": [],
-    "published": "2026-09-22",
-    "curated_at": "2026-09-22",
-    "headline": "GeoAI Object Detection in Remote Sensing: From Installation to Model Training",
-    "tldr": "This notebook walks through installing GeoAI, downloading satellite imagery, visualizing data, and training an object detection model. It demonstrates end-to-end workflow for detecting objects in remote sensing images.",
-    "significance": "It empowers users to quickly apply state‑of‑the‑art object detection to satellite imagery, accelerating geospatial analysis.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "object-detection",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "ab288ac78cacedf5cf8ed9fec2b6dd54",
-    "source": "web",
-    "url": "https://www.geoai.au/category/news/",
-    "arxiv_id": "",
-    "title": "News Archives - Geospatial Artificial Intelligence | GeoAI",
-    "authors": [],
-    "published": "2026-09-20",
-    "curated_at": "2026-09-20",
-    "headline": "GeoAI Unveils Latest Feature Updates and Cutting-Edge Geospatial AI Technologies",
-    "tldr": "The GeoAI news archive now showcases the newest feature releases and emerging technologies in geospatial AI. Stay informed on advancements from satellite imagery to real-time spatial reasoning.",
-    "significance": "These updates empower users to leverage state-of-the-art AI for smarter decision-making across diverse geospatial applications.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "b0f217cc8a29c38821a2082cbb09e30c",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S2589004225026689",
-    "arxiv_id": "",
-    "title": "GeoAI: Beyond mapping earth and cities through explainability ...",
-    "authors": [],
-    "published": "2026-09-20",
-    "curated_at": "2026-09-20",
-    "headline": "GeoAI Beyond Mapping: Explainable AI Transforms Earth and Urban Analysis",
-    "tldr": "GeoAI merges advanced AI with diverse geospatial data to reveal hidden patterns in Earth and cities. The iScience special issue showcases 11 cutting‑edge studies that demonstrate explainable models, real‑time monitoring, and new benchmarks for urban and environmental intelligence.",
-    "significance": "This work demonstrates how explainable GeoAI can guide policy, improve disaster response, and accelerate sustainable urban planning.",
-    "tags": [
-      "remote-sensing",
-      "urban-AI",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
