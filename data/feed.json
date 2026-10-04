@@ -1,5 +1,360 @@
 [
   {
+    "uid": "5bbd3b7f93ea3839a44020115af9448c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02210v1",
+    "arxiv_id": "2610.02210v1",
+    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+    "authors": [
+      "Sophia Feldman",
+      "Assaf Shocher"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Escher, Moore, and Penrose Reveal a Conformal Golden Braid in 1956 Print Gallery",
+    "tldr": "An analysis of Escher’s 1956 lithograph Print Gallery uncovers a hidden conformal mapping that intertwines the golden ratio with Penrose tiling. The study links visual art to modern mathematical frameworks, offering new insights into symmetry and geometry.",
+    "significance": "It bridges art and advanced geometry, demonstrating how classic works anticipate contemporary mathematical concepts.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "eec4a8a34b977e99a2c054e3111486fb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02204v1",
+    "arxiv_id": "2610.02204v1",
+    "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+    "authors": [
+      "Yen-Jen Wang",
+      "Haozhe Jiang",
+      "Shuying Deng"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Reconstruct, Practice, Go Real: Autonomous Robot Skill Refinement Without Weight Updates",
+    "tldr": "RPG is a framework that autonomously improves robot execution systems by identifying manipulation capabilities in offline datasets and refining policies without changing model weights. It reduces human effort in skill development, reward design, and perception-control integration.",
+    "significance": "RPG enables scalable, low-maintenance robot skill development, accelerating deployment across varied tasks.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8ac43cab9703703ae4112cffd38d1ef9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02195v1",
+    "arxiv_id": "2610.02195v1",
+    "title": "Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control",
+    "authors": [
+      "Akshay Balsubramani"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Exactly Solvable Cost-Augmented Schrödinger Bridges on Graphs via Feynman-Kac Tilt",
+    "tldr": "The paper shows that adding state costs to a Schrödinger bridge on a graph can be handled analytically by incorporating the cost into the reference process through a Feynman-Kac tilt, eliminating the need for learning control rates. This yields an exactly solvable model that replaces learned dynamics with a simple bridge formulation.",
+    "significance": "It provides a closed-form solution for cost-augmented transport on graphs, simplifying algorithms for stochastic control and optimal transport.",
+    "tags": [
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b0f51df26fe02cfa8420debcdecb4070",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02194v1",
+    "arxiv_id": "2610.02194v1",
+    "title": "SW1D: A Python package for seismic surface wave solutions in 1-D elastic media",
+    "authors": [
+      "Piyush Kolhe",
+      "Arjun Datta",
+      "Shijil Umer"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "SW1D: Python Package for Computing Rayleigh and Love Wave Dispersion in 1‑D Elastic Media",
+    "tldr": "SW1D provides a Python implementation of a propagator‑matrix solver for surface wave eigenvalue problems, enabling fast calculation of Rayleigh and Love wave dispersion curves and synthetic seismograms in 1‑D isotropic media. The package supports point source excitations and outputs frequency‑domain solutions for use in seismic modeling and inversion.",
+    "significance": "It democratizes advanced surface‑wave analysis by offering an open‑source, easy‑to‑use tool that replaces legacy, language‑specific codes.",
+    "tags": [
+      "open-source",
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f866c2c984cacabf2c0d4f14b35a6d5a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02193v1",
+    "arxiv_id": "2610.02193v1",
+    "title": "Hierarchical Continuous Diffusion Language Models",
+    "authors": [
+      "Hui Ren",
+      "Zihan Li",
+      "Chang Liu"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Hierarchical Continuous Diffusion Models for Bidirectional Language Generation and Global Constraint Satisfaction",
+    "tldr": "This paper introduces hierarchical continuous diffusion language models that preserve token dependencies during parallel decoding, enabling efficient bidirectional generation with global constraints. The approach improves over discrete diffusion by modeling continuous latent spaces and hierarchical sampling, achieving state‑of‑the‑art performance on benchmark language tasks.",
+    "significance": "It advances diffusion-based language modeling by overcoming the independence bottleneck, paving the way for more coherent, globally constrained text generation.",
+    "tags": [
+      "LLM",
+      "diffusion-models",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b3d2d112eb149895d8198e21cf10a68b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02192v1",
+    "arxiv_id": "2610.02192v1",
+    "title": "Hyperbolic lattices with mass disorder: Phases and phase transitions",
+    "authors": [
+      "Sheersh Sen",
+      "Christopher A. Leong",
+      "Bitan Roy"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Hyperbolic Lattice Models Reveal Dirac, Fermi, and Flat Band Phases with Disorder",
+    "tldr": "We study nearest-neighbor tight-binding models on hyperbolic lattices and find that disorder leads to distinct density-of-states behaviors: a vanishing DOS (Dirac liquid), finite DOS (Fermi liquid), and diverging DOS (flat band). These results highlight the role of lattice geometry in electronic phases.",
+    "significance": "This work demonstrates how hyperbolic geometry can engineer exotic electronic phases, offering a new platform for exploring disorder-driven transitions.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7919631e382541aadb2599c6a6ca0a43",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02191v1",
+    "arxiv_id": "2610.02191v1",
+    "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models",
+    "authors": [
+      "Shuo Xing",
+      "Zilin Dai",
+      "Chengyuan Qian"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Diagnosing and Repairing Mathematical Reasoning in Large Language Models",
+    "tldr": "This paper introduces a systematic framework for evaluating the mathematical reasoning abilities of large language models. By diagnosing specific weaknesses and proposing targeted repair strategies, the authors demonstrate improved performance on benchmark problems.",
+    "significance": "The study provides a foundational methodology for assessing and enhancing the structural mathematical understanding of LLMs, which is critical for reliable deployment in scientific and engineering tasks.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9b3dd0a9e980340116b12e0585f6f00a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02190v1",
+    "arxiv_id": "2610.02190v1",
+    "title": "Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning",
+    "authors": [
+      "Cristian McGee",
+      "El Houcine Bergou",
+      "Aritra Dutta"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Optimizing LLM Fine-Tuning: Zero-and-First-Order Methods Decouple Direction and Step Size",
+    "tldr": "The paper introduces ZFO, a lightweight framework that separates direction selection from step-size in LLM fine-tuning. By combining trusted first-order optimizers with zero-order step search, it achieves faster convergence without sacrificing stability.",
+    "significance": "This approach offers a practical solution to the step-size dilemma in large-scale neural network training, improving efficiency for fine-tuning foundation models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f3b562717d633c4a1d915a42a8ee0a94",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02189v1",
+    "arxiv_id": "2610.02189v1",
+    "title": "Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features",
+    "authors": [
+      "Jason X. Liu",
+      "Sebastian Ibarraran",
+      "Frank Hu"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Generative Modeling of Intrinsically Disordered Protein Regions Using Sparse Autoencoders",
+    "tldr": "Researchers develop a generative framework that captures the flexible nature of intrinsically disordered protein regions by reinforcing sparse autoencoder features. The approach improves functional prediction and design of IDRs beyond traditional structure-based methods.",
+    "significance": "This work provides a new foundation-model approach to design and analyze the challenging, flexible regions of proteins, opening avenues for targeted therapeutics.",
+    "tags": [
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7155525c8d29049aa5f7ac8de32a2761",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02188v1",
+    "arxiv_id": "2610.02188v1",
+    "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+    "authors": [
+      "Zhengming Yu",
+      "Junkun Yuan",
+      "Haotian Yang"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Fast Visual Generation via Distribution Matching as Adversarial Distillation (DMAD)",
+    "tldr": "DMAD reformulates distribution matching into a classification task, eliminating the need for an auxiliary diffusion model. This yields a lightweight, few-step student that achieves fast visual generation with comparable quality.",
+    "significance": "By removing the auxiliary model, DMAD reduces memory and compute overhead, enabling rapid deployment of diffusion-based generators.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9a19e84e50e3a2de2c5d91bce4a25009",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02186v1",
+    "arxiv_id": "2610.02186v1",
+    "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
+    "authors": [
+      "Yiming Huang",
+      "Yujie Zeng",
+      "Vijay Prakash Dwivedi"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Higher-Order Grammars Enable Efficient Generation of Complex Molecules",
+    "tldr": "We introduce higher-order molecular grammars that capture ring systems and motifs directly, improving generative model fidelity. These grammars reduce computational cost and enable decoding of valid molecules, advancing foundation models in chemistry.",
+    "significance": "This work bridges the gap between expressive chemical representations and scalable generative modeling, paving the way for more accurate drug discovery pipelines.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9d1cc0b298c965a3b4e0426564657b89",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02185v1",
+    "arxiv_id": "2610.02185v1",
+    "title": "Decoding Looped Transformers Better for (Almost) Free",
+    "authors": [
+      "Weihao Liu",
+      "Huangjie Zheng",
+      "Tianrong Chen"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Looped Transformers: Efficient Parameter Sharing for Near-Free Decoding in Large Language Models",
+    "tldr": "Looped Transformers reuse a single block across multiple recurrent loops, enabling parameter efficiency. By retaining intermediate states during decoding, they provide weak-and-strong prediction pairs without extra models.",
+    "significance": "This approach reduces computational cost while improving decoding quality, offering a practical advantage for large language models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "aae420286ff8bc6636a342c2d1fb98bd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02183v1",
+    "arxiv_id": "2610.02183v1",
+    "title": "Single-Particle Spectral Estimation",
+    "authors": [
+      "Adrian Chapman",
+      "Charles Derby",
+      "Steven T. Flammia"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "Learning Hamiltonian Weights via Global Unitary Obfuscation in Single-Particle Systems",
+    "tldr": "We propose a method to recover the weights of a Hamiltonian composed of non-interacting modes, even when the system is globally rotated by an unknown unitary. The approach leverages spectral estimation techniques to disentangle the target modes from an arbitrary spectator Hamiltonian.",
+    "significance": "This work enables efficient characterization of complex quantum systems where global symmetries obscure local interactions.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fd7ea0c48508568d136e4beebc934a39",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02182v1",
+    "arxiv_id": "2610.02182v1",
+    "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
+    "authors": [
+      "Joohwan Ko",
+      "Tetiana Parshakova",
+      "Diana Cai"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "SoftServe: Scalable Quasi-Newton Optimization for Deep Learning Without Line Searches",
+    "tldr": "SoftServe introduces a family of quasi-Newton methods that scale to large deep learning models while avoiding line searches and curvature corrections. The approach maintains positive definiteness and delivers efficient, robust optimization for non-convex problems.",
+    "significance": "It enables large-scale, efficient training of deep neural networks by combining quasi-Newton efficiency with scalability.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a017269b084ff700e87b6a3aae5446bd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.02181v1",
+    "arxiv_id": "2610.02181v1",
+    "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
+    "authors": [
+      "Haibo Wang",
+      "Jiteng Mu",
+      "Jialu Li"
+    ],
+    "published": "2026-10-01",
+    "curated_at": "2026-10-04",
+    "headline": "OmniSeek Empowers LLMs with Dynamic Audio-Visual Tool Use for Multi-Turn Reasoning",
+    "tldr": "OmniSeek transforms an Omni-LLM into an active agent that can decide when to look or listen during a conversation, using native tool integration for evidence acquisition. By dynamically selecting temporal windows, it achieves efficient, multi-turn audio-visual reasoning in real time.",
+    "significance": "This framework enables LLMs to interact with multimodal data streams more efficiently, opening new possibilities for real-time decision-making in complex environments.",
+    "tags": [
+      "LLM",
+      "time-series",
+      "real-time",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "3f4ce700bab3b624040bbac6c77e2799",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.02208v1",
@@ -1036,366 +1391,6 @@
       "satellite-imagery",
       "crop-monitoring",
       "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3bda4a965d44123c00e21d3a39ad70bc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.38164v1",
-    "arxiv_id": "2609.38164v1",
-    "title": "Rho: A Foundation for Efficiently Adaptable VLA Models",
-    "authors": [
-      "Rho Team",
-      "Simran Bagaria",
-      "Daphne Chen"
-    ],
-    "published": "2026-09-29",
-    "curated_at": "2026-09-30",
-    "headline": "Rho: Open-Weights VLA Models for Efficient Bimanual Manipulation",
-    "tldr": "Rho introduces a family of open-weights Vision-Language-Action models that seamlessly adapt to dual-arm robots across diverse embodiments. The framework enables data-light task adaptation, bridging broad visual and linguistic understanding with precise robotic control.",
-    "significance": "Rho provides a scalable foundation for versatile, low-data robotics applications, accelerating deployment across research and industry.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b78b8f50ef9e2deae20a9ba43ee06598",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.38163v1",
-    "arxiv_id": "2609.38163v1",
-    "title": "Rethinking Representations for World-Action Modeling",
-    "authors": [
-      "Haoyi Jiang",
-      "Liu Liu",
-      "Xinjiang Wang"
-    ],
-    "published": "2026-09-29",
-    "curated_at": "2026-09-30",
-    "headline": "ReWAM: Rethinking Representation Spaces for Joint Policy Learning and Prediction",
-    "tldr": "World-action models link robot control with future observation prediction via a shared representation space. This study shows that neither reconstruction fidelity nor pre-trained perceptual features alone guarantee effective policy learning, leading to ReWAM, a representation‑centric framework that balances these aspects.",
-    "significance": "This work provides a principled approach to designing representation spaces that simultaneously support control and prediction, improving the effectiveness of world-action models.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d381ecd414c19dc94c42b9c41d1e5807",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.38161v1",
-    "arxiv_id": "2609.38161v1",
-    "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
-    "authors": [
-      "Jianru Shen"
-    ],
-    "published": "2026-09-29",
-    "curated_at": "2026-09-30",
-    "headline": "Spectral Bounds for Graph Reconstruction Errors in LLMs",
-    "tldr": "The study proves that the Wasserstein distance between Laplacian spectra of original and reconstructed graphs is tightly bounded by two edge-count metrics, offering a sharper diagnostic than a single aggregate distance. This theoretical result also provides an empirical framework for evaluating LLM-generated graph structures.",
-    "significance": "It gives a principled way to quantify and bound graph reconstruction errors in language models, improving interpretability and benchmarking.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1d81954fd9b44e119f7cc10885778e33",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35771v1",
-    "arxiv_id": "2609.35771v1",
-    "title": "From Density to Mass: A New Parametrized Framework for Dark Matter Environment Around Black Holes",
-    "authors": [
-      "Rajes Ghosh",
-      "Nicholas Speeney",
-      "Avijit Chowdhury"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Parametrized Dark Matter Halo Models Reveal New Black Hole Gravitational Wave Signatures",
-    "tldr": "We introduce a parametrized framework linking dark matter density profiles to black hole mass distributions, enabling predictions of modified quasinormal modes and tidal Love numbers. This approach offers a new tool for interpreting gravitational-wave observations and probing dark matter environments around astrophysical black holes.",
-    "significance": "The framework provides a systematic method to quantify how dark matter halos alter black hole spacetime, enhancing the interpretability of gravitational-wave data.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "3f7b6b78a0467d1fda12f14a7c63290d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35770v1",
-    "arxiv_id": "2609.35770v1",
-    "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
-    "authors": [
-      "Srinjay Sarkar",
-      "Prakhar Kaushik",
-      "Soumava Paul"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "FurE: Fast, Instance-Specific 3D Fur Reconstruction Without Dedicated Datasets for Animals",
-    "tldr": "FurE reconstructs realistic animal fur from multi-view images using a strand-based approach that does not rely on large animal-fur datasets. The method achieves high detail and editability while remaining computationally efficient.",
-    "significance": "It enables realistic fur modeling for diverse animal species without costly dataset collection, advancing digital content creation and scientific visualization.",
-    "tags": [
-      "segmentation",
-      "point-cloud",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ae68170b6fd50ad5c17cb930dfee5673",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35769v1",
-    "arxiv_id": "2609.35769v1",
-    "title": "Telescopic Language Models",
-    "authors": [
-      "Zhilin Guo",
-      "Boqiao Zhang",
-      "Hakan Aktas"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Telescopic Language Models: A Continuum of Transformer Capacities for Flexible Compute Budgets",
-    "tldr": "We introduce Telescopic Language Models (TLMs), nested-capacity Transformers trained with stochastic prefix supervision. This design allows a single model to serve a continuum of compute budgets, eliminating the need for separate training or compression for each target capacity.",
-    "significance": "TLMs provide a scalable, efficient solution for deploying language models across diverse hardware constraints, reducing training overhead and resource consumption.",
-    "tags": [
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a9e0ff1b939584f5a589b186f1c1686b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35768v1",
-    "arxiv_id": "2609.35768v1",
-    "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
-    "authors": [
-      "Zimo Wang",
-      "Junkun Yuan",
-      "Angtian Wang"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "PDMD: Reducing Video Diffusion Evaluations with Projected Distribution Matching Distillation",
-    "tldr": "PDMD cuts the number of denoising steps needed for video diffusion models from dozens to just a few, while addressing training instability caused by critic errors. By projecting distribution matching onto the student updates, it stabilizes training and preserves visual quality.",
-    "significance": "This method enables faster, more stable video diffusion inference, making high‑quality video generation more practical.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b5c355ea188ad75efec6fca7499a4a0e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35767v1",
-    "arxiv_id": "2609.35767v1",
-    "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
-    "authors": [
-      "Yijia Fan",
-      "Ziqi Huang",
-      "Zhongang Cai"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Unified Models Learn to Reflect and Repair Their Own Image Generation",
-    "tldr": "Unified multimodal models can diagnose and revise their own image outputs, learning the process jointly through interleaved reinforcement learning. This approach enables self-improvement of generation quality without external supervision.",
-    "significance": "It demonstrates a path toward self-correcting generative models that can iteratively refine outputs, reducing reliance on human feedback.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e783493e497d3a0f6a413a43dce9c9b8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35765v1",
-    "arxiv_id": "2609.35765v1",
-    "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
-    "authors": [
-      "András Kovács",
-      "Alexander Conroy",
-      "Daniel Hershcovich"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Computational Retrieval of Biblical Intertextuality in Blixen's Seven Gothic Tales",
-    "tldr": "The study builds a benchmark of 189 annotated biblical references in Karen Blixen's Seven Gothic Tales and applies large language models to detect intertextual allusions despite paraphrase and translation. It demonstrates the feasibility of automated literary intertextuality detection and offers a resource for future computational literary scholarship.",
-    "significance": "This work provides the first computational benchmark for biblical intertextuality in Blixen's prose, enabling large-scale literary analysis and advancing NLP methods for nuanced textual comparison.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "947c0f69385937bd65849fa260a087d0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35764v1",
-    "arxiv_id": "2609.35764v1",
-    "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
-    "authors": [
-      "Zhilin Guo",
-      "Boqiao Zhang",
-      "Oszkár Urbán"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Accurate Lower-Body 3D Pose",
-    "tldr": "A new benchmark demonstrates that fusing earbud head IMUs with smart-insole foot IMUs yields reliable lower-body 3D pose estimates, even with consumer sensor drift and mounting variability. The study introduces a reliability-gated fusion strategy that mitigates firmware bias and stream dropouts.",
-    "significance": "This work enables robust, camera-free motion capture using inexpensive consumer wearables, paving the way for scalable human motion analytics.",
-    "tags": [
-      "benchmark",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "562d39a61e12bc26225c850919ee5a24",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35763v1",
-    "arxiv_id": "2609.35763v1",
-    "title": "Unifying Distributional Training for One-Step Visual Generation",
-    "authors": [
-      "Chi Zhang",
-      "Haoyang Shi",
-      "Yueyi Liu"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "One-Step Visual Generation via Unified Distributional Training",
-    "tldr": "The authors propose a unified theoretical framework that separates distribution modeling from discrepancy matching in frozen representation spaces. By linking global objectives to pointwise updates via Wasserstein gradient flow, they achieve efficient one-step visual generation.",
-    "significance": "It offers a principled, efficient approach to train generative models with minimal steps, potentially accelerating real-time image synthesis.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d71202a2777ca3ab92ce47d1df3776bc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35762v1",
-    "arxiv_id": "2609.35762v1",
-    "title": "Peppy: An AI-Assisted Workflow for Tight Convergence Analysis of Optimization Algorithms",
-    "authors": [
-      "Jaewook J. Suh",
-      "TaeHo Yoon",
-      "Edward Duc Hien Nguyen"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Peppy: AI Workflow for Tight Convergence Proofs in First-Order Optimization",
-    "tldr": "Peppy uses domain-specific knowledge and large language models to automatically generate tight, analytic convergence proofs for first-order optimization algorithms. By integrating with formal proof assistants, it streamlines the research workflow and reduces manual effort.",
-    "significance": "Peppy advances automated mathematical research by delivering precise convergence guarantees that were previously labor-intensive to obtain.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "60a9585c209ed8e86a03301e2015705a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35761v1",
-    "arxiv_id": "2609.35761v1",
-    "title": "DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations",
-    "authors": [
-      "Rui Zhou",
-      "Yibo Yuan",
-      "Junkai Zhao"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "DexRoam: Learning Mobile Bimanual Dexterous Manipulation via Egocentric Human Demonstrations",
-    "tldr": "DexRoam learns mobile bimanual manipulation by leveraging egocentric whole-body human demonstrations, preserving fine-grained coordination of locomotion, posture, and finger dexterity. The method enables robots to acquire complex, continuous trajectories without simplifying human motion.",
-    "significance": "This approach addresses the demonstration bottleneck in mobile manipulation, enabling robots to learn intricate, coupled motions directly from human data.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b14f396645bfde369e4c48ba0107b46c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35760v1",
-    "arxiv_id": "2609.35760v1",
-    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-    "authors": [
-      "Chaoqian Ouyang",
-      "Ling Yue",
-      "Libin Zheng"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Predicting Token Usage in LLM Agents: A New Forecasting Approach",
-    "tldr": "Token consumption by LLM agents can vary by an order of magnitude across runs, making cost estimation difficult. TokenCast introduces a forecasting model that predicts total token usage before execution, enabling better budgeting and resource planning.",
-    "significance": "Accurate token prediction reduces operational costs and improves scalability of LLM-driven applications.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "90ca7c999a5aca338d0066693b003e02",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.35758v1",
-    "arxiv_id": "2609.35758v1",
-    "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
-    "authors": [
-      "Min Kim",
-      "José Leonardo Brenes",
-      "Fred Hadaegh"
-    ],
-    "published": "2026-09-28",
-    "curated_at": "2026-09-29",
-    "headline": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
-    "tldr": "We propose a hard-EM framework that learns contractive dynamical representations to improve composite adaptive tracking control under coupled disturbances. By integrating a Kalman smoother into the hard-EM loop, the method achieves statistically principled disturbance rejection and enhanced tracking performance.",
-    "significance": "This approach bridges classical disturbance accommodation with modern adaptive learning, enabling more robust real-time control in dynamic environments.",
-    "tags": [
-      "time-series",
-      "real-time"
     ],
     "readtime": 2,
     "difficulty": "advanced"
