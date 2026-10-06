@@ -1,5 +1,271 @@
 [
   {
+    "uid": "6a68fcb9760bae384b7291920892cfc4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06852v1",
+    "arxiv_id": "2610.06852v1",
+    "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+    "authors": [
+      "Shih-Chen Tseng",
+      "Chih-Hsuan Chen",
+      "Ryan Yang"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "One Figure, Every Canvas: Agentic Pipeline for Aspect‑Ratio‑Adaptive Flowchart Relayout",
+    "tldr": "We introduce an agentic pipeline that automatically relayouts computational graph figures to fit any aspect ratio, preserving connectivity and visual clarity. The system leverages a foundation model to parse raster diagrams, generate vector representations, and apply layout heuristics, enabling seamless reuse across papers, slides, and social media.",
+    "significance": "This work eliminates manual diagram adaptation, ensuring accurate representation of methods across diverse publication formats.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a15efec8ca23897a14d5d997f07985ca",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06851v1",
+    "arxiv_id": "2610.06851v1",
+    "title": "Base Models Can Reason By Taking a Cue From Training Data",
+    "authors": [
+      "Sophie L. Wang",
+      "Amil Dravid",
+      "Rulin Shao"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "Base Models Use Training Data Cues to Match RL‑Trained Reasoning Performance",
+    "tldr": "Researchers found that specific starting token cues, derived from training data, can steer base language models to perform reasoning tasks as well as models fine‑tuned with reinforcement learning. By fixing cues like “.\n\nOkay”, the base model’s accuracy on math and coding benchmarks rivals RL‑trained counterparts.",
+    "significance": "This demonstrates that simple cue engineering can unlock advanced reasoning in foundation models without costly RL fine‑tuning.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "89ee63fb9ffddc5195ea593776cd233c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06848v1",
+    "arxiv_id": "2610.06848v1",
+    "title": "TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify",
+    "authors": [
+      "Joshua Kalyanapu",
+      "Darsh Asher",
+      "Kaushal Mhapsekar"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "TranScope Exposes Hidden LLM Training Data via Hardware Cycle-Level Analysis",
+    "tldr": "TranScope reveals how large language models and vision transformers leak training data through microarchitectural side channels. The study demonstrates that hardware accelerators magnify these leaks, challenging the assumption that masked confidence protects privacy.",
+    "significance": "This work uncovers a new class of privacy vulnerabilities in state-of-the-art foundation models, highlighting the need for hardware-aware defenses.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fcb5cb63f0e2e45d43313ed2b6bcd913",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06847v1",
+    "arxiv_id": "2610.06847v1",
+    "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+    "authors": [
+      "Jeffrey Hu",
+      "Daniel Olmeda Reino",
+      "Ayush Tewari"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "Serial-to-Parallel Diffusion Improves Physical Consistency in Video Generation",
+    "tldr": "S2PD combines high-noise autoregressive diffusion with low-noise parallel diffusion to enforce physical and symbolic rules in videos. The method achieves more realistic, logically consistent outputs compared to fully parallel models.",
+    "significance": "It addresses a key limitation of current video diffusion models, enabling more reliable generation for applications requiring physical plausibility.",
+    "tags": [
+      "diffusion-models",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f3f00fad6584cc4e97d7b8835ed80a3d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06846v1",
+    "arxiv_id": "2610.06846v1",
+    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+    "authors": [
+      "Haojin Deng",
+      "Zhiping Lin",
+      "Yimin Yang"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "BiasFlow: Monitoring Backbone Bias to Reduce Spurious Feature Reliance in Models",
+    "tldr": "BiasFlow is a hook-based toolkit that monitors class-attribute centroid alignment, within-class separation, and feature-projection sensitivity to detect spurious feature reliance in frozen backbones. It enables researchers to evaluate and regularize backbone behavior when new heads are trained, improving worst-group accuracy.",
+    "significance": "By providing fine-grained geometric diagnostics, BiasFlow helps mitigate bias in deep learning models, leading to more robust and fair predictions.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c66c1f07822054443a650b495e4b5c7c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06844v1",
+    "arxiv_id": "2610.06844v1",
+    "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+    "authors": [
+      "Omer Dahary",
+      "Etai Sella",
+      "Hadar Averbuch-Elor"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "Decoding Contextual Tokens in Multimodal Diffusion Transformers for Enhanced Understanding",
+    "tldr": "This paper introduces a lightweight framework that interrogates dynamic contextual tokens in Multimodal Diffusion Transformers via natural language queries, revealing their role in multimodal generation. The method enables interpretable analysis of how visual and textual modalities interact during diffusion.",
+    "significance": "By providing a transparent view into the hidden contextual space of MM‑DiTs, the work advances interpretability and could guide future design of multimodal generative models.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4fdd1ac6b776a44a0e4734735878f3c0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06843v1",
+    "arxiv_id": "2610.06843v1",
+    "title": "Recursive Video In-Context Learning for Agentic Robot",
+    "authors": [
+      "Wenrui Bao",
+      "Xinxin Liu",
+      "Bingxin Xu"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "Recursive Video In-Context Learning Boosts LLM-Driven Robot Performance for Dynamic Tasks",
+    "tldr": "LLM agents orchestrate frozen vision-language-action policies, improving over episodes via text memory that records actions but not task details. However, embedding full demonstration videos slows inference, and keyframe simplifications lose critical grasp contact information.",
+    "significance": "This approach demonstrates how recursive video in-context learning can enhance real-time robotic decision-making without retraining underlying perception models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b306840073f54943220f05ca1cc184a8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06837v1",
+    "arxiv_id": "2610.06837v1",
+    "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
+    "authors": [
+      "Xingyue Zhao",
+      "Yanzhou Su",
+      "Fang Zhang"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "Anatomy-Aware Multimodal Fusion Improves CT-Based T-Staging for Laryngopharyngeal Cancer",
+    "tldr": "This study introduces an anatomy-aware multimodal fusion framework that integrates CT images with radiology reports to predict T-staging of laryngopharyngeal cancer. The approach outperforms existing methods by accurately modeling structural relationships and fine-grained tumor invasion patterns, offering a non-invasive alternative to biopsy.",
+    "significance": "Accurate, non-invasive T-staging can guide personalized treatment and reduce reliance on invasive biopsies.",
+    "tags": [
+      "segmentation",
+      "spatial-reasoning",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bc4b5976437bec4568d81257c1236d8d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06834v1",
+    "arxiv_id": "2610.06834v1",
+    "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+    "authors": [
+      "Gregory D. Bellchambers"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "Accelerating Tilted Diffusion Samplers via Direct Intermediate Initialization for Large-Scale Image Generation",
+    "tldr": "We show that Gaussian-tilted intermediate distributions in diffusion samplers can be mapped back to weaker-conditioned clean-space posteriors, enabling analytic transport to noisy-space targets via Gaussian bridges. This approach simplifies the SMC sampler MCGDiff and improves sampling efficiency.",
+    "significance": "This method reduces computational overhead and improves convergence for diffusion-based generative models, offering a practical advance for large-scale image synthesis.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "188bc42cbf973a5f9165c9b89c98b989",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06833v1",
+    "arxiv_id": "2610.06833v1",
+    "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+    "authors": [
+      "Benhao Huang",
+      "Chufan Shi",
+      "Junlin Chen"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "Looped Models Reimagined: Fixed Points Reduce Training, Decoding, and RL Costs",
+    "tldr": "By steering recurrent states toward fixed points, looped language models cut training and decoding overhead, enabling truncated backpropagation, KV sharing, and a 1.79× faster distilled student. This approach also streamlines RL updates with minimal accuracy loss.",
+    "significance": "It offers a scalable, cost-effective path to deploy efficient, high-performance language models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "396b8f786f919e2202a7d73999016720",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.06831v1",
+    "arxiv_id": "2610.06831v1",
+    "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+    "authors": [
+      "David Serrano-Lozano",
+      "Duygu Ceylan",
+      "Yannick Hold-Geoffroy"
+    ],
+    "published": "2026-10-05",
+    "curated_at": "2026-10-06",
+    "headline": "UniSlider: Making Image Editing Sliders Perceptually Uniform and Intuitive for Generative Models",
+    "tldr": "UniSlider introduces a perceptually uniform slider that maps slider positions to consistent visual changes in generative image editing. By aligning slider values with human perception, it eliminates abrupt reversions and flat regions, improving user control over diffusion-based models.",
+    "significance": "This work bridges the gap between technical strength parameters and user experience, enabling more reliable and intuitive image editing.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "10f67383a4110523807ac5396e7725b4",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.03717v1",
@@ -1131,266 +1397,6 @@
       "satellite-imagery",
       "time-series",
       "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "74081d9ba53f1fd93204e182eb307cac",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40362v1",
-    "arxiv_id": "2609.40362v1",
-    "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
-    "authors": [
-      "Hongyuan Tao",
-      "Xinggang Wang",
-      "Lianghui Zhu"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "Multimodal Flow: Continuous Generative Modeling of Language and Vision in Embedding Spaces",
-    "tldr": "Multimodal Flow introduces a continuous generative framework that jointly models language and vision without quantization bottlenecks. By operating entirely in embedding space, it eliminates modality-specific objectives and sampling, enabling more seamless multimodal generation.",
-    "significance": "This approach removes the need for discrete tokenization and modality-dependent training, paving the way for more efficient and unified multimodal foundation models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4065fe6ec7451c5344e292adb990b7e5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40361v1",
-    "arxiv_id": "2609.40361v1",
-    "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
-    "authors": [
-      "Tian Xia",
-      "Minghao Liu",
-      "Yiqing Liang"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "Optimizing Multimodal Clinical Diagnosis with Ranking‑Aware Prompting for AUROC in Healthcare",
-    "tldr": "We propose a ranking‑aware prompt optimization framework that directly optimizes AUROC for multimodal large language models in clinical diagnosis. This approach mitigates class imbalance and improves the clinical utility of predictions compared to accuracy‑centric pipelines.",
-    "significance": "By focusing on AUROC, the method ensures better ranking of true positives, directly benefiting high‑stakes medical decision‑making.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d0d9d8b164afff7c94ddecc544c1e49e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40360v1",
-    "arxiv_id": "2609.40360v1",
-    "title": "Semifactual Credit-Augmented Policy Optimization",
-    "authors": [
-      "Junshu Pan",
-      "Zhizhang Fu",
-      "Shulin Huang"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "Semifactual Prompt Interventions Expose Token Sensitivity in Reinforcement Learning with Verifiable Rewards",
-    "tldr": "We apply semifactual prompt interventions to RLVR, preserving the problem while altering irrelevant prompt features. Our analysis uncovers substantial token-level sensitivity, indicating that LLM predictions remain fragile to prompt design.",
-    "significance": "Understanding token-level sensitivity helps improve robustness of LLM-based RL systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fa9d7d0387ec51242189d8b35ec3a289",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40359v1",
-    "arxiv_id": "2609.40359v1",
-    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
-    "authors": [
-      "Dulhan Jayalath",
-      "Oiwi Parker Jones"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "Eliminating Timing Biases Enhances Accuracy of Brain-to-Text Decoding Without Brain Data",
-    "tldr": "Researchers show that the impressive gains in decoding spoken words from non-invasive brain recordings can be largely reproduced using only the timing of the words, without any neural data. Removing these timing shortcuts reveals that the neural network's performance is largely driven by linguistic priors rather than genuine neural signals.",
-    "significance": "This finding challenges the validity of recent brain‑to‑text breakthroughs and underscores the need for rigorous controls in neural decoding research.",
-    "tags": [
-      "time-series",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5ebc4a67fdef192605fc3c84055959a7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40358v1",
-    "arxiv_id": "2609.40358v1",
-    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
-    "authors": [
-      "Liming Lu",
-      "Xianzheng Ma",
-      "Wenkun He"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "Physis‑Lang: Self‑Evolving Language for Physical Video World Models",
-    "tldr": "The paper introduces Physis‑Lang, a language representation that evolves to encode physical dynamics, enabling video world models to generate physically consistent predictions without extra visual or latent cues. Experiments show improved adherence to physics while maintaining visual realism.",
-    "significance": "By embedding physics directly into language, Physis‑Lang reduces reliance on auxiliary signals and advances physically grounded video generation.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c4d74c0fb49f4634f180765d9bd8586c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40357v1",
-    "arxiv_id": "2609.40357v1",
-    "title": "Singularity of harmonic measures for hyperbolic lattices",
-    "authors": [
-      "Nikolay Bogachev"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "Singularity of Harmonic Measures for Hyperbolic Lattices: Random Walks on Convex Subgroups",
-    "tldr": "The paper proves that for a cocompact lattice in hyperbolic space containing a convex cocompact codimension‑one subgroup, any finitely supported admissible random walk has a hitting measure that is singular with respect to Lebesgue measure on the sphere at infinity. This extends Kosenko–Tiozzo’s method by replacing Fourier analysis with geometric arguments.",
-    "significance": "It establishes a new rigidity phenomenon for harmonic measures on hyperbolic lattices, deepening our understanding of random walks in negatively curved spaces.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ea462625e3f285b37fa933cbc7b4ae6a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40356v1",
-    "arxiv_id": "2609.40356v1",
-    "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
-    "authors": [
-      "Xinghao Chen",
-      "Xiangbo Gao",
-      "Jiongze Yu"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "ViTeX-Bench: Evaluating High-Fidelity Video Scene Text Editing for Real-World Applications",
-    "tldr": "ViTeX-Bench introduces a comprehensive benchmark for assessing video scene text editing models, focusing on preserving scene dynamics while replacing on-surface text. The dataset includes diverse real-world scenarios and evaluation metrics that capture visual fidelity, motion consistency, and edit realism.",
-    "significance": "This benchmark enables systematic comparison of video editing approaches, accelerating progress toward realistic, controllable video manipulation.",
-    "tags": [
-      "benchmark",
-      "diffusion-models",
-      "segmentation",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1018f1f359c0a06eb7edbc055db9129b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40353v1",
-    "arxiv_id": "2609.40353v1",
-    "title": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
-    "authors": [
-      "Jiahao Zhang",
-      "Yeying Fan",
-      "Moitreya Chatterjee"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "AssemblyWorld: Evaluating General-Purpose Agents for 3D Object Assembly in Interactive Environments",
-    "tldr": "We introduce AssemblyWorld, an interactive 3D environment that tests whether pretrained general-purpose agents can assemble objects from visual input without task-specific fine-tuning. Our experiments show that while agents can perform basic manipulations, they struggle with complex spatial reasoning, highlighting the need for specialized training.",
-    "significance": "AssemblyWorld provides a benchmark for assessing the spatial reasoning capabilities of foundation models in physically grounded tasks.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "50115f9a62114eab78dc805f51797a82",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40349v1",
-    "arxiv_id": "2609.40349v1",
-    "title": "Efficient Calculation of Equilibrium Correlation Functions",
-    "authors": [
-      "Yizhi Shen",
-      "Roel Van Beeumen",
-      "Wibe A. de Jong"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "Quantum Algorithms for Fast Equilibrium Correlation Functions: A New Approach to Dynamic Quantities",
-    "tldr": "This paper introduces a novel quantum algorithm that efficiently computes equilibrium correlation functions, reducing resource overhead compared to traditional Hamiltonian simulation methods. The approach leverages linear-response theory and offers potential speedups for time-series analysis in quantum systems.",
-    "significance": "It provides a scalable method for evaluating key dynamical observables in quantum many-body systems, accelerating research in condensed matter and quantum chemistry.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6204b8cddc18fb7f95a81ccab993ac22",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40347v1",
-    "arxiv_id": "2609.40347v1",
-    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
-    "authors": [
-      "Owais Iqbal",
-      "Sudipta Sarkar",
-      "Shyam Marjit"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "VideoMSN: Efficient Self-Supervised Video Representation via Masked Siamese Vision Transformers",
-    "tldr": "VideoMSN repurposes image Vision Transformers to learn video representations by treating videos as super images, enabling efficient self-supervised spatio-temporal learning without heavy 3D models. The framework achieves competitive performance while reducing computational cost, making it suitable for large-scale, unlabeled video datasets.",
-    "significance": "This approach democratizes video representation learning by leveraging lightweight image models, lowering barriers to entry for researchers and practitioners.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a8b41b83e373102c15552a49f82b6ddf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40346v1",
-    "arxiv_id": "2609.40346v1",
-    "title": "Resonances control when multiterminal Josephson currents reduce to two-terminal couplings",
-    "authors": [
-      "A. Barış Özgüler"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "Resonances Determine When Multiterminal Josephson Currents Reduce to Two-Terminal Couplings",
-    "tldr": "The study compares pairwise two‑terminal models with genuine multiterminal processes in Josephson junctions, revealing that resonant conditions dictate when the simpler pairwise description suffices. This insight helps identify when reduced models accurately capture the physics of complex superconducting networks.",
-    "significance": "It clarifies the limits of reduced models for designing superconducting circuits, aiding accurate simulation of multiterminal devices.",
-    "tags": [
-      "LLM",
-      "benchmark"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
