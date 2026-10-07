@@ -1,5 +1,295 @@
 [
   {
+    "uid": "9d47d373e92f9fae261a1e8654e82af8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08791v1",
+    "arxiv_id": "2610.08791v1",
+    "title": "World Models' Last Exam in Physics",
+    "authors": [
+      "Mingju Gao",
+      "Qingle Liu",
+      "Yuzhao Peng"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "Testing Video World Models: A Physics-Based Benchmark for Reliable Prediction",
+    "tldr": "Video world models can generate realistic-looking sequences that violate physical laws, raising doubts about their use in embodied AI. We propose a measurement-based benchmark, World Models' Last Exam in Physics, to directly assess physical consistency.",
+    "significance": "This benchmark provides a rigorous, physics-grounded evaluation that could improve the safety and reliability of AI systems relying on video world models.",
+    "tags": [
+      "benchmark",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "982aaa086ba67e34b295f3559cdb544f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08790v1",
+    "arxiv_id": "2610.08790v1",
+    "title": "Building Rome from a Single Image",
+    "authors": [
+      "Jiraphon Yenphraphai",
+      "Fang Li",
+      "Tianshuo Xu"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "Reconstructing Rome: 3D Scene Generation from a Single Image for Urban Modeling",
+    "tldr": "This work introduces a method to generate complete 3D scene meshes from a single image, extending beyond indoor scenes to complex outdoor environments like Rome. By leveraging pretrained 3D generators and a novel shape prior, the approach reconstructs unseen surfaces and produces accurate point‑cloud representations.",
+    "significance": "It enables realistic 3D reconstruction of diverse urban landscapes from minimal data, advancing applications in virtual tourism and urban planning.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "point-cloud",
+      "urban-AI"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d3078f3bc13bfa23b74477e5bdad7b3d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08789v1",
+    "arxiv_id": "2610.08789v1",
+    "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+    "authors": [
+      "Chung Min Kim",
+      "Brent Yi",
+      "David McAllister"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "Fast Flow RL: QF3 Accelerates Flow Policy Learning for Robots",
+    "tldr": "We present QF3, an online off‑policy RL algorithm that trains flow policies using filtered Q‑gradients and flow matching. The method speeds up learning and improves performance over existing flow‑policy baselines.",
+    "significance": "QF3 bridges the gap between demonstration‑based flow policies and reinforcement learning, enabling faster, more efficient robot control.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0d18ba0bb4cf1fffeaa335ad2111176a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08787v1",
+    "arxiv_id": "2610.08787v1",
+    "title": "Algebraic Tensor Network Renormalization and Holographic duality",
+    "authors": [
+      "Chenqi Meng",
+      "Tian Lan",
+      "Zhengcheng Gu"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "Tensor Network Renormalization Unveils Holographic Duality in Quantum Phase Transitions",
+    "tldr": "Tensor network renormalization with generalized symmetries offers a discrete spacetime framework to reformulate conformal field theory. This approach provides a promising route toward a complete holographic formulation of quantum phase transitions.",
+    "significance": "It bridges tensor network methods with holographic duality, potentially enabling new computational tools for strongly correlated quantum systems.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "392d6752372728f61a96589c5bc50ab6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08785v1",
+    "arxiv_id": "2610.08785v1",
+    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+    "authors": [
+      "Kevin Zhang",
+      "Stephen Bates"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+    "tldr": "This paper establishes an information-theoretic foundation for conformal prediction, linking prediction set size to decision-theoretic entropy. It shows how uncertainty quantification can be rigorously interpreted as information gain.",
+    "significance": "It bridges a gap between practical uncertainty measures and formal information theory, enhancing the interpretability of conformal prediction.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "adbd5ac2e30f917243a5a2876d99df23",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08782v1",
+    "arxiv_id": "2610.08782v1",
+    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+    "authors": [
+      "Shiqi Li",
+      "Sean Cho",
+      "Yijie Li"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "Fast 4D Hand-Object Interaction Reconstruction with Vision Foundation Models",
+    "tldr": "4D-HOF delivers real‑time 4‑dimensional hand‑object reconstructions by feeding coarse estimates from vision foundation models into a feed‑forward pipeline. This eliminates costly per‑sequence optimization and stabilizes interaction prediction compared to generative approaches.",
+    "significance": "It enables efficient, stable 4D hand‑object interaction modeling for applications like AR/VR and robotics.",
+    "tags": [
+      "foundation-models",
+      "object-detection",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1cd1ada230a5575a6217e92bfc394f7b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08781v1",
+    "arxiv_id": "2610.08781v1",
+    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+    "authors": [
+      "Ziyu Chen",
+      "Yilun Zhao",
+      "Jiashuo Sun"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "IdeaAnchor: Guiding LLMs to Generate Research Ideas from Literature for Future Studies",
+    "tldr": "IdeaAnchor introduces a structured supervision framework that teaches large language models to synthesize related papers and identify research gaps. This approach enables automated literature-grounded ideation, accelerating the generation of novel research directions.",
+    "significance": "By providing a systematic way for LLMs to understand and combine scholarly works, IdeaAnchor could dramatically speed up hypothesis generation across scientific fields.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "24d97dc34586e0200f5d8f03bdb84727",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08780v1",
+    "arxiv_id": "2610.08780v1",
+    "title": "DepthWorld: 3D World Model for Robot Manipulation",
+    "authors": [
+      "Jai Bardhan",
+      "Josef Sivic",
+      "Vladimir Petrik"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "DepthWorld: Real-Time 3D World Models for Precise Robot Manipulation and Planning",
+    "tldr": "DepthWorld introduces a data-driven 3D world model that overcomes the limitations of RGB-only video models, enabling consistent spatial reasoning for robot manipulation tasks. By integrating depth cues and point-cloud consistency, it supports policy evaluation, improvement, and real-time planning.",
+    "significance": "This work bridges the gap between visual perception and 3D geometry, providing a reliable foundation for advanced robotic decision-making.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "object-detection",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6fedeae182d14c4238bda7a704d4f2b0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08779v1",
+    "arxiv_id": "2610.08779v1",
+    "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+    "authors": [
+      "Zhenghong Zhou",
+      "Zhe Lin",
+      "Jiebo Luo"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "ALIVE: Making Inserted Objects Interact in Video Editing for Realistic First-Frame Guided Editing",
+    "tldr": "ALIVE lets users insert objects that naturally interact with the scene, using a single edited first frame and an object name instruction. The system aligns motion, lighting, and physics to make the added object appear alive.",
+    "significance": "It bridges a long-standing gap in video editing by enabling realistic, interaction-aware object insertion.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "93a62453132419d86840fc4fa1f4676a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08778v1",
+    "arxiv_id": "2610.08778v1",
+    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+    "authors": [
+      "Weixian Xu",
+      "Yanzhe Zhang",
+      "Zora Zhiruo Wang"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "Sherpa: Adaptive Teaching for LLMs Tailored to Individual Learners in Real-Time",
+    "tldr": "Sherpa equips large language models with adaptive teaching strategies that respond to each student's learning progress, moving beyond static demonstrations and preference data. By grounding instruction in real-time feedback, it promises more effective, personalized education.",
+    "significance": "This work bridges the gap between problem-solving LLMs and personalized teaching, enabling more effective human-AI collaboration in education.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "87e56942fff324432cbba1ace66f8da3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08777v1",
+    "arxiv_id": "2610.08777v1",
+    "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
+    "authors": [
+      "Shangye Song",
+      "Dong Gong",
+      "Hong Jia"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "CtrlCache: Speeding Interactive Video Generation with Control-Aware Caching",
+    "tldr": "CtrlCache introduces a training-free caching strategy that reuses denoising states in interactive video world models, reducing the number of costly denoising iterations per chunk. By conditioning cache decisions on user controls, it achieves real‑time performance while preserving fidelity across video generations.",
+    "significance": "This work enables near real‑time interactive video synthesis, a key step toward responsive AI-driven virtual environments.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40e55e8b98ef558ed98441026c261bea",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.08775v1",
+    "arxiv_id": "2610.08775v1",
+    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
+    "authors": [
+      "Ankit Sonthalia",
+      "Haritz Puerto",
+      "Alexander Rubinstein"
+    ],
+    "published": "2026-10-06",
+    "curated_at": "2026-10-07",
+    "headline": "LLM Agents Bottling Their Skills: Cheap, Scalable Solutions for Large-Scale Tasks",
+    "tldr": "Large language models excel at diverse tasks, but querying them millions of times is costly. This paper proposes BOTTLED, an approach where LLM agents generate task-specific, low-cost artifacts that balance quality and amortized cost.",
+    "significance": "BOTTLED demonstrates how autonomous LLM agents can transform general-purpose models into efficient, reusable tools, reducing operational expenses for large-scale workloads.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "6a68fcb9760bae384b7291920892cfc4",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.06852v1",
@@ -1143,260 +1433,6 @@
       "real-time",
       "benchmark",
       "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d4446b2d5754997795eb525cfaead966",
-    "source": "web",
-    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
-    "arxiv_id": "",
-    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "2025 GeoAI Trends: Predictive Insights, Automation, and Climate Solutions for Cities and Global Challenges",
-    "tldr": "In 2025, GeoAI leverages foundation models and real-time satellite imagery to forecast climate impacts and optimize urban planning. These advancements enable faster decision-making across agriculture, disaster response, and infrastructure management.",
-    "significance": "These trends transform how governments and businesses anticipate and mitigate environmental risks, driving smarter, data‑driven policy.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "urban-AI",
-      "flood-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "76223bc4cde5435f8d85cf9277348f9a",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/",
-    "arxiv_id": "",
-    "title": "GeoAI | Geo Week News",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "GeoAI Revolutionizes Geospatial Work with AI-Driven Feature Extraction and Predictive Analytics",
-    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction from imagery and point clouds, and enabling predictive analysis across the data pipeline. These advances unlock new applications in urban planning, environmental monitoring, and disaster response.",
-    "significance": "By integrating AI with large-scale spatial data, GeoAI accelerates decision-making and opens up real-time, data-driven insights for a wide range of industries.",
-    "tags": [
-      "remote-sensing",
-      "point-cloud",
-      "segmentation",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "Charting the Future of GeoAI: Emerging Trends and Next-Gen Innovations",
-    "tldr": "GeoAI merges geospatial science with AI, rapidly evolving as a leading field in spatial data science. This paper reviews recent advances and projects future directions to guide researchers and practitioners.",
-    "significance": "Understanding GeoAI's trajectory is crucial for leveraging AI to solve spatial challenges across environmental, urban, and societal domains.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "079f3198282271621f612e9d277c56ab",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
-    "arxiv_id": "",
-    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "GeoAI Revolutionizes Geospatial Insights: AI, Data, and Sensors Converge for Smarter Mapping",
-    "tldr": "Artificial intelligence is reshaping geospatial analysis by integrating data, sensing technologies, and AI-driven insights. This GeoAI shift promises faster, more accurate mapping and decision-making across industries.",
-    "significance": "GeoAI will transform how organizations capture, analyze, and act on spatial information, enabling smarter, data-driven decisions.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "db9c5511e47427b8df045b8a80a91a99",
-    "source": "web",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2527316",
-    "arxiv_id": "",
-    "title": "Geospatial Artificial Intelligence (GeoAI) Is Widening the Digital ...",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "GeoAI Expands Digital Divide: Data Sovereignty, Power, and Literacy Gaps Grow",
-    "tldr": "GeoAI merges AI with spatial data, offering powerful insights but also deepening inequities in data control, computational resources, and essential literacy. The concentration of GeoAI capabilities risks widening the digital divide beyond mere access.",
-    "significance": "Understanding GeoAI's inequity risks is crucial for equitable technology deployment and policy.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "c372756dc3050e8979c1ab5331fba6b3",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "Remote Sensing Change Detection: Datasets, Tools, Methods, and Competitions Hub",
-    "tldr": "This GitHub topic aggregates up-to-date datasets, tools, and research for detecting changes in remote sensing imagery. It also highlights competitions and review papers to support practitioners and researchers.",
-    "significance": "It serves as a central resource accelerating progress in change detection across environmental and urban monitoring.",
-    "tags": [
-      "remote-sensing",
-      "change-detection",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "26fa3243384f40ff7220879e19adbf53",
-    "source": "web",
-    "url": "https://github.com/opengeos/geoai",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GitHub",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "GeoAI Toolkit: Streamlined Satellite Imagery Access & AI-ready Dataset Generation",
-    "tldr": "GeoAI provides easy access to Sentinel, Landsat, NAIP, and other open datasets, automating download, mosaicking, preprocessing, and generating labeled image chips for AI tasks. Its vector-to-raster utilities and data augmentation tools streamline the creation of high-quality training data for segmentation and object detection models.",
-    "significance": "By simplifying remote sensing data workflows, GeoAI accelerates AI research and deployment in geospatial applications.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
-    "source": "web",
-    "url": "https://opengeoai.org/",
-    "arxiv_id": "",
-    "title": "Home - GeoAI",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "GeoAI: A Python Package Uniting AI with Geospatial Data Analysis and Visualization",
-    "tldr": "GeoAI is a Python library that seamlessly integrates machine learning models into geospatial workflows, enabling tasks like segmentation, object detection, and change detection on satellite imagery. It offers intuitive APIs, visualization tools, and supports open‑source data formats for researchers and practitioners.",
-    "significance": "GeoAI democratizes advanced AI techniques for geospatial analysis, accelerating insights across environmental monitoring, urban planning, and disaster response.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "0a000f935aceec4a908e71d0fce3c7f0",
-    "source": "web",
-    "url": "https://www.grsg.org.uk/open-source-software",
-    "arxiv_id": "",
-    "title": "Open Source Software - The Geological Remote Sensing Group (GRSG)",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "GRSG: A Free, Open-Source Suite for Advanced Optical, SAR, and Hyperspectral Remote Sensing",
-    "tldr": "The Geological Remote Sensing Group (GRSG) aggregates free geospatial software and libraries for comprehensive remote sensing. It enables advanced image processing across optical, multispectral, SAR, and hyperspectral data for researchers and professionals.",
-    "significance": "GRSG democratizes cutting‑edge remote‑sensing capabilities by providing a unified, open‑source toolkit that supports diverse datasets and advanced analytics.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "SAR",
-      "satellite-imagery"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "Raster Vision: Open-Source Library Bridging GIS and Deep Learning for Remote Sensing",
-    "tldr": "Raster Vision offers a configurable computer vision pipeline tailored for geospatial tasks such as chip classification, semantic segmentation, and object detection. Its open-source design enables researchers and practitioners to integrate GIS data with deep learning models seamlessly.",
-    "significance": "By unifying GIS workflows with state-of-the-art deep learning, Raster Vision accelerates the development of scalable, reproducible geospatial AI solutions.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "object-detection",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e5ef65dd55b3cbaac11af570a247ffb1",
-    "source": "web",
-    "url": "https://gisgeography.com/open-source-remote-sensing-software-packages/",
-    "arxiv_id": "",
-    "title": "13 Open Source Remote Sensing Software Packages",
-    "authors": [],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-02",
-    "headline": "Explore 13 Free Remote Sensing Tools for Satellite Image Analysis",
-    "tldr": "This article lists 13 open‑source software packages that support satellite imagery processing, from basic GIS tools to advanced machine‑learning frameworks. Each entry highlights its core strengths, typical use cases, and installation guidance.",
-    "significance": "Open‑source remote sensing software empowers researchers and practitioners to conduct cost‑effective, reproducible geospatial analyses.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "satellite-imagery",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "272fe4f0c8b40fe256dd93356b1f3470",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2609.40363v1",
-    "arxiv_id": "2609.40363v1",
-    "title": "Probing the Reionization History and Bubble Sizes with JWST Lyman-$α$ Fraction Measurements",
-    "authors": [
-      "Aritra Kundu",
-      "Adam Lidz",
-      "Guochao Sun"
-    ],
-    "published": "2026-09-30",
-    "curated_at": "2026-10-01",
-    "headline": "JWST Ly‑α Fractions Reveal Reionization Bubble Sizes",
-    "tldr": "JWST observations of Ly‑α emission from galaxies at z~6–14 show a declining fraction of detectable lines, indicating increasing neutral hydrogen in the IGM. These measurements constrain the timing and patchiness of cosmic reionization, providing estimates of bubble sizes around early galaxies.",
-    "significance": "This study offers the first direct probe of reionization topology using JWST, refining models of early galaxy formation and the intergalactic medium.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "time-series",
-      "spatial-reasoning"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
