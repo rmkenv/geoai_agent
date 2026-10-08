@@ -1,5 +1,334 @@
 [
   {
+    "uid": "d19aa746a4eedb7882826b3d69f1ad92",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10540v1",
+    "arxiv_id": "2610.10540v1",
+    "title": "Null string holography in AdS from local BRST descent",
+    "authors": [
+      "Sarthak Duary",
+      "Sourav Maji"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Null String Holography in AdS: Local BRST Descent and Contractible Quartet",
+    "tldr": "The paper demonstrates that the radial sector of a Carroll-Weyl gauged null string in Poincaré AdS_D is locally trivial in BRST cohomology. By constructing a quotient-adapted BFV basis, the radial coordinate, its conjugate momentum, and the associated ghosts form a contractible quartet, simplifying the full algebra of local spatial jets.",
+    "significance": "It provides a clear BRST-based reduction of null string dynamics, offering new insights into holographic dualities in AdS geometries.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2c525bc7c009bccadc15cec1e041cd45",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10538v1",
+    "arxiv_id": "2610.10538v1",
+    "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+    "authors": [
+      "Shravan Chaudhari",
+      "William Paul",
+      "Suchi Saria"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Building 3D Object Memory from Egocentric Videos: Persistence and Retrieval",
+    "tldr": "We show how an embodied assistant can learn to remember objects and their locations over time by analyzing egocentric video streams. Our method constructs a persistent 3D memory that allows the system to recall where items were left or what was inside containers, even without explicit cues.",
+    "significance": "This work advances embodied AI by enabling continuous, context-aware memory of everyday objects, improving task planning and interaction.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "47f2ab20e8df6776bcccd8ff5b2d2993",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10537v1",
+    "arxiv_id": "2610.10537v1",
+    "title": "Sharp Polynomial Upper Bounds for Anticanonical Volumes",
+    "authors": [
+      "Pinxian Bie",
+      "Peien Du",
+      "Zhengjie Yu"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Sharp Upper Bounds on Anticanonical Volumes for Log Fano Varieties",
+    "tldr": "The paper establishes dimension‑dependent polynomial bounds on the anticanonical volume of log Fano varieties, proving the exponent is optimal. It also provides an interpolation result for anticanonical volumes.",
+    "significance": "These results resolve a long‑standing question about the growth of anticanonical volumes and provide sharp estimates for higher‑dimensional Fano varieties.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "52a8c3d1e863d7610b3e3c56b3960691",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10536v1",
+    "arxiv_id": "2610.10536v1",
+    "title": "Decoupling Exploration from Optimization in RLVR",
+    "authors": [
+      "Saif Punjwani",
+      "Micah Goldblum"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Separating Exploration and Optimization Boosts RLVR for Language Models Without Compromise",
+    "tldr": "RLVR aims to discover new reasoning strategies by exploring beyond prior training data. Yet, strong novelty incentives often fail and can hurt model quality, indicating a need to decouple exploration from optimization.",
+    "significance": "Decoupling exploration from optimization could enable RLVR to generate innovative strategies while preserving baseline performance.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "15176d73ab51a179b1342732bc354927",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10535v1",
+    "arxiv_id": "2610.10535v1",
+    "title": "A weakly modelled view of the joint compact-binary mass plane: population structure and spectral-siren cosmology",
+    "authors": [
+      "Viola De Renzis",
+      "Alessandro Agapito",
+      "Michele Mancarella"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Mixture Model Reveals Structure in Compact Binary Mass Distribution and Cosmology",
+    "tldr": "We present a flexible mixture model that jointly infers the component-mass distribution of compact binaries and cosmological parameters from GWTC‑5 data. The method uncovers distinct structures in the mass plane, quantifies their stability, and assesses their impact on cosmological measurements.",
+    "significance": "This framework advances gravitational-wave cosmology by providing a data-driven, interpretable mass model that improves parameter estimation and reveals new population substructures.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c02b8ca3238d4e3b7d3d953dba5f147d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10534v1",
+    "arxiv_id": "2610.10534v1",
+    "title": "RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
+    "authors": [
+      "Yanwen Zou",
+      "Chenyang Shi",
+      "Guoxuan Xu"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Sparse Human Input Enables Intuitive Robot Policy Steering for Real-World Deployment",
+    "tldr": "RoboPrompt introduces a lightweight framework that lets users steer end-to-end robot policies with minimal teleoperation, overcoming data diversity limits. The approach demonstrates reliable zero-shot performance in varied real-world scenarios while reducing hardware and training overhead.",
+    "significance": "By integrating sparse human corrections, RoboPrompt bridges the gap between imitation learning and scalable shared autonomy, enabling safer and more adaptable robotic systems.",
+    "tags": [
+      "real-time",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f1b648878f12d5681f5d2915d7930849",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10533v1",
+    "arxiv_id": "2610.10533v1",
+    "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+    "authors": [
+      "Hongru Cai",
+      "Ran Wei",
+      "Wenjie Wang"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "EngramEdit Enables Decoupled Knowledge Updates in LLMs via Conditional Memory",
+    "tldr": "EngramEdit introduces a conditional memory architecture that allows large language models to store factual knowledge separately from general computation. This decoupling enables efficient updates to factual knowledge without retraining the entire model.",
+    "significance": "It offers a scalable, low‑cost method for keeping LLMs up‑to‑date with new facts, potentially transforming how we maintain AI knowledge bases.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d4a19287cce9698b2d000f07a5abcc6e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10531v1",
+    "arxiv_id": "2610.10531v1",
+    "title": "Efficient Estimation of Logical Sensitivities Through Fault-Counting",
+    "authors": [
+      "Winston Fu",
+      "J. Wilson Staples",
+      "Jeff D. Thompson"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Fast Fault-Counting for Quantum Error Correction: Rapidly Estimating Logical Sensitivities",
+    "tldr": "This study introduces a fault-counting approach to efficiently compute logical sensitivities in quantum error-correcting codes. By quantifying how each physical error type contributes to logical failure, the method guides hardware improvements and code optimization.",
+    "significance": "Accurate logical sensitivity estimates enable targeted error mitigation, accelerating the deployment of fault-tolerant quantum processors.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "967e6923cd26994b7a92715f56efa79e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10530v1",
+    "arxiv_id": "2610.10530v1",
+    "title": "Constraints on Primordial Oscillatory Features from the Power Spectrum and Bispectrum of Redshift-Space Galaxy Clustering in DESI DR1",
+    "authors": [
+      "Shi-Fan Chen",
+      "Anton Chudaykin",
+      "Mikhail M. Ivanov"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "DESI DR1 Data Tighten Constraints on Primordial Oscillatory Features in the Universe",
+    "tldr": "Using DESI DR1 galaxy and quasar clustering data, the authors constrain oscillatory signatures in the primordial power spectrum with a custom pipeline that models the redshift‑space power spectrum and bispectrum via Lagrangian effective field theory. The analysis yields the tightest bounds to date on such features, refining our understanding of early‑universe physics.",
+    "significance": "This study sets the most stringent limits to date on primordial oscillatory signatures, sharpening constraints on inflationary models.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5810b045d1ad77a0a3fba6f41811ecf6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10528v1",
+    "arxiv_id": "2610.10528v1",
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "authors": [
+      "Wei Huang",
+      "Bohan Zhang",
+      "Chenzhi Liu"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Long-WAM: Scaling Context for Real-Time Robot Control with Extended Visual Histories",
+    "tldr": "Long-WAM extends causal world-action models by incorporating longer visual histories without compromising real-time performance. The framework demonstrates that deeper context significantly improves motion inference and task progress estimation in robotic control.",
+    "significance": "By enabling efficient use of extended visual histories, Long-WAM advances real-time robotic perception and action planning.",
+    "tags": [
+      "real-time",
+      "time-series",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "40a0905d7b8c1fba0ce3fa0ed73aaa6a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10527v1",
+    "arxiv_id": "2610.10527v1",
+    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+    "authors": [
+      "Aleksandar Armacki",
+      "Haoyuan Cai",
+      "Ali H. Sayed"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Decentralized SGD with Heavy-Tailed Noise: Optimal Rates via Gradient Clipping",
+    "tldr": "This study establishes optimal convergence rates for decentralized stochastic gradient descent under heavy-tailed noise, showing that gradient clipping not only stabilizes local updates but also preserves consensus. Theoretical bounds match empirical performance across various network topologies.",
+    "significance": "It bridges a critical gap between robust optimization techniques and decentralized learning, enabling reliable training in distributed systems with non-Gaussian noise.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a7073df44f6b2544f42122d91bba86c3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10526v1",
+    "arxiv_id": "2610.10526v1",
+    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+    "authors": [
+      "Mikey Watts",
+      "Yuchen Cui"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Rephrase Before You Act: Tackling Language Sensitivity in Vision‑Language‑Action Models",
+    "tldr": "Vision‑language‑action models are highly sensitive to phrasing, with single-word changes dramatically altering performance. The study introduces rephrase augmentation and checkpoint fine‑tuning to improve robustness.",
+    "significance": "Understanding and mitigating language sensitivity is critical for reliable deployment of vision‑language‑action systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a48eb58071e503009221ca00ac9e660b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10525v1",
+    "arxiv_id": "2610.10525v1",
+    "title": "A Hawkes Microfoundation for Multitype Inverse Gaussian Subordinators",
+    "authors": [
+      "Yingli Wang",
+      "Wei Xu",
+      "Lingjiong Zhu"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "Hawkes Microfoundation for Multitype Inverse Gaussian Subordinators: Joint Convergence of Counts and Intensities",
+    "tldr": "We show that nearly critical multivariate Hawkes processes with finite-mean delays and balanced immigration converge jointly to a multivariate pure-jump subordinator, providing a microfoundation for multitype inverse-Gaussian clocks. This result links event-level dynamics to integrated intensity limits, revealing how rare large families persist in the limit.",
+    "significance": "This bridges point-process microdynamics with continuous-time stochastic clocks, enabling new modeling of heavy-tailed event streams.",
+    "tags": [
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "43a231037b06cad49b72936ee868ff47",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.10524v1",
+    "arxiv_id": "2610.10524v1",
+    "title": "GRACE: Generation-aware latent compression for efficient video generation",
+    "authors": [
+      "Jiyoung Kim",
+      "Paul Hyunbin Cho",
+      "Jisu Nam"
+    ],
+    "published": "2026-10-07",
+    "curated_at": "2026-10-08",
+    "headline": "GRACE: Generation-Aware Latent Compression Boosts Video Diffusion Efficiency for High-Resolution Content",
+    "tldr": "GRACE introduces a generation-aware autoencoder that compresses video frames into a compact latent representation, allowing Diffusion Transformers to process far fewer tokens while maintaining reconstruction fidelity. By jointly optimizing compression and diffusion training, the method achieves faster convergence and higher quality generation compared to traditional high-ratio autoencoders.",
+    "significance": "This approach enables real-time, high-resolution video generation with reduced computational cost, opening doors for scalable media applications.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "9d47d373e92f9fae261a1e8654e82af8",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.08791v1",
@@ -1100,341 +1429,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "fd7ea0c48508568d136e4beebc934a39",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02182v1",
-    "arxiv_id": "2610.02182v1",
-    "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
-    "authors": [
-      "Joohwan Ko",
-      "Tetiana Parshakova",
-      "Diana Cai"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-04",
-    "headline": "SoftServe: Scalable Quasi-Newton Optimization for Deep Learning Without Line Searches",
-    "tldr": "SoftServe introduces a family of quasi-Newton methods that scale to large deep learning models while avoiding line searches and curvature corrections. The approach maintains positive definiteness and delivers efficient, robust optimization for non-convex problems.",
-    "significance": "It enables large-scale, efficient training of deep neural networks by combining quasi-Newton efficiency with scalability.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a017269b084ff700e87b6a3aae5446bd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02181v1",
-    "arxiv_id": "2610.02181v1",
-    "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
-    "authors": [
-      "Haibo Wang",
-      "Jiteng Mu",
-      "Jialu Li"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-04",
-    "headline": "OmniSeek Empowers LLMs with Dynamic Audio-Visual Tool Use for Multi-Turn Reasoning",
-    "tldr": "OmniSeek transforms an Omni-LLM into an active agent that can decide when to look or listen during a conversation, using native tool integration for evidence acquisition. By dynamically selecting temporal windows, it achieves efficient, multi-turn audio-visual reasoning in real time.",
-    "significance": "This framework enables LLMs to interact with multimodal data streams more efficiently, opening new possibilities for real-time decision-making in complex environments.",
-    "tags": [
-      "LLM",
-      "time-series",
-      "real-time",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3f4ce700bab3b624040bbac6c77e2799",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02208v1",
-    "arxiv_id": "2610.02208v1",
-    "title": "Sphere Encoder 2",
-    "authors": [
-      "Kaiyu Yue",
-      "Sean McLeish",
-      "Ruchit Rawal"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "Improving Sphere Encoder: Bridging Latent Sphere Gaps for Better One-Step Image Generation",
-    "tldr": "The Sphere Encoder 2 paper addresses two key limitations of the original model: the concentration of latent points near the equator and the incomplete training rotation. By correcting these gaps, the model achieves higher quality, one-step image generation.",
-    "significance": "This work enhances autoencoder-based generative models, enabling more reliable and high-fidelity image synthesis from latent spheres.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7b9d76155c3647de8060677e64a7a6aa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02207v1",
-    "arxiv_id": "2610.02207v1",
-    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-    "authors": [
-      "Ramazan Fazylov",
-      "Stamatis Lefkimmiatis",
-      "Ivan Laptev"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "Fast Real-Time Avatar Animation via Gaussian Blendshape Distillation",
-    "tldr": "We show that pretrained 3D Gaussian avatars can be animated efficiently by approximating them with a linear combination of identity-independent blendshapes. Our GALA method distills neural inference into a lightweight linear model, enabling real-time avatar animation without sacrificing visual quality.",
-    "significance": "This approach dramatically reduces computational cost, making high-fidelity avatar animation feasible on consumer hardware.",
-    "tags": [
-      "real-time",
-      "open-source",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f312d3e31a7271efd9cc6d3c409acc19",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02206v1",
-    "arxiv_id": "2610.02206v1",
-    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-    "authors": [
-      "Pengfei Li",
-      "Naufal Suryanto",
-      "Sicheng Zhang"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "KaliBench: Benchmarking LLM-Generated Cybersecurity Commands on Kali Linux Without Runtime Overhead",
-    "tldr": "KaliBench introduces a fine-grained benchmark that evaluates LLMs on their ability to produce executable Kali Linux tool commands. The dataset includes runtime-free verifiable rewards, enabling objective measurement of tool invocation accuracy.",
-    "significance": "This benchmark bridges the gap between knowledge-based LLM evaluation and real-world cybersecurity tool usage, providing a practical metric for operational readiness.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f1e959a135a15e337441719a29bbd75b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02205v1",
-    "arxiv_id": "2610.02205v1",
-    "title": "ROWBench: Do Video Models Render What the Program Specifies?",
-    "authors": [
-      "Zheng-Hui Huang",
-      "Guixu Lin",
-      "Yu-Ju Tsai"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "Evaluating Visual Fidelity of Programmable World Models in Next-Gen Game Engines",
-    "tldr": "Programmable world models separate dynamics from visual rendering, but their adherence to program rules is under-tested. This study introduces a benchmark to assess fine-grained visual fidelity in game engine contexts.",
-    "significance": "The benchmark provides a systematic way to ensure that visual outputs match explicit program specifications, advancing reliable game engine development.",
-    "tags": [
-      "benchmark",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "71d52f4f765879539b232a8afac08663",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02203v1",
-    "arxiv_id": "2610.02203v1",
-    "title": "Embedding Prediction Helps Image Generation",
-    "authors": [
-      "Sihan Xu",
-      "Ji Xie",
-      "Zilin Wang"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "Predicting Embeddings Boosts Diffusion Transformer Image Generation for High-Resolution Visuals",
-    "tldr": "NEPA trains a Transformer to predict the next continuous embedding, allowing the model to use predicted embeddings as conditioning during denoising. This reduces reliance on a fixed prompt and improves image generation quality and flexibility.",
-    "significance": "By enabling dynamic conditioning, NEPA enhances diffusion models' adaptability and opens new avenues for controllable image synthesis.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "94b8625876dc611e07cbff0ac663da51",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02202v1",
-    "arxiv_id": "2610.02202v1",
-    "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-    "authors": [
-      "Sohyeon Kim",
-      "Yoonho Lee",
-      "Bo Liu"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "ScholarCatalyst: Benchmarking Retrieval of Inspiring Papers for New Scientific Research",
-    "tldr": "ScholarCatalyst introduces a benchmark that evaluates AI systems' ability to retrieve prior papers that directly inspire new research, using curated datasets from researchers who cite foundational works. The benchmark highlights the gap between current AI retrieval models and human expertise in recognizing relevant scientific lineage.",
-    "significance": "It provides a rigorous test for AI systems to emulate the human skill of spotting pivotal prior research, crucial for accelerating scientific discovery.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bb389e1b4ce4cd956c362bd1c97acf87",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02201v1",
-    "arxiv_id": "2610.02201v1",
-    "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-    "authors": [
-      "Tianjiao Yu",
-      "Xinzhuo Li",
-      "Yifan Shen"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "SILSA: Sliding-Window Latents Preserve Topology for High-Res 3D Generation",
-    "tldr": "SILSA introduces a sliding-window slice latent approach that maintains surface continuity while reducing token fragmentation in voxel-based 3D generation. By preserving topology, it lowers computational cost and improves fidelity for thin or highly connected shapes.",
-    "significance": "This method enables more efficient, topologically consistent high-resolution 3D models, advancing realistic synthetic geometry creation.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0e5a46ee2e46f53ccfd080e8001d2d46",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02200v1",
-    "arxiv_id": "2610.02200v1",
-    "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-    "authors": [
-      "Qiushi Han",
-      "Keya Hu",
-      "Linlu Qiu"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "VISTA: Enabling Long-Horizon Vision for Multimodal Reasoning in Interactive Environments",
-    "tldr": "We demonstrate that multimodal models can excel at reasoning when provided with a visual harness that offers long-horizon vision. VISTA allows these models to directly perceive and process visual observations in interactive environments, unlocking their potential across diverse tasks.",
-    "significance": "VISTA bridges the gap between general-purpose multimodal models and complex interactive tasks, enabling more robust reasoning capabilities.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "aea525b40e2fbe2c75c657d9b61d44a8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02199v1",
-    "arxiv_id": "2610.02199v1",
-    "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
-    "authors": [
-      "Jichao Jiang",
-      "Cristian McGee",
-      "El Houcine Bergou"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "TACO: Memory-Efficient Optimizer for Full-Parameter LLM Fine-Tuning, Reducing GPU Memory Footprint",
-    "tldr": "TACO introduces a ternary absolute-max column-wise one-sparse optimizer that dramatically cuts optimizer state memory for full-parameter fine-tuning of large language models. By leveraging sparse updates, it enables training larger models on existing GPUs without sacrificing convergence speed.",
-    "significance": "This work lowers the barrier to fine-tuning massive LLMs, making it feasible on commodity hardware and accelerating research.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9ccd7d57ef0d1f79fce9ddf9bc7a2a89",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02198v1",
-    "arxiv_id": "2610.02198v1",
-    "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
-    "authors": [
-      "Sebastian Sanokowski",
-      "Alireza Sarmadi",
-      "Majid Khadiv"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "FERPO: Enhancing Reinforcement Learning with Forward Entropy-Regularized Policy Updates",
-    "tldr": "FERPO introduces a novel entropy-regularized policy optimization that leverages forward action gradients, addressing inaccuracies in critic-derived gradients. The method improves stability and performance in continuous control tasks compared to existing gradient-based RL algorithms.",
-    "significance": "By ensuring more reliable policy updates, FERPO advances the robustness of online RL in continuous control, potentially benefiting robotics and autonomous systems.",
-    "tags": [
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "96cfb7a87267d3a417f9508bf5dade80",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02197v1",
-    "arxiv_id": "2610.02197v1",
-    "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
-    "authors": [
-      "Tahira Kazimi",
-      "Shubhankar Borse",
-      "Munawar Hayat"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "Physically Plausible Video Generation with Hierarchical Alignment for Multi‑Principle Scenarios",
-    "tldr": "HiPhy introduces a hierarchical alignment framework that enforces multiple physical laws in video generation, enabling realistic simulations of complex interactions like buoyancy and gravity. The model demonstrates improved physical plausibility while maintaining high visual fidelity on benchmark datasets.",
-    "significance": "This work bridges the gap between visual realism and physical accuracy, paving the way for reliable AI‑driven simulations in science and entertainment.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e12d8be7e1c1634b86fa2aa01e736919",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.02196v1",
-    "arxiv_id": "2610.02196v1",
-    "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
-    "authors": [
-      "Zhuo Lin",
-      "Sirui Xu",
-      "Liuyu Bian"
-    ],
-    "published": "2026-10-01",
-    "curated_at": "2026-10-03",
-    "headline": "InterEvolve: Adapting Humanoid Controllers at Test Time for New Loco-Manipulation Tasks",
-    "tldr": "We demonstrate that a pre-trained humanoid controller can be repurposed for unseen tasks by evolving its reward program during deployment. This approach improves performance without retraining and retains learned skills.",
-    "significance": "This method enables rapid deployment of versatile humanoid robots in dynamic environments without costly retraining.",
-    "tags": [
-      "real-time",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
