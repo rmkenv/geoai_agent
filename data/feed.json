@@ -1,5 +1,222 @@
 [
   {
+    "uid": "8450a92521cefd172b007df6790e1370",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12453v1",
+    "arxiv_id": "2610.12453v1",
+    "title": "Mental-Models for Multi-Agent Systems",
+    "authors": [
+      "Hanan Gani",
+      "Lulu Shao",
+      "Manmohan Chandraker"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "Building Mental Models for Robust Multi-Agent Decision-Making with Foundation Models",
+    "tldr": "Large foundation models enable general-purpose agents to interact via language and multimodal signals, but robust multi-agent decision-making requires reasoning about other agents' knowledge, intentions, and likely actions under partial observability. Current systems rely on prompt design, memory, or end-to-end training, which limits their ability to model complex agent interactions.",
+    "significance": "Understanding and modeling mental states in multi-agent systems is crucial for deploying reliable autonomous agents in real-world, partially observable environments.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "19a4c4533fd04d7c69bd047959cbc000",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12451v1",
+    "arxiv_id": "2610.12451v1",
+    "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+    "authors": [
+      "Boyao Han",
+      "Chen Shi",
+      "Jingjing Qian"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "VersaCamVLA: Flexible Camera-Configurable Vision‑Language‑Action for Robotics",
+    "tldr": "Vision‑Language‑Action models struggle when camera setups change, limiting deployment flexibility. VersaCamVLA decouples camera representation from action learning, enabling robust manipulation across varied camera counts and poses.",
+    "significance": "It unlocks reliable VLA robotics in dynamic real‑world environments by removing fixed‑camera constraints.",
+    "tags": [
+      "foundation-models",
+      "object-detection",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7594514c6a21d7306472d6b0970e1d92",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12450v1",
+    "arxiv_id": "2610.12450v1",
+    "title": "Discovery of Hidden Extragalactic Pulsars in the Parkes Archival Data",
+    "authors": [
+      "Rahul Sengar",
+      "Laila Vleeschower",
+      "Matthew Bailes"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "Hidden Extragalactic Pulsars Unveiled in Parkes Archival Data Using Advanced Search Techniques",
+    "tldr": "Researchers discovered dozens of previously unknown pulsars in the Large and Small Magellanic Clouds by reanalyzing Parkes telescope archival data. This finding refines the pulsar luminosity function and offers insights into neutron star populations in low-metallicity environments.",
+    "significance": "The discovery expands the extragalactic pulsar census and improves constraints on neutron star formation in metal-poor galaxies.",
+    "tags": [
+      "time-series",
+      "object-detection",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fc9e7aa985a7a9f4713b6941d4565e77",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12448v1",
+    "arxiv_id": "2610.12448v1",
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "authors": [
+      "Adrian Bulat",
+      "Yassine Ouali",
+      "Georgios Tzimiropoulos"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "Recurrent Vision Transformers: Depth-Programmed Experts Achieve Full-Depth Accuracy",
+    "tldr": "This paper demonstrates that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs. By representing the FFN at each recurrent depth as a convex combination of a small shared expert bank, the model restores depth-specific transformations without intermediate feature distillation.",
+    "significance": "It offers a parameter-efficient alternative to deep vision encoders, reducing computational cost while maintaining performance.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c30901f3384bfa4f785642fe9f39632f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12449v1",
+    "arxiv_id": "2610.12449v1",
+    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+    "authors": [
+      "Anna Zimmel",
+      "Fleur Hendriks",
+      "Markus Holzleitner"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "Bi-FORK: A Generative Framework for Modeling Symmetry-Breaking Bifurcations in High-Dimensional Systems",
+    "tldr": "Bi-FORK introduces a generative approach that captures multiple valid solutions arising from symmetry-breaking bifurcations, challenging the one-to-one mapping assumption of conventional surrogates. By leveraging diffusion-based modeling, it learns the full solution manifold, enabling accurate predictions across high-dimensional physical systems.",
+    "significance": "This work expands deep learning’s applicability to inherently multi-valued physical phenomena, opening avenues for more realistic modeling of complex systems.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a914e632aa87b39e29476296ff4a34d0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12447v1",
+    "arxiv_id": "2610.12447v1",
+    "title": "Entanglement entropy and magic of ZX-diagrams",
+    "authors": [
+      "Marcin Szyniszewski",
+      "Razin A. Shaikh",
+      "Aleks Kissinger"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "Efficiently Extracting Entanglement Entropy and Magic via ZX-Calculus Graphical Methods",
+    "tldr": "This work demonstrates that ZX-diagrams can be used to compute entanglement entropy and magic of quantum states without costly tensor contractions. The authors provide algorithms that exploit the diagrammatic structure, offering a scalable alternative to conventional methods.",
+    "significance": "By reducing the computational overhead for key quantum resources, the study paves the way for more efficient analysis of large quantum circuits.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f063b846c287498736bafd83ef7a339e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12445v1",
+    "arxiv_id": "2610.12445v1",
+    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+    "authors": [
+      "Oskar J. Hollinsworth",
+      "Alex F. Spies",
+      "Tigist Diriba"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "Probes Detect LLM Deception: New Dataset and Architecture Scale Monitoring",
+    "tldr": "Researchers introduce the largest deception dataset for LLMs and a novel probe architecture that aggregates information across layers and tokens. This enables scalable, real‑time monitoring of AI agents to catch subtle, unverbalized deception.",
+    "significance": "The work provides a practical, white‑box tool for detecting deceptive behavior in large language models, enhancing safety and trust in AI systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9dfb10cf9408bead6d06abc06bec4d2c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12444v1",
+    "arxiv_id": "2610.12444v1",
+    "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+    "authors": [
+      "Hanyang Li",
+      "Shao Tang",
+      "Daniel Thomas Braithwaite"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "Redesigning 4-bit AdamW Quantization via Rounding Space for Improved Optimizer Stability",
+    "tldr": "We propose a new 4‑bit quantization scheme for AdamW that selects reconstruction levels in the rounding space, reducing error propagation in moment updates. Experiments show lower training loss and faster convergence compared to conventional quantization.",
+    "significance": "This approach enables efficient deployment of large‑scale models on memory‑constrained devices without sacrificing training quality.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "74104b7590f3189c58188dc049b7c30a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12440v1",
+    "arxiv_id": "2610.12440v1",
+    "title": "Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
+    "authors": [
+      "Dechen Gao",
+      "Yue Yang",
+      "Ben Abbatematteo"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-10",
+    "headline": "Bridging the Embodiment Gap: Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
+    "tldr": "This work introduces a generative neural framework that retargets human demonstrations to robotic manipulators, addressing the embodiment gap by incorporating dynamics and feasibility constraints. By combining inverse kinematics with reinforcement learning and model predictive control, the method achieves realistic, real-time dexterous manipulation on robots.",
+    "significance": "It enables scalable transfer of human skills to robots, accelerating the deployment of dexterous manipulation in real-world tasks.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "7e04dd5f3929a5218998560f7e863f9e",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.12470v1",
@@ -1216,223 +1433,6 @@
       "benchmark"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "10f67383a4110523807ac5396e7725b4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03717v1",
-    "arxiv_id": "2610.03717v1",
-    "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-    "authors": [
-      "Keerthi Kaashyap",
-      "Dennis Anthony",
-      "Akshay Krishnan"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "Reevaluating Encoder-Based Novel View Synthesis for 3D Representation Learning in Practice",
-    "tldr": "The study shows that encoder-based novel view synthesis fails to produce strong 3D representations, not due to supervision but due to subtle architectural choices. By reexamining these design decisions, the authors propose a more effective decoder-centric approach that improves geometric representation learning.",
-    "significance": "This work highlights that architectural design, rather than supervision, is critical for effective 3D representation learning via novel view synthesis.",
-    "tags": [
-      "spatial-reasoning",
-      "point-cloud",
-      "LiDAR"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "be2bfb2f399fecbf442b136834a41042",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03716v1",
-    "arxiv_id": "2610.03716v1",
-    "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
-    "authors": [
-      "Jiahuan Cheng",
-      "Zhiyi Li",
-      "Tian Xia"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "MoSE3: Predicting Dense 6-DoF Motion Per Pixel from Monocular Video",
-    "tldr": "MoSE3 introduces a feed-forward network that outputs full 6-DoF SE(3) motion for every pixel in monocular RGB video. This enables dense 3D point tracking with rotation and rigid-body motion, surpassing traditional 3-DoF translation-only methods.",
-    "significance": "By modeling full SE(3) motion per pixel, MoSE3 provides richer motion understanding for dynamic scenes, facilitating applications like 3D reconstruction and motion segmentation.",
-    "tags": [
-      "point-cloud",
-      "segmentation",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "16f163241491d789a762a533a2e65bcc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03715v1",
-    "arxiv_id": "2610.03715v1",
-    "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-    "authors": [
-      "Ruihong Shen",
-      "Žiga Kovačič",
-      "Peter Kulits"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes for Code Generation",
-    "tldr": "4DCodeBench introduces a benchmark that evaluates agents' ability to reconstruct dynamic scenes from video by generating executable graphics programs. It requires translating visual data into compact scene representations and simulating physical dynamics, pushing the limits of inverse graphics and code generation.",
-    "significance": "This benchmark advances research in inverse graphics by demanding agents produce full, executable 4D scene models, bridging perception and program synthesis.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c439f6a94558d3d9911fd4d25f614e03",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03713v1",
-    "arxiv_id": "2610.03713v1",
-    "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-    "authors": [
-      "Nishit Anand",
-      "Ramani Duraiswami",
-      "Dinesh Manocha"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "Stratified Retention: How World Models Should Forget for Continual Adaptation",
-    "tldr": "Continual learning often penalizes forgetting, but world models need to discard outdated knowledge as environments evolve. This paper proposes a stratified retention strategy that selectively forgets irrelevant information while preserving useful context.",
-    "significance": "It redefines forgetting as a beneficial mechanism for adaptive world models, enabling more robust real‑time decision making.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1b6aa1609fc6b80f920ed2f6ec90e593",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03712v1",
-    "arxiv_id": "2610.03712v1",
-    "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
-    "authors": [
-      "Yiming Huang",
-      "Lennart Bastian",
-      "Hanqun Cao"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "RNADynBench: A Unified Benchmark for RNA Dynamics Generation and Analysis",
-    "tldr": "RNA functions through dynamic conformational changes that static structures miss. RNADynBench offers a standardized, large-scale dataset of 2,585 high-quality RNA molecular dynamics trajectories, enabling integrated generation and understanding of RNA motion.",
-    "significance": "It bridges the gap between trajectory generation and dynamics interpretation, providing a common platform for advancing RNA research.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4db41531ed9d378979acef77c2e6affa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03710v1",
-    "arxiv_id": "2610.03710v1",
-    "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
-    "authors": [
-      "Kush Hari",
-      "Justin Kerr",
-      "Nidhya Shivakumar"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "EyeRobot 2.0 Uses Active Gaze for Precise Bimanual Manipulation Without Wrist Cameras",
-    "tldr": "EyeRobot 2.0 employs active gaze by swiveling two eye viewpoints to focus a single stereo camera on a 3D fixation point, enabling fine-grained bimanual manipulation. The system processes images foveally, allocating more visual tokens to the image centers for efficient, real-time computation.",
-    "significance": "This approach eliminates the need for wrist-mounted cameras, simplifying robotic hardware while maintaining high manipulation precision through focused visual attention.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "252b506b4aefcfb5ce6aac07080a94e1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03709v1",
-    "arxiv_id": "2610.03709v1",
-    "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
-    "authors": [
-      "Kuangyu Ding",
-      "Gesualdo Scutari"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "Decentralized Optimization via Graph Decomposition: From Mixing to Tearing",
-    "tldr": "The paper introduces a message‑passing framework that decomposes a graph to accelerate decentralized optimization of smooth strongly convex functions. By tearing the network into subgraphs, agents can perform local updates more efficiently than traditional gossip or spanning‑tree methods.",
-    "significance": "It offers a scalable, communication‑efficient alternative for distributed machine learning on large networks.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9ae7cd68744f726d03912bd8e0473d4d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03703v1",
-    "arxiv_id": "2610.03703v1",
-    "title": "Fractal dimension of critical Gaussian free field sign clusters",
-    "authors": [
-      "Alexander Drewitz",
-      "Alexis Prévost",
-      "Pierre-François Rodriguez"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "Fractal Dimension of Critical Gaussian Free Field Sign Clusters on Low-Dimensional Graphs",
-    "tldr": "We analyze sign clusters of the Gaussian free field on transient weighted graphs below the mean-field regime and establish that macroscopic cluster definitions via diameter, volume, or capacity coincide. This yields a precise fractal dimension for critical clusters and a macroscopic equivalence property.",
-    "significance": "It resolves long-standing questions about the scaling behavior of sign clusters in low-dimensional random fields.",
-    "tags": [
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "25f4f7b382c6137654a88162113a0cfc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.03702v1",
-    "arxiv_id": "2610.03702v1",
-    "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
-    "authors": [
-      "Lyuxin David Zhang",
-      "Eric Wong",
-      "Surbhi Goel"
-    ],
-    "published": "2026-10-02",
-    "curated_at": "2026-10-05",
-    "headline": "LESSER: Efficient Post-Training Data Selection Using Output-Layer Gradients for Large Language Models",
-    "tldr": "LESSER introduces a lightweight method that ranks post-training samples by their output-layer gradients, avoiding costly full-parameter backpropagation. The approach achieves comparable downstream performance to full-gradient methods while dramatically reducing computational overhead.",
-    "significance": "By leveraging output-layer gradients, LESSER enables scalable data selection for large language models, making post-training fine-tuning more accessible.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
