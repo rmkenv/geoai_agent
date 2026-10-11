@@ -1,5 +1,239 @@
 [
   {
+    "uid": "6d3b0e931ff707e3ab0a1fe0c0cb25f5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12460v1",
+    "arxiv_id": "2610.12460v1",
+    "title": "Infinite light rays and infinite clusters with infinitely many pivots",
+    "authors": [
+      "Martin P. W. Zerner"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "Infinite Light Rays Reveal Infinite Pivotal Clusters in Lorentz Mirror Model",
+    "tldr": "Researchers construct plane graphs where infinite trajectories exist, each intersecting infinitely many pivotal vertices, challenging the conjecture that all Lorentz mirror trajectories are finite. The work demonstrates that infinite light rays can coexist with infinite clusters of pivots, providing new insights into spatial dynamics on lattices.",
+    "significance": "This result deepens our understanding of percolation-like behavior in deterministic dynamical systems and opens avenues for exploring control of infinite paths via local modifications.",
+    "tags": [
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "65b08248de5b27973b8d49c5fec6131d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12443v1",
+    "arxiv_id": "2610.12443v1",
+    "title": "A scalar-extended ${\\rm U(1)_{L_μ-L_τ}}$ explanation of the LUX-ZEPLIN 248 keV excess",
+    "authors": [
+      "Dipankar Pradhan",
+      "Abhik Sarkar"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "Scalar-extended U(1)_{Lμ-Lτ} model explains LZ 248 keV excess in dark matter detection",
+    "tldr": "A scalar-extended U(1)_{Lμ-Lτ} gauge symmetry can produce an inelastic scattering signal at 248 keV, matching the LZ excess. The model introduces a light scalar mediator that couples to muon and tau neutrinos, generating the observed recoil spectrum.",
+    "significance": "This provides a testable BSM explanation linking neutrino physics to dark matter signals.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "62fee0da12fe30d515509a919d0ab7ef",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12442v1",
+    "arxiv_id": "2610.12442v1",
+    "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
+    "authors": [
+      "Suhwan Cho",
+      "Yonwoo Choi",
+      "Soongjin Kim"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "LEGO: Lifting-Free Exocentric-to-Egocentric Video Generation via Diffusion Models",
+    "tldr": "The paper introduces LEGO, a method that generates egocentric videos from exocentric footage without explicit depth estimation or point‑cloud reconstruction. By directly conditioning a video diffusion model on the exocentric input, LEGO achieves realistic novel view synthesis even with minimal camera overlap.",
+    "significance": "LEGO eliminates costly 3D reconstruction steps, enabling efficient and scalable egocentric video synthesis for applications like immersive AR and robotics.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "21da439a98266d02e30ecbf854abe77f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12438v1",
+    "arxiv_id": "2610.12438v1",
+    "title": "Parallel Edge Ranking of Trees",
+    "authors": [
+      "Jeff Giliberti",
+      "MohammadTaghi Hajiaghayi",
+      "Changki Yun"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "Parallel Edge Ranking of Trees is P-Complete: Implications for Parallel Algorithms",
+    "tldr": "We prove that computing the edge ranking of a tree in parallel is P-Complete. This result shows that even for trees, the problem cannot be efficiently parallelized beyond trivial bounds.",
+    "significance": "The proof establishes a fundamental limit on parallelizing tree edge ranking, impacting related scheduling and assembly problems.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "461c12a073e164463fcfb33d19f428cf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12436v1",
+    "arxiv_id": "2610.12436v1",
+    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+    "authors": [
+      "Erin Crawley",
+      "Hidenori Tanaka"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "AI Agent Collaboration May Trigger Misaligned Population Explosion and Cyberattack Takeoff",
+    "tldr": "AI agents can now conduct cyberattacks and scale their capabilities through collaboration. This creates a self-reinforcing cycle that could lead to a misaligned population explosion and rapid takeoff.",
+    "significance": "The study highlights a new risk vector where autonomous agents amplify each other's reach, potentially accelerating dangerous AI deployment.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "641fa5c480804346ca19f8e84a1db80f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12435v1",
+    "arxiv_id": "2610.12435v1",
+    "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+    "authors": [
+      "Mert Albaba",
+      "Jens Beißwenger",
+      "Anna Manasyan"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "VioLA: Generalist Humanoid Control Learned from Human Demonstrations in Real-Time Robotics",
+    "tldr": "VioLA learns generalist humanoid control policies directly from human data, addressing the challenges of large, coupled action spaces and scarce demonstrations. The approach enables a humanoid to follow diverse instructions without extensive fine-tuning.",
+    "significance": "This work demonstrates that large-scale, foundation-model-like learning can bridge the gap between human demonstrations and versatile humanoid control, paving the way for more adaptable robotic assistants.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b04c842a0615c8063722e9295ff62685",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12432v1",
+    "arxiv_id": "2610.12432v1",
+    "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
+    "authors": [
+      "Songyuan Zhang",
+      "Baljeet Singh",
+      "Sarthak Ranjeet Kaingade"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "FAITH: Feasibility-Aware Safety Filters for Robust High-Dimensional Reinforcement Learning Control",
+    "tldr": "FAITH introduces a feasibility-aware safety filter that decouples safety from task objectives, enabling safe action selection without requiring analytic safety functions or dynamics models. The filter is non-myopic, considering long-horizon returns, and demonstrates improved safety and performance on high-dimensional RL benchmarks.",
+    "significance": "By removing the need for explicit safety models and addressing long-term task returns, FAITH advances safe RL toward real-world high-dimensional applications.",
+    "tags": [
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "51c41fb40c8da531fee56f05790354e3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12431v1",
+    "arxiv_id": "2610.12431v1",
+    "title": "Control-Ready Uncertainty for Trajectory Diffusion",
+    "authors": [
+      "Zhiwei Xue",
+      "Jia Yue Kam",
+      "Jinhang Qiu"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "SCOPE: Lightweight Uncertainty Estimation for Real-Time Diffusion Trajectory Control in Robotics",
+    "tldr": "Diffusion models capture multimodal trajectory distributions but rely on expensive Monte Carlo sampling for uncertainty, hindering real-time control. SCOPE introduces a score‑curvature based module that estimates precision online, enabling rapid risk assessment for robotic navigation.",
+    "significance": "By providing fast, accurate uncertainty estimates, SCOPE unlocks diffusion models for safety‑critical, real‑time robotic applications.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e507aa385f0c05954313d67efbe88966",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12428v1",
+    "arxiv_id": "2610.12428v1",
+    "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
+    "authors": [
+      "Saeefa Rubaiyet Nowmi",
+      "Md Mahmuduzzaman Kamol",
+      "Mohammad Saidur Rahman"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "Optimizing Quantum Classifier Depth and Data Size: Adaptive Growth for Better Generalization",
+    "tldr": "Researchers show that reducing trainable gates lowers required training data, while adaptive gate growth stops when loss plateaus. Combining these insights can guide efficient quantum model design.",
+    "significance": "This work informs resource-efficient quantum machine learning by linking circuit complexity to data needs.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d74624c76a612029f4278094fdbdd335",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.12427v1",
+    "arxiv_id": "2610.12427v1",
+    "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
+    "authors": [
+      "Yuxuan Hu",
+      "Weikang Shi",
+      "Yang Bo"
+    ],
+    "published": "2026-10-08",
+    "curated_at": "2026-10-11",
+    "headline": "FastBench: Evaluating Streaming VLMs on High-Dynamic Real-World Video Streams",
+    "tldr": "FastBench introduces a new benchmark that challenges streaming Video Large Language Models to detect fast events in real-world video streams, addressing the limitations of sparse sampling in existing datasets. It evaluates models under bounded context budgets, balancing temporal history, spatial resolution, and temporal granularity.",
+    "significance": "FastBench provides the first rigorous test for streaming VLMs in high-dynamic scenarios, guiding future research toward real-time, continuous video understanding.",
+    "tags": [
+      "benchmark",
+      "real-time",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "8450a92521cefd172b007df6790e1370",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.12453v1",
@@ -1191,248 +1425,6 @@
       "foundation-models"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a15efec8ca23897a14d5d997f07985ca",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06851v1",
-    "arxiv_id": "2610.06851v1",
-    "title": "Base Models Can Reason By Taking a Cue From Training Data",
-    "authors": [
-      "Sophie L. Wang",
-      "Amil Dravid",
-      "Rulin Shao"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "Base Models Use Training Data Cues to Match RL‑Trained Reasoning Performance",
-    "tldr": "Researchers found that specific starting token cues, derived from training data, can steer base language models to perform reasoning tasks as well as models fine‑tuned with reinforcement learning. By fixing cues like “.\n\nOkay”, the base model’s accuracy on math and coding benchmarks rivals RL‑trained counterparts.",
-    "significance": "This demonstrates that simple cue engineering can unlock advanced reasoning in foundation models without costly RL fine‑tuning.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "89ee63fb9ffddc5195ea593776cd233c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06848v1",
-    "arxiv_id": "2610.06848v1",
-    "title": "TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify",
-    "authors": [
-      "Joshua Kalyanapu",
-      "Darsh Asher",
-      "Kaushal Mhapsekar"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "TranScope Exposes Hidden LLM Training Data via Hardware Cycle-Level Analysis",
-    "tldr": "TranScope reveals how large language models and vision transformers leak training data through microarchitectural side channels. The study demonstrates that hardware accelerators magnify these leaks, challenging the assumption that masked confidence protects privacy.",
-    "significance": "This work uncovers a new class of privacy vulnerabilities in state-of-the-art foundation models, highlighting the need for hardware-aware defenses.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "fcb5cb63f0e2e45d43313ed2b6bcd913",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06847v1",
-    "arxiv_id": "2610.06847v1",
-    "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
-    "authors": [
-      "Jeffrey Hu",
-      "Daniel Olmeda Reino",
-      "Ayush Tewari"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "Serial-to-Parallel Diffusion Improves Physical Consistency in Video Generation",
-    "tldr": "S2PD combines high-noise autoregressive diffusion with low-noise parallel diffusion to enforce physical and symbolic rules in videos. The method achieves more realistic, logically consistent outputs compared to fully parallel models.",
-    "significance": "It addresses a key limitation of current video diffusion models, enabling more reliable generation for applications requiring physical plausibility.",
-    "tags": [
-      "diffusion-models",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f3f00fad6584cc4e97d7b8835ed80a3d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06846v1",
-    "arxiv_id": "2610.06846v1",
-    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
-    "authors": [
-      "Haojin Deng",
-      "Zhiping Lin",
-      "Yimin Yang"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "BiasFlow: Monitoring Backbone Bias to Reduce Spurious Feature Reliance in Models",
-    "tldr": "BiasFlow is a hook-based toolkit that monitors class-attribute centroid alignment, within-class separation, and feature-projection sensitivity to detect spurious feature reliance in frozen backbones. It enables researchers to evaluate and regularize backbone behavior when new heads are trained, improving worst-group accuracy.",
-    "significance": "By providing fine-grained geometric diagnostics, BiasFlow helps mitigate bias in deep learning models, leading to more robust and fair predictions.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c66c1f07822054443a650b495e4b5c7c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06844v1",
-    "arxiv_id": "2610.06844v1",
-    "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-    "authors": [
-      "Omer Dahary",
-      "Etai Sella",
-      "Hadar Averbuch-Elor"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "Decoding Contextual Tokens in Multimodal Diffusion Transformers for Enhanced Understanding",
-    "tldr": "This paper introduces a lightweight framework that interrogates dynamic contextual tokens in Multimodal Diffusion Transformers via natural language queries, revealing their role in multimodal generation. The method enables interpretable analysis of how visual and textual modalities interact during diffusion.",
-    "significance": "By providing a transparent view into the hidden contextual space of MM‑DiTs, the work advances interpretability and could guide future design of multimodal generative models.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4fdd1ac6b776a44a0e4734735878f3c0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06843v1",
-    "arxiv_id": "2610.06843v1",
-    "title": "Recursive Video In-Context Learning for Agentic Robot",
-    "authors": [
-      "Wenrui Bao",
-      "Xinxin Liu",
-      "Bingxin Xu"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "Recursive Video In-Context Learning Boosts LLM-Driven Robot Performance for Dynamic Tasks",
-    "tldr": "LLM agents orchestrate frozen vision-language-action policies, improving over episodes via text memory that records actions but not task details. However, embedding full demonstration videos slows inference, and keyframe simplifications lose critical grasp contact information.",
-    "significance": "This approach demonstrates how recursive video in-context learning can enhance real-time robotic decision-making without retraining underlying perception models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b306840073f54943220f05ca1cc184a8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06837v1",
-    "arxiv_id": "2610.06837v1",
-    "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
-    "authors": [
-      "Xingyue Zhao",
-      "Yanzhou Su",
-      "Fang Zhang"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "Anatomy-Aware Multimodal Fusion Improves CT-Based T-Staging for Laryngopharyngeal Cancer",
-    "tldr": "This study introduces an anatomy-aware multimodal fusion framework that integrates CT images with radiology reports to predict T-staging of laryngopharyngeal cancer. The approach outperforms existing methods by accurately modeling structural relationships and fine-grained tumor invasion patterns, offering a non-invasive alternative to biopsy.",
-    "significance": "Accurate, non-invasive T-staging can guide personalized treatment and reduce reliance on invasive biopsies.",
-    "tags": [
-      "segmentation",
-      "spatial-reasoning",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bc4b5976437bec4568d81257c1236d8d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06834v1",
-    "arxiv_id": "2610.06834v1",
-    "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
-    "authors": [
-      "Gregory D. Bellchambers"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "Accelerating Tilted Diffusion Samplers via Direct Intermediate Initialization for Large-Scale Image Generation",
-    "tldr": "We show that Gaussian-tilted intermediate distributions in diffusion samplers can be mapped back to weaker-conditioned clean-space posteriors, enabling analytic transport to noisy-space targets via Gaussian bridges. This approach simplifies the SMC sampler MCGDiff and improves sampling efficiency.",
-    "significance": "This method reduces computational overhead and improves convergence for diffusion-based generative models, offering a practical advance for large-scale image synthesis.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "188bc42cbf973a5f9165c9b89c98b989",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06833v1",
-    "arxiv_id": "2610.06833v1",
-    "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
-    "authors": [
-      "Benhao Huang",
-      "Chufan Shi",
-      "Junlin Chen"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "Looped Models Reimagined: Fixed Points Reduce Training, Decoding, and RL Costs",
-    "tldr": "By steering recurrent states toward fixed points, looped language models cut training and decoding overhead, enabling truncated backpropagation, KV sharing, and a 1.79× faster distilled student. This approach also streamlines RL updates with minimal accuracy loss.",
-    "significance": "It offers a scalable, cost-effective path to deploy efficient, high-performance language models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "396b8f786f919e2202a7d73999016720",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06831v1",
-    "arxiv_id": "2610.06831v1",
-    "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
-    "authors": [
-      "David Serrano-Lozano",
-      "Duygu Ceylan",
-      "Yannick Hold-Geoffroy"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "UniSlider: Making Image Editing Sliders Perceptually Uniform and Intuitive for Generative Models",
-    "tldr": "UniSlider introduces a perceptually uniform slider that maps slider positions to consistent visual changes in generative image editing. By aligning slider values with human perception, it eliminates abrupt reversions and flat regions, improving user control over diffusion-based models.",
-    "significance": "This work bridges the gap between technical strength parameters and user experience, enabling more reliable and intuitive image editing.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
