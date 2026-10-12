@@ -1,5 +1,242 @@
 [
   {
+    "uid": "7bac5b4b5320c91a20ff356dc7773b29",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13948v1",
+    "arxiv_id": "2610.13948v1",
+    "title": "Can Language Models Play the Wikipedia Game?",
+    "authors": [
+      "Alexander Hickey",
+      "Joanna Knight",
+      "James Bishop"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "Evaluating Language Models on the Wikipedia Game: A Retrieval Challenge",
+    "tldr": "We tested large language models on the Wikipedia Game, where the goal is to navigate from one article to another using only hyperlinks. The study compares sentence embeddings and shows how LLMs can approximate human-like link traversal in large knowledge graphs.",
+    "significance": "This work demonstrates that foundation models can perform complex navigation tasks in vast knowledge bases, informing future retrieval and reasoning systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e9ac9dfc11ab82d32b8ff97bb4557881",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13947v1",
+    "arxiv_id": "2610.13947v1",
+    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+    "authors": [
+      "Xudong Cai",
+      "Ruijie Zhu",
+      "Haoliang Shang"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "Multi-Agent Pipeline for Physically Grounded Articulated 3D Asset Generation and Benchmarking",
+    "tldr": "We present Artisan, a multi-agent pipeline that extends Articraft with physical simulation feedback, enabling the creation of articulated 3D assets that not only look realistic but also behave physically plausible. The system introduces a benchmark for evaluating motion fidelity and functional correctness of generated assets.",
+    "significance": "This work bridges the gap between visual fidelity and functional realism in 3D asset generation, providing a standardized benchmark for future research.",
+    "tags": [
+      "point-cloud",
+      "LiDAR",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f4215479a7317fc7fb9d364d7e2f11f4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13945v1",
+    "arxiv_id": "2610.13945v1",
+    "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+    "authors": [
+      "Xiaomeng Ye",
+      "Krishna Jaganathan",
+      "Gyubeum Lim"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "Adapting Generalist Manipulation Policies to Home Environments with Splat2Act",
+    "tldr": "Splat2Act automatically adapts a generalist manipulation policy to a user's specific environment using captured scenes, achieving high pickup success without costly demonstrations. The method leverages visual and spatial reasoning to personalize the policy in real time.",
+    "significance": "It enables affordable, personalized robot manipulation in diverse real-world settings, bridging the gap between generalist policies and user-specific tasks.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f2ddf2008d0f7f359dd3f7215ec5a17b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13946v1",
+    "arxiv_id": "2610.13946v1",
+    "title": "An entangling Hubbard quasiparticle collider on a digital quantum processor",
+    "authors": [
+      "Chan Bin Bark",
+      "Hanbyul Kim",
+      "Yoonil Koo"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "Quantum Collider: Measuring Quasiparticle Scattering in the Fermi-Hubbard Model on IBM Boston",
+    "tldr": "We demonstrate a digital quantum processor colliding a doublon and a holon in a 21‑site half‑filled chain, directly measuring quasiparticle interactions in the Fermi‑Hubbard model. This experiment provides unprecedented access to the scattering dynamics of strongly correlated systems.",
+    "significance": "This work establishes a new benchmark for quantum simulations of many‑body physics, enabling direct probing of interaction mechanisms in strongly correlated materials.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "074120c6d0e868e5dac0eaedc8975820",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13944v1",
+    "arxiv_id": "2610.13944v1",
+    "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+    "authors": [
+      "Xuanlang Dai",
+      "Jiazi Bu",
+      "Yujie Zhou"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "InstantFusion Unifies Diffusion Models via Shared Latent Space for Cross-Model Alignment",
+    "tldr": "InstantFusion introduces a shared latent interface that aligns heterogeneous diffusion and flow models, enabling consistent denoising dynamics across architectures. The framework facilitates cross-model transfer and benchmarking, paving the way for unified generative AI pipelines.",
+    "significance": "By harmonizing latent spaces, InstantFusion unlocks interoperability among diverse image generators, accelerating research and application development.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "41f4cbfd4e1d2d4d218989a04e2512c6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13943v1",
+    "arxiv_id": "2610.13943v1",
+    "title": "Noise Space Learning for VLA Adaptation",
+    "authors": [
+      "Junjie Lu",
+      "Chuheng Zhang",
+      "Yucen Wang"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "Noise Space Learning Enhances Pretrained Vision‑Language‑Action Models for Efficient Adaptation",
+    "tldr": "Noise Space Learning (NSL) adapts flow‑matching VLA models by learning a context‑conditioned noise distribution while keeping the backbone frozen. This allows rapid, data‑efficient fine‑tuning under limited interaction and computational budgets.",
+    "significance": "NSL offers a lightweight, safety‑aware method to tailor powerful VLA systems to specific tasks without costly retraining.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3fb7e854ba83b9715cc332eea3a0e070",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13942v1",
+    "arxiv_id": "2610.13942v1",
+    "title": "OGLE-2016-BLG-0523: A Low-mass Brown Dwarf or super-Jupiter in a $&gt;100$ au Orbit",
+    "authors": [
+      "Hongjing Yang",
+      "Weicheng Zang",
+      "Yoon-Hyun Ryu"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "OGLE-2016-BLG-0523 Reveals a Wide-Orbit Brown Dwarf or Super-Jupiter in 100+ AU",
+    "tldr": "Microlensing analysis of OGLE-2016-BLG-0523 shows two distinct short‑lived bumps separated by 8.36 years, suggesting a massive companion in a wide orbit. The data favor a low‑mass brown dwarf or super‑Jupiter orbiting beyond 100 AU, expanding our understanding of planetary formation at extreme separations.",
+    "significance": "This discovery provides the first clear evidence of a substellar companion orbiting at >100 AU, challenging conventional planet formation theories.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "42b12a8b7cb55c0f2d56dde5e1a495ea",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13941v1",
+    "arxiv_id": "2610.13941v1",
+    "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+    "authors": [
+      "Yucheng Yang",
+      "Xiaoxiao Sun",
+      "Shusheng Yang"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "Images Talk Back: Suppressing Image‑to‑Text Feedback in MMDiTs",
+    "tldr": "Multimodal diffusion transformers let evolving images update their own text embeddings, but this feedback can either correct prompt deviations or reinforce them. The study shows that suppressing image‑to‑text signals improves prompt fidelity without losing visual detail.",
+    "significance": "The work clarifies how internal text–image interactions affect generation quality, guiding future design of multimodal diffusion models.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d5faa264984c2dbbb184a28221158745",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13940v1",
+    "arxiv_id": "2610.13940v1",
+    "title": "Sandpile avalanches in two dimensions are finite",
+    "authors": [
+      "Ahmed Bou-Rabee"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "Finite Avalanches in Two-Dimensional Abelian Sandpile Model: A Markov Chain Stationary State",
+    "tldr": "The study proves that avalanches in the two-dimensional abelian sandpile model are almost surely finite. This is achieved by analyzing the Markov chain on finite boxes and taking limits to construct the stationary distribution on the infinite lattice.",
+    "significance": "This result confirms the long-standing conjecture that avalanches in the 2D sandpile model are bounded, providing a rigorous foundation for self-organized criticality in lattice systems.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "889ec41acfcfcad425372e3e9a74b16e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13935v1",
+    "arxiv_id": "2610.13935v1",
+    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "authors": [
+      "Bhanu Tokas",
+      "Rahul Nair",
+      "Rockwell Jackson"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-12",
+    "headline": "Hide and Seek: Concept-Based Explanations for Black-Box Vision Models in Deep Learning",
+    "tldr": "This paper introduces HIDE and SEEK, a framework that extends concept-based attribution to black-box vision models without requiring model weights or large concept-annotated datasets. It demonstrates how to generate interpretable explanations for image predictions using minimal supervision.",
+    "significance": "By enabling concept-level explanations for complex vision models, the work advances transparency and trust in AI systems.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "6d3b0e931ff707e3ab0a1fe0c0cb25f5",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.12460v1",
@@ -1182,247 +1419,6 @@
       "foundation-models",
       "real-time",
       "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0d18ba0bb4cf1fffeaa335ad2111176a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08787v1",
-    "arxiv_id": "2610.08787v1",
-    "title": "Algebraic Tensor Network Renormalization and Holographic duality",
-    "authors": [
-      "Chenqi Meng",
-      "Tian Lan",
-      "Zhengcheng Gu"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "Tensor Network Renormalization Unveils Holographic Duality in Quantum Phase Transitions",
-    "tldr": "Tensor network renormalization with generalized symmetries offers a discrete spacetime framework to reformulate conformal field theory. This approach provides a promising route toward a complete holographic formulation of quantum phase transitions.",
-    "significance": "It bridges tensor network methods with holographic duality, potentially enabling new computational tools for strongly correlated quantum systems.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "392d6752372728f61a96589c5bc50ab6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08785v1",
-    "arxiv_id": "2610.08785v1",
-    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
-    "authors": [
-      "Kevin Zhang",
-      "Stephen Bates"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
-    "tldr": "This paper establishes an information-theoretic foundation for conformal prediction, linking prediction set size to decision-theoretic entropy. It shows how uncertainty quantification can be rigorously interpreted as information gain.",
-    "significance": "It bridges a gap between practical uncertainty measures and formal information theory, enhancing the interpretability of conformal prediction.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "adbd5ac2e30f917243a5a2876d99df23",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08782v1",
-    "arxiv_id": "2610.08782v1",
-    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-    "authors": [
-      "Shiqi Li",
-      "Sean Cho",
-      "Yijie Li"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "Fast 4D Hand-Object Interaction Reconstruction with Vision Foundation Models",
-    "tldr": "4D-HOF delivers real‑time 4‑dimensional hand‑object reconstructions by feeding coarse estimates from vision foundation models into a feed‑forward pipeline. This eliminates costly per‑sequence optimization and stabilizes interaction prediction compared to generative approaches.",
-    "significance": "It enables efficient, stable 4D hand‑object interaction modeling for applications like AR/VR and robotics.",
-    "tags": [
-      "foundation-models",
-      "object-detection",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1cd1ada230a5575a6217e92bfc394f7b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08781v1",
-    "arxiv_id": "2610.08781v1",
-    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-    "authors": [
-      "Ziyu Chen",
-      "Yilun Zhao",
-      "Jiashuo Sun"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "IdeaAnchor: Guiding LLMs to Generate Research Ideas from Literature for Future Studies",
-    "tldr": "IdeaAnchor introduces a structured supervision framework that teaches large language models to synthesize related papers and identify research gaps. This approach enables automated literature-grounded ideation, accelerating the generation of novel research directions.",
-    "significance": "By providing a systematic way for LLMs to understand and combine scholarly works, IdeaAnchor could dramatically speed up hypothesis generation across scientific fields.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "24d97dc34586e0200f5d8f03bdb84727",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08780v1",
-    "arxiv_id": "2610.08780v1",
-    "title": "DepthWorld: 3D World Model for Robot Manipulation",
-    "authors": [
-      "Jai Bardhan",
-      "Josef Sivic",
-      "Vladimir Petrik"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "DepthWorld: Real-Time 3D World Models for Precise Robot Manipulation and Planning",
-    "tldr": "DepthWorld introduces a data-driven 3D world model that overcomes the limitations of RGB-only video models, enabling consistent spatial reasoning for robot manipulation tasks. By integrating depth cues and point-cloud consistency, it supports policy evaluation, improvement, and real-time planning.",
-    "significance": "This work bridges the gap between visual perception and 3D geometry, providing a reliable foundation for advanced robotic decision-making.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "object-detection",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6fedeae182d14c4238bda7a704d4f2b0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08779v1",
-    "arxiv_id": "2610.08779v1",
-    "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
-    "authors": [
-      "Zhenghong Zhou",
-      "Zhe Lin",
-      "Jiebo Luo"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "ALIVE: Making Inserted Objects Interact in Video Editing for Realistic First-Frame Guided Editing",
-    "tldr": "ALIVE lets users insert objects that naturally interact with the scene, using a single edited first frame and an object name instruction. The system aligns motion, lighting, and physics to make the added object appear alive.",
-    "significance": "It bridges a long-standing gap in video editing by enabling realistic, interaction-aware object insertion.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "93a62453132419d86840fc4fa1f4676a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08778v1",
-    "arxiv_id": "2610.08778v1",
-    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
-    "authors": [
-      "Weixian Xu",
-      "Yanzhe Zhang",
-      "Zora Zhiruo Wang"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "Sherpa: Adaptive Teaching for LLMs Tailored to Individual Learners in Real-Time",
-    "tldr": "Sherpa equips large language models with adaptive teaching strategies that respond to each student's learning progress, moving beyond static demonstrations and preference data. By grounding instruction in real-time feedback, it promises more effective, personalized education.",
-    "significance": "This work bridges the gap between problem-solving LLMs and personalized teaching, enabling more effective human-AI collaboration in education.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "87e56942fff324432cbba1ace66f8da3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08777v1",
-    "arxiv_id": "2610.08777v1",
-    "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
-    "authors": [
-      "Shangye Song",
-      "Dong Gong",
-      "Hong Jia"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "CtrlCache: Speeding Interactive Video Generation with Control-Aware Caching",
-    "tldr": "CtrlCache introduces a training-free caching strategy that reuses denoising states in interactive video world models, reducing the number of costly denoising iterations per chunk. By conditioning cache decisions on user controls, it achieves real‑time performance while preserving fidelity across video generations.",
-    "significance": "This work enables near real‑time interactive video synthesis, a key step toward responsive AI-driven virtual environments.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40e55e8b98ef558ed98441026c261bea",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08775v1",
-    "arxiv_id": "2610.08775v1",
-    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
-    "authors": [
-      "Ankit Sonthalia",
-      "Haritz Puerto",
-      "Alexander Rubinstein"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "LLM Agents Bottling Their Skills: Cheap, Scalable Solutions for Large-Scale Tasks",
-    "tldr": "Large language models excel at diverse tasks, but querying them millions of times is costly. This paper proposes BOTTLED, an approach where LLM agents generate task-specific, low-cost artifacts that balance quality and amortized cost.",
-    "significance": "BOTTLED demonstrates how autonomous LLM agents can transform general-purpose models into efficient, reusable tools, reducing operational expenses for large-scale workloads.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6a68fcb9760bae384b7291920892cfc4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.06852v1",
-    "arxiv_id": "2610.06852v1",
-    "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
-    "authors": [
-      "Shih-Chen Tseng",
-      "Chih-Hsuan Chen",
-      "Ryan Yang"
-    ],
-    "published": "2026-10-05",
-    "curated_at": "2026-10-06",
-    "headline": "One Figure, Every Canvas: Agentic Pipeline for Aspect‑Ratio‑Adaptive Flowchart Relayout",
-    "tldr": "We introduce an agentic pipeline that automatically relayouts computational graph figures to fit any aspect ratio, preserving connectivity and visual clarity. The system leverages a foundation model to parse raster diagrams, generate vector representations, and apply layout heuristics, enabling seamless reuse across papers, slides, and social media.",
-    "significance": "This work eliminates manual diagram adaptation, ensuring accurate representation of methods across diverse publication formats.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "foundation-models"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
