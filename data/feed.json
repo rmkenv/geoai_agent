@@ -1,5 +1,323 @@
 [
   {
+    "uid": "0ae04782ea592f2255969818cd1933f9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13936v1",
+    "arxiv_id": "2610.13936v1",
+    "title": "A Warped Born Rule Turns an Observer into a Maxwell's Demon",
+    "authors": [
+      "Olumakinde Ogunnaike"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Warping the Born Rule: Turning Quantum Observers into Maxwell’s Demons",
+    "tldr": "By raising the Born rule exponent to 2b, the authors uncover dramatic many‑body effects that mimic Maxwell’s demon behavior. The study shows how even small deviations from standard quantum probabilities can produce unphysical, demon‑like information extraction.",
+    "significance": "The work highlights the extreme sensitivity of quantum theory to its foundational postulates, with implications for both theoretical consistency and potential quantum thermodynamic applications.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "71ca38229c0b895e1462157325de7ae2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13934v1",
+    "arxiv_id": "2610.13934v1",
+    "title": "A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games",
+    "authors": [
+      "Yeva Gevorgyan",
+      "Diogo Gomes"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Extragradient Preconditioner Accelerates Mean Field Game Price Formation",
+    "tldr": "We propose a Riesz-map preconditioned extragradient algorithm for a first-order price-formation mean field game, coupling HJB and transport equations under a market-clearing constraint. The method converges efficiently on a truncated domain thanks to finite propagation, offering a robust monotone weak formulation.",
+    "significance": "This advances computational efficiency in mean field game models for economic price dynamics.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "75bc326c32c4c621c8e61691523d39da",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13933v1",
+    "arxiv_id": "2610.13933v1",
+    "title": "The Haagerup VOA at $c=8$",
+    "authors": [
+      "Andrew Riesen"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Constructing the Haagerup Vertex Operator Algebra at Central Charge Eight",
+    "tldr": "We present an explicit construction of a unitary, strongly rational VOA of central charge 8 inside the lattice VOA V_{E6⊕A2}. Its representation category is ribbon equivalent to the Drinfeld center of the Haagerup fusion category, realizing the Haagerup double.",
+    "significance": "This construction provides the first concrete realization of the Haagerup double in a unitary VOA, bridging subfactor theory and conformal field theory.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "449efb674d43ea0359695e6d27b92a08",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13931v1",
+    "arxiv_id": "2610.13931v1",
+    "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+    "authors": [
+      "Kosio Beshkov"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Bounding Topological Expressivity of Neural Networks: Constructive Betti Number Limits",
+    "tldr": "This paper establishes constructive bounds on the Betti numbers of decision boundaries in neural networks, linking topological complexity to network architecture. It provides theoretical limits that help gauge expressivity for classification tasks.",
+    "significance": "It offers a rigorous framework to quantify how network depth and width constrain the topological complexity of decision surfaces.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6e6a1fc7ca2cf308ff3dceb630954dcb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13930v1",
+    "arxiv_id": "2610.13930v1",
+    "title": "The LZ inelastic splitting as a probe of anomaly mediation",
+    "authors": [
+      "Seung J. Lee",
+      "Taewook Youn"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "LZ Inelastic Splitting Probes Anomaly Mediation in Dark Matter Models",
+    "tldr": "The LZ 248 keV recoil candidate can be interpreted as pseudo‑Dirac dark matter with a suppressed inelastic Z interaction. By building an R‑symmetric MRSSM spectrum, the authors reconcile the necessary mass degeneracy and solar‑neutrino limits, providing a concrete test of anomaly‑mediated supersymmetry.",
+    "significance": "It shows how direct‑detection data can probe high‑scale supersymmetry breaking mechanisms.",
+    "tags": [
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "84bbd025f7868c26ffd8f86f84a7e16f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13929v1",
+    "arxiv_id": "2610.13929v1",
+    "title": "Chronos Policy: Learning Robot Policies on Physical Time",
+    "authors": [
+      "Changhao Wang",
+      "Jaden Clark",
+      "Shuran Song"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Chronos Policy: Explicit Physical Time Modeling for Robust Robot Control Under Variable Observation Rates",
+    "tldr": "We propose Chronos Policy, a framework that conditions robot control on actual capture and execution times, addressing issues caused by variable observation rates and inference latency. Experiments show improved performance and robustness compared to fixed-rate policies.",
+    "significance": "By making physical time explicit, Chronos Policy enables robots to operate reliably in real-world settings with irregular sensing and processing delays.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0b2599b4d0fa0bfc60a6e0baa20bbdb8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13928v1",
+    "arxiv_id": "2610.13928v1",
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "authors": [
+      "Andis Draguns",
+      "Sumeet Ramesh Motwani",
+      "Raymond Douglas"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Hidden Neural Networks: Backdoor Attacks Reveal Concealed Model Capabilities in Deep Learning",
+    "tldr": "Researchers demonstrate that backdoor attacks can embed encrypted neural networks into host models, enabling hidden capabilities that activate only with a secret trigger. This challenges the assumption that capability evaluations can always uncover dangerous behaviors, raising concerns for AI safety and deployment.",
+    "significance": "The study reveals that current safety testing may miss malicious hidden functions, undermining trust in AI deployment.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2a93fc958e3c85784abbe26c0bb2fba3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13926v1",
+    "arxiv_id": "2610.13926v1",
+    "title": "Adiabatic evolution of hadronic neutron stars",
+    "authors": [
+      "Domenico Logoteta",
+      "Francesco Zeno Constanzo",
+      "Ignazio Bombaci"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Adiabatic Evolution of Hadronic Neutron Stars: Structural Insights under Finite-Temperature Conditions",
+    "tldr": "We compute static and rotating neutron star properties using a finite-temperature, beta-stable EOS that includes hyperons and trapped neutrinos. The study shows how adiabatic evolution influences mass, radius, and spin dynamics.",
+    "significance": "This work provides a comprehensive framework linking microphysical EOS details to observable neutron star characteristics, aiding in interpreting future gravitational-wave and pulsar timing data.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e12a6ecff136c8a4e7ff4a7fd7998347",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13925v1",
+    "arxiv_id": "2610.13925v1",
+    "title": "Can machines reason non-verbally?",
+    "authors": [
+      "Shaheer U. Saeed",
+      "Zion Tse",
+      "Gregory Slabaugh"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Can AI Truly Reason Without Words? The Limits of Visual Non-Verbal Understanding",
+    "tldr": "Large language models excel at language and logic but falter on visual non-verbal tasks like pattern completion and ambiguous region delineation. Even state‑of‑the‑art systems such as DeepSeek, ChatGPT, and Gemini struggle to bridge the gap between textual reasoning and visual inference.",
+    "significance": "Understanding these limitations is crucial for developing AI that can seamlessly integrate language and visual cognition.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "000248cb556cbf5919fc209109a1bc8f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13924v1",
+    "arxiv_id": "2610.13924v1",
+    "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+    "authors": [
+      "Tianyi Wu"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Parallel Sampling Complexity: A KL Divergence Separation in Round-Complexity Proof",
+    "tldr": "We show that averaging KL divergence over random schedules yields a strictly larger value than the KL divergence to the averaged output distribution, establishing a round-complexity separation for parallel samplers. This result highlights the power of randomizing coordinate generation schedules in reducing sample complexity.",
+    "significance": "The result demonstrates that random schedule selection can fundamentally improve parallel sampling efficiency, providing a theoretical foundation for designing faster samplers.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "34f9cdd871c9bd8e780b5d7183545816",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13923v1",
+    "arxiv_id": "2610.13923v1",
+    "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+    "authors": [
+      "Sajjad Baghaeea",
+      "Aimin Lib",
+      "Shanmugarajan Balasubramanian"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Reinforcement Learning Optimizes Bundle Protocol Scheduling for Intermittent Deep-Space Links",
+    "tldr": "This study applies reinforcement learning to manage bundle storage and transmission in deep-space networks, reducing data loss during sparse contacts. The proposed policy learns to prioritize high-value bundles, improving overall mission throughput.",
+    "significance": "By enabling smarter, goal-driven scheduling, the approach enhances reliability and efficiency of deep-space missions where bandwidth and storage are scarce.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0976eaeb6d4df6db2f9a6c93a02e8681",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13920v1",
+    "arxiv_id": "2610.13920v1",
+    "title": "A Comprehensive JWST Slitless Spectroscopic Census of $\\sim$12,000 Emission-Line Galaxies at Redshift $0\\sim9$ in COSMOS",
+    "authors": [
+      "Shuqi Fu",
+      "Zijian Zhang",
+      "Danyang Jiang"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "JWST Unveils 12,000 Emission-Line Galaxies Across 0<z<9 in COSMOS Field",
+    "tldr": "Using JWST/NIRCam slitless spectroscopy, the COSMOS-3D program identified ~12,000 emission-line galaxies spanning redshifts 0–9 over 0.33 deg². This comprehensive census provides unprecedented insights into star formation, chemical enrichment, and AGN activity across cosmic time.",
+    "significance": "The dataset establishes a benchmark for galaxy evolution studies, enabling precise measurements of star‑formation rates and metallicities across the full history of the Universe.",
+    "tags": [
+      "satellite-imagery",
+      "spatial-reasoning",
+      "remote-sensing",
+      "object-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4a67ba72b1f75ee972c5e32a12b44294",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13918v1",
+    "arxiv_id": "2610.13918v1",
+    "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+    "authors": [
+      "Daniel Szelogowski"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "DyssomniaNN: A Multi-Scale Spiking Neural Model for Sleep Disorders and Restedness",
+    "tldr": "DyssomniaNN integrates Borbély's two-process sleep regulation with spiking neural networks to simulate paradoxical insomnia and narcolepsy type 1. The framework predicts subjective daytime impairment from objective sleep metrics, offering a tool for personalized sleep disorder diagnosis.",
+    "significance": "By bridging biophysical sleep homeostasis with neural dynamics, DyssomniaNN provides a mechanistic basis for understanding sleep state misperception and could guide targeted interventions.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bd33ec4d678e6d364214009fb183bf2a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.13917v1",
+    "arxiv_id": "2610.13917v1",
+    "title": "Designing Protein Structures from Natural Language",
+    "authors": [
+      "Joseph Lee",
+      "Yanjing Li",
+      "Bo Qiang"
+    ],
+    "published": "2026-10-09",
+    "curated_at": "2026-10-13",
+    "headline": "Prompteina: Natural Language-Driven All-Atom Protein Design for Targeted Functional Properties Using Diffusion Models",
+    "tldr": "We introduce Prompteina, an all-atom diffusion model that accepts natural language prompts to generate proteins with specified structural and functional attributes. This approach unifies multiple design objectives and expands the scope of de novo protein engineering.",
+    "significance": "Prompteina democratizes protein design by enabling researchers to specify complex objectives in plain language, accelerating discovery of novel therapeutics and materials.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "7bac5b4b5320c91a20ff356dc7773b29",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.13948v1",
@@ -1090,337 +1408,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "52a8c3d1e863d7610b3e3c56b3960691",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10536v1",
-    "arxiv_id": "2610.10536v1",
-    "title": "Decoupling Exploration from Optimization in RLVR",
-    "authors": [
-      "Saif Punjwani",
-      "Micah Goldblum"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Separating Exploration and Optimization Boosts RLVR for Language Models Without Compromise",
-    "tldr": "RLVR aims to discover new reasoning strategies by exploring beyond prior training data. Yet, strong novelty incentives often fail and can hurt model quality, indicating a need to decouple exploration from optimization.",
-    "significance": "Decoupling exploration from optimization could enable RLVR to generate innovative strategies while preserving baseline performance.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "15176d73ab51a179b1342732bc354927",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10535v1",
-    "arxiv_id": "2610.10535v1",
-    "title": "A weakly modelled view of the joint compact-binary mass plane: population structure and spectral-siren cosmology",
-    "authors": [
-      "Viola De Renzis",
-      "Alessandro Agapito",
-      "Michele Mancarella"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Mixture Model Reveals Structure in Compact Binary Mass Distribution and Cosmology",
-    "tldr": "We present a flexible mixture model that jointly infers the component-mass distribution of compact binaries and cosmological parameters from GWTC‑5 data. The method uncovers distinct structures in the mass plane, quantifies their stability, and assesses their impact on cosmological measurements.",
-    "significance": "This framework advances gravitational-wave cosmology by providing a data-driven, interpretable mass model that improves parameter estimation and reveals new population substructures.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "c02b8ca3238d4e3b7d3d953dba5f147d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10534v1",
-    "arxiv_id": "2610.10534v1",
-    "title": "RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
-    "authors": [
-      "Yanwen Zou",
-      "Chenyang Shi",
-      "Guoxuan Xu"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Sparse Human Input Enables Intuitive Robot Policy Steering for Real-World Deployment",
-    "tldr": "RoboPrompt introduces a lightweight framework that lets users steer end-to-end robot policies with minimal teleoperation, overcoming data diversity limits. The approach demonstrates reliable zero-shot performance in varied real-world scenarios while reducing hardware and training overhead.",
-    "significance": "By integrating sparse human corrections, RoboPrompt bridges the gap between imitation learning and scalable shared autonomy, enabling safer and more adaptable robotic systems.",
-    "tags": [
-      "real-time",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f1b648878f12d5681f5d2915d7930849",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10533v1",
-    "arxiv_id": "2610.10533v1",
-    "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-    "authors": [
-      "Hongru Cai",
-      "Ran Wei",
-      "Wenjie Wang"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "EngramEdit Enables Decoupled Knowledge Updates in LLMs via Conditional Memory",
-    "tldr": "EngramEdit introduces a conditional memory architecture that allows large language models to store factual knowledge separately from general computation. This decoupling enables efficient updates to factual knowledge without retraining the entire model.",
-    "significance": "It offers a scalable, low‑cost method for keeping LLMs up‑to‑date with new facts, potentially transforming how we maintain AI knowledge bases.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d4a19287cce9698b2d000f07a5abcc6e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10531v1",
-    "arxiv_id": "2610.10531v1",
-    "title": "Efficient Estimation of Logical Sensitivities Through Fault-Counting",
-    "authors": [
-      "Winston Fu",
-      "J. Wilson Staples",
-      "Jeff D. Thompson"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Fast Fault-Counting for Quantum Error Correction: Rapidly Estimating Logical Sensitivities",
-    "tldr": "This study introduces a fault-counting approach to efficiently compute logical sensitivities in quantum error-correcting codes. By quantifying how each physical error type contributes to logical failure, the method guides hardware improvements and code optimization.",
-    "significance": "Accurate logical sensitivity estimates enable targeted error mitigation, accelerating the deployment of fault-tolerant quantum processors.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "967e6923cd26994b7a92715f56efa79e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10530v1",
-    "arxiv_id": "2610.10530v1",
-    "title": "Constraints on Primordial Oscillatory Features from the Power Spectrum and Bispectrum of Redshift-Space Galaxy Clustering in DESI DR1",
-    "authors": [
-      "Shi-Fan Chen",
-      "Anton Chudaykin",
-      "Mikhail M. Ivanov"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "DESI DR1 Data Tighten Constraints on Primordial Oscillatory Features in the Universe",
-    "tldr": "Using DESI DR1 galaxy and quasar clustering data, the authors constrain oscillatory signatures in the primordial power spectrum with a custom pipeline that models the redshift‑space power spectrum and bispectrum via Lagrangian effective field theory. The analysis yields the tightest bounds to date on such features, refining our understanding of early‑universe physics.",
-    "significance": "This study sets the most stringent limits to date on primordial oscillatory signatures, sharpening constraints on inflationary models.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5810b045d1ad77a0a3fba6f41811ecf6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10528v1",
-    "arxiv_id": "2610.10528v1",
-    "title": "Long-WAM: Scaling the Context of World-Action Models",
-    "authors": [
-      "Wei Huang",
-      "Bohan Zhang",
-      "Chenzhi Liu"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Long-WAM: Scaling Context for Real-Time Robot Control with Extended Visual Histories",
-    "tldr": "Long-WAM extends causal world-action models by incorporating longer visual histories without compromising real-time performance. The framework demonstrates that deeper context significantly improves motion inference and task progress estimation in robotic control.",
-    "significance": "By enabling efficient use of extended visual histories, Long-WAM advances real-time robotic perception and action planning.",
-    "tags": [
-      "real-time",
-      "time-series",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40a0905d7b8c1fba0ce3fa0ed73aaa6a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10527v1",
-    "arxiv_id": "2610.10527v1",
-    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
-    "authors": [
-      "Aleksandar Armacki",
-      "Haoyuan Cai",
-      "Ali H. Sayed"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Decentralized SGD with Heavy-Tailed Noise: Optimal Rates via Gradient Clipping",
-    "tldr": "This study establishes optimal convergence rates for decentralized stochastic gradient descent under heavy-tailed noise, showing that gradient clipping not only stabilizes local updates but also preserves consensus. Theoretical bounds match empirical performance across various network topologies.",
-    "significance": "It bridges a critical gap between robust optimization techniques and decentralized learning, enabling reliable training in distributed systems with non-Gaussian noise.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a7073df44f6b2544f42122d91bba86c3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10526v1",
-    "arxiv_id": "2610.10526v1",
-    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-    "authors": [
-      "Mikey Watts",
-      "Yuchen Cui"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Rephrase Before You Act: Tackling Language Sensitivity in Vision‑Language‑Action Models",
-    "tldr": "Vision‑language‑action models are highly sensitive to phrasing, with single-word changes dramatically altering performance. The study introduces rephrase augmentation and checkpoint fine‑tuning to improve robustness.",
-    "significance": "Understanding and mitigating language sensitivity is critical for reliable deployment of vision‑language‑action systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a48eb58071e503009221ca00ac9e660b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10525v1",
-    "arxiv_id": "2610.10525v1",
-    "title": "A Hawkes Microfoundation for Multitype Inverse Gaussian Subordinators",
-    "authors": [
-      "Yingli Wang",
-      "Wei Xu",
-      "Lingjiong Zhu"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Hawkes Microfoundation for Multitype Inverse Gaussian Subordinators: Joint Convergence of Counts and Intensities",
-    "tldr": "We show that nearly critical multivariate Hawkes processes with finite-mean delays and balanced immigration converge jointly to a multivariate pure-jump subordinator, providing a microfoundation for multitype inverse-Gaussian clocks. This result links event-level dynamics to integrated intensity limits, revealing how rare large families persist in the limit.",
-    "significance": "This bridges point-process microdynamics with continuous-time stochastic clocks, enabling new modeling of heavy-tailed event streams.",
-    "tags": [
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "43a231037b06cad49b72936ee868ff47",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10524v1",
-    "arxiv_id": "2610.10524v1",
-    "title": "GRACE: Generation-aware latent compression for efficient video generation",
-    "authors": [
-      "Jiyoung Kim",
-      "Paul Hyunbin Cho",
-      "Jisu Nam"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "GRACE: Generation-Aware Latent Compression Boosts Video Diffusion Efficiency for High-Resolution Content",
-    "tldr": "GRACE introduces a generation-aware autoencoder that compresses video frames into a compact latent representation, allowing Diffusion Transformers to process far fewer tokens while maintaining reconstruction fidelity. By jointly optimizing compression and diffusion training, the method achieves faster convergence and higher quality generation compared to traditional high-ratio autoencoders.",
-    "significance": "This approach enables real-time, high-resolution video generation with reduced computational cost, opening doors for scalable media applications.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9d47d373e92f9fae261a1e8654e82af8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08791v1",
-    "arxiv_id": "2610.08791v1",
-    "title": "World Models' Last Exam in Physics",
-    "authors": [
-      "Mingju Gao",
-      "Qingle Liu",
-      "Yuzhao Peng"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "Testing Video World Models: A Physics-Based Benchmark for Reliable Prediction",
-    "tldr": "Video world models can generate realistic-looking sequences that violate physical laws, raising doubts about their use in embodied AI. We propose a measurement-based benchmark, World Models' Last Exam in Physics, to directly assess physical consistency.",
-    "significance": "This benchmark provides a rigorous, physics-grounded evaluation that could improve the safety and reliability of AI systems relying on video world models.",
-    "tags": [
-      "benchmark",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "982aaa086ba67e34b295f3559cdb544f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08790v1",
-    "arxiv_id": "2610.08790v1",
-    "title": "Building Rome from a Single Image",
-    "authors": [
-      "Jiraphon Yenphraphai",
-      "Fang Li",
-      "Tianshuo Xu"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "Reconstructing Rome: 3D Scene Generation from a Single Image for Urban Modeling",
-    "tldr": "This work introduces a method to generate complete 3D scene meshes from a single image, extending beyond indoor scenes to complex outdoor environments like Rome. By leveraging pretrained 3D generators and a novel shape prior, the approach reconstructs unseen surfaces and produces accurate point‑cloud representations.",
-    "significance": "It enables realistic 3D reconstruction of diverse urban landscapes from minimal data, advancing applications in virtual tourism and urban planning.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "point-cloud",
-      "urban-AI"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d3078f3bc13bfa23b74477e5bdad7b3d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.08789v1",
-    "arxiv_id": "2610.08789v1",
-    "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
-    "authors": [
-      "Chung Min Kim",
-      "Brent Yi",
-      "David McAllister"
-    ],
-    "published": "2026-10-06",
-    "curated_at": "2026-10-07",
-    "headline": "Fast Flow RL: QF3 Accelerates Flow Policy Learning for Robots",
-    "tldr": "We present QF3, an online off‑policy RL algorithm that trains flow policies using filtered Q‑gradients and flow matching. The method speeds up learning and improves performance over existing flow‑policy baselines.",
-    "significance": "QF3 bridges the gap between demonstration‑based flow policies and reinforcement learning, enabling faster, more efficient robot control.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
