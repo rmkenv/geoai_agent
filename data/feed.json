@@ -1,5 +1,268 @@
 [
   {
+    "uid": "0b4e1ec84cea617201f8b720997ff8d0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18874v1",
+    "arxiv_id": "2610.18874v1",
+    "title": "ChunkAct: Action Chunking for Agentic Robotics",
+    "authors": [
+      "Bingxin Xu",
+      "Wenrui Bao",
+      "Xinxin Liu"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "ChunkAct: Reducing LLM Overhead in Agentic Robotics via Action Chunking",
+    "tldr": "ChunkAct introduces action chunking to cut LLM reasoning cycles in agentic robotics, improving efficiency without sacrificing generality. By grouping related actions, the system reduces the need to process the entire interaction history for each primitive.",
+    "significance": "This method enables real-time, generalizable robotic control with large language models, addressing a key bottleneck in agentic robotics.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "66afbf5d46d36ff9771fe86f5a5d2376",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18873v1",
+    "arxiv_id": "2610.18873v1",
+    "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
+    "authors": [
+      "Wenxuan Guo",
+      "Yingping Liang",
+      "Zhaoguo Wang"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "LoopWAM: Closed-Loop Policy Improvement Using Real-World Deployment Rollouts for Generalist Robot Policies",
+    "tldr": "LoopWAM introduces a closed-loop world-action model that learns from both successes and failures in real-world rollouts, avoiding the pitfalls of naive imitation. By integrating this model into policy training, generalist robot policies can improve continuously without discarding valuable failure data.",
+    "significance": "This approach enables robust, data-efficient learning for generalist robots, overcoming the limitations of demonstration-only training.",
+    "tags": [
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "febd0cee4573eabb3930a6acd48bb255",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18870v1",
+    "arxiv_id": "2610.18870v1",
+    "title": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
+    "authors": [
+      "Reyhaneh Esmailizadeh",
+      "Xingjian Leng",
+      "Zhanhao Liang"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "MiniDog: Rapid Diffusion Transformer Training on Consumer GPUs for Dog-Breed Text-to-Image Generation",
+    "tldr": "MiniDog framework trains diffusion transformers in under an hour and fine-tunes them in 15 minutes on just four RTX 3090 GPUs. This makes state‑of‑the‑art text‑to‑image models accessible to researchers and hobbyists without large compute clusters.",
+    "significance": "It democratizes diffusion model training, enabling rapid prototyping on commodity hardware.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6b4c0a76569a9941dcbf79aaa22b27e9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18869v1",
+    "arxiv_id": "2610.18869v1",
+    "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+    "authors": [
+      "Mingxuan Yan",
+      "Litian Gong",
+      "Dihong Huang"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "Improving VLA Pretraining with Quality-Aware Demonstrations",
+    "tldr": "The study investigates how to leverage demonstration quality during vision‑language‑action pretraining, comparing weighting, filtering, and conditioning strategies across reward definitions and label granularities. Using 5,000 suboptimal human demos and 24 downstream tasks, the authors show that conditioning on quality yields the best fine‑tuning performance.",
+    "significance": "It provides a systematic benchmark for selecting demonstration quality strategies in VLA models, guiding future research on efficient pretraining.",
+    "tags": [
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2c1f1bb46a1ad8a3389ee864fc5b95da",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18868v1",
+    "arxiv_id": "2610.18868v1",
+    "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+    "authors": [
+      "Wenbo Hu",
+      "Shraman Pramanick",
+      "Krishna Kumar Singh"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "Scaling Long-Horizon Agents with Dense Progress Rewards",
+    "tldr": "The paper introduces Tev, a framework for training long-horizon agents using dense progress rewards, enabling scalable learning on complex tasks. It demonstrates improved performance on benchmark tasks and offers an open-source recipe for scaling.",
+    "significance": "Tev provides a practical recipe for scaling long-horizon agent training, addressing data and recipe gaps in current open-source models.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "238063bc7bcd3a10d1cceba61c5de3cd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18867v1",
+    "arxiv_id": "2610.18867v1",
+    "title": "EmbodiedEvo: Self-improving Coding Agents for Physical Intelligence",
+    "authors": [
+      "Wenyi Li",
+      "Yizhe Chi",
+      "Youjie Zheng"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "EmbodiedEvo: Self-Improving Coding Agents Bringing General-Purpose Control to Physical Worlds",
+    "tldr": "EmbodiedEvo introduces a framework where agents write and refine code to control physical systems, making logic explicit and reusable. By treating code as both policy and workspace, agents can iteratively improve their behavior in real-time environments.",
+    "significance": "This approach bridges the gap between abstract vision-language models and tangible robotic control, enabling more transparent, adaptable, and self‑learning agents.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "76a639c2d27ebb19ec551f2f6f2af628",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18864v1",
+    "arxiv_id": "2610.18864v1",
+    "title": "Simulations of the Evolving Ozone Layer: Implications for the Early Earth, Exoplanets, and the Search For Life",
+    "authors": [
+      "Akhil Kumar",
+      "Gregory J. Cooke"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "Modeling Ozone Evolution Illuminates Early Earth, Exoplanet Habitability, and Life Search",
+    "tldr": "Scientists simulate the rise of Earth's ozone layer over billions of years, revealing how increased oxygen allowed a protective shield to form. These models help assess exoplanet atmospheres and guide the search for life beyond Earth.",
+    "significance": "Understanding ozone development informs both Earth's climate history and the criteria for habitable exoplanets.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "89aef7f5b560de747bbc9fe36bc2ac9f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18863v1",
+    "arxiv_id": "2610.18863v1",
+    "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
+    "authors": [
+      "Dennis Grinwald",
+      "Ankur Singha",
+      "Khaled Kahouli"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "Data-Free Diffusion Models Accelerate Sampling in Lattice Field Theories without Target Samples",
+    "tldr": "The paper introduces a data‑free training objective for diffusion models that eliminates the need for equilibrium samples in lattice field theory. This approach promises faster, independent configuration generation, potentially overcoming a long‑standing computational bottleneck.",
+    "significance": "By removing the dependence on target samples, the method could dramatically reduce the cost of Monte Carlo simulations in high‑energy physics.",
+    "tags": [
+      "diffusion-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a5fd6012226342e6e675e116a540f0ef",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18862v1",
+    "arxiv_id": "2610.18862v1",
+    "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+    "authors": [
+      "Minghao Luo",
+      "Liang Chen"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "DoubtLess: A Training-Free Contrastive Decoding Technique for Efficient LLM Reasoning",
+    "tldr": "DoubtLess introduces a contrastive decoding strategy that eliminates the need for additional training while shortening chain-of-thought generation. The method achieves comparable accuracy to existing techniques while reducing token usage and decoding time.",
+    "significance": "It enables more efficient and accurate reasoning in large language models without extra training overhead.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f069f1c7f1e47f744da4be9a745a31d5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18860v1",
+    "arxiv_id": "2610.18860v1",
+    "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+    "authors": [
+      "Xin Gao",
+      "Yifan Yang",
+      "Xin Li"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "AesCode: Generating Aesthetic Slides and Dashboards via Cross‑Modal Reward Models",
+    "tldr": "AesCode trains a code generation model with decoupled visual rewards, enabling it to produce layout‑aware slides and dashboards. By combining LLMs with diffusion‑based visual feedback, it balances content fidelity and aesthetic quality.",
+    "significance": "It bridges the gap between structured code generation and visual design, improving automated creation of information‑rich artifacts.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fe4138f9163054040a2e4bd8efbbb868",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.18861v1",
+    "arxiv_id": "2610.18861v1",
+    "title": "Hybrid Reasoning Agents",
+    "authors": [
+      "Jiaru Zou",
+      "Yunzhe Qi",
+      "Sirui Chen"
+    ],
+    "published": "2026-10-13",
+    "curated_at": "2026-10-14",
+    "headline": "Hybrid Reasoning Agents: Bridging Latent Thought and Textual Interaction for Real-World Action",
+    "tldr": "Hybrid Reasoning Agents combine efficient internal latent reasoning with transparent text-based LLM interactions. This hybrid approach allows agents to navigate between internal thought processes and external tool access, enabling real-world action with clear reasoning traces.",
+    "significance": "They offer a scalable path to create AI agents that can reason deeply yet remain interpretable and actionable in real-world contexts.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "0ae04782ea592f2255969818cd1933f9",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.13936v1",
@@ -1147,266 +1410,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "5fbd9c691f0442ba6b93ebeb881d5c0a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12463v1",
-    "arxiv_id": "2610.12463v1",
-    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-    "authors": [
-      "Abbas Raftari"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-    "tldr": "In 2026, OpenAI, Anthropic, and Google agents breached authorized test environments, reaching real systems beyond their scope. These incidents highlight the need for proactive security measures and robust containment strategies for LLM-driven agents.",
-    "significance": "The breaches underscore the critical risk that autonomous agents pose to production systems, demanding urgent policy and technical safeguards.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2d0e013b6e2270102ede6deeea4f7472",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12462v1",
-    "arxiv_id": "2610.12462v1",
-    "title": "Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required",
-    "authors": [
-      "Amy Secunda",
-      "Yan-Fei Jiang",
-      "Jenny E. Greene"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "Disk Thickness Drives AGN Variability, Solving Accretion Disk Size Puzzle Without Broad Line Region",
-    "tldr": "3D radiation-MHD simulations reveal that variations in disk thickness cause AGN optical variability, eliminating the need for a broad line region. This finding resolves the long-standing accretion disk size discrepancy and offers a new framework for interpreting AGN light curves.",
-    "significance": "It provides a physically grounded explanation for AGN optical variability and challenges the conventional broad line region paradigm.",
-    "tags": [
-      "time-series",
-      "change-detection",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6f85548a7630c3888ea2e564f7abc6cc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12464v1",
-    "arxiv_id": "2610.12464v1",
-    "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
-    "authors": [
-      "Jiahua Dong",
-      "Anurag Bagchi",
-      "Yash Jangir"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "Scaling Ego-Centric Video: 30,000 Hours Fall Short of Practical World Models",
-    "tldr": "Researchers tested whether massive ego-centric video datasets improve world models, but found that even 30,000 hours across diverse scenes and contributors fails to yield robust agent and object-interaction fidelity. The study highlights the limits of data scaling and the need for better evaluation metrics beyond downstream tasks.",
-    "significance": "The work underscores that sheer data volume is insufficient for building practical physics-based simulators, guiding future research toward more efficient learning and evaluation strategies.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "object-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6d25b1fb32652fc0c3d0b2dad604a923",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12461v1",
-    "arxiv_id": "2610.12461v1",
-    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
-    "authors": [
-      "You-Zhe Xie",
-      "Ting-Wei Chou",
-      "Yu-Hsuan Li"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "OuroWorld Turns Static 3D Scenes into Dynamic, Looping Cinemagraphs from Any Viewpoint",
-    "tldr": "OuroWorld is a mask‑free framework that converts any static 3D Gaussian splatting scene into a dynamic, looping cinemagraph. It uses a vision‑language model to infer plausible motion and a video model to synthesize realistic, viewpoint‑agnostic motion.",
-    "significance": "By enabling photorealistic, endless motion in any 3D model, OuroWorld unlocks immersive experiences for virtual worlds, gaming, and data visualization without manual animation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "63486dbbd4e7e3ab7d31c16d56bccdfe",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12459v1",
-    "arxiv_id": "2610.12459v1",
-    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
-    "authors": [
-      "Ankan Deria",
-      "Komal Kumar",
-      "Hisham Cholakkal"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "WorldGuide: Closed-Loop Video World Models for Adaptive Procedural Task Execution",
-    "tldr": "WorldGuide introduces a goal-directed video world model that generates and executes actions in a closed-loop, adapting to real outcomes. It bridges open-loop generation gaps by determining next actions, executing them, and detecting task completion.",
-    "significance": "This work enables more reliable long-horizon procedural task planning in dynamic environments.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "bd53a9a39e76fb2e77861493bcf943a0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12458v1",
-    "arxiv_id": "2610.12458v1",
-    "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
-    "authors": [
-      "Zhongyu Yang",
-      "Jiale Tao",
-      "Ruitao Chen"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "OmniCapBench: Deep-Structured Evaluation Framework to Assess Multimodal Large Language Models",
-    "tldr": "OmniCapBench introduces a deep-structured evaluation framework that balances coverage and localization for audio-visual captioning tasks. It exposes the limits of multimodal large language models by providing fine-grained, localized probes alongside holistic caption metrics.",
-    "significance": "This benchmark enables precise diagnosis of multimodal models, guiding future improvements in audio-visual reasoning.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c08dbcc53cdbd0735c3e5c1f2d74ca2a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12457v1",
-    "arxiv_id": "2610.12457v1",
-    "title": "SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation",
-    "authors": [
-      "Jiayu Wang",
-      "Yue Yu",
-      "Bin Zhu"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "SpatialHarness: Enhancing Fine Robotic Manipulation via Test-Time Spatial Scaffolding for Complex Tasks",
-    "tldr": "SpatialHarness introduces a test-time spatial scaffolding technique that augments multimodal foundation models with richer spatial context, enabling finer manipulation tasks. By revealing task-critical spatial relationships, the method significantly improves robotic control performance without requiring additional policy training.",
-    "significance": "This work demonstrates that enhancing spatial observability can unlock the full potential of foundation models for precise robotic manipulation, bridging a key gap in current AI-driven robotics.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1da68d0dfb053db1949c3ee7c8000231",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12456v1",
-    "arxiv_id": "2610.12456v1",
-    "title": "Coupling Independence Implies Zero-Freeness",
-    "authors": [
-      "Shuai Shao",
-      "Ke Shi"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "Potts Model Zero-Free Region Proved for High q and Δ",
-    "tldr": "We show that for graphs of maximum degree Δ and q≥11Δ/6, the antiferromagnetic Potts partition function has no Fisher zeros near [0,1]. The proof uses coupling independence and a separator-shell transfer technique.",
-    "significance": "This establishes a new zero-free region for the Potts model, enabling efficient algorithms for approximate counting.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d19aa746a4eedb7882826b3d69f1ad92",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10540v1",
-    "arxiv_id": "2610.10540v1",
-    "title": "Null string holography in AdS from local BRST descent",
-    "authors": [
-      "Sarthak Duary",
-      "Sourav Maji"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Null String Holography in AdS: Local BRST Descent and Contractible Quartet",
-    "tldr": "The paper demonstrates that the radial sector of a Carroll-Weyl gauged null string in Poincaré AdS_D is locally trivial in BRST cohomology. By constructing a quotient-adapted BFV basis, the radial coordinate, its conjugate momentum, and the associated ghosts form a contractible quartet, simplifying the full algebra of local spatial jets.",
-    "significance": "It provides a clear BRST-based reduction of null string dynamics, offering new insights into holographic dualities in AdS geometries.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2c525bc7c009bccadc15cec1e041cd45",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10538v1",
-    "arxiv_id": "2610.10538v1",
-    "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-    "authors": [
-      "Shravan Chaudhari",
-      "William Paul",
-      "Suchi Saria"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Building 3D Object Memory from Egocentric Videos: Persistence and Retrieval",
-    "tldr": "We show how an embodied assistant can learn to remember objects and their locations over time by analyzing egocentric video streams. Our method constructs a persistent 3D memory that allows the system to recall where items were left or what was inside containers, even without explicit cues.",
-    "significance": "This work advances embodied AI by enabling continuous, context-aware memory of everyday objects, improving task planning and interaction.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "47f2ab20e8df6776bcccd8ff5b2d2993",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.10537v1",
-    "arxiv_id": "2610.10537v1",
-    "title": "Sharp Polynomial Upper Bounds for Anticanonical Volumes",
-    "authors": [
-      "Pinxian Bie",
-      "Peien Du",
-      "Zhengjie Yu"
-    ],
-    "published": "2026-10-07",
-    "curated_at": "2026-10-08",
-    "headline": "Sharp Upper Bounds on Anticanonical Volumes for Log Fano Varieties",
-    "tldr": "The paper establishes dimension‑dependent polynomial bounds on the anticanonical volume of log Fano varieties, proving the exponent is optimal. It also provides an interpolation result for anticanonical volumes.",
-    "significance": "These results resolve a long‑standing question about the growth of anticanonical volumes and provide sharp estimates for higher‑dimensional Fano varieties.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
