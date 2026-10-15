@@ -1,5 +1,316 @@
 [
   {
+    "uid": "c89a3bcbf81216887c5d3c848cf80044",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20610v1",
+    "arxiv_id": "2610.20610v1",
+    "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+    "authors": [
+      "Jahyeok Koo",
+      "Hyeonseo Yu",
+      "Seungho Jang"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "Using 3D Language Models to Enhance Novel-View Generation from Sparse Observations",
+    "tldr": "The paper explores whether answering spatial questions with 3D language models can improve the realism and spatial consistency of novel view synthesis. Experiments show that integrating high-level semantic and spatial reasoning yields better view generation than geometry-only baselines.",
+    "significance": "It demonstrates that language-based spatial reasoning can be a powerful tool for 3D scene reconstruction, bridging vision and language.",
+    "tags": [
+      "spatial-reasoning",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e9cb89a36c6dbfc2f6b7e9900f9def7f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20609v1",
+    "arxiv_id": "2610.20609v1",
+    "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+    "authors": [
+      "Shaoyuan Xie",
+      "Zihan Zhang",
+      "Jingxuan Wang"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "SafeDriveVLA: Conflict-Aware Navigation Using Vision-Language-Action Models",
+    "tldr": "SafeDriveVLA integrates a vision-language-action model with a world‑model dreaming framework to generate conflict‑aware driving policies from free‑form natural‑language instructions. The system detects unsafe driver commands in real time and adapts vehicle behavior accordingly.",
+    "significance": "This approach demonstrates how large language models can be safely leveraged for autonomous navigation, reducing the risk of unsafe driver instructions.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time",
+      "urban-AI"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4a6e4fe5b5fddbc0e77fa8bf5b85d1b2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20606v1",
+    "arxiv_id": "2610.20606v1",
+    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "authors": [
+      "Huixuan Cheng",
+      "Bike Zhang",
+      "Shankar Sastry"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "Diffusion Models Unveil Neural Weight Distributions for Humanoid Control Policies",
+    "tldr": "Researchers apply diffusion models to learn the distribution of neural weights in humanoid control networks, enabling generation of functional policies without explicit training. This approach offers insights into policy structure and opens avenues for rapid deployment and adaptation.",
+    "significance": "By modeling weight distributions, the study provides a scalable method to generate and analyze humanoid policies, potentially accelerating robot learning and deployment.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0f3eba0c4a52fb92100ab3506f2d058f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20608v1",
+    "arxiv_id": "2610.20608v1",
+    "title": "Representation Conditioning for Generation",
+    "authors": [
+      "Saeed Razavi",
+      "Xingjian Leng",
+      "Liang Zheng"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "Accelerating Diffusion Transformers with Vision Encoder Representation Alignment for Image Generation Tasks",
+    "tldr": "Representation-alignment methods speed up diffusion transformer training by importing semantics from a pretrained vision encoder. REPA, for example, uses an MLP projection head to supervise intermediate layers, discarding the head after training to embed richer visual features into the diffusion backbone.",
+    "significance": "This approach enables faster, more semantically grounded diffusion models without additional inference overhead.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "723edf4d21d9e7434120b5298ddddd5e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20607v1",
+    "arxiv_id": "2610.20607v1",
+    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+    "authors": [
+      "Zhefei Gong",
+      "Hefeifei Jiang",
+      "Zehao Wang"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "Hierarchical Residual Policy Learning Enables Real-World Mobile Manipulation with Sparse Human Guidance",
+    "tldr": "We introduce HiRe-MoMa, a hierarchical residual policy framework that stabilizes and accelerates real‑world fine‑tuning of mobile manipulation systems. By leveraging sparse human demonstrations and modular residual learning, the method achieves sample‑efficient adaptation across high‑dimensional action spaces.",
+    "significance": "This work bridges the gap between simulation and deployment, enabling rapid, data‑efficient adaptation of complex robotic manipulation pipelines in real environments.",
+    "tags": [
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c8b536465a195abcaf3b33cc5f71333a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20605v1",
+    "arxiv_id": "2610.20605v1",
+    "title": "Nodal nematic superconductivity in moiré graphene",
+    "authors": [
+      "Shuwen Sun",
+      "Grgur Palle",
+      "Kenji Watanabe"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "Moiré Graphene Hosts Nodal Nematic Superconductivity, Revealing Rotational Symmetry Breaking",
+    "tldr": "Recent experiments on moiré graphene layers have uncovered nodal nematic superconductivity, a state where the superconducting gap vanishes along lines while simultaneously breaking rotational symmetry. This discovery provides a new platform to study exotic pairing mechanisms beyond conventional s‑wave superconductors.",
+    "significance": "It opens a promising avenue for exploring unconventional superconductivity mechanisms and could inform the design of next‑generation quantum materials.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8f97633605538808bcd4cdb2fa5ee253",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20604v1",
+    "arxiv_id": "2610.20604v1",
+    "title": "VITAL: From Visual Motion to Precise Action",
+    "authors": [
+      "Ao Liang",
+      "Youquan Liu",
+      "Mingxiao Li"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "From Visual Motion to Precise Action: Training Driving Models Directly on Visual Dynamics",
+    "tldr": "VITAL proposes deriving action targets directly from visual motion, bypassing separate trajectory representations. By reconstructing trajectories from future images, the model learns to anticipate driving decisions in real time.",
+    "significance": "This approach bridges the gap between visual perception and action planning, enabling more accurate and responsive autonomous driving systems.",
+    "tags": [
+      "urban-AI",
+      "time-series",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "74e20f8ac8c6f7081ecf014529670e80",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20603v1",
+    "arxiv_id": "2610.20603v1",
+    "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+    "authors": [
+      "Xiaoli Xu",
+      "Zhengtao Wu",
+      "Zhengze Xu"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "CommerceGen-Studio: End-to-End Framework for Commercial-Grade Main Image Generation",
+    "tldr": "CommerceGen-Studio introduces a three-stage pipeline—information extraction, semantic rewriting, and multi-condition generation—to produce high-quality main images for e-commerce SKUs. The PERL-Agent distills heterogeneous metadata into concise selling-point text lists, enabling efficient and scalable image creation.",
+    "significance": "It streamlines the creation of commercial-grade product images, reducing time and cost for e-commerce businesses.",
+    "tags": [
+      "LLM",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8220afe9e116063e4f23c424d1d38f38",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20602v1",
+    "arxiv_id": "2610.20602v1",
+    "title": "Heavy-Heavy-Light-Light correlators from holography on the worldsheet",
+    "authors": [
+      "Matías Colaneri",
+      "Diego H. Correa",
+      "Víctor I. Giraldo-Rivera"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "Holographic Correlators of Heavy and Light Operators on AdS2 Worldsheet",
+    "tldr": "We compute heavy-heavy-light-light correlators for defect-changing operators in the 1/2 BPS Wilson line of N=4 SYM. The analysis reveals how large scaling dimensions back-react on the AdS2 worldsheet, providing a holographic description of cusp deformations.",
+    "significance": "This work extends holographic techniques to study defect operators with large dimensions, offering new insights into the dynamics of Wilson line defects in AdS/CFT.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e76507c2530ddfc07b151c4471f8881f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20598v1",
+    "arxiv_id": "2610.20598v1",
+    "title": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
+    "authors": [
+      "Qihang Cao",
+      "Haoyuan Li",
+      "Zihan Guo"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "DynThinker Bridges Static 3D and Dynamic 4D Spatial Reasoning for Unified Intelligence",
+    "tldr": "DynThinker introduces a model that simultaneously handles static 3D and dynamic 4D spatial tasks, overcoming the interference that hampers existing approaches. By selectively fine‑tuning parameter groups, it achieves balanced performance across both domains.",
+    "significance": "This work provides a scalable framework that enables robust spatial intelligence across static and dynamic contexts, paving the way for advanced applications in robotics, autonomous navigation, and geospatial analytics.",
+    "tags": [
+      "spatial-reasoning",
+      "foundation-models",
+      "point-cloud",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "065c3667889207f9a3468dca790c3677",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20597v1",
+    "arxiv_id": "2610.20597v1",
+    "title": "Co-Evolving Acting and Forecasting for Language Agents",
+    "authors": [
+      "Haofei Yu",
+      "Yixing Chen",
+      "Yining Zhao"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "Co-Evolving Acting and Forecasting Boosts Language Agent Efficiency for Long-Horizon Tasks",
+    "tldr": "The paper introduces a method that jointly trains language agents to act and forecast intermediate states, reducing reliance on costly rollouts. By leveraging per-step supervision, the approach improves sample efficiency and performance on long-horizon tasks.",
+    "significance": "It offers a scalable alternative to traditional RL, enabling more efficient training of language agents for complex, multi-step tasks.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a0794afbecae0f20687ffa18c6985785",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20596v1",
+    "arxiv_id": "2610.20596v1",
+    "title": "CoWear: Towards Collaborative Wearable Inertial Localization with Multiple Smart Devices",
+    "authors": [
+      "Zhuoyuan She",
+      "Zhanpeng Zhang",
+      "Yapeng Chen"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "CoWear: Collaborative Inertial Localization Dataset for Multi-Device Smart Wearables and Glasses",
+    "tldr": "CoWear provides synchronized inertial data from smartphones, smartwatches, and smart glasses, along with device-specific motion ground truth. The dataset enables benchmarking and development of collaborative localization algorithms for wearable devices.",
+    "significance": "It fills a gap in inertial localization research by offering a realistic, multi-device dataset with synchronized ground truth.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "384653f461999043a496b135a98c527b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.20593v1",
+    "arxiv_id": "2610.20593v1",
+    "title": "The $\\mathrm{U}$-Derivative Associated with Linear Recurrence Sequences",
+    "authors": [
+      "Ronald Orozco López"
+    ],
+    "published": "2026-10-14",
+    "curated_at": "2026-10-15",
+    "headline": "Introducing the U-Derivative: A Spectral Operator for Linear Recurrence Sequences",
+    "tldr": "We define a canonical U-derivative operator for linear recurrence sequences with distinct roots, using a spectral Binet operator built from dilation operators. This construction yields a new tool for analyzing and manipulating such sequences in a unified algebraic framework.",
+    "significance": "This operator provides a systematic way to differentiate and study recurrence sequences, potentially simplifying proofs and enabling new applications in discrete dynamical systems.",
+    "tags": [
+      "time-series",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "0b4e1ec84cea617201f8b720997ff8d0",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.18874v1",
@@ -1097,318 +1408,6 @@
       "real-time"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7594514c6a21d7306472d6b0970e1d92",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12450v1",
-    "arxiv_id": "2610.12450v1",
-    "title": "Discovery of Hidden Extragalactic Pulsars in the Parkes Archival Data",
-    "authors": [
-      "Rahul Sengar",
-      "Laila Vleeschower",
-      "Matthew Bailes"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "Hidden Extragalactic Pulsars Unveiled in Parkes Archival Data Using Advanced Search Techniques",
-    "tldr": "Researchers discovered dozens of previously unknown pulsars in the Large and Small Magellanic Clouds by reanalyzing Parkes telescope archival data. This finding refines the pulsar luminosity function and offers insights into neutron star populations in low-metallicity environments.",
-    "significance": "The discovery expands the extragalactic pulsar census and improves constraints on neutron star formation in metal-poor galaxies.",
-    "tags": [
-      "time-series",
-      "object-detection",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fc9e7aa985a7a9f4713b6941d4565e77",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12448v1",
-    "arxiv_id": "2610.12448v1",
-    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-    "authors": [
-      "Adrian Bulat",
-      "Yassine Ouali",
-      "Georgios Tzimiropoulos"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "Recurrent Vision Transformers: Depth-Programmed Experts Achieve Full-Depth Accuracy",
-    "tldr": "This paper demonstrates that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs. By representing the FFN at each recurrent depth as a convex combination of a small shared expert bank, the model restores depth-specific transformations without intermediate feature distillation.",
-    "significance": "It offers a parameter-efficient alternative to deep vision encoders, reducing computational cost while maintaining performance.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c30901f3384bfa4f785642fe9f39632f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12449v1",
-    "arxiv_id": "2610.12449v1",
-    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-    "authors": [
-      "Anna Zimmel",
-      "Fleur Hendriks",
-      "Markus Holzleitner"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "Bi-FORK: A Generative Framework for Modeling Symmetry-Breaking Bifurcations in High-Dimensional Systems",
-    "tldr": "Bi-FORK introduces a generative approach that captures multiple valid solutions arising from symmetry-breaking bifurcations, challenging the one-to-one mapping assumption of conventional surrogates. By leveraging diffusion-based modeling, it learns the full solution manifold, enabling accurate predictions across high-dimensional physical systems.",
-    "significance": "This work expands deep learning’s applicability to inherently multi-valued physical phenomena, opening avenues for more realistic modeling of complex systems.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a914e632aa87b39e29476296ff4a34d0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12447v1",
-    "arxiv_id": "2610.12447v1",
-    "title": "Entanglement entropy and magic of ZX-diagrams",
-    "authors": [
-      "Marcin Szyniszewski",
-      "Razin A. Shaikh",
-      "Aleks Kissinger"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "Efficiently Extracting Entanglement Entropy and Magic via ZX-Calculus Graphical Methods",
-    "tldr": "This work demonstrates that ZX-diagrams can be used to compute entanglement entropy and magic of quantum states without costly tensor contractions. The authors provide algorithms that exploit the diagrammatic structure, offering a scalable alternative to conventional methods.",
-    "significance": "By reducing the computational overhead for key quantum resources, the study paves the way for more efficient analysis of large quantum circuits.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f063b846c287498736bafd83ef7a339e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12445v1",
-    "arxiv_id": "2610.12445v1",
-    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-    "authors": [
-      "Oskar J. Hollinsworth",
-      "Alex F. Spies",
-      "Tigist Diriba"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "Probes Detect LLM Deception: New Dataset and Architecture Scale Monitoring",
-    "tldr": "Researchers introduce the largest deception dataset for LLMs and a novel probe architecture that aggregates information across layers and tokens. This enables scalable, real‑time monitoring of AI agents to catch subtle, unverbalized deception.",
-    "significance": "The work provides a practical, white‑box tool for detecting deceptive behavior in large language models, enhancing safety and trust in AI systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9dfb10cf9408bead6d06abc06bec4d2c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12444v1",
-    "arxiv_id": "2610.12444v1",
-    "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
-    "authors": [
-      "Hanyang Li",
-      "Shao Tang",
-      "Daniel Thomas Braithwaite"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "Redesigning 4-bit AdamW Quantization via Rounding Space for Improved Optimizer Stability",
-    "tldr": "We propose a new 4‑bit quantization scheme for AdamW that selects reconstruction levels in the rounding space, reducing error propagation in moment updates. Experiments show lower training loss and faster convergence compared to conventional quantization.",
-    "significance": "This approach enables efficient deployment of large‑scale models on memory‑constrained devices without sacrificing training quality.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "74104b7590f3189c58188dc049b7c30a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12440v1",
-    "arxiv_id": "2610.12440v1",
-    "title": "Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
-    "authors": [
-      "Dechen Gao",
-      "Yue Yang",
-      "Ben Abbatematteo"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "Bridging the Embodiment Gap: Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
-    "tldr": "This work introduces a generative neural framework that retargets human demonstrations to robotic manipulators, addressing the embodiment gap by incorporating dynamics and feasibility constraints. By combining inverse kinematics with reinforcement learning and model predictive control, the method achieves realistic, real-time dexterous manipulation on robots.",
-    "significance": "It enables scalable transfer of human skills to robots, accelerating the deployment of dexterous manipulation in real-world tasks.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7e04dd5f3929a5218998560f7e863f9e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12470v1",
-    "arxiv_id": "2610.12470v1",
-    "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-    "authors": [
-      "Jusuk Lee",
-      "Sungha Kim",
-      "Yeonsoo Park"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "Learning Dexterous Manipulation from a Single Human Video",
-    "tldr": "The paper introduces Dex-One2Many, a method that learns manipulation policies from a single human demonstration using reinforcement learning, overcoming strict motion imitation limits. It demonstrates improved generalization to unseen poses and grasps, showing promise for efficient robot learning.",
-    "significance": "It provides a scalable approach to robot manipulation by leveraging minimal human data and RL for broader applicability.",
-    "tags": [
-      "object-detection",
-      "point-cloud",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4cd76700528bb3ee938d6dd63edf24a2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12469v1",
-    "arxiv_id": "2610.12469v1",
-    "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-    "authors": [
-      "Ritesh Thawkar",
-      "Shubham Patle",
-      "Shravan Venkatraman"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "Self‑Evolving Image Editing: Reward‑Verified Self‑Distillation for Instruction‑Guided Diffusion Models without Human Supervision",
-    "tldr": "The authors propose Rubric‑CEPR, a self‑distillation framework that refines pretrained image editors by verifying rewards, eliminating the need for costly human‑edited pairs. Experiments show improved fidelity and adherence to user instructions across diverse editing tasks.",
-    "significance": "This work enables scalable, cost‑effective enhancement of instruction‑guided image editors, reducing reliance on external reward models and human supervision.",
-    "tags": [
-      "diffusion-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "da3f9400b180d590e584629b7ee34be3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12468v1",
-    "arxiv_id": "2610.12468v1",
-    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
-    "authors": [
-      "Junyan Li",
-      "Ruizhi Li",
-      "Yu Liu"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "DreamTrue: Counterfactual Post-Training for Action-Faithful Robot World Models",
-    "tldr": "DreamTrue introduces a multi-view, cross-embodiment robot world model that predicts physically plausible videos while addressing calibration errors and limited failure data. By applying counterfactual post-training, the model improves action following across different robot embodiments.",
-    "significance": "It advances reliable robot planning by ensuring accurate, action-faithful predictions even with imperfect calibration and sparse failure examples.",
-    "tags": [
-      "foundation-models",
-      "object-detection",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a1f7c7b06fff3d3a472dc87f9788fa28",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12467v1",
-    "arxiv_id": "2610.12467v1",
-    "title": "CSF: Contextual Safety Filtering for Motion Generators",
-    "authors": [
-      "Lizhi Yang",
-      "Yiling Hou",
-      "Yao Tang"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "Contextual Safety Filtering Enhances Motion Generators for Scene-Aware Robotics Applications",
-    "tldr": "We propose CSF, a method that filters motion generation outputs based on scene context to prevent unsafe actions. By integrating contextual cues, CSF ensures that generated motions respect the presence of objects or people in the environment.",
-    "significance": "CSF bridges the gap between text-conditioned motion generation and real-world safety, enabling more reliable deployment of autonomous agents.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "292047739d74bb5609dd868729f48667",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12466v1",
-    "arxiv_id": "2610.12466v1",
-    "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-    "authors": [
-      "Drew T. Nguyen",
-      "William Fithian"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "Revisiting AI Time Horizons: A Statistical Analysis of the METR Plot",
-    "tldr": "The study re-evaluates the METR time horizon metric, using splines and item-response theory to relax linearity assumptions. Results show improved accuracy in estimating AI performance across 228 tasks and 26 AIs.",
-    "significance": "This work refines AI capability benchmarks, enabling more reliable predictions of when AI will match or surpass human performance.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4b0ebfb346f8e31ba6b1862c0303afe5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12465v1",
-    "arxiv_id": "2610.12465v1",
-    "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-    "authors": [
-      "Octi Zhang",
-      "Mateo Guaman Castro",
-      "Patrick Yin"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-09",
-    "headline": "Scaling Reinforcement Learning for Robots: Overcoming Exploration Bottlenecks with Mega-Scale Simulations",
-    "tldr": "The paper proposes a scalable RL framework that uses diverse simulator resets and massive parallelization to eliminate the need for task‑specific priors, enabling robots to learn a wide range of skills from locomotion to manipulation. By leveraging a data‑driven exploration strategy, the method achieves state‑of‑the‑art performance on benchmark tasks while remaining open‑source and real‑time capable.",
-    "significance": "This work demonstrates that large‑scale, data‑driven RL can replace engineered priors, paving the way for versatile, general‑purpose robots.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
