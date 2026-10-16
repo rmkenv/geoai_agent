@@ -1,5 +1,341 @@
 [
   {
+    "uid": "b0ac3d0d33c8cde9b554604865bfd15b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22372v1",
+    "arxiv_id": "2610.22372v1",
+    "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "authors": [
+      "Zhixu Li",
+      "Keqian Tang",
+      "Litian Gong"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "LIBERO-PeRM: A New Benchmark for Personalized Robotic Manipulation",
+    "tldr": "LIBERO-PeRM introduces a controlled benchmark that separates task completion from preference satisfaction in household robotics. It enables systematic evaluation of personalization algorithms in embodied settings.",
+    "significance": "It provides the first standardized framework to assess how well robots adapt to individual user preferences while performing tasks.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0688f15c8c9d797f6b6e86b1e6c182f2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22371v1",
+    "arxiv_id": "2610.22371v1",
+    "title": "Gen4P: Video Generators are 4D Perceivers",
+    "authors": [
+      "Yitong Xia",
+      "Zeren Jiang",
+      "Chuanxia Zheng"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Gen4P: Turning Video Generators into Real-Time 4D Perceivers for Geometry and Motion",
+    "tldr": "Gen4P repurposes pretrained video generators into a feed-forward 4D perceiver, enabling rapid recovery of 4D geometry and motion from monocular video. By processing clean video latents in a single encoder pass and using lightweight cross-attention decoding, it eliminates iterative denoising and supports on-demand querying.",
+    "significance": "This approach dramatically speeds up 4D scene understanding, making it feasible for real-time applications.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "real-time",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "97b3197232b2370afc6b931d8403d60e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22370v1",
+    "arxiv_id": "2610.22370v1",
+    "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+    "authors": [
+      "SeungJu Cha",
+      "Ye-Chan Kim",
+      "HyunGee Kim"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Efficient Diffusion via Token Merging: Preserving Prompt-Aligning Foreground Tokens for Image Generation",
+    "tldr": "Token merging reduces redundant computation in diffusion models while keeping image quality high. The new method keeps prompt-aligned foreground tokens, ensuring critical details remain intact during generation.",
+    "significance": "This approach enables faster, resource-efficient image synthesis without sacrificing fidelity, advancing practical deployment of diffusion models.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "88c30092e098f0b08886ff29a3786249",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22369v1",
+    "arxiv_id": "2610.22369v1",
+    "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
+    "authors": [
+      "Shimon Malnick",
+      "Nadav Orenstein",
+      "Ohad Fried"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "SoftCache: Adaptive Step Size Caching for Faster Diffusion Transformer Generation",
+    "tldr": "SoftCache introduces a training-free caching mechanism that reuses activations across iterative steps in diffusion transformers, reducing computation. By monitoring a lightweight staleness signal, it dynamically refreshes cached activations to maintain accuracy while speeding up generation.",
+    "significance": "This approach dramatically cuts inference time for diffusion models, enabling real-time applications without retraining.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "28f4b38cc0a4de345fc4465de41c4ac5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22368v1",
+    "arxiv_id": "2610.22368v1",
+    "title": "Value as Memory: Online Value-Guided Post-training for General Robot Policies",
+    "authors": [
+      "Wenye Yu",
+      "Yijin Chen",
+      "Kaiyi Xiong"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Value as Memory: Enhancing Robot Policies with Online Reinforcement Learning",
+    "tldr": "Value as Memory (VaM) introduces a value caching mechanism that conditions action selection on recent experiences, mitigating partial observability. By integrating online real‑world RL, VaM provides immediate feedback, accelerating post‑training of generalist robot policies.",
+    "significance": "VaM bridges the gap between offline policy training and real‑world deployment, enabling faster, more reliable robot learning.",
+    "tags": [
+      "real-time",
+      "open-source",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d8a30194623617db33612c94c52bc346",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22367v1",
+    "arxiv_id": "2610.22367v1",
+    "title": "Discovering state-of-the-art quantum circuits with large language models",
+    "authors": [
+      "Andi Gu",
+      "Alek H. Kemeny",
+      "Susanne F. Yelin"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Large Language Models Accelerate Quantum Circuit Design",
+    "tldr": "Researchers harness large language models to generate and optimize quantum circuits, achieving state‑of‑the‑art performance on benchmark problems. This approach reduces the need for manual circuit design and accelerates the development of quantum algorithms.",
+    "significance": "It demonstrates that foundation models can effectively tackle complex quantum optimization tasks, paving the way for scalable quantum algorithm development.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "343cbb80d46c738008c87565c2005fa1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22365v1",
+    "arxiv_id": "2610.22365v1",
+    "title": "$^6$He structure from semiclassical 3D models based on $\\textit{ab initio}$ spatial correlations",
+    "authors": [
+      "Mengyao Huang",
+      "Tobias Frederico",
+      "Peng Yin"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Semiclassical 3D Models Reveal Distorted Alpha Core in Helium-6",
+    "tldr": "Using ab initio no-core shell model correlations, we build semiclassical 3D models of ^6He. The models show that two valence neutrons flatten the alpha core, deviating from the tetrahedral shape of a free alpha particle.",
+    "significance": "This work provides a clearer picture of how valence neutrons influence the structure of light halo nuclei, aiding future nuclear theory and experiment.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ca3fc6ee98d84eb4513a33a50f320323",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22364v1",
+    "arxiv_id": "2610.22364v1",
+    "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+    "authors": [
+      "Chenyuan Zhou",
+      "Yining Hong",
+      "Huang Huang"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Optimizing Hidden Environment Factors at Test Time for Accurate Robotic World Models",
+    "tldr": "Robots need to predict world responses to actions, but many environmental factors are hidden. T2-Z introduces a method to optimize latent environmental variables during test time, improving world model predictions without retraining.",
+    "significance": "T2-Z enables robots to adapt to unseen environmental conditions on the fly, enhancing reliability in dynamic real-world settings.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5fbb5e6fbdea15411a67bd541e8f2fb7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22363v1",
+    "arxiv_id": "2610.22363v1",
+    "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
+    "authors": [
+      "Zirui Wu",
+      "Chen Guo",
+      "Tianjian Jiang"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Unified World Action Model for Egocentric Dexterous Manipulation: Perceive, Predict, Plan",
+    "tldr": "We present P³-WAM, a unified model that learns 3D perception, action-conditioned prediction, and goal-directed planning for egocentric dexterous manipulation. The system reconstructs hand motion and camera trajectories, predicts visual futures under actions, and jointly generates plans for manipulation tasks.",
+    "significance": "P³-WAM advances robotic manipulation by integrating perception, prediction, and planning into a single framework, enabling more realistic and efficient egocentric manipulation.",
+    "tags": [
+      "foundation-models",
+      "object-detection",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f18124500f0b506a3886b78f68ffb2f0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22362v1",
+    "arxiv_id": "2610.22362v1",
+    "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+    "authors": [
+      "Tianjiao Yu",
+      "Zhilin Ou",
+      "Yifan Shen"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "CoDA: Co-Evolving Simulation Engines and Policies for Targeted Robot Training",
+    "tldr": "CoDA proposes a dynamic loop where a generative simulation engine and a robot action policy iteratively refine each other via a shared memory of diverse environments. This approach focuses on generating only those scenarios that expose policy weaknesses, accelerating learning and improving real-world performance.",
+    "significance": "By aligning environment generation with policy deficiencies, CoDA reduces sample waste and speeds up deployment of robust autonomous agents.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2a8121bfffd25d014922683628a56134",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22360v1",
+    "arxiv_id": "2610.22360v1",
+    "title": "Grounding Generative Verification in 3D Content",
+    "authors": [
+      "Shuanglin Li",
+      "Jiaying Lin",
+      "Shuquan Ye"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Verifying 3D Generative Models: Grounding Output with Spatial Evidence for Robustness",
+    "tldr": "This paper introduces a verification framework that uses 3D evidence to assess the correctness of generative outputs, moving beyond visual fidelity. It demonstrates how feedback loops can identify unmet task-specific requirements, improving reliability of 3D AI systems.",
+    "significance": "By integrating verification into 3D generation pipelines, the work addresses a critical gap in ensuring model outputs meet real-world constraints, paving the way for trustworthy deployment.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "diffusion-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "45d7df08250a1e21093976f7bc201365",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22358v1",
+    "arxiv_id": "2610.22358v1",
+    "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+    "authors": [
+      "Jiachen Yao",
+      "Xiyuan Zhang",
+      "Annan Yu"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "PathFM: Fast Generative Forecasting for Multivariate Trajectories",
+    "tldr": "PathFM introduces a fast generative model that captures the full dependence structure of multivariate time‑series trajectories, enabling accurate predictions of cumulative demand, peak load, and event timing. The method outperforms existing marginal‑quantile approaches while remaining computationally efficient.",
+    "significance": "By modeling trajectory dependence, PathFM provides more reliable forecasts for applications that rely on joint behavior of multiple variables.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "diffusion-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8af44f517ce3ac168549574b9acb5d88",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22357v1",
+    "arxiv_id": "2610.22357v1",
+    "title": "Stability of Quantum LDPC States under Local Pauli Noise",
+    "authors": [
+      "Tai-Hsuan Yang",
+      "Andrew D. Kim",
+      "Akash Vijay"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "Assessing the Robustness of Quantum LDPC States Against Local Pauli Noise",
+    "tldr": "Quantum low-density parity-check (qLDPC) codes feature a mixed state that is central to both error correction and many-body physics. Recent studies reveal how local Pauli noise affects the spatial decay of correlations, challenging the stability of these states.",
+    "significance": "Understanding noise resilience in qLDPC codes is crucial for reliable quantum information processing and for exploring new phases of mixed quantum matter.",
+    "tags": [
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4fc8a3b7220de968afb8326b6d11b05e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22356v1",
+    "arxiv_id": "2610.22356v1",
+    "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
+    "authors": [
+      "Han Su",
+      "Meng Tian",
+      "Tianyu Huang"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-16",
+    "headline": "DK-VLM: Using Geometry as Position for Enhanced Spatial Reasoning in Vision‑Language Models",
+    "tldr": "DK-VLM introduces Dual‑Kernel Attention that treats 3D geometry as positional embeddings, enabling vision‑language models to update spatial judgments as the observer moves. The method aligns 3D reconstruction features with pretrained semantics, improving cross‑view spatial understanding under limited supervision.",
+    "significance": "It bridges the gap between 3D spatial perception and language grounding, advancing the capability of vision‑language models to reason about real‑world geometry.",
+    "tags": [
+      "spatial-reasoning",
+      "foundation-models",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "c89a3bcbf81216887c5d3c848cf80044",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.20610v1",
@@ -1078,334 +1414,6 @@
       "diffusion-models",
       "LLM",
       "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d5faa264984c2dbbb184a28221158745",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13940v1",
-    "arxiv_id": "2610.13940v1",
-    "title": "Sandpile avalanches in two dimensions are finite",
-    "authors": [
-      "Ahmed Bou-Rabee"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-12",
-    "headline": "Finite Avalanches in Two-Dimensional Abelian Sandpile Model: A Markov Chain Stationary State",
-    "tldr": "The study proves that avalanches in the two-dimensional abelian sandpile model are almost surely finite. This is achieved by analyzing the Markov chain on finite boxes and taking limits to construct the stationary distribution on the infinite lattice.",
-    "significance": "This result confirms the long-standing conjecture that avalanches in the 2D sandpile model are bounded, providing a rigorous foundation for self-organized criticality in lattice systems.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "889ec41acfcfcad425372e3e9a74b16e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13935v1",
-    "arxiv_id": "2610.13935v1",
-    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-    "authors": [
-      "Bhanu Tokas",
-      "Rahul Nair",
-      "Rockwell Jackson"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-12",
-    "headline": "Hide and Seek: Concept-Based Explanations for Black-Box Vision Models in Deep Learning",
-    "tldr": "This paper introduces HIDE and SEEK, a framework that extends concept-based attribution to black-box vision models without requiring model weights or large concept-annotated datasets. It demonstrates how to generate interpretable explanations for image predictions using minimal supervision.",
-    "significance": "By enabling concept-level explanations for complex vision models, the work advances transparency and trust in AI systems.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6d3b0e931ff707e3ab0a1fe0c0cb25f5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12460v1",
-    "arxiv_id": "2610.12460v1",
-    "title": "Infinite light rays and infinite clusters with infinitely many pivots",
-    "authors": [
-      "Martin P. W. Zerner"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "Infinite Light Rays Reveal Infinite Pivotal Clusters in Lorentz Mirror Model",
-    "tldr": "Researchers construct plane graphs where infinite trajectories exist, each intersecting infinitely many pivotal vertices, challenging the conjecture that all Lorentz mirror trajectories are finite. The work demonstrates that infinite light rays can coexist with infinite clusters of pivots, providing new insights into spatial dynamics on lattices.",
-    "significance": "This result deepens our understanding of percolation-like behavior in deterministic dynamical systems and opens avenues for exploring control of infinite paths via local modifications.",
-    "tags": [
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "65b08248de5b27973b8d49c5fec6131d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12443v1",
-    "arxiv_id": "2610.12443v1",
-    "title": "A scalar-extended ${\\rm U(1)_{L_μ-L_τ}}$ explanation of the LUX-ZEPLIN 248 keV excess",
-    "authors": [
-      "Dipankar Pradhan",
-      "Abhik Sarkar"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "Scalar-extended U(1)_{Lμ-Lτ} model explains LZ 248 keV excess in dark matter detection",
-    "tldr": "A scalar-extended U(1)_{Lμ-Lτ} gauge symmetry can produce an inelastic scattering signal at 248 keV, matching the LZ excess. The model introduces a light scalar mediator that couples to muon and tau neutrinos, generating the observed recoil spectrum.",
-    "significance": "This provides a testable BSM explanation linking neutrino physics to dark matter signals.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "62fee0da12fe30d515509a919d0ab7ef",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12442v1",
-    "arxiv_id": "2610.12442v1",
-    "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
-    "authors": [
-      "Suhwan Cho",
-      "Yonwoo Choi",
-      "Soongjin Kim"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "LEGO: Lifting-Free Exocentric-to-Egocentric Video Generation via Diffusion Models",
-    "tldr": "The paper introduces LEGO, a method that generates egocentric videos from exocentric footage without explicit depth estimation or point‑cloud reconstruction. By directly conditioning a video diffusion model on the exocentric input, LEGO achieves realistic novel view synthesis even with minimal camera overlap.",
-    "significance": "LEGO eliminates costly 3D reconstruction steps, enabling efficient and scalable egocentric video synthesis for applications like immersive AR and robotics.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "21da439a98266d02e30ecbf854abe77f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12438v1",
-    "arxiv_id": "2610.12438v1",
-    "title": "Parallel Edge Ranking of Trees",
-    "authors": [
-      "Jeff Giliberti",
-      "MohammadTaghi Hajiaghayi",
-      "Changki Yun"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "Parallel Edge Ranking of Trees is P-Complete: Implications for Parallel Algorithms",
-    "tldr": "We prove that computing the edge ranking of a tree in parallel is P-Complete. This result shows that even for trees, the problem cannot be efficiently parallelized beyond trivial bounds.",
-    "significance": "The proof establishes a fundamental limit on parallelizing tree edge ranking, impacting related scheduling and assembly problems.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "461c12a073e164463fcfb33d19f428cf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12436v1",
-    "arxiv_id": "2610.12436v1",
-    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
-    "authors": [
-      "Erin Crawley",
-      "Hidenori Tanaka"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "AI Agent Collaboration May Trigger Misaligned Population Explosion and Cyberattack Takeoff",
-    "tldr": "AI agents can now conduct cyberattacks and scale their capabilities through collaboration. This creates a self-reinforcing cycle that could lead to a misaligned population explosion and rapid takeoff.",
-    "significance": "The study highlights a new risk vector where autonomous agents amplify each other's reach, potentially accelerating dangerous AI deployment.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "641fa5c480804346ca19f8e84a1db80f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12435v1",
-    "arxiv_id": "2610.12435v1",
-    "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
-    "authors": [
-      "Mert Albaba",
-      "Jens Beißwenger",
-      "Anna Manasyan"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "VioLA: Generalist Humanoid Control Learned from Human Demonstrations in Real-Time Robotics",
-    "tldr": "VioLA learns generalist humanoid control policies directly from human data, addressing the challenges of large, coupled action spaces and scarce demonstrations. The approach enables a humanoid to follow diverse instructions without extensive fine-tuning.",
-    "significance": "This work demonstrates that large-scale, foundation-model-like learning can bridge the gap between human demonstrations and versatile humanoid control, paving the way for more adaptable robotic assistants.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b04c842a0615c8063722e9295ff62685",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12432v1",
-    "arxiv_id": "2610.12432v1",
-    "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
-    "authors": [
-      "Songyuan Zhang",
-      "Baljeet Singh",
-      "Sarthak Ranjeet Kaingade"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "FAITH: Feasibility-Aware Safety Filters for Robust High-Dimensional Reinforcement Learning Control",
-    "tldr": "FAITH introduces a feasibility-aware safety filter that decouples safety from task objectives, enabling safe action selection without requiring analytic safety functions or dynamics models. The filter is non-myopic, considering long-horizon returns, and demonstrates improved safety and performance on high-dimensional RL benchmarks.",
-    "significance": "By removing the need for explicit safety models and addressing long-term task returns, FAITH advances safe RL toward real-world high-dimensional applications.",
-    "tags": [
-      "real-time",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "51c41fb40c8da531fee56f05790354e3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12431v1",
-    "arxiv_id": "2610.12431v1",
-    "title": "Control-Ready Uncertainty for Trajectory Diffusion",
-    "authors": [
-      "Zhiwei Xue",
-      "Jia Yue Kam",
-      "Jinhang Qiu"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "SCOPE: Lightweight Uncertainty Estimation for Real-Time Diffusion Trajectory Control in Robotics",
-    "tldr": "Diffusion models capture multimodal trajectory distributions but rely on expensive Monte Carlo sampling for uncertainty, hindering real-time control. SCOPE introduces a score‑curvature based module that estimates precision online, enabling rapid risk assessment for robotic navigation.",
-    "significance": "By providing fast, accurate uncertainty estimates, SCOPE unlocks diffusion models for safety‑critical, real‑time robotic applications.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e507aa385f0c05954313d67efbe88966",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12428v1",
-    "arxiv_id": "2610.12428v1",
-    "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
-    "authors": [
-      "Saeefa Rubaiyet Nowmi",
-      "Md Mahmuduzzaman Kamol",
-      "Mohammad Saidur Rahman"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "Optimizing Quantum Classifier Depth and Data Size: Adaptive Growth for Better Generalization",
-    "tldr": "Researchers show that reducing trainable gates lowers required training data, while adaptive gate growth stops when loss plateaus. Combining these insights can guide efficient quantum model design.",
-    "significance": "This work informs resource-efficient quantum machine learning by linking circuit complexity to data needs.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d74624c76a612029f4278094fdbdd335",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12427v1",
-    "arxiv_id": "2610.12427v1",
-    "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
-    "authors": [
-      "Yuxuan Hu",
-      "Weikang Shi",
-      "Yang Bo"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-11",
-    "headline": "FastBench: Evaluating Streaming VLMs on High-Dynamic Real-World Video Streams",
-    "tldr": "FastBench introduces a new benchmark that challenges streaming Video Large Language Models to detect fast events in real-world video streams, addressing the limitations of sparse sampling in existing datasets. It evaluates models under bounded context budgets, balancing temporal history, spatial resolution, and temporal granularity.",
-    "significance": "FastBench provides the first rigorous test for streaming VLMs in high-dynamic scenarios, guiding future research toward real-time, continuous video understanding.",
-    "tags": [
-      "benchmark",
-      "real-time",
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8450a92521cefd172b007df6790e1370",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12453v1",
-    "arxiv_id": "2610.12453v1",
-    "title": "Mental-Models for Multi-Agent Systems",
-    "authors": [
-      "Hanan Gani",
-      "Lulu Shao",
-      "Manmohan Chandraker"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "Building Mental Models for Robust Multi-Agent Decision-Making with Foundation Models",
-    "tldr": "Large foundation models enable general-purpose agents to interact via language and multimodal signals, but robust multi-agent decision-making requires reasoning about other agents' knowledge, intentions, and likely actions under partial observability. Current systems rely on prompt design, memory, or end-to-end training, which limits their ability to model complex agent interactions.",
-    "significance": "Understanding and modeling mental states in multi-agent systems is crucial for deploying reliable autonomous agents in real-world, partially observable environments.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "19a4c4533fd04d7c69bd047959cbc000",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.12451v1",
-    "arxiv_id": "2610.12451v1",
-    "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
-    "authors": [
-      "Boyao Han",
-      "Chen Shi",
-      "Jingjing Qian"
-    ],
-    "published": "2026-10-08",
-    "curated_at": "2026-10-10",
-    "headline": "VersaCamVLA: Flexible Camera-Configurable Vision‑Language‑Action for Robotics",
-    "tldr": "Vision‑Language‑Action models struggle when camera setups change, limiting deployment flexibility. VersaCamVLA decouples camera representation from action learning, enabling robust manipulation across varied camera counts and poses.",
-    "significance": "It unlocks reliable VLA robotics in dynamic real‑world environments by removing fixed‑camera constraints.",
-    "tags": [
-      "foundation-models",
-      "object-detection",
-      "real-time"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
