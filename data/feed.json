@@ -1,5 +1,273 @@
 [
   {
+    "uid": "ad42484059292317eca396cdd78c950c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22355v1",
+    "arxiv_id": "2610.22355v1",
+    "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+    "authors": [
+      "Bowei Liu",
+      "Xinchen Zhang",
+      "Xuhuan Li"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "OmniVerifier-C1: Fine-Grained Decomposition of Rule-Governed Generative Visual Verifiers for Robust Multimodal Intelligence",
+    "tldr": "OmniVerifier-C1 introduces a graded verifier that decomposes complex prompts and environmental rules into fine-grained components, moving beyond binary judgments. This approach enhances robustness and compositional reasoning in multimodal generative world modeling.",
+    "significance": "It enables more nuanced verification of generative models, improving reliability in complex multimodal tasks.",
+    "tags": [
+      "LLM",
+      "diffusion-models",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8c6499e546d9e2b735761a1a2acf29dd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22354v1",
+    "arxiv_id": "2610.22354v1",
+    "title": "LSST and Keck characterization of outer Main Belt comet P/2026 N2",
+    "authors": [
+      "Bryce Bolin",
+      "Leo Alcorn",
+      "Max Brodheim"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "LSST and Keck Reveal Persistent Activity of Outer Main Belt Comet P/2026 N2",
+    "tldr": "Using LSST optical data and Keck/LRIS imaging, we tracked comet P/2026 N2’s active morphology across 102 days around perihelion. Dynamical integrations confirm its outer Main Belt orbit and ongoing activity, highlighting the importance of coordinated surveys.",
+    "significance": "This study demonstrates the power of combining wide-field survey data with targeted high-resolution imaging to monitor cometary activity in the outer Main Belt.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "923c74686f27707976a95b05631ac970",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22353v1",
+    "arxiv_id": "2610.22353v1",
+    "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+    "authors": [
+      "Bingcong Li",
+      "Hao Ma",
+      "Michael Muehlebach"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "Rethinking Routing Exploration for Efficient Modern Mixture‑of‑Experts Models in Large Language Systems",
+    "tldr": "The paper critiques existing routing strategies in Mixture‑of‑Experts (MoE) models, highlighting trade‑offs between expressiveness and activation efficiency. It introduces a novel routing exploration technique that balances these factors, achieving better accuracy and speed on standard benchmarks.",
+    "significance": "By redefining how tokens are routed to experts, the study enables larger, more efficient MoE models that can be deployed in real‑world AI applications.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cd2a0572142621bb1b5870fc88c270be",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22352v1",
+    "arxiv_id": "2610.22352v1",
+    "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
+    "authors": [
+      "Chen Yang",
+      "Jiemin Fang",
+      "Fanpeng Meng"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "SUPRA-TEX: Super-Aligned Texture for Realistic 3D Mesh Generation from a Single Image",
+    "tldr": "SUPRA‑TEX introduces a novel approach that aligns texture across views to produce photorealistic, relightable 3D meshes from a single image. By fusing multi‑view predictions without artifacts and preserving fine details through implicit conditioning, it outperforms existing methods on benchmark datasets.",
+    "significance": "It advances single-image 3D reconstruction, enabling high-fidelity, relightable models for applications in AR/VR and digital content creation.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "35b44710aeb576f39790f71b28772e10",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22350v1",
+    "arxiv_id": "2610.22350v1",
+    "title": "FDE-Gym: The Last Mile of AI Delivery",
+    "authors": [
+      "Dongxu Yang",
+      "Hongda Yan",
+      "Renxin Wang"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "FDE-Gym: Benchmarking AI Agents on Real-World Delivery Tasks for Forward-Deployed Engineers",
+    "tldr": "We introduce FDE-Gym, a benchmark of 95 end-to-end delivery tasks spanning 20 customer scenarios, designed to evaluate AI agents in realistic, ambiguous, live-system contexts. This benchmark pushes agents beyond well-specified tasks, requiring clarification of requirements and discovery of unstated constraints.",
+    "significance": "FDE-Gym provides the first large-scale, realistic testbed for AI agents, bridging the gap between controlled benchmarks and real-world engineering deployments.",
+    "tags": [
+      "benchmark",
+      "real-time",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fdfa479d8e0d35f09e2a202691fc2258",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22349v1",
+    "arxiv_id": "2610.22349v1",
+    "title": "Singles in Disguise: Kepler's Low-SNR Single-Transiting Systems as Incompletely Detected Multis",
+    "authors": [
+      "Daniel A. Yahalomi",
+      "David Nesvorny",
+      "David Kipping"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "Kepler Singles May Be Hidden Multiplanet Systems, Not a Separate Population",
+    "tldr": "Kepler’s excess of single transiting planets can be explained by detection biases that miss additional low‑signal planets. The study shows that many singles are actually incomplete detections of multi‑planet systems, challenging the idea of a distinct single‑planet population.",
+    "significance": "This finding reshapes our understanding of planetary system architectures and suggests that apparent single‑planet systems may largely be incomplete multi‑planet systems.",
+    "tags": [
+      "time-series",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f46f668dd0ecf7a3c88fa20e255b965f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22347v1",
+    "arxiv_id": "2610.22347v1",
+    "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
+    "authors": [
+      "Hyunwook Choi",
+      "Seungryong Kim",
+      "Dongyoon Han"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "Speculative Forcing Accelerates Autoregressive Video Generation for Real-Time Streaming without Extra Computation",
+    "tldr": "Speculative Forcing selectively skips the final denoising step for tokens that already converge, reducing compute while maintaining quality. This approach speeds up few-step autoregressive video generators, enabling efficient real-time streaming.",
+    "significance": "It allows video generation models to run faster and more efficiently, making real-time streaming practical.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b960b59ec869e5f999912152b0058b7b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22346v1",
+    "arxiv_id": "2610.22346v1",
+    "title": "Projected sensitivity of a spinor Bose-Einstein condensate comagnetometer to proton monopole-dipole interactions",
+    "authors": [
+      "Wenjing Zhou",
+      "Diego Blas",
+      "Morgan W. Mitchell"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "Spinor BEC Comagnetometer Probes Proton Monopole-Dipole Forces Below Millimeter Scale",
+    "tldr": "The study projects that a spinor Bose-Einstein condensate comagnetometer can directly constrain proton monopole-dipole interactions at sub‑millimeter ranges, surpassing current neutron‑based limits. This sensitivity opens a new window for detecting light spin‑zero bosons that violate parity and time‑reversal symmetry.",
+    "significance": "It provides the first direct laboratory limits on proton‑mediated monopole‑dipole forces at short distances, advancing searches for new physics beyond the Standard Model.",
+    "tags": [
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8be900213a47b8290940d0086d1e8949",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22342v1",
+    "arxiv_id": "2610.22342v1",
+    "title": "Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation",
+    "authors": [
+      "Tianxing Chen",
+      "Wenwei Lin",
+      "Chuqiao Lyu"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "Spark-0: Spatially Aligned Vision‑Tactile Pretraining for Dexterous Robot Manipulation and Control",
+    "tldr": "Spark‑0 introduces a vision‑tactile‑language‑action model that aligns tactile contact maps with image space, enabling robots to learn dexterous manipulation tasks from large‑scale pretraining. The model demonstrates improved performance on contact‑rich tasks and offers an open‑source benchmark for future research.",
+    "significance": "By integrating tactile signals directly into a spatially aligned pretraining framework, Spark‑0 advances the capability of generalist robot policies to handle fine‑grained, contact‑rich manipulation tasks.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0e4f5d50066cd03d995d69286f7dfd0b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22341v1",
+    "arxiv_id": "2610.22341v1",
+    "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+    "authors": [
+      "Yipeng Gao",
+      "Ziyao Zeng",
+      "Jinfa Huang"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "3DCodeVerse: Scalable 3D Content Creation via Coding Agents",
+    "tldr": "We present 3DCodeVerse, an ecosystem that lets coding agents generate editable, verifiable 3D content at scale. It includes a large curated dataset, a harness for spatial reasoning and automated verification, and practical guidance for 3D coding.",
+    "significance": "3DCodeVerse enables rapid, reliable development of complex 3D scenes, accelerating research and applications in virtual worlds and simulation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7c337647aee3b32c663b5c096d317dd5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.22340v1",
+    "arxiv_id": "2610.22340v1",
+    "title": "Dexterity from Supervised Play",
+    "authors": [
+      "Botao He",
+      "Yiming Dou",
+      "Yiannis Aloimonos"
+    ],
+    "published": "2026-10-15",
+    "curated_at": "2026-10-18",
+    "headline": "Robots Learn Dexterity by Playing: Autonomous Data Collection via Supervised Play",
+    "tldr": "DSP trains a play policy from minutes of human play using behavior cloning, then lets the robot autonomously gather hours of interaction data to build a world model. During deployment, the same play policy guides the robot to perform dexterous tasks in real time.",
+    "significance": "This approach dramatically reduces the data needed to train robots for complex manipulation, enabling rapid, scalable skill acquisition.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "d4446b2d5754997795eb525cfaead966",
     "source": "web",
     "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
@@ -1132,252 +1400,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "fe4138f9163054040a2e4bd8efbbb868",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18861v1",
-    "arxiv_id": "2610.18861v1",
-    "title": "Hybrid Reasoning Agents",
-    "authors": [
-      "Jiaru Zou",
-      "Yunzhe Qi",
-      "Sirui Chen"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "Hybrid Reasoning Agents: Bridging Latent Thought and Textual Interaction for Real-World Action",
-    "tldr": "Hybrid Reasoning Agents combine efficient internal latent reasoning with transparent text-based LLM interactions. This hybrid approach allows agents to navigate between internal thought processes and external tool access, enabling real-world action with clear reasoning traces.",
-    "significance": "They offer a scalable path to create AI agents that can reason deeply yet remain interpretable and actionable in real-world contexts.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0ae04782ea592f2255969818cd1933f9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13936v1",
-    "arxiv_id": "2610.13936v1",
-    "title": "A Warped Born Rule Turns an Observer into a Maxwell's Demon",
-    "authors": [
-      "Olumakinde Ogunnaike"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Warping the Born Rule: Turning Quantum Observers into Maxwell’s Demons",
-    "tldr": "By raising the Born rule exponent to 2b, the authors uncover dramatic many‑body effects that mimic Maxwell’s demon behavior. The study shows how even small deviations from standard quantum probabilities can produce unphysical, demon‑like information extraction.",
-    "significance": "The work highlights the extreme sensitivity of quantum theory to its foundational postulates, with implications for both theoretical consistency and potential quantum thermodynamic applications.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "71ca38229c0b895e1462157325de7ae2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13934v1",
-    "arxiv_id": "2610.13934v1",
-    "title": "A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games",
-    "authors": [
-      "Yeva Gevorgyan",
-      "Diogo Gomes"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Extragradient Preconditioner Accelerates Mean Field Game Price Formation",
-    "tldr": "We propose a Riesz-map preconditioned extragradient algorithm for a first-order price-formation mean field game, coupling HJB and transport equations under a market-clearing constraint. The method converges efficiently on a truncated domain thanks to finite propagation, offering a robust monotone weak formulation.",
-    "significance": "This advances computational efficiency in mean field game models for economic price dynamics.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "75bc326c32c4c621c8e61691523d39da",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13933v1",
-    "arxiv_id": "2610.13933v1",
-    "title": "The Haagerup VOA at $c=8$",
-    "authors": [
-      "Andrew Riesen"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Constructing the Haagerup Vertex Operator Algebra at Central Charge Eight",
-    "tldr": "We present an explicit construction of a unitary, strongly rational VOA of central charge 8 inside the lattice VOA V_{E6⊕A2}. Its representation category is ribbon equivalent to the Drinfeld center of the Haagerup fusion category, realizing the Haagerup double.",
-    "significance": "This construction provides the first concrete realization of the Haagerup double in a unitary VOA, bridging subfactor theory and conformal field theory.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "449efb674d43ea0359695e6d27b92a08",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13931v1",
-    "arxiv_id": "2610.13931v1",
-    "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
-    "authors": [
-      "Kosio Beshkov"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Bounding Topological Expressivity of Neural Networks: Constructive Betti Number Limits",
-    "tldr": "This paper establishes constructive bounds on the Betti numbers of decision boundaries in neural networks, linking topological complexity to network architecture. It provides theoretical limits that help gauge expressivity for classification tasks.",
-    "significance": "It offers a rigorous framework to quantify how network depth and width constrain the topological complexity of decision surfaces.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6e6a1fc7ca2cf308ff3dceb630954dcb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13930v1",
-    "arxiv_id": "2610.13930v1",
-    "title": "The LZ inelastic splitting as a probe of anomaly mediation",
-    "authors": [
-      "Seung J. Lee",
-      "Taewook Youn"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "LZ Inelastic Splitting Probes Anomaly Mediation in Dark Matter Models",
-    "tldr": "The LZ 248 keV recoil candidate can be interpreted as pseudo‑Dirac dark matter with a suppressed inelastic Z interaction. By building an R‑symmetric MRSSM spectrum, the authors reconcile the necessary mass degeneracy and solar‑neutrino limits, providing a concrete test of anomaly‑mediated supersymmetry.",
-    "significance": "It shows how direct‑detection data can probe high‑scale supersymmetry breaking mechanisms.",
-    "tags": [
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "84bbd025f7868c26ffd8f86f84a7e16f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13929v1",
-    "arxiv_id": "2610.13929v1",
-    "title": "Chronos Policy: Learning Robot Policies on Physical Time",
-    "authors": [
-      "Changhao Wang",
-      "Jaden Clark",
-      "Shuran Song"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Chronos Policy: Explicit Physical Time Modeling for Robust Robot Control Under Variable Observation Rates",
-    "tldr": "We propose Chronos Policy, a framework that conditions robot control on actual capture and execution times, addressing issues caused by variable observation rates and inference latency. Experiments show improved performance and robustness compared to fixed-rate policies.",
-    "significance": "By making physical time explicit, Chronos Policy enables robots to operate reliably in real-world settings with irregular sensing and processing delays.",
-    "tags": [
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0b2599b4d0fa0bfc60a6e0baa20bbdb8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13928v1",
-    "arxiv_id": "2610.13928v1",
-    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-    "authors": [
-      "Andis Draguns",
-      "Sumeet Ramesh Motwani",
-      "Raymond Douglas"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Hidden Neural Networks: Backdoor Attacks Reveal Concealed Model Capabilities in Deep Learning",
-    "tldr": "Researchers demonstrate that backdoor attacks can embed encrypted neural networks into host models, enabling hidden capabilities that activate only with a secret trigger. This challenges the assumption that capability evaluations can always uncover dangerous behaviors, raising concerns for AI safety and deployment.",
-    "significance": "The study reveals that current safety testing may miss malicious hidden functions, undermining trust in AI deployment.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2a93fc958e3c85784abbe26c0bb2fba3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13926v1",
-    "arxiv_id": "2610.13926v1",
-    "title": "Adiabatic evolution of hadronic neutron stars",
-    "authors": [
-      "Domenico Logoteta",
-      "Francesco Zeno Constanzo",
-      "Ignazio Bombaci"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Adiabatic Evolution of Hadronic Neutron Stars: Structural Insights under Finite-Temperature Conditions",
-    "tldr": "We compute static and rotating neutron star properties using a finite-temperature, beta-stable EOS that includes hyperons and trapped neutrinos. The study shows how adiabatic evolution influences mass, radius, and spin dynamics.",
-    "significance": "This work provides a comprehensive framework linking microphysical EOS details to observable neutron star characteristics, aiding in interpreting future gravitational-wave and pulsar timing data.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e12a6ecff136c8a4e7ff4a7fd7998347",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13925v1",
-    "arxiv_id": "2610.13925v1",
-    "title": "Can machines reason non-verbally?",
-    "authors": [
-      "Shaheer U. Saeed",
-      "Zion Tse",
-      "Gregory Slabaugh"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Can AI Truly Reason Without Words? The Limits of Visual Non-Verbal Understanding",
-    "tldr": "Large language models excel at language and logic but falter on visual non-verbal tasks like pattern completion and ambiguous region delineation. Even state‑of‑the‑art systems such as DeepSeek, ChatGPT, and Gemini struggle to bridge the gap between textual reasoning and visual inference.",
-    "significance": "Understanding these limitations is crucial for developing AI that can seamlessly integrate language and visual cognition.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "000248cb556cbf5919fc209109a1bc8f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.13924v1",
-    "arxiv_id": "2610.13924v1",
-    "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
-    "authors": [
-      "Tianyi Wu"
-    ],
-    "published": "2026-10-09",
-    "curated_at": "2026-10-13",
-    "headline": "Parallel Sampling Complexity: A KL Divergence Separation in Round-Complexity Proof",
-    "tldr": "We show that averaging KL divergence over random schedules yields a strictly larger value than the KL divergence to the averaged output distribution, establishing a round-complexity separation for parallel samplers. This result highlights the power of randomizing coordinate generation schedules in reducing sample complexity.",
-    "significance": "The result demonstrates that random schedule selection can fundamentally improve parallel sampling efficiency, providing a theoretical foundation for designing faster samplers.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
