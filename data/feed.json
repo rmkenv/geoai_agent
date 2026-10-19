@@ -1,5 +1,270 @@
 [
   {
+    "uid": "266f5ba9fc55a2b4469fde9eafeac19b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23856v1",
+    "arxiv_id": "2610.23856v1",
+    "title": "Learning to Correct Geometry in Generated Videos",
+    "authors": [
+      "Weijie Lyu",
+      "Tiancheng Shen",
+      "Jason Li"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Fixing Geometric Drift in Video Generation: Data-Driven Corrections for Consistent Viewpoints",
+    "tldr": "Generated videos often lose geometric consistency under camera motion, causing warped structures and inconsistent parallax. This paper shows that the issue stems mainly from data biases and proposes a data-driven correction method that restores spatial coherence.",
+    "significance": "Improving geometric fidelity in video synthesis enhances realism and reliability for downstream applications like AR/VR and visual storytelling.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6df0bdc54a78273a3a79c2afca768955",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23854v1",
+    "arxiv_id": "2610.23854v1",
+    "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+    "authors": [
+      "Soumik Mukhopadhyay",
+      "Long Mai",
+      "Abhinav Shrivastava"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Pixel Diffusion Transformers: Direct Image Generation Without Latent Bottlenecks in Pixel Space",
+    "tldr": "JiT demonstrates that a vanilla diffusion transformer can generate images directly in pixel space by replacing the usual velocity prediction with clean image prediction. This eliminates the need for a lossy latent bottleneck and a separately trained autoencoder, simplifying the pipeline.",
+    "significance": "This approach streamlines diffusion-based image synthesis, potentially improving fidelity and reducing computational overhead.",
+    "tags": [
+      "diffusion-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "181e63fb7da11963c113a776a9245104",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23852v1",
+    "arxiv_id": "2610.23852v1",
+    "title": "Flashing with colours: Photometric indicators of an early interaction in type II supernovae",
+    "authors": [
+      "A. Mendez-Llorca",
+      "G. Folatelli",
+      "C. P. Gutierrez"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Early Interaction Signals in Type II Supernovae Revealed by Rapid Photometry",
+    "tldr": "We combine near-daily, high-precision optical photometry of 86 type II supernovae to identify early photometric signatures of circumstellar interaction. The study demonstrates that early color evolution can serve as a diagnostic for progenitor mass loss and explosion physics.",
+    "significance": "This work provides a new, statistically robust method to probe early supernova environments, informing models of massive star evolution.",
+    "tags": [
+      "time-series",
+      "change-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "946dc180e316ec78e89baa7d94aef378",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23851v1",
+    "arxiv_id": "2610.23851v1",
+    "title": "Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
+    "authors": [
+      "Ethan Myers",
+      "Lorenzo De Carli",
+      "Shantanu Sharma"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Unveiling Consent Gaps: 10,000+ mHealth Apps Exposed and Data Practices Revealed",
+    "tldr": "We analyzed consent and data collection across 10,000+ mHealth apps on Google Play, revealing widespread privacy gaps and inconsistent data handling. The study highlights the need for stricter regulations and better transparency in mobile health applications.",
+    "significance": "This work provides the first large-scale evidence of privacy shortcomings in mHealth apps, informing policymakers and developers.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 1,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cf2a752c3689bd5c90e67be8ffb76a2a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23850v1",
+    "arxiv_id": "2610.23850v1",
+    "title": "Entering the Era of Circumplanetary Ring Detection with Direct Imaging",
+    "authors": [
+      "Samantha N. Hasler",
+      "Alexandra Z. Greenbaum",
+      "Geoffrey Bryden"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Detecting Exoplanet Rings: A New Frontier in Direct Imaging Observations",
+    "tldr": "Rings around giant planets are common in our Solar System, but detecting them around exoplanets remains challenging. Upcoming missions like the Nancy Grace Roman Space Telescope will need to account for ring effects to accurately interpret reflected light data.",
+    "significance": "Understanding circumplanetary rings is essential for correctly characterizing exoplanet atmospheres and potential habitability.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning",
+      "object-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9252d753c247899a3828c17ecc415598",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23849v1",
+    "arxiv_id": "2610.23849v1",
+    "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
+    "authors": [
+      "Antonia Bronars",
+      "Younghyo Park",
+      "Kushal Kedia"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Proprioceptive Sim-to-Real Peg-in-Hole: Blind Precise Assembly Using Joint Sensors for Diverse Parts",
+    "tldr": "This work demonstrates that high-resolution joint encoders alone can guide a robot to perform millimeter-scale peg-in-hole tasks without visual feedback. By training a proprioceptive policy in simulation and transferring it to real hardware, the robot reliably aligns and inserts diverse parts under blind conditions.",
+    "significance": "It shows that proprioception can replace vision for fine assembly, reducing cost and complexity in robotic manufacturing.",
+    "tags": [
+      "object-detection",
+      "real-time",
+      "point-cloud",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ac3b77449a7dedd892d738fe163cd3b9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23847v1",
+    "arxiv_id": "2610.23847v1",
+    "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+    "authors": [
+      "Dongyoon Hahm",
+      "Woogyeol Jin",
+      "Dennis Wei"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Fine-Tuning Sparks Unexpected Behaviors and Synergies in Large Language Models",
+    "tldr": "Fine-tuning LLMs can trigger unintended behaviors, revealing behavioral couplings. This study maps these emergent effects.",
+    "significance": "Understanding behavioral couplings informs safer model fine-tuning practices.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e1682b30ee0abcd2f3962432404484d1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23846v1",
+    "arxiv_id": "2610.23846v1",
+    "title": "Identifiability from Moments in Independent Component Analysis Mixture Models",
+    "authors": [
+      "Pardis Semnani",
+      "Konstantin Usevich",
+      "Elina Robeva"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Unveiling Identifiability in ICA Mixture Models via Moment Analysis for Statistical Modeling",
+    "tldr": "This paper demonstrates that ICA mixture models, which generalize Gaussian mixtures, can be uniquely identified from their moments under broad conditions. The authors provide theoretical guarantees and illustrate the implications for nonparametric density estimation.",
+    "significance": "By establishing moment-based identifiability, the work bridges a gap between ICA theory and practical mixture modeling, enabling more reliable inference in high-dimensional data.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "984aa00ca3fb2a30985c38de40e29e98",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23845v1",
+    "arxiv_id": "2610.23845v1",
+    "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+    "authors": [
+      "Shicheng Liu",
+      "Krista Opsahl-Ong",
+      "Andrew Drozdov"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "LLM Agents Automate Reproducibility and Robustness in Cancer Research Using SEER",
+    "tldr": "We demonstrate that large language model agents can automatically reproduce and assess the analytical robustness of scientific findings, reducing manual effort. In a case study on SEER cancer data, the agents replicated key analyses and identified potential biases, showcasing a scalable approach to reproducibility.",
+    "significance": "This work shows that LLM agents can transform reproducibility from a labor-intensive task into an automated, scalable process, accelerating scientific discovery.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4ad243d2c0d9000dda90e1c990e1f8bb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23844v1",
+    "arxiv_id": "2610.23844v1",
+    "title": "ModeCast: One-Shot Prediction of Linear MHD Eigenmodes and Growth Rates in Tokamaks",
+    "authors": [
+      "Alex Higginbottom",
+      "Zara Z. Ercan",
+      "Abetharan Antony"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "ModeCast: Rapid One-Shot Prediction of Tokamak MHD Instabilities Using Machine Learning",
+    "tldr": "ModeCast delivers instant linear stability assessments for tokamak plasmas, replacing hours-long simulations. Trained on thousands of JOREK runs, it predicts eigenmodes and growth rates in a single forward pass.",
+    "significance": "By enabling real-time stability analysis, ModeCast accelerates fusion design cycles and reduces computational costs.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1511b23f35b14e055a94611d4b1ed257",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.23841v1",
+    "arxiv_id": "2610.23841v1",
+    "title": "StopWatch: Goal Grounding for Object-goal Navigation",
+    "authors": [
+      "Xinhao Liu",
+      "Yunsheng Tian",
+      "Yuheng Qiu"
+    ],
+    "published": "2026-10-16",
+    "curated_at": "2026-10-19",
+    "headline": "Diagnosing Goal Grounding Failures in Vision‑Language Model Navigation for Object‑Goal Tasks",
+    "tldr": "Fine‑tuned vision‑language models excel at exploration but struggle to correctly ground target objects, limiting success in object‑goal navigation. Our study pinpoints goal grounding as the primary bottleneck and suggests targeted improvements.",
+    "significance": "Understanding the root cause of low success rates in VLM‑based navigation guides the development of more reliable autonomous agents.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "object-detection",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "ad42484059292317eca396cdd78c950c",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.22355v1",
@@ -1139,266 +1404,6 @@
       "time-series"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "384653f461999043a496b135a98c527b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20593v1",
-    "arxiv_id": "2610.20593v1",
-    "title": "The $\\mathrm{U}$-Derivative Associated with Linear Recurrence Sequences",
-    "authors": [
-      "Ronald Orozco López"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "Introducing the U-Derivative: A Spectral Operator for Linear Recurrence Sequences",
-    "tldr": "We define a canonical U-derivative operator for linear recurrence sequences with distinct roots, using a spectral Binet operator built from dilation operators. This construction yields a new tool for analyzing and manipulating such sequences in a unified algebraic framework.",
-    "significance": "This operator provides a systematic way to differentiate and study recurrence sequences, potentially simplifying proofs and enabling new applications in discrete dynamical systems.",
-    "tags": [
-      "time-series",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0b4e1ec84cea617201f8b720997ff8d0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18874v1",
-    "arxiv_id": "2610.18874v1",
-    "title": "ChunkAct: Action Chunking for Agentic Robotics",
-    "authors": [
-      "Bingxin Xu",
-      "Wenrui Bao",
-      "Xinxin Liu"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "ChunkAct: Reducing LLM Overhead in Agentic Robotics via Action Chunking",
-    "tldr": "ChunkAct introduces action chunking to cut LLM reasoning cycles in agentic robotics, improving efficiency without sacrificing generality. By grouping related actions, the system reduces the need to process the entire interaction history for each primitive.",
-    "significance": "This method enables real-time, generalizable robotic control with large language models, addressing a key bottleneck in agentic robotics.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "66afbf5d46d36ff9771fe86f5a5d2376",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18873v1",
-    "arxiv_id": "2610.18873v1",
-    "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
-    "authors": [
-      "Wenxuan Guo",
-      "Yingping Liang",
-      "Zhaoguo Wang"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "LoopWAM: Closed-Loop Policy Improvement Using Real-World Deployment Rollouts for Generalist Robot Policies",
-    "tldr": "LoopWAM introduces a closed-loop world-action model that learns from both successes and failures in real-world rollouts, avoiding the pitfalls of naive imitation. By integrating this model into policy training, generalist robot policies can improve continuously without discarding valuable failure data.",
-    "significance": "This approach enables robust, data-efficient learning for generalist robots, overcoming the limitations of demonstration-only training.",
-    "tags": [
-      "real-time",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "febd0cee4573eabb3930a6acd48bb255",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18870v1",
-    "arxiv_id": "2610.18870v1",
-    "title": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
-    "authors": [
-      "Reyhaneh Esmailizadeh",
-      "Xingjian Leng",
-      "Zhanhao Liang"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "MiniDog: Rapid Diffusion Transformer Training on Consumer GPUs for Dog-Breed Text-to-Image Generation",
-    "tldr": "MiniDog framework trains diffusion transformers in under an hour and fine-tunes them in 15 minutes on just four RTX 3090 GPUs. This makes state‑of‑the‑art text‑to‑image models accessible to researchers and hobbyists without large compute clusters.",
-    "significance": "It democratizes diffusion model training, enabling rapid prototyping on commodity hardware.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6b4c0a76569a9941dcbf79aaa22b27e9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18869v1",
-    "arxiv_id": "2610.18869v1",
-    "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-    "authors": [
-      "Mingxuan Yan",
-      "Litian Gong",
-      "Dihong Huang"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "Improving VLA Pretraining with Quality-Aware Demonstrations",
-    "tldr": "The study investigates how to leverage demonstration quality during vision‑language‑action pretraining, comparing weighting, filtering, and conditioning strategies across reward definitions and label granularities. Using 5,000 suboptimal human demos and 24 downstream tasks, the authors show that conditioning on quality yields the best fine‑tuning performance.",
-    "significance": "It provides a systematic benchmark for selecting demonstration quality strategies in VLA models, guiding future research on efficient pretraining.",
-    "tags": [
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2c1f1bb46a1ad8a3389ee864fc5b95da",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18868v1",
-    "arxiv_id": "2610.18868v1",
-    "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-    "authors": [
-      "Wenbo Hu",
-      "Shraman Pramanick",
-      "Krishna Kumar Singh"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "Scaling Long-Horizon Agents with Dense Progress Rewards",
-    "tldr": "The paper introduces Tev, a framework for training long-horizon agents using dense progress rewards, enabling scalable learning on complex tasks. It demonstrates improved performance on benchmark tasks and offers an open-source recipe for scaling.",
-    "significance": "Tev provides a practical recipe for scaling long-horizon agent training, addressing data and recipe gaps in current open-source models.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "238063bc7bcd3a10d1cceba61c5de3cd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18867v1",
-    "arxiv_id": "2610.18867v1",
-    "title": "EmbodiedEvo: Self-improving Coding Agents for Physical Intelligence",
-    "authors": [
-      "Wenyi Li",
-      "Yizhe Chi",
-      "Youjie Zheng"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "EmbodiedEvo: Self-Improving Coding Agents Bringing General-Purpose Control to Physical Worlds",
-    "tldr": "EmbodiedEvo introduces a framework where agents write and refine code to control physical systems, making logic explicit and reusable. By treating code as both policy and workspace, agents can iteratively improve their behavior in real-time environments.",
-    "significance": "This approach bridges the gap between abstract vision-language models and tangible robotic control, enabling more transparent, adaptable, and self‑learning agents.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "76a639c2d27ebb19ec551f2f6f2af628",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18864v1",
-    "arxiv_id": "2610.18864v1",
-    "title": "Simulations of the Evolving Ozone Layer: Implications for the Early Earth, Exoplanets, and the Search For Life",
-    "authors": [
-      "Akhil Kumar",
-      "Gregory J. Cooke"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "Modeling Ozone Evolution Illuminates Early Earth, Exoplanet Habitability, and Life Search",
-    "tldr": "Scientists simulate the rise of Earth's ozone layer over billions of years, revealing how increased oxygen allowed a protective shield to form. These models help assess exoplanet atmospheres and guide the search for life beyond Earth.",
-    "significance": "Understanding ozone development informs both Earth's climate history and the criteria for habitable exoplanets.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "89aef7f5b560de747bbc9fe36bc2ac9f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18863v1",
-    "arxiv_id": "2610.18863v1",
-    "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
-    "authors": [
-      "Dennis Grinwald",
-      "Ankur Singha",
-      "Khaled Kahouli"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "Data-Free Diffusion Models Accelerate Sampling in Lattice Field Theories without Target Samples",
-    "tldr": "The paper introduces a data‑free training objective for diffusion models that eliminates the need for equilibrium samples in lattice field theory. This approach promises faster, independent configuration generation, potentially overcoming a long‑standing computational bottleneck.",
-    "significance": "By removing the dependence on target samples, the method could dramatically reduce the cost of Monte Carlo simulations in high‑energy physics.",
-    "tags": [
-      "diffusion-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a5fd6012226342e6e675e116a540f0ef",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18862v1",
-    "arxiv_id": "2610.18862v1",
-    "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-    "authors": [
-      "Minghao Luo",
-      "Liang Chen"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "DoubtLess: A Training-Free Contrastive Decoding Technique for Efficient LLM Reasoning",
-    "tldr": "DoubtLess introduces a contrastive decoding strategy that eliminates the need for additional training while shortening chain-of-thought generation. The method achieves comparable accuracy to existing techniques while reducing token usage and decoding time.",
-    "significance": "It enables more efficient and accurate reasoning in large language models without extra training overhead.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f069f1c7f1e47f744da4be9a745a31d5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.18860v1",
-    "arxiv_id": "2610.18860v1",
-    "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
-    "authors": [
-      "Xin Gao",
-      "Yifan Yang",
-      "Xin Li"
-    ],
-    "published": "2026-10-13",
-    "curated_at": "2026-10-14",
-    "headline": "AesCode: Generating Aesthetic Slides and Dashboards via Cross‑Modal Reward Models",
-    "tldr": "AesCode trains a code generation model with decoupled visual rewards, enabling it to produce layout‑aware slides and dashboards. By combining LLMs with diffusion‑based visual feedback, it balances content fidelity and aesthetic quality.",
-    "significance": "It bridges the gap between structured code generation and visual design, improving automated creation of information‑rich artifacts.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
