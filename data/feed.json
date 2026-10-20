@@ -1,5 +1,246 @@
 [
   {
+    "uid": "8470a38410ad8d28a512311bba2edc51",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26863v1",
+    "arxiv_id": "2610.26863v1",
+    "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+    "authors": [
+      "Keshigeyan Chandrasegaran",
+      "Yue Zhao",
+      "Armin W. Thomas"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "Halcyon: Strong Text-to-Image Generation Without Language Pretraining From Scratch on 100M Image-Text Pairs",
+    "tldr": "Halcyon demonstrates that large multimodal autoregressive models can be trained from scratch on a 100M image-text dataset, achieving superior performance to models that rely on internet-scale language pretraining. The 0.52B parameter variant surpasses LlamaGen-XL/8 by a significant margin in image quality metrics.",
+    "significance": "This work challenges the prevailing assumption that language pretraining is essential for high-quality text-to-image generation, opening new avenues for efficient multimodal model training.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fba5dbf1c5551ffea2e2ab32fafcc975",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26860v1",
+    "arxiv_id": "2610.26860v1",
+    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "authors": [
+      "Yu Zhou",
+      "Cheng-Fu Yang",
+      "Rui Sun"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "OpenVLHarness Empowers Visual Agents with Multimodal Memory for Real-World Tool Use",
+    "tldr": "OpenVLHarness demonstrates that multimodal memory enables large language models to perform complex visual tasks that require external evidence and numerical measurements. Our study on 22 benchmarks shows that merely increasing inference time is insufficient, highlighting the need for grounded perception and external knowledge.",
+    "significance": "This work reveals the limitations of current MLLMs and introduces a framework that bridges the gap between internal reasoning and real-world perception, advancing tool-use capabilities.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1eab4a9a09a91205425e2e6a8ecf296f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26859v1",
+    "arxiv_id": "2610.26859v1",
+    "title": "Boundary-Sensitive Quantum Order on Non-Amenable Lattices",
+    "authors": [
+      "Xingzhi Wang",
+      "Zohar Nussinov",
+      "Gerardo Ortiz"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "Quantum Order Emerges on Non-Amenable Lattice Boundaries in Cayley Tree Systems",
+    "tldr": "Using boundary-preserving iDMRG and a symmetry-fixing duality, we uncover a novel bulk ordering in p<5 clock models on the infinite Cayley tree, a non-amenable lattice. This ordering appears between the conventional ordered and disordered phases, highlighting the unique role of extensive boundaries.",
+    "significance": "The discovery demonstrates that non-amenable lattices can host bulk phases without Euclidean analogues, opening new avenues for quantum many-body physics.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2a6a7d437fc24e4b5d45fffec002278f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26857v1",
+    "arxiv_id": "2610.26857v1",
+    "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+    "authors": [
+      "Sangbeom Lim",
+      "Seoung Wug Oh",
+      "Heeji Yoon"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "VideoMaMa++: Achieving Temporal Consistency in Video Matting with Preserve-and-Refine Tokens",
+    "tldr": "VideoMaMa++ introduces a preserve-and-refine token strategy to maintain temporal coherence across video frames, overcoming the short inference window of diffusion-based matting models. The method enables efficient, real‑time matting for full-length videos while preserving high-quality alpha mattes.",
+    "significance": "By extending diffusion-based matting to longer sequences with temporal consistency, VideoMaMa++ paves the way for practical, high‑fidelity video editing and compositing in real‑time applications.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5010b602fb39101cc19f872b645cf006",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26855v1",
+    "arxiv_id": "2610.26855v1",
+    "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+    "authors": [
+      "Tianqi Liu",
+      "Hanfei Zhao",
+      "Qifeng Liang"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "Ropedia W0: First Loco-Manipulation Foundation Model for Humans and Robots",
+    "tldr": "Ropedia W0 introduces an egocentric world model that jointly learns locomotion and manipulation across diverse embodiments, bridging humans and robots. The model is trained on the newly curated Xp-Data, offering a benchmark for future loco-manipulation research.",
+    "significance": "It provides a unified foundation for embodied agents to anticipate action consequences across heterogeneous action spaces, advancing cross-embodiment AI.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ec437e2f23099534d3b05064005f0cf0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26854v1",
+    "arxiv_id": "2610.26854v1",
+    "title": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
+    "authors": [
+      "Jiaming Liu",
+      "Xinghao Zhu",
+      "Yiming Zhang"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "Bridging Language and Latent Reasoning: Physical Words for Robot Manipulation",
+    "tldr": "Multimodal reasoning equips robotic foundation models with predictive context, yet language-based reasoning lacks fine-grained physical dynamics. Introducing a structured vocabulary of physical words unifies latent state evolution with reusable reasoning primitives for robust robot manipulation.",
+    "significance": "This work provides a foundational framework that integrates language semantics with latent dynamics, enabling more reliable and reusable robotic manipulation strategies.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7593646411f87d41a9a5864d95bcd590",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26847v1",
+    "arxiv_id": "2610.26847v1",
+    "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+    "authors": [
+      "Rui Shi",
+      "Xunjian Yin",
+      "Jiacheng Sang"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "Dynamic Weight Switching: A New Agent Action for Long-Horizon Learning",
+    "tldr": "Long-horizon agents often forget earlier skills when learning new ones. Dynamic weight switching lets agents activate different capability modules at each trajectory stage, mitigating catastrophic forgetting.",
+    "significance": "This approach enables agents to retain and flexibly deploy heterogeneous skills without retraining the entire model.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "60b697188b12933ddcb7c5f97054e27d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26846v1",
+    "arxiv_id": "2610.26846v1",
+    "title": "GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation",
+    "authors": [
+      "Chen Yang",
+      "Linzhe Shi",
+      "Hang Zhang"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "GPT-6 Astra Enables Real-Time Visuo‑Tactile Control for Contact‑Rich Robotic Manipulation",
+    "tldr": "GPT-6 Astra, a multimodal foundation model, demonstrates the first direct use of tactile observations for contact‑rich robotic manipulation via in‑context learning. This breakthrough shows that large language models can handle complex sensor fusion tasks in real‑time, opening new possibilities for versatile robotic control.",
+    "significance": "It proves that large multimodal models can replace specialist tactile policies, simplifying the development of adaptable, real‑time robotic systems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "deaaa426cea6ad97daa6d50a9d92587f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26845v1",
+    "arxiv_id": "2610.26845v1",
+    "title": "Train An Imaginative Agent",
+    "authors": [
+      "Jiaxin Ge",
+      "Junyi Zhang",
+      "Tianning Chai"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "Training Agents to Imagine Before Acting: A New Framework for Sokoban",
+    "tldr": "We propose Agentic Imagination (Agima), a training framework that encourages agents to simulate consequences before acting. This approach reduces irreversible mistakes in sparse-feedback environments like Sokoban.",
+    "significance": "Agima enables agents to anticipate and avoid unsolvable states, improving reliability in planning tasks.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a25bcb0fc30d7aa3074cbcef8f169fea",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.26844v1",
+    "arxiv_id": "2610.26844v1",
+    "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+    "authors": [
+      "Heejeong Nam",
+      "Divyat Mahajan",
+      "Quentin Le Lidec"
+    ],
+    "published": "2026-10-19",
+    "curated_at": "2026-10-20",
+    "headline": "Generalizing World Models Beyond Expert Rollouts: Improving Dynamics for Reliable Planning",
+    "tldr": "World models aim to capture environment dynamics for planning, but they often fail outside expert rollouts. This paper investigates how data coverage affects generalization and proposes methods to improve robustness.",
+    "significance": "The work highlights a critical bottleneck in deploying world models for real-world decision making, offering insights that could broaden their applicability.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "266f5ba9fc55a2b4469fde9eafeac19b",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.23856v1",
@@ -1161,247 +1402,6 @@
       "foundation-models",
       "real-time",
       "urban-AI"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4a6e4fe5b5fddbc0e77fa8bf5b85d1b2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20606v1",
-    "arxiv_id": "2610.20606v1",
-    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
-    "authors": [
-      "Huixuan Cheng",
-      "Bike Zhang",
-      "Shankar Sastry"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "Diffusion Models Unveil Neural Weight Distributions for Humanoid Control Policies",
-    "tldr": "Researchers apply diffusion models to learn the distribution of neural weights in humanoid control networks, enabling generation of functional policies without explicit training. This approach offers insights into policy structure and opens avenues for rapid deployment and adaptation.",
-    "significance": "By modeling weight distributions, the study provides a scalable method to generate and analyze humanoid policies, potentially accelerating robot learning and deployment.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0f3eba0c4a52fb92100ab3506f2d058f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20608v1",
-    "arxiv_id": "2610.20608v1",
-    "title": "Representation Conditioning for Generation",
-    "authors": [
-      "Saeed Razavi",
-      "Xingjian Leng",
-      "Liang Zheng"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "Accelerating Diffusion Transformers with Vision Encoder Representation Alignment for Image Generation Tasks",
-    "tldr": "Representation-alignment methods speed up diffusion transformer training by importing semantics from a pretrained vision encoder. REPA, for example, uses an MLP projection head to supervise intermediate layers, discarding the head after training to embed richer visual features into the diffusion backbone.",
-    "significance": "This approach enables faster, more semantically grounded diffusion models without additional inference overhead.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "723edf4d21d9e7434120b5298ddddd5e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20607v1",
-    "arxiv_id": "2610.20607v1",
-    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-    "authors": [
-      "Zhefei Gong",
-      "Hefeifei Jiang",
-      "Zehao Wang"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "Hierarchical Residual Policy Learning Enables Real-World Mobile Manipulation with Sparse Human Guidance",
-    "tldr": "We introduce HiRe-MoMa, a hierarchical residual policy framework that stabilizes and accelerates real‑world fine‑tuning of mobile manipulation systems. By leveraging sparse human demonstrations and modular residual learning, the method achieves sample‑efficient adaptation across high‑dimensional action spaces.",
-    "significance": "This work bridges the gap between simulation and deployment, enabling rapid, data‑efficient adaptation of complex robotic manipulation pipelines in real environments.",
-    "tags": [
-      "real-time",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c8b536465a195abcaf3b33cc5f71333a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20605v1",
-    "arxiv_id": "2610.20605v1",
-    "title": "Nodal nematic superconductivity in moiré graphene",
-    "authors": [
-      "Shuwen Sun",
-      "Grgur Palle",
-      "Kenji Watanabe"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "Moiré Graphene Hosts Nodal Nematic Superconductivity, Revealing Rotational Symmetry Breaking",
-    "tldr": "Recent experiments on moiré graphene layers have uncovered nodal nematic superconductivity, a state where the superconducting gap vanishes along lines while simultaneously breaking rotational symmetry. This discovery provides a new platform to study exotic pairing mechanisms beyond conventional s‑wave superconductors.",
-    "significance": "It opens a promising avenue for exploring unconventional superconductivity mechanisms and could inform the design of next‑generation quantum materials.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8f97633605538808bcd4cdb2fa5ee253",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20604v1",
-    "arxiv_id": "2610.20604v1",
-    "title": "VITAL: From Visual Motion to Precise Action",
-    "authors": [
-      "Ao Liang",
-      "Youquan Liu",
-      "Mingxiao Li"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "From Visual Motion to Precise Action: Training Driving Models Directly on Visual Dynamics",
-    "tldr": "VITAL proposes deriving action targets directly from visual motion, bypassing separate trajectory representations. By reconstructing trajectories from future images, the model learns to anticipate driving decisions in real time.",
-    "significance": "This approach bridges the gap between visual perception and action planning, enabling more accurate and responsive autonomous driving systems.",
-    "tags": [
-      "urban-AI",
-      "time-series",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "74e20f8ac8c6f7081ecf014529670e80",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20603v1",
-    "arxiv_id": "2610.20603v1",
-    "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
-    "authors": [
-      "Xiaoli Xu",
-      "Zhengtao Wu",
-      "Zhengze Xu"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "CommerceGen-Studio: End-to-End Framework for Commercial-Grade Main Image Generation",
-    "tldr": "CommerceGen-Studio introduces a three-stage pipeline—information extraction, semantic rewriting, and multi-condition generation—to produce high-quality main images for e-commerce SKUs. The PERL-Agent distills heterogeneous metadata into concise selling-point text lists, enabling efficient and scalable image creation.",
-    "significance": "It streamlines the creation of commercial-grade product images, reducing time and cost for e-commerce businesses.",
-    "tags": [
-      "LLM",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8220afe9e116063e4f23c424d1d38f38",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20602v1",
-    "arxiv_id": "2610.20602v1",
-    "title": "Heavy-Heavy-Light-Light correlators from holography on the worldsheet",
-    "authors": [
-      "Matías Colaneri",
-      "Diego H. Correa",
-      "Víctor I. Giraldo-Rivera"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "Holographic Correlators of Heavy and Light Operators on AdS2 Worldsheet",
-    "tldr": "We compute heavy-heavy-light-light correlators for defect-changing operators in the 1/2 BPS Wilson line of N=4 SYM. The analysis reveals how large scaling dimensions back-react on the AdS2 worldsheet, providing a holographic description of cusp deformations.",
-    "significance": "This work extends holographic techniques to study defect operators with large dimensions, offering new insights into the dynamics of Wilson line defects in AdS/CFT.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e76507c2530ddfc07b151c4471f8881f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20598v1",
-    "arxiv_id": "2610.20598v1",
-    "title": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
-    "authors": [
-      "Qihang Cao",
-      "Haoyuan Li",
-      "Zihan Guo"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "DynThinker Bridges Static 3D and Dynamic 4D Spatial Reasoning for Unified Intelligence",
-    "tldr": "DynThinker introduces a model that simultaneously handles static 3D and dynamic 4D spatial tasks, overcoming the interference that hampers existing approaches. By selectively fine‑tuning parameter groups, it achieves balanced performance across both domains.",
-    "significance": "This work provides a scalable framework that enables robust spatial intelligence across static and dynamic contexts, paving the way for advanced applications in robotics, autonomous navigation, and geospatial analytics.",
-    "tags": [
-      "spatial-reasoning",
-      "foundation-models",
-      "point-cloud",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "065c3667889207f9a3468dca790c3677",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20597v1",
-    "arxiv_id": "2610.20597v1",
-    "title": "Co-Evolving Acting and Forecasting for Language Agents",
-    "authors": [
-      "Haofei Yu",
-      "Yixing Chen",
-      "Yining Zhao"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "Co-Evolving Acting and Forecasting Boosts Language Agent Efficiency for Long-Horizon Tasks",
-    "tldr": "The paper introduces a method that jointly trains language agents to act and forecast intermediate states, reducing reliance on costly rollouts. By leveraging per-step supervision, the approach improves sample efficiency and performance on long-horizon tasks.",
-    "significance": "It offers a scalable alternative to traditional RL, enabling more efficient training of language agents for complex, multi-step tasks.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a0794afbecae0f20687ffa18c6985785",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20596v1",
-    "arxiv_id": "2610.20596v1",
-    "title": "CoWear: Towards Collaborative Wearable Inertial Localization with Multiple Smart Devices",
-    "authors": [
-      "Zhuoyuan She",
-      "Zhanpeng Zhang",
-      "Yapeng Chen"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "CoWear: Collaborative Inertial Localization Dataset for Multi-Device Smart Wearables and Glasses",
-    "tldr": "CoWear provides synchronized inertial data from smartphones, smartwatches, and smart glasses, along with device-specific motion ground truth. The dataset enables benchmarking and development of collaborative localization algorithms for wearable devices.",
-    "significance": "It fills a gap in inertial localization research by offering a realistic, multi-device dataset with synchronized ground truth.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "time-series"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
