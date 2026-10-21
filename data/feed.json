@@ -1,5 +1,67 @@
 [
   {
+    "uid": "ab288ac78cacedf5cf8ed9fec2b6dd54",
+    "source": "web",
+    "url": "https://www.geoai.au/category/news/",
+    "arxiv_id": "",
+    "title": "News Archives - Geospatial Artificial Intelligence | GeoAI",
+    "authors": [],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-21",
+    "headline": "GeoAI Launches New Feature Updates and Cutting-Edge Technologies in Latest News Archive",
+    "tldr": "The GeoAI news archive now highlights recent feature releases and emerging technologies. Stay informed on the latest advancements in geospatial AI.",
+    "significance": "This update enhances user engagement by providing timely insights into GeoAI's evolving capabilities.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "d7f2f215fb0c6f21acbef1a9b7ee0e6f",
+    "source": "web",
+    "url": "https://evermx.com/open-source/geoai-geospatial-artificial-intelligence",
+    "arxiv_id": "",
+    "title": "GeoAI - Open Source AI Project - Evermx",
+    "authors": [],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-21",
+    "headline": "GeoAI: Open-Source AI Framework for Satellite Imagery Analysis and Visualization",
+    "tldr": "GeoAI is a Python library that unifies deep learning with geospatial data, enabling rapid analysis of satellite and aerial imagery. Published by the Open Geospatial Solutions community, it offers tools for segmentation, object detection, and change detection across diverse remote sensing modalities.",
+    "significance": "By providing an open, modular platform, GeoAI accelerates the deployment of AI in environmental monitoring, urban planning, and disaster response.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "segmentation",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e4a462a5e5fd0e53d897c4ac09d719dc",
+    "source": "web",
+    "url": "https://opengeoai.org/workshops/GeoAI_Workshop_2025/",
+    "arxiv_id": "",
+    "title": "Object Detection from Remote Sensing Imagery with GeoAI",
+    "authors": [],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-21",
+    "headline": "GeoAI Object Detection in Remote Sensing: From Installation to Model Training",
+    "tldr": "This notebook walks users through installing GeoAI, downloading satellite imagery, visualizing data, and training an object detection model. It demonstrates a complete pipeline for detecting objects in remote sensing images using open-source tools.",
+    "significance": "It empowers researchers to quickly prototype and deploy object detection models on satellite imagery, accelerating applications like urban planning and environmental monitoring.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "object-detection",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "8470a38410ad8d28a512311bba2edc51",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.26863v1",
@@ -1332,78 +1394,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "4fc8a3b7220de968afb8326b6d11b05e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22356v1",
-    "arxiv_id": "2610.22356v1",
-    "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
-    "authors": [
-      "Han Su",
-      "Meng Tian",
-      "Tianyu Huang"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "DK-VLM: Using Geometry as Position for Enhanced Spatial Reasoning in Vision‑Language Models",
-    "tldr": "DK-VLM introduces Dual‑Kernel Attention that treats 3D geometry as positional embeddings, enabling vision‑language models to update spatial judgments as the observer moves. The method aligns 3D reconstruction features with pretrained semantics, improving cross‑view spatial understanding under limited supervision.",
-    "significance": "It bridges the gap between 3D spatial perception and language grounding, advancing the capability of vision‑language models to reason about real‑world geometry.",
-    "tags": [
-      "spatial-reasoning",
-      "foundation-models",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c89a3bcbf81216887c5d3c848cf80044",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20610v1",
-    "arxiv_id": "2610.20610v1",
-    "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
-    "authors": [
-      "Jahyeok Koo",
-      "Hyeonseo Yu",
-      "Seungho Jang"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "Using 3D Language Models to Enhance Novel-View Generation from Sparse Observations",
-    "tldr": "The paper explores whether answering spatial questions with 3D language models can improve the realism and spatial consistency of novel view synthesis. Experiments show that integrating high-level semantic and spatial reasoning yields better view generation than geometry-only baselines.",
-    "significance": "It demonstrates that language-based spatial reasoning can be a powerful tool for 3D scene reconstruction, bridging vision and language.",
-    "tags": [
-      "spatial-reasoning",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e9cb89a36c6dbfc2f6b7e9900f9def7f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.20609v1",
-    "arxiv_id": "2610.20609v1",
-    "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
-    "authors": [
-      "Shaoyuan Xie",
-      "Zihan Zhang",
-      "Jingxuan Wang"
-    ],
-    "published": "2026-10-14",
-    "curated_at": "2026-10-15",
-    "headline": "SafeDriveVLA: Conflict-Aware Navigation Using Vision-Language-Action Models",
-    "tldr": "SafeDriveVLA integrates a vision-language-action model with a world‑model dreaming framework to generate conflict‑aware driving policies from free‑form natural‑language instructions. The system detects unsafe driver commands in real time and adapts vehicle behavior accordingly.",
-    "significance": "This approach demonstrates how large language models can be safely leveraged for autonomous navigation, reducing the risk of unsafe driver instructions.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time",
-      "urban-AI"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
