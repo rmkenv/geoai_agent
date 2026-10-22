@@ -1,5 +1,263 @@
 [
   {
+    "uid": "a485811a069b33caa7a8f21c83c4a8c3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30136v1",
+    "arxiv_id": "2610.30136v1",
+    "title": "Agentic World Action Models",
+    "authors": [
+      "Zhuoyang Liu",
+      "Dantong Niu",
+      "Botong Zhang"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "AW-0: Bridging Predictive Dynamics and Reusable Skills in Agentic Robotics",
+    "tldr": "AW-0 combines visual foresight with code-based planning to enable compositional skill reuse in robot manipulation. It grounds planning in physical dynamics, addressing gaps in current world action models.",
+    "significance": "This framework unifies predictive modeling and reusable skill execution, advancing autonomous robot planning.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8c9ceeed2ec54c1db674d453447647d0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30135v1",
+    "arxiv_id": "2610.30135v1",
+    "title": "When to retire: the cultural evolution of post-reproductive oblique teaching",
+    "authors": [
+      "Hirotaka Goto",
+      "Joshua B. Plotkin"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "When to Retire: Evolution of Post-Reproductive Oblique Teaching in Human Societies",
+    "tldr": "Oblique teaching—instruction from non-kin—has become a cornerstone of modern institutions, yet its timing and evolutionary drivers remain unclear. This study explores how post-reproductive individuals may shape cultural transmission and when retirement benefits society.",
+    "significance": "Understanding when and why post-reproductive teaching occurs can illuminate the adaptive value of extended lifespans and inform policies on elder participation.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5069f29a67a1b3184af2a49184bb54f2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30133v1",
+    "arxiv_id": "2610.30133v1",
+    "title": "Optimal galaxy magnification: generalized fundamental-plane residuals and number counts are all you need",
+    "authors": [
+      "Kun Xu",
+      "Ravi K. Sheth"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "Optimal Galaxy Magnification: Using Fundamental-Plane Residuals and Number Counts",
+    "tldr": "The paper derives the most efficient weak-lensing magnification statistics from galaxy flux, size, and count data. It shows that the optimal measurement splits into an optimal mean statistic based on generalized fundamental-plane residuals and total number counts.",
+    "significance": "It provides a practical framework for extracting maximal cosmological information from galaxy surveys using simple, observable properties.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "96683991790dc703251da84057036b6d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30132v1",
+    "arxiv_id": "2610.30132v1",
+    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+    "authors": [
+      "Zhennan Wan",
+      "Jianfei Chen"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "LongZero: Zero-Data Reinforcement Learning Boosts Long-Context Reasoning in LLMs without External Corpora",
+    "tldr": "LongZero introduces a reinforcement learning framework that trains large language models on long, diverse, and verifiable contexts without requiring annotated data or external corpora. By synthesizing challenging examples internally, it achieves robust long-context reasoning while reducing annotation costs.",
+    "significance": "This approach enables scalable, data-efficient training of LLMs for tasks demanding extended context understanding, opening new avenues for applications that rely on long-range reasoning.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dcb728e13bfe29c8df7f898547a73527",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30131v1",
+    "arxiv_id": "2610.30131v1",
+    "title": "Scaling H2 Factorization to Billion-Unknown Three-Dimensional Problems",
+    "authors": [
+      "Tianyu Liang",
+      "Chao Chen",
+      "James Demmel"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "Distributed H2 Factorization Enables Billion-Unknown 3D Integral Equation Solvers for Large-Scale Applications",
+    "tldr": "We introduce a distributed-memory H2 factorization solver that scales to billions of unknowns in three dimensions, overcoming communication bottlenecks through spatial box coloring and delayed Schur complement techniques. The method delivers near-linear speedup on modern HPC clusters, enabling efficient direct solves for dense integral equation matrices.",
+    "significance": "This work dramatically expands the size of problems solvable by direct dense linear algebra, opening new possibilities for high-fidelity simulations in physics and engineering.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "59b9dfd44c8277e195e49c597f95b17f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30129v1",
+    "arxiv_id": "2610.30129v1",
+    "title": "Rethinking Video Autoencoders for Interactive World Models",
+    "authors": [
+      "Adrien Ramanana Rahary",
+      "Yutong Bai",
+      "Nicolas Dufour"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "Reimagining Video Autoencoders for Interactive World Models",
+    "tldr": "Video world models generate future frames in a latent space, enabling agents to train and plan interactively. They often repurpose autoencoders from text‑to‑video systems, balancing compression cost and action latency.",
+    "significance": "This approach reduces computational overhead while maintaining realistic simulation fidelity, opening new avenues for real‑time agent training.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f2a0916f5976b13b0046f00dad5b8491",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30127v1",
+    "arxiv_id": "2610.30127v1",
+    "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+    "authors": [
+      "Zhichao Zhai",
+      "Menglei Zhao",
+      "Guikun Chen"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "VoxProg: Leveraging Voxel Programming for Precise 3D Spatial Reasoning in AI",
+    "tldr": "VoxProg introduces a voxel-based programming framework that translates natural language spatial instructions into executable 3D object placement tasks. By explicitly constructing geometric references, it bridges the gap between language models and complex 3D scene manipulation.",
+    "significance": "This approach enables language models to perform accurate 3D spatial reasoning, opening new possibilities for robotics, virtual environments, and spatial AI applications.",
+    "tags": [
+      "spatial-reasoning",
+      "LLM",
+      "point-cloud"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "9904ca59e307d011c1d13a51fe46c6a3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30125v1",
+    "arxiv_id": "2610.30125v1",
+    "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+    "authors": [
+      "Yunhao Luo",
+      "Wentao He",
+      "Yinpei Dai"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "PhysiCalWorld: In-Context Physics Calibration Enhances World Model Predictions",
+    "tldr": "PhysiCalWorld calibrates unseen physics properties like mass and friction directly from visual input, reducing reliance on empirical priors. This approach improves the accuracy of dynamic predictions in world models.",
+    "significance": "By integrating physics calibration, world models can generate more realistic and reliable predictions for complex environments.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "01a85812616ebaae0b87db7edbdb36b8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30123v1",
+    "arxiv_id": "2610.30123v1",
+    "title": "Temporal Exploration and Rendezvous via Weisfeiler-Leman Colorings",
+    "authors": [
+      "Frank Kammer",
+      "Sandra Kiefer",
+      "Johannes Meintrup"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "Efficient Temporal Exploration via Weisfeiler-Leman Colorings Enables Fast Vertex Coverage",
+    "tldr": "We prove that any connected temporal graph can be explored in O(qn log^3 n) steps, where q is the number of 2‑WL color classes. This improves previous bounds and shows that Weisfeiler‑Leman colorings capture temporal connectivity efficiently.",
+    "significance": "This result bridges graph isomorphism techniques with temporal graph traversal, offering a new tool for dynamic network analysis.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f88dae3b090a59ee96b632b0cd088755",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30121v1",
+    "arxiv_id": "2610.30121v1",
+    "title": "Geometric Algebra for Neural Networks: A Survey",
+    "authors": [
+      "Tao Zhong",
+      "Kaison Fong",
+      "Keqin Wang"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "Survey of Geometric Algebra Techniques for Equivariant Neural Network Design",
+    "tldr": "This survey reviews how geometric algebra unifies geometric primitives and transformations in neural networks, enabling multivector feature representations and built‑in equivariance. It covers foundational concepts, architectural designs, and applications across computer vision and robotics.",
+    "significance": "It demonstrates how algebraic structure can embed geometric invariances directly into neural network layers.",
+    "tags": [
+      "spatial-reasoning",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bfd76868c8ad416b5c03d7edf06add55",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.30120v1",
+    "arxiv_id": "2610.30120v1",
+    "title": "ALPS: Visual State Encoders for World Models",
+    "authors": [
+      "Yanqing Liu",
+      "Letian Zhang",
+      "Chengzhi Liu"
+    ],
+    "published": "2026-10-21",
+    "curated_at": "2026-10-22",
+    "headline": "ALPS: Unified Visual Encoders for Prediction, Instruction, and Inspection in World Models",
+    "tldr": "The paper introduces ALPS, a visual encoder that jointly captures physical state, language alignment, and pixel reconstruction, enabling world models to predict, follow instructions, and be inspected. It bridges gaps in existing encoders by providing a single representation that supports multiple downstream tasks.",
+    "significance": "By unifying these capabilities, ALPS advances the versatility and interpretability of world models, paving the way for more robust AI systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "ab288ac78cacedf5cf8ed9fec2b6dd54",
     "source": "web",
     "url": "https://www.geoai.au/category/news/",
@@ -1130,269 +1388,6 @@
       "time-series"
     ],
     "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "97b3197232b2370afc6b931d8403d60e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22370v1",
-    "arxiv_id": "2610.22370v1",
-    "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
-    "authors": [
-      "SeungJu Cha",
-      "Ye-Chan Kim",
-      "HyunGee Kim"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Efficient Diffusion via Token Merging: Preserving Prompt-Aligning Foreground Tokens for Image Generation",
-    "tldr": "Token merging reduces redundant computation in diffusion models while keeping image quality high. The new method keeps prompt-aligned foreground tokens, ensuring critical details remain intact during generation.",
-    "significance": "This approach enables faster, resource-efficient image synthesis without sacrificing fidelity, advancing practical deployment of diffusion models.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "88c30092e098f0b08886ff29a3786249",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22369v1",
-    "arxiv_id": "2610.22369v1",
-    "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
-    "authors": [
-      "Shimon Malnick",
-      "Nadav Orenstein",
-      "Ohad Fried"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "SoftCache: Adaptive Step Size Caching for Faster Diffusion Transformer Generation",
-    "tldr": "SoftCache introduces a training-free caching mechanism that reuses activations across iterative steps in diffusion transformers, reducing computation. By monitoring a lightweight staleness signal, it dynamically refreshes cached activations to maintain accuracy while speeding up generation.",
-    "significance": "This approach dramatically cuts inference time for diffusion models, enabling real-time applications without retraining.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "28f4b38cc0a4de345fc4465de41c4ac5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22368v1",
-    "arxiv_id": "2610.22368v1",
-    "title": "Value as Memory: Online Value-Guided Post-training for General Robot Policies",
-    "authors": [
-      "Wenye Yu",
-      "Yijin Chen",
-      "Kaiyi Xiong"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Value as Memory: Enhancing Robot Policies with Online Reinforcement Learning",
-    "tldr": "Value as Memory (VaM) introduces a value caching mechanism that conditions action selection on recent experiences, mitigating partial observability. By integrating online real‑world RL, VaM provides immediate feedback, accelerating post‑training of generalist robot policies.",
-    "significance": "VaM bridges the gap between offline policy training and real‑world deployment, enabling faster, more reliable robot learning.",
-    "tags": [
-      "real-time",
-      "open-source",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d8a30194623617db33612c94c52bc346",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22367v1",
-    "arxiv_id": "2610.22367v1",
-    "title": "Discovering state-of-the-art quantum circuits with large language models",
-    "authors": [
-      "Andi Gu",
-      "Alek H. Kemeny",
-      "Susanne F. Yelin"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Large Language Models Accelerate Quantum Circuit Design",
-    "tldr": "Researchers harness large language models to generate and optimize quantum circuits, achieving state‑of‑the‑art performance on benchmark problems. This approach reduces the need for manual circuit design and accelerates the development of quantum algorithms.",
-    "significance": "It demonstrates that foundation models can effectively tackle complex quantum optimization tasks, paving the way for scalable quantum algorithm development.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "343cbb80d46c738008c87565c2005fa1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22365v1",
-    "arxiv_id": "2610.22365v1",
-    "title": "$^6$He structure from semiclassical 3D models based on $\\textit{ab initio}$ spatial correlations",
-    "authors": [
-      "Mengyao Huang",
-      "Tobias Frederico",
-      "Peng Yin"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Semiclassical 3D Models Reveal Distorted Alpha Core in Helium-6",
-    "tldr": "Using ab initio no-core shell model correlations, we build semiclassical 3D models of ^6He. The models show that two valence neutrons flatten the alpha core, deviating from the tetrahedral shape of a free alpha particle.",
-    "significance": "This work provides a clearer picture of how valence neutrons influence the structure of light halo nuclei, aiding future nuclear theory and experiment.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ca3fc6ee98d84eb4513a33a50f320323",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22364v1",
-    "arxiv_id": "2610.22364v1",
-    "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-    "authors": [
-      "Chenyuan Zhou",
-      "Yining Hong",
-      "Huang Huang"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Optimizing Hidden Environment Factors at Test Time for Accurate Robotic World Models",
-    "tldr": "Robots need to predict world responses to actions, but many environmental factors are hidden. T2-Z introduces a method to optimize latent environmental variables during test time, improving world model predictions without retraining.",
-    "significance": "T2-Z enables robots to adapt to unseen environmental conditions on the fly, enhancing reliability in dynamic real-world settings.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5fbb5e6fbdea15411a67bd541e8f2fb7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22363v1",
-    "arxiv_id": "2610.22363v1",
-    "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
-    "authors": [
-      "Zirui Wu",
-      "Chen Guo",
-      "Tianjian Jiang"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Unified World Action Model for Egocentric Dexterous Manipulation: Perceive, Predict, Plan",
-    "tldr": "We present P³-WAM, a unified model that learns 3D perception, action-conditioned prediction, and goal-directed planning for egocentric dexterous manipulation. The system reconstructs hand motion and camera trajectories, predicts visual futures under actions, and jointly generates plans for manipulation tasks.",
-    "significance": "P³-WAM advances robotic manipulation by integrating perception, prediction, and planning into a single framework, enabling more realistic and efficient egocentric manipulation.",
-    "tags": [
-      "foundation-models",
-      "object-detection",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f18124500f0b506a3886b78f68ffb2f0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22362v1",
-    "arxiv_id": "2610.22362v1",
-    "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
-    "authors": [
-      "Tianjiao Yu",
-      "Zhilin Ou",
-      "Yifan Shen"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "CoDA: Co-Evolving Simulation Engines and Policies for Targeted Robot Training",
-    "tldr": "CoDA proposes a dynamic loop where a generative simulation engine and a robot action policy iteratively refine each other via a shared memory of diverse environments. This approach focuses on generating only those scenarios that expose policy weaknesses, accelerating learning and improving real-world performance.",
-    "significance": "By aligning environment generation with policy deficiencies, CoDA reduces sample waste and speeds up deployment of robust autonomous agents.",
-    "tags": [
-      "foundation-models",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2a8121bfffd25d014922683628a56134",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22360v1",
-    "arxiv_id": "2610.22360v1",
-    "title": "Grounding Generative Verification in 3D Content",
-    "authors": [
-      "Shuanglin Li",
-      "Jiaying Lin",
-      "Shuquan Ye"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Verifying 3D Generative Models: Grounding Output with Spatial Evidence for Robustness",
-    "tldr": "This paper introduces a verification framework that uses 3D evidence to assess the correctness of generative outputs, moving beyond visual fidelity. It demonstrates how feedback loops can identify unmet task-specific requirements, improving reliability of 3D AI systems.",
-    "significance": "By integrating verification into 3D generation pipelines, the work addresses a critical gap in ensuring model outputs meet real-world constraints, paving the way for trustworthy deployment.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "diffusion-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "45d7df08250a1e21093976f7bc201365",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22358v1",
-    "arxiv_id": "2610.22358v1",
-    "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
-    "authors": [
-      "Jiachen Yao",
-      "Xiyuan Zhang",
-      "Annan Yu"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "PathFM: Fast Generative Forecasting for Multivariate Trajectories",
-    "tldr": "PathFM introduces a fast generative model that captures the full dependence structure of multivariate time‑series trajectories, enabling accurate predictions of cumulative demand, peak load, and event timing. The method outperforms existing marginal‑quantile approaches while remaining computationally efficient.",
-    "significance": "By modeling trajectory dependence, PathFM provides more reliable forecasts for applications that rely on joint behavior of multiple variables.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "diffusion-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8af44f517ce3ac168549574b9acb5d88",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22357v1",
-    "arxiv_id": "2610.22357v1",
-    "title": "Stability of Quantum LDPC States under Local Pauli Noise",
-    "authors": [
-      "Tai-Hsuan Yang",
-      "Andrew D. Kim",
-      "Akash Vijay"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Assessing the Robustness of Quantum LDPC States Against Local Pauli Noise",
-    "tldr": "Quantum low-density parity-check (qLDPC) codes feature a mixed state that is central to both error correction and many-body physics. Recent studies reveal how local Pauli noise affects the spatial decay of correlations, challenging the stability of these states.",
-    "significance": "Understanding noise resilience in qLDPC codes is crucial for reliable quantum information processing and for exploring new phases of mixed quantum matter.",
-    "tags": [
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
     "difficulty": "advanced"
   }
 ]
