@@ -1,5 +1,222 @@
 [
   {
+    "uid": "0a5a60299d00aadd75d01e0a49e28842",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31672v1",
+    "arxiv_id": "2610.31672v1",
+    "title": "Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory",
+    "authors": [
+      "G. Bonelli",
+      "S. Lacroix",
+      "T. Pedroni"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "Integrable Sigma Models, Hitchin Systems, and Quantum Seiberg-Witten Theory: A Ricci Flow Approach",
+    "tldr": "We construct integrable 2D sigma models via 4D Chern-Simons theory, linking their classical reduction to Hitchin systems. The resulting quantum Hitchin quantisation yields a Hamiltonian matching the Perelman operator, offering insights into one-loop reduced dynamics.",
+    "significance": "This work bridges integrable field theories, geometric flows, and quantum gauge dynamics, providing a new framework for studying quantum Seiberg-Witten theory.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e3381a1b5299446c347a17156e5caf2f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31671v1",
+    "arxiv_id": "2610.31671v1",
+    "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+    "authors": [
+      "Qiwen Gu",
+      "Xin Zhou",
+      "Xiwu Chen"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "FlexPart: Unified Image-to-3D Part Generation with Variable Granularity for Digital Asset Creation",
+    "tldr": "FlexPart introduces a single model that accepts heterogeneous inputs—images, sketches, and geometric constraints—allowing users to generate 3D parts at any desired level of detail. The framework demonstrates state‑of‑the‑art quality while offering unprecedented flexibility for designers and content creators.",
+    "significance": "By unifying variable‑granularity control in one model, FlexPart streamlines the 3D asset pipeline and empowers creators to tailor geometry precisely to their workflow.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "eb682ed5eb55fbf256192a7d58b84f91",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31670v1",
+    "arxiv_id": "2610.31670v1",
+    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+    "authors": [
+      "Yunfei Xie",
+      "Howard H. Qian",
+      "Shiyi Lan"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "Aligning Motion Trajectories with Vision and Language: A Platonic Proxy for Robotic Models",
+    "tldr": "Robotic foundation models are usually validated with expensive closed‑loop rollouts, so researchers seek cheaper offline proxies. This study proposes that motion trajectories can serve as a Platonic representation, aligning vision, language, and movement into a shared statistical model of reality.",
+    "significance": "Demonstrating that motion trajectories act as a unifying modality could accelerate the evaluation and deployment of embodied AI systems.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7acc78f9d144a45684764ae4ead94af5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31667v1",
+    "arxiv_id": "2610.31667v1",
+    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "authors": [
+      "Mahdi Salmani",
+      "Adel Javanmard",
+      "Devansh Gupta"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "Optimizing Direct Pass@k for Thought Pruning: Balancing Quality and Diversity",
+    "tldr": "This paper introduces a Direct Pass@k optimization technique that prunes candidate solutions early during test‑time reasoning, reducing computational cost. It demonstrates that careful pruning preserves solution quality while increasing diversity, enabling efficient real‑time inference for large language models.",
+    "significance": "By enabling efficient, high‑quality inference with reduced computation, the method advances practical deployment of large reasoning models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a9a80e076600fe9f7396d082a05a5b47",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31662v1",
+    "arxiv_id": "2610.31662v1",
+    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+    "authors": [
+      "Isaac Gibbs",
+      "Elise L. Han",
+      "Ryan J. Tibshirani"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "Selective Auditing for Reliable AI Decision-Making in Real-Time Systems Operations",
+    "tldr": "We propose an online monitoring framework that tracks AI decisions and their confidence scores, enabling selective auditing of only low-confidence outputs. This approach improves trustworthiness and efficiency by focusing verification resources where they are most needed.",
+    "significance": "By decoupling decision and verification, the method reduces latency while maintaining high reliability, a critical advance for safety-critical AI deployments.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fefdb831c9d62e776f363a5a12156cba",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31661v1",
+    "arxiv_id": "2610.31661v1",
+    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+    "authors": [
+      "Ariel Slepyan",
+      "Geeta Chandra Raju Bethala",
+      "Jiafeng Gu"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "OpenTac: Open-Source, Scalable, Real-Time 3D Tactile Skin Enabling Advanced Robotics",
+    "tldr": "OpenTac introduces a modular resistive tactile skin that transforms tangential forces into pressure maps, enabling high-resolution 3D tactile sensing. The open-source ecosystem supports rapid deployment in robot control and learning, offering scalability and real-time performance.",
+    "significance": "This platform democratizes tactile sensing, allowing researchers to customize and scale skins for diverse robotic tasks without costly proprietary hardware.",
+    "tags": [
+      "open-source",
+      "real-time",
+      "point-cloud",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6900b45b1bfd59633f3597045560581d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31659v1",
+    "arxiv_id": "2610.31659v1",
+    "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+    "authors": [
+      "Sy-Tuyen Ho",
+      "Anirudh Satheesh",
+      "Soham Chawathe"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "SpectralCanary: Low-Frequency Traces for Auditing Text-to-Image Model Dataset Use",
+    "tldr": "SpectralCanary introduces a simple, low-frequency signal that can be embedded in a dataset before release, enabling later detection of that signal in a model’s outputs to verify fine-tuning. This method offers a practical, proactive approach to dataset-use auditing for text-to-image diffusion models.",
+    "significance": "It provides a scalable, model-agnostic technique for verifying dataset provenance in generative AI.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "eb1e7fdd0b2d738e8277b24626c45b39",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31657v1",
+    "arxiv_id": "2610.31657v1",
+    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+    "authors": [
+      "Sachin Gupta"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "Cost-Aware Abstention Enhances LLM-Based IT Ticket Routing",
+    "tldr": "By incorporating explicit cost penalties, the study demonstrates that cost-aware abstention reduces misrouting in IT support tickets. The approach is evaluated offline on a 47,837-ticket dataset, comparing non-LLM and LLM classifiers.",
+    "significance": "It underscores the value of cost-sensitive decision-making for automated support systems.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0add33f5ca67e6e5c112d5c58fe7b3da",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31656v1",
+    "arxiv_id": "2610.31656v1",
+    "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+    "authors": [
+      "Ali Najar",
+      "Hosein Hasani",
+      "Amir Kooshan Fattah"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-23",
+    "headline": "METTA: Memory-Enhanced Test-Time Adaptation for Rapid Meta-Reinforcement Learning in Complex Tasks",
+    "tldr": "METTA introduces a memory module that stores and retrieves task evidence over long horizons, enabling agents to adapt quickly during test time. By combining transformer retrieval with efficient memory, METTA reduces quadratic costs while outperforming recurrent baselines on benchmark meta‑RL tasks.",
+    "significance": "METTA demonstrates that scalable memory retrieval can bridge the gap between recurrent compression and transformer scalability, advancing real‑time meta‑RL.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "a485811a069b33caa7a8f21c83c4a8c3",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.30136v1",
@@ -1195,199 +1412,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "60a6ce2fa67bacf8d8885cd50ada240f",
-    "source": "web",
-    "url": "https://geoawesome.com/tech-for-earth-latest-news-in-geoai-and-earth-observation/",
-    "arxiv_id": "",
-    "title": "Tech for Earth: Latest News in GeoAI and Earth Observation",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "Geospatial Tech Builds Earth’s New Nervous System for Real-Time Climate Monitoring",
-    "tldr": "High‑resolution satellites and AI are creating a real‑time monitoring network that tracks climate change. Copernicus data show 2025 as the third warmest year, underscoring the urgency.",
-    "significance": "This integrated system enables rapid, data‑driven responses to environmental threats.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "change-detection",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "c372756dc3050e8979c1ab5331fba6b3",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "Remote Sensing Change Detection Resources: Datasets, Tools, Methods, and Competitions",
-    "tldr": "This repository compiles the latest datasets, tools, methods, review papers, and competitions for remote sensing change detection. It serves as a go-to reference for researchers and practitioners seeking to stay current in the field.",
-    "significance": "It accelerates research and application development by centralizing critical resources for detecting changes in satellite imagery.",
-    "tags": [
-      "remote-sensing",
-      "change-detection",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "26fa3243384f40ff7220879e19adbf53",
-    "source": "web",
-    "url": "https://github.com/opengeos/geoai",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GitHub",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "GeoAI Toolkit: Automating Satellite Imagery Processing and AI Training Data Generation",
-    "tldr": "This open-source GitHub repository provides streamlined tools for downloading, mosaicking, and preprocessing satellite imagery, as well as automated generation of labeled training datasets for AI models. It also includes vector-to-raster conversion utilities, data augmentation techniques, and supports various remote sensing formats like Sentinel, Landsat, and NAIP.",
-    "significance": "By simplifying geospatial data preparation, GeoAI accelerates AI research and deployment in earth observation applications.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
-    "source": "web",
-    "url": "https://opengeoai.org/",
-    "arxiv_id": "",
-    "title": "Home - GeoAI",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "GeoAI: Integrating AI with Geospatial Data for Powerful Analysis and Visualization",
-    "tldr": "GeoAI is a Python package that bridges artificial intelligence and geospatial analysis, offering intuitive tools for machine learning on spatial data. It supports visualization, segmentation, and real-time applications across satellite imagery and point clouds.",
-    "significance": "GeoAI democratizes advanced AI techniques for geospatial tasks, enabling researchers to quickly prototype and deploy models on real-world data.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e5ef65dd55b3cbaac11af570a247ffb1",
-    "source": "web",
-    "url": "https://gisgeography.com/open-source-remote-sensing-software-packages/",
-    "arxiv_id": "",
-    "title": "13 Open Source Remote Sensing Software Packages",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "Explore 13 Free Remote Sensing Tools for Satellite Image Analysis",
-    "tldr": "This article lists 13 open‑source remote sensing applications, outlining their key features and use cases. It helps researchers and hobbyists quickly choose the right tool for satellite image processing.",
-    "significance": "Open‑source software democratizes access to advanced geospatial analysis, enabling broader scientific and community-driven innovation.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "76a848462cb579374f52b6c2e4ea0f19",
-    "source": "web",
-    "url": "https://sourceforge.net/directory/?q=remote%20sensing",
-    "arxiv_id": "",
-    "title": "remote sensing free download - SourceForge",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "Free Remote Sensing Resources on SourceForge: Code, Papers, and Practical Tools",
-    "tldr": "SourceForge hosts a comprehensive guide offering free remote sensing datasets, code snippets, and research links. Ideal for researchers, engineers, and enthusiasts seeking practical tools in geospatial AI.",
-    "significance": "This free resource accelerates development and experimentation in remote sensing and geospatial AI.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "satellite-imagery"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "0a000f935aceec4a908e71d0fce3c7f0",
-    "source": "web",
-    "url": "https://www.grsg.org.uk/open-source-software",
-    "arxiv_id": "",
-    "title": "Open Source Software - The Geological Remote Sensing Group (GRSG)",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "GRSG Unites Open-Source Tools for Advanced Remote Sensing Analysis Worldwide",
-    "tldr": "The Geological Remote Sensing Group (GRSG) aggregates free geospatial software and libraries to support sophisticated image processing across optical, multispectral, SAR, and hyperspectral data. This open-source ecosystem empowers researchers and professionals to conduct advanced remote sensing analyses without costly proprietary tools.",
-    "significance": "GRSG democratizes access to cutting‑edge remote sensing capabilities, accelerating scientific discovery and practical applications worldwide.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "SAR"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "b0ac3d0d33c8cde9b554604865bfd15b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22372v1",
-    "arxiv_id": "2610.22372v1",
-    "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-    "authors": [
-      "Zhixu Li",
-      "Keqian Tang",
-      "Litian Gong"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "LIBERO-PeRM: A New Benchmark for Personalized Robotic Manipulation",
-    "tldr": "LIBERO-PeRM introduces a controlled benchmark that separates task completion from preference satisfaction in household robotics. It enables systematic evaluation of personalization algorithms in embodied settings.",
-    "significance": "It provides the first standardized framework to assess how well robots adapt to individual user preferences while performing tasks.",
-    "tags": [
-      "benchmark",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0688f15c8c9d797f6b6e86b1e6c182f2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22371v1",
-    "arxiv_id": "2610.22371v1",
-    "title": "Gen4P: Video Generators are 4D Perceivers",
-    "authors": [
-      "Yitong Xia",
-      "Zeren Jiang",
-      "Chuanxia Zheng"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-16",
-    "headline": "Gen4P: Turning Video Generators into Real-Time 4D Perceivers for Geometry and Motion",
-    "tldr": "Gen4P repurposes pretrained video generators into a feed-forward 4D perceiver, enabling rapid recovery of 4D geometry and motion from monocular video. By processing clean video latents in a single encoder pass and using lightweight cross-attention decoding, it eliminates iterative denoising and supports on-demand querying.",
-    "significance": "This approach dramatically speeds up 4D scene understanding, making it feasible for real-time applications.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "real-time",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
