@@ -1,5 +1,221 @@
 [
   {
+    "uid": "f82f8e48754f6cb8d4e8933582a22afa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31668v1",
+    "arxiv_id": "2610.31668v1",
+    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+    "authors": [
+      "Shengqiong Wu",
+      "Meng Luo",
+      "Bobo Li"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "Video Foundation Models and World Modeling: A Unified Lens for Visual Sequence Understanding",
+    "tldr": "This survey examines how video foundation models and video world models jointly advance the understanding of visual sequences and the underlying dynamics of the world. By framing both under a world modeling perspective, it highlights key challenges, opportunities, and future research directions.",
+    "significance": "It provides a comprehensive framework that bridges generative and predictive video modeling, guiding researchers toward more holistic and interpretable AI systems.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fab066f126781e434f9cdeaeb1e0424e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31664v1",
+    "arxiv_id": "2610.31664v1",
+    "title": "Odd radio circle J1555+2726: Observational evidence for shock re-acceleration of fossil plasma",
+    "authors": [
+      "L. Bruno",
+      "B. Koribalski",
+      "R. P. Norris"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "Shock Re-acceleration Explains Odd Radio Circles Around Massive Elliptical Galaxy",
+    "tldr": "Observations of the ORC J1555+2726 reveal a shock front that re-accelerates fossil plasma, producing bright radio rings. This supports the hypothesis that shocks in galaxy clusters can revive aged electron populations.",
+    "significance": "It provides the first direct evidence linking shock waves to the formation of odd radio circles.",
+    "tags": [
+      "remote-sensing",
+      "object-detection",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cb13ee0db37e39f668bbe5fb18cdce87",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31663v1",
+    "arxiv_id": "2610.31663v1",
+    "title": "Phase Transition from Random Features to Fully Trainable Networks",
+    "authors": [
+      "Xin He",
+      "Huan Lao",
+      "Xiliang Lu"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "Phase Transition in Partially Trainable Neural Networks: From Random Features to Full Adaptation",
+    "tldr": "The study introduces partially trainable neural networks that interpolate between fixed random feature models and fully trainable architectures, revealing a phase transition in approximation error. Empirical results show a rapid, smooth improvement in training loss followed by a plateau, mirroring theoretical bounds.",
+    "significance": "These findings provide a theoretical foundation for designing efficient neural networks that balance computational cost and representational power.",
+    "tags": [
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "82b90eae6921b15ceec4430d27b5c7da",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31651v1",
+    "arxiv_id": "2610.31651v1",
+    "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+    "authors": [
+      "Ava Pun",
+      "Kevin Dai",
+      "Sally Chen"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "BrickWright: Empowering AI Agents to Build Physically Feasible Brick Structures",
+    "tldr": "AI coding agents struggle with physically valid 3D brick builds, often producing floating or colliding parts. BrickWright equips agents with assembly tools and feasibility checks, enabling reliable physical construction.",
+    "significance": "This work bridges the gap between virtual modeling and real-world assembly, enabling AI to reliably design buildable brick structures.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "deb119f6fdb65126923e4e0771e9b671",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31650v1",
+    "arxiv_id": "2610.31650v1",
+    "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+    "authors": [
+      "Qijin Zhang",
+      "Hanzhen Wang",
+      "Yuehan Zhao"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "EpiSEM-Bench: A Benchmark for Safety and Evidence Recovery in Tool-Using LLM Agents",
+    "tldr": "EpiSEM-Bench evaluates how language model agents handle missing safety-relevant facts during tool use. The benchmark measures unsafe execution, safety boundaries, and evidence recovery in realistic scenarios.",
+    "significance": "It provides a systematic way to assess and improve the safety of LLM agents that rely on external tools.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ca8cd3974de2f214ae32558c5a876ffc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31649v1",
+    "arxiv_id": "2610.31649v1",
+    "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
+    "authors": [
+      "Xiaolin Li",
+      "Zihao Huang",
+      "Fanpeng Meng"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "Gate3DGen: Selective Pre‑Processing for Robust Real‑World Single‑Image 3D Generation in Deep Learning",
+    "tldr": "Gate3DGen introduces a gating mechanism that selectively purifies noisy real‑world images before 3D generation, preserving essential visual cues while discarding artifacts. The model achieves state‑of‑the‑art fidelity on challenging datasets without compromising clean inputs.",
+    "significance": "It bridges the gap between benchmark performance and real‑world deployment by ensuring high‑quality 3D reconstructions from imperfect images.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0fdaf4244bed308fc1c536c38a51083",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31646v1",
+    "arxiv_id": "2610.31646v1",
+    "title": "Low-Bit N-Gram Embeddings for Language Models",
+    "authors": [
+      "Stephen Chung",
+      "Wenyu Du"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "Reducing Memory Footprint: Low-Bit N-Gram Embeddings for Efficient Language Models",
+    "tldr": "The paper introduces low-bit quantization techniques for n-gram embedding tables, drastically cutting memory usage while preserving performance. Experiments show that models like DeepSeek-V4.1-Flash can be compressed by over 80% with minimal loss in accuracy.",
+    "significance": "This approach enables large-scale language models to run on commodity hardware, accelerating deployment and democratizing AI access.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "329557e9871ad3470ea53aa048472549",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31644v1",
+    "arxiv_id": "2610.31644v1",
+    "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
+    "authors": [
+      "Matteo Fusconi",
+      "Alex Costanzino",
+      "Pierluigi Zama Ramirez"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "GigaBench: Evaluating Learnable Representations for Gigapixel Image Compression and Super-Resolution",
+    "tldr": "GigaBench introduces a benchmark for learnable representations (LRs) applied to gigapixel images, assessing compression efficiency and super-resolution quality. The study demonstrates that neural-native data formats can achieve high compression ratios while preserving fine details, outperforming traditional codecs in many scenarios.",
+    "significance": "This work provides a standardized framework for evaluating neural-native formats, accelerating their adoption in large-scale imaging tasks.",
+    "tags": [
+      "benchmark",
+      "remote-sensing",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dd79715f184f9cda4d07b0537bd9fa71",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31643v1",
+    "arxiv_id": "2610.31643v1",
+    "title": "Confinement of hybridized light modes in nonlinear-optical superpotentials",
+    "authors": [
+      "Federico Presutti",
+      "Ryotatsu Yanagimoto"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-24",
+    "headline": "Hybridized Light Modes Confined by Nonlinear-Optical Superpotentials via Coherent Frequency Conversion",
+    "tldr": "This study demonstrates that counterpropagating signal modes can be trapped temporally at the zero of a pumped nonlinearity, forming hybridized eigenmodes. The mechanism relies on a frequency-domain beamsplitter interaction mediated by wave mixing, offering a new light trapping paradigm.",
+    "significance": "It opens avenues for dynamic optical confinement and could impact quantum photonics and ultrafast signal processing.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "0a5a60299d00aadd75d01e0a49e28842",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.31672v1",
@@ -1210,207 +1426,6 @@
       "foundation-models"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b960b59ec869e5f999912152b0058b7b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22346v1",
-    "arxiv_id": "2610.22346v1",
-    "title": "Projected sensitivity of a spinor Bose-Einstein condensate comagnetometer to proton monopole-dipole interactions",
-    "authors": [
-      "Wenjing Zhou",
-      "Diego Blas",
-      "Morgan W. Mitchell"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "Spinor BEC Comagnetometer Probes Proton Monopole-Dipole Forces Below Millimeter Scale",
-    "tldr": "The study projects that a spinor Bose-Einstein condensate comagnetometer can directly constrain proton monopole-dipole interactions at sub‑millimeter ranges, surpassing current neutron‑based limits. This sensitivity opens a new window for detecting light spin‑zero bosons that violate parity and time‑reversal symmetry.",
-    "significance": "It provides the first direct laboratory limits on proton‑mediated monopole‑dipole forces at short distances, advancing searches for new physics beyond the Standard Model.",
-    "tags": [
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8be900213a47b8290940d0086d1e8949",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22342v1",
-    "arxiv_id": "2610.22342v1",
-    "title": "Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation",
-    "authors": [
-      "Tianxing Chen",
-      "Wenwei Lin",
-      "Chuqiao Lyu"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "Spark-0: Spatially Aligned Vision‑Tactile Pretraining for Dexterous Robot Manipulation and Control",
-    "tldr": "Spark‑0 introduces a vision‑tactile‑language‑action model that aligns tactile contact maps with image space, enabling robots to learn dexterous manipulation tasks from large‑scale pretraining. The model demonstrates improved performance on contact‑rich tasks and offers an open‑source benchmark for future research.",
-    "significance": "By integrating tactile signals directly into a spatially aligned pretraining framework, Spark‑0 advances the capability of generalist robot policies to handle fine‑grained, contact‑rich manipulation tasks.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "benchmark",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0e4f5d50066cd03d995d69286f7dfd0b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22341v1",
-    "arxiv_id": "2610.22341v1",
-    "title": "3DCodeVerse: Exploring 3D Worlds as Code",
-    "authors": [
-      "Yipeng Gao",
-      "Ziyao Zeng",
-      "Jinfa Huang"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "3DCodeVerse: Scalable 3D Content Creation via Coding Agents",
-    "tldr": "We present 3DCodeVerse, an ecosystem that lets coding agents generate editable, verifiable 3D content at scale. It includes a large curated dataset, a harness for spatial reasoning and automated verification, and practical guidance for 3D coding.",
-    "significance": "3DCodeVerse enables rapid, reliable development of complex 3D scenes, accelerating research and applications in virtual worlds and simulation.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7c337647aee3b32c663b5c096d317dd5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22340v1",
-    "arxiv_id": "2610.22340v1",
-    "title": "Dexterity from Supervised Play",
-    "authors": [
-      "Botao He",
-      "Yiming Dou",
-      "Yiannis Aloimonos"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "Robots Learn Dexterity by Playing: Autonomous Data Collection via Supervised Play",
-    "tldr": "DSP trains a play policy from minutes of human play using behavior cloning, then lets the robot autonomously gather hours of interaction data to build a world model. During deployment, the same play policy guides the robot to perform dexterous tasks in real time.",
-    "significance": "This approach dramatically reduces the data needed to train robots for complex manipulation, enabling rapid, scalable skill acquisition.",
-    "tags": [
-      "foundation-models",
-      "open-source",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d4446b2d5754997795eb525cfaead966",
-    "source": "web",
-    "url": "https://geoawesome.com/geospatial-ai-trends-highlights-from-2025/",
-    "arxiv_id": "",
-    "title": "Geospatial & AI Trends: Highlights from 2025 - Geoawesome",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "2025 GeoAI Trends: Predictive Insights, Automation, and Climate Solutions for Cities and Global Challenges",
-    "tldr": "2025 sees GeoAI harnessing satellite imagery and LLMs to forecast climate impacts and optimize urban planning. Emerging diffusion models and real‑time point‑cloud analytics empower proactive disaster response and sustainable agriculture.",
-    "significance": "These advances enable data‑driven decision making that can mitigate climate risks and improve resource allocation worldwide.",
-    "tags": [
-      "satellite-imagery",
-      "LLM",
-      "real-time",
-      "change-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "76223bc4cde5435f8d85cf9277348f9a",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/",
-    "arxiv_id": "",
-    "title": "GeoAI | Geo Week News",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "AI and Machine Learning Transform Geospatial Work: From Feature Extraction to Predictive Analysis",
-    "tldr": "Artificial intelligence and machine learning are revolutionizing geospatial workflows by automating feature extraction, classifying point clouds, and enabling predictive analytics across the data pipeline. GeoAI blends AI with imagery, LiDAR, and spatial datasets at scale, unlocking new applications in mapping, monitoring, and decision-making.",
-    "significance": "These advances accelerate insight generation, reduce manual effort, and empower real-time decision-making in diverse sectors.",
-    "tags": [
-      "remote-sensing",
-      "LiDAR",
-      "point-cloud",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "Charting the Future of GeoAI: Emerging Trends and Next-Gen Opportunities",
-    "tldr": "GeoAI blends geospatial science with AI, rapidly evolving across spatial data science. The paper reviews recent advances and projects future directions.",
-    "significance": "Understanding GeoAI’s trajectory is crucial for leveraging AI in spatial decision-making and policy.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "079f3198282271621f612e9d277c56ab",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
-    "arxiv_id": "",
-    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "GeoAI Revolutionizes Geospatial Insight: AI, Data, and Sensing Merge for Smarter Mapping",
-    "tldr": "Artificial intelligence is reshaping geospatial analysis by merging data, sensing, and AI. GeoAI promises faster, more accurate mapping and decision-making across industries.",
-    "significance": "GeoAI will transform how organizations collect, analyze, and act on spatial data, enabling real-time insights and smarter resource management.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "779e0a05d5e0e30b6641ab27ced03d9b",
-    "source": "web",
-    "url": "https://events.ornl.gov/acmsigspatial-geoai2025/",
-    "arxiv_id": "",
-    "title": "ACMSIGSPATIAL-GEOAI 2025 - Conference Tagline",
-    "authors": [],
-    "published": "2026-10-17",
-    "curated_at": "2026-10-17",
-    "headline": "Harnessing Deep Learning for Geospatial Insight: AI Meets Multimodal Data",
-    "tldr": "The conference showcases breakthroughs in AI and hardware that enable automated learning from massive multimodal geospatial data. These advances transform societal challenges across urban planning, agriculture, and disaster response.",
-    "significance": "By integrating cutting‑edge deep learning with multimodal geospatial data, the event accelerates solutions for real‑world problems.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
