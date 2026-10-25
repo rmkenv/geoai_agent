@@ -1,5 +1,269 @@
 [
   {
+    "uid": "08984f08abd978383e3e130d17f2b4ae",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31669v1",
+    "arxiv_id": "2610.31669v1",
+    "title": "Collapsed translating solitons with planar wings",
+    "authors": [
+      "Eddygledson Souza Gama",
+      "Francisco Martín",
+      "Niels Martin Møller"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "Collapsed Translating Solitons with Planar Wings Are Only Vertical Flat Planes",
+    "tldr": "We prove that any complete embedded translating soliton in ℝ³ with finite genus, finite entropy, and planar-type wings must be a vertical flat plane. This settles a conjecture about the impossibility of gluing or doubling constructions involving planes.",
+    "significance": "This result confirms that planar wings cannot support nontrivial collapsed translators, eliminating a class of potential counterexamples in mean curvature flow.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d157dc3f89795eafc267a481e0b250d7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31666v1",
+    "arxiv_id": "2610.31666v1",
+    "title": "Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors",
+    "authors": [
+      "Samuel S. H. Tse",
+      "Qishan Liu",
+      "Kenny C. Y. Ng"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "Detecting Boosted Dark Matter with Large Liquid Scintillator Detectors via Neutron Capture",
+    "tldr": "Light dark matter can be accelerated by cosmic rays, enabling its detection in large neutrino detectors. By observing quasi‑elastic scattering off carbon and the delayed gamma from neutron capture, researchers can identify boosted dark matter events.",
+    "significance": "This technique opens a new window for probing sub‑GeV dark matter that is otherwise invisible to conventional direct‑detection experiments.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "689c8764a95c027aa25bf2f6d3ae3a5f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31660v1",
+    "arxiv_id": "2610.31660v1",
+    "title": "Sound-Horizon-Agnostic Forecast for Constraints on $H_0$ and $Σm_ν$ from BAO, CMB Lensing, Supernovae and LSST-like Galaxy Lensing",
+    "authors": [
+      "Seyed Hamidreza Mirpoorian",
+      "Helena García Escudero",
+      "Levon Pogosian"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "Forecasting H0 and Neutrino Masses with LSST, CMB, BAO, and Supernovae",
+    "tldr": "We forecast constraints on the Hubble constant and neutrino masses by combining LSST-like weak lensing, Simons Observatory CMB lensing, DESI BAO, and expanded supernova samples. Treating the sound horizon as a free parameter, this approach offers a consistency test of ΛCDM.",
+    "significance": "This study provides a robust, sound-horizon-agnostic method to cross-check the Hubble tension and neutrino mass measurements.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "99e31501a97662676274afa0abf8f725",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31642v1",
+    "arxiv_id": "2610.31642v1",
+    "title": "A Fix for Softmax and Cross-Entropy",
+    "authors": [
+      "Jonathan T. Barron",
+      "Dan Gnanapragasam",
+      "Michael Tschannen"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "Fixing Softmax and Cross-Entropy Numerical Bugs in Machine Learning Models",
+    "tldr": "Standard softmax and cross-entropy implementations suffer from two numerical bugs that distort gradients. This article presents a simple fix that restores correct gradient behavior and improves model training stability.",
+    "significance": "Correcting these bugs ensures accurate gradient flow, leading to more reliable training of large language and vision models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "66b29eabf810f584da4ac47df36552c4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31641v1",
+    "arxiv_id": "2610.31641v1",
+    "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
+    "authors": [
+      "Shuzhou Yang",
+      "Lanqing Guo",
+      "Lingen Li"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
+    "tldr": "UniVOE introduces a removal-focused approach that bootstraps video inpainting to erase objects while adapting to interaction effects. For injection, it leverages large-scale paired data to model dynamic object appearance, enabling realistic insertion.",
+    "significance": "This framework bridges the gap between object removal and injection, offering a unified, interaction-aware solution for video editing tasks.",
+    "tags": [
+      "diffusion-models",
+      "segmentation",
+      "object-detection",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "cb2db4baca816d54d2dc2cb72a270b23",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31640v1",
+    "arxiv_id": "2610.31640v1",
+    "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
+    "authors": [
+      "Chenxi Song",
+      "Yanming Yang",
+      "Tong Zhao"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "Aligning Camera Trajectories in Video Diffusion: Overcoming Spatial Inconsistencies and Artifacts",
+    "tldr": "Video diffusion models can generate realistic scenes but struggle with accurate camera control, leading to spatial and temporal artifacts. The paper proposes a method to align camera trajectories, reducing inconsistencies without heavy fine-tuning.",
+    "significance": "This work enables more reliable spatial reasoning in video generation, opening doors for applications like virtual reality and cinematic rendering.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a5e0f15211a21b3a0030dadb7792094e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31639v1",
+    "arxiv_id": "2610.31639v1",
+    "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+    "authors": [
+      "Gabriele Dominici",
+      "Teague McMillan",
+      "Fazl Barez"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "Preventing Attention Leakage: A Causal Chain-of-Thought Approach for Reliable LLM Reasoning",
+    "tldr": "Chain-of-thought prompting can produce plausible but non-causal explanations. This paper introduces context isolation to prevent attention leakage, ensuring each reasoning step truly drives the final answer.",
+    "significance": "By enforcing causal flow, the method improves trustworthiness and interpretability of LLM outputs.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "da41f43648f477a7045bb975e969db8f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31637v1",
+    "arxiv_id": "2610.31637v1",
+    "title": "Lenses make many points: Pure point spectrum disproves Simon's $L^2$ conjecture",
+    "authors": [
+      "Simon Becker",
+      "Mengxuan Yang"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "Smooth Lens Potential Disproves Simon's L^2 Conjecture Using LLM Assistance",
+    "tldr": "We construct a smooth bounded nonnegative lens-type potential V with arbitrarily small norm that yields only pure point spectrum for the Schrödinger operator -Δ+V on (0,∞). This counterexample disproves Barry Simon's L^2 conjecture.",
+    "significance": "It overturns a long-standing conjecture in spectral theory, showing that small L^2 potentials can still produce purely discrete spectra.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6f538e19ce2172b88e26d78fc9f51b60",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31636v1",
+    "arxiv_id": "2610.31636v1",
+    "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
+    "authors": [
+      "Marek Šuppa",
+      "Ivan Vykopal",
+      "Jaroslav Kopčan"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "LLM Debugs Slovak Web Corpus: Agentic Auditing of FineWeb2",
+    "tldr": "Researchers deploy a large language model as a debugging agent to identify and compile failure modes in the Slovak subset of FineWeb2, turning findings into executable tests for native speakers to validate. This approach reveals language‑specific issues overlooked by generic multilingual pipelines.",
+    "significance": "It demonstrates that LLMs can serve as autonomous auditors for large multilingual corpora, improving data quality and uncovering hidden biases.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "da418d34f6a1be14787fbb1c0dcec7e9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31635v1",
+    "arxiv_id": "2610.31635v1",
+    "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
+    "authors": [
+      "Zunnan Xu",
+      "Shangchen Zhou",
+      "Yihang Luo"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "HiP3R: Hierarchical Pose Graphs Enable Scalable 3D Reconstruction from Long Video Sequences",
+    "tldr": "HiP3R introduces a hierarchical pose graph framework that stitches overlapping local reconstructions into a consistent global 3D model, enabling efficient processing of thousands‑frame videos. The method reduces memory usage while maintaining accuracy, making long‑horizon reconstruction practical for real‑time applications.",
+    "significance": "By reconciling local pose estimates into a unified graph, HiP3R overcomes the scalability limits of feed‑forward models, paving the way for large‑scale, real‑time 3D mapping.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1f01b23ea2be2fb52217405f33d62962",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.31633v1",
+    "arxiv_id": "2610.31633v1",
+    "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
+    "authors": [
+      "Hayden Prairie",
+      "Jacob M. Ryan",
+      "Taylor Berg-Kirkpatrick"
+    ],
+    "published": "2026-10-22",
+    "curated_at": "2026-10-25",
+    "headline": "Closing Inference Memory Gap with KV-Sharing in Looped Models Techniques",
+    "tldr": "Looped transformer architectures improve quality without increasing parameters, but inference creates separate KV caches per recurrence, inflating memory usage. KV-sharing across depth reuses caches, drastically reducing memory while preserving performance.",
+    "significance": "This approach enables efficient deployment of high-quality looped models on resource-constrained hardware.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "f82f8e48754f6cb8d4e8933582a22afa",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.31668v1",
@@ -1157,273 +1421,6 @@
       "LLM",
       "benchmark",
       "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e1682b30ee0abcd2f3962432404484d1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23846v1",
-    "arxiv_id": "2610.23846v1",
-    "title": "Identifiability from Moments in Independent Component Analysis Mixture Models",
-    "authors": [
-      "Pardis Semnani",
-      "Konstantin Usevich",
-      "Elina Robeva"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Unveiling Identifiability in ICA Mixture Models via Moment Analysis for Statistical Modeling",
-    "tldr": "This paper demonstrates that ICA mixture models, which generalize Gaussian mixtures, can be uniquely identified from their moments under broad conditions. The authors provide theoretical guarantees and illustrate the implications for nonparametric density estimation.",
-    "significance": "By establishing moment-based identifiability, the work bridges a gap between ICA theory and practical mixture modeling, enabling more reliable inference in high-dimensional data.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "984aa00ca3fb2a30985c38de40e29e98",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23845v1",
-    "arxiv_id": "2610.23845v1",
-    "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
-    "authors": [
-      "Shicheng Liu",
-      "Krista Opsahl-Ong",
-      "Andrew Drozdov"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "LLM Agents Automate Reproducibility and Robustness in Cancer Research Using SEER",
-    "tldr": "We demonstrate that large language model agents can automatically reproduce and assess the analytical robustness of scientific findings, reducing manual effort. In a case study on SEER cancer data, the agents replicated key analyses and identified potential biases, showcasing a scalable approach to reproducibility.",
-    "significance": "This work shows that LLM agents can transform reproducibility from a labor-intensive task into an automated, scalable process, accelerating scientific discovery.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4ad243d2c0d9000dda90e1c990e1f8bb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23844v1",
-    "arxiv_id": "2610.23844v1",
-    "title": "ModeCast: One-Shot Prediction of Linear MHD Eigenmodes and Growth Rates in Tokamaks",
-    "authors": [
-      "Alex Higginbottom",
-      "Zara Z. Ercan",
-      "Abetharan Antony"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "ModeCast: Rapid One-Shot Prediction of Tokamak MHD Instabilities Using Machine Learning",
-    "tldr": "ModeCast delivers instant linear stability assessments for tokamak plasmas, replacing hours-long simulations. Trained on thousands of JOREK runs, it predicts eigenmodes and growth rates in a single forward pass.",
-    "significance": "By enabling real-time stability analysis, ModeCast accelerates fusion design cycles and reduces computational costs.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1511b23f35b14e055a94611d4b1ed257",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23841v1",
-    "arxiv_id": "2610.23841v1",
-    "title": "StopWatch: Goal Grounding for Object-goal Navigation",
-    "authors": [
-      "Xinhao Liu",
-      "Yunsheng Tian",
-      "Yuheng Qiu"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Diagnosing Goal Grounding Failures in Vision‑Language Model Navigation for Object‑Goal Tasks",
-    "tldr": "Fine‑tuned vision‑language models excel at exploration but struggle to correctly ground target objects, limiting success in object‑goal navigation. Our study pinpoints goal grounding as the primary bottleneck and suggests targeted improvements.",
-    "significance": "Understanding the root cause of low success rates in VLM‑based navigation guides the development of more reliable autonomous agents.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "object-detection",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ad42484059292317eca396cdd78c950c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22355v1",
-    "arxiv_id": "2610.22355v1",
-    "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
-    "authors": [
-      "Bowei Liu",
-      "Xinchen Zhang",
-      "Xuhuan Li"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "OmniVerifier-C1: Fine-Grained Decomposition of Rule-Governed Generative Visual Verifiers for Robust Multimodal Intelligence",
-    "tldr": "OmniVerifier-C1 introduces a graded verifier that decomposes complex prompts and environmental rules into fine-grained components, moving beyond binary judgments. This approach enhances robustness and compositional reasoning in multimodal generative world modeling.",
-    "significance": "It enables more nuanced verification of generative models, improving reliability in complex multimodal tasks.",
-    "tags": [
-      "LLM",
-      "diffusion-models",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8c6499e546d9e2b735761a1a2acf29dd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22354v1",
-    "arxiv_id": "2610.22354v1",
-    "title": "LSST and Keck characterization of outer Main Belt comet P/2026 N2",
-    "authors": [
-      "Bryce Bolin",
-      "Leo Alcorn",
-      "Max Brodheim"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "LSST and Keck Reveal Persistent Activity of Outer Main Belt Comet P/2026 N2",
-    "tldr": "Using LSST optical data and Keck/LRIS imaging, we tracked comet P/2026 N2’s active morphology across 102 days around perihelion. Dynamical integrations confirm its outer Main Belt orbit and ongoing activity, highlighting the importance of coordinated surveys.",
-    "significance": "This study demonstrates the power of combining wide-field survey data with targeted high-resolution imaging to monitor cometary activity in the outer Main Belt.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "923c74686f27707976a95b05631ac970",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22353v1",
-    "arxiv_id": "2610.22353v1",
-    "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
-    "authors": [
-      "Bingcong Li",
-      "Hao Ma",
-      "Michael Muehlebach"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "Rethinking Routing Exploration for Efficient Modern Mixture‑of‑Experts Models in Large Language Systems",
-    "tldr": "The paper critiques existing routing strategies in Mixture‑of‑Experts (MoE) models, highlighting trade‑offs between expressiveness and activation efficiency. It introduces a novel routing exploration technique that balances these factors, achieving better accuracy and speed on standard benchmarks.",
-    "significance": "By redefining how tokens are routed to experts, the study enables larger, more efficient MoE models that can be deployed in real‑world AI applications.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cd2a0572142621bb1b5870fc88c270be",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22352v1",
-    "arxiv_id": "2610.22352v1",
-    "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
-    "authors": [
-      "Chen Yang",
-      "Jiemin Fang",
-      "Fanpeng Meng"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "SUPRA-TEX: Super-Aligned Texture for Realistic 3D Mesh Generation from a Single Image",
-    "tldr": "SUPRA‑TEX introduces a novel approach that aligns texture across views to produce photorealistic, relightable 3D meshes from a single image. By fusing multi‑view predictions without artifacts and preserving fine details through implicit conditioning, it outperforms existing methods on benchmark datasets.",
-    "significance": "It advances single-image 3D reconstruction, enabling high-fidelity, relightable models for applications in AR/VR and digital content creation.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "35b44710aeb576f39790f71b28772e10",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22350v1",
-    "arxiv_id": "2610.22350v1",
-    "title": "FDE-Gym: The Last Mile of AI Delivery",
-    "authors": [
-      "Dongxu Yang",
-      "Hongda Yan",
-      "Renxin Wang"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "FDE-Gym: Benchmarking AI Agents on Real-World Delivery Tasks for Forward-Deployed Engineers",
-    "tldr": "We introduce FDE-Gym, a benchmark of 95 end-to-end delivery tasks spanning 20 customer scenarios, designed to evaluate AI agents in realistic, ambiguous, live-system contexts. This benchmark pushes agents beyond well-specified tasks, requiring clarification of requirements and discovery of unstated constraints.",
-    "significance": "FDE-Gym provides the first large-scale, realistic testbed for AI agents, bridging the gap between controlled benchmarks and real-world engineering deployments.",
-    "tags": [
-      "benchmark",
-      "real-time",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fdfa479d8e0d35f09e2a202691fc2258",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22349v1",
-    "arxiv_id": "2610.22349v1",
-    "title": "Singles in Disguise: Kepler's Low-SNR Single-Transiting Systems as Incompletely Detected Multis",
-    "authors": [
-      "Daniel A. Yahalomi",
-      "David Nesvorny",
-      "David Kipping"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "Kepler Singles May Be Hidden Multiplanet Systems, Not a Separate Population",
-    "tldr": "Kepler’s excess of single transiting planets can be explained by detection biases that miss additional low‑signal planets. The study shows that many singles are actually incomplete detections of multi‑planet systems, challenging the idea of a distinct single‑planet population.",
-    "significance": "This finding reshapes our understanding of planetary system architectures and suggests that apparent single‑planet systems may largely be incomplete multi‑planet systems.",
-    "tags": [
-      "time-series",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f46f668dd0ecf7a3c88fa20e255b965f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.22347v1",
-    "arxiv_id": "2610.22347v1",
-    "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
-    "authors": [
-      "Hyunwook Choi",
-      "Seungryong Kim",
-      "Dongyoon Han"
-    ],
-    "published": "2026-10-15",
-    "curated_at": "2026-10-18",
-    "headline": "Speculative Forcing Accelerates Autoregressive Video Generation for Real-Time Streaming without Extra Computation",
-    "tldr": "Speculative Forcing selectively skips the final denoising step for tokens that already converge, reducing compute while maintaining quality. This approach speeds up few-step autoregressive video generators, enabling efficient real-time streaming.",
-    "significance": "It allows video generation models to run faster and more efficiently, making real-time streaming practical.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "foundation-models"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
