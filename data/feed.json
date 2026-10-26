@@ -1,5 +1,317 @@
 [
   {
+    "uid": "b1923491a362c7def07aad8cd0eb1865",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32982v1",
+    "arxiv_id": "2610.32982v1",
+    "title": "The Language of Instruction: Genre and Generative AI",
+    "authors": [
+      "James E. Dobson"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "Instruction-Fine-Tuned LLMs as a New Genre: The Instructional-Conversational Paradigm in AI",
+    "tldr": "The article proposes that instruction-fine-tuned language models constitute a distinct genre—called the instructional‑conversational genre—formed by recursive interactions between humans and generative models. It argues that understanding these models as a genre clarifies their design, evaluation, and deployment across AI applications.",
+    "significance": "Recognizing instruction‑fine‑tuned LLMs as a genre reshapes how we evaluate and deploy generative AI, emphasizing conversational dynamics over static performance metrics.",
+    "tags": [
+      "LLM",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "39aa4eb6f2c09958f0c2f04595de22cc",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32981v1",
+    "arxiv_id": "2610.32981v1",
+    "title": "SEMAC: Spherical Energy Matching Ambisonics Codec for Efficient Higher-Order Ambisonics Compression",
+    "authors": [
+      "Christoph Hold",
+      "Jan Buethe",
+      "Jean-Marc Valin"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "SEMAC: A New Codec for Efficient Compression of Higher-Order Ambisonics Audio",
+    "tldr": "SEMAC introduces a spherical energy matching approach that reduces bitrate growth in HOA by selectively encoding energy-per-spherical-harmonic rather than all channels. The codec achieves comparable audio quality to Opus while cutting channel count and enabling real‑time streaming of immersive audio.",
+    "significance": "This codec addresses the quadratic bitrate challenge of HOA, making high‑order spatial audio more practical for streaming and real‑time applications.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "93e9bf9dbe2fdf245a850af0e378cc5f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32980v1",
+    "arxiv_id": "2610.32980v1",
+    "title": "Separating Thinking from Spelling for Efficient Generative Recommendation",
+    "authors": [
+      "Danil Gusak",
+      "Anna Volodkevich",
+      "Ivan Oseledets"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "Optimizing Generative Recommender Efficiency by Decoupling Thinking from Spelling for Large-Scale Web Platforms",
+    "tldr": "This work introduces a method to separate the reasoning process from the spelling of semantic IDs in generative recommenders, reducing the computational cost of beam search. By decoupling the two stages, the approach cuts the backbone passes from O(BK) to a more efficient schedule, enabling deployment at scale.",
+    "significance": "The technique dramatically lowers inference latency and resource usage for large-scale recommendation systems, making generative recommenders practical for real-time web applications.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "26bfeef3fe83b31e7a9b8c718f0ed959",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32979v1",
+    "arxiv_id": "2610.32979v1",
+    "title": "Fréchet Kriging for Metric Space-Valued Spatial Data",
+    "authors": [
+      "Ryo Okano",
+      "Daisuke Kurisu",
+      "Hans-Georg Müller"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "Fréchet Kriging: Predicting Non-Euclidean Spatial Data in General Metric Spaces",
+    "tldr": "We introduce Fréchet kriging, a general framework for spatial prediction of metric-space-valued data such as probability distributions and SPD matrices. The method extends classical kriging to non-Euclidean settings, enabling accurate interpolation without vector space assumptions.",
+    "significance": "Fréchet kriging unlocks spatial analysis for a wide range of modern data types that were previously inaccessible to traditional geostatistics.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a17abffa052b358235de7ee5abd73c05",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32978v1",
+    "arxiv_id": "2610.32978v1",
+    "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+    "authors": [
+      "Yuhan Liu",
+      "Lianhui Qin",
+      "Shenji Wan"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "SceneBloom: Generating Realistic Indoor Layouts for Embodied AI Training",
+    "tldr": "SceneBloom combines language guidance with diffusion-based visual generation to produce diverse, physically valid 3D indoor scenes. It bridges semantic planning and spatial reasoning, enabling more realistic embodied agent training.",
+    "significance": "The method advances embodied AI by providing scalable, realistic environments that improve generalization and learning efficiency.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "spatial-reasoning",
+      "LLM"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "35b3294dcd1f15a55dbff03ff7f0d791",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32977v1",
+    "arxiv_id": "2610.32977v1",
+    "title": "UniAction: Unified Action Conditioning for World Models",
+    "authors": [
+      "Bowen Xue",
+      "Zizhang Li",
+      "Hong-Xing Yu"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "Unified Action Conditioning for World Models",
+    "tldr": "We propose UniAction, a framework that encodes any action as a sparse set of semantic elements, enabling a single action-conditioned world model to handle diverse action types. This unification reduces data fragmentation and improves model generalization across tasks.",
+    "significance": "UniAction streamlines action-conditioned modeling, boosting efficiency and performance in dynamic environments.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7868bd84568608b5a201ccd14708d13f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32976v1",
+    "arxiv_id": "2610.32976v1",
+    "title": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
+    "authors": [
+      "Philipp Lindenberger",
+      "Paul-Edouard Sarlin",
+      "Ondrej Miksik"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "FlexGlue: Bridging Sparse and Dense Feature Matching for Robust Visual Disambiguation",
+    "tldr": "FlexGlue unifies sparse interest points and dense pixel grids to estimate correspondences efficiently while rejecting visually symmetric mismatches. It introduces a hybrid matching pipeline that improves robustness and speed for image alignment tasks.",
+    "significance": "It addresses the trade-off between efficiency and robustness in feature matching, enabling more reliable image correspondence in challenging visual scenarios.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3cef63895b21591d729124d8cd54d77a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32973v1",
+    "arxiv_id": "2610.32973v1",
+    "title": "Ideal interaction dynamics of defects and background fields in condensed matter",
+    "authors": [
+      "François Gay-Balmaz",
+      "Tudor S. Ratiu",
+      "Cesare Tronci"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "Coupling Defect Dynamics with Background Fields: Modeling Interactions in Condensed Matter Systems",
+    "tldr": "Defect tracking is common, but modeling their coupled evolution with background fields remains difficult. Understanding this interaction is crucial for predicting system behavior.",
+    "significance": "Accurately capturing defect–field coupling can unlock new insights into material properties and guide the design of advanced functional materials.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "diffusion-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5ba50686f493308553236ff1115d59b3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32972v1",
+    "arxiv_id": "2610.32972v1",
+    "title": "Comprehensive Visible and Near-infrared Keck and Gemini Monitoring and Characterization of Interstellar Comet 3I/ATLAS during its Encounter with the Solar System",
+    "authors": [
+      "Bryce T. Bolin",
+      "Jeffrey Cooke",
+      "Brian C. Lemaux"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "Keck and Gemini Monitor Interstellar Comet 3I/ATLAS: Optical and Near‑IR Observations",
+    "tldr": "We present 14 optical imaging and eight spectroscopic epochs of comet 3I/ATLAS from Keck and Gemini, along with near‑infrared imaging and spectroscopy, revealing its color properties and activity during its solar encounter. The data provide a comprehensive time‑series of its photometric and spectroscopic evolution, informing models of interstellar comet composition.",
+    "significance": "These observations offer the first detailed multi‑wavelength characterization of an interstellar comet, enhancing our understanding of cometary origins beyond the Solar System.",
+    "tags": [
+      "remote-sensing",
+      "time-series",
+      "object-detection"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4683fe99238eda5aed58dd2e01daf476",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32971v1",
+    "arxiv_id": "2610.32971v1",
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "authors": [
+      "Xi Chen",
+      "Fengqi Hu",
+      "Zeyu Shen"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "RobustRLlib: Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "tldr": "RobustRLlib provides an algorithm-centric framework that unifies existing robust RL methods and offers a comprehensive benchmark to evaluate their performance under diverse distribution shifts. By enabling easy reuse of algorithms and clarifying empirical limits, it accelerates research and deployment of reliable RL systems.",
+    "significance": "This library lowers barriers to robust RL research, fostering reproducibility and practical deployment of resilient policies.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c5b8a6798555a0d7407dbfe5a328c3e9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32970v1",
+    "arxiv_id": "2610.32970v1",
+    "title": "On the continuity of conditional distributions and stratification for derivative pricing",
+    "authors": [
+      "Aleksandar Arandjelovic",
+      "Patrick Cheridito"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "Reducing Monte Carlo Variance in Derivative Pricing Through Stratified Sampling",
+    "tldr": "Stratification partitions the sample space by a low-dimensional factor, reducing estimator variance in Monte Carlo simulations for path-dependent derivatives. The method's effectiveness hinges on selecting an appropriate stratification factor, which remains a critical challenge.",
+    "significance": "This approach can dramatically improve pricing accuracy and computational efficiency for complex financial instruments.",
+    "tags": [
+      "time-series",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f3d543a9af689be1d56273a4076fbe1a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32969v1",
+    "arxiv_id": "2610.32969v1",
+    "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+    "authors": [
+      "Amber Xie",
+      "Jiawei Fu",
+      "Xiaofeng Guo"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "DexPort: Hand‑Held Interface for Efficient Dexterous Manipulation Data Collection and Analysis",
+    "tldr": "DexPort provides a portable, hand‑held interface that captures high‑quality dexterous hand motions, bypassing the need for full robot setups and complex retargeting. It streamlines data collection for learning manipulation by allowing operators to record natural hand gestures that can be directly mapped to robotic actions.",
+    "significance": "DexPort bridges the gap between human demonstration and robotic execution, accelerating the acquisition of high‑quality dexterous manipulation datasets.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c33a149b73db8c73cfcda66c8b540e86",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.32967v1",
+    "arxiv_id": "2610.32967v1",
+    "title": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
+    "authors": [
+      "Tarunya Prasad",
+      "Bharatesh Chakravarthi"
+    ],
+    "published": "2026-10-23",
+    "curated_at": "2026-10-26",
+    "headline": "MiD‑VLM: Detecting Global Semantic Misinformation in Image‑Caption Pairs Using Vision‑Language Models",
+    "tldr": "MiD‑VLM introduces a vision‑language model that identifies mismatches between authentic images and misleading captions, grounding the source of misinformation. The system leverages a new DGM4+ dataset and demonstrates state‑of‑the‑art performance in detecting global semantic distortions.",
+    "significance": "This work enables reliable detection of narrative manipulation in multimedia, a critical step toward trustworthy AI and media literacy.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 1,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "08984f08abd978383e3e130d17f2b4ae",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.31669v1",
@@ -1108,319 +1420,6 @@
       "diffusion-models",
       "open-source",
       "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5010b602fb39101cc19f872b645cf006",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26855v1",
-    "arxiv_id": "2610.26855v1",
-    "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
-    "authors": [
-      "Tianqi Liu",
-      "Hanfei Zhao",
-      "Qifeng Liang"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "Ropedia W0: First Loco-Manipulation Foundation Model for Humans and Robots",
-    "tldr": "Ropedia W0 introduces an egocentric world model that jointly learns locomotion and manipulation across diverse embodiments, bridging humans and robots. The model is trained on the newly curated Xp-Data, offering a benchmark for future loco-manipulation research.",
-    "significance": "It provides a unified foundation for embodied agents to anticipate action consequences across heterogeneous action spaces, advancing cross-embodiment AI.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ec437e2f23099534d3b05064005f0cf0",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26854v1",
-    "arxiv_id": "2610.26854v1",
-    "title": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
-    "authors": [
-      "Jiaming Liu",
-      "Xinghao Zhu",
-      "Yiming Zhang"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "Bridging Language and Latent Reasoning: Physical Words for Robot Manipulation",
-    "tldr": "Multimodal reasoning equips robotic foundation models with predictive context, yet language-based reasoning lacks fine-grained physical dynamics. Introducing a structured vocabulary of physical words unifies latent state evolution with reusable reasoning primitives for robust robot manipulation.",
-    "significance": "This work provides a foundational framework that integrates language semantics with latent dynamics, enabling more reliable and reusable robotic manipulation strategies.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7593646411f87d41a9a5864d95bcd590",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26847v1",
-    "arxiv_id": "2610.26847v1",
-    "title": "WeAct: Dynamic Weight Switching as Agent Actions",
-    "authors": [
-      "Rui Shi",
-      "Xunjian Yin",
-      "Jiacheng Sang"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "Dynamic Weight Switching: A New Agent Action for Long-Horizon Learning",
-    "tldr": "Long-horizon agents often forget earlier skills when learning new ones. Dynamic weight switching lets agents activate different capability modules at each trajectory stage, mitigating catastrophic forgetting.",
-    "significance": "This approach enables agents to retain and flexibly deploy heterogeneous skills without retraining the entire model.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "60b697188b12933ddcb7c5f97054e27d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26846v1",
-    "arxiv_id": "2610.26846v1",
-    "title": "GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation",
-    "authors": [
-      "Chen Yang",
-      "Linzhe Shi",
-      "Hang Zhang"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "GPT-6 Astra Enables Real-Time Visuo‑Tactile Control for Contact‑Rich Robotic Manipulation",
-    "tldr": "GPT-6 Astra, a multimodal foundation model, demonstrates the first direct use of tactile observations for contact‑rich robotic manipulation via in‑context learning. This breakthrough shows that large language models can handle complex sensor fusion tasks in real‑time, opening new possibilities for versatile robotic control.",
-    "significance": "It proves that large multimodal models can replace specialist tactile policies, simplifying the development of adaptable, real‑time robotic systems.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "deaaa426cea6ad97daa6d50a9d92587f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26845v1",
-    "arxiv_id": "2610.26845v1",
-    "title": "Train An Imaginative Agent",
-    "authors": [
-      "Jiaxin Ge",
-      "Junyi Zhang",
-      "Tianning Chai"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "Training Agents to Imagine Before Acting: A New Framework for Sokoban",
-    "tldr": "We propose Agentic Imagination (Agima), a training framework that encourages agents to simulate consequences before acting. This approach reduces irreversible mistakes in sparse-feedback environments like Sokoban.",
-    "significance": "Agima enables agents to anticipate and avoid unsolvable states, improving reliability in planning tasks.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a25bcb0fc30d7aa3074cbcef8f169fea",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26844v1",
-    "arxiv_id": "2610.26844v1",
-    "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
-    "authors": [
-      "Heejeong Nam",
-      "Divyat Mahajan",
-      "Quentin Le Lidec"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "Generalizing World Models Beyond Expert Rollouts: Improving Dynamics for Reliable Planning",
-    "tldr": "World models aim to capture environment dynamics for planning, but they often fail outside expert rollouts. This paper investigates how data coverage affects generalization and proposes methods to improve robustness.",
-    "significance": "The work highlights a critical bottleneck in deploying world models for real-world decision making, offering insights that could broaden their applicability.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "266f5ba9fc55a2b4469fde9eafeac19b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23856v1",
-    "arxiv_id": "2610.23856v1",
-    "title": "Learning to Correct Geometry in Generated Videos",
-    "authors": [
-      "Weijie Lyu",
-      "Tiancheng Shen",
-      "Jason Li"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Fixing Geometric Drift in Video Generation: Data-Driven Corrections for Consistent Viewpoints",
-    "tldr": "Generated videos often lose geometric consistency under camera motion, causing warped structures and inconsistent parallax. This paper shows that the issue stems mainly from data biases and proposes a data-driven correction method that restores spatial coherence.",
-    "significance": "Improving geometric fidelity in video synthesis enhances realism and reliability for downstream applications like AR/VR and visual storytelling.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6df0bdc54a78273a3a79c2afca768955",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23854v1",
-    "arxiv_id": "2610.23854v1",
-    "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
-    "authors": [
-      "Soumik Mukhopadhyay",
-      "Long Mai",
-      "Abhinav Shrivastava"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Pixel Diffusion Transformers: Direct Image Generation Without Latent Bottlenecks in Pixel Space",
-    "tldr": "JiT demonstrates that a vanilla diffusion transformer can generate images directly in pixel space by replacing the usual velocity prediction with clean image prediction. This eliminates the need for a lossy latent bottleneck and a separately trained autoencoder, simplifying the pipeline.",
-    "significance": "This approach streamlines diffusion-based image synthesis, potentially improving fidelity and reducing computational overhead.",
-    "tags": [
-      "diffusion-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "181e63fb7da11963c113a776a9245104",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23852v1",
-    "arxiv_id": "2610.23852v1",
-    "title": "Flashing with colours: Photometric indicators of an early interaction in type II supernovae",
-    "authors": [
-      "A. Mendez-Llorca",
-      "G. Folatelli",
-      "C. P. Gutierrez"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Early Interaction Signals in Type II Supernovae Revealed by Rapid Photometry",
-    "tldr": "We combine near-daily, high-precision optical photometry of 86 type II supernovae to identify early photometric signatures of circumstellar interaction. The study demonstrates that early color evolution can serve as a diagnostic for progenitor mass loss and explosion physics.",
-    "significance": "This work provides a new, statistically robust method to probe early supernova environments, informing models of massive star evolution.",
-    "tags": [
-      "time-series",
-      "change-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "946dc180e316ec78e89baa7d94aef378",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23851v1",
-    "arxiv_id": "2610.23851v1",
-    "title": "Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
-    "authors": [
-      "Ethan Myers",
-      "Lorenzo De Carli",
-      "Shantanu Sharma"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Unveiling Consent Gaps: 10,000+ mHealth Apps Exposed and Data Practices Revealed",
-    "tldr": "We analyzed consent and data collection across 10,000+ mHealth apps on Google Play, revealing widespread privacy gaps and inconsistent data handling. The study highlights the need for stricter regulations and better transparency in mobile health applications.",
-    "significance": "This work provides the first large-scale evidence of privacy shortcomings in mHealth apps, informing policymakers and developers.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 1,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cf2a752c3689bd5c90e67be8ffb76a2a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23850v1",
-    "arxiv_id": "2610.23850v1",
-    "title": "Entering the Era of Circumplanetary Ring Detection with Direct Imaging",
-    "authors": [
-      "Samantha N. Hasler",
-      "Alexandra Z. Greenbaum",
-      "Geoffrey Bryden"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Detecting Exoplanet Rings: A New Frontier in Direct Imaging Observations",
-    "tldr": "Rings around giant planets are common in our Solar System, but detecting them around exoplanets remains challenging. Upcoming missions like the Nancy Grace Roman Space Telescope will need to account for ring effects to accurately interpret reflected light data.",
-    "significance": "Understanding circumplanetary rings is essential for correctly characterizing exoplanet atmospheres and potential habitability.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning",
-      "object-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "9252d753c247899a3828c17ecc415598",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23849v1",
-    "arxiv_id": "2610.23849v1",
-    "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
-    "authors": [
-      "Antonia Bronars",
-      "Younghyo Park",
-      "Kushal Kedia"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Proprioceptive Sim-to-Real Peg-in-Hole: Blind Precise Assembly Using Joint Sensors for Diverse Parts",
-    "tldr": "This work demonstrates that high-resolution joint encoders alone can guide a robot to perform millimeter-scale peg-in-hole tasks without visual feedback. By training a proprioceptive policy in simulation and transferring it to real hardware, the robot reliably aligns and inserts diverse parts under blind conditions.",
-    "significance": "It shows that proprioception can replace vision for fine assembly, reducing cost and complexity in robotic manufacturing.",
-    "tags": [
-      "object-detection",
-      "real-time",
-      "point-cloud",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ac3b77449a7dedd892d738fe163cd3b9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.23847v1",
-    "arxiv_id": "2610.23847v1",
-    "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
-    "authors": [
-      "Dongyoon Hahm",
-      "Woogyeol Jin",
-      "Dennis Wei"
-    ],
-    "published": "2026-10-16",
-    "curated_at": "2026-10-19",
-    "headline": "Fine-Tuning Sparks Unexpected Behaviors and Synergies in Large Language Models",
-    "tldr": "Fine-tuning LLMs can trigger unintended behaviors, revealing behavioral couplings. This study maps these emergent effects.",
-    "significance": "Understanding behavioral couplings informs safer model fine-tuning practices.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
