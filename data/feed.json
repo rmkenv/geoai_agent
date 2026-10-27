@@ -1,5 +1,236 @@
 [
   {
+    "uid": "3d285de4b50ab4d3e4e55b7cf118bc5f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35868v1",
+    "arxiv_id": "2610.35868v1",
+    "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+    "authors": [
+      "Chao Wan",
+      "Paul Jünger",
+      "Beixi Du"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "DecisionRAG: Leveraging Language Models for Retrieval Without Traditional Indexes and Lexical Matching",
+    "tldr": "DecisionRAG replaces lexical or embedding-based retrieval with decision models that guide pretrained language models to locate relevant documents. This approach eliminates retrieval bottlenecks, allowing generators to recover even when traditional retrievers miss key information.",
+    "significance": "By freeing retrieval from lexical constraints, DecisionRAG enables more robust and flexible document navigation, improving the reliability of large language model outputs.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "af9827d1adf09c3e2ae67c20ba9a6989",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35865v1",
+    "arxiv_id": "2610.35865v1",
+    "title": "Center-of-Mass Interpretation of Evolution Strategies",
+    "authors": [
+      "Akshat Gupta"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "Center-of-Mass View of Evolution Strategies: A Geometric Take on Optimization",
+    "tldr": "Evolution strategies can be seen as moving the center of mass of a weighted particle cloud, where each perturbed model is a particle and its reward is its mass. This geometric view offers a fresh perspective on how ES updates the model parameters.",
+    "significance": "This interpretation simplifies understanding of ES updates and may inspire new algorithmic variations.",
+    "tags": [
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d8e5f2273bf113191732de67d93027a8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35866v1",
+    "arxiv_id": "2610.35866v1",
+    "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+    "authors": [
+      "Xi Chen",
+      "Chongjian Ge",
+      "Yiran Xu"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "Auto-Research Arena: A New Benchmark for Autonomous Language Model Research",
+    "tldr": "The Auto-Research Arena introduces a multi-target benchmark that evaluates autonomous research systems in language modeling. It provides a shared experimental environment that separates admissibility criteria, enabling systematic discovery of novel ideas.",
+    "significance": "This benchmark accelerates the development of self-driving research agents by offering a standardized, reproducible evaluation framework.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "66fd42ac1eb14ea4696d79f7738ea93d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35864v1",
+    "arxiv_id": "2610.35864v1",
+    "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
+    "authors": [
+      "Muxi Diao",
+      "Wenbin Xu",
+      "Lele Yang"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "VibeVideoBench: Benchmarking Code-Driven Video Generation for Evaluating Multimodal Agents in Real-World Scenarios",
+    "tldr": "Diffusion video models struggle to render precise formulas, charts, or synchronized narration, prompting a shift toward multimodal agents that generate code for each frame and sound. VibeVideoBench evaluates these agents with a 23‑task benchmark.",
+    "significance": "This benchmark advances the evaluation of code-driven video generation, bridging the gap between visual fidelity and functional accuracy.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "diffusion-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8564bf0ed2db3ee668967b279c09185b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35863v1",
+    "arxiv_id": "2610.35863v1",
+    "title": "Complete entropy contraction from conditional hyperboundedness",
+    "authors": [
+      "Li Gao",
+      "Lijun Wang"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "Conditional Hyperboundedness and GNS Contraction Yield Entropy Contraction in Quantum Channels",
+    "tldr": "We prove that for finite-dimensional quantum channels compatible with a faithful conditional expectation, conditional hyperboundedness together with strict GNS contraction ensures a contraction of relative entropy. For KMS-symmetric quantum Markov semigroups, a conditional 2→q hyperboundedness at time t0 combined with a GNS spectral gap yields an explicit lower bound for the modified logarithmic Sobolev constant.",
+    "significance": "This result bridges functional analytic properties of quantum channels with entropy decay, providing new tools for quantum information theory.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8abeeecc238f425bb5a89a5a0296c195",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35857v1",
+    "arxiv_id": "2610.35857v1",
+    "title": "Do vision models know that three is three?",
+    "authors": [
+      "Ankit Sonthalia",
+      "Arnas Uselis",
+      "Seong Joon Oh"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "Do Vision Models Truly Understand Conceptual Shifts Across Handwritten Digits and Everyday Scenes?",
+    "tldr": "Vision models may encode transformations like 2→3 or clean→dirty as linear directions in their latent space, but do they generalize these changes across different modalities? This study probes whether such models truly grasp abstract concept changes or merely learn superficial patterns.",
+    "significance": "Understanding whether vision models capture abstract transformations informs how we design more robust, transferable AI systems.",
+    "tags": [
+      "foundation-models",
+      "object-detection",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "e82ce4720695af189e4526890190306a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35856v1",
+    "arxiv_id": "2610.35856v1",
+    "title": "On the stability of learning",
+    "authors": [
+      "John J. Vastola"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "Stability of Learning with Sparse, Noisy, Intermittent Gradient Signals in Neural Networks",
+    "tldr": "This study investigates how learning algorithms behave when gradient information is sparse, local, and noisy, as often occurs in biological neural networks. The authors demonstrate that intermittent gradients can destabilize learning, highlighting the need for robust training methods under realistic signal constraints.",
+    "significance": "Understanding the limits of learning under realistic, intermittent gradient conditions is crucial for designing resilient artificial and biological neural systems.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9604fd00a24ad2bba32dd24e5aab4d77",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35854v1",
+    "arxiv_id": "2610.35854v1",
+    "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
+    "authors": [
+      "Eunbeen Hong",
+      "Hyeonseo Yu",
+      "Honggyu An"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "FL4N: A Feed-Forward Latent Model for Real-Time 4D Novel View Synthesis",
+    "tldr": "FL4N introduces a feed-forward latent representation for 4D novel view synthesis, eliminating the need for explicit 4D Gaussian models. It achieves temporally consistent, artifact-free rendering across viewpoints and timestamps in real time.",
+    "significance": "This work enables efficient, temporally coherent dynamic scene rendering, advancing real-time 4D graphics.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b089935c4a7a81c3ed2c54b60ef945bf",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35853v1",
+    "arxiv_id": "2610.35853v1",
+    "title": "Adequacy radii for stepped-wedge trials with time-varying effects",
+    "authors": [
+      "Stanisław M. S. Halkiewicz",
+      "Sergey Alexeev"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "Balancing Precision and Effect Estimation in Stepped-Wedge Trials with Time-Varying Effects",
+    "tldr": "Stepped-wedge designs lack concurrent controls in final periods, creating tension between precise constant-effect analyses and exposure-time indicator methods that target time-averaged effects. This paper proposes adequacy radii to guide design choice under exposure-time heterogeneity.",
+    "significance": "It offers a principled framework to balance precision and effect estimation in stepped-wedge trials, improving inference under time-varying interventions.",
+    "tags": [
+      "time-series",
+      "change-detection"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4818201458809edc9a8ba4ec516f9d5e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.35852v1",
+    "arxiv_id": "2610.35852v1",
+    "title": "Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization",
+    "authors": [
+      "Gijeong Kim",
+      "Seungbin Oh",
+      "Dongyun Kang"
+    ],
+    "published": "2026-10-26",
+    "curated_at": "2026-10-27",
+    "headline": "Smooth Analytic Gradient for Frictional Contact Enables Real-Time Legged Locomotion Optimization",
+    "tldr": "The authors derive a differentiable, smooth gradient for frictional contact that overcomes mode-switching limitations, enabling policy learning and contact-implicit trajectory optimization for legged robots. This approach provides closed-form sensitivities across contact transitions, improving stability and efficiency in locomotion planning.",
+    "significance": "It advances legged robot control by delivering a tractable, mode-aware gradient that facilitates learning and optimization in complex contact scenarios.",
+    "tags": [
+      "real-time",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "b1923491a362c7def07aad8cd0eb1865",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.32982v1",
@@ -1194,234 +1425,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "01a85812616ebaae0b87db7edbdb36b8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.30123v1",
-    "arxiv_id": "2610.30123v1",
-    "title": "Temporal Exploration and Rendezvous via Weisfeiler-Leman Colorings",
-    "authors": [
-      "Frank Kammer",
-      "Sandra Kiefer",
-      "Johannes Meintrup"
-    ],
-    "published": "2026-10-21",
-    "curated_at": "2026-10-22",
-    "headline": "Efficient Temporal Exploration via Weisfeiler-Leman Colorings Enables Fast Vertex Coverage",
-    "tldr": "We prove that any connected temporal graph can be explored in O(qn log^3 n) steps, where q is the number of 2‑WL color classes. This improves previous bounds and shows that Weisfeiler‑Leman colorings capture temporal connectivity efficiently.",
-    "significance": "This result bridges graph isomorphism techniques with temporal graph traversal, offering a new tool for dynamic network analysis.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f88dae3b090a59ee96b632b0cd088755",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.30121v1",
-    "arxiv_id": "2610.30121v1",
-    "title": "Geometric Algebra for Neural Networks: A Survey",
-    "authors": [
-      "Tao Zhong",
-      "Kaison Fong",
-      "Keqin Wang"
-    ],
-    "published": "2026-10-21",
-    "curated_at": "2026-10-22",
-    "headline": "Survey of Geometric Algebra Techniques for Equivariant Neural Network Design",
-    "tldr": "This survey reviews how geometric algebra unifies geometric primitives and transformations in neural networks, enabling multivector feature representations and built‑in equivariance. It covers foundational concepts, architectural designs, and applications across computer vision and robotics.",
-    "significance": "It demonstrates how algebraic structure can embed geometric invariances directly into neural network layers.",
-    "tags": [
-      "spatial-reasoning",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bfd76868c8ad416b5c03d7edf06add55",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.30120v1",
-    "arxiv_id": "2610.30120v1",
-    "title": "ALPS: Visual State Encoders for World Models",
-    "authors": [
-      "Yanqing Liu",
-      "Letian Zhang",
-      "Chengzhi Liu"
-    ],
-    "published": "2026-10-21",
-    "curated_at": "2026-10-22",
-    "headline": "ALPS: Unified Visual Encoders for Prediction, Instruction, and Inspection in World Models",
-    "tldr": "The paper introduces ALPS, a visual encoder that jointly captures physical state, language alignment, and pixel reconstruction, enabling world models to predict, follow instructions, and be inspected. It bridges gaps in existing encoders by providing a single representation that supports multiple downstream tasks.",
-    "significance": "By unifying these capabilities, ALPS advances the versatility and interpretability of world models, paving the way for more robust AI systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ab288ac78cacedf5cf8ed9fec2b6dd54",
-    "source": "web",
-    "url": "https://www.geoai.au/category/news/",
-    "arxiv_id": "",
-    "title": "News Archives - Geospatial Artificial Intelligence | GeoAI",
-    "authors": [],
-    "published": "2026-10-21",
-    "curated_at": "2026-10-21",
-    "headline": "GeoAI Launches New Feature Updates and Cutting-Edge Technologies in Latest News Archive",
-    "tldr": "The GeoAI news archive now highlights recent feature releases and emerging technologies. Stay informed on the latest advancements in geospatial AI.",
-    "significance": "This update enhances user engagement by providing timely insights into GeoAI's evolving capabilities.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "d7f2f215fb0c6f21acbef1a9b7ee0e6f",
-    "source": "web",
-    "url": "https://evermx.com/open-source/geoai-geospatial-artificial-intelligence",
-    "arxiv_id": "",
-    "title": "GeoAI - Open Source AI Project - Evermx",
-    "authors": [],
-    "published": "2026-10-21",
-    "curated_at": "2026-10-21",
-    "headline": "GeoAI: Open-Source AI Framework for Satellite Imagery Analysis and Visualization",
-    "tldr": "GeoAI is a Python library that unifies deep learning with geospatial data, enabling rapid analysis of satellite and aerial imagery. Published by the Open Geospatial Solutions community, it offers tools for segmentation, object detection, and change detection across diverse remote sensing modalities.",
-    "significance": "By providing an open, modular platform, GeoAI accelerates the deployment of AI in environmental monitoring, urban planning, and disaster response.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "segmentation",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e4a462a5e5fd0e53d897c4ac09d719dc",
-    "source": "web",
-    "url": "https://opengeoai.org/workshops/GeoAI_Workshop_2025/",
-    "arxiv_id": "",
-    "title": "Object Detection from Remote Sensing Imagery with GeoAI",
-    "authors": [],
-    "published": "2026-10-21",
-    "curated_at": "2026-10-21",
-    "headline": "GeoAI Object Detection in Remote Sensing: From Installation to Model Training",
-    "tldr": "This notebook walks users through installing GeoAI, downloading satellite imagery, visualizing data, and training an object detection model. It demonstrates a complete pipeline for detecting objects in remote sensing images using open-source tools.",
-    "significance": "It empowers researchers to quickly prototype and deploy object detection models on satellite imagery, accelerating applications like urban planning and environmental monitoring.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "object-detection",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8470a38410ad8d28a512311bba2edc51",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26863v1",
-    "arxiv_id": "2610.26863v1",
-    "title": "Text-to-Image Generative Modeling Without Language Pretraining",
-    "authors": [
-      "Keshigeyan Chandrasegaran",
-      "Yue Zhao",
-      "Armin W. Thomas"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "Halcyon: Strong Text-to-Image Generation Without Language Pretraining From Scratch on 100M Image-Text Pairs",
-    "tldr": "Halcyon demonstrates that large multimodal autoregressive models can be trained from scratch on a 100M image-text dataset, achieving superior performance to models that rely on internet-scale language pretraining. The 0.52B parameter variant surpasses LlamaGen-XL/8 by a significant margin in image quality metrics.",
-    "significance": "This work challenges the prevailing assumption that language pretraining is essential for high-quality text-to-image generation, opening new avenues for efficient multimodal model training.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fba5dbf1c5551ffea2e2ab32fafcc975",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26860v1",
-    "arxiv_id": "2610.26860v1",
-    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-    "authors": [
-      "Yu Zhou",
-      "Cheng-Fu Yang",
-      "Rui Sun"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "OpenVLHarness Empowers Visual Agents with Multimodal Memory for Real-World Tool Use",
-    "tldr": "OpenVLHarness demonstrates that multimodal memory enables large language models to perform complex visual tasks that require external evidence and numerical measurements. Our study on 22 benchmarks shows that merely increasing inference time is insufficient, highlighting the need for grounded perception and external knowledge.",
-    "significance": "This work reveals the limitations of current MLLMs and introduces a framework that bridges the gap between internal reasoning and real-world perception, advancing tool-use capabilities.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1eab4a9a09a91205425e2e6a8ecf296f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26859v1",
-    "arxiv_id": "2610.26859v1",
-    "title": "Boundary-Sensitive Quantum Order on Non-Amenable Lattices",
-    "authors": [
-      "Xingzhi Wang",
-      "Zohar Nussinov",
-      "Gerardo Ortiz"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "Quantum Order Emerges on Non-Amenable Lattice Boundaries in Cayley Tree Systems",
-    "tldr": "Using boundary-preserving iDMRG and a symmetry-fixing duality, we uncover a novel bulk ordering in p<5 clock models on the infinite Cayley tree, a non-amenable lattice. This ordering appears between the conventional ordered and disordered phases, highlighting the unique role of extensive boundaries.",
-    "significance": "The discovery demonstrates that non-amenable lattices can host bulk phases without Euclidean analogues, opening new avenues for quantum many-body physics.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2a6a7d437fc24e4b5d45fffec002278f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.26857v1",
-    "arxiv_id": "2610.26857v1",
-    "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
-    "authors": [
-      "Sangbeom Lim",
-      "Seoung Wug Oh",
-      "Heeji Yoon"
-    ],
-    "published": "2026-10-19",
-    "curated_at": "2026-10-20",
-    "headline": "VideoMaMa++: Achieving Temporal Consistency in Video Matting with Preserve-and-Refine Tokens",
-    "tldr": "VideoMaMa++ introduces a preserve-and-refine token strategy to maintain temporal coherence across video frames, overcoming the short inference window of diffusion-based matting models. The method enables efficient, real‑time matting for full-length videos while preserving high-quality alpha mattes.",
-    "significance": "By extending diffusion-based matting to longer sequences with temporal consistency, VideoMaMa++ paves the way for practical, high‑fidelity video editing and compositing in real‑time applications.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
