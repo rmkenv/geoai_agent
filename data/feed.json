@@ -1,5 +1,333 @@
 [
   {
+    "uid": "63e8077b4fb606c3f12c5741a3dae3e7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37668v1",
+    "arxiv_id": "2610.37668v1",
+    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+    "authors": [
+      "Prakhar Kaushik",
+      "Soumava Paul",
+      "Alan Yuille"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Hexagonal Surface Elements (Hexels) Enable Low-Memory 3D Rendering and Reconstruction",
+    "tldr": "Hexels are planar hexagonal primitives that encode first-order color fields, reducing memory usage for view synthesis and 3D reconstruction. They allow efficient rendering and reconstruction in resource-constrained environments by exploiting locally planar regions.",
+    "significance": "Hexels provide a compact, memory-efficient alternative to radiance fields, enabling real-time rendering on limited hardware.",
+    "tags": [
+      "real-time",
+      "point-cloud",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b01a348284e6729f661b3434de4e487a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37667v1",
+    "arxiv_id": "2610.37667v1",
+    "title": "The 't Hooft model on (A)dS$_2$",
+    "authors": [
+      "Panos Betzios"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Solving the 't Hooft Model on (A)dS$_2$: Exact Meson Equation via SL(2,R) Casimir",
+    "tldr": "We derive an exact meson spectrum for large‑N QCD on AdS$_2$ and dS$_2$ by exploiting the null gauge and the SL(2,R) Casimir. The resulting equation generalizes ’t Hooft’s flat‑space equation with a curvature‑dependent term.",
+    "significance": "This work provides a rare analytic solution of non‑Abelian gauge dynamics in curved spacetime, illuminating the role of symmetry in quantum field theory.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7b525487a866acea326a80d9143b78ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37666v1",
+    "arxiv_id": "2610.37666v1",
+    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+    "authors": [
+      "Chaehyun Kim",
+      "Chi-Pin Huang",
+      "Jisoo Kim"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "ThinkWorld: Enhancing VLA Models with World Imagination for Dynamic Reasoning",
+    "tldr": "ThinkWorld introduces a framework that leverages human video data to improve Vision‑Language‑Action models by incorporating world imagination and chain‑of‑dynamics reasoning. This approach balances scalable data use with explicit action grounding, boosting generalization in robotic manipulation.",
+    "significance": "It bridges the gap between large‑scale visual data and actionable robot control, advancing the robustness of VLA systems.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "04d16a562242b6d26dc1bdaeb492a8b4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37665v1",
+    "arxiv_id": "2610.37665v1",
+    "title": "Exact Analytical Treatment of Collectively Pumped Dicke Superradiance",
+    "authors": [
+      "Avishi Poddar",
+      "Nico Baßler",
+      "Julian Lyne"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Exact Analytical Solution for Collectively Pumped Dicke Superradiance in Symmetric Spin Ensembles",
+    "tldr": "We derive an exact finite continued fraction representation for the dynamics of an N‑atom Dicke system under collective decay and incoherent pumping. This analytic framework resolves the infinite quantum‑trajectory histories and provides closed‑form rate equations for the symmetric ladder.",
+    "significance": "The result delivers a complete, computationally efficient description of collective light–matter dynamics, enabling precise benchmarking of numerical superradiance models.",
+    "tags": [
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "003b65466742cf30843ed68f488c2bbb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37663v1",
+    "arxiv_id": "2610.37663v1",
+    "title": "An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens",
+    "authors": [
+      "Sebastian Pandolfi",
+      "Guzmán Llambías",
+      "Laura González"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Atomic, Semantic-Preserving Bridge Between EVM and Cosmos for Environmental Tokens",
+    "tldr": "We introduce a deterministic bridge that preserves token semantics across EVM and Cosmos chains, preventing domain meaning loss. The design ensures atomic transfers despite differing consensus models, enabling reliable cross-chain environmental token trading.",
+    "significance": "This bridge enables trustworthy, interoperable trading of carbon credits and other environmental assets across major blockchain ecosystems.",
+    "tags": [
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "705a43e30a15cc742c28f8a9e424f02a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37662v1",
+    "arxiv_id": "2610.37662v1",
+    "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+    "authors": [
+      "Jialv Zou",
+      "Xiaotong Li",
+      "Zhengrong Yue"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Assessing Whether Discrete Visual Tokens Can Truly Preserve Semantic Integrity",
+    "tldr": "This paper investigates if discrete visual tokens can maintain semantic fidelity despite quantization errors. It compares token-based representations with continuous embeddings, revealing trade-offs for multimodal learning.",
+    "significance": "Understanding token fidelity informs the design of future multimodal foundation models that integrate vision and language.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "segmentation"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e326469d53120cf68c518ff62930fde1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37661v1",
+    "arxiv_id": "2610.37661v1",
+    "title": "The Spatially-Resolved Recent Star Formation History of the M81 Disk",
+    "authors": [
+      "Vaishnav V. Rao",
+      "Eric F. Bell",
+      "Adam Smercina"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Mapping Recent Star Formation Across M81's Disk Using Hubble ACS Photometry",
+    "tldr": "We present a panoramic map of M81's stellar populations, revealing spatial variations in recent star formation over the entire disk. The study uses archival Hubble ACS data from the ANGST survey to trace star formation history on sub-kpc scales.",
+    "significance": "This detailed map provides critical insight into how internal and tidal processes shape spiral galaxy evolution.",
+    "tags": [
+      "spatial-reasoning",
+      "time-series",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3c90848f8fc57b16f4b2df999d9f8062",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37660v1",
+    "arxiv_id": "2610.37660v1",
+    "title": "Optimal quantum discrimination at Liouvillian exceptional points",
+    "authors": [
+      "Aritra Ghosh",
+      "M. Bhattacharya"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Exceptional Points Offer No Advantage for Weak Perturbation Detection in Finite-Dimensional Lindblad Systems",
+    "tldr": "While exceptional points enhance spectral response, they do not reduce the observation time needed to detect weak perturbations in Lindblad dynamics with a unique stationary state and nonzero relaxation gap. The study shows that EPs provide no fundamental advantage for reliable detection in such systems.",
+    "significance": "The work clarifies the limits of non-Hermitian sensing, guiding future research toward more promising strategies for quantum detection.",
+    "tags": [
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "525dfb812120b86cb5691df9aa3b1b98",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37658v1",
+    "arxiv_id": "2610.37658v1",
+    "title": "When Should We Intervene at Test Time?",
+    "authors": [
+      "Jiahao Zhang",
+      "Xinling Wen",
+      "Liangliang Li"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "When to Intervene at Test Time: Balancing Adaptation and Stability in AI Models",
+    "tldr": "Test‑time adaptation can boost performance on corrupted data, but indiscriminate updates may harm subsequent batches. By leveraging target labels and batch statistics, models can learn when to adjust and when to stay fixed, improving robustness in real‑world deployments.",
+    "significance": "Understanding the optimal timing for test‑time interventions is crucial for deploying reliable AI systems that adapt to changing data without compromising stability.",
+    "tags": [
+      "real-time",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "73621f950899bc471c6aa12f2037ae0e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37657v1",
+    "arxiv_id": "2610.37657v1",
+    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+    "authors": [
+      "Igor Shilov",
+      "Xiaoxue Yang",
+      "Alexander Panfilov"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Heads of Security: Attention Gates Enhance LLM Prompt Injection Defense",
+    "tldr": "Heads of Security (HoS) introduces learned per-head attention gates that enforce instruction-data separation, preventing prompt injection in large language models. Evaluated on Llama-3.3-70B-Instruct and GPT-OSS-20B, HoS improves robustness without sacrificing performance.",
+    "significance": "HoS offers a lightweight, architecture-agnostic defense that strengthens LLM security while preserving inference speed.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "89dfdfe4c43a84a5d6344d0e4e15e382",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37656v1",
+    "arxiv_id": "2610.37656v1",
+    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+    "authors": [
+      "Aakash Sarkar",
+      "Ananya Mukherjee",
+      "Motoshige Sato"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Attention as Lattice Gauge Theory: Unifying Relations via Wilson Loops",
+    "tldr": "This paper reinterprets attention mechanisms as a lattice gauge theory, where interactions between entities are mediated solely through Wilson loops. It demonstrates that allowing per-entity coordinate frames yields three key properties, offering a principled framework for relational reasoning.",
+    "significance": "It provides a novel theoretical foundation linking attention to gauge invariance, potentially guiding the design of more robust relational models.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "fbdb2c48ce21cf5ecf661191d1669a5f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37655v1",
+    "arxiv_id": "2610.37655v1",
+    "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+    "authors": [
+      "Wenqing Peng",
+      "Michael Boy",
+      "Zhi-Song Liu"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "KPPax: Differentiable Kinetic ODE Preprocessor for Atmospheric ML",
+    "tldr": "KPPax transforms traditional Kinetic PreProcessor outputs into differentiable, JAX-compatible code, enabling integration with machine-learning frameworks. It supports just-in-time compilation and vectorization for efficient atmospheric chemistry simulations.",
+    "significance": "By bridging kinetic modeling and differentiable programming, KPPax accelerates the development of data-driven atmospheric chemistry models.",
+    "tags": [
+      "open-source",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "25f97c7ff0b5a7d88804e4b8c2690904",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37654v1",
+    "arxiv_id": "2610.37654v1",
+    "title": "Mediated Interactions between Fermi Polarons in the Strongly Interacting Regime",
+    "authors": [
+      "Renato Pessoa",
+      "S. A. Vitiello",
+      "Luis A. Peña Ardila"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Exploring Strongly Interacting Fermi Polaron Mediated Interactions via Quantum Monte Carlo",
+    "tldr": "Using zero-temperature quantum Monte Carlo, we characterize mediated interactions between Fermi polarons in a strongly correlated Fermi sea. The results uncover novel quasiparticle behavior that challenges conventional Landau Fermi-liquid predictions.",
+    "significance": "This study provides the first quantitative description of mediated interactions in the strongly interacting regime, informing future experiments and theoretical models of quantum many-body systems.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "6141be5a70e1961b4bd5a777b33b9ca8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.37651v1",
+    "arxiv_id": "2610.37651v1",
+    "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+    "authors": [
+      "Zack Yu",
+      "Nicholas Lee",
+      "Minjae Lee"
+    ],
+    "published": "2026-10-27",
+    "curated_at": "2026-10-29",
+    "headline": "Curated Learning Boosts Self-Improving Agents Using Large Language Models in Complex Environments",
+    "tldr": "GEPA-Curator introduces a curated learning framework that filters out non-informative failures in multi-turn LLM agent rollouts. By focusing on prompt weaknesses and harness limitations, it improves agent performance more efficiently than traditional reflective optimizers.",
+    "significance": "This approach streamlines self-improvement for LLM agents, reducing reliance on noisy feedback and accelerating deployment in real-world tasks.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "76223bc4cde5435f8d85cf9277348f9a",
     "source": "web",
     "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/",
@@ -1059,344 +1387,6 @@
       "benchmark"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fab066f126781e434f9cdeaeb1e0424e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31664v1",
-    "arxiv_id": "2610.31664v1",
-    "title": "Odd radio circle J1555+2726: Observational evidence for shock re-acceleration of fossil plasma",
-    "authors": [
-      "L. Bruno",
-      "B. Koribalski",
-      "R. P. Norris"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "Shock Re-acceleration Explains Odd Radio Circles Around Massive Elliptical Galaxy",
-    "tldr": "Observations of the ORC J1555+2726 reveal a shock front that re-accelerates fossil plasma, producing bright radio rings. This supports the hypothesis that shocks in galaxy clusters can revive aged electron populations.",
-    "significance": "It provides the first direct evidence linking shock waves to the formation of odd radio circles.",
-    "tags": [
-      "remote-sensing",
-      "object-detection",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "cb13ee0db37e39f668bbe5fb18cdce87",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31663v1",
-    "arxiv_id": "2610.31663v1",
-    "title": "Phase Transition from Random Features to Fully Trainable Networks",
-    "authors": [
-      "Xin He",
-      "Huan Lao",
-      "Xiliang Lu"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "Phase Transition in Partially Trainable Neural Networks: From Random Features to Full Adaptation",
-    "tldr": "The study introduces partially trainable neural networks that interpolate between fixed random feature models and fully trainable architectures, revealing a phase transition in approximation error. Empirical results show a rapid, smooth improvement in training loss followed by a plateau, mirroring theoretical bounds.",
-    "significance": "These findings provide a theoretical foundation for designing efficient neural networks that balance computational cost and representational power.",
-    "tags": [
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "82b90eae6921b15ceec4430d27b5c7da",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31651v1",
-    "arxiv_id": "2610.31651v1",
-    "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
-    "authors": [
-      "Ava Pun",
-      "Kevin Dai",
-      "Sally Chen"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "BrickWright: Empowering AI Agents to Build Physically Feasible Brick Structures",
-    "tldr": "AI coding agents struggle with physically valid 3D brick builds, often producing floating or colliding parts. BrickWright equips agents with assembly tools and feasibility checks, enabling reliable physical construction.",
-    "significance": "This work bridges the gap between virtual modeling and real-world assembly, enabling AI to reliably design buildable brick structures.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "deb119f6fdb65126923e4e0771e9b671",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31650v1",
-    "arxiv_id": "2610.31650v1",
-    "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
-    "authors": [
-      "Qijin Zhang",
-      "Hanzhen Wang",
-      "Yuehan Zhao"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "EpiSEM-Bench: A Benchmark for Safety and Evidence Recovery in Tool-Using LLM Agents",
-    "tldr": "EpiSEM-Bench evaluates how language model agents handle missing safety-relevant facts during tool use. The benchmark measures unsafe execution, safety boundaries, and evidence recovery in realistic scenarios.",
-    "significance": "It provides a systematic way to assess and improve the safety of LLM agents that rely on external tools.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ca8cd3974de2f214ae32558c5a876ffc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31649v1",
-    "arxiv_id": "2610.31649v1",
-    "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
-    "authors": [
-      "Xiaolin Li",
-      "Zihao Huang",
-      "Fanpeng Meng"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "Gate3DGen: Selective Pre‑Processing for Robust Real‑World Single‑Image 3D Generation in Deep Learning",
-    "tldr": "Gate3DGen introduces a gating mechanism that selectively purifies noisy real‑world images before 3D generation, preserving essential visual cues while discarding artifacts. The model achieves state‑of‑the‑art fidelity on challenging datasets without compromising clean inputs.",
-    "significance": "It bridges the gap between benchmark performance and real‑world deployment by ensuring high‑quality 3D reconstructions from imperfect images.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0fdaf4244bed308fc1c536c38a51083",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31646v1",
-    "arxiv_id": "2610.31646v1",
-    "title": "Low-Bit N-Gram Embeddings for Language Models",
-    "authors": [
-      "Stephen Chung",
-      "Wenyu Du"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "Reducing Memory Footprint: Low-Bit N-Gram Embeddings for Efficient Language Models",
-    "tldr": "The paper introduces low-bit quantization techniques for n-gram embedding tables, drastically cutting memory usage while preserving performance. Experiments show that models like DeepSeek-V4.1-Flash can be compressed by over 80% with minimal loss in accuracy.",
-    "significance": "This approach enables large-scale language models to run on commodity hardware, accelerating deployment and democratizing AI access.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "329557e9871ad3470ea53aa048472549",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31644v1",
-    "arxiv_id": "2610.31644v1",
-    "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
-    "authors": [
-      "Matteo Fusconi",
-      "Alex Costanzino",
-      "Pierluigi Zama Ramirez"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "GigaBench: Evaluating Learnable Representations for Gigapixel Image Compression and Super-Resolution",
-    "tldr": "GigaBench introduces a benchmark for learnable representations (LRs) applied to gigapixel images, assessing compression efficiency and super-resolution quality. The study demonstrates that neural-native data formats can achieve high compression ratios while preserving fine details, outperforming traditional codecs in many scenarios.",
-    "significance": "This work provides a standardized framework for evaluating neural-native formats, accelerating their adoption in large-scale imaging tasks.",
-    "tags": [
-      "benchmark",
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dd79715f184f9cda4d07b0537bd9fa71",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31643v1",
-    "arxiv_id": "2610.31643v1",
-    "title": "Confinement of hybridized light modes in nonlinear-optical superpotentials",
-    "authors": [
-      "Federico Presutti",
-      "Ryotatsu Yanagimoto"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "Hybridized Light Modes Confined by Nonlinear-Optical Superpotentials via Coherent Frequency Conversion",
-    "tldr": "This study demonstrates that counterpropagating signal modes can be trapped temporally at the zero of a pumped nonlinearity, forming hybridized eigenmodes. The mechanism relies on a frequency-domain beamsplitter interaction mediated by wave mixing, offering a new light trapping paradigm.",
-    "significance": "It opens avenues for dynamic optical confinement and could impact quantum photonics and ultrafast signal processing.",
-    "tags": [
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0a5a60299d00aadd75d01e0a49e28842",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31672v1",
-    "arxiv_id": "2610.31672v1",
-    "title": "Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory",
-    "authors": [
-      "G. Bonelli",
-      "S. Lacroix",
-      "T. Pedroni"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-23",
-    "headline": "Integrable Sigma Models, Hitchin Systems, and Quantum Seiberg-Witten Theory: A Ricci Flow Approach",
-    "tldr": "We construct integrable 2D sigma models via 4D Chern-Simons theory, linking their classical reduction to Hitchin systems. The resulting quantum Hitchin quantisation yields a Hamiltonian matching the Perelman operator, offering insights into one-loop reduced dynamics.",
-    "significance": "This work bridges integrable field theories, geometric flows, and quantum gauge dynamics, providing a new framework for studying quantum Seiberg-Witten theory.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e3381a1b5299446c347a17156e5caf2f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31671v1",
-    "arxiv_id": "2610.31671v1",
-    "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
-    "authors": [
-      "Qiwen Gu",
-      "Xin Zhou",
-      "Xiwu Chen"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-23",
-    "headline": "FlexPart: Unified Image-to-3D Part Generation with Variable Granularity for Digital Asset Creation",
-    "tldr": "FlexPart introduces a single model that accepts heterogeneous inputs—images, sketches, and geometric constraints—allowing users to generate 3D parts at any desired level of detail. The framework demonstrates state‑of‑the‑art quality while offering unprecedented flexibility for designers and content creators.",
-    "significance": "By unifying variable‑granularity control in one model, FlexPart streamlines the 3D asset pipeline and empowers creators to tailor geometry precisely to their workflow.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "eb682ed5eb55fbf256192a7d58b84f91",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31670v1",
-    "arxiv_id": "2610.31670v1",
-    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-    "authors": [
-      "Yunfei Xie",
-      "Howard H. Qian",
-      "Shiyi Lan"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-23",
-    "headline": "Aligning Motion Trajectories with Vision and Language: A Platonic Proxy for Robotic Models",
-    "tldr": "Robotic foundation models are usually validated with expensive closed‑loop rollouts, so researchers seek cheaper offline proxies. This study proposes that motion trajectories can serve as a Platonic representation, aligning vision, language, and movement into a shared statistical model of reality.",
-    "significance": "Demonstrating that motion trajectories act as a unifying modality could accelerate the evaluation and deployment of embodied AI systems.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7acc78f9d144a45684764ae4ead94af5",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31667v1",
-    "arxiv_id": "2610.31667v1",
-    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-    "authors": [
-      "Mahdi Salmani",
-      "Adel Javanmard",
-      "Devansh Gupta"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-23",
-    "headline": "Optimizing Direct Pass@k for Thought Pruning: Balancing Quality and Diversity",
-    "tldr": "This paper introduces a Direct Pass@k optimization technique that prunes candidate solutions early during test‑time reasoning, reducing computational cost. It demonstrates that careful pruning preserves solution quality while increasing diversity, enabling efficient real‑time inference for large language models.",
-    "significance": "By enabling efficient, high‑quality inference with reduced computation, the method advances practical deployment of large reasoning models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a9a80e076600fe9f7396d082a05a5b47",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31662v1",
-    "arxiv_id": "2610.31662v1",
-    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-    "authors": [
-      "Isaac Gibbs",
-      "Elise L. Han",
-      "Ryan J. Tibshirani"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-23",
-    "headline": "Selective Auditing for Reliable AI Decision-Making in Real-Time Systems Operations",
-    "tldr": "We propose an online monitoring framework that tracks AI decisions and their confidence scores, enabling selective auditing of only low-confidence outputs. This approach improves trustworthiness and efficiency by focusing verification resources where they are most needed.",
-    "significance": "By decoupling decision and verification, the method reduces latency while maintaining high reliability, a critical advance for safety-critical AI deployments.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fefdb831c9d62e776f363a5a12156cba",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31661v1",
-    "arxiv_id": "2610.31661v1",
-    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
-    "authors": [
-      "Ariel Slepyan",
-      "Geeta Chandra Raju Bethala",
-      "Jiafeng Gu"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-23",
-    "headline": "OpenTac: Open-Source, Scalable, Real-Time 3D Tactile Skin Enabling Advanced Robotics",
-    "tldr": "OpenTac introduces a modular resistive tactile skin that transforms tangential forces into pressure maps, enabling high-resolution 3D tactile sensing. The open-source ecosystem supports rapid deployment in robot control and learning, offering scalability and real-time performance.",
-    "significance": "This platform democratizes tactile sensing, allowing researchers to customize and scale skins for diverse robotic tasks without costly proprietary hardware.",
-    "tags": [
-      "open-source",
-      "real-time",
-      "point-cloud",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
