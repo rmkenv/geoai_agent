@@ -1,5 +1,242 @@
 [
   {
+    "uid": "70060ede0f676adeb097371025bc714f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40656v1",
+    "arxiv_id": "2610.40656v1",
+    "title": "The $δ$ Scuti instability strip and period-luminosity relation as seen by TESS and Gaia DR3",
+    "authors": [
+      "Daniel Hey",
+      "Simon Murphy",
+      "Timothy R. Bedding"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "Mapping δ Scuti Stars Across the Sky with TESS and Gaia DR3",
+    "tldr": "Using TESS 10‑minute cadence data, we surveyed over 1.5 million A‑ and F‑type stars to chart the δ Scuti instability strip. Combining Gaia DR3 parallaxes and photometry, we derived precise stellar parameters and refined the period‑luminosity relation for these pulsators.",
+    "significance": "This comprehensive survey provides the most complete δ Scuti catalog to date, enabling precise asteroseismic studies and improving distance estimates across the Milky Way.",
+    "tags": [
+      "time-series",
+      "satellite-imagery",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f5500fcd41172b07de38c27d9c95c025",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40655v1",
+    "arxiv_id": "2610.40655v1",
+    "title": "Elucidating the Design Space of LM Data Attribution",
+    "authors": [
+      "Steven Yu",
+      "Sheng-Yu Wang",
+      "Kimia Hamidieh"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "Mapping the Landscape of Language Model Data Attribution for Reliable Evaluation",
+    "tldr": "We systematically dissect how dataset properties influence data attribution algorithms for LLMs, revealing key failure modes. Our framework isolates variables, enabling precise diagnosis and guiding future benchmark design.",
+    "significance": "This work provides a clear methodology to evaluate and improve data attribution in large language models.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bdb0c48ead3a10f86125053d737dddf1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40653v1",
+    "arxiv_id": "2610.40653v1",
+    "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+    "authors": [
+      "Nhan Tran",
+      "Hijung Valentina Shin",
+      "Abe Davis"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "Fine‑Scale Film Editing Powered by AI",
+    "tldr": "AI tools now enable editors to tweak individual frames and micro‑cuts with precision, improving pacing and visual focus. These systems combine large language models and diffusion techniques for real‑time, fine‑grained adjustments.",
+    "significance": "They transform the editing workflow, making subtle narrative nuances easier to achieve and enhancing audience engagement.",
+    "tags": [
+      "LLM",
+      "diffusion-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7037446d27fd78fcb86c19460a299ea2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40649v1",
+    "arxiv_id": "2610.40649v1",
+    "title": "Rethinking Neural Thickets Without Weight Perturbations",
+    "authors": [
+      "Nicolas Dufour",
+      "Elouan Gardès",
+      "Amil Dravid"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "Neural Thickets Reexamined: Weight Perturbations Not Needed for Task Gains",
+    "tldr": "The study shows that pretrained language models can achieve task-specific performance gains without relying on random weight perturbations. Instead, perturbing a single decoder block or freezing the model yields comparable improvements, challenging the Neural Thickets hypothesis.",
+    "significance": "It simplifies the understanding of how pretrained models adapt to new tasks, potentially reducing computational overhead.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b7e0c4c855a0d90f623274c77ccc188f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40647v1",
+    "arxiv_id": "2610.40647v1",
+    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+    "authors": [
+      "Jiongfan Yang",
+      "Weichen Fan",
+      "Haiwen Diao"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "Role-Coupled Tokenization for Efficient Pixel-Space Generative Transformers",
+    "tldr": "The paper introduces a tokenization scheme that allocates global tokens for low-frequency image structure and local tokens for high-frequency detail, reducing the cost of global attention. This approach improves efficiency while preserving fine-grained image generation quality.",
+    "significance": "It offers a scalable solution for high-resolution generative modeling by balancing global and local attention.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dc8b6056942270191197eb6d2986a07f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40646v1",
+    "arxiv_id": "2610.40646v1",
+    "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
+    "authors": [
+      "Yunchu Zhang",
+      "Ray Song",
+      "Junhan Jiao"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "SwapBot: Autonomous Tool Swapping with Tactile Sensing for Everyday Robot Manipulation",
+    "tldr": "SwapBot enables robots to autonomously exchange interchangeable end-effectors and use tactile feedback to perform diverse household tasks. The system demonstrates forceful cutting, delicate brushing, and precise placement without human intervention.",
+    "significance": "By integrating tool swapping and tactile sensing, SwapBot advances autonomous manipulation toward practical, real-world applications.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4cf178a10aeb1e4cf8dfd3a13ee6a11e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40644v1",
+    "arxiv_id": "2610.40644v1",
+    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+    "authors": [
+      "Aron Brenner",
+      "Saurabh Amin"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "Adaptive Scenario Generation Enhances KL-Divergence DRO Using Learned Density Models",
+    "tldr": "This paper introduces a method for generating adaptive scenarios that tighten KL-Divergence distributionally robust optimization around a learned density model. By integrating data-driven density estimation with scenario generation, it improves solution robustness while reducing computational burden.",
+    "significance": "It bridges learned probabilistic models with robust optimization, enabling more reliable decision-making under distributional uncertainty.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "439f8f7b74b4b9a097803839f7f5f81d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40643v1",
+    "arxiv_id": "2610.40643v1",
+    "title": "Luggage re-identification: A study of strategies towards a real-world application",
+    "authors": [
+      "Quentin Dhôte",
+      "Romaric Audigier"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "Real-World Luggage Re-Identification: Strategies for Airport, Border, and Lost Luggage Surveillance",
+    "tldr": "Luggage re-identification links observations of the same bag across separate camera views, aiding security and lost luggage recovery. This study evaluates practical strategies for deployment in airports, train stations, and border crossings.",
+    "significance": "Accurate luggage re-identification enhances safety and operational efficiency in high-traffic transport hubs.",
+    "tags": [
+      "object-detection",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1e4e99d613c2ecc649096b601e0a00ab",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40641v1",
+    "arxiv_id": "2610.40641v1",
+    "title": "From extreme weather to agricultural consequences with agentic AI",
+    "authors": [
+      "Minghan Yu",
+      "Mengyu Dai",
+      "Yixin Wen"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "Agentic AI Predicts Crop Damage from Extreme Weather Using Causal Weather Indices",
+    "tldr": "WxCrop is an AI agent that interprets weather indices to assess agricultural hazards. By combining causal analysis with real-time weather data, it predicts which crops will be affected and the extent of damage.",
+    "significance": "This tool bridges the gap between weather forecasts and actionable crop risk assessments, enabling farmers to take proactive measures.",
+    "tags": [
+      "remote-sensing",
+      "crop-monitoring",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "18627c628c70a1bf30daecbc08f9279a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40640v1",
+    "arxiv_id": "2610.40640v1",
+    "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+    "authors": [
+      "Derong Jin",
+      "Xiyi Chen",
+      "Ming C. Lin"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-30",
+    "headline": "From a Single Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+    "tldr": "We propose Video-to-4DAVScene, a task that transforms a single video into an interactive, time-varying 4D audio-visual scene. Using diffusion synchronization, the method models both visual and auditory dynamics, enabling exploration of the generated scene.",
+    "significance": "This work bridges the gap between visual scene generation and audio modeling, enabling richer immersive experiences from minimal input.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "63e8077b4fb606c3f12c5741a3dae3e7",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.37668v1",
@@ -1144,249 +1381,6 @@
       "benchmark"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "689c8764a95c027aa25bf2f6d3ae3a5f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31660v1",
-    "arxiv_id": "2610.31660v1",
-    "title": "Sound-Horizon-Agnostic Forecast for Constraints on $H_0$ and $Σm_ν$ from BAO, CMB Lensing, Supernovae and LSST-like Galaxy Lensing",
-    "authors": [
-      "Seyed Hamidreza Mirpoorian",
-      "Helena García Escudero",
-      "Levon Pogosian"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "Forecasting H0 and Neutrino Masses with LSST, CMB, BAO, and Supernovae",
-    "tldr": "We forecast constraints on the Hubble constant and neutrino masses by combining LSST-like weak lensing, Simons Observatory CMB lensing, DESI BAO, and expanded supernova samples. Treating the sound horizon as a free parameter, this approach offers a consistency test of ΛCDM.",
-    "significance": "This study provides a robust, sound-horizon-agnostic method to cross-check the Hubble tension and neutrino mass measurements.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "99e31501a97662676274afa0abf8f725",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31642v1",
-    "arxiv_id": "2610.31642v1",
-    "title": "A Fix for Softmax and Cross-Entropy",
-    "authors": [
-      "Jonathan T. Barron",
-      "Dan Gnanapragasam",
-      "Michael Tschannen"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "Fixing Softmax and Cross-Entropy Numerical Bugs in Machine Learning Models",
-    "tldr": "Standard softmax and cross-entropy implementations suffer from two numerical bugs that distort gradients. This article presents a simple fix that restores correct gradient behavior and improves model training stability.",
-    "significance": "Correcting these bugs ensures accurate gradient flow, leading to more reliable training of large language and vision models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "66b29eabf810f584da4ac47df36552c4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31641v1",
-    "arxiv_id": "2610.31641v1",
-    "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
-    "authors": [
-      "Shuzhou Yang",
-      "Lanqing Guo",
-      "Lingen Li"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
-    "tldr": "UniVOE introduces a removal-focused approach that bootstraps video inpainting to erase objects while adapting to interaction effects. For injection, it leverages large-scale paired data to model dynamic object appearance, enabling realistic insertion.",
-    "significance": "This framework bridges the gap between object removal and injection, offering a unified, interaction-aware solution for video editing tasks.",
-    "tags": [
-      "diffusion-models",
-      "segmentation",
-      "object-detection",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "cb2db4baca816d54d2dc2cb72a270b23",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31640v1",
-    "arxiv_id": "2610.31640v1",
-    "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
-    "authors": [
-      "Chenxi Song",
-      "Yanming Yang",
-      "Tong Zhao"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "Aligning Camera Trajectories in Video Diffusion: Overcoming Spatial Inconsistencies and Artifacts",
-    "tldr": "Video diffusion models can generate realistic scenes but struggle with accurate camera control, leading to spatial and temporal artifacts. The paper proposes a method to align camera trajectories, reducing inconsistencies without heavy fine-tuning.",
-    "significance": "This work enables more reliable spatial reasoning in video generation, opening doors for applications like virtual reality and cinematic rendering.",
-    "tags": [
-      "diffusion-models",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a5e0f15211a21b3a0030dadb7792094e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31639v1",
-    "arxiv_id": "2610.31639v1",
-    "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
-    "authors": [
-      "Gabriele Dominici",
-      "Teague McMillan",
-      "Fazl Barez"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "Preventing Attention Leakage: A Causal Chain-of-Thought Approach for Reliable LLM Reasoning",
-    "tldr": "Chain-of-thought prompting can produce plausible but non-causal explanations. This paper introduces context isolation to prevent attention leakage, ensuring each reasoning step truly drives the final answer.",
-    "significance": "By enforcing causal flow, the method improves trustworthiness and interpretability of LLM outputs.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "da41f43648f477a7045bb975e969db8f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31637v1",
-    "arxiv_id": "2610.31637v1",
-    "title": "Lenses make many points: Pure point spectrum disproves Simon's $L^2$ conjecture",
-    "authors": [
-      "Simon Becker",
-      "Mengxuan Yang"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "Smooth Lens Potential Disproves Simon's L^2 Conjecture Using LLM Assistance",
-    "tldr": "We construct a smooth bounded nonnegative lens-type potential V with arbitrarily small norm that yields only pure point spectrum for the Schrödinger operator -Δ+V on (0,∞). This counterexample disproves Barry Simon's L^2 conjecture.",
-    "significance": "It overturns a long-standing conjecture in spectral theory, showing that small L^2 potentials can still produce purely discrete spectra.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6f538e19ce2172b88e26d78fc9f51b60",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31636v1",
-    "arxiv_id": "2610.31636v1",
-    "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
-    "authors": [
-      "Marek Šuppa",
-      "Ivan Vykopal",
-      "Jaroslav Kopčan"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "LLM Debugs Slovak Web Corpus: Agentic Auditing of FineWeb2",
-    "tldr": "Researchers deploy a large language model as a debugging agent to identify and compile failure modes in the Slovak subset of FineWeb2, turning findings into executable tests for native speakers to validate. This approach reveals language‑specific issues overlooked by generic multilingual pipelines.",
-    "significance": "It demonstrates that LLMs can serve as autonomous auditors for large multilingual corpora, improving data quality and uncovering hidden biases.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "da418d34f6a1be14787fbb1c0dcec7e9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31635v1",
-    "arxiv_id": "2610.31635v1",
-    "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
-    "authors": [
-      "Zunnan Xu",
-      "Shangchen Zhou",
-      "Yihang Luo"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "HiP3R: Hierarchical Pose Graphs Enable Scalable 3D Reconstruction from Long Video Sequences",
-    "tldr": "HiP3R introduces a hierarchical pose graph framework that stitches overlapping local reconstructions into a consistent global 3D model, enabling efficient processing of thousands‑frame videos. The method reduces memory usage while maintaining accuracy, making long‑horizon reconstruction practical for real‑time applications.",
-    "significance": "By reconciling local pose estimates into a unified graph, HiP3R overcomes the scalability limits of feed‑forward models, paving the way for large‑scale, real‑time 3D mapping.",
-    "tags": [
-      "point-cloud",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1f01b23ea2be2fb52217405f33d62962",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31633v1",
-    "arxiv_id": "2610.31633v1",
-    "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
-    "authors": [
-      "Hayden Prairie",
-      "Jacob M. Ryan",
-      "Taylor Berg-Kirkpatrick"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "Closing Inference Memory Gap with KV-Sharing in Looped Models Techniques",
-    "tldr": "Looped transformer architectures improve quality without increasing parameters, but inference creates separate KV caches per recurrence, inflating memory usage. KV-sharing across depth reuses caches, drastically reducing memory while preserving performance.",
-    "significance": "This approach enables efficient deployment of high-quality looped models on resource-constrained hardware.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f82f8e48754f6cb8d4e8933582a22afa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31668v1",
-    "arxiv_id": "2610.31668v1",
-    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
-    "authors": [
-      "Shengqiong Wu",
-      "Meng Luo",
-      "Bobo Li"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-24",
-    "headline": "Video Foundation Models and World Modeling: A Unified Lens for Visual Sequence Understanding",
-    "tldr": "This survey examines how video foundation models and video world models jointly advance the understanding of visual sequences and the underlying dynamics of the world. By framing both under a world modeling perspective, it highlights key challenges, opportunities, and future research directions.",
-    "significance": "It provides a comprehensive framework that bridges generative and predictive video modeling, guiding researchers toward more holistic and interpretable AI systems.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
