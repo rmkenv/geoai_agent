@@ -1,5 +1,236 @@
 [
   {
+    "uid": "f43914359e447fa245e002718549ba2c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40654v1",
+    "arxiv_id": "2610.40654v1",
+    "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+    "authors": [
+      "Moshe Shenfeld",
+      "Eliad Tsfadia",
+      "Katrina Ligett"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "Propose-Filter-Release: Adapting Noise to Typical Data Sensitivity in Differential Privacy",
+    "tldr": "The paper introduces a private filtering step that removes outlier records before adding noise, allowing the noise scale to match the typical sensitivity of the data. This approach reduces noise while preserving privacy, improving accuracy for most datasets.",
+    "significance": "It demonstrates a practical method to reduce noise in differential privacy by privately filtering outliers, enhancing utility without compromising privacy.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "18db04c7ff8f0f88e73ca0af0618b409",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40648v1",
+    "arxiv_id": "2610.40648v1",
+    "title": "Light-Cone Friedel Oscillations: a Window into van Hove Superconductivity",
+    "authors": [
+      "Archisman Panigrahi",
+      "Vladislav Poliakov",
+      "Leonid Levitov"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "Light-Cone Friedel Oscillations Reveal Van Hove Superconductivity",
+    "tldr": "The saddle-point dispersion near a van Hove point creates a distinctive light-cone pattern in Friedel oscillations, offering a new experimental probe for superconductivity at these singularities. This behavior contrasts sharply with conventional concentric oscillations, providing a clear signature of van Hove physics.",
+    "significance": "It offers a practical method to confirm superconducting pairing near van Hove points, advancing our understanding of high‑temperature superconductivity.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0b73d2a799123933f68339077c56fd91",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40638v1",
+    "arxiv_id": "2610.40638v1",
+    "title": "Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits",
+    "authors": [
+      "Jakob Murauer",
+      "Sabine Tornow",
+      "Manas Kulkarni"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "Entanglement Diagnostics in Stochastic-Resetting Quantum Systems: Theory and Superconducting Qubit Experiments",
+    "tldr": "The study shows how stochastic resetting drives quantum systems into nonequilibrium steady states, with entanglement characteristics depending on reset history resolution. Closed-form results for two qubits and exact simulations up to 12 qubits demonstrate the method and its experimental verification on superconducting qubits.",
+    "significance": "It provides a new framework for probing entanglement in nonunitary quantum dynamics, bridging theory and experiment.",
+    "tags": [
+      "time-series",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0a6ac7f96c224cb14d891a4b08782141",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40637v1",
+    "arxiv_id": "2610.40637v1",
+    "title": "world2vec: Mechanistic world models through latent dynamics learning",
+    "authors": [
+      "Tobias Schmidt",
+      "Rodrigo Gonzalez Laiz",
+      "Krisztián Szuppinger"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "World2Vec: Learning Mechanistic World Models via Reward-Free Latent Dynamics for Control",
+    "tldr": "World2Vec learns mechanistic world models directly from observations and actions without using reward signals, enabling faithful latent dynamics. This approach improves interpretability and scientific discovery while maintaining strong control performance.",
+    "significance": "By decoupling reward from dynamics learning, World2Vec offers a path toward interpretable, scientifically grounded control models.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "008aa4853733c02553cd177f0a004151",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40636v1",
+    "arxiv_id": "2610.40636v1",
+    "title": "Probing Spatial State Representations in Visual Foundation Models",
+    "authors": [
+      "Baiqiao Yin",
+      "Zhongang Cai",
+      "Ruisi Wang"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "Do Visual Foundation Models Capture Persistent Spatial States for Navigation?",
+    "tldr": "This study examines whether large visual models encode a continuous spatial state that can be updated with self-motion and used for action planning. Results suggest that while some models retain spatial cues, they lack robust mechanisms for persistent state maintenance.",
+    "significance": "Understanding spatial state encoding in foundation models informs the design of AI systems capable of continuous navigation and interaction in dynamic environments.",
+    "tags": [
+      "foundation-models",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fbd4a5a4fe6a640bc5f27296a92de62b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40634v1",
+    "arxiv_id": "2610.40634v1",
+    "title": "Hyaluronic acid over-expression drives tissue architecture in both healthy and diseased states",
+    "authors": [
+      "Kyungeun Kim",
+      "Brittany E. Schutrum",
+      "Claudia Fischbach"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "Hyaluronic Acid Over‑Expression Shapes Tissue Architecture in Health and Disease",
+    "tldr": "The study reveals that excess hyaluronic acid in intercellular spaces exerts mechanical forces that influence tissue structure, complementing traditional cell‑centric mechanisms. This finding highlights a novel regulatory layer affecting both normal development and pathological remodeling.",
+    "significance": "It uncovers a previously underappreciated extracellular force that governs tissue organization, offering new therapeutic targets for disease management.",
+    "tags": [
+      "segmentation",
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "572db80f21226eea07a24d82aa27744d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40633v1",
+    "arxiv_id": "2610.40633v1",
+    "title": "PRISMS GHZ8: Evidence for a Young Burst and Potential Merger Activity at z=10.23",
+    "authors": [
+      "Ruqiu Lin",
+      "Jorge Zavala",
+      "Javier Álvarez-Márquez"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "JWST Detects Young Starburst and Possible Merger in Galaxy at z=10.23",
+    "tldr": "JWST/MIRI LRS spectroscopy of the UV-bright galaxy GHZ8 at z=10.23 reveals a ~5σ detection of emission lines indicating a young starburst and potential merger activity. These findings provide new insights into early galaxy assembly and the drivers of cosmic reionization.",
+    "significance": "The detection of a young starburst and merger signatures at such an early epoch offers critical constraints on the rapid buildup of stellar mass and the role of mergers in shaping the first galaxies.",
+    "tags": [
+      "remote-sensing",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1c47cc012faa43a04ee8fda004ddcdce",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40632v1",
+    "arxiv_id": "2610.40632v1",
+    "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
+    "authors": [
+      "Fnu Aryan",
+      "Yaqi Xie",
+      "Joseph Campbell"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "SymAnt: Neuro-Symbolic Action Anticipation with Adaptable Symbolic Priors",
+    "tldr": "SymAnt introduces a neuro-symbolic framework that grounds long-horizon action anticipation using adaptable symbolic priors, enabling robots to predict future actions from brief observations. The approach combines neural perception with symbolic reasoning, improving interpretability and reducing data requirements compared to purely neural models.",
+    "significance": "By integrating symbolic priors, SymAnt reduces the need for extensive data and enhances interpretability, advancing robot-human interaction.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "04f0fa2bb50046f9a8621543202b7f78",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40631v1",
+    "arxiv_id": "2610.40631v1",
+    "title": "Gravitational-Wave Echoes and Greybody Cutoff from Logarithmic Throats at a Marginal-Trapping Threshold",
+    "authors": [
+      "Jahed Abedi"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "Gravitational-Wave Echoes Reveal Greybody Cutoff in Logarithmic Throats Near Trapping Threshold",
+    "tldr": "We analyze axial gravitational wave propagation in spacetimes with long logarithmic throats that form as the metric function approaches a marginal-trapping threshold. The study shows that the throat’s geometry induces a greybody cutoff, producing characteristic echoes in the wave signal.",
+    "significance": "This work provides a new diagnostic for probing near-horizon geometries and could help distinguish exotic compact objects from black holes using gravitational-wave observations.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "ef2e8eb7de90a75881bd88de8388acc3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40630v1",
+    "arxiv_id": "2610.40630v1",
+    "title": "Central Limit Theorems and Network-Free Inference for Heterogeneous Spatial Autoregressions on Sparse Graphons",
+    "authors": [
+      "Wei Li",
+      "Robert Lunde"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-10-31",
+    "headline": "Network-Free Inference for Heterogeneous Spatial Autoregressions on Sparse Graphons",
+    "tldr": "The paper derives central limit theorems for spatial autoregressive models on random networks, showing that inference can be performed without observing the full graph. It demonstrates that network dependence imposes a smaller obstacle than previously thought, enabling robust estimation even with sparse, partially observed graphons.",
+    "significance": "It provides a theoretical foundation for reliable inference in spatial network models, reducing reliance on full network data.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "70060ede0f676adeb097371025bc714f",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.40656v1",
@@ -1139,246 +1370,6 @@
       "diffusion-models",
       "spatial-reasoning",
       "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "35b3294dcd1f15a55dbff03ff7f0d791",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32977v1",
-    "arxiv_id": "2610.32977v1",
-    "title": "UniAction: Unified Action Conditioning for World Models",
-    "authors": [
-      "Bowen Xue",
-      "Zizhang Li",
-      "Hong-Xing Yu"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "Unified Action Conditioning for World Models",
-    "tldr": "We propose UniAction, a framework that encodes any action as a sparse set of semantic elements, enabling a single action-conditioned world model to handle diverse action types. This unification reduces data fragmentation and improves model generalization across tasks.",
-    "significance": "UniAction streamlines action-conditioned modeling, boosting efficiency and performance in dynamic environments.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7868bd84568608b5a201ccd14708d13f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32976v1",
-    "arxiv_id": "2610.32976v1",
-    "title": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
-    "authors": [
-      "Philipp Lindenberger",
-      "Paul-Edouard Sarlin",
-      "Ondrej Miksik"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "FlexGlue: Bridging Sparse and Dense Feature Matching for Robust Visual Disambiguation",
-    "tldr": "FlexGlue unifies sparse interest points and dense pixel grids to estimate correspondences efficiently while rejecting visually symmetric mismatches. It introduces a hybrid matching pipeline that improves robustness and speed for image alignment tasks.",
-    "significance": "It addresses the trade-off between efficiency and robustness in feature matching, enabling more reliable image correspondence in challenging visual scenarios.",
-    "tags": [
-      "spatial-reasoning",
-      "real-time",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3cef63895b21591d729124d8cd54d77a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32973v1",
-    "arxiv_id": "2610.32973v1",
-    "title": "Ideal interaction dynamics of defects and background fields in condensed matter",
-    "authors": [
-      "François Gay-Balmaz",
-      "Tudor S. Ratiu",
-      "Cesare Tronci"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "Coupling Defect Dynamics with Background Fields: Modeling Interactions in Condensed Matter Systems",
-    "tldr": "Defect tracking is common, but modeling their coupled evolution with background fields remains difficult. Understanding this interaction is crucial for predicting system behavior.",
-    "significance": "Accurately capturing defect–field coupling can unlock new insights into material properties and guide the design of advanced functional materials.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "diffusion-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "5ba50686f493308553236ff1115d59b3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32972v1",
-    "arxiv_id": "2610.32972v1",
-    "title": "Comprehensive Visible and Near-infrared Keck and Gemini Monitoring and Characterization of Interstellar Comet 3I/ATLAS during its Encounter with the Solar System",
-    "authors": [
-      "Bryce T. Bolin",
-      "Jeffrey Cooke",
-      "Brian C. Lemaux"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "Keck and Gemini Monitor Interstellar Comet 3I/ATLAS: Optical and Near‑IR Observations",
-    "tldr": "We present 14 optical imaging and eight spectroscopic epochs of comet 3I/ATLAS from Keck and Gemini, along with near‑infrared imaging and spectroscopy, revealing its color properties and activity during its solar encounter. The data provide a comprehensive time‑series of its photometric and spectroscopic evolution, informing models of interstellar comet composition.",
-    "significance": "These observations offer the first detailed multi‑wavelength characterization of an interstellar comet, enhancing our understanding of cometary origins beyond the Solar System.",
-    "tags": [
-      "remote-sensing",
-      "time-series",
-      "object-detection"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4683fe99238eda5aed58dd2e01daf476",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32971v1",
-    "arxiv_id": "2610.32971v1",
-    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-    "authors": [
-      "Xi Chen",
-      "Fengqi Hu",
-      "Zeyu Shen"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "RobustRLlib: Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-    "tldr": "RobustRLlib provides an algorithm-centric framework that unifies existing robust RL methods and offers a comprehensive benchmark to evaluate their performance under diverse distribution shifts. By enabling easy reuse of algorithms and clarifying empirical limits, it accelerates research and deployment of reliable RL systems.",
-    "significance": "This library lowers barriers to robust RL research, fostering reproducibility and practical deployment of resilient policies.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c5b8a6798555a0d7407dbfe5a328c3e9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32970v1",
-    "arxiv_id": "2610.32970v1",
-    "title": "On the continuity of conditional distributions and stratification for derivative pricing",
-    "authors": [
-      "Aleksandar Arandjelovic",
-      "Patrick Cheridito"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "Reducing Monte Carlo Variance in Derivative Pricing Through Stratified Sampling",
-    "tldr": "Stratification partitions the sample space by a low-dimensional factor, reducing estimator variance in Monte Carlo simulations for path-dependent derivatives. The method's effectiveness hinges on selecting an appropriate stratification factor, which remains a critical challenge.",
-    "significance": "This approach can dramatically improve pricing accuracy and computational efficiency for complex financial instruments.",
-    "tags": [
-      "time-series",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f3d543a9af689be1d56273a4076fbe1a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32969v1",
-    "arxiv_id": "2610.32969v1",
-    "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-    "authors": [
-      "Amber Xie",
-      "Jiawei Fu",
-      "Xiaofeng Guo"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "DexPort: Hand‑Held Interface for Efficient Dexterous Manipulation Data Collection and Analysis",
-    "tldr": "DexPort provides a portable, hand‑held interface that captures high‑quality dexterous hand motions, bypassing the need for full robot setups and complex retargeting. It streamlines data collection for learning manipulation by allowing operators to record natural hand gestures that can be directly mapped to robotic actions.",
-    "significance": "DexPort bridges the gap between human demonstration and robotic execution, accelerating the acquisition of high‑quality dexterous manipulation datasets.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "c33a149b73db8c73cfcda66c8b540e86",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32967v1",
-    "arxiv_id": "2610.32967v1",
-    "title": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
-    "authors": [
-      "Tarunya Prasad",
-      "Bharatesh Chakravarthi"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "MiD‑VLM: Detecting Global Semantic Misinformation in Image‑Caption Pairs Using Vision‑Language Models",
-    "tldr": "MiD‑VLM introduces a vision‑language model that identifies mismatches between authentic images and misleading captions, grounding the source of misinformation. The system leverages a new DGM4+ dataset and demonstrates state‑of‑the‑art performance in detecting global semantic distortions.",
-    "significance": "This work enables reliable detection of narrative manipulation in multimedia, a critical step toward trustworthy AI and media literacy.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 1,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "08984f08abd978383e3e130d17f2b4ae",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31669v1",
-    "arxiv_id": "2610.31669v1",
-    "title": "Collapsed translating solitons with planar wings",
-    "authors": [
-      "Eddygledson Souza Gama",
-      "Francisco Martín",
-      "Niels Martin Møller"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "Collapsed Translating Solitons with Planar Wings Are Only Vertical Flat Planes",
-    "tldr": "We prove that any complete embedded translating soliton in ℝ³ with finite genus, finite entropy, and planar-type wings must be a vertical flat plane. This settles a conjecture about the impossibility of gluing or doubling constructions involving planes.",
-    "significance": "This result confirms that planar wings cannot support nontrivial collapsed translators, eliminating a class of potential counterexamples in mean curvature flow.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d157dc3f89795eafc267a481e0b250d7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.31666v1",
-    "arxiv_id": "2610.31666v1",
-    "title": "Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors",
-    "authors": [
-      "Samuel S. H. Tse",
-      "Qishan Liu",
-      "Kenny C. Y. Ng"
-    ],
-    "published": "2026-10-22",
-    "curated_at": "2026-10-25",
-    "headline": "Detecting Boosted Dark Matter with Large Liquid Scintillator Detectors via Neutron Capture",
-    "tldr": "Light dark matter can be accelerated by cosmic rays, enabling its detection in large neutrino detectors. By observing quasi‑elastic scattering off carbon and the delayed gamma from neutron capture, researchers can identify boosted dark matter events.",
-    "significance": "This technique opens a new window for probing sub‑GeV dark matter that is otherwise invisible to conventional direct‑detection experiments.",
-    "tags": [
-      "open-source",
-      "benchmark"
     ],
     "readtime": 2,
     "difficulty": "intermediate"
