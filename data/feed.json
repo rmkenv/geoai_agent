@@ -1,5 +1,239 @@
 [
   {
+    "uid": "a1d7f7813ebc1e98f87f8b587726c5e7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40645v1",
+    "arxiv_id": "2610.40645v1",
+    "title": "JT gravity as a conformal scaling limit of random flat combinatorial disks",
+    "authors": [
+      "Morris Ang"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "JT Gravity Emerges from Scaling Limit of Random Flat Combinatorial Disks",
+    "tldr": "We show that flat Jackiw–Teitelboim gravity appears as the universal scaling limit of random flat combinatorial disks. A branching exploration criterion is provided to identify discrete models converging to this limit.",
+    "significance": "This result establishes a rigorous bridge between discrete random geometry and continuum JT gravity, offering a new universal scaling framework.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "910303fc30995e8cf84b07f28f4b0d8c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40635v1",
+    "arxiv_id": "2610.40635v1",
+    "title": "How many mutations does it take to evolve a new function?",
+    "authors": [
+      "Nida Farheen",
+      "Zachary Boroda",
+      "Ethan Levien"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "How Many Mutations Are Needed to Create a New Biological Function?",
+    "tldr": "Scientists are trying to quantify how many genetic changes are required to produce a new cellular function. Recent studies suggest that the number can vary widely depending on the network complexity and the type of mutation.",
+    "significance": "Understanding mutation thresholds informs drug design and evolutionary biology.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "8ec1f8bc3c16c97b58ff5d65971f7f18",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40629v1",
+    "arxiv_id": "2610.40629v1",
+    "title": "A Lighter QCD-Axion from Small Instantons",
+    "authors": [
+      "Sourav Bera",
+      "Susobhan Chattopadhyay",
+      "Rick S. Gupta"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "Small Instantons Yield Lighter QCD Axion and Modified Up-Quark Yukawa",
+    "tldr": "We show that UV instantons can drastically reduce the QCD axion mass while also generating a sizable up-quark Yukawa. This opens a new window for axion phenomenology and flavor physics.",
+    "significance": "This work provides a novel mechanism linking axion physics to flavor structure, potentially reshaping searches for dark matter and CP violation.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "4fdfd436512ba0d8ad6eb1baa1456543",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40627v1",
+    "arxiv_id": "2610.40627v1",
+    "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+    "authors": [
+      "Qiyao Ma",
+      "Xiaodong Liu",
+      "Weiwei Yang"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "ShallowDefend: Strengthening Multi‑Turn Safety in Large Language Models Through Shallow Alignment",
+    "tldr": "ShallowDefend addresses the brittleness of current LLM safety defenses by focusing on the shallow alignment that concentrates safety behavior in the first few tokens. By supervising the surface form across multi‑turn interactions, it significantly reduces harmful request success rates while maintaining model performance.",
+    "significance": "This work provides a practical, open‑source framework that improves the reliability of safety defenses in conversational AI, a critical step toward responsible deployment of foundation models.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5283597e0f5835549ed68a151ac5f3da",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40626v1",
+    "arxiv_id": "2610.40626v1",
+    "title": "Finding Competitive Equilibria in Online Marketplaces with Platform Fees, Taxes, and Subsidies",
+    "authors": [
+      "Taihei Oki",
+      "Ryosuke Sato"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "Computing Competitive Equilibria in Online Marketplaces with Fees, Taxes, and Subsidies",
+    "tldr": "We present an ascending auction algorithm that computes minimum equilibrium prices in multi‑unit trading networks with piecewise‑linear transfer functions modeling platform fees, taxes, and subsidies. The method converges efficiently and yields the lowest possible equilibrium prices, enabling fair and transparent marketplace design.",
+    "significance": "This work provides a practical tool for platform designers to balance revenue and consumer welfare while ensuring market efficiency.",
+    "tags": [
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3ab9ce4f836e1c57b74cae8ad2493731",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40619v1",
+    "arxiv_id": "2610.40619v1",
+    "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+    "authors": [
+      "Chengyang He",
+      "Wenlong Zhang",
+      "Koduvayur Subbalakshmi"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "Evidence-Grounded Significance Testing for Temporal Clinical Hypotheses: A New Approach",
+    "tldr": "This paper introduces a framework that applies rigorous significance tests to temporal hypotheses in clinical data, moving beyond fluent but unverified claims. By leveraging large language models and time-series analysis, it provides statistically grounded insights into event sequences such as product recalls and vaccine side effects.",
+    "significance": "It transforms speculative temporal assertions into statistically validated findings, enhancing evidence-based decision making in healthcare and beyond.",
+    "tags": [
+      "LLM",
+      "time-series",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ed23dfd16aed358b69922253d59b6e6e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40618v1",
+    "arxiv_id": "2610.40618v1",
+    "title": "An ODE-based Sampler for Discrete Diffusion Models",
+    "authors": [
+      "Samson Gourevitch",
+      "Yazid Janati",
+      "Eric Moulines"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "Deterministic ODE Sampler Accelerates Discrete Diffusion Models for Real-Time Generation",
+    "tldr": "This paper introduces a deterministic ODE formulation that reproduces the marginals of discrete diffusion models, enabling faster sampling. The method offers a foundation for accelerated inference and consistency distillation in discrete generative modeling.",
+    "significance": "It provides a principled, efficient alternative to stochastic sampling, potentially improving speed and consistency in discrete generative tasks.",
+    "tags": [
+      "diffusion-models",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "2dceb165a601d81d3dfc6da182a82a2f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40616v1",
+    "arxiv_id": "2610.40616v1",
+    "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
+    "authors": [
+      "Michael Joseph",
+      "Yedid Hoshen"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "Calibrating Membership Inference Difficulty Over Time for Large Diffusion Model Datasets",
+    "tldr": "Standard MIAs rely on reconstruction loss, but image difficulty skews results. We propose a time‑aware calibration method that adjusts for reconstruction ease, improving member detection accuracy.",
+    "significance": "Accurate membership inference protects privacy in large diffusion models, preventing unauthorized data exposure.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "efdbc922a71c2f66cb8753d650ab42f2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40614v1",
+    "arxiv_id": "2610.40614v1",
+    "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+    "authors": [
+      "Jinhyeok Choi",
+      "JoungBin Lee",
+      "Jongmin Lee"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "L3G-World: Real-Time Infinite World Generation via Latent 3D Gaussian Memory",
+    "tldr": "L3G-World introduces a latent 3D Gaussian memory that enables real-time, spatially consistent infinite world generation, overcoming the memory scaling issues of prior explicit 3D memory methods. The approach conditions latent video generation on user actions while maintaining long-horizon coherence without growing memory with stream length.",
+    "significance": "This work provides a scalable, real-time framework for immersive interactive world generation, paving the way for more responsive virtual environments.",
+    "tags": [
+      "diffusion-models",
+      "real-time",
+      "spatial-reasoning",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "abf6a76d72c77e16038655f95678bb5d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.40613v1",
+    "arxiv_id": "2610.40613v1",
+    "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+    "authors": [
+      "Tom Sander",
+      "Pierre Fernandez",
+      "Itai Gat"
+    ],
+    "published": "2026-10-29",
+    "curated_at": "2026-11-01",
+    "headline": "TextSeal2: Distortion-Free Watermarking for LLMs Without Latency and Preserves Diversity",
+    "tldr": "TextSeal2 introduces a distortion‑free watermark that survives speculative decoding, keeping acceptance rates unchanged. It also preserves output diversity and adds no measurable inference latency.",
+    "significance": "It enables reliable watermarking of LLM outputs without compromising performance or diversity.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "f43914359e447fa245e002718549ba2c",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.40654v1",
@@ -1141,237 +1375,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "8abeeecc238f425bb5a89a5a0296c195",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35857v1",
-    "arxiv_id": "2610.35857v1",
-    "title": "Do vision models know that three is three?",
-    "authors": [
-      "Ankit Sonthalia",
-      "Arnas Uselis",
-      "Seong Joon Oh"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "Do Vision Models Truly Understand Conceptual Shifts Across Handwritten Digits and Everyday Scenes?",
-    "tldr": "Vision models may encode transformations like 2→3 or clean→dirty as linear directions in their latent space, but do they generalize these changes across different modalities? This study probes whether such models truly grasp abstract concept changes or merely learn superficial patterns.",
-    "significance": "Understanding whether vision models capture abstract transformations informs how we design more robust, transferable AI systems.",
-    "tags": [
-      "foundation-models",
-      "object-detection",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "e82ce4720695af189e4526890190306a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35856v1",
-    "arxiv_id": "2610.35856v1",
-    "title": "On the stability of learning",
-    "authors": [
-      "John J. Vastola"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "Stability of Learning with Sparse, Noisy, Intermittent Gradient Signals in Neural Networks",
-    "tldr": "This study investigates how learning algorithms behave when gradient information is sparse, local, and noisy, as often occurs in biological neural networks. The authors demonstrate that intermittent gradients can destabilize learning, highlighting the need for robust training methods under realistic signal constraints.",
-    "significance": "Understanding the limits of learning under realistic, intermittent gradient conditions is crucial for designing resilient artificial and biological neural systems.",
-    "tags": [
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "9604fd00a24ad2bba32dd24e5aab4d77",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35854v1",
-    "arxiv_id": "2610.35854v1",
-    "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
-    "authors": [
-      "Eunbeen Hong",
-      "Hyeonseo Yu",
-      "Honggyu An"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "FL4N: A Feed-Forward Latent Model for Real-Time 4D Novel View Synthesis",
-    "tldr": "FL4N introduces a feed-forward latent representation for 4D novel view synthesis, eliminating the need for explicit 4D Gaussian models. It achieves temporally consistent, artifact-free rendering across viewpoints and timestamps in real time.",
-    "significance": "This work enables efficient, temporally coherent dynamic scene rendering, advancing real-time 4D graphics.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b089935c4a7a81c3ed2c54b60ef945bf",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35853v1",
-    "arxiv_id": "2610.35853v1",
-    "title": "Adequacy radii for stepped-wedge trials with time-varying effects",
-    "authors": [
-      "Stanisław M. S. Halkiewicz",
-      "Sergey Alexeev"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "Balancing Precision and Effect Estimation in Stepped-Wedge Trials with Time-Varying Effects",
-    "tldr": "Stepped-wedge designs lack concurrent controls in final periods, creating tension between precise constant-effect analyses and exposure-time indicator methods that target time-averaged effects. This paper proposes adequacy radii to guide design choice under exposure-time heterogeneity.",
-    "significance": "It offers a principled framework to balance precision and effect estimation in stepped-wedge trials, improving inference under time-varying interventions.",
-    "tags": [
-      "time-series",
-      "change-detection"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4818201458809edc9a8ba4ec516f9d5e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35852v1",
-    "arxiv_id": "2610.35852v1",
-    "title": "Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization",
-    "authors": [
-      "Gijeong Kim",
-      "Seungbin Oh",
-      "Dongyun Kang"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "Smooth Analytic Gradient for Frictional Contact Enables Real-Time Legged Locomotion Optimization",
-    "tldr": "The authors derive a differentiable, smooth gradient for frictional contact that overcomes mode-switching limitations, enabling policy learning and contact-implicit trajectory optimization for legged robots. This approach provides closed-form sensitivities across contact transitions, improving stability and efficiency in locomotion planning.",
-    "significance": "It advances legged robot control by delivering a tractable, mode-aware gradient that facilitates learning and optimization in complex contact scenarios.",
-    "tags": [
-      "real-time",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b1923491a362c7def07aad8cd0eb1865",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32982v1",
-    "arxiv_id": "2610.32982v1",
-    "title": "The Language of Instruction: Genre and Generative AI",
-    "authors": [
-      "James E. Dobson"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "Instruction-Fine-Tuned LLMs as a New Genre: The Instructional-Conversational Paradigm in AI",
-    "tldr": "The article proposes that instruction-fine-tuned language models constitute a distinct genre—called the instructional‑conversational genre—formed by recursive interactions between humans and generative models. It argues that understanding these models as a genre clarifies their design, evaluation, and deployment across AI applications.",
-    "significance": "Recognizing instruction‑fine‑tuned LLMs as a genre reshapes how we evaluate and deploy generative AI, emphasizing conversational dynamics over static performance metrics.",
-    "tags": [
-      "LLM",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "39aa4eb6f2c09958f0c2f04595de22cc",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32981v1",
-    "arxiv_id": "2610.32981v1",
-    "title": "SEMAC: Spherical Energy Matching Ambisonics Codec for Efficient Higher-Order Ambisonics Compression",
-    "authors": [
-      "Christoph Hold",
-      "Jan Buethe",
-      "Jean-Marc Valin"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "SEMAC: A New Codec for Efficient Compression of Higher-Order Ambisonics Audio",
-    "tldr": "SEMAC introduces a spherical energy matching approach that reduces bitrate growth in HOA by selectively encoding energy-per-spherical-harmonic rather than all channels. The codec achieves comparable audio quality to Opus while cutting channel count and enabling real‑time streaming of immersive audio.",
-    "significance": "This codec addresses the quadratic bitrate challenge of HOA, making high‑order spatial audio more practical for streaming and real‑time applications.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "93e9bf9dbe2fdf245a850af0e378cc5f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32980v1",
-    "arxiv_id": "2610.32980v1",
-    "title": "Separating Thinking from Spelling for Efficient Generative Recommendation",
-    "authors": [
-      "Danil Gusak",
-      "Anna Volodkevich",
-      "Ivan Oseledets"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "Optimizing Generative Recommender Efficiency by Decoupling Thinking from Spelling for Large-Scale Web Platforms",
-    "tldr": "This work introduces a method to separate the reasoning process from the spelling of semantic IDs in generative recommenders, reducing the computational cost of beam search. By decoupling the two stages, the approach cuts the backbone passes from O(BK) to a more efficient schedule, enabling deployment at scale.",
-    "significance": "The technique dramatically lowers inference latency and resource usage for large-scale recommendation systems, making generative recommenders practical for real-time web applications.",
-    "tags": [
-      "LLM",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "26bfeef3fe83b31e7a9b8c718f0ed959",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32979v1",
-    "arxiv_id": "2610.32979v1",
-    "title": "Fréchet Kriging for Metric Space-Valued Spatial Data",
-    "authors": [
-      "Ryo Okano",
-      "Daisuke Kurisu",
-      "Hans-Georg Müller"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "Fréchet Kriging: Predicting Non-Euclidean Spatial Data in General Metric Spaces",
-    "tldr": "We introduce Fréchet kriging, a general framework for spatial prediction of metric-space-valued data such as probability distributions and SPD matrices. The method extends classical kriging to non-Euclidean settings, enabling accurate interpolation without vector space assumptions.",
-    "significance": "Fréchet kriging unlocks spatial analysis for a wide range of modern data types that were previously inaccessible to traditional geostatistics.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a17abffa052b358235de7ee5abd73c05",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.32978v1",
-    "arxiv_id": "2610.32978v1",
-    "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
-    "authors": [
-      "Yuhan Liu",
-      "Lianhui Qin",
-      "Shenji Wan"
-    ],
-    "published": "2026-10-23",
-    "curated_at": "2026-10-26",
-    "headline": "SceneBloom: Generating Realistic Indoor Layouts for Embodied AI Training",
-    "tldr": "SceneBloom combines language guidance with diffusion-based visual generation to produce diverse, physically valid 3D indoor scenes. It bridges semantic planning and spatial reasoning, enabling more realistic embodied agent training.",
-    "significance": "The method advances embodied AI by providing scalable, realistic environments that improve generalization and learning efficiency.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "spatial-reasoning",
-      "LLM"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
   }
 ]
