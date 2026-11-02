@@ -1,5 +1,269 @@
 [
   {
+    "uid": "1171e2ad8a75445ede93def3b9c1e536",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42149v1",
+    "arxiv_id": "2610.42149v1",
+    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+    "authors": [
+      "Byungwoo Jeon",
+      "Yoonwoo Jeong",
+      "Hyunseok Lee"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Latent Reasoning in Continuous Space Enhances Unified Multimodal Models for Image Generation",
+    "tldr": "Unified multimodal models struggle to use language-based chain-of-thought reasoning for image generation, limiting test-time scaling and controllability. This work introduces latent reasoning in continuous space to bridge that gap, enabling finer control and better performance.",
+    "significance": "This approach unlocks scalable, controllable image generation in multimodal systems, matching the capabilities of large language models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b0964d0e3973a55e13af7223589daa48",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42148v1",
+    "arxiv_id": "2610.42148v1",
+    "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+    "authors": [
+      "Bobo Li",
+      "Jiajia Song",
+      "Hao Fei"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Flide: Accelerating Decision Inference with Exact State Forking for LLM Agent Systems",
+    "tldr": "Decision models like Jev enable fast categorical reasoning for LLM agents, but current inference engines incur heavy prefix recomputation or skewed probabilities. Flide introduces exact state forking to eliminate these overheads, enabling efficient real‑time decision inference.",
+    "significance": "Flide’s exact state forking dramatically reduces inference latency, making lightweight decision models practical for real‑time LLM agent deployments.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "17d599914f700463f44c9dd3391baa82",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42147v1",
+    "arxiv_id": "2610.42147v1",
+    "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+    "authors": [
+      "Ales Kubicek",
+      "Andrea Caciolai",
+      "Liangzu Peng"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Enabling Subquadratic Attention for Ultra-Long Contexts with Latent Sparse Attention",
+    "tldr": "The paper introduces Latent Sparse Attention, a method that reduces attention complexity from quadratic to subquadratic for contexts exceeding one million tokens. By using a learned indexer to select key subsets, it enables efficient, scalable transformer models for ultra-long sequences.",
+    "significance": "It paves the way for practical deployment of transformer models on massive document streams and scientific data without prohibitive memory costs.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4aaa0bea544a1c7626bb0720ae7cc9e9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42146v1",
+    "arxiv_id": "2610.42146v1",
+    "title": "Hierarchical World Models with Implicit Dynamics",
+    "authors": [
+      "Gaoyue Zhou",
+      "Yvonne Wu",
+      "Zichen Jeff Cui"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Hierarchical World Models with Implicit Dynamics for Robust Long-Horizon Planning",
+    "tldr": "We propose ID-WM, a hierarchical world model that learns implicit dynamics, enabling test-time adaptation and fine-grained control for embodied agents. The approach reduces cumulative errors and search complexity, outperforming rigid macro-action methods on long-horizon tasks.",
+    "significance": "ID-WM advances long-horizon planning by combining hierarchical structure with implicit dynamics, achieving superior generalization and control.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "6152547dbf63c8264c5402046e8689f1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42145v1",
+    "arxiv_id": "2610.42145v1",
+    "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+    "authors": [
+      "Kuankuan Cheng",
+      "Haocheng Yuan",
+      "Changjian Li"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "SemEllipsoid: Semantic-Aware Ellipsoid-Based Shape Abstraction for Efficient 3D Representation in Graphics",
+    "tldr": "SemEllipsoid introduces a semantic-aware ellipsoid shape abstraction that captures 3D geometry with high compactness and computational efficiency. The method leverages semantic cues to guide primitive placement, enabling fast, accurate shape reconstruction suitable for real-time applications.",
+    "significance": "This work advances compact 3D shape representation by integrating semantic information, improving efficiency for graphics and simulation tasks.",
+    "tags": [
+      "segmentation",
+      "point-cloud",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e5222470395092a89218c1be17b77976",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42144v1",
+    "arxiv_id": "2610.42144v1",
+    "title": "Dittany: Contribution-Guided Repair Framework for MAS Applications",
+    "authors": [
+      "Hanqi Sun",
+      "Yuchen Shao",
+      "Hanyi Si"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Dittany: A Contribution-Guided Framework for Runtime Repair of LLM-Driven Multi-Agent Systems",
+    "tldr": "Dittany identifies unfinished tasks in LLM-based MAS executions and uses completed contributions to repair them at runtime. The framework derives expected contributions and acceptance conditions, enabling automated, real-time recovery.",
+    "significance": "It enables reliable deployment of LLM-driven multi-agent systems by providing automated runtime repair.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a14eb1701c3aff55b505c9c7df491294",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42141v1",
+    "arxiv_id": "2610.42141v1",
+    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "authors": [
+      "Shengguang Wu",
+      "Suning Huang",
+      "Cherie Ho"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Automating Robotic Agent Harness Design with Persistent Memory for Dynamic Environments",
+    "tldr": "We present RoboArchitect, a system that automatically generates agent harnesses that orchestrate frozen robot policies, vision tools, and direct arm commands, eliminating manual redesign for each robot or benchmark. This approach offers a robust alternative to finetuning, enabling rapid deployment across diverse robotic setups.",
+    "significance": "By automating harness design, RoboArchitect reduces engineering effort and accelerates deployment of robotic agents across varied tasks, challenging the need for costly finetuning.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "b173f0b0dca956f2c83d82517266b038",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42139v1",
+    "arxiv_id": "2610.42139v1",
+    "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+    "authors": [
+      "Vitaly Feldman",
+      "Audra McMillan",
+      "Kunal Talwar"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Counting on Dummies: Enhancing DP-SGD with Observable Counts and Truncated Batches",
+    "tldr": "This paper introduces a method to improve privacy amplification in DP-SGD by using observable batch counts and truncated sampling. By accounting for variable batch sizes, it achieves tighter privacy guarantees while maintaining training efficiency.",
+    "significance": "It provides a practical approach to tighten DP guarantees in real-world training pipelines where batch sizes vary.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e18921ae62d4e8f1ba1fe171f4eb4479",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42137v1",
+    "arxiv_id": "2610.42137v1",
+    "title": "On the Iwasawa invariants of admissible quadratic twists of elliptic curves at ordinary Eisenstein primes",
+    "authors": [
+      "Mulun Yin"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Iwasawa Invariants of Quadratic Twists at Eisenstein Primes: μ=0 and λ-Analysis",
+    "tldr": "We prove Greenberg's μ=0 conjecture for all admissible quadratic twists of rational elliptic curves at Eisenstein primes p≥3, providing an Euler system proof of Mazur's cotorsion conjecture. We also analyze the λ-invariants in the admissible case, yielding a cyclotomic Iwasawa Main Conjecture result.",
+    "significance": "This work resolves key conjectures in Iwasawa theory for a broad class of elliptic curves, advancing our understanding of arithmetic invariants in number theory.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2d3034a0153b011d4ac2e85899012dc7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42136v1",
+    "arxiv_id": "2610.42136v1",
+    "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+    "authors": [
+      "Assaf Singer",
+      "Maroun Khriesh",
+      "Noam Rotstein"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "ReLift: Leveraging Pretrained 2D Trackers for Dense 3D Trajectory Repair",
+    "tldr": "ReLift introduces a novel framework that repurposes strong pretrained 2D trackers and 3D geometry models to achieve dense 3D tracking from monocular video. By treating trajectory repair as a lifted problem, it reduces the need for extensive 4D supervision while maintaining accurate depth and motion estimation.",
+    "significance": "This approach enables robust 3D tracking in challenging occlusion scenarios with limited supervision, advancing the state of the art in monocular 3D reconstruction.",
+    "tags": [
+      "foundation-models",
+      "point-cloud",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a432dd1ff24dc7e6151e0f254d45e447",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2610.42135v1",
+    "arxiv_id": "2610.42135v1",
+    "title": "A Better Critic Matters for Distribution Matching Distillation",
+    "authors": [
+      "Zongze Wu",
+      "Xianbang Wang",
+      "Zhengyang Geng"
+    ],
+    "published": "2026-10-30",
+    "curated_at": "2026-11-02",
+    "headline": "Enhancing Distillation: The Role of Critic Capacity in Distribution Matching",
+    "tldr": "Distribution Matching Distillation uses a teacher’s score and a critic’s estimate to train a student. Our experiments show that increasing the critic’s capacity improves training signals, highlighting the importance of a powerful critic for effective distillation.",
+    "significance": "This study clarifies that a stronger critic is essential for reliable distillation, guiding future model compression efforts.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "a1d7f7813ebc1e98f87f8b587726c5e7",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.40645v1",
@@ -1133,247 +1397,5 @@
     ],
     "readtime": 3,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "c372756dc3050e8979c1ab5331fba6b3",
-    "source": "web",
-    "url": "https://github.com/topics/remote-sensing",
-    "arxiv_id": "",
-    "title": "remote-sensing · GitHub Topics · GitHub",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "Remote Sensing Change Detection Hub: Datasets, Tools, Methods, Reviews, and Competitions",
-    "tldr": "This repository aggregates the latest datasets, tools, and research for detecting changes in remote sensing imagery. It also lists competitions and review papers to support practitioners and researchers.",
-    "significance": "It serves as a central resource accelerating progress in automated change detection across environmental and urban monitoring.",
-    "tags": [
-      "remote-sensing",
-      "change-detection",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "26fa3243384f40ff7220879e19adbf53",
-    "source": "web",
-    "url": "https://github.com/opengeos/geoai",
-    "arxiv_id": "",
-    "title": "GeoAI: Artificial Intelligence for Geospatial Data - GitHub",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "GeoAI Toolkit: Streamlined Satellite Imagery Access and AI-ready Preprocessing for Machine Learning",
-    "tldr": "GeoAI provides a unified interface to download, mosaic, and preprocess satellite imagery from Sentinel, Landsat, NAIP, and other open sources. It also automates training dataset creation, vector-raster conversions, and data augmentation for AI workflows.",
-    "significance": "This toolkit accelerates AI research on geospatial data by simplifying data acquisition and preprocessing.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "40c0f9892f54e0b04622ca96dc1bdaa0",
-    "source": "web",
-    "url": "https://opengeoai.org/",
-    "arxiv_id": "",
-    "title": "Home - GeoAI",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "GeoAI: Bridging AI and Geospatial Analysis with an Open-Source Python Package",
-    "tldr": "GeoAI is a powerful open-source Python library that seamlessly integrates machine learning with geospatial data analysis and visualization. It equips researchers and practitioners with intuitive tools for tasks ranging from remote sensing to spatial reasoning.",
-    "significance": "By unifying AI and geospatial workflows, GeoAI accelerates insights across environmental monitoring, urban planning, and disaster response.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "0a000f935aceec4a908e71d0fce3c7f0",
-    "source": "web",
-    "url": "https://www.grsg.org.uk/open-source-software",
-    "arxiv_id": "",
-    "title": "Open Source Software - The Geological Remote Sensing Group (GRSG)",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "GRSG: Open-Source Remote Sensing Suite for Optical, SAR, and Hyperspectral Analysis",
-    "tldr": "GRSG aggregates free geospatial tools for advanced remote sensing across optical, multispectral, SAR, and hyperspectral data, enabling researchers to perform sophisticated image processing. The platform supports a wide range of applications from urban analysis to environmental monitoring.",
-    "significance": "By unifying powerful open-source libraries, GRSG democratizes access to cutting-edge remote sensing capabilities, accelerating scientific discovery and practical applications.",
-    "tags": [
-      "remote-sensing",
-      "open-source",
-      "SAR",
-      "satellite-imagery"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "57bbba71b7a72c67542b239374b0f3de",
-    "source": "web",
-    "url": "https://rastervision.io/",
-    "arxiv_id": "",
-    "title": "Raster Vision: An open-source machine learning library for deep ...",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "Raster Vision: Open-Source GIS and Deep Learning Toolkit for Satellite Image Analysis",
-    "tldr": "Raster Vision is an open-source library that unifies GIS and deep learning for remote sensing tasks. It offers a configurable pipeline for chip classification, semantic segmentation, and object detection on satellite imagery.",
-    "significance": "It democratizes advanced computer vision for geospatial analysis, enabling researchers and practitioners to build robust models without reinventing the wheel.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "open-source",
-      "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "47a9a41832d1ffd0ac4d5ddeb6229b55",
-    "source": "web",
-    "url": "https://pypi.org/project/geoai-py/",
-    "arxiv_id": "",
-    "title": "geoai-py · PyPI",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "GeoAI: A Python Toolkit for AI-Driven Geospatial Data Analysis and Remote Sensing",
-    "tldr": "GeoAI is an open-source Python package that integrates AI and geospatial data analysis. It offers intuitive tools for applying machine learning techniques to geographic data, enabling researchers and practitioners to perform tasks such as segmentation, object detection, and time-series analysis.",
-    "significance": "GeoAI democratizes advanced geospatial AI workflows, making sophisticated analysis accessible to a broad community.",
-    "tags": [
-      "open-source",
-      "remote-sensing",
-      "satellite-imagery"
-    ],
-    "readtime": 3,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "3d285de4b50ab4d3e4e55b7cf118bc5f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35868v1",
-    "arxiv_id": "2610.35868v1",
-    "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
-    "authors": [
-      "Chao Wan",
-      "Paul Jünger",
-      "Beixi Du"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "DecisionRAG: Leveraging Language Models for Retrieval Without Traditional Indexes and Lexical Matching",
-    "tldr": "DecisionRAG replaces lexical or embedding-based retrieval with decision models that guide pretrained language models to locate relevant documents. This approach eliminates retrieval bottlenecks, allowing generators to recover even when traditional retrievers miss key information.",
-    "significance": "By freeing retrieval from lexical constraints, DecisionRAG enables more robust and flexible document navigation, improving the reliability of large language model outputs.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "af9827d1adf09c3e2ae67c20ba9a6989",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35865v1",
-    "arxiv_id": "2610.35865v1",
-    "title": "Center-of-Mass Interpretation of Evolution Strategies",
-    "authors": [
-      "Akshat Gupta"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "Center-of-Mass View of Evolution Strategies: A Geometric Take on Optimization",
-    "tldr": "Evolution strategies can be seen as moving the center of mass of a weighted particle cloud, where each perturbed model is a particle and its reward is its mass. This geometric view offers a fresh perspective on how ES updates the model parameters.",
-    "significance": "This interpretation simplifies understanding of ES updates and may inspire new algorithmic variations.",
-    "tags": [
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d8e5f2273bf113191732de67d93027a8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35866v1",
-    "arxiv_id": "2610.35866v1",
-    "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
-    "authors": [
-      "Xi Chen",
-      "Chongjian Ge",
-      "Yiran Xu"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "Auto-Research Arena: A New Benchmark for Autonomous Language Model Research",
-    "tldr": "The Auto-Research Arena introduces a multi-target benchmark that evaluates autonomous research systems in language modeling. It provides a shared experimental environment that separates admissibility criteria, enabling systematic discovery of novel ideas.",
-    "significance": "This benchmark accelerates the development of self-driving research agents by offering a standardized, reproducible evaluation framework.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "66fd42ac1eb14ea4696d79f7738ea93d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35864v1",
-    "arxiv_id": "2610.35864v1",
-    "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
-    "authors": [
-      "Muxi Diao",
-      "Wenbin Xu",
-      "Lele Yang"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "VibeVideoBench: Benchmarking Code-Driven Video Generation for Evaluating Multimodal Agents in Real-World Scenarios",
-    "tldr": "Diffusion video models struggle to render precise formulas, charts, or synchronized narration, prompting a shift toward multimodal agents that generate code for each frame and sound. VibeVideoBench evaluates these agents with a 23‑task benchmark.",
-    "significance": "This benchmark advances the evaluation of code-driven video generation, bridging the gap between visual fidelity and functional accuracy.",
-    "tags": [
-      "benchmark",
-      "LLM",
-      "diffusion-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "8564bf0ed2db3ee668967b279c09185b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.35863v1",
-    "arxiv_id": "2610.35863v1",
-    "title": "Complete entropy contraction from conditional hyperboundedness",
-    "authors": [
-      "Li Gao",
-      "Lijun Wang"
-    ],
-    "published": "2026-10-26",
-    "curated_at": "2026-10-27",
-    "headline": "Conditional Hyperboundedness and GNS Contraction Yield Entropy Contraction in Quantum Channels",
-    "tldr": "We prove that for finite-dimensional quantum channels compatible with a faithful conditional expectation, conditional hyperboundedness together with strict GNS contraction ensures a contraction of relative entropy. For KMS-symmetric quantum Markov semigroups, a conditional 2→q hyperboundedness at time t0 combined with a GNS spectral gap yields an explicit lower bound for the modified logarithmic Sobolev constant.",
-    "significance": "This result bridges functional analytic properties of quantum channels with entropy decay, providing new tools for quantum information theory.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
   }
 ]
