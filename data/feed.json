@@ -1,5 +1,269 @@
 [
   {
+    "uid": "5fb621fb03c4f75adf974c603d68335e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03647v1",
+    "arxiv_id": "2611.03647v1",
+    "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+    "authors": [
+      "Jason Jingzhou Liu",
+      "Tony Tao",
+      "Deepak Pathak"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations for Mobile Robots",
+    "tldr": "Pixel-UMI introduces a pipeline that uses sensorized human demonstrations to train whole-body manipulation policies that adapt to the environment. By combining reconstructed scene geometry with head and gripper trajectories, the system retargets human motions to a robot while preserving task relevance and safety.",
+    "significance": "This work bridges the gap between human demonstration data and robot embodiment, enabling scalable, environment-aware manipulation without manual labeling.",
+    "tags": [
+      "point-cloud",
+      "segmentation",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "984906c52215dc8abefdf513e3eecbc4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03648v1",
+    "arxiv_id": "2611.03648v1",
+    "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "authors": [
+      "Tony Tao",
+      "Jason Jingzhou Liu",
+      "Ruslan Salakhutdinov"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Pixel: A Co-Designed Full-Stack System for Learning General-Purpose Mobile Manipulation",
+    "tldr": "Pixel integrates robot hardware, demonstration collection, whole-body control, and policy learning into a unified system. This co-design approach eliminates mismatches and enables robust general-purpose mobile manipulation.",
+    "significance": "Pixel demonstrates that tightly coupled hardware-software co-design can unlock scalable, real-world mobile manipulation capabilities.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time",
+      "point-cloud"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e5d364e2f45693cdc9826519c9009928",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03646v1",
+    "arxiv_id": "2611.03646v1",
+    "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+    "authors": [
+      "Yujiao Shen",
+      "Jiahe Song",
+      "Haitian Li"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "EgoActionBench: A New Dataset Benchmark for Fine-Grained Egocentric Action Captioning",
+    "tldr": "EgoActionBench provides a richly annotated, temporally precise dataset for dense action captioning from first-person videos, addressing gaps in atomic action granularity and hand-action association. The benchmark enables evaluation of models on continuous manipulation tasks with fine-grained temporal boundaries.",
+    "significance": "It advances embodied AI by offering a comprehensive testbed for understanding human manipulation in egocentric contexts.",
+    "tags": [
+      "benchmark",
+      "object-detection",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "939b2a1badfff83fd64f925a441008aa",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03644v1",
+    "arxiv_id": "2611.03644v1",
+    "title": "Single-visit screening for intracochlear tissue growth validated against multi-visit electrical measurement changes",
+    "authors": [
+      "Minh Q. Vu",
+      "Erin L. Bratu",
+      "Jared A. Rybarczyk"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Single-Visit Screening Detects Cochlear Implant Tissue Growth Using SCINSEV Measurements",
+    "tldr": "A new algorithm can identify significant tissue growth around cochlear implant electrodes from a single SCINSEV recording. The method was validated against multi-visit impedance changes, enabling early intervention without additional visits.",
+    "significance": "This approach allows clinicians to monitor implant health in a single appointment, potentially improving patient outcomes and reducing healthcare costs.",
+    "tags": [
+      "time-series",
+      "change-detection",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e1a2dbd4d36508e6e1d9e3ee6885de89",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03642v1",
+    "arxiv_id": "2611.03642v1",
+    "title": "A hyperbolic nonlinear Schrödinger system in multiple spatial dimensions: structure, convergence, and numerical discretization",
+    "authors": [
+      "Carlos Muñoz-Moncayo",
+      "Abhijit Biswas",
+      "David I. Ketcheson"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Hyperbolic Approximation of N-Dimensional Nonlinear Schrödinger Equation: Structure, Convergence, and Discretization",
+    "tldr": "We introduce a first-order hyperbolic system that approximates the N-dimensional nonlinear Schrödinger equation, preserving key conservation laws. Numerical experiments confirm convergence and efficient real-time discretization.",
+    "significance": "This work provides a mathematically rigorous, computationally efficient framework for simulating high-dimensional NLS dynamics, bridging theory and practice.",
+    "tags": [
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e14e6e80629f83e45c477b3ce27e6638",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03641v1",
+    "arxiv_id": "2611.03641v1",
+    "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+    "authors": [
+      "Paulius Skaisgiris",
+      "Thomas Pammer",
+      "Veronika Semmelrock"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Neuro-Symbolic Exact Cover for Zebra Puzzles: Bridging LLM Reasoning and Symbolic Logic",
+    "tldr": "This paper introduces a neuro-symbolic method that translates natural language zebra puzzles into exact cover problems, enabling deterministic solutions. By combining chain‑of‑thought LLMs with symbolic solvers, the approach overcomes LLMs’ logical gaps while preserving speed.",
+    "significance": "It demonstrates that integrating neural reasoning with symbolic exact cover yields reliable, sound solutions for classic logic puzzles, setting a new benchmark for explainable AI.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1b9072adba8a6fd25f9c6a885a03d341",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03640v1",
+    "arxiv_id": "2611.03640v1",
+    "title": "Construction of the 2D non-Abelian Yang-Mills-Higgs measure via stochastic quantisation",
+    "authors": [
+      "Bjoern Bringmann",
+      "Sky Cao",
+      "Martin Hairer"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Mathematically Constructing the 2D Non-Abelian Yang-Mills-Higgs Measure via Stochastic Quantisation",
+    "tldr": "We present the first rigorous construction of the non-Abelian Yang-Mills-Higgs measure on a two-dimensional torus using Parisi–Wu stochastic quantisation. By developing a gauge-covariant paracontrolled calculus, we overcome non-Markovian challenges and establish the measure’s existence.",
+    "significance": "This work establishes a foundational framework for non-Abelian gauge theories in two dimensions, bridging stochastic analysis and quantum field theory.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "a53868695878e6062bd904f08c2021f3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03639v1",
+    "arxiv_id": "2611.03639v1",
+    "title": "Quantum channel tomography: optimal bounds in the near-boundary regime",
+    "authors": [
+      "Kean Chen",
+      "Aadil Oufkir"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Optimal Bounds for Quantum Channel Tomography Near the Boundary Regime",
+    "tldr": "This paper establishes tight optimal bounds for learning quantum channels with Kraus rank r in the near-boundary regime, where the dilation rate τ is close to one. It improves sample complexity guarantees and provides new insights into efficient quantum process tomography.",
+    "significance": "It advances the theoretical limits of quantum process tomography, enabling more efficient characterization of quantum devices.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "7a1e332a2595b1f27ea0c3788a283ca6",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03637v1",
+    "arxiv_id": "2611.03637v1",
+    "title": "Mercury (Hg): a relativistic $N$-body simulation for Horndeski gravity",
+    "authors": [
+      "Ahmad Nouri-Zonoz",
+      "Farbod Hassani",
+      "Julian Adamek"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Mercury: Relativistic N-Body Simulation for Horndeski Gravity in Cosmology and Structure Formation",
+    "tldr": "Mercury is a relativistic N‑body code that extends particle‑mesh methods to include the scalar degree of freedom in Horndeski gravity. It solves the modified Einstein equations with time‑dependent α functions, enabling accurate cosmological simulations of modified gravity scenarios.",
+    "significance": "Mercury provides the first fully relativistic N‑body framework for Horndeski gravity, allowing precise tests of modified gravity against cosmological observations.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "f5f302a73a454ee99aac825e8cac0a65",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03633v1",
+    "arxiv_id": "2611.03633v1",
+    "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+    "authors": [
+      "Catherine Li",
+      "Jingchu Gai",
+      "Andrej Risteski"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Muon’s Pretraining Edge Vanishes After Fine‑Tuning for Large Datasets",
+    "tldr": "Muon optimizer accelerates pretraining loss minimization compared to AdamW, but when fine‑tuned on downstream tasks, AdamW eventually outperforms Muon once the pretraining data exceeds a threshold. This suggests that Muon’s advantage is limited to pretraining and may not translate to real‑world fine‑tuning performance.",
+    "significance": "Understanding when Muon’s speed advantage translates to downstream gains informs optimizer choice for large‑scale language model training pipelines.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5864213fe3e9219d167b7d2d8ae2d23e",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.03631v1",
+    "arxiv_id": "2611.03631v1",
+    "title": "Supporting Viewpoint Coordination for Compliance by Design with an Artifact Model for Regulatory Requirements Engineering",
+    "authors": [
+      "Oleksandr Kosenkov",
+      "Davide Fucci",
+      "Michael Unterkalmsteiner"
+    ],
+    "published": "2026-11-02",
+    "curated_at": "2026-11-03",
+    "headline": "Integrating Legal Expertise into Compliance-by-Design via Artifact Models for Requirements Engineering",
+    "tldr": "This paper proposes an artifact model that captures regulatory requirements and supports compliance-by-design in software engineering. By involving legal experts and leveraging LLMs, the approach facilitates requirement derivation and downstream implementation.",
+    "significance": "It bridges the gap between legal knowledge and software design, enabling systematic compliance integration.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "1171e2ad8a75445ede93def3b9c1e536",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2610.42149v1",
@@ -1149,253 +1413,5 @@
     ],
     "readtime": 2,
     "difficulty": "advanced"
-  },
-  {
-    "uid": "525dfb812120b86cb5691df9aa3b1b98",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37658v1",
-    "arxiv_id": "2610.37658v1",
-    "title": "When Should We Intervene at Test Time?",
-    "authors": [
-      "Jiahao Zhang",
-      "Xinling Wen",
-      "Liangliang Li"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "When to Intervene at Test Time: Balancing Adaptation and Stability in AI Models",
-    "tldr": "Test‑time adaptation can boost performance on corrupted data, but indiscriminate updates may harm subsequent batches. By leveraging target labels and batch statistics, models can learn when to adjust and when to stay fixed, improving robustness in real‑world deployments.",
-    "significance": "Understanding the optimal timing for test‑time interventions is crucial for deploying reliable AI systems that adapt to changing data without compromising stability.",
-    "tags": [
-      "real-time",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "73621f950899bc471c6aa12f2037ae0e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37657v1",
-    "arxiv_id": "2610.37657v1",
-    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-    "authors": [
-      "Igor Shilov",
-      "Xiaoxue Yang",
-      "Alexander Panfilov"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Heads of Security: Attention Gates Enhance LLM Prompt Injection Defense",
-    "tldr": "Heads of Security (HoS) introduces learned per-head attention gates that enforce instruction-data separation, preventing prompt injection in large language models. Evaluated on Llama-3.3-70B-Instruct and GPT-OSS-20B, HoS improves robustness without sacrificing performance.",
-    "significance": "HoS offers a lightweight, architecture-agnostic defense that strengthens LLM security while preserving inference speed.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "89dfdfe4c43a84a5d6344d0e4e15e382",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37656v1",
-    "arxiv_id": "2610.37656v1",
-    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
-    "authors": [
-      "Aakash Sarkar",
-      "Ananya Mukherjee",
-      "Motoshige Sato"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Attention as Lattice Gauge Theory: Unifying Relations via Wilson Loops",
-    "tldr": "This paper reinterprets attention mechanisms as a lattice gauge theory, where interactions between entities are mediated solely through Wilson loops. It demonstrates that allowing per-entity coordinate frames yields three key properties, offering a principled framework for relational reasoning.",
-    "significance": "It provides a novel theoretical foundation linking attention to gauge invariance, potentially guiding the design of more robust relational models.",
-    "tags": [
-      "LLM",
-      "spatial-reasoning",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "fbdb2c48ce21cf5ecf661191d1669a5f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37655v1",
-    "arxiv_id": "2610.37655v1",
-    "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
-    "authors": [
-      "Wenqing Peng",
-      "Michael Boy",
-      "Zhi-Song Liu"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "KPPax: Differentiable Kinetic ODE Preprocessor for Atmospheric ML",
-    "tldr": "KPPax transforms traditional Kinetic PreProcessor outputs into differentiable, JAX-compatible code, enabling integration with machine-learning frameworks. It supports just-in-time compilation and vectorization for efficient atmospheric chemistry simulations.",
-    "significance": "By bridging kinetic modeling and differentiable programming, KPPax accelerates the development of data-driven atmospheric chemistry models.",
-    "tags": [
-      "open-source",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "25f97c7ff0b5a7d88804e4b8c2690904",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37654v1",
-    "arxiv_id": "2610.37654v1",
-    "title": "Mediated Interactions between Fermi Polarons in the Strongly Interacting Regime",
-    "authors": [
-      "Renato Pessoa",
-      "S. A. Vitiello",
-      "Luis A. Peña Ardila"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Exploring Strongly Interacting Fermi Polaron Mediated Interactions via Quantum Monte Carlo",
-    "tldr": "Using zero-temperature quantum Monte Carlo, we characterize mediated interactions between Fermi polarons in a strongly correlated Fermi sea. The results uncover novel quasiparticle behavior that challenges conventional Landau Fermi-liquid predictions.",
-    "significance": "This study provides the first quantitative description of mediated interactions in the strongly interacting regime, informing future experiments and theoretical models of quantum many-body systems.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "6141be5a70e1961b4bd5a777b33b9ca8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37651v1",
-    "arxiv_id": "2610.37651v1",
-    "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
-    "authors": [
-      "Zack Yu",
-      "Nicholas Lee",
-      "Minjae Lee"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Curated Learning Boosts Self-Improving Agents Using Large Language Models in Complex Environments",
-    "tldr": "GEPA-Curator introduces a curated learning framework that filters out non-informative failures in multi-turn LLM agent rollouts. By focusing on prompt weaknesses and harness limitations, it improves agent performance more efficiently than traditional reflective optimizers.",
-    "significance": "This approach streamlines self-improvement for LLM agents, reducing reliance on noisy feedback and accelerating deployment in real-world tasks.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "76223bc4cde5435f8d85cf9277348f9a",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/ai-machine-learning-geospatial/geo-ai/",
-    "arxiv_id": "",
-    "title": "GeoAI | Geo Week News",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "AI Revolutionizes Geospatial Work: From Feature Extraction to Predictive Analysis",
-    "tldr": "Artificial intelligence is transforming geospatial workflows by automating feature extraction and classifying point clouds. These advances enable predictive analysis across the data pipeline, unlocking new applications in imagery, LiDAR, and spatial datasets.",
-    "significance": "GeoAI empowers faster, more accurate decision-making in fields ranging from urban planning to environmental monitoring.",
-    "tags": [
-      "remote-sensing",
-      "point-cloud",
-      "LiDAR",
-      "segmentation"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "26038ac1b7fbeb16e362e046d7d626fe",
-    "source": "web",
-    "url": "https://www.geography2050.org/2025",
-    "arxiv_id": "",
-    "title": "2025: GeoAI — GEOGRAPHY 2050",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "Building GeoAI Foundation Models for Real-Time Global Change Detection and Forecasting",
-    "tldr": "Foundation models trained on massive geospatial datasets can now interpret satellite imagery, LiDAR, and SAR to detect urban growth, crop health, and flood events in near real time. This capability enables policymakers and researchers to monitor and respond to environmental changes faster than ever before.",
-    "significance": "Accurate GeoAI foundations transform raw Earth observations into actionable insights, accelerating climate resilience and sustainable development.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "satellite-imagery",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "079f3198282271621f612e9d277c56ab",
-    "source": "web",
-    "url": "https://www.geoweeknews.com/articles/geoai-and-the-next-generation-of-geospatial-insights/",
-    "arxiv_id": "",
-    "title": "GeoAI and the Next Generation of Geospatial Insights - Geo Week News",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "GeoAI Revolutionizes Geospatial Insights for Businesses and Governments in Urban Planning and Disaster Response",
-    "tldr": "GeoAI blends geospatial data, sensing tech, and AI to deliver actionable insights. This shift empowers organizations to capture, analyze, and interpret spatial information faster and more accurately.",
-    "significance": "By integrating AI with satellite imagery and sensor data, GeoAI unlocks new capabilities for real-time monitoring and decision-making across sectors.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "urban-AI",
-      "time-series"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0ba88e0a2a3c4dce78fd216e4e7ac01",
-    "source": "web",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1569843225000159",
-    "arxiv_id": "",
-    "title": "Towards the next generation of Geospatial Artificial Intelligence",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "Charting the Future of Geospatial AI: From Foundations to Real-World Impact",
-    "tldr": "Geospatial Artificial Intelligence (GeoAI) merges geospatial science with AI, rapidly evolving as a leading research frontier. Understanding recent advances and forecasting future directions is essential for harnessing its transformative potential.",
-    "significance": "GeoAI's integration of spatial data and machine learning promises breakthroughs across environmental monitoring, urban planning, and disaster response.",
-    "tags": [
-      "remote-sensing",
-      "satellite-imagery",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "introductory"
-  },
-  {
-    "uid": "9f046eeee37603981d57dc0a5e80e1a7",
-    "source": "web",
-    "url": "https://www.arizton.com/blog/top-5-geospatial-ai-trends-to-watch",
-    "arxiv_id": "",
-    "title": "Top 5 Geospatial AI Trends to Watch in 2025 - arizton.com",
-    "authors": [],
-    "published": "2026-10-28",
-    "curated_at": "2026-10-28",
-    "headline": "Top 5 GeoAI Trends to Watch in 2025: From Foundation Models to Real-Time Urban Insight",
-    "tldr": "GeoAI is reshaping industries with AI-driven insights from satellite data to urban planning. In 2025, key trends include foundation models, real-time analytics, and advanced remote sensing.",
-    "significance": "Understanding these trends is essential for stakeholders aiming to leverage AI for smarter, data-driven decision-making.",
-    "tags": [
-      "foundation-models",
-      "remote-sensing",
-      "satellite-imagery",
-      "urban-AI"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
   }
 ]
