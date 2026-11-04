@@ -1,5 +1,260 @@
 [
   {
+    "uid": "fcb4ddf4682642f8d53a20ee109c41f4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05378v1",
+    "arxiv_id": "2611.05378v1",
+    "title": "Boundary $c\\leq1$ Liouville CFT from the Bootstrap",
+    "authors": [
+      "Panos Betzios",
+      "Paul Ghiringhelli",
+      "Olga Papadoulaki"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "Boundary Liouville CFT at c≤1: FZZT Conditions, Bootstrap, and Sewing Constraints",
+    "tldr": "We construct boundary Liouville CFT with FZZT-type conditions at c≤1, deriving missing boundary three-point and bulk-to-boundary constants via analytic bootstrap. The resulting theory satisfies Cardy–Lewellen sewing constraints on the disk and annulus.",
+    "significance": "This work completes the non-perturbative formulation of Liouville CFT at c≤1 with consistent boundary data, enabling further studies of 2D quantum gravity and string theory.",
+    "tags": [
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "89a0efc6c58d3f1fe068cc85a9f10a9a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05377v1",
+    "arxiv_id": "2611.05377v1",
+    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+    "authors": [
+      "Jisoo Kim",
+      "Chaehyun Kim",
+      "Junsu Kim"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "DreamX: A Universal Video Diffusion Model for Action Representation Across Embodiments",
+    "tldr": "DreamX learns a universal action representation by modeling consistent dynamics across different executions while remaining invariant to embodiment and appearance. Unlike prior latent action models, it disentangles action from visual noise, enabling better transfer across varied agents.",
+    "significance": "This approach enables robust action transfer across diverse embodiments, advancing generalizable video understanding.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "13464bdc570b8cf75b15322fb3e325ad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05376v1",
+    "arxiv_id": "2611.05376v1",
+    "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+    "authors": [
+      "Hao Fei"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "From Autonomous Agents to Cognitive Symbionts: Enhancing Human Intelligence with AI",
+    "tldr": "Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the right words, and face hard choices without the benefit of their own history.",
+    "significance": "This article explores how AI can become a cognitive symbiont, augmenting human memory, attention, and decision-making.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0ecb0e2535f267ccc75a72dc2b04c4c8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05375v1",
+    "arxiv_id": "2611.05375v1",
+    "title": "Quantum Error Correction in Nearly Critical Toric Codes",
+    "authors": [
+      "Zack Weinstein",
+      "Samuel J. Garratt"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "Exploring Quantum Error Correction Near Criticality in Deformed Toric Codes",
+    "tldr": "We study how the transverse-field toric code protects quantum information as it approaches a phase transition, analyzing performance under independent bit-flip and phase-flip noise. Our results reveal that error-correcting capabilities degrade sharply near the critical point, offering insights for designing robust topological memories.",
+    "significance": "Understanding error correction near quantum phase transitions informs the limits of topological quantum memory stability.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b375d015e5e02c6a9f3c00103076a9fd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05374v1",
+    "arxiv_id": "2611.05374v1",
+    "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
+    "authors": [
+      "Ivan Martinez-Kay",
+      "Tatiana Kardashina",
+      "ShiNung Ching"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "Bayesian Biquad Filter-Burg Model Enhances Real-Time EEG Phase Estimation for Theta-Band",
+    "tldr": "This study introduces a Bayesian-optimized Biquad Filter-Burg model that improves real-time phase estimation of stimulus-aligned transient EEG in the theta band. Compared to conventional methods, it offers higher accuracy and lower latency, making it suitable for closed-loop neuromodulation.",
+    "significance": "The model provides a robust, low-latency solution for precise theta-band phase tracking, a critical component for effective closed-loop brain stimulation therapies.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "d34fd3372a215a2c43e181d641c7c575",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05373v1",
+    "arxiv_id": "2611.05373v1",
+    "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+    "authors": [
+      "Austin Tsai",
+      "Saurav Nanda",
+      "Ganapathy Parthasarathy"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "Aligning LLMs with General Preferences via Direct Nash Optimization for Robust Alignment",
+    "tldr": "This study re-implements Direct Nash Optimization (DNO) to align language models with arbitrary preference functions, using on-policy sampling, LLM-based ratings, and a DPO-style contrastive update. Experiments show DNO-Prct achieves competitive alignment performance while remaining computationally efficient.",
+    "significance": "It demonstrates a scalable, game-theoretic approach to LLM alignment that generalizes beyond reward modeling.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "737eca33939ef569be9a6d94d4d59e29",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05369v1",
+    "arxiv_id": "2611.05369v1",
+    "title": "Quantum Pointwise Dimension (QUPID): An algorithm for identifying classical chaos in quantum dynamics",
+    "authors": [
+      "Jonathan Berkheim",
+      "David J. Tannor"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "QUPID: Quantum Algorithm Detects Classical Chaos via Pointwise Dimension Analysis",
+    "tldr": "QUPID is a quantum algorithm that identifies classical chaotic behavior by computing the pointwise dimension of trajectories in phase space. It distinguishes regular motion confined to invariant tori from chaotic motion that fills higher-dimensional subsets.",
+    "significance": "This method bridges quantum dynamics and classical chaos theory, enabling precise diagnostics of chaotic regimes in quantum systems.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d204ecaafc0d65fe9a8137df2e41c563",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05368v1",
+    "arxiv_id": "2611.05368v1",
+    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+    "authors": [
+      "Shivin Dass",
+      "Kevin Nguyen",
+      "Rohan Yelandur"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "GUILD: Guided Iterative Data Collection Boosts Imitation Learning in Robotics",
+    "tldr": "GUILD introduces a guided, iterative approach to collect teleoperation data, focusing on high-impact samples. This method dramatically improves policy performance while reducing costly real-world data collection.",
+    "significance": "By strategically curating data, GUILD enables more efficient training of robotic policies, cutting down on expensive teleoperation time.",
+    "tags": [
+      "real-time",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "08efdf7c602faef3755ba5423465236b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05365v1",
+    "arxiv_id": "2611.05365v1",
+    "title": "A wider state, not wider arithmetic, for single-precision time integration",
+    "authors": [
+      "Michael F. Barad"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "Single-Precision Time Integration: Reducing Memory, Speeding Computations, and Managing Rounding Errors",
+    "tldr": "Using single-precision floating point halves memory usage and can accelerate time integration on accelerators. A modified equation analysis separates rounding errors from truncation, enabling reliable high-performance simulations.",
+    "significance": "This approach allows large-scale simulations to run faster and more efficiently without sacrificing accuracy in the stored state.",
+    "tags": [
+      "time-series",
+      "real-time",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "27168115fc52f222bcc7df99cac5c1e4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05364v1",
+    "arxiv_id": "2611.05364v1",
+    "title": "Designing an Adaptive Robust and Evolutionary-Game Framework for Minimum Shipment Quotas in Capacity-Constrained Freight Markets",
+    "authors": [
+      "Hossein Mirzaee",
+      "Ali Keyvandarian",
+      "Hamed Samarghandi"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "Adaptive Robust Framework for Minimum Shipment Quotas in Capacity-Constrained Freight Markets",
+    "tldr": "This paper introduces an adaptive, robust, evolutionary-game framework that relaxes deterministic assumptions in minimum shipment quota regulation, allowing for dynamic market knowledge and convergence to equilibrium. The model improves allocation fairness for socially critical commodities in capacity-constrained freight markets.",
+    "significance": "It provides a more realistic and flexible regulatory tool that can adapt to market uncertainty and promote equitable access to essential goods.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "2d31985d26f9259160af08bbd7747321",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.05361v1",
+    "arxiv_id": "2611.05361v1",
+    "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
+    "authors": [
+      "Zhipeng Zhong",
+      "Matthew Coombes",
+      "Cunjia Liu"
+    ],
+    "published": "2026-11-03",
+    "curated_at": "2026-11-04",
+    "headline": "LiDAR-Based Reference Generation for Benchmarking 3D Reconstruction in Dense Vegetation",
+    "tldr": "We introduce a LiDAR-based pipeline that automatically generates geometric ground truth for evaluating visual 3D reconstruction and depth estimation in vegetation-rich outdoor scenes. This method enables zero-shot benchmarking of feed-forward visual-geometry models and traditional SfM approaches without costly full-scanner surveys.",
+    "significance": "Providing accurate, low-cost ground truth in challenging vegetation environments accelerates development and comparison of 3D reconstruction algorithms.",
+    "tags": [
+      "LiDAR",
+      "benchmark",
+      "point-cloud"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "5fb621fb03c4f75adf974c603d68335e",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2611.03647v1",
@@ -1156,262 +1411,6 @@
       "benchmark"
     ],
     "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "439f8f7b74b4b9a097803839f7f5f81d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40643v1",
-    "arxiv_id": "2610.40643v1",
-    "title": "Luggage re-identification: A study of strategies towards a real-world application",
-    "authors": [
-      "Quentin Dhôte",
-      "Romaric Audigier"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "Real-World Luggage Re-Identification: Strategies for Airport, Border, and Lost Luggage Surveillance",
-    "tldr": "Luggage re-identification links observations of the same bag across separate camera views, aiding security and lost luggage recovery. This study evaluates practical strategies for deployment in airports, train stations, and border crossings.",
-    "significance": "Accurate luggage re-identification enhances safety and operational efficiency in high-traffic transport hubs.",
-    "tags": [
-      "object-detection",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1e4e99d613c2ecc649096b601e0a00ab",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40641v1",
-    "arxiv_id": "2610.40641v1",
-    "title": "From extreme weather to agricultural consequences with agentic AI",
-    "authors": [
-      "Minghan Yu",
-      "Mengyu Dai",
-      "Yixin Wen"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "Agentic AI Predicts Crop Damage from Extreme Weather Using Causal Weather Indices",
-    "tldr": "WxCrop is an AI agent that interprets weather indices to assess agricultural hazards. By combining causal analysis with real-time weather data, it predicts which crops will be affected and the extent of damage.",
-    "significance": "This tool bridges the gap between weather forecasts and actionable crop risk assessments, enabling farmers to take proactive measures.",
-    "tags": [
-      "remote-sensing",
-      "crop-monitoring",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "18627c628c70a1bf30daecbc08f9279a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40640v1",
-    "arxiv_id": "2610.40640v1",
-    "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
-    "authors": [
-      "Derong Jin",
-      "Xiyi Chen",
-      "Ming C. Lin"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "From a Single Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
-    "tldr": "We propose Video-to-4DAVScene, a task that transforms a single video into an interactive, time-varying 4D audio-visual scene. Using diffusion synchronization, the method models both visual and auditory dynamics, enabling exploration of the generated scene.",
-    "significance": "This work bridges the gap between visual scene generation and audio modeling, enabling richer immersive experiences from minimal input.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "63e8077b4fb606c3f12c5741a3dae3e7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37668v1",
-    "arxiv_id": "2610.37668v1",
-    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-    "authors": [
-      "Prakhar Kaushik",
-      "Soumava Paul",
-      "Alan Yuille"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Hexagonal Surface Elements (Hexels) Enable Low-Memory 3D Rendering and Reconstruction",
-    "tldr": "Hexels are planar hexagonal primitives that encode first-order color fields, reducing memory usage for view synthesis and 3D reconstruction. They allow efficient rendering and reconstruction in resource-constrained environments by exploiting locally planar regions.",
-    "significance": "Hexels provide a compact, memory-efficient alternative to radiance fields, enabling real-time rendering on limited hardware.",
-    "tags": [
-      "real-time",
-      "point-cloud",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b01a348284e6729f661b3434de4e487a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37667v1",
-    "arxiv_id": "2610.37667v1",
-    "title": "The 't Hooft model on (A)dS$_2$",
-    "authors": [
-      "Panos Betzios"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Solving the 't Hooft Model on (A)dS$_2$: Exact Meson Equation via SL(2,R) Casimir",
-    "tldr": "We derive an exact meson spectrum for large‑N QCD on AdS$_2$ and dS$_2$ by exploiting the null gauge and the SL(2,R) Casimir. The resulting equation generalizes ’t Hooft’s flat‑space equation with a curvature‑dependent term.",
-    "significance": "This work provides a rare analytic solution of non‑Abelian gauge dynamics in curved spacetime, illuminating the role of symmetry in quantum field theory.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7b525487a866acea326a80d9143b78ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37666v1",
-    "arxiv_id": "2610.37666v1",
-    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-    "authors": [
-      "Chaehyun Kim",
-      "Chi-Pin Huang",
-      "Jisoo Kim"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "ThinkWorld: Enhancing VLA Models with World Imagination for Dynamic Reasoning",
-    "tldr": "ThinkWorld introduces a framework that leverages human video data to improve Vision‑Language‑Action models by incorporating world imagination and chain‑of‑dynamics reasoning. This approach balances scalable data use with explicit action grounding, boosting generalization in robotic manipulation.",
-    "significance": "It bridges the gap between large‑scale visual data and actionable robot control, advancing the robustness of VLA systems.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "04d16a562242b6d26dc1bdaeb492a8b4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37665v1",
-    "arxiv_id": "2610.37665v1",
-    "title": "Exact Analytical Treatment of Collectively Pumped Dicke Superradiance",
-    "authors": [
-      "Avishi Poddar",
-      "Nico Baßler",
-      "Julian Lyne"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Exact Analytical Solution for Collectively Pumped Dicke Superradiance in Symmetric Spin Ensembles",
-    "tldr": "We derive an exact finite continued fraction representation for the dynamics of an N‑atom Dicke system under collective decay and incoherent pumping. This analytic framework resolves the infinite quantum‑trajectory histories and provides closed‑form rate equations for the symmetric ladder.",
-    "significance": "The result delivers a complete, computationally efficient description of collective light–matter dynamics, enabling precise benchmarking of numerical superradiance models.",
-    "tags": [
-      "time-series",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "003b65466742cf30843ed68f488c2bbb",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37663v1",
-    "arxiv_id": "2610.37663v1",
-    "title": "An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens",
-    "authors": [
-      "Sebastian Pandolfi",
-      "Guzmán Llambías",
-      "Laura González"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Atomic, Semantic-Preserving Bridge Between EVM and Cosmos for Environmental Tokens",
-    "tldr": "We introduce a deterministic bridge that preserves token semantics across EVM and Cosmos chains, preventing domain meaning loss. The design ensures atomic transfers despite differing consensus models, enabling reliable cross-chain environmental token trading.",
-    "significance": "This bridge enables trustworthy, interoperable trading of carbon credits and other environmental assets across major blockchain ecosystems.",
-    "tags": [
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "705a43e30a15cc742c28f8a9e424f02a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37662v1",
-    "arxiv_id": "2610.37662v1",
-    "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
-    "authors": [
-      "Jialv Zou",
-      "Xiaotong Li",
-      "Zhengrong Yue"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Assessing Whether Discrete Visual Tokens Can Truly Preserve Semantic Integrity",
-    "tldr": "This paper investigates if discrete visual tokens can maintain semantic fidelity despite quantization errors. It compares token-based representations with continuous embeddings, revealing trade-offs for multimodal learning.",
-    "significance": "Understanding token fidelity informs the design of future multimodal foundation models that integrate vision and language.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "segmentation"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e326469d53120cf68c518ff62930fde1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37661v1",
-    "arxiv_id": "2610.37661v1",
-    "title": "The Spatially-Resolved Recent Star Formation History of the M81 Disk",
-    "authors": [
-      "Vaishnav V. Rao",
-      "Eric F. Bell",
-      "Adam Smercina"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Mapping Recent Star Formation Across M81's Disk Using Hubble ACS Photometry",
-    "tldr": "We present a panoramic map of M81's stellar populations, revealing spatial variations in recent star formation over the entire disk. The study uses archival Hubble ACS data from the ANGST survey to trace star formation history on sub-kpc scales.",
-    "significance": "This detailed map provides critical insight into how internal and tidal processes shape spiral galaxy evolution.",
-    "tags": [
-      "spatial-reasoning",
-      "time-series",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3c90848f8fc57b16f4b2df999d9f8062",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.37660v1",
-    "arxiv_id": "2610.37660v1",
-    "title": "Optimal quantum discrimination at Liouvillian exceptional points",
-    "authors": [
-      "Aritra Ghosh",
-      "M. Bhattacharya"
-    ],
-    "published": "2026-10-27",
-    "curated_at": "2026-10-29",
-    "headline": "Exceptional Points Offer No Advantage for Weak Perturbation Detection in Finite-Dimensional Lindblad Systems",
-    "tldr": "While exceptional points enhance spectral response, they do not reduce the observation time needed to detect weak perturbations in Lindblad dynamics with a unique stationary state and nonzero relaxation gap. The study shows that EPs provide no fundamental advantage for reliable detection in such systems.",
-    "significance": "The work clarifies the limits of non-Hermitian sensing, guiding future research toward more promising strategies for quantum detection.",
-    "tags": [
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 2,
     "difficulty": "advanced"
   }
 ]
