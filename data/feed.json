@@ -1,5 +1,341 @@
 [
   {
+    "uid": "7de3f8eba0b66be402bfe6087215209c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06918v1",
+    "arxiv_id": "2611.06918v1",
+    "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+    "authors": [
+      "Weichen Fan",
+      "Haiwen Diao",
+      "Penghao Wu"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "From Pixels to Actions: Rethinking Vision-Language-Action Policy Design for Robotic Manipulation Tasks",
+    "tldr": "Vision-language-action models typically compress perception before reasoning, but manipulation depends on fine-grained visual cues. This work proposes native policies that directly integrate raw visual signals into action decision-making.",
+    "significance": "By preserving low-level visual details, the proposed approach enables more precise and responsive robotic manipulation.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bc1df7bba47dd865a8696d9950b8917d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06917v1",
+    "arxiv_id": "2611.06917v1",
+    "title": "Using topology to reveal all mutually unbiased bases in dimension six",
+    "authors": [
+      "Mateo Cárdenes Wuttig",
+      "Joseph Tindall"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Topology Uncovers All Mutually Unbiased Bases in Six-Dimensional Quantum Space",
+    "tldr": "Researchers used topological analysis of complex Hadamard matrices to prove that no fourth mutually unbiased basis exists in dimension six. This resolves a 30-year open question in quantum information theory.",
+    "significance": "The result settles a long-standing problem, confirming that the maximum number of mutually unbiased bases in six dimensions is three.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "e0611a31ef08438fbe48a38ee7ffd1af",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06916v1",
+    "arxiv_id": "2611.06916v1",
+    "title": "ReveaLLAGN 3: Revealing the Infrared Spectral Energy Distributions of Low Luminosity AGN",
+    "authors": [
+      "David Ohlson",
+      "Anil C. Seth",
+      "Kameron Goold"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "JWST Unveils Infrared SEDs of Seven Nearby Low-Luminosity AGNs",
+    "tldr": "Using JWST, researchers mapped the near- to mid-infrared spectral energy distributions of seven low-luminosity active galactic nuclei, separating the AGN component from host galaxy light. The study provides new insights into the emission mechanisms in the innermost regions of faint AGNs.",
+    "significance": "This work demonstrates JWST’s capability to disentangle AGN emission in the infrared, advancing our understanding of low-luminosity AGN physics.",
+    "tags": [
+      "remote-sensing",
+      "satellite-imagery",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "965071e9f8e9de9291ee01328390eca2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06915v1",
+    "arxiv_id": "2611.06915v1",
+    "title": "Preparing for the Gaia DR4 Epochalypse: Simulated Epoch Astrometry for Substellar Companion Orbit-Modeling Benchmarks",
+    "authors": [
+      "Daniel A. Yahalomi",
+      "Adrian M. Price-Whelan",
+      "Jessica Speedie"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Simulating Gaia DR4 Epoch Astrometry to Benchmark Substellar Companion Orbit Models",
+    "tldr": "Gaia DR4 will deliver epoch astrometry for billions of stars, enabling the discovery of thousands of substellar companions. We provide a simulated catalog of Gaia-like epoch data to test orbit‑modeling pipelines on a common set of injected systems.",
+    "significance": "This benchmark will accelerate the development and validation of orbit‑modeling algorithms for future astrometric surveys.",
+    "tags": [
+      "benchmark",
+      "time-series",
+      "remote-sensing"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "c2fd9cb094e7ebafea2d086156fda7d1",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06914v1",
+    "arxiv_id": "2611.06914v1",
+    "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+    "authors": [
+      "Mattia Greiche",
+      "Reihaneh Rabbany",
+      "Maximilian Puelma Touzel"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Enhancing Robustness of LLM Agents in Social Simulations Through Context Enrichment",
+    "tldr": "The study proposes a framework that enriches contextual prompts to stabilize LLM agent behavior in social simulations. By selectively reinforcing key background cues, the approach reduces sensitivity to meaning-preserving prompt variations, addressing a key validation challenge.",
+    "significance": "It offers a systematic method to improve the reliability of LLM-based agents, a critical step for deploying them in socially relevant simulations.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f06eaee0ec85c5e9e9bb12b3244da907",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06912v1",
+    "arxiv_id": "2611.06912v1",
+    "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+    "authors": [
+      "Nicolas Tricard",
+      "Linzheng Wang",
+      "Jason Chen"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Benchmarking Learned vs Classical Flow Reconstruction from Sparse Sensors Across Reynolds Regimes",
+    "tldr": "FlowReconBench evaluates ten learned and five classical methods on a laminar cylinder wake across varying Reynolds numbers and a two-dimensional flow regime, comparing accuracy, calibration, and computational cost. The study identifies conditions where data-driven models outperform traditional estimators and highlights trustworthy aspects of their predictions.",
+    "significance": "This benchmark clarifies when data-driven models surpass traditional estimators and informs trustworthy deployment in fluid dynamics.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f75d7cd348f8e0f2e98b3bd71278569b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06911v1",
+    "arxiv_id": "2611.06911v1",
+    "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+    "authors": [
+      "Fei Lin",
+      "Tengchao Zhang",
+      "Ziyang Gong"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "BEAKER: Benchmarking Embodied Brains for Self‑Driving Chemical Labs",
+    "tldr": "BEAKER introduces a curated benchmark for assessing multimodal large language models as embodied brains in self‑driving chemical laboratories. It evaluates perception, reasoning, and action under safety constraints, filling a gap in current laboratory benchmarks.",
+    "significance": "It provides a standardized, expert‑curated testbed to advance embodied AI in chemical experimentation.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "79d5d379822d6330b2943e0116b9e27f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06910v1",
+    "arxiv_id": "2611.06910v1",
+    "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+    "authors": [
+      "Bingran You",
+      "Wenjun Ke",
+      "Ria Rosenauer"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "FrontierPhysics: New Benchmark Tests AI Agents on Real Physics Research Tasks",
+    "tldr": "FrontierPhysics introduces a comprehensive end-to-end benchmark with 56 tasks crafted by 42 physicists, assessing AI agents on real research problems rather than isolated questions. It evaluates both correctness and research quality, pushing the limits of foundation models in physics.",
+    "significance": "It provides the first large-scale, physics-driven benchmark that measures AI agents' ability to conduct genuine research, guiding future model development.",
+    "tags": [
+      "benchmark",
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "fcdea95e7bad2cc8eac7565a6c51f949",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06909v1",
+    "arxiv_id": "2611.06909v1",
+    "title": "Arithmetic Depth, Minimal Gate Alphabets, and Exact Program-State Resources for Single-Qubit Dyadic Programs",
+    "authors": [
+      "Tony Newton",
+      "Dan-Adrian German"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Exact Resource Layers for Single-Qubit Dyadic Quantum Programs",
+    "tldr": "This work demonstrates that, for a single-qubit dyadic fragment, the deepest resource layer can be determined exactly rather than bounded. By leveraging the real cyclotomic tower and a normalized-midpoint misty-state syntax, the authors provide precise counts of non-Clifford gates and qubit usage.",
+    "significance": "It offers a tighter, exact resource accounting for quantum circuits, improving efficiency in quantum algorithm design.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0d6d4e2bf45b1f0ea74a90b94e925ca5",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06908v1",
+    "arxiv_id": "2611.06908v1",
+    "title": "Perceptive Humanoid Motion from Simulation",
+    "authors": [
+      "Siyuan Hu",
+      "Abulikemu Abuduweili",
+      "Yue Meng"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Simulated Humanoid Motion: Bridging Pixels and Joint Commands with Large-Scale Data",
+    "tldr": "Researchers propose a simulation-based framework to generate paired pixel-language and joint command data for humanoid robots. This approach could accelerate generalist autonomy by providing scalable training corpora without costly human teleoperation.",
+    "significance": "It addresses the critical data bottleneck hindering the development of versatile, pixel-to-joint control in humanoid robotics.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "1be9f5bf8a0857fc0728cab32cd1f184",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06906v1",
+    "arxiv_id": "2611.06906v1",
+    "title": "A Simple Subquadratic Cut Query Protocol for Directed Reachability",
+    "authors": [
+      "Henry Fleischmann",
+      "Sagnik Mukhopadhyay",
+      "Swagato Sanyal"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Subquadratic Cut Query Protocol for Directed Reachability in Unweighted Graphs",
+    "tldr": "The paper presents a protocol that determines if a directed path exists between two vertices using subquadratic queries to a cut oracle. It leverages submodularity of directed cut functions to reduce the query complexity of reachability problems.",
+    "significance": "It advances efficient graph query algorithms by connecting reachability to submodular function query complexity.",
+    "tags": [
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d5233d0d26f6eb914696d7d6a108df54",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06905v1",
+    "arxiv_id": "2611.06905v1",
+    "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+    "authors": [
+      "Michal Korniak",
+      "Marco Bagatella",
+      "Ralf Römer"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Reinforcement Learning Drives Scalable Improvement of Generalist Robot Policies Across Domains",
+    "tldr": "Reinforcement learning can iteratively refine large, generalist robot policies, enabling them to adapt to new tasks with minimal fine‑tuning. This approach leverages zero‑shot capabilities from pre‑training while scaling performance through self‑improvement cycles.",
+    "significance": "It demonstrates a practical path to deploy versatile robotic systems that continuously improve without extensive task‑specific retraining.",
+    "tags": [
+      "foundation-models",
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "13c807f43818a5aefcda07b431c6b126",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06904v1",
+    "arxiv_id": "2611.06904v1",
+    "title": "Sublinear multi-type preferential attachment",
+    "authors": [
+      "Anna Ben-Hamou",
+      "Nicolas Broutin",
+      "Camille Cazaux"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Sublinear Multi-Type Preferential Attachment for Community Detection in Growing Graphs",
+    "tldr": "We introduce a preferential attachment model with two node types that yields sublinear degree growth. The model captures community-dependent attachment probabilities and provides analytic results on degree distributions.",
+    "significance": "This work extends preferential attachment theory to heterogeneous communities, offering new insights into network evolution.",
+    "tags": [
+      "time-series",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3fd8b418f9eb3c5dbccb006300f7390a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.06901v1",
+    "arxiv_id": "2611.06901v1",
+    "title": "Motion-guided Contrastive Regularization For Latent World Models",
+    "authors": [
+      "Yiwen Chen",
+      "Qiqi Hou",
+      "Jisoo Jeong"
+    ],
+    "published": "2026-11-04",
+    "curated_at": "2026-11-05",
+    "headline": "Preventing Static Collapse in JEPA-Style World Models with Motion-Guided Contrastive Regularization",
+    "tldr": "JEPA-style world models learn latent dynamics without reconstructing observations, but distributional regularization alone can lead to static collapse, where the encoder preserves episode-specific static content while ignoring manipulation-relevant state changes. The authors introduce motion-guided contrastive regularization to enforce that latent representations capture dynamic changes, improving control performance.",
+    "significance": "This work addresses a key failure mode in latent world models, enabling more reliable control by ensuring dynamic information is retained in the learned representations.",
+    "tags": [
+      "foundation-models",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "fcb4ddf4682642f8d53a20ee109c41f4",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2611.05378v1",
@@ -1084,333 +1420,5 @@
     ],
     "readtime": 2,
     "difficulty": "intermediate"
-  },
-  {
-    "uid": "0a6ac7f96c224cb14d891a4b08782141",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40637v1",
-    "arxiv_id": "2610.40637v1",
-    "title": "world2vec: Mechanistic world models through latent dynamics learning",
-    "authors": [
-      "Tobias Schmidt",
-      "Rodrigo Gonzalez Laiz",
-      "Krisztián Szuppinger"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "World2Vec: Learning Mechanistic World Models via Reward-Free Latent Dynamics for Control",
-    "tldr": "World2Vec learns mechanistic world models directly from observations and actions without using reward signals, enabling faithful latent dynamics. This approach improves interpretability and scientific discovery while maintaining strong control performance.",
-    "significance": "By decoupling reward from dynamics learning, World2Vec offers a path toward interpretable, scientifically grounded control models.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "008aa4853733c02553cd177f0a004151",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40636v1",
-    "arxiv_id": "2610.40636v1",
-    "title": "Probing Spatial State Representations in Visual Foundation Models",
-    "authors": [
-      "Baiqiao Yin",
-      "Zhongang Cai",
-      "Ruisi Wang"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "Do Visual Foundation Models Capture Persistent Spatial States for Navigation?",
-    "tldr": "This study examines whether large visual models encode a continuous spatial state that can be updated with self-motion and used for action planning. Results suggest that while some models retain spatial cues, they lack robust mechanisms for persistent state maintenance.",
-    "significance": "Understanding spatial state encoding in foundation models informs the design of AI systems capable of continuous navigation and interaction in dynamic environments.",
-    "tags": [
-      "foundation-models",
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fbd4a5a4fe6a640bc5f27296a92de62b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40634v1",
-    "arxiv_id": "2610.40634v1",
-    "title": "Hyaluronic acid over-expression drives tissue architecture in both healthy and diseased states",
-    "authors": [
-      "Kyungeun Kim",
-      "Brittany E. Schutrum",
-      "Claudia Fischbach"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "Hyaluronic Acid Over‑Expression Shapes Tissue Architecture in Health and Disease",
-    "tldr": "The study reveals that excess hyaluronic acid in intercellular spaces exerts mechanical forces that influence tissue structure, complementing traditional cell‑centric mechanisms. This finding highlights a novel regulatory layer affecting both normal development and pathological remodeling.",
-    "significance": "It uncovers a previously underappreciated extracellular force that governs tissue organization, offering new therapeutic targets for disease management.",
-    "tags": [
-      "segmentation",
-      "spatial-reasoning",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "572db80f21226eea07a24d82aa27744d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40633v1",
-    "arxiv_id": "2610.40633v1",
-    "title": "PRISMS GHZ8: Evidence for a Young Burst and Potential Merger Activity at z=10.23",
-    "authors": [
-      "Ruqiu Lin",
-      "Jorge Zavala",
-      "Javier Álvarez-Márquez"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "JWST Detects Young Starburst and Possible Merger in Galaxy at z=10.23",
-    "tldr": "JWST/MIRI LRS spectroscopy of the UV-bright galaxy GHZ8 at z=10.23 reveals a ~5σ detection of emission lines indicating a young starburst and potential merger activity. These findings provide new insights into early galaxy assembly and the drivers of cosmic reionization.",
-    "significance": "The detection of a young starburst and merger signatures at such an early epoch offers critical constraints on the rapid buildup of stellar mass and the role of mergers in shaping the first galaxies.",
-    "tags": [
-      "remote-sensing",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1c47cc012faa43a04ee8fda004ddcdce",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40632v1",
-    "arxiv_id": "2610.40632v1",
-    "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
-    "authors": [
-      "Fnu Aryan",
-      "Yaqi Xie",
-      "Joseph Campbell"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "SymAnt: Neuro-Symbolic Action Anticipation with Adaptable Symbolic Priors",
-    "tldr": "SymAnt introduces a neuro-symbolic framework that grounds long-horizon action anticipation using adaptable symbolic priors, enabling robots to predict future actions from brief observations. The approach combines neural perception with symbolic reasoning, improving interpretability and reducing data requirements compared to purely neural models.",
-    "significance": "By integrating symbolic priors, SymAnt reduces the need for extensive data and enhances interpretability, advancing robot-human interaction.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "04f0fa2bb50046f9a8621543202b7f78",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40631v1",
-    "arxiv_id": "2610.40631v1",
-    "title": "Gravitational-Wave Echoes and Greybody Cutoff from Logarithmic Throats at a Marginal-Trapping Threshold",
-    "authors": [
-      "Jahed Abedi"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "Gravitational-Wave Echoes Reveal Greybody Cutoff in Logarithmic Throats Near Trapping Threshold",
-    "tldr": "We analyze axial gravitational wave propagation in spacetimes with long logarithmic throats that form as the metric function approaches a marginal-trapping threshold. The study shows that the throat’s geometry induces a greybody cutoff, producing characteristic echoes in the wave signal.",
-    "significance": "This work provides a new diagnostic for probing near-horizon geometries and could help distinguish exotic compact objects from black holes using gravitational-wave observations.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "ef2e8eb7de90a75881bd88de8388acc3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40630v1",
-    "arxiv_id": "2610.40630v1",
-    "title": "Central Limit Theorems and Network-Free Inference for Heterogeneous Spatial Autoregressions on Sparse Graphons",
-    "authors": [
-      "Wei Li",
-      "Robert Lunde"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "Network-Free Inference for Heterogeneous Spatial Autoregressions on Sparse Graphons",
-    "tldr": "The paper derives central limit theorems for spatial autoregressive models on random networks, showing that inference can be performed without observing the full graph. It demonstrates that network dependence imposes a smaller obstacle than previously thought, enabling robust estimation even with sparse, partially observed graphons.",
-    "significance": "It provides a theoretical foundation for reliable inference in spatial network models, reducing reliance on full network data.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "70060ede0f676adeb097371025bc714f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40656v1",
-    "arxiv_id": "2610.40656v1",
-    "title": "The $δ$ Scuti instability strip and period-luminosity relation as seen by TESS and Gaia DR3",
-    "authors": [
-      "Daniel Hey",
-      "Simon Murphy",
-      "Timothy R. Bedding"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "Mapping δ Scuti Stars Across the Sky with TESS and Gaia DR3",
-    "tldr": "Using TESS 10‑minute cadence data, we surveyed over 1.5 million A‑ and F‑type stars to chart the δ Scuti instability strip. Combining Gaia DR3 parallaxes and photometry, we derived precise stellar parameters and refined the period‑luminosity relation for these pulsators.",
-    "significance": "This comprehensive survey provides the most complete δ Scuti catalog to date, enabling precise asteroseismic studies and improving distance estimates across the Milky Way.",
-    "tags": [
-      "time-series",
-      "satellite-imagery",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f5500fcd41172b07de38c27d9c95c025",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40655v1",
-    "arxiv_id": "2610.40655v1",
-    "title": "Elucidating the Design Space of LM Data Attribution",
-    "authors": [
-      "Steven Yu",
-      "Sheng-Yu Wang",
-      "Kimia Hamidieh"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "Mapping the Landscape of Language Model Data Attribution for Reliable Evaluation",
-    "tldr": "We systematically dissect how dataset properties influence data attribution algorithms for LLMs, revealing key failure modes. Our framework isolates variables, enabling precise diagnosis and guiding future benchmark design.",
-    "significance": "This work provides a clear methodology to evaluate and improve data attribution in large language models.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "bdb0c48ead3a10f86125053d737dddf1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40653v1",
-    "arxiv_id": "2610.40653v1",
-    "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
-    "authors": [
-      "Nhan Tran",
-      "Hijung Valentina Shin",
-      "Abe Davis"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "Fine‑Scale Film Editing Powered by AI",
-    "tldr": "AI tools now enable editors to tweak individual frames and micro‑cuts with precision, improving pacing and visual focus. These systems combine large language models and diffusion techniques for real‑time, fine‑grained adjustments.",
-    "significance": "They transform the editing workflow, making subtle narrative nuances easier to achieve and enhancing audience engagement.",
-    "tags": [
-      "LLM",
-      "diffusion-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "7037446d27fd78fcb86c19460a299ea2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40649v1",
-    "arxiv_id": "2610.40649v1",
-    "title": "Rethinking Neural Thickets Without Weight Perturbations",
-    "authors": [
-      "Nicolas Dufour",
-      "Elouan Gardès",
-      "Amil Dravid"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "Neural Thickets Reexamined: Weight Perturbations Not Needed for Task Gains",
-    "tldr": "The study shows that pretrained language models can achieve task-specific performance gains without relying on random weight perturbations. Instead, perturbing a single decoder block or freezing the model yields comparable improvements, challenging the Neural Thickets hypothesis.",
-    "significance": "It simplifies the understanding of how pretrained models adapt to new tasks, potentially reducing computational overhead.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b7e0c4c855a0d90f623274c77ccc188f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40647v1",
-    "arxiv_id": "2610.40647v1",
-    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-    "authors": [
-      "Jiongfan Yang",
-      "Weichen Fan",
-      "Haiwen Diao"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "Role-Coupled Tokenization for Efficient Pixel-Space Generative Transformers",
-    "tldr": "The paper introduces a tokenization scheme that allocates global tokens for low-frequency image structure and local tokens for high-frequency detail, reducing the cost of global attention. This approach improves efficiency while preserving fine-grained image generation quality.",
-    "significance": "It offers a scalable solution for high-resolution generative modeling by balancing global and local attention.",
-    "tags": [
-      "foundation-models",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "dc8b6056942270191197eb6d2986a07f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40646v1",
-    "arxiv_id": "2610.40646v1",
-    "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
-    "authors": [
-      "Yunchu Zhang",
-      "Ray Song",
-      "Junhan Jiao"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "SwapBot: Autonomous Tool Swapping with Tactile Sensing for Everyday Robot Manipulation",
-    "tldr": "SwapBot enables robots to autonomously exchange interchangeable end-effectors and use tactile feedback to perform diverse household tasks. The system demonstrates forceful cutting, delicate brushing, and precise placement without human intervention.",
-    "significance": "By integrating tool swapping and tactile sensing, SwapBot advances autonomous manipulation toward practical, real-world applications.",
-    "tags": [
-      "object-detection",
-      "segmentation",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4cf178a10aeb1e4cf8dfd3a13ee6a11e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40644v1",
-    "arxiv_id": "2610.40644v1",
-    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-    "authors": [
-      "Aron Brenner",
-      "Saurabh Amin"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-30",
-    "headline": "Adaptive Scenario Generation Enhances KL-Divergence DRO Using Learned Density Models",
-    "tldr": "This paper introduces a method for generating adaptive scenarios that tighten KL-Divergence distributionally robust optimization around a learned density model. By integrating data-driven density estimation with scenario generation, it improves solution robustness while reducing computational burden.",
-    "significance": "It bridges learned probabilistic models with robust optimization, enabling more reliable decision-making under distributional uncertainty.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
   }
 ]
