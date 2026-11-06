@@ -1,5 +1,263 @@
 [
   {
+    "uid": "64806980b2bb3b95c55721efcba357e8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08489v1",
+    "arxiv_id": "2611.08489v1",
+    "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
+    "authors": [
+      "Esther Wang",
+      "Daniel Kitzmann",
+      "H. Jens Hoeijmakers"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "GPU-Accelerated BeAR: Joint Retrieval of Exoplanet Atmospheres in Low and High Resolution",
+    "tldr": "BeAR extends Helios-r with a GPU-accelerated framework that jointly analyzes low- and high-resolution spectra using cross‑correlation log‑likelihoods. It enables rapid, unified retrievals of exoplanet atmospheric properties from diverse data sets.",
+    "significance": "BeAR delivers the first real‑time, joint retrieval tool for exoplanet atmospheres, combining low‑ and high‑resolution data to improve compositional constraints.",
+    "tags": [
+      "remote-sensing",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "eb341ed55a09efd7b5c78ab3e4bde742",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08488v1",
+    "arxiv_id": "2611.08488v1",
+    "title": "Provable circuit-level thresholds for non-abelian topological phases",
+    "authors": [
+      "Yuanjie Ren",
+      "Margarita Davydova",
+      "Shankar Balasubramanian"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "Explicit Circuit-Level Thresholds for Non-Abelian Topological Quantum Memory in 2D Systems",
+    "tldr": "We construct syndrome extraction circuits using the Turaev-Viro path integral and a classical decoding algorithm that operates online. The scheme achieves a provable error threshold under local stochastic circuit-level noise, enabling robust quantum memory in any 2D non-chiral topological order.",
+    "significance": "This work provides the first rigorous threshold proof for fault-tolerant quantum memories in non-abelian topological phases, paving the way for scalable quantum computing.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c7a7ffe5025bf733c44e66b2f1e82b8d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08485v1",
+    "arxiv_id": "2611.08485v1",
+    "title": "Where and Why is Grounded Reasoning Useful?",
+    "authors": [
+      "David Yan",
+      "Le Xue",
+      "Forrest Huang"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "Grounded Reasoning: Identifying When It Works Best in Visual Tasks",
+    "tldr": "Grounded reasoning, which outputs coordinate hints during chain-of-thought, improves visual problem solving. This study quantifies its benefits and limits across tasks.",
+    "significance": "Understanding grounded reasoning guides the design of more effective AI models for visual reasoning.",
+    "tags": [
+      "LLM",
+      "spatial-reasoning",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "7316eac7de275e7401693f0403f752df",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08484v1",
+    "arxiv_id": "2611.08484v1",
+    "title": "Evolution of Dust In Protoplanetary Disks With Magnetized Winds",
+    "authors": [
+      "Olcay Goksu",
+      "Ralph Pudritz",
+      "Timmy Delage"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "Dust Dynamics in Magnetized Protoplanetary Disk Winds: Implications for Planet Formation",
+    "tldr": "Recent studies suggest magnetized winds dominate angular momentum transport in weakly turbulent disks, yet the resulting dust evolution remains unclear. Understanding whether these winds can generate dust-rich regions is crucial for planet formation theories.",
+    "significance": "This work bridges disk wind dynamics and dust aggregation, offering new insights into how planets may form in magnetically influenced environments.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "c64b8165b14cb8f251ac760fe0a795d4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08483v1",
+    "arxiv_id": "2611.08483v1",
+    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "authors": [
+      "Qile Jiang",
+      "George Em Karniadakis"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "SwarmEvolve: Using Latent Agent Swarms to Speed Up LLM-Driven Evolutionary Optimization",
+    "tldr": "SwarmEvolve introduces a framework that employs latent agent swarms to accelerate LLM-guided evolutionary search, reducing the need for repetitive chain-of-thought generation. By maintaining population diversity through agent collaboration, it speeds up optimization for mathematical and computational problems.",
+    "significance": "This approach dramatically improves the efficiency of AI-driven program synthesis, enabling faster discovery of high-performing solutions.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "dddd6fa3b3d08e903945ae49b910833a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08481v1",
+    "arxiv_id": "2611.08481v1",
+    "title": "Joint analysis of the Macquart relation and the dispersion measure power spectrum: cross-covariance and redshift self-calibration",
+    "authors": [
+      "Amy Wayland",
+      "Robert Reischke"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "Joint Analysis of Macquart Relation and DM Power Spectrum: Cross-Covariance and Redshift Self-Calibration",
+    "tldr": "The study derives the cross-covariance between the DM-redshift (Macquart) relation and the angular power spectrum of dispersion measures from FRBs, enabling simultaneous constraints on ionised baryons and redshift calibration. This combined approach improves the precision of cosmological and feedback models using FRB data.",
+    "significance": "It provides a unified framework to extract cosmological information from FRB observations, enhancing our understanding of baryonic distribution and feedback processes.",
+    "tags": [
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "dbe8c3f72e76096fb42a7d85cb7d15e7",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08478v1",
+    "arxiv_id": "2611.08478v1",
+    "title": "Scientist World: Grow a Research World for AI-Scientists",
+    "authors": [
+      "Taiming Lu",
+      "Sachin Konan",
+      "Zhuang Liu"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "Scientist World: Turning Research Papers into Executable Environments for AI Scientists",
+    "tldr": "We create a platform that transforms scientific literature into runnable code, enabling AI agents to experiment directly with research findings. Our autonomous pipeline parses papers, extracts models and data, and deploys them as interactive environments.",
+    "significance": "This bridges the gap between static scientific knowledge and dynamic AI experimentation, accelerating discovery.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "87cb2fcffb3c13ff419edc60a49df2f4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08475v1",
+    "arxiv_id": "2611.08475v1",
+    "title": "Direct transition from a fractional Chern insulator to a topological superconductor",
+    "authors": [
+      "Taige Wang"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "Direct Transition from Fractional Chern Insulator to Topological Superconductor in a Chern Band",
+    "tldr": "Numerical simulations reveal a continuous phase transition between a Laughlin fractional Chern insulator and a c_- = 3/2 topological superconductor as bandwidth increases at ν=1/3. The critical point shows diverging electron correlation length at momenta away from the Fermi surface, suggesting a novel universality class.",
+    "significance": "This work uncovers a new route to topological superconductivity and deepens understanding of quantum phase transitions in strongly correlated systems.",
+    "tags": [
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "19edfb9ef04de3fd4b10b4ec4c3a00b0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08472v1",
+    "arxiv_id": "2611.08472v1",
+    "title": "XStack: A Benchmark for ML Repo Migration",
+    "authors": [
+      "Linrong Cai",
+      "Taiming Lu",
+      "Haozhe Chen"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "XStack: Benchmarking Cross-Framework ML Repository Migration Between PyTorch and JAX",
+    "tldr": "XStack provides a standardized benchmark for migrating machine learning repositories between PyTorch and JAX, enabling researchers to test and validate code across different hardware platforms. The framework automates building, testing, and performance comparison, making it easier to unlock new hardware capabilities.",
+    "significance": "By facilitating seamless migration, XStack expands research flexibility and accelerates the adoption of diverse hardware accelerators.",
+    "tags": [
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "47b48bb6598e84fc0b72490acf887fa8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08470v1",
+    "arxiv_id": "2611.08470v1",
+    "title": "Joint Electricity Price and Load Forecasting for Data Center Battery Dispatch Using Polynomial Diffusion Models",
+    "authors": [
+      "Matthew Van Ham",
+      "Yiping Liu",
+      "Xiaozhe Wang"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "Real-Time Battery Dispatch for Data Centers Using Polynomial Diffusion Forecasts",
+    "tldr": "The paper introduces a real-time dispatch framework that leverages polynomial diffusion models to jointly forecast electricity prices and data center load. By predicting both variables, the system optimally schedules battery energy storage to shift consumption from high-price to low-price periods, reducing operating costs.",
+    "significance": "It demonstrates how advanced stochastic modeling can directly improve energy efficiency and cost savings in large-scale data centers.",
+    "tags": [
+      "time-series",
+      "diffusion-models",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "510800a1a8dad83b48c99f7455c3aca2",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08469v1",
+    "arxiv_id": "2611.08469v1",
+    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "authors": [
+      "Linqian Wu",
+      "Diaoxuan He"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-06",
+    "headline": "Finite Experiments and Integrated Information: Certifying Mechanisms in AI Systems",
+    "tldr": "The paper investigates whether finite, noisy experiments can identify causal mechanisms underlying integrated information. It shows that certain mechanism-level quantities are continuous and identifiable under realistic experimental constraints.",
+    "significance": "It provides a theoretical foundation for reliable AI auditing by linking experimental observables to internal causal structure.",
+    "tags": [
+      "LLM",
+      "open-source",
+      "benchmark",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "7de3f8eba0b66be402bfe6087215209c",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2611.06918v1",
@@ -1158,264 +1416,6 @@
     "significance": "Understanding mutation thresholds informs drug design and evolutionary biology.",
     "tags": [
       "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "8ec1f8bc3c16c97b58ff5d65971f7f18",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40629v1",
-    "arxiv_id": "2610.40629v1",
-    "title": "A Lighter QCD-Axion from Small Instantons",
-    "authors": [
-      "Sourav Bera",
-      "Susobhan Chattopadhyay",
-      "Rick S. Gupta"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "Small Instantons Yield Lighter QCD Axion and Modified Up-Quark Yukawa",
-    "tldr": "We show that UV instantons can drastically reduce the QCD axion mass while also generating a sizable up-quark Yukawa. This opens a new window for axion phenomenology and flavor physics.",
-    "significance": "This work provides a novel mechanism linking axion physics to flavor structure, potentially reshaping searches for dark matter and CP violation.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "4fdfd436512ba0d8ad6eb1baa1456543",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40627v1",
-    "arxiv_id": "2610.40627v1",
-    "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
-    "authors": [
-      "Qiyao Ma",
-      "Xiaodong Liu",
-      "Weiwei Yang"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "ShallowDefend: Strengthening Multi‑Turn Safety in Large Language Models Through Shallow Alignment",
-    "tldr": "ShallowDefend addresses the brittleness of current LLM safety defenses by focusing on the shallow alignment that concentrates safety behavior in the first few tokens. By supervising the surface form across multi‑turn interactions, it significantly reduces harmful request success rates while maintaining model performance.",
-    "significance": "This work provides a practical, open‑source framework that improves the reliability of safety defenses in conversational AI, a critical step toward responsible deployment of foundation models.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5283597e0f5835549ed68a151ac5f3da",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40626v1",
-    "arxiv_id": "2610.40626v1",
-    "title": "Finding Competitive Equilibria in Online Marketplaces with Platform Fees, Taxes, and Subsidies",
-    "authors": [
-      "Taihei Oki",
-      "Ryosuke Sato"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "Computing Competitive Equilibria in Online Marketplaces with Fees, Taxes, and Subsidies",
-    "tldr": "We present an ascending auction algorithm that computes minimum equilibrium prices in multi‑unit trading networks with piecewise‑linear transfer functions modeling platform fees, taxes, and subsidies. The method converges efficiently and yields the lowest possible equilibrium prices, enabling fair and transparent marketplace design.",
-    "significance": "This work provides a practical tool for platform designers to balance revenue and consumer welfare while ensuring market efficiency.",
-    "tags": [
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3ab9ce4f836e1c57b74cae8ad2493731",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40619v1",
-    "arxiv_id": "2610.40619v1",
-    "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
-    "authors": [
-      "Chengyang He",
-      "Wenlong Zhang",
-      "Koduvayur Subbalakshmi"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "Evidence-Grounded Significance Testing for Temporal Clinical Hypotheses: A New Approach",
-    "tldr": "This paper introduces a framework that applies rigorous significance tests to temporal hypotheses in clinical data, moving beyond fluent but unverified claims. By leveraging large language models and time-series analysis, it provides statistically grounded insights into event sequences such as product recalls and vaccine side effects.",
-    "significance": "It transforms speculative temporal assertions into statistically validated findings, enhancing evidence-based decision making in healthcare and beyond.",
-    "tags": [
-      "LLM",
-      "time-series",
-      "foundation-models"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "ed23dfd16aed358b69922253d59b6e6e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40618v1",
-    "arxiv_id": "2610.40618v1",
-    "title": "An ODE-based Sampler for Discrete Diffusion Models",
-    "authors": [
-      "Samson Gourevitch",
-      "Yazid Janati",
-      "Eric Moulines"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "Deterministic ODE Sampler Accelerates Discrete Diffusion Models for Real-Time Generation",
-    "tldr": "This paper introduces a deterministic ODE formulation that reproduces the marginals of discrete diffusion models, enabling faster sampling. The method offers a foundation for accelerated inference and consistency distillation in discrete generative modeling.",
-    "significance": "It provides a principled, efficient alternative to stochastic sampling, potentially improving speed and consistency in discrete generative tasks.",
-    "tags": [
-      "diffusion-models",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "2dceb165a601d81d3dfc6da182a82a2f",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40616v1",
-    "arxiv_id": "2610.40616v1",
-    "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
-    "authors": [
-      "Michael Joseph",
-      "Yedid Hoshen"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "Calibrating Membership Inference Difficulty Over Time for Large Diffusion Model Datasets",
-    "tldr": "Standard MIAs rely on reconstruction loss, but image difficulty skews results. We propose a time‑aware calibration method that adjusts for reconstruction ease, improving member detection accuracy.",
-    "significance": "Accurate membership inference protects privacy in large diffusion models, preventing unauthorized data exposure.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "efdbc922a71c2f66cb8753d650ab42f2",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40614v1",
-    "arxiv_id": "2610.40614v1",
-    "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
-    "authors": [
-      "Jinhyeok Choi",
-      "JoungBin Lee",
-      "Jongmin Lee"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "L3G-World: Real-Time Infinite World Generation via Latent 3D Gaussian Memory",
-    "tldr": "L3G-World introduces a latent 3D Gaussian memory that enables real-time, spatially consistent infinite world generation, overcoming the memory scaling issues of prior explicit 3D memory methods. The approach conditions latent video generation on user actions while maintaining long-horizon coherence without growing memory with stream length.",
-    "significance": "This work provides a scalable, real-time framework for immersive interactive world generation, paving the way for more responsive virtual environments.",
-    "tags": [
-      "diffusion-models",
-      "real-time",
-      "spatial-reasoning",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "abf6a76d72c77e16038655f95678bb5d",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40613v1",
-    "arxiv_id": "2610.40613v1",
-    "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
-    "authors": [
-      "Tom Sander",
-      "Pierre Fernandez",
-      "Itai Gat"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "TextSeal2: Distortion-Free Watermarking for LLMs Without Latency and Preserves Diversity",
-    "tldr": "TextSeal2 introduces a distortion‑free watermark that survives speculative decoding, keeping acceptance rates unchanged. It also preserves output diversity and adds no measurable inference latency.",
-    "significance": "It enables reliable watermarking of LLM outputs without compromising performance or diversity.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "f43914359e447fa245e002718549ba2c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40654v1",
-    "arxiv_id": "2610.40654v1",
-    "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-    "authors": [
-      "Moshe Shenfeld",
-      "Eliad Tsfadia",
-      "Katrina Ligett"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "Propose-Filter-Release: Adapting Noise to Typical Data Sensitivity in Differential Privacy",
-    "tldr": "The paper introduces a private filtering step that removes outlier records before adding noise, allowing the noise scale to match the typical sensitivity of the data. This approach reduces noise while preserving privacy, improving accuracy for most datasets.",
-    "significance": "It demonstrates a practical method to reduce noise in differential privacy by privately filtering outliers, enhancing utility without compromising privacy.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "18db04c7ff8f0f88e73ca0af0618b409",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40648v1",
-    "arxiv_id": "2610.40648v1",
-    "title": "Light-Cone Friedel Oscillations: a Window into van Hove Superconductivity",
-    "authors": [
-      "Archisman Panigrahi",
-      "Vladislav Poliakov",
-      "Leonid Levitov"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "Light-Cone Friedel Oscillations Reveal Van Hove Superconductivity",
-    "tldr": "The saddle-point dispersion near a van Hove point creates a distinctive light-cone pattern in Friedel oscillations, offering a new experimental probe for superconductivity at these singularities. This behavior contrasts sharply with conventional concentric oscillations, providing a clear signature of van Hove physics.",
-    "significance": "It offers a practical method to confirm superconducting pairing near van Hove points, advancing our understanding of high‑temperature superconductivity.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "0b73d2a799123933f68339077c56fd91",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40638v1",
-    "arxiv_id": "2610.40638v1",
-    "title": "Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits",
-    "authors": [
-      "Jakob Murauer",
-      "Sabine Tornow",
-      "Manas Kulkarni"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-10-31",
-    "headline": "Entanglement Diagnostics in Stochastic-Resetting Quantum Systems: Theory and Superconducting Qubit Experiments",
-    "tldr": "The study shows how stochastic resetting drives quantum systems into nonequilibrium steady states, with entanglement characteristics depending on reset history resolution. Closed-form results for two qubits and exact simulations up to 12 qubits demonstrate the method and its experimental verification on superconducting qubits.",
-    "significance": "It provides a new framework for probing entanglement in nonunitary quantum dynamics, bridging theory and experiment.",
-    "tags": [
-      "time-series",
       "benchmark"
     ],
     "readtime": 2,
