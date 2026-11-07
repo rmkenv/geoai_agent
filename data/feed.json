@@ -1,5 +1,313 @@
 [
   {
+    "uid": "29d49ce372410c7ff97a24f89ef65b2b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08487v1",
+    "arxiv_id": "2611.08487v1",
+    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+    "authors": [
+      "Jonathan Kozaczuk",
+      "Zheng Dong",
+      "Noyan Evirgen"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Interpretable User Embeddings: Sparse Superpositions of Behavioral Modes",
+    "tldr": "User embeddings can be decomposed into a sparse mix of interpretable behavioral modes, enhancing transparency in recommendation systems. This approach preserves predictive power while offering clear insights into user behavior.",
+    "significance": "It bridges the gap between dense embedding representations and human-understandable behavioral patterns, improving trust and explainability in AI systems.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "5286ff6f68eb27ae4bb04dee828d209d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08486v1",
+    "arxiv_id": "2611.08486v1",
+    "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+    "authors": [
+      "Xiaoqi Zhao",
+      "Youwei Pang",
+      "Kailai Zhou"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Reimagining Scientific Figures with Generative AI: A Visual Retrospective",
+    "tldr": "The study analyzes 371 motivation and framework figures from 200 papers to assess how generative AI reshapes visual clarity and expression. It highlights both opportunities and challenges in using AI to design scientific visuals.",
+    "significance": "It offers a systematic evaluation of AI’s impact on scientific communication, guiding future figure design practices.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "diffusion-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "92fd3da567c5f08b116298a326e52378",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08477v1",
+    "arxiv_id": "2611.08477v1",
+    "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+    "authors": [
+      "Yanlin Jin",
+      "Bowen Yang",
+      "Cheng Zhang"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "EgoGeneralist Unifies Egocentric Video Generation, Pose Estimation, and Action Modeling",
+    "tldr": "EgoGeneralist adapts pretrained video generators to create action-conditioned egocentric videos and estimate pose in a single framework. Its role‑adaptive action renderer offers video‑native 3D representations for multidirectional action learning.",
+    "significance": "It bridges multiple egocentric video tasks into a unified, video‑native model, enhancing efficiency and consistency across generation and perception.",
+    "tags": [
+      "foundation-models",
+      "diffusion-models",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "834cf706919fc3692d5280cc4984fd8f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08468v1",
+    "arxiv_id": "2611.08468v1",
+    "title": "An Accelerated Proximal Gradient Method for Bures-Wasserstein Space",
+    "authors": [
+      "Jakob Nylöf",
+      "Sloan Nietert",
+      "Julien Pallage"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Accelerated Proximal Gradient Method for Efficient Bures–Wasserstein Space Optimization in Gaussian Measures",
+    "tldr": "We propose lifting Bures–Wasserstein problems to Euclidean space of affine transport maps, enabling accelerated proximal gradient solutions. This yields faster convergence for composite optimization of Gaussian measures.",
+    "significance": "The method dramatically speeds up optimization in Bures–Wasserstein space, opening new possibilities for efficient Gaussian measure computations.",
+    "tags": [
+      "point-cloud",
+      "spatial-reasoning",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "64a08d548e864fc625b0070a8887c27b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08466v1",
+    "arxiv_id": "2611.08466v1",
+    "title": "Canonical Cut Hierarchy in Almost-Linear Time via Reduction to Max-Flow",
+    "authors": [
+      "Karthekeyan Chandrasekaran",
+      "Harshul Sagar"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Fast Canonical Cut Hierarchy via Max-Flow Reduction Algorithm",
+    "tldr": "We present a randomized almost linear-time algorithm for computing the canonical cut hierarchy in undirected graphs with polynomially bounded capacities by reducing the problem to max-flow. This approach yields efficient algorithms for related partitioning tasks.",
+    "significance": "This work provides the first near-linear time method for constructing canonical cut hierarchies, enabling faster graph partitioning in large-scale networks.",
+    "tags": [
+      "real-time",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b600c9f74fc3122c346ecda2f18769fb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08465v1",
+    "arxiv_id": "2611.08465v1",
+    "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+    "authors": [
+      "Celeste De Schamphelaere",
+      "Juan J. Vazquez",
+      "Ari Spiesberger"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Decoding Residual Stream Directions for Any Language Model via Activation Inversion",
+    "tldr": "The paper introduces Maximally-Activating Example Metamodels (MAEMs) that map residual stream directions to text exemplars, enabling interpretation beyond corpus limits. By scaling activation inversion, it provides a systematic way to understand internal representations of language models.",
+    "significance": "This method offers a practical framework for interpreting the abstract directions within large language models, enhancing transparency and trust.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "97d017c8febd8676008d06ec3da6a52f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08462v1",
+    "arxiv_id": "2611.08462v1",
+    "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+    "authors": [
+      "Arpit Bahety",
+      "Skand Peri",
+      "Sriniket Ambatipudi"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "OopsieRecover: Teaching Vision‑Language‑Action Models to Self‑Correct via Semantic Interventions for Robotic Manipulation",
+    "tldr": "OopsieRecover learns transferable corrections for Vision‑Language‑Action models by using semantic interventions, enabling robots to recover from failures without extensive corrective data. The method generalizes across tasks, reducing the need for task‑specific fine‑tuning.",
+    "significance": "It dramatically lowers the data cost for deploying robust VLA robots in real‑world settings.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "00a5db7d7246f3b2801afa86295fb0bd",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08461v1",
+    "arxiv_id": "2611.08461v1",
+    "title": "Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems",
+    "authors": [
+      "Aldana Al-Sulaiti",
+      "Kuan-Cheng Chen",
+      "Muhammad Bilal Akram Dastagir"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Quantum Knowledge Distillation: Advancing Model Compression and Cross-Architecture Transfer",
+    "tldr": "This survey explores quantum knowledge distillation techniques, covering state-of-the-art methods, diverse applications, and open research challenges. It highlights how quantum-derived supervision can compress models, enable cross-architecture transfer, and facilitate classical deployment.",
+    "significance": "Quantum knowledge distillation bridges quantum and classical learning, offering scalable, efficient solutions for complex AI tasks.",
+    "tags": [
+      "foundation-models",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "ab028bbda2d2d0bf36cc965f4110236b",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08458v1",
+    "arxiv_id": "2611.08458v1",
+    "title": "Latent RL Priors for Data-Efficient Dexterous Manipulation",
+    "authors": [
+      "Yixiao Wang",
+      "Peiyi Chen",
+      "Mustafa Mukadam"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Data-Efficient Dexterous Manipulation via Latent Reinforcement Learning Priors from Visual Demonstrations",
+    "tldr": "We introduce Latent RL Prior, a two-stage framework that first learns rich control behaviors in simulation with privileged information, then transfers this knowledge to real-world dexterous manipulation using a latent representation. The approach dramatically reduces the number of visual demonstrations needed while maintaining precise control.",
+    "significance": "This work bridges simulation-based RL and real-world manipulation, enabling efficient learning from limited visual data and advancing the practicality of dexterous robotic systems.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "b42a2b07be4ee3b4b5f8670d76987263",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08457v1",
+    "arxiv_id": "2611.08457v1",
+    "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+    "authors": [
+      "Yi Feng",
+      "Andrea Paudice"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Large Step Sizes in Adversarial Training: Bias, Optimization, and Sharpness Dynamics",
+    "tldr": "The paper analyzes deterministic gradient descent with large step sizes in adversarial training, uncovering how such steps influence implicit bias and loss landscape sharpness. It provides practical insights that enable faster convergence while maintaining robustness.",
+    "significance": "This work bridges theory and practice by showing how large step sizes shape robustness and convergence in adversarial training, guiding more efficient training strategies.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "foundation-models"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a5e22c4c6187ffd402b4230ca369cd89",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08456v1",
+    "arxiv_id": "2611.08456v1",
+    "title": "Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development",
+    "authors": [
+      "Margaret-Anne Storey"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Cognitive and Intent Debt: Hidden Risks in AI-Accelerated Software Development",
+    "tldr": "Generative AI and agentic coding speed up development but can erode shared understanding, creating cognitive debt. Intent debt arises when the original purpose of code is unclear, threatening long-term maintainability.",
+    "significance": "Recognizing and addressing these debts is essential to sustain healthy, adaptable software ecosystems.",
+    "tags": [
+      "LLM",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "0f59d9adfaed48202f14bfbdead756a4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08453v1",
+    "arxiv_id": "2611.08453v1",
+    "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+    "authors": [
+      "Zeyu Leo Liu",
+      "Yang Li",
+      "Bo Pang"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "Compute Efficiency of OPD vs GRPO: A Systematic Comparison in RL",
+    "tldr": "We systematically compare vanilla reverse‑KL OPD with Group Relative Policy Optimization across task difficulty, model size, and domain. The results indicate that OPD’s dense teacher signal can cut training FLOPs while achieving comparable accuracy.",
+    "significance": "It demonstrates that on‑policy distillation can be a more compute‑efficient alternative to RL for training language models.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "1afb340a50b29c91ef5df47292936636",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08452v1",
+    "arxiv_id": "2611.08452v1",
+    "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+    "authors": [
+      "Yubo Wang",
+      "Rui Meng",
+      "Jaehyun Nam"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-07",
+    "headline": "ReproBridge: Enhancing ML Experiment Reproducibility with Recovered Procedures and Decisions",
+    "tldr": "ReproBridge reconstructs missing experimental details from papers and code, enabling coding agents to reproduce ML studies more reliably. Our evaluation shows that preserving these recovered procedures boosts independent replication success.",
+    "significance": "This work demonstrates that systematic recovery of experimental workflows can substantially improve reproducibility in machine learning research.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "LLM"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
     "uid": "64806980b2bb3b95c55721efcba357e8",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2611.08489v1",
@@ -1110,315 +1418,6 @@
       "benchmark"
     ],
     "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1171e2ad8a75445ede93def3b9c1e536",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42149v1",
-    "arxiv_id": "2610.42149v1",
-    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-    "authors": [
-      "Byungwoo Jeon",
-      "Yoonwoo Jeong",
-      "Hyunseok Lee"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Latent Reasoning in Continuous Space Enhances Unified Multimodal Models for Image Generation",
-    "tldr": "Unified multimodal models struggle to use language-based chain-of-thought reasoning for image generation, limiting test-time scaling and controllability. This work introduces latent reasoning in continuous space to bridge that gap, enabling finer control and better performance.",
-    "significance": "This approach unlocks scalable, controllable image generation in multimodal systems, matching the capabilities of large language models.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "diffusion-models",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b0964d0e3973a55e13af7223589daa48",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42148v1",
-    "arxiv_id": "2610.42148v1",
-    "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-    "authors": [
-      "Bobo Li",
-      "Jiajia Song",
-      "Hao Fei"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Flide: Accelerating Decision Inference with Exact State Forking for LLM Agent Systems",
-    "tldr": "Decision models like Jev enable fast categorical reasoning for LLM agents, but current inference engines incur heavy prefix recomputation or skewed probabilities. Flide introduces exact state forking to eliminate these overheads, enabling efficient real‑time decision inference.",
-    "significance": "Flide’s exact state forking dramatically reduces inference latency, making lightweight decision models practical for real‑time LLM agent deployments.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "17d599914f700463f44c9dd3391baa82",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42147v1",
-    "arxiv_id": "2610.42147v1",
-    "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
-    "authors": [
-      "Ales Kubicek",
-      "Andrea Caciolai",
-      "Liangzu Peng"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Enabling Subquadratic Attention for Ultra-Long Contexts with Latent Sparse Attention",
-    "tldr": "The paper introduces Latent Sparse Attention, a method that reduces attention complexity from quadratic to subquadratic for contexts exceeding one million tokens. By using a learned indexer to select key subsets, it enables efficient, scalable transformer models for ultra-long sequences.",
-    "significance": "It paves the way for practical deployment of transformer models on massive document streams and scientific data without prohibitive memory costs.",
-    "tags": [
-      "foundation-models",
-      "LLM",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "4aaa0bea544a1c7626bb0720ae7cc9e9",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42146v1",
-    "arxiv_id": "2610.42146v1",
-    "title": "Hierarchical World Models with Implicit Dynamics",
-    "authors": [
-      "Gaoyue Zhou",
-      "Yvonne Wu",
-      "Zichen Jeff Cui"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Hierarchical World Models with Implicit Dynamics for Robust Long-Horizon Planning",
-    "tldr": "We propose ID-WM, a hierarchical world model that learns implicit dynamics, enabling test-time adaptation and fine-grained control for embodied agents. The approach reduces cumulative errors and search complexity, outperforming rigid macro-action methods on long-horizon tasks.",
-    "significance": "ID-WM advances long-horizon planning by combining hierarchical structure with implicit dynamics, achieving superior generalization and control.",
-    "tags": [
-      "spatial-reasoning",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "6152547dbf63c8264c5402046e8689f1",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42145v1",
-    "arxiv_id": "2610.42145v1",
-    "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
-    "authors": [
-      "Kuankuan Cheng",
-      "Haocheng Yuan",
-      "Changjian Li"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "SemEllipsoid: Semantic-Aware Ellipsoid-Based Shape Abstraction for Efficient 3D Representation in Graphics",
-    "tldr": "SemEllipsoid introduces a semantic-aware ellipsoid shape abstraction that captures 3D geometry with high compactness and computational efficiency. The method leverages semantic cues to guide primitive placement, enabling fast, accurate shape reconstruction suitable for real-time applications.",
-    "significance": "This work advances compact 3D shape representation by integrating semantic information, improving efficiency for graphics and simulation tasks.",
-    "tags": [
-      "segmentation",
-      "point-cloud",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e5222470395092a89218c1be17b77976",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42144v1",
-    "arxiv_id": "2610.42144v1",
-    "title": "Dittany: Contribution-Guided Repair Framework for MAS Applications",
-    "authors": [
-      "Hanqi Sun",
-      "Yuchen Shao",
-      "Hanyi Si"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Dittany: A Contribution-Guided Framework for Runtime Repair of LLM-Driven Multi-Agent Systems",
-    "tldr": "Dittany identifies unfinished tasks in LLM-based MAS executions and uses completed contributions to repair them at runtime. The framework derives expected contributions and acceptance conditions, enabling automated, real-time recovery.",
-    "significance": "It enables reliable deployment of LLM-driven multi-agent systems by providing automated runtime repair.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a14eb1701c3aff55b505c9c7df491294",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42141v1",
-    "arxiv_id": "2610.42141v1",
-    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-    "authors": [
-      "Shengguang Wu",
-      "Suning Huang",
-      "Cherie Ho"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Automating Robotic Agent Harness Design with Persistent Memory for Dynamic Environments",
-    "tldr": "We present RoboArchitect, a system that automatically generates agent harnesses that orchestrate frozen robot policies, vision tools, and direct arm commands, eliminating manual redesign for each robot or benchmark. This approach offers a robust alternative to finetuning, enabling rapid deployment across diverse robotic setups.",
-    "significance": "By automating harness design, RoboArchitect reduces engineering effort and accelerates deployment of robotic agents across varied tasks, challenging the need for costly finetuning.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "b173f0b0dca956f2c83d82517266b038",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42139v1",
-    "arxiv_id": "2610.42139v1",
-    "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
-    "authors": [
-      "Vitaly Feldman",
-      "Audra McMillan",
-      "Kunal Talwar"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Counting on Dummies: Enhancing DP-SGD with Observable Counts and Truncated Batches",
-    "tldr": "This paper introduces a method to improve privacy amplification in DP-SGD by using observable batch counts and truncated sampling. By accounting for variable batch sizes, it achieves tighter privacy guarantees while maintaining training efficiency.",
-    "significance": "It provides a practical approach to tighten DP guarantees in real-world training pipelines where batch sizes vary.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e18921ae62d4e8f1ba1fe171f4eb4479",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42137v1",
-    "arxiv_id": "2610.42137v1",
-    "title": "On the Iwasawa invariants of admissible quadratic twists of elliptic curves at ordinary Eisenstein primes",
-    "authors": [
-      "Mulun Yin"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Iwasawa Invariants of Quadratic Twists at Eisenstein Primes: μ=0 and λ-Analysis",
-    "tldr": "We prove Greenberg's μ=0 conjecture for all admissible quadratic twists of rational elliptic curves at Eisenstein primes p≥3, providing an Euler system proof of Mazur's cotorsion conjecture. We also analyze the λ-invariants in the admissible case, yielding a cyclotomic Iwasawa Main Conjecture result.",
-    "significance": "This work resolves key conjectures in Iwasawa theory for a broad class of elliptic curves, advancing our understanding of arithmetic invariants in number theory.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2d3034a0153b011d4ac2e85899012dc7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42136v1",
-    "arxiv_id": "2610.42136v1",
-    "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
-    "authors": [
-      "Assaf Singer",
-      "Maroun Khriesh",
-      "Noam Rotstein"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "ReLift: Leveraging Pretrained 2D Trackers for Dense 3D Trajectory Repair",
-    "tldr": "ReLift introduces a novel framework that repurposes strong pretrained 2D trackers and 3D geometry models to achieve dense 3D tracking from monocular video. By treating trajectory repair as a lifted problem, it reduces the need for extensive 4D supervision while maintaining accurate depth and motion estimation.",
-    "significance": "This approach enables robust 3D tracking in challenging occlusion scenarios with limited supervision, advancing the state of the art in monocular 3D reconstruction.",
-    "tags": [
-      "foundation-models",
-      "point-cloud",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a432dd1ff24dc7e6151e0f254d45e447",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.42135v1",
-    "arxiv_id": "2610.42135v1",
-    "title": "A Better Critic Matters for Distribution Matching Distillation",
-    "authors": [
-      "Zongze Wu",
-      "Xianbang Wang",
-      "Zhengyang Geng"
-    ],
-    "published": "2026-10-30",
-    "curated_at": "2026-11-02",
-    "headline": "Enhancing Distillation: The Role of Critic Capacity in Distribution Matching",
-    "tldr": "Distribution Matching Distillation uses a teacher’s score and a critic’s estimate to train a student. Our experiments show that increasing the critic’s capacity improves training signals, highlighting the importance of a powerful critic for effective distillation.",
-    "significance": "This study clarifies that a stronger critic is essential for reliable distillation, guiding future model compression efforts.",
-    "tags": [
-      "foundation-models",
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "a1d7f7813ebc1e98f87f8b587726c5e7",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40645v1",
-    "arxiv_id": "2610.40645v1",
-    "title": "JT gravity as a conformal scaling limit of random flat combinatorial disks",
-    "authors": [
-      "Morris Ang"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "JT Gravity Emerges from Scaling Limit of Random Flat Combinatorial Disks",
-    "tldr": "We show that flat Jackiw–Teitelboim gravity appears as the universal scaling limit of random flat combinatorial disks. A branching exploration criterion is provided to identify discrete models converging to this limit.",
-    "significance": "This result establishes a rigorous bridge between discrete random geometry and continuum JT gravity, offering a new universal scaling framework.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "910303fc30995e8cf84b07f28f4b0d8c",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2610.40635v1",
-    "arxiv_id": "2610.40635v1",
-    "title": "How many mutations does it take to evolve a new function?",
-    "authors": [
-      "Nida Farheen",
-      "Zachary Boroda",
-      "Ethan Levien"
-    ],
-    "published": "2026-10-29",
-    "curated_at": "2026-11-01",
-    "headline": "How Many Mutations Are Needed to Create a New Biological Function?",
-    "tldr": "Scientists are trying to quantify how many genetic changes are required to produce a new cellular function. Recent studies suggest that the number can vary widely depending on the network complexity and the type of mutation.",
-    "significance": "Understanding mutation thresholds informs drug design and evolutionary biology.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
     "difficulty": "intermediate"
   }
 ]
