@@ -1,5 +1,262 @@
 [
   {
+    "uid": "a9b5ec3639c6cded70649c3fa66bbf85",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08447v1",
+    "arxiv_id": "2611.08447v1",
+    "title": "Dynamical effects induced by synthetic SU(1,1) gauge fields",
+    "authors": [
+      "Chenwei Lv"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Exploring Wavepacket Dynamics Under Synthetic SU(1,1) Gauge Fields in Quantum Systems",
+    "tldr": "We study how a synthetic SU(1,1) gauge field influences wavepacket evolution and entanglement in open quantum systems. Numerical simulations reveal non‑Abelian, non‑compact Bloch oscillations and novel entanglement dynamics.",
+    "significance": "This work demonstrates that non‑compact gauge fields can be engineered to control quantum dynamics, opening pathways for quantum simulation of open systems.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "5e953fe30f4591193a71d400b9ca4920",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08445v1",
+    "arxiv_id": "2611.08445v1",
+    "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
+    "authors": [
+      "Angel Daruna",
+      "Michael Cogswell",
+      "Tixiao Shan"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Predicting Adversary Moves with Hidden Markov Preference Models in Real-Time",
+    "tldr": "We develop a hidden Markov preference model that captures persistent yet switchable attacker regimes and state-dependent action arguments. The model provides online probability distributions for an adversary’s next move, improving defender anticipation.",
+    "significance": "This approach enables defenders to anticipate complex, evolving attack patterns with higher accuracy, enhancing proactive security measures.",
+    "tags": [
+      "time-series",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "f6d59e4ce5efcb59653cd489c0a516d3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08443v1",
+    "arxiv_id": "2611.08443v1",
+    "title": "Souffleur: A Glanceable Display for Mobile Voice Conversations",
+    "authors": [
+      "Anton Wolter",
+      "William Benjamin",
+      "Niklas Elmqvist"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Souffleur: A Glanceable Display for Mobile Voice Conversations",
+    "tldr": "Souffleur introduces a mobile-first, speech-driven interface that lets users quickly resume voice chats by displaying key conversational points. It transforms the traditional text chat into a glanceable, real‑time summary for smoother context switching.",
+    "significance": "It bridges the gap between advanced speech capabilities and the still text‑centric mobile UI, improving user experience during voice interactions.",
+    "tags": [
+      "LLM",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "introductory"
+  },
+  {
+    "uid": "a1589c24b8720fda47df18ffd75769fb",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08442v1",
+    "arxiv_id": "2611.08442v1",
+    "title": "SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions",
+    "authors": [
+      "Shakya R. D. N.",
+      "Craig Costello",
+      "Nalin A. G. Arachchilage"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Integrating Post‑Quantum Cryptography into Software for Future Security: A Systematic Knowledge Review",
+    "tldr": "This paper surveys methods for embedding standardized post‑quantum algorithms into software, covering implementation, migration, and development practices. It identifies gaps and proposes future research directions to streamline secure PQC adoption.",
+    "significance": "By mapping the current state of PQC integration, the study guides developers and researchers toward robust, quantum‑resistant software ecosystems.",
+    "tags": [
+      "open-source",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 4,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "be05cfc366a402e1386a6d2b9a2991e8",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08441v1",
+    "arxiv_id": "2611.08441v1",
+    "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
+    "authors": [
+      "Hongsen Cao",
+      "Chia-Yen Chiang",
+      "Mona Jaber"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Edge Crowdsensing with Vision-Language Models Enhances Cyclist Safety Perception in Mixed Traffic",
+    "tldr": "The study introduces an edge-assisted crowdsensing framework that uses handlebar-mounted cameras and a vision-language model to continuously assess cyclists' perceived safety on routes. This real-time approach enables scalable, explainable monitoring that can inform policy and autonomous vehicle integration.",
+    "significance": "By providing continuous, explainable safety metrics, the system bridges the gap between static crash data and dynamic cyclist experience, supporting safer urban mobility.",
+    "tags": [
+      "foundation-models",
+      "urban-AI",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a954d77b8585cb52f9269208c1255513",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08439v1",
+    "arxiv_id": "2611.08439v1",
+    "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+    "authors": [
+      "Vladimir Beskorovainyi"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Typed-Decision Encoder Gains on New Words, Not Abbreviations: Ru-Jev Study",
+    "tldr": "A 307M multilingual cross‑encoder, Ru‑JeV, was evaluated with label‑wording augmentation. The new release improves performance on unfamiliar words but shows no benefit for abbreviations or codes.",
+    "significance": "The study demonstrates that surface‑form augmentation can enhance typed‑decision models for novel vocabulary, informing future multilingual model design.",
+    "tags": [
+      "LLM",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "cc326f0aca2a52e81fe541d385d48c4f",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08438v1",
+    "arxiv_id": "2611.08438v1",
+    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "authors": [
+      "Fazl Barez",
+      "Tung-Yu Wu",
+      "Hunar Batra"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Inside the Black Box: How Mechanistic Interpretability Shapes AI Safety",
+    "tldr": "Mechanistic interpretability seeks to reverse-engineer neural networks, revealing how they process information. By mapping internal mechanisms, researchers aim to predict and mitigate unsafe behaviors in increasingly autonomous AI systems.",
+    "significance": "Understanding AI’s internal logic is essential to prevent unintended harm as systems grow more powerful.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "d7d567eeaaffcb6d2d7d9310513772db",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08437v1",
+    "arxiv_id": "2611.08437v1",
+    "title": "Deep-learning surrogate model for rapid quantum-noise computation in dual-pump fiber-optic phase-sensitive amplifiers",
+    "authors": [
+      "Yousra Bouasria",
+      "Debanuj Chatterjee",
+      "Abdessamad Belfakir"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Fast Quantum-Noise Prediction in Dual-Pump Fiber Amplifiers via Deep Learning",
+    "tldr": "We develop a deep-learning surrogate that predicts quantum noise in dual-pump fiber-optic phase-sensitive amplifiers with high speed and accuracy. The model matches full quantum simulations while reducing computation time by orders of magnitude, enabling real-time system design.",
+    "significance": "This work bridges quantum optics and AI, offering a practical tool for designing ultra-low-noise fiber amplifiers in communication and sensing.",
+    "tags": [
+      "foundation-models",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "0bd30a2464d1384c38761bc3aa6def60",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08436v1",
+    "arxiv_id": "2611.08436v1",
+    "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
+    "authors": [
+      "Pang-Chi Lo",
+      "Jhao-Syun Lai",
+      "Tsung-Wei Ke"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "SM4RT: Cascaded Feed-Forward Model for 4D Dynamic Scene Reconstruction from RGB Videos",
+    "tldr": "SM4RT is a multi-task cascade feed-forward architecture that first reconstructs 3D geometry from RGB videos and then estimates motion, enabling accurate 4D scene reconstruction. By decoupling geometry and motion, it avoids the pitfalls of single-frame motion prediction and handles camera movement more robustly.",
+    "significance": "SM4RT advances real-time dynamic scene reconstruction by integrating geometry and motion estimation in a unified, efficient pipeline, improving accuracy over prior feed-forward methods.",
+    "tags": [
+      "time-series",
+      "point-cloud",
+      "real-time"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "4b7ae3a1ad6a071ceeebf648cd897f8c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08435v1",
+    "arxiv_id": "2611.08435v1",
+    "title": "Trapping and Fracture of Particles in Three-Sphere Ball-Milling Collisions",
+    "authors": [
+      "Ziyi Cui",
+      "Qiong Zhang",
+      "Suwei Liu"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "Three-Sphere Ball-Milling Collisions: Trapping and Fracture Dynamics Using DEM Simulations and Weibull Criteria",
+    "tldr": "We use discrete element method simulations with Christensen and Weibull fracture criteria to study ball-milling collisions in a minimal three-sphere model. The results show that whether a brittle target particle is trapped, ejected, fractured, or intact depends on impact geometry and velocity.",
+    "significance": "Understanding particle trapping and fracture in ball milling informs the design of efficient comminution processes and material processing.",
+    "tags": [
+      "foundation-models",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "e397228e430d1fe1fd62451741d34fc0",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.08434v1",
+    "arxiv_id": "2611.08434v1",
+    "title": "DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins",
+    "authors": [
+      "Ke-Xin Tang",
+      "Zhen-Qiang Weng",
+      "Kai Yan"
+    ],
+    "published": "2026-11-05",
+    "curated_at": "2026-11-08",
+    "headline": "DiffSequence-Q: Quantum‑Assisted Diffusion for Protein Design",
+    "tldr": "DiffSequence‑Q combines a multinomial diffusion model conditioned on per‑residue secondary structure with a continuous solubility target, while quantum neural networks provide auxiliary supervision during training. This hybrid approach improves the generation of biologically active protein sequences that meet structural and solubility constraints.",
+    "significance": "It demonstrates how quantum computing can enhance generative protein design, potentially accelerating drug discovery.",
+    "tags": [
+      "diffusion-models",
+      "foundation-models",
+      "open-source"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "29d49ce372410c7ff97a24f89ef65b2b",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2611.08487v1",
@@ -1152,270 +1409,6 @@
       "LiDAR",
       "benchmark",
       "point-cloud"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5fb621fb03c4f75adf974c603d68335e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03647v1",
-    "arxiv_id": "2611.03647v1",
-    "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
-    "authors": [
-      "Jason Jingzhou Liu",
-      "Tony Tao",
-      "Deepak Pathak"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations for Mobile Robots",
-    "tldr": "Pixel-UMI introduces a pipeline that uses sensorized human demonstrations to train whole-body manipulation policies that adapt to the environment. By combining reconstructed scene geometry with head and gripper trajectories, the system retargets human motions to a robot while preserving task relevance and safety.",
-    "significance": "This work bridges the gap between human demonstration data and robot embodiment, enabling scalable, environment-aware manipulation without manual labeling.",
-    "tags": [
-      "point-cloud",
-      "segmentation",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "984906c52215dc8abefdf513e3eecbc4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03648v1",
-    "arxiv_id": "2611.03648v1",
-    "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
-    "authors": [
-      "Tony Tao",
-      "Jason Jingzhou Liu",
-      "Ruslan Salakhutdinov"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Pixel: A Co-Designed Full-Stack System for Learning General-Purpose Mobile Manipulation",
-    "tldr": "Pixel integrates robot hardware, demonstration collection, whole-body control, and policy learning into a unified system. This co-design approach eliminates mismatches and enables robust general-purpose mobile manipulation.",
-    "significance": "Pixel demonstrates that tightly coupled hardware-software co-design can unlock scalable, real-world mobile manipulation capabilities.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "real-time",
-      "point-cloud"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e5d364e2f45693cdc9826519c9009928",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03646v1",
-    "arxiv_id": "2611.03646v1",
-    "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
-    "authors": [
-      "Yujiao Shen",
-      "Jiahe Song",
-      "Haitian Li"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "EgoActionBench: A New Dataset Benchmark for Fine-Grained Egocentric Action Captioning",
-    "tldr": "EgoActionBench provides a richly annotated, temporally precise dataset for dense action captioning from first-person videos, addressing gaps in atomic action granularity and hand-action association. The benchmark enables evaluation of models on continuous manipulation tasks with fine-grained temporal boundaries.",
-    "significance": "It advances embodied AI by offering a comprehensive testbed for understanding human manipulation in egocentric contexts.",
-    "tags": [
-      "benchmark",
-      "object-detection",
-      "real-time"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "939b2a1badfff83fd64f925a441008aa",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03644v1",
-    "arxiv_id": "2611.03644v1",
-    "title": "Single-visit screening for intracochlear tissue growth validated against multi-visit electrical measurement changes",
-    "authors": [
-      "Minh Q. Vu",
-      "Erin L. Bratu",
-      "Jared A. Rybarczyk"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Single-Visit Screening Detects Cochlear Implant Tissue Growth Using SCINSEV Measurements",
-    "tldr": "A new algorithm can identify significant tissue growth around cochlear implant electrodes from a single SCINSEV recording. The method was validated against multi-visit impedance changes, enabling early intervention without additional visits.",
-    "significance": "This approach allows clinicians to monitor implant health in a single appointment, potentially improving patient outcomes and reducing healthcare costs.",
-    "tags": [
-      "time-series",
-      "change-detection",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "e1a2dbd4d36508e6e1d9e3ee6885de89",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03642v1",
-    "arxiv_id": "2611.03642v1",
-    "title": "A hyperbolic nonlinear Schrödinger system in multiple spatial dimensions: structure, convergence, and numerical discretization",
-    "authors": [
-      "Carlos Muñoz-Moncayo",
-      "Abhijit Biswas",
-      "David I. Ketcheson"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Hyperbolic Approximation of N-Dimensional Nonlinear Schrödinger Equation: Structure, Convergence, and Discretization",
-    "tldr": "We introduce a first-order hyperbolic system that approximates the N-dimensional nonlinear Schrödinger equation, preserving key conservation laws. Numerical experiments confirm convergence and efficient real-time discretization.",
-    "significance": "This work provides a mathematically rigorous, computationally efficient framework for simulating high-dimensional NLS dynamics, bridging theory and practice.",
-    "tags": [
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "e14e6e80629f83e45c477b3ce27e6638",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03641v1",
-    "arxiv_id": "2611.03641v1",
-    "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
-    "authors": [
-      "Paulius Skaisgiris",
-      "Thomas Pammer",
-      "Veronika Semmelrock"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Neuro-Symbolic Exact Cover for Zebra Puzzles: Bridging LLM Reasoning and Symbolic Logic",
-    "tldr": "This paper introduces a neuro-symbolic method that translates natural language zebra puzzles into exact cover problems, enabling deterministic solutions. By combining chain‑of‑thought LLMs with symbolic solvers, the approach overcomes LLMs’ logical gaps while preserving speed.",
-    "significance": "It demonstrates that integrating neural reasoning with symbolic exact cover yields reliable, sound solutions for classic logic puzzles, setting a new benchmark for explainable AI.",
-    "tags": [
-      "LLM",
-      "benchmark",
-      "open-source",
-      "foundation-models"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "1b9072adba8a6fd25f9c6a885a03d341",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03640v1",
-    "arxiv_id": "2611.03640v1",
-    "title": "Construction of the 2D non-Abelian Yang-Mills-Higgs measure via stochastic quantisation",
-    "authors": [
-      "Bjoern Bringmann",
-      "Sky Cao",
-      "Martin Hairer"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Mathematically Constructing the 2D Non-Abelian Yang-Mills-Higgs Measure via Stochastic Quantisation",
-    "tldr": "We present the first rigorous construction of the non-Abelian Yang-Mills-Higgs measure on a two-dimensional torus using Parisi–Wu stochastic quantisation. By developing a gauge-covariant paracontrolled calculus, we overcome non-Markovian challenges and establish the measure’s existence.",
-    "significance": "This work establishes a foundational framework for non-Abelian gauge theories in two dimensions, bridging stochastic analysis and quantum field theory.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "a53868695878e6062bd904f08c2021f3",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03639v1",
-    "arxiv_id": "2611.03639v1",
-    "title": "Quantum channel tomography: optimal bounds in the near-boundary regime",
-    "authors": [
-      "Kean Chen",
-      "Aadil Oufkir"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Optimal Bounds for Quantum Channel Tomography Near the Boundary Regime",
-    "tldr": "This paper establishes tight optimal bounds for learning quantum channels with Kraus rank r in the near-boundary regime, where the dilation rate τ is close to one. It improves sample complexity guarantees and provides new insights into efficient quantum process tomography.",
-    "significance": "It advances the theoretical limits of quantum process tomography, enabling more efficient characterization of quantum devices.",
-    "tags": [
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "7a1e332a2595b1f27ea0c3788a283ca6",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03637v1",
-    "arxiv_id": "2611.03637v1",
-    "title": "Mercury (Hg): a relativistic $N$-body simulation for Horndeski gravity",
-    "authors": [
-      "Ahmad Nouri-Zonoz",
-      "Farbod Hassani",
-      "Julian Adamek"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Mercury: Relativistic N-Body Simulation for Horndeski Gravity in Cosmology and Structure Formation",
-    "tldr": "Mercury is a relativistic N‑body code that extends particle‑mesh methods to include the scalar degree of freedom in Horndeski gravity. It solves the modified Einstein equations with time‑dependent α functions, enabling accurate cosmological simulations of modified gravity scenarios.",
-    "significance": "Mercury provides the first fully relativistic N‑body framework for Horndeski gravity, allowing precise tests of modified gravity against cosmological observations.",
-    "tags": [
-      "open-source",
-      "benchmark",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "f5f302a73a454ee99aac825e8cac0a65",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03633v1",
-    "arxiv_id": "2611.03633v1",
-    "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
-    "authors": [
-      "Catherine Li",
-      "Jingchu Gai",
-      "Andrej Risteski"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Muon’s Pretraining Edge Vanishes After Fine‑Tuning for Large Datasets",
-    "tldr": "Muon optimizer accelerates pretraining loss minimization compared to AdamW, but when fine‑tuned on downstream tasks, AdamW eventually outperforms Muon once the pretraining data exceeds a threshold. This suggests that Muon’s advantage is limited to pretraining and may not translate to real‑world fine‑tuning performance.",
-    "significance": "Understanding when Muon’s speed advantage translates to downstream gains informs optimizer choice for large‑scale language model training pipelines.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "5864213fe3e9219d167b7d2d8ae2d23e",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.03631v1",
-    "arxiv_id": "2611.03631v1",
-    "title": "Supporting Viewpoint Coordination for Compliance by Design with an Artifact Model for Regulatory Requirements Engineering",
-    "authors": [
-      "Oleksandr Kosenkov",
-      "Davide Fucci",
-      "Michael Unterkalmsteiner"
-    ],
-    "published": "2026-11-02",
-    "curated_at": "2026-11-03",
-    "headline": "Integrating Legal Expertise into Compliance-by-Design via Artifact Models for Requirements Engineering",
-    "tldr": "This paper proposes an artifact model that captures regulatory requirements and supports compliance-by-design in software engineering. By involving legal experts and leveraging LLMs, the approach facilitates requirement derivation and downstream implementation.",
-    "significance": "It bridges the gap between legal knowledge and software design, enabling systematic compliance integration.",
-    "tags": [
-      "LLM",
-      "open-source",
-      "benchmark"
     ],
     "readtime": 3,
     "difficulty": "intermediate"
