@@ -1,5 +1,314 @@
 [
   {
+    "uid": "34bcf3a117e8fe76a019fa7202b7131a",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09894v1",
+    "arxiv_id": "2611.09894v1",
+    "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+    "authors": [
+      "Chaoyang Wang",
+      "Sicheng Gao",
+      "Junan Hu"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Video-Coder: Autonomous Code-Driven Agent for Precise Video Generation with Spatial Control and Temporal Consistency",
+    "tldr": "Video-Coder introduces a novel agent that writes and executes code to generate videos, achieving high spatial fidelity and coherent motion. The approach leverages reinforcement learning to refine the agent’s coding strategy, enabling controllable scene composition and improved temporal consistency.",
+    "significance": "This work demonstrates that autonomous coding agents can surpass traditional diffusion models in producing structurally accurate and temporally coherent videos, opening new avenues for controllable video synthesis.",
+    "tags": [
+      "diffusion-models",
+      "LLM",
+      "time-series"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "970c44dc4a7543d1cd9a230908a9531c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09893v1",
+    "arxiv_id": "2611.09893v1",
+    "title": "Challenges for minimal warm inflation in the Standard Model and beyond",
+    "authors": [
+      "Anish Ghoshal",
+      "Alessandro Strumia"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Minimal Warm Inflation in the Standard Model Faces Fundamental Obstacles",
+    "tldr": "The paper demonstrates that minimal warm inflation models using the φ G~G operator conflict with plasma calculations and effective operator assumptions. Embedding the inflaton as a Goldstone boson does not resolve these tensions, indicating the need for new physics beyond the Standard Model.",
+    "significance": "It highlights a critical inconsistency in warm inflation scenarios, guiding future theoretical developments in early-universe cosmology.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "9d2f6676110512c736563e408eba8fca",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09892v1",
+    "arxiv_id": "2611.09892v1",
+    "title": "On Agentic Manipulation Policies",
+    "authors": [
+      "Chen Chen",
+      "Omid Bagherieh",
+      "Naveen Nikamanth Appiah Balaji"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Generalist AI Models Outperform Specialist Policies for Industrial Robot Manipulation Tasks",
+    "tldr": "We demonstrate that generalist AI models can reliably command robotic manipulators, outperforming specialized vision-language-action and world-action models. Our systematic analysis of agentic manipulation policies shows improved robustness and real‑time performance across diverse tasks.",
+    "significance": "This work challenges the prevailing focus on specialist policies, showing that foundation models can provide more flexible and dependable manipulation capabilities.",
+    "tags": [
+      "foundation-models",
+      "LLM",
+      "benchmark",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a95ad6cd3139348e877ad9d6f452cb93",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09891v1",
+    "arxiv_id": "2611.09891v1",
+    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "authors": [
+      "Peter Belcak",
+      "Greg Heinrich",
+      "Saurav Muralidharan"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "CPU-ARC: Efficient On-CPU Reasoning Caching for Reusing LLM Solutions and Speeding Up Inference",
+    "tldr": "Large language models often recompute solutions from scratch, wasting compute. CPU-ARC introduces a caching mechanism that stores reasoning traces on the CPU, enabling rapid application of previously derived solutions to new instances with minimal LLM involvement.",
+    "significance": "By decoupling reasoning from execution, CPU-ARC dramatically reduces inference cost and latency for LLM-powered applications.",
+    "tags": [
+      "LLM",
+      "real-time",
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "67f564f4182f7bb475ef6c354e0edfad",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09890v1",
+    "arxiv_id": "2611.09890v1",
+    "title": "Global Two-Sided Estimates for Time-Fractional Diffusion Kernels on Hyperbolic Space",
+    "authors": [
+      "Vicente Vergara"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Time-Fractional Diffusion on Hyperbolic Space: Global Two-Sided Kernel Estimates",
+    "tldr": "The paper derives sharp, uniform pointwise bounds for both the homogeneous and Duhamel kernels of a Caputo fractional diffusion equation on real hyperbolic space. These results hold for all times and geodesic distances, using inverse-stable subordination techniques.",
+    "significance": "It provides foundational analytical tools for studying anomalous diffusion processes in negatively curved geometries, with implications for mathematical physics and geometric analysis.",
+    "tags": [
+      "diffusion-models",
+      "spatial-reasoning",
+      "time-series"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "464f0b819e1643644672876b8df1ec13",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09889v1",
+    "arxiv_id": "2611.09889v1",
+    "title": "SciCheck: A Framework for Verifying the Integrity of Deep Learning Training",
+    "authors": [
+      "Alexander Nguyen",
+      "Dylan Gresham",
+      "Gaby G. Dagher"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "SciCheck: Verifying Deep Learning Training Integrity",
+    "tldr": "SciCheck provides a framework that lets scientists freely experiment with training configurations while ensuring reproducibility through a blueprint system. It records architecture, hyperparameters, and training procedures, enabling integrity checks without exact recomputation.",
+    "significance": "It addresses the challenge that deep learning training is inherently non-deterministic, offering a practical solution for scientific reproducibility.",
+    "tags": [
+      "open-source",
+      "benchmark"
+    ],
+    "readtime": 2,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "3d7c0edbf5bfb8620579a303fb26eba4",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09888v1",
+    "arxiv_id": "2611.09888v1",
+    "title": "Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving",
+    "authors": [
+      "Frieda Rong",
+      "Zhaoyue Wang",
+      "Veer Kapadia"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Dynamic Scenario Orchestration Enhances Closed‑Loop Evaluation of Autonomous Driving Policies",
+    "tldr": "Traditional scripted scenarios fail to adapt to ego vehicle responses, limiting evaluation fidelity. Introducing dynamic, learned traffic actors preserves interaction integrity in closed‑loop simulations.",
+    "significance": "This approach enables more realistic, reliable testing of autonomous driving systems.",
+    "tags": [
+      "urban-AI",
+      "real-time",
+      "benchmark",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a88c98caccad948ad88ad01c39708a17",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09884v1",
+    "arxiv_id": "2611.09884v1",
+    "title": "VLT and Keck recovery and characterisation of 2025 SC$_{79}$: linking 'Ayló'chaxnim and Atira asteroids",
+    "authors": [
+      "Bryce T. Bolin",
+      "Leo Y. Alcorn",
+      "Davide Farnocchia"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Recovering 2025 SC79 Near Atira and Ayló'chaxnim Asteroid Populations Linking",
+    "tldr": "Using Keck and VLT observations, we recovered asteroid 2025 SC79 and measured its optical colours. The data suggest it originates from the Atira region and may transition into the Ayló'chaxnim class.",
+    "significance": "This study provides the first physical characterization of a near-boundary asteroid, offering insights into the dynamical evolution between Atira and Ayló'chaxnim populations.",
+    "tags": [
+      "remote-sensing",
+      "object-detection",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "bd24edd929f60b4379ed6bd6d0d233e3",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09882v1",
+    "arxiv_id": "2611.09882v1",
+    "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+    "authors": [
+      "Aadya Agrawal",
+      "Ho Kei Cheng",
+      "Alexander Schwing"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Stochastic Multi-Person Motion Prediction with Flow Matching",
+    "tldr": "FlowMoP introduces a conditional flow matching framework that generates diverse future trajectories for multiple agents, outperforming deterministic baselines. It captures intent, coordination, and social context in 3D motion prediction.",
+    "significance": "It enables more realistic and robust predictions for autonomous systems in crowded environments.",
+    "tags": [
+      "diffusion-models",
+      "time-series",
+      "spatial-reasoning"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "73ab621000f6eacefc0fd6f515f8da65",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09881v1",
+    "arxiv_id": "2611.09881v1",
+    "title": "Unraveling square and kagome lattice frustrated magnetism by scalable tensor networks",
+    "authors": [
+      "Xing-Yu Zhang",
+      "Jutho Haegeman",
+      "Yuchi He"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Scalable Tensor Networks Resolve Frustrated Magnetism on Square and Kagome Lattices",
+    "tldr": "We extend variational infinite 2D tensor network methods to study frustrated magnetism on square‑lattice J1–J2 and kagome‑lattice Heisenberg models. In the sign‑problem‑free regime, we achieve ground‑state energy precision rivaling quantum Monte Carlo, demonstrating the scalability of the approach.",
+    "significance": "This work establishes tensor networks as a competitive, sign‑problem‑free tool for exploring complex quantum spin systems, bridging the gap between exact methods and large‑scale simulations.",
+    "tags": [
+      "benchmark",
+      "spatial-reasoning",
+      "open-source"
+    ],
+    "readtime": 3,
+    "difficulty": "advanced"
+  },
+  {
+    "uid": "8e8b0caf976717be3324466adbb6e238",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09880v1",
+    "arxiv_id": "2611.09880v1",
+    "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
+    "authors": [
+      "Aaron Sun",
+      "Yachan Liu",
+      "Ping Yang"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "ZeoBench: Benchmarking Self‑Supervised Learning on 3D Zeolite Structures for Materials Design",
+    "tldr": "ZeoBench introduces a large-scale dataset of 3D zeolite structures and a suite of self‑supervised learning tasks, enabling rapid pretraining without costly property labels. The benchmark demonstrates that models trained on ZeoBench transfer effectively to downstream property prediction, accelerating materials discovery.",
+    "significance": "By providing a standardized, open benchmark, ZeoBench lowers the barrier to applying deep learning to zeolite materials, fostering reproducibility and innovation in the field.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "point-cloud",
+      "foundation-models"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "70fae043ba72d610a6307b8fb3adfa3c",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09879v1",
+    "arxiv_id": "2611.09879v1",
+    "title": "PhotoFinish: Portable Timerless Probing of Microarchitectural Latencies",
+    "authors": [
+      "Tristan Hornetz",
+      "Eduard Ebert",
+      "Lorenz Hetterich"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "PhotoFinish: Portable Timerless Probing of Microarchitectural Latencies for Secure Browsers",
+    "tldr": "PhotoFinish introduces a method to measure microarchitectural latencies without relying on high-resolution timers, enabling attacks even in timer-restricted environments. The technique leverages portable, timerless probing primitives that convert latency differences into observable architectural changes.",
+    "significance": "This work demonstrates that microarchitectural attacks can still be executed in environments where timers are disabled, challenging current defense strategies.",
+    "tags": [
+      "benchmark",
+      "open-source",
+      "real-time"
+    ],
+    "readtime": 3,
+    "difficulty": "intermediate"
+  },
+  {
+    "uid": "a5226bb0369ebeec208bc13627197579",
+    "source": "arxiv",
+    "url": "https://arxiv.org/abs/2611.09878v1",
+    "arxiv_id": "2611.09878v1",
+    "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+    "authors": [
+      "Tanush Shaska"
+    ],
+    "published": "2026-11-06",
+    "curated_at": "2026-11-09",
+    "headline": "Scale-Invariant Convolutional Networks: Achieving Blur Robustness Without Explicit Scale Normalization",
+    "tldr": "This work introduces graded convolutional networks that maintain scale invariance by leveraging graded vector spaces, enabling robust feature extraction even under unknown Gaussian blur. The approach eliminates the need for explicit scale normalization, simplifying network design while preserving performance on scale-varied imagery.",
+    "significance": "It provides a mathematically grounded method to handle scale and blur variations in visual data, potentially improving performance in tasks like object detection and segmentation.",
+    "tags": [
+      "object-detection",
+      "segmentation",
+      "spatial-reasoning"
+    ],
+    "readtime": 2,
+    "difficulty": "advanced"
+  },
+  {
     "uid": "a9b5ec3639c6cded70649c3fa66bbf85",
     "source": "arxiv",
     "url": "https://arxiv.org/abs/2611.08447v1",
@@ -1108,309 +1417,6 @@
       "open-source"
     ],
     "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "13c807f43818a5aefcda07b431c6b126",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.06904v1",
-    "arxiv_id": "2611.06904v1",
-    "title": "Sublinear multi-type preferential attachment",
-    "authors": [
-      "Anna Ben-Hamou",
-      "Nicolas Broutin",
-      "Camille Cazaux"
-    ],
-    "published": "2026-11-04",
-    "curated_at": "2026-11-05",
-    "headline": "Sublinear Multi-Type Preferential Attachment for Community Detection in Growing Graphs",
-    "tldr": "We introduce a preferential attachment model with two node types that yields sublinear degree growth. The model captures community-dependent attachment probabilities and provides analytic results on degree distributions.",
-    "significance": "This work extends preferential attachment theory to heterogeneous communities, offering new insights into network evolution.",
-    "tags": [
-      "time-series",
-      "open-source",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "3fd8b418f9eb3c5dbccb006300f7390a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.06901v1",
-    "arxiv_id": "2611.06901v1",
-    "title": "Motion-guided Contrastive Regularization For Latent World Models",
-    "authors": [
-      "Yiwen Chen",
-      "Qiqi Hou",
-      "Jisoo Jeong"
-    ],
-    "published": "2026-11-04",
-    "curated_at": "2026-11-05",
-    "headline": "Preventing Static Collapse in JEPA-Style World Models with Motion-Guided Contrastive Regularization",
-    "tldr": "JEPA-style world models learn latent dynamics without reconstructing observations, but distributional regularization alone can lead to static collapse, where the encoder preserves episode-specific static content while ignoring manipulation-relevant state changes. The authors introduce motion-guided contrastive regularization to enforce that latent representations capture dynamic changes, improving control performance.",
-    "significance": "This work addresses a key failure mode in latent world models, enabling more reliable control by ensuring dynamic information is retained in the learned representations.",
-    "tags": [
-      "foundation-models",
-      "time-series",
-      "spatial-reasoning"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "fcb4ddf4682642f8d53a20ee109c41f4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05378v1",
-    "arxiv_id": "2611.05378v1",
-    "title": "Boundary $c\\leq1$ Liouville CFT from the Bootstrap",
-    "authors": [
-      "Panos Betzios",
-      "Paul Ghiringhelli",
-      "Olga Papadoulaki"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "Boundary Liouville CFT at c≤1: FZZT Conditions, Bootstrap, and Sewing Constraints",
-    "tldr": "We construct boundary Liouville CFT with FZZT-type conditions at c≤1, deriving missing boundary three-point and bulk-to-boundary constants via analytic bootstrap. The resulting theory satisfies Cardy–Lewellen sewing constraints on the disk and annulus.",
-    "significance": "This work completes the non-perturbative formulation of Liouville CFT at c≤1 with consistent boundary data, enabling further studies of 2D quantum gravity and string theory.",
-    "tags": [
-      "LLM",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "89a0efc6c58d3f1fe068cc85a9f10a9a",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05377v1",
-    "arxiv_id": "2611.05377v1",
-    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
-    "authors": [
-      "Jisoo Kim",
-      "Chaehyun Kim",
-      "Junsu Kim"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "DreamX: A Universal Video Diffusion Model for Action Representation Across Embodiments",
-    "tldr": "DreamX learns a universal action representation by modeling consistent dynamics across different executions while remaining invariant to embodiment and appearance. Unlike prior latent action models, it disentangles action from visual noise, enabling better transfer across varied agents.",
-    "significance": "This approach enables robust action transfer across diverse embodiments, advancing generalizable video understanding.",
-    "tags": [
-      "diffusion-models",
-      "foundation-models",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "13464bdc570b8cf75b15322fb3e325ad",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05376v1",
-    "arxiv_id": "2611.05376v1",
-    "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
-    "authors": [
-      "Hao Fei"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "From Autonomous Agents to Cognitive Symbionts: Enhancing Human Intelligence with AI",
-    "tldr": "Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the right words, and face hard choices without the benefit of their own history.",
-    "significance": "This article explores how AI can become a cognitive symbiont, augmenting human memory, attention, and decision-making.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "0ecb0e2535f267ccc75a72dc2b04c4c8",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05375v1",
-    "arxiv_id": "2611.05375v1",
-    "title": "Quantum Error Correction in Nearly Critical Toric Codes",
-    "authors": [
-      "Zack Weinstein",
-      "Samuel J. Garratt"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "Exploring Quantum Error Correction Near Criticality in Deformed Toric Codes",
-    "tldr": "We study how the transverse-field toric code protects quantum information as it approaches a phase transition, analyzing performance under independent bit-flip and phase-flip noise. Our results reveal that error-correcting capabilities degrade sharply near the critical point, offering insights for designing robust topological memories.",
-    "significance": "Understanding error correction near quantum phase transitions informs the limits of topological quantum memory stability.",
-    "tags": [
-      "benchmark",
-      "open-source"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "b375d015e5e02c6a9f3c00103076a9fd",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05374v1",
-    "arxiv_id": "2611.05374v1",
-    "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
-    "authors": [
-      "Ivan Martinez-Kay",
-      "Tatiana Kardashina",
-      "ShiNung Ching"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "Bayesian Biquad Filter-Burg Model Enhances Real-Time EEG Phase Estimation for Theta-Band",
-    "tldr": "This study introduces a Bayesian-optimized Biquad Filter-Burg model that improves real-time phase estimation of stimulus-aligned transient EEG in the theta band. Compared to conventional methods, it offers higher accuracy and lower latency, making it suitable for closed-loop neuromodulation.",
-    "significance": "The model provides a robust, low-latency solution for precise theta-band phase tracking, a critical component for effective closed-loop brain stimulation therapies.",
-    "tags": [
-      "time-series",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "d34fd3372a215a2c43e181d641c7c575",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05373v1",
-    "arxiv_id": "2611.05373v1",
-    "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
-    "authors": [
-      "Austin Tsai",
-      "Saurav Nanda",
-      "Ganapathy Parthasarathy"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "Aligning LLMs with General Preferences via Direct Nash Optimization for Robust Alignment",
-    "tldr": "This study re-implements Direct Nash Optimization (DNO) to align language models with arbitrary preference functions, using on-policy sampling, LLM-based ratings, and a DPO-style contrastive update. Experiments show DNO-Prct achieves competitive alignment performance while remaining computationally efficient.",
-    "significance": "It demonstrates a scalable, game-theoretic approach to LLM alignment that generalizes beyond reward modeling.",
-    "tags": [
-      "LLM",
-      "foundation-models",
-      "benchmark"
-    ],
-    "readtime": 3,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "737eca33939ef569be9a6d94d4d59e29",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05369v1",
-    "arxiv_id": "2611.05369v1",
-    "title": "Quantum Pointwise Dimension (QUPID): An algorithm for identifying classical chaos in quantum dynamics",
-    "authors": [
-      "Jonathan Berkheim",
-      "David J. Tannor"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "QUPID: Quantum Algorithm Detects Classical Chaos via Pointwise Dimension Analysis",
-    "tldr": "QUPID is a quantum algorithm that identifies classical chaotic behavior by computing the pointwise dimension of trajectories in phase space. It distinguishes regular motion confined to invariant tori from chaotic motion that fills higher-dimensional subsets.",
-    "significance": "This method bridges quantum dynamics and classical chaos theory, enabling precise diagnostics of chaotic regimes in quantum systems.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "open-source"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "d204ecaafc0d65fe9a8137df2e41c563",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05368v1",
-    "arxiv_id": "2611.05368v1",
-    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
-    "authors": [
-      "Shivin Dass",
-      "Kevin Nguyen",
-      "Rohan Yelandur"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "GUILD: Guided Iterative Data Collection Boosts Imitation Learning in Robotics",
-    "tldr": "GUILD introduces a guided, iterative approach to collect teleoperation data, focusing on high-impact samples. This method dramatically improves policy performance while reducing costly real-world data collection.",
-    "significance": "By strategically curating data, GUILD enables more efficient training of robotic policies, cutting down on expensive teleoperation time.",
-    "tags": [
-      "real-time",
-      "benchmark",
-      "time-series"
-    ],
-    "readtime": 2,
-    "difficulty": "intermediate"
-  },
-  {
-    "uid": "08efdf7c602faef3755ba5423465236b",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05365v1",
-    "arxiv_id": "2611.05365v1",
-    "title": "A wider state, not wider arithmetic, for single-precision time integration",
-    "authors": [
-      "Michael F. Barad"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "Single-Precision Time Integration: Reducing Memory, Speeding Computations, and Managing Rounding Errors",
-    "tldr": "Using single-precision floating point halves memory usage and can accelerate time integration on accelerators. A modified equation analysis separates rounding errors from truncation, enabling reliable high-performance simulations.",
-    "significance": "This approach allows large-scale simulations to run faster and more efficiently without sacrificing accuracy in the stored state.",
-    "tags": [
-      "time-series",
-      "real-time",
-      "benchmark"
-    ],
-    "readtime": 2,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "27168115fc52f222bcc7df99cac5c1e4",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05364v1",
-    "arxiv_id": "2611.05364v1",
-    "title": "Designing an Adaptive Robust and Evolutionary-Game Framework for Minimum Shipment Quotas in Capacity-Constrained Freight Markets",
-    "authors": [
-      "Hossein Mirzaee",
-      "Ali Keyvandarian",
-      "Hamed Samarghandi"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "Adaptive Robust Framework for Minimum Shipment Quotas in Capacity-Constrained Freight Markets",
-    "tldr": "This paper introduces an adaptive, robust, evolutionary-game framework that relaxes deterministic assumptions in minimum shipment quota regulation, allowing for dynamic market knowledge and convergence to equilibrium. The model improves allocation fairness for socially critical commodities in capacity-constrained freight markets.",
-    "significance": "It provides a more realistic and flexible regulatory tool that can adapt to market uncertainty and promote equitable access to essential goods.",
-    "tags": [
-      "time-series",
-      "spatial-reasoning",
-      "real-time"
-    ],
-    "readtime": 3,
-    "difficulty": "advanced"
-  },
-  {
-    "uid": "2d31985d26f9259160af08bbd7747321",
-    "source": "arxiv",
-    "url": "https://arxiv.org/abs/2611.05361v1",
-    "arxiv_id": "2611.05361v1",
-    "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
-    "authors": [
-      "Zhipeng Zhong",
-      "Matthew Coombes",
-      "Cunjia Liu"
-    ],
-    "published": "2026-11-03",
-    "curated_at": "2026-11-04",
-    "headline": "LiDAR-Based Reference Generation for Benchmarking 3D Reconstruction in Dense Vegetation",
-    "tldr": "We introduce a LiDAR-based pipeline that automatically generates geometric ground truth for evaluating visual 3D reconstruction and depth estimation in vegetation-rich outdoor scenes. This method enables zero-shot benchmarking of feed-forward visual-geometry models and traditional SfM approaches without costly full-scanner surveys.",
-    "significance": "Providing accurate, low-cost ground truth in challenging vegetation environments accelerates development and comparison of 3D reconstruction algorithms.",
-    "tags": [
-      "LiDAR",
-      "benchmark",
-      "point-cloud"
-    ],
-    "readtime": 3,
     "difficulty": "intermediate"
   }
 ]
